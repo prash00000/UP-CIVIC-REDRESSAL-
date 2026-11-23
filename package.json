@@ -1,0 +1,17 @@
+{
+  "name": "up-civic-grievance-helper",
+  "version": "1.0.0",
+  "description": "Frontend for UP Civic Grievance Helper - Independent citizen tool for Uttar Pradesh",
+  "type": "module",
+  "scripts": {
+    "build:data": "node scripts/build_data.js",
+    "build:pages": "node scripts/build_pages.js",
+    "build": "node scripts/build_data.js && node scripts/build_pages.js",
+    "test:unit": "node --test tests/unit.test.js",
+    "test:acceptance": "node tests/acceptance.test.js",
+    "test": "node --test tests/unit.test.js && node tests/acceptance.test.js"
+  },
+  "keywords": ["civic", "grievance", "uttar-pradesh", "citizen-tool"],
+  "author": "Independent Citizen Initiative",
+  "license": "MIT"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "UP Civic Grievance Helper",
+  "short_name": "UP Grievance",
+  "description": "Independent citizen tool to draft civic complaint letters and find designated administrative officers in Uttar Pradesh.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#005ea2",
+  "icons": [
+    {
+      "src": "/public/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/public/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>RTI Request Builder | Right to Information Uttar Pradesh</title>
+  <meta name="description" content="Draft a formal Right to Information (RTI) request for public work records, measurement books, and expenditure vouchers in Uttar Pradesh.">
+  <link rel="canonical" href="https://civic-grievance-up.netlify.app/rti/">
+  <link rel="alternate" hreflang="en" href="https://civic-grievance-up.netlify.app/rti/">
+  <link rel="alternate" hreflang="hi" href="https://civic-grievance-up.netlify.app/hi/rti/">
+  <link rel="alternate" hreflang="x-default" href="https://civic-grievance-up.netlify.app/">
+
+  <meta property="og:title" content="RTI Request Builder | Right to Information Uttar Pradesh">
+  <meta property="og:description" content="Draft a formal Right to Information (RTI) request for public work records, measurement books, and expenditure vouchers in Uttar Pradesh.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://civic-grievance-up.netlify.app/rti/">
+  <meta name="twitter:card" content="summary">
+
+  <link rel="manifest" href="/manifest.webmanifest">
+  <meta name="theme-color" content="#005ea2">
+
+  <link rel="stylesheet" href="/src/styles/tokens.css">
+  <link rel="stylesheet" href="/src/styles/base.css">
+  <link rel="stylesheet" href="/src/styles/components.css">
+  <link rel="stylesheet" href="/src/styles/print.css" media="print">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "name": "UP Civic Grievance Helper",
+        "url": "https://civic-grievance-up.netlify.app/",
+        "description": "Independent citizen tool for Uttar Pradesh civic complaints and officer directory",
+        "inLanguage": ["en", "hi"]
+      }
+      
+    ]
+  }
+  </script>
+</head>
+<body>
+  <a href="#main" class="skip-link">Skip to main content</a>
+  
+  
+  <div class="notice-banner" role="note" aria-label="Independence Notice">
+    <div class="container notice-banner-inner">
+      <span class="notice-banner-icon" aria-hidden="true">ℹ️</span>
+      <span>Independent citizen tool. Not a government website.</span>
+    </div>
+  </div>
+  <header class="site-header" role="banner">
+    <div class="container">
+      <div class="header-inner">
+        <a href="/" class="brand">
+          <span class="brand-title">UP Civic Grievance Helper</span>
+          <span class="brand-subtitle">Independent citizen tool for Uttar Pradesh</span>
+        </a>
+        <div class="header-actions">
+          <a href="tel:1076" class="btn btn-sm btn-call-1076" aria-label="Call Uttar Pradesh CM Helpline 1076">
+            📞 Call 1076
+          </a>
+          <a href="https://civic-grievance-up.netlify.app/hi/rti/" class="btn btn-sm btn-secondary" aria-label="Switch language to Hindi">
+            🌐 हिंदी
+          </a>
+          <label for="themeToggle" class="visually-hidden" style="display:none;">Theme</label>
+          <select id="themeToggle" class="select" style="min-height:36px; padding:4px 8px; font-size:13px; width:auto;">
+            <option value="system">System</option>
+            <option value="light">Light</option>
+            <option value="dark">Dark</option>
+          </select>
+        </div>
+      </div>
+      <nav class="site-nav" role="navigation" aria-label="Main navigation">
+        <a href="/" >Home</a>
+        <a href="/officers/" >Officers Directory</a>
+        <a href="/rti/" aria-current="page">RTI Builder</a>
+        <a href="/follow-up/" >30-Day Follow-Up</a>
+        <a href="/about/" >About</a>
+        <a href="/privacy/" >Privacy</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="main-content container" style="max-width: var(--tool-card-max);">
+    <h1>Right to Information (RTI) Request Builder</h1>
+
+    <!-- Important Notice: Request for records, NOT complaint -->
+    <div style="background: var(--info-bg); border-left: 4px solid var(--primary); padding: var(--space-2) var(--space-3); border-radius: var(--radius-sm); margin-bottom: var(--space-4);">
+      <h3 style="font-size: var(--text-base); margin-bottom: 4px;">ℹ️ Important: RTI is for public records, not complaints</h3>
+      <p style="font-size: var(--text-sm); margin-bottom: 0;">
+        The Right to Information Act, 2005 is strictly for inspecting and obtaining certified copies of existing government records (such as Measurement Books, muster rolls, technical sanctions, or payment vouchers). If you need an issue fixed, use the complaint tool on the home page. <br><a href="https://rtionline.up.gov.in" target="_blank" rel="noopener">Check current format and fee on the UP RTI portal (rtionline.up.gov.in) ↗</a>
+      </p>
+    </div>
+
+    <form id="rtiForm" style="background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-lg); padding: var(--space-3); margin-bottom: var(--space-4);">
+      <div class="grid grid-2">
+        <div class="form-group">
+          <label for="rtiName" class="form-label">Applicant Name *</label>
+          <input type="text" id="rtiName" class="input" placeholder="Your full name" required>
+        </div>
+        <div class="form-group">
+          <label for="rtiMobile" class="form-label">Mobile Number *</label>
+          <input type="tel" id="rtiMobile" class="input" placeholder="10-digit mobile" maxlength="10" required>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="rtiAddress" class="form-label">Postal Address *</label>
+        <input type="text" id="rtiAddress" class="input" placeholder="Village/Mohalla, Post, Block, District" required>
+      </div>
+
+      <div class="form-group">
+        <label for="rtiAuthority" class="form-label">Public Authority / Office *</label>
+        <input type="text" id="rtiAuthority" class="input" placeholder="e.g. Office of the Block Development Officer, Shahganj, Jaunpur" required>
+      </div>
+
+      <fieldset class="form-group" style="border: none;">
+        <legend class="form-label">Requested Records (Select all that apply)</legend>
+        <label class="checkbox-label">
+          <input type="checkbox" name="rtiRecord" value="Certified copy of Technical Sanction and detailed Estimate" checked>
+          <span>Technical Sanction & Estimate</span>
+        </label>
+        <label class="checkbox-label">
+          <input type="checkbox" name="rtiRecord" value="Certified copy of Measurement Book (MB) entries" checked>
+          <span>Measurement Book (MB) certified copy</span>
+        </label>
+        <label class="checkbox-label">
+          <input type="checkbox" name="rtiRecord" value="Muster rolls and laborer payment sheets" checked>
+          <span>Muster rolls & wage payments</span>
+        </label>
+        <label class="checkbox-label">
+          <input type="checkbox" name="rtiRecord" value="Material purchase bills and payment vouchers">
+          <span>Material purchase bills & vouchers</span>
+        </label>
+        <label class="checkbox-label">
+          <input type="checkbox" name="rtiRecord" value="Action Taken Report (ATR) on previous complaints">
+          <span>Action Taken Report (ATR)</span>
+        </label>
+      </fieldset>
+
+      <div class="form-group">
+        <label for="rtiCustomRecord" class="form-label">Additional Specific Records (Optional)</label>
+        <input type="text" id="rtiCustomRecord" class="input" placeholder="Type any other specific record requested...">
+      </div>
+
+      <div class="form-group">
+        <label for="rtiPeriod" class="form-label">Period / Financial Year</label>
+        <input type="text" id="rtiPeriod" class="input" placeholder="e.g. Financial Year 2025-2026">
+      </div>
+
+      <div class="form-group">
+        <label class="checkbox-label">
+          <input type="checkbox" id="rtiBpl">
+          <span>Applicant is Below Poverty Line (BPL) - statutory fee waiver</span>
+        </label>
+      </div>
+    </form>
+
+    <!-- RTI Letter Preview -->
+    <div class="letter-panel">
+      <h3>RTI Request Letter Preview</h3>
+      <div id="rtiPreviewText" class="letter-text" tabindex="0"></div>
+
+      <div class="letter-actions">
+        <button type="button" id="btnRtiCopy" class="btn btn-secondary">📋 Copy RTI Request</button>
+        <button type="button" id="btnRtiPrint" class="btn btn-secondary">🖨️ Print / Save as PDF</button>
+        <a id="btnRtiWhatsApp" href="#" target="_blank" rel="noopener" class="btn btn-secondary">💬 Share on WhatsApp</a>
+        <a href="https://rtionline.up.gov.in" target="_blank" rel="noopener" class="btn btn-primary">🌐 UP RTI Online Portal ↗</a>
+      </div>
+    </div>
+  </main>
+
+  
+  <footer class="site-footer" role="contentinfo">
+    <div class="container footer-inner">
+      <p>This site helps you write letters. It is not run by or connected to the Government of Uttar Pradesh, and it cannot guarantee a response. Officer details can change, so confirm them before you rely on them.</p>
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 8px;">
+        <ul class="footer-links">
+          <li><a href="/">Home</a></li>
+          <li><a href="/officers/">Officers Directory</a></li>
+          <li><a href="/rti/">RTI Builder</a></li>
+          <li><a href="/follow-up/">30-Day Follow-Up</a></li>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/privacy/">Privacy</a></li>
+          <li><a href="https://jansunwai.up.nic.in" target="_blank" rel="noopener">IGRS Jansunwai ↗</a></li>
+          <li><a href="https://rtionline.up.gov.in" target="_blank" rel="noopener">UP RTI Portal ↗</a></li>
+        </ul>
+        <button type="button" id="btnClearData" class="btn btn-sm btn-danger">Clear my data</button>
+      </div>
+      <p style="margin-top: 8px; color: var(--muted);">Data last updated: November 2026.</p>
+    </div>
+  </footer>
+  <div id="toastRegion" class="toast-region" aria-live="polite" aria-atomic="true"></div>
+  <div id="printSection" class="print-only">
+    <div id="printLetterBody" class="print-letter-body"></div>
+    <div class="print-stub">
+      <div class="print-stub-title">OFFICE RECEIVING STUB / पावती रसीद</div>
+      <div class="print-stub-grid">
+        <div class="print-stub-row">
+          <div class="print-stub-cell" style="width: 25%; font-weight: bold;">Diary / Receipt Number:</div>
+          <div class="print-stub-cell line" style="width: 75%;">&nbsp;</div>
+        </div>
+        <div class="print-stub-row">
+          <div class="print-stub-cell" style="font-weight: bold;">Date of Receipt:</div>
+          <div class="print-stub-cell line">&nbsp;</div>
+        </div>
+        <div class="print-stub-row">
+          <div class="print-stub-cell" style="font-weight: bold;">Receiving Officer Signature & Seal:</div>
+          <div class="print-stub-cell line" style="height: 40pt;">&nbsp;</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="/src/rti.js"></script>
+</body>
+</html>

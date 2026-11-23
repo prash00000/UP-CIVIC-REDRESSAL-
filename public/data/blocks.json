@@ -1,0 +1,7122 @@
+{
+  "version": "2026-11-23",
+  "districts": [
+    {
+      "slug": "agra",
+      "name": "Agra",
+      "name_hi": "आगरा",
+      "blocks": [
+        {
+          "slug": "achhnera",
+          "name": "Achhnera",
+          "name_hi": "Achhnera",
+          "aliases": [
+            "Achhnera"
+          ]
+        },
+        {
+          "slug": "akola",
+          "name": "Akola",
+          "name_hi": "Akola",
+          "aliases": [
+            "Akola"
+          ]
+        },
+        {
+          "slug": "bah",
+          "name": "Bah",
+          "name_hi": "Bah",
+          "aliases": [
+            "Bah"
+          ]
+        },
+        {
+          "slug": "barauli-ahir",
+          "name": "Barauli Ahir",
+          "name_hi": "Barauli Ahir",
+          "aliases": [
+            "BarauliAhir"
+          ]
+        },
+        {
+          "slug": "bichpuri",
+          "name": "Bichpuri",
+          "name_hi": "Bichpuri",
+          "aliases": [
+            "Bichpuri"
+          ]
+        },
+        {
+          "slug": "etmadpur",
+          "name": "Etmadpur",
+          "name_hi": "Etmadpur",
+          "aliases": [
+            "Etmadpur"
+          ]
+        },
+        {
+          "slug": "fatehabad",
+          "name": "Fatehabad",
+          "name_hi": "Fatehabad",
+          "aliases": [
+            "Fatehabad"
+          ]
+        },
+        {
+          "slug": "fatehpur-sikri",
+          "name": "Fatehpur Sikri",
+          "name_hi": "Fatehpur Sikri",
+          "aliases": [
+            "FatehpurSikri"
+          ]
+        },
+        {
+          "slug": "jagner",
+          "name": "Jagner",
+          "name_hi": "Jagner",
+          "aliases": [
+            "Jagner"
+          ]
+        },
+        {
+          "slug": "khandauli",
+          "name": "Khandauli",
+          "name_hi": "Khandauli",
+          "aliases": [
+            "Khandauli"
+          ]
+        },
+        {
+          "slug": "kheragarh",
+          "name": "Kheragarh",
+          "name_hi": "Kheragarh",
+          "aliases": [
+            "Kheragarh"
+          ]
+        },
+        {
+          "slug": "pinahat",
+          "name": "Pinahat",
+          "name_hi": "Pinahat",
+          "aliases": [
+            "Pinahat"
+          ]
+        },
+        {
+          "slug": "saiyan",
+          "name": "Saiyan",
+          "name_hi": "Saiyan",
+          "aliases": [
+            "Saiyan"
+          ]
+        },
+        {
+          "slug": "samsabad",
+          "name": "Samsabad",
+          "name_hi": "Samsabad",
+          "aliases": [
+            "Samsabad"
+          ]
+        },
+        {
+          "slug": "jaitpur-kalan",
+          "name": "Jaitpur Kalan",
+          "name_hi": "Jaitpur Kalan",
+          "aliases": [
+            "JaitpurKalan"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "aligarh",
+      "name": "Aligarh",
+      "name_hi": "अलीगढ़",
+      "blocks": [
+        {
+          "slug": "dhanipur",
+          "name": "Dhanipur",
+          "name_hi": "Dhanipur",
+          "aliases": [
+            "Dhanipur"
+          ]
+        },
+        {
+          "slug": "lodha",
+          "name": "Lodha",
+          "name_hi": "Lodha",
+          "aliases": [
+            "Lodha"
+          ]
+        },
+        {
+          "slug": "jawan-sikanderpur",
+          "name": "Jawan Sikanderpur",
+          "name_hi": "Jawan Sikanderpur",
+          "aliases": [
+            "JawanSikanderpur"
+          ]
+        },
+        {
+          "slug": "chandaus",
+          "name": "Chandaus",
+          "name_hi": "Chandaus",
+          "aliases": [
+            "Chandaus"
+          ]
+        },
+        {
+          "slug": "khair",
+          "name": "Khair",
+          "name_hi": "Khair",
+          "aliases": [
+            "Khair"
+          ]
+        },
+        {
+          "slug": "atrauli",
+          "name": "Atrauli",
+          "name_hi": "Atrauli",
+          "aliases": [
+            "Atrauli"
+          ]
+        },
+        {
+          "slug": "gangiri",
+          "name": "Gangiri",
+          "name_hi": "Gangiri",
+          "aliases": [
+            "Gangiri"
+          ]
+        },
+        {
+          "slug": "bijauli",
+          "name": "Bijauli",
+          "name_hi": "Bijauli",
+          "aliases": [
+            "Bijauli"
+          ]
+        },
+        {
+          "slug": "iglas",
+          "name": "Iglas",
+          "name_hi": "Iglas",
+          "aliases": [
+            "Iglas"
+          ]
+        },
+        {
+          "slug": "gonda",
+          "name": "Gonda",
+          "name_hi": "Gonda",
+          "aliases": [
+            "Gonda"
+          ]
+        },
+        {
+          "slug": "tappal",
+          "name": "Tappal",
+          "name_hi": "Tappal",
+          "aliases": [
+            "Tappal"
+          ]
+        },
+        {
+          "slug": "akrabad",
+          "name": "Akrabad",
+          "name_hi": "Akrabad",
+          "aliases": [
+            "Akrabad"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ambedkar-nagar",
+      "name": "Ambedkar Nagar",
+      "name_hi": "अंबेडकर नगर",
+      "blocks": [
+        {
+          "slug": "akbarpur",
+          "name": "Akbarpur",
+          "name_hi": "Akbarpur",
+          "aliases": [
+            "Akbarpur"
+          ]
+        },
+        {
+          "slug": "tanda",
+          "name": "Tanda",
+          "name_hi": "Tanda",
+          "aliases": [
+            "Tanda"
+          ]
+        },
+        {
+          "slug": "jalalpur",
+          "name": "Jalalpur",
+          "name_hi": "Jalalpur",
+          "aliases": [
+            "Jalalpur"
+          ]
+        },
+        {
+          "slug": "katehari",
+          "name": "Katehari",
+          "name_hi": "Katehari",
+          "aliases": [
+            "Katehari"
+          ]
+        },
+        {
+          "slug": "bhiyawan",
+          "name": "Bhiyawan",
+          "name_hi": "Bhiyawan",
+          "aliases": [
+            "Bhiyawan"
+          ]
+        },
+        {
+          "slug": "ramnagar",
+          "name": "Ramnagar",
+          "name_hi": "Ramnagar",
+          "aliases": [
+            "Ramnagar"
+          ]
+        },
+        {
+          "slug": "jahangirganj",
+          "name": "Jahangirganj",
+          "name_hi": "Jahangirganj",
+          "aliases": [
+            "Jahangirganj"
+          ]
+        },
+        {
+          "slug": "bhiti",
+          "name": "Bhiti",
+          "name_hi": "Bhiti",
+          "aliases": [
+            "Bhiti"
+          ]
+        },
+        {
+          "slug": "baskhari",
+          "name": "Baskhari",
+          "name_hi": "Baskhari",
+          "aliases": [
+            "Baskhari"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "amethi",
+      "name": "Amethi",
+      "name_hi": "अमेठी",
+      "blocks": [
+        {
+          "slug": "gauriganj",
+          "name": "Gauriganj",
+          "name_hi": "Gauriganj",
+          "aliases": [
+            "Gauriganj"
+          ]
+        },
+        {
+          "slug": "amethi",
+          "name": "Amethi",
+          "name_hi": "Amethi",
+          "aliases": [
+            "Amethi"
+          ]
+        },
+        {
+          "slug": "bhadar",
+          "name": "Bhadar",
+          "name_hi": "Bhadar",
+          "aliases": [
+            "Bhadar"
+          ]
+        },
+        {
+          "slug": "sangrampur",
+          "name": "Sangrampur",
+          "name_hi": "Sangrampur",
+          "aliases": [
+            "Sangrampur"
+          ]
+        },
+        {
+          "slug": "bhetua",
+          "name": "Bhetua",
+          "name_hi": "Bhetua",
+          "aliases": [
+            "Bhetua"
+          ]
+        },
+        {
+          "slug": "musafirkhana",
+          "name": "Musafirkhana",
+          "name_hi": "Musafirkhana",
+          "aliases": [
+            "Musafirkhana"
+          ]
+        },
+        {
+          "slug": "jagdishpur",
+          "name": "Jagdishpur",
+          "name_hi": "Jagdishpur",
+          "aliases": [
+            "Jagdishpur"
+          ]
+        },
+        {
+          "slug": "shukla-bazar",
+          "name": "Shukla Bazar",
+          "name_hi": "Shukla Bazar",
+          "aliases": [
+            "ShuklaBazar"
+          ]
+        },
+        {
+          "slug": "tiloi",
+          "name": "Tiloi",
+          "name_hi": "Tiloi",
+          "aliases": [
+            "Tiloi"
+          ]
+        },
+        {
+          "slug": "singhashanpur",
+          "name": "Singhashanpur",
+          "name_hi": "Singhashanpur",
+          "aliases": [
+            "Singhashanpur"
+          ]
+        },
+        {
+          "slug": "bahadurpur",
+          "name": "Bahadurpur",
+          "name_hi": "Bahadurpur",
+          "aliases": [
+            "Bahadurpur"
+          ]
+        },
+        {
+          "slug": "shahgarh",
+          "name": "Shahgarh",
+          "name_hi": "Shahgarh",
+          "aliases": [
+            "Shahgarh"
+          ]
+        },
+        {
+          "slug": "jamo",
+          "name": "Jamo",
+          "name_hi": "Jamo",
+          "aliases": [
+            "Jamo"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "amroha",
+      "name": "Amroha",
+      "name_hi": "अमरोहा",
+      "blocks": [
+        {
+          "slug": "amroha",
+          "name": "Amroha",
+          "name_hi": "Amroha",
+          "aliases": [
+            "Amroha"
+          ]
+        },
+        {
+          "slug": "dhanaura",
+          "name": "Dhanaura",
+          "name_hi": "Dhanaura",
+          "aliases": [
+            "Dhanaura"
+          ]
+        },
+        {
+          "slug": "gajraula",
+          "name": "Gajraula",
+          "name_hi": "Gajraula",
+          "aliases": [
+            "Gajraula"
+          ]
+        },
+        {
+          "slug": "hasanpur",
+          "name": "Hasanpur",
+          "name_hi": "Hasanpur",
+          "aliases": [
+            "Hasanpur"
+          ]
+        },
+        {
+          "slug": "joya",
+          "name": "Joya",
+          "name_hi": "Joya",
+          "aliases": [
+            "Joya"
+          ]
+        },
+        {
+          "slug": "gangeshwari",
+          "name": "Gangeshwari",
+          "name_hi": "Gangeshwari",
+          "aliases": [
+            "Gangeshwari"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "auraiya",
+      "name": "Auraiya",
+      "name_hi": "औरैया",
+      "blocks": [
+        {
+          "slug": "auraiya",
+          "name": "Auraiya",
+          "name_hi": "Auraiya",
+          "aliases": [
+            "Auraiya"
+          ]
+        },
+        {
+          "slug": "ajitmal",
+          "name": "Ajitmal",
+          "name_hi": "Ajitmal",
+          "aliases": [
+            "Ajitmal"
+          ]
+        },
+        {
+          "slug": "bhagyanagar",
+          "name": "Bhagyanagar",
+          "name_hi": "Bhagyanagar",
+          "aliases": [
+            "Bhagyanagar"
+          ]
+        },
+        {
+          "slug": "bidhuna",
+          "name": "Bidhuna",
+          "name_hi": "Bidhuna",
+          "aliases": [
+            "Bidhuna"
+          ]
+        },
+        {
+          "slug": "achhalda",
+          "name": "Achhalda",
+          "name_hi": "Achhalda",
+          "aliases": [
+            "Achhalda"
+          ]
+        },
+        {
+          "slug": "sahar",
+          "name": "Sahar",
+          "name_hi": "Sahar",
+          "aliases": [
+            "Sahar"
+          ]
+        },
+        {
+          "slug": "erwa-katra",
+          "name": "Erwa Katra",
+          "name_hi": "Erwa Katra",
+          "aliases": [
+            "ErwaKatra"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ayodhya",
+      "name": "Ayodhya",
+      "name_hi": "अयोध्या",
+      "blocks": [
+        {
+          "slug": "masodha",
+          "name": "Masodha",
+          "name_hi": "Masodha",
+          "aliases": [
+            "Masodha"
+          ]
+        },
+        {
+          "slug": "pura-bazar",
+          "name": "Pura Bazar",
+          "name_hi": "Pura Bazar",
+          "aliases": [
+            "PuraBazar"
+          ]
+        },
+        {
+          "slug": "maya-bazar",
+          "name": "Maya Bazar",
+          "name_hi": "Maya Bazar",
+          "aliases": [
+            "MayaBazar"
+          ]
+        },
+        {
+          "slug": "amaniganj",
+          "name": "Amaniganj",
+          "name_hi": "Amaniganj",
+          "aliases": [
+            "Amaniganj"
+          ]
+        },
+        {
+          "slug": "milkipur",
+          "name": "Milkipur",
+          "name_hi": "Milkipur",
+          "aliases": [
+            "Milkipur"
+          ]
+        },
+        {
+          "slug": "harringtonganj",
+          "name": "Harringtonganj",
+          "name_hi": "Harringtonganj",
+          "aliases": [
+            "Harringtonganj"
+          ]
+        },
+        {
+          "slug": "bikapur",
+          "name": "Bikapur",
+          "name_hi": "Bikapur",
+          "aliases": [
+            "Bikapur"
+          ]
+        },
+        {
+          "slug": "tarun",
+          "name": "Tarun",
+          "name_hi": "Tarun",
+          "aliases": [
+            "Tarun"
+          ]
+        },
+        {
+          "slug": "rudauli",
+          "name": "Rudauli",
+          "name_hi": "Rudauli",
+          "aliases": [
+            "Rudauli"
+          ]
+        },
+        {
+          "slug": "mawai",
+          "name": "Mawai",
+          "name_hi": "Mawai",
+          "aliases": [
+            "Mawai"
+          ]
+        },
+        {
+          "slug": "sohawal",
+          "name": "Sohawal",
+          "name_hi": "Sohawal",
+          "aliases": [
+            "Sohawal"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "azamgarh",
+      "name": "Azamgarh",
+      "name_hi": "आजमगढ़",
+      "blocks": [
+        {
+          "slug": "palhani",
+          "name": "Palhani",
+          "name_hi": "Palhani",
+          "aliases": [
+            "Palhani"
+          ]
+        },
+        {
+          "slug": "rani-ki-sarai",
+          "name": "Rani Ki Sarai",
+          "name_hi": "Rani Ki Sarai",
+          "aliases": [
+            "RaniKiSarai"
+          ]
+        },
+        {
+          "slug": "sathiaon",
+          "name": "Sathiaon",
+          "name_hi": "Sathiaon",
+          "aliases": [
+            "Sathiaon"
+          ]
+        },
+        {
+          "slug": "jahanaganj",
+          "name": "Jahanaganj",
+          "name_hi": "Jahanaganj",
+          "aliases": [
+            "Jahanaganj"
+          ]
+        },
+        {
+          "slug": "tahbarpur",
+          "name": "Tahbarpur",
+          "name_hi": "Tahbarpur",
+          "aliases": [
+            "Tahbarpur"
+          ]
+        },
+        {
+          "slug": "koyelsa",
+          "name": "Koyelsa",
+          "name_hi": "Koyelsa",
+          "aliases": [
+            "Koyelsa"
+          ]
+        },
+        {
+          "slug": "atraulia",
+          "name": "Atraulia",
+          "name_hi": "Atraulia",
+          "aliases": [
+            "Atraulia"
+          ]
+        },
+        {
+          "slug": "ahiraula",
+          "name": "Ahiraula",
+          "name_hi": "Ahiraula",
+          "aliases": [
+            "Ahiraula"
+          ]
+        },
+        {
+          "slug": "phoolpur",
+          "name": "Phoolpur",
+          "name_hi": "Phoolpur",
+          "aliases": [
+            "Phoolpur"
+          ]
+        },
+        {
+          "slug": "pawani",
+          "name": "Pawani",
+          "name_hi": "Pawani",
+          "aliases": [
+            "Pawani"
+          ]
+        },
+        {
+          "slug": "martinganj",
+          "name": "Martinganj",
+          "name_hi": "Martinganj",
+          "aliases": [
+            "Martinganj"
+          ]
+        },
+        {
+          "slug": "thekma",
+          "name": "Thekma",
+          "name_hi": "Thekma",
+          "aliases": [
+            "Thekma"
+          ]
+        },
+        {
+          "slug": "lalganj",
+          "name": "Lalganj",
+          "name_hi": "Lalganj",
+          "aliases": [
+            "Lalganj"
+          ]
+        },
+        {
+          "slug": "tarwa",
+          "name": "Tarwa",
+          "name_hi": "Tarwa",
+          "aliases": [
+            "Tarwa"
+          ]
+        },
+        {
+          "slug": "mehnagar",
+          "name": "Mehnagar",
+          "name_hi": "Mehnagar",
+          "aliases": [
+            "Mehnagar"
+          ]
+        },
+        {
+          "slug": "bilariyaganj",
+          "name": "Bilariyaganj",
+          "name_hi": "Bilariyaganj",
+          "aliases": [
+            "Bilariyaganj"
+          ]
+        },
+        {
+          "slug": "maharajganj",
+          "name": "Maharajganj",
+          "name_hi": "Maharajganj",
+          "aliases": [
+            "Maharajganj"
+          ]
+        },
+        {
+          "slug": "haraiya",
+          "name": "Haraiya",
+          "name_hi": "Haraiya",
+          "aliases": [
+            "Haraiya"
+          ]
+        },
+        {
+          "slug": "mirzapur",
+          "name": "Mirzapur",
+          "name_hi": "Mirzapur",
+          "aliases": [
+            "Mirzapur"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "baghpat",
+      "name": "Baghpat",
+      "name_hi": "बागपत",
+      "blocks": [
+        {
+          "slug": "baghpat",
+          "name": "Baghpat",
+          "name_hi": "Baghpat",
+          "aliases": [
+            "Baghpat"
+          ]
+        },
+        {
+          "slug": "baraut",
+          "name": "Baraut",
+          "name_hi": "Baraut",
+          "aliases": [
+            "Baraut"
+          ]
+        },
+        {
+          "slug": "binauli",
+          "name": "Binauli",
+          "name_hi": "Binauli",
+          "aliases": [
+            "Binauli"
+          ]
+        },
+        {
+          "slug": "chhaprauli",
+          "name": "Chhaprauli",
+          "name_hi": "Chhaprauli",
+          "aliases": [
+            "Chhaprauli"
+          ]
+        },
+        {
+          "slug": "khekra",
+          "name": "Khekra",
+          "name_hi": "Khekra",
+          "aliases": [
+            "Khekra"
+          ]
+        },
+        {
+          "slug": "pilana",
+          "name": "Pilana",
+          "name_hi": "Pilana",
+          "aliases": [
+            "Pilana"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bahraich",
+      "name": "Bahraich",
+      "name_hi": "बहराइच",
+      "blocks": [
+        {
+          "slug": "chittaura",
+          "name": "Chittaura",
+          "name_hi": "Chittaura",
+          "aliases": [
+            "Chittaura"
+          ]
+        },
+        {
+          "slug": "visheshwarganj",
+          "name": "Visheshwarganj",
+          "name_hi": "Visheshwarganj",
+          "aliases": [
+            "Visheshwarganj"
+          ]
+        },
+        {
+          "slug": "payagpur",
+          "name": "Payagpur",
+          "name_hi": "Payagpur",
+          "aliases": [
+            "Payagpur"
+          ]
+        },
+        {
+          "slug": "huzoorpur",
+          "name": "Huzoorpur",
+          "name_hi": "Huzoorpur",
+          "aliases": [
+            "Huzoorpur"
+          ]
+        },
+        {
+          "slug": "kaisarganj",
+          "name": "Kaisarganj",
+          "name_hi": "Kaisarganj",
+          "aliases": [
+            "Kaisarganj"
+          ]
+        },
+        {
+          "slug": "jarwal",
+          "name": "Jarwal",
+          "name_hi": "Jarwal",
+          "aliases": [
+            "Jarwal"
+          ]
+        },
+        {
+          "slug": "fakharpur",
+          "name": "Fakharpur",
+          "name_hi": "Fakharpur",
+          "aliases": [
+            "Fakharpur"
+          ]
+        },
+        {
+          "slug": "tajwapur",
+          "name": "Tajwapur",
+          "name_hi": "Tajwapur",
+          "aliases": [
+            "Tajwapur"
+          ]
+        },
+        {
+          "slug": "mahasi",
+          "name": "Mahasi",
+          "name_hi": "Mahasi",
+          "aliases": [
+            "Mahasi"
+          ]
+        },
+        {
+          "slug": "shivpur",
+          "name": "Shivpur",
+          "name_hi": "Shivpur",
+          "aliases": [
+            "Shivpur"
+          ]
+        },
+        {
+          "slug": "nanpara",
+          "name": "Nanpara",
+          "name_hi": "Nanpara",
+          "aliases": [
+            "Nanpara"
+          ]
+        },
+        {
+          "slug": "bawabganj",
+          "name": "Bawabganj",
+          "name_hi": "Bawabganj",
+          "aliases": [
+            "Bawabganj"
+          ]
+        },
+        {
+          "slug": "mihinpurwa",
+          "name": "Mihinpurwa",
+          "name_hi": "Mihinpurwa",
+          "aliases": [
+            "Mihinpurwa"
+          ]
+        },
+        {
+          "slug": "risia",
+          "name": "Risia",
+          "name_hi": "Risia",
+          "aliases": [
+            "Risia"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ballia",
+      "name": "Ballia",
+      "name_hi": "बलिया",
+      "blocks": [
+        {
+          "slug": "dubhad",
+          "name": "Dubhad",
+          "name_hi": "Dubhad",
+          "aliases": [
+            "Dubhad"
+          ]
+        },
+        {
+          "slug": "hanumanganj",
+          "name": "Hanumanganj",
+          "name_hi": "Hanumanganj",
+          "aliases": [
+            "Hanumanganj"
+          ]
+        },
+        {
+          "slug": "garwar",
+          "name": "Garwar",
+          "name_hi": "Garwar",
+          "aliases": [
+            "Garwar"
+          ]
+        },
+        {
+          "slug": "bansdih",
+          "name": "Bansdih",
+          "name_hi": "Bansdih",
+          "aliases": [
+            "Bansdih"
+          ]
+        },
+        {
+          "slug": "beruarbari",
+          "name": "Beruarbari",
+          "name_hi": "Beruarbari",
+          "aliases": [
+            "Beruarbari"
+          ]
+        },
+        {
+          "slug": "reoti",
+          "name": "Reoti",
+          "name_hi": "Reoti",
+          "aliases": [
+            "Reoti"
+          ]
+        },
+        {
+          "slug": "bairia",
+          "name": "Bairia",
+          "name_hi": "Bairia",
+          "aliases": [
+            "Bairia"
+          ]
+        },
+        {
+          "slug": "muralichhapra",
+          "name": "Muralichhapra",
+          "name_hi": "Muralichhapra",
+          "aliases": [
+            "Muralichhapra"
+          ]
+        },
+        {
+          "slug": "sikanderpur",
+          "name": "Sikanderpur",
+          "name_hi": "Sikanderpur",
+          "aliases": [
+            "Sikanderpur"
+          ]
+        },
+        {
+          "slug": "pandah",
+          "name": "Pandah",
+          "name_hi": "Pandah",
+          "aliases": [
+            "Pandah"
+          ]
+        },
+        {
+          "slug": "maniyar",
+          "name": "Maniyar",
+          "name_hi": "Maniyar",
+          "aliases": [
+            "Maniyar"
+          ]
+        },
+        {
+          "slug": "nawanagar",
+          "name": "Nawanagar",
+          "name_hi": "Nawanagar",
+          "aliases": [
+            "Nawanagar"
+          ]
+        },
+        {
+          "slug": "rasra",
+          "name": "Rasra",
+          "name_hi": "Rasra",
+          "aliases": [
+            "Rasra"
+          ]
+        },
+        {
+          "slug": "chilkahar",
+          "name": "Chilkahar",
+          "name_hi": "Chilkahar",
+          "aliases": [
+            "Chilkahar"
+          ]
+        },
+        {
+          "slug": "sohnaon",
+          "name": "Sohnaon",
+          "name_hi": "Sohnaon",
+          "aliases": [
+            "Sohnaon"
+          ]
+        },
+        {
+          "slug": "nagra",
+          "name": "Nagra",
+          "name_hi": "Nagra",
+          "aliases": [
+            "Nagra"
+          ]
+        },
+        {
+          "slug": "siarchor",
+          "name": "Siarchor",
+          "name_hi": "Siarchor",
+          "aliases": [
+            "Siarchor"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "balrampur",
+      "name": "Balrampur",
+      "name_hi": "बलरामपुर",
+      "blocks": [
+        {
+          "slug": "balrampur",
+          "name": "Balrampur",
+          "name_hi": "Balrampur",
+          "aliases": [
+            "Balrampur"
+          ]
+        },
+        {
+          "slug": "tulsipur",
+          "name": "Tulsipur",
+          "name_hi": "Tulsipur",
+          "aliases": [
+            "Tulsipur"
+          ]
+        },
+        {
+          "slug": "gainsari",
+          "name": "Gainsari",
+          "name_hi": "Gainsari",
+          "aliases": [
+            "Gainsari"
+          ]
+        },
+        {
+          "slug": "pachperwa",
+          "name": "Pachperwa",
+          "name_hi": "Pachperwa",
+          "aliases": [
+            "Pachperwa"
+          ]
+        },
+        {
+          "slug": "utraula",
+          "name": "Utraula",
+          "name_hi": "Utraula",
+          "aliases": [
+            "Utraula"
+          ]
+        },
+        {
+          "slug": "rehra-bazar",
+          "name": "Rehra Bazar",
+          "name_hi": "Rehra Bazar",
+          "aliases": [
+            "RehraBazar"
+          ]
+        },
+        {
+          "slug": "gaindas-bujurg",
+          "name": "Gaindas Bujurg",
+          "name_hi": "Gaindas Bujurg",
+          "aliases": [
+            "GaindasBujurg"
+          ]
+        },
+        {
+          "slug": "shriduttganj",
+          "name": "Shriduttganj",
+          "name_hi": "Shriduttganj",
+          "aliases": [
+            "Shriduttganj"
+          ]
+        },
+        {
+          "slug": "shivpura",
+          "name": "Shivpura",
+          "name_hi": "Shivpura",
+          "aliases": [
+            "Shivpura"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "banda",
+      "name": "Banda",
+      "name_hi": "बांदा",
+      "blocks": [
+        {
+          "slug": "badokhar-khurd",
+          "name": "Badokhar Khurd",
+          "name_hi": "Badokhar Khurd",
+          "aliases": [
+            "BadokharKhurd"
+          ]
+        },
+        {
+          "slug": "mahua",
+          "name": "Mahua",
+          "name_hi": "Mahua",
+          "aliases": [
+            "Mahua"
+          ]
+        },
+        {
+          "slug": "tindwari",
+          "name": "Tindwari",
+          "name_hi": "Tindwari",
+          "aliases": [
+            "Tindwari"
+          ]
+        },
+        {
+          "slug": "baberu",
+          "name": "Baberu",
+          "name_hi": "Baberu",
+          "aliases": [
+            "Baberu"
+          ]
+        },
+        {
+          "slug": "bisanda",
+          "name": "Bisanda",
+          "name_hi": "Bisanda",
+          "aliases": [
+            "Bisanda"
+          ]
+        },
+        {
+          "slug": "kamasin",
+          "name": "Kamasin",
+          "name_hi": "Kamasin",
+          "aliases": [
+            "Kamasin"
+          ]
+        },
+        {
+          "slug": "naraini",
+          "name": "Naraini",
+          "name_hi": "Naraini",
+          "aliases": [
+            "Naraini"
+          ]
+        },
+        {
+          "slug": "jaspura",
+          "name": "Jaspura",
+          "name_hi": "Jaspura",
+          "aliases": [
+            "Jaspura"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "barabanki",
+      "name": "Barabanki",
+      "name_hi": "बाराबंकी",
+      "blocks": [
+        {
+          "slug": "banki",
+          "name": "Banki",
+          "name_hi": "Banki",
+          "aliases": [
+            "Banki"
+          ]
+        },
+        {
+          "slug": "masauli",
+          "name": "Masauli",
+          "name_hi": "Masauli",
+          "aliases": [
+            "Masauli"
+          ]
+        },
+        {
+          "slug": "dewan",
+          "name": "Dewan",
+          "name_hi": "Dewan",
+          "aliases": [
+            "Dewan"
+          ]
+        },
+        {
+          "slug": "fatehpur",
+          "name": "Fatehpur",
+          "name_hi": "Fatehpur",
+          "aliases": [
+            "Fatehpur"
+          ]
+        },
+        {
+          "slug": "nindoora",
+          "name": "Nindoora",
+          "name_hi": "Nindoora",
+          "aliases": [
+            "Nindoora"
+          ]
+        },
+        {
+          "slug": "ramnagar",
+          "name": "Ramnagar",
+          "name_hi": "Ramnagar",
+          "aliases": [
+            "Ramnagar"
+          ]
+        },
+        {
+          "slug": "sirauli-ghauspur",
+          "name": "Sirauli Ghauspur",
+          "name_hi": "Sirauli Ghauspur",
+          "aliases": [
+            "SirauliGhauspur"
+          ]
+        },
+        {
+          "slug": "dariyabad",
+          "name": "Dariyabad",
+          "name_hi": "Dariyabad",
+          "aliases": [
+            "Dariyabad"
+          ]
+        },
+        {
+          "slug": "suratganj",
+          "name": "Suratganj",
+          "name_hi": "Suratganj",
+          "aliases": [
+            "Suratganj"
+          ]
+        },
+        {
+          "slug": "rudauli",
+          "name": "Rudauli",
+          "name_hi": "Rudauli",
+          "aliases": [
+            "Rudauli"
+          ]
+        },
+        {
+          "slug": "bani-kodar",
+          "name": "Bani Kodar",
+          "name_hi": "Bani Kodar",
+          "aliases": [
+            "BaniKodar"
+          ]
+        },
+        {
+          "slug": "haidergarh",
+          "name": "Haidergarh",
+          "name_hi": "Haidergarh",
+          "aliases": [
+            "Haidergarh"
+          ]
+        },
+        {
+          "slug": "siddhaur",
+          "name": "Siddhaur",
+          "name_hi": "Siddhaur",
+          "aliases": [
+            "Siddhaur"
+          ]
+        },
+        {
+          "slug": "trivediganj",
+          "name": "Trivediganj",
+          "name_hi": "Trivediganj",
+          "aliases": [
+            "Trivediganj"
+          ]
+        },
+        {
+          "slug": "harakh",
+          "name": "Harakh",
+          "name_hi": "Harakh",
+          "aliases": [
+            "Harakh"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bareilly",
+      "name": "Bareilly",
+      "name_hi": "बरेली",
+      "blocks": [
+        {
+          "slug": "bhojipura",
+          "name": "Bhojipura",
+          "name_hi": "Bhojipura",
+          "aliases": [
+            "Bhojipura"
+          ]
+        },
+        {
+          "slug": "bithri-chainpur",
+          "name": "Bithri Chainpur",
+          "name_hi": "Bithri Chainpur",
+          "aliases": [
+            "BithriChainpur"
+          ]
+        },
+        {
+          "slug": "fatehganj-paschim",
+          "name": "Fatehganj Paschim",
+          "name_hi": "Fatehganj Paschim",
+          "aliases": [
+            "FatehganjPaschim"
+          ]
+        },
+        {
+          "slug": "kyara",
+          "name": "Kyara",
+          "name_hi": "Kyara",
+          "aliases": [
+            "Kyara"
+          ]
+        },
+        {
+          "slug": "baheri",
+          "name": "Baheri",
+          "name_hi": "Baheri",
+          "aliases": [
+            "Baheri"
+          ]
+        },
+        {
+          "slug": "damkhoda",
+          "name": "Damkhoda",
+          "name_hi": "Damkhoda",
+          "aliases": [
+            "Damkhoda"
+          ]
+        },
+        {
+          "slug": "shergarh",
+          "name": "Shergarh",
+          "name_hi": "Shergarh",
+          "aliases": [
+            "Shergarh"
+          ]
+        },
+        {
+          "slug": "richha",
+          "name": "Richha",
+          "name_hi": "Richha",
+          "aliases": [
+            "Richha"
+          ]
+        },
+        {
+          "slug": "mirganj",
+          "name": "Mirganj",
+          "name_hi": "Mirganj",
+          "aliases": [
+            "Mirganj"
+          ]
+        },
+        {
+          "slug": "fatehganj-purvi",
+          "name": "Fatehganj Purvi",
+          "name_hi": "Fatehganj Purvi",
+          "aliases": [
+            "FatehganjPurvi"
+          ]
+        },
+        {
+          "slug": "faridpur",
+          "name": "Faridpur",
+          "name_hi": "Faridpur",
+          "aliases": [
+            "Faridpur"
+          ]
+        },
+        {
+          "slug": "bhuta",
+          "name": "Bhuta",
+          "name_hi": "Bhuta",
+          "aliases": [
+            "Bhuta"
+          ]
+        },
+        {
+          "slug": "aonla",
+          "name": "Aonla",
+          "name_hi": "Aonla",
+          "aliases": [
+            "Aonla"
+          ]
+        },
+        {
+          "slug": "alampur-jafrabad",
+          "name": "Alampur Jafrabad",
+          "name_hi": "Alampur Jafrabad",
+          "aliases": [
+            "AlampurJafrabad"
+          ]
+        },
+        {
+          "slug": "majhgawan",
+          "name": "Majhgawan",
+          "name_hi": "Majhgawan",
+          "aliases": [
+            "Majhgawan"
+          ]
+        },
+        {
+          "slug": "ramnagar",
+          "name": "Ramnagar",
+          "name_hi": "Ramnagar",
+          "aliases": [
+            "Ramnagar"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "basti",
+      "name": "Basti",
+      "name_hi": "बस्ती",
+      "blocks": [
+        {
+          "slug": "basti-sadar",
+          "name": "Basti Sadar",
+          "name_hi": "Basti Sadar",
+          "aliases": [
+            "BastiSadar"
+          ]
+        },
+        {
+          "slug": "bahadurpur",
+          "name": "Bahadurpur",
+          "name_hi": "Bahadurpur",
+          "aliases": [
+            "Bahadurpur"
+          ]
+        },
+        {
+          "slug": "bankati",
+          "name": "Bankati",
+          "name_hi": "Bankati",
+          "aliases": [
+            "Bankati"
+          ]
+        },
+        {
+          "slug": "kaptanganj",
+          "name": "Kaptanganj",
+          "name_hi": "Kaptanganj",
+          "aliases": [
+            "Kaptanganj"
+          ]
+        },
+        {
+          "slug": "kudraha",
+          "name": "Kudraha",
+          "name_hi": "Kudraha",
+          "aliases": [
+            "Kudraha"
+          ]
+        },
+        {
+          "slug": "rampur-manjhari",
+          "name": "Rampur Manjhari",
+          "name_hi": "Rampur Manjhari",
+          "aliases": [
+            "RampurManjhari"
+          ]
+        },
+        {
+          "slug": "saunghat",
+          "name": "Saunghat",
+          "name_hi": "Saunghat",
+          "aliases": [
+            "Saunghat"
+          ]
+        },
+        {
+          "slug": "harraiya",
+          "name": "Harraiya",
+          "name_hi": "Harraiya",
+          "aliases": [
+            "Harraiya"
+          ]
+        },
+        {
+          "slug": "vikram-jot",
+          "name": "Vikram Jot",
+          "name_hi": "Vikram Jot",
+          "aliases": [
+            "VikramJot"
+          ]
+        },
+        {
+          "slug": "paras-rampur",
+          "name": "Paras Rampur",
+          "name_hi": "Paras Rampur",
+          "aliases": [
+            "ParasRampur"
+          ]
+        },
+        {
+          "slug": "gaur",
+          "name": "Gaur",
+          "name_hi": "Gaur",
+          "aliases": [
+            "Gaur"
+          ]
+        },
+        {
+          "slug": "chhitahi",
+          "name": "Chhitahi",
+          "name_hi": "Chhitahi",
+          "aliases": [
+            "Chhitahi"
+          ]
+        },
+        {
+          "slug": "bhanpur",
+          "name": "Bhanpur",
+          "name_hi": "Bhanpur",
+          "aliases": [
+            "Bhanpur"
+          ]
+        },
+        {
+          "slug": "ramnagar",
+          "name": "Ramnagar",
+          "name_hi": "Ramnagar",
+          "aliases": [
+            "Ramnagar"
+          ]
+        },
+        {
+          "slug": "rudhauli",
+          "name": "Rudhauli",
+          "name_hi": "Rudhauli",
+          "aliases": [
+            "Rudhauli"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bhadohi",
+      "name": "Bhadohi",
+      "name_hi": "भदोही",
+      "blocks": [
+        {
+          "slug": "gyanpur",
+          "name": "Gyanpur",
+          "name_hi": "Gyanpur",
+          "aliases": [
+            "Gyanpur"
+          ]
+        },
+        {
+          "slug": "deeh",
+          "name": "Deeh",
+          "name_hi": "Deeh",
+          "aliases": [
+            "Deeh"
+          ]
+        },
+        {
+          "slug": "abholi",
+          "name": "Abholi",
+          "name_hi": "Abholi",
+          "aliases": [
+            "Abholi"
+          ]
+        },
+        {
+          "slug": "bhadohi",
+          "name": "Bhadohi",
+          "name_hi": "Bhadohi",
+          "aliases": [
+            "Bhadohi"
+          ]
+        },
+        {
+          "slug": "suriyawan",
+          "name": "Suriyawan",
+          "name_hi": "Suriyawan",
+          "aliases": [
+            "Suriyawan"
+          ]
+        },
+        {
+          "slug": "aurai",
+          "name": "Aurai",
+          "name_hi": "Aurai",
+          "aliases": [
+            "Aurai"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bijnor",
+      "name": "Bijnor",
+      "name_hi": "बिजनौर",
+      "blocks": [
+        {
+          "slug": "mohammedpur-deomal",
+          "name": "Mohammedpur Deomal",
+          "name_hi": "Mohammedpur Deomal",
+          "aliases": [
+            "MohammedpurDeomal"
+          ]
+        },
+        {
+          "slug": "haldaur",
+          "name": "Haldaur",
+          "name_hi": "Haldaur",
+          "aliases": [
+            "Haldaur"
+          ]
+        },
+        {
+          "slug": "kiratpur",
+          "name": "Kiratpur",
+          "name_hi": "Kiratpur",
+          "aliases": [
+            "Kiratpur"
+          ]
+        },
+        {
+          "slug": "kotwali",
+          "name": "Kotwali",
+          "name_hi": "Kotwali",
+          "aliases": [
+            "Kotwali"
+          ]
+        },
+        {
+          "slug": "najibabad",
+          "name": "Najibabad",
+          "name_hi": "Najibabad",
+          "aliases": [
+            "Najibabad"
+          ]
+        },
+        {
+          "slug": "nehtaur",
+          "name": "Nehtaur",
+          "name_hi": "Nehtaur",
+          "aliases": [
+            "Nehtaur"
+          ]
+        },
+        {
+          "slug": "dhampur",
+          "name": "Dhampur",
+          "name_hi": "Dhampur",
+          "aliases": [
+            "Dhampur"
+          ]
+        },
+        {
+          "slug": "afzalgarh",
+          "name": "Afzalgarh",
+          "name_hi": "Afzalgarh",
+          "aliases": [
+            "Afzalgarh"
+          ]
+        },
+        {
+          "slug": "allahpur",
+          "name": "Allahpur",
+          "name_hi": "Allahpur",
+          "aliases": [
+            "Allahpur"
+          ]
+        },
+        {
+          "slug": "noorpur",
+          "name": "Noorpur",
+          "name_hi": "Noorpur",
+          "aliases": [
+            "Noorpur"
+          ]
+        },
+        {
+          "slug": "jalilpur",
+          "name": "Jalilpur",
+          "name_hi": "Jalilpur",
+          "aliases": [
+            "Jalilpur"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "budaun",
+      "name": "Budaun",
+      "name_hi": "बदायूँ",
+      "blocks": [
+        {
+          "slug": "salarpur",
+          "name": "Salarpur",
+          "name_hi": "Salarpur",
+          "aliases": [
+            "Salarpur"
+          ]
+        },
+        {
+          "slug": "ujhani",
+          "name": "Ujhani",
+          "name_hi": "Ujhani",
+          "aliases": [
+            "Ujhani"
+          ]
+        },
+        {
+          "slug": "qadar-chowk",
+          "name": "Qadar Chowk",
+          "name_hi": "Qadar Chowk",
+          "aliases": [
+            "QadarChowk"
+          ]
+        },
+        {
+          "slug": "jagat",
+          "name": "Jagat",
+          "name_hi": "Jagat",
+          "aliases": [
+            "Jagat"
+          ]
+        },
+        {
+          "slug": "bisauli",
+          "name": "Bisauli",
+          "name_hi": "Bisauli",
+          "aliases": [
+            "Bisauli"
+          ]
+        },
+        {
+          "slug": "asafpur",
+          "name": "Asafpur",
+          "name_hi": "Asafpur",
+          "aliases": [
+            "Asafpur"
+          ]
+        },
+        {
+          "slug": "wazirganj",
+          "name": "Wazirganj",
+          "name_hi": "Wazirganj",
+          "aliases": [
+            "Wazirganj"
+          ]
+        },
+        {
+          "slug": "sahaswan",
+          "name": "Sahaswan",
+          "name_hi": "Sahaswan",
+          "aliases": [
+            "Sahaswan"
+          ]
+        },
+        {
+          "slug": "ambiapur",
+          "name": "Ambiapur",
+          "name_hi": "Ambiapur",
+          "aliases": [
+            "Ambiapur"
+          ]
+        },
+        {
+          "slug": "bilsi",
+          "name": "Bilsi",
+          "name_hi": "Bilsi",
+          "aliases": [
+            "Bilsi"
+          ]
+        },
+        {
+          "slug": "islamnagar",
+          "name": "Islamnagar",
+          "name_hi": "Islamnagar",
+          "aliases": [
+            "Islamnagar"
+          ]
+        },
+        {
+          "slug": "dataganj",
+          "name": "Dataganj",
+          "name_hi": "Dataganj",
+          "aliases": [
+            "Dataganj"
+          ]
+        },
+        {
+          "slug": "samrer",
+          "name": "Samrer",
+          "name_hi": "Samrer",
+          "aliases": [
+            "Samrer"
+          ]
+        },
+        {
+          "slug": "miyanganj",
+          "name": "Miyanganj",
+          "name_hi": "Miyanganj",
+          "aliases": [
+            "Miyanganj"
+          ]
+        },
+        {
+          "slug": "usawan",
+          "name": "Usawan",
+          "name_hi": "Usawan",
+          "aliases": [
+            "Usawan"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bulandshahr",
+      "name": "Bulandshahr",
+      "name_hi": "बुलंदशहर",
+      "blocks": [
+        {
+          "slug": "bulandshahr",
+          "name": "Bulandshahr",
+          "name_hi": "Bulandshahr",
+          "aliases": [
+            "Bulandshahr"
+          ]
+        },
+        {
+          "slug": "lakhaoti",
+          "name": "Lakhaoti",
+          "name_hi": "Lakhaoti",
+          "aliases": [
+            "Lakhaoti"
+          ]
+        },
+        {
+          "slug": "sikandrabad",
+          "name": "Sikandrabad",
+          "name_hi": "Sikandrabad",
+          "aliases": [
+            "Sikandrabad"
+          ]
+        },
+        {
+          "slug": "gulaothi",
+          "name": "Gulaothi",
+          "name_hi": "Gulaothi",
+          "aliases": [
+            "Gulaothi"
+          ]
+        },
+        {
+          "slug": "aguta",
+          "name": "Aguta",
+          "name_hi": "Aguta",
+          "aliases": [
+            "Aguta"
+          ]
+        },
+        {
+          "slug": "bhavan-bahadur-nagar",
+          "name": "Bhavan Bahadur Nagar",
+          "name_hi": "Bhavan Bahadur Nagar",
+          "aliases": [
+            "BhavanBahadurNagar"
+          ]
+        },
+        {
+          "slug": "syana",
+          "name": "Syana",
+          "name_hi": "Syana",
+          "aliases": [
+            "Syana"
+          ]
+        },
+        {
+          "slug": "unchagaon",
+          "name": "Unchagaon",
+          "name_hi": "Unchagaon",
+          "aliases": [
+            "Unchagaon"
+          ]
+        },
+        {
+          "slug": "jahangirabad",
+          "name": "Jahangirabad",
+          "name_hi": "Jahangirabad",
+          "aliases": [
+            "Jahangirabad"
+          ]
+        },
+        {
+          "slug": "anupshahr",
+          "name": "Anupshahr",
+          "name_hi": "Anupshahr",
+          "aliases": [
+            "Anupshahr"
+          ]
+        },
+        {
+          "slug": "debai",
+          "name": "Debai",
+          "name_hi": "Debai",
+          "aliases": [
+            "Debai"
+          ]
+        },
+        {
+          "slug": "danpur",
+          "name": "Danpur",
+          "name_hi": "Danpur",
+          "aliases": [
+            "Danpur"
+          ]
+        },
+        {
+          "slug": "dharampur",
+          "name": "Dharampur",
+          "name_hi": "Dharampur",
+          "aliases": [
+            "Dharampur"
+          ]
+        },
+        {
+          "slug": "shikarpur",
+          "name": "Shikarpur",
+          "name_hi": "Shikarpur",
+          "aliases": [
+            "Shikarpur"
+          ]
+        },
+        {
+          "slug": "pahasu",
+          "name": "Pahasu",
+          "name_hi": "Pahasu",
+          "aliases": [
+            "Pahasu"
+          ]
+        },
+        {
+          "slug": "khurja",
+          "name": "Khurja",
+          "name_hi": "Khurja",
+          "aliases": [
+            "Khurja"
+          ]
+        },
+        {
+          "slug": "araniya",
+          "name": "Araniya",
+          "name_hi": "Araniya",
+          "aliases": [
+            "Araniya"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "chandauli",
+      "name": "Chandauli",
+      "name_hi": "चंदौली",
+      "blocks": [
+        {
+          "slug": "chandauli",
+          "name": "Chandauli",
+          "name_hi": "Chandauli",
+          "aliases": [
+            "Chandauli"
+          ]
+        },
+        {
+          "slug": "niamatabad",
+          "name": "Niamatabad",
+          "name_hi": "Niamatabad",
+          "aliases": [
+            "Niamatabad"
+          ]
+        },
+        {
+          "slug": "chahania",
+          "name": "Chahania",
+          "name_hi": "Chahania",
+          "aliases": [
+            "Chahania"
+          ]
+        },
+        {
+          "slug": "sakaldiha",
+          "name": "Sakaldiha",
+          "name_hi": "Sakaldiha",
+          "aliases": [
+            "Sakaldiha"
+          ]
+        },
+        {
+          "slug": "dhanapur",
+          "name": "Dhanapur",
+          "name_hi": "Dhanapur",
+          "aliases": [
+            "Dhanapur"
+          ]
+        },
+        {
+          "slug": "barhani",
+          "name": "Barhani",
+          "name_hi": "Barhani",
+          "aliases": [
+            "Barhani"
+          ]
+        },
+        {
+          "slug": "chakia",
+          "name": "Chakia",
+          "name_hi": "Chakia",
+          "aliases": [
+            "Chakia"
+          ]
+        },
+        {
+          "slug": "sahabganj",
+          "name": "Sahabganj",
+          "name_hi": "Sahabganj",
+          "aliases": [
+            "Sahabganj"
+          ]
+        },
+        {
+          "slug": "naugarh",
+          "name": "Naugarh",
+          "name_hi": "Naugarh",
+          "aliases": [
+            "Naugarh"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "chitrakoot",
+      "name": "Chitrakoot",
+      "name_hi": "चित्रकूट",
+      "blocks": [
+        {
+          "slug": "karwi",
+          "name": "Karwi",
+          "name_hi": "Karwi",
+          "aliases": [
+            "Karwi"
+          ]
+        },
+        {
+          "slug": "pahari",
+          "name": "Pahari",
+          "name_hi": "Pahari",
+          "aliases": [
+            "Pahari"
+          ]
+        },
+        {
+          "slug": "manikpur",
+          "name": "Manikpur",
+          "name_hi": "Manikpur",
+          "aliases": [
+            "Manikpur"
+          ]
+        },
+        {
+          "slug": "mau",
+          "name": "Mau",
+          "name_hi": "Mau",
+          "aliases": [
+            "Mau"
+          ]
+        },
+        {
+          "slug": "ramnagar",
+          "name": "Ramnagar",
+          "name_hi": "Ramnagar",
+          "aliases": [
+            "Ramnagar"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "deoria",
+      "name": "Deoria",
+      "name_hi": "देवरिया",
+      "blocks": [
+        {
+          "slug": "deoria-sadar",
+          "name": "Deoria Sadar",
+          "name_hi": "Deoria Sadar",
+          "aliases": [
+            "DeoriaSadar"
+          ]
+        },
+        {
+          "slug": "baitalpur",
+          "name": "Baitalpur",
+          "name_hi": "Baitalpur",
+          "aliases": [
+            "Baitalpur"
+          ]
+        },
+        {
+          "slug": "gauri-bazar",
+          "name": "Gauri Bazar",
+          "name_hi": "Gauri Bazar",
+          "aliases": [
+            "GauriBazar"
+          ]
+        },
+        {
+          "slug": "rampur-karkhana",
+          "name": "Rampur Karkhana",
+          "name_hi": "Rampur Karkhana",
+          "aliases": [
+            "RampurKarkhana"
+          ]
+        },
+        {
+          "slug": "desahi-deoria",
+          "name": "Desahi Deoria",
+          "name_hi": "Desahi Deoria",
+          "aliases": [
+            "DesahiDeoria"
+          ]
+        },
+        {
+          "slug": "tarkulwa",
+          "name": "Tarkulwa",
+          "name_hi": "Tarkulwa",
+          "aliases": [
+            "Tarkulwa"
+          ]
+        },
+        {
+          "slug": "pathardewa",
+          "name": "Pathardewa",
+          "name_hi": "Pathardewa",
+          "aliases": [
+            "Pathardewa"
+          ]
+        },
+        {
+          "slug": "rudrapur",
+          "name": "Rudrapur",
+          "name_hi": "Rudrapur",
+          "aliases": [
+            "Rudrapur"
+          ]
+        },
+        {
+          "slug": "bhaluani",
+          "name": "Bhaluani",
+          "name_hi": "Bhaluani",
+          "aliases": [
+            "Bhaluani"
+          ]
+        },
+        {
+          "slug": "barhaj",
+          "name": "Barhaj",
+          "name_hi": "Barhaj",
+          "aliases": [
+            "Barhaj"
+          ]
+        },
+        {
+          "slug": "salempur",
+          "name": "Salempur",
+          "name_hi": "Salempur",
+          "aliases": [
+            "Salempur"
+          ]
+        },
+        {
+          "slug": "bhagalpur",
+          "name": "Bhagalpur",
+          "name_hi": "Bhagalpur",
+          "aliases": [
+            "Bhagalpur"
+          ]
+        },
+        {
+          "slug": "lar",
+          "name": "Lar",
+          "name_hi": "Lar",
+          "aliases": [
+            "Lar"
+          ]
+        },
+        {
+          "slug": "bhatpar-rani",
+          "name": "Bhatpar Rani",
+          "name_hi": "Bhatpar Rani",
+          "aliases": [
+            "BhatparRani"
+          ]
+        },
+        {
+          "slug": "bankata",
+          "name": "Bankata",
+          "name_hi": "Bankata",
+          "aliases": [
+            "Bankata"
+          ]
+        },
+        {
+          "slug": "bhatni",
+          "name": "Bhatni",
+          "name_hi": "Bhatni",
+          "aliases": [
+            "Bhatni"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "etah",
+      "name": "Etah",
+      "name_hi": "एटा",
+      "blocks": [
+        {
+          "slug": "sheetalpur",
+          "name": "Sheetalpur",
+          "name_hi": "Sheetalpur",
+          "aliases": [
+            "Sheetalpur"
+          ]
+        },
+        {
+          "slug": "sakit",
+          "name": "Sakit",
+          "name_hi": "Sakit",
+          "aliases": [
+            "Sakit"
+          ]
+        },
+        {
+          "slug": "nidhauli-kalan",
+          "name": "Nidhauli Kalan",
+          "name_hi": "Nidhauli Kalan",
+          "aliases": [
+            "NidhauliKalan"
+          ]
+        },
+        {
+          "slug": "marehra",
+          "name": "Marehra",
+          "name_hi": "Marehra",
+          "aliases": [
+            "Marehra"
+          ]
+        },
+        {
+          "slug": "awagarh",
+          "name": "Awagarh",
+          "name_hi": "Awagarh",
+          "aliases": [
+            "Awagarh"
+          ]
+        },
+        {
+          "slug": "jalesar",
+          "name": "Jalesar",
+          "name_hi": "Jalesar",
+          "aliases": [
+            "Jalesar"
+          ]
+        },
+        {
+          "slug": "aliganj",
+          "name": "Aliganj",
+          "name_hi": "Aliganj",
+          "aliases": [
+            "Aliganj"
+          ]
+        },
+        {
+          "slug": "jaithara",
+          "name": "Jaithara",
+          "name_hi": "Jaithara",
+          "aliases": [
+            "Jaithara"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "etawah",
+      "name": "Etawah",
+      "name_hi": "इटावा",
+      "blocks": [
+        {
+          "slug": "barhpura",
+          "name": "Barhpura",
+          "name_hi": "Barhpura",
+          "aliases": [
+            "Barhpura"
+          ]
+        },
+        {
+          "slug": "jaswantnagar",
+          "name": "Jaswantnagar",
+          "name_hi": "Jaswantnagar",
+          "aliases": [
+            "Jaswantnagar"
+          ]
+        },
+        {
+          "slug": "saifai",
+          "name": "Saifai",
+          "name_hi": "Saifai",
+          "aliases": [
+            "Saifai"
+          ]
+        },
+        {
+          "slug": "basrehar",
+          "name": "Basrehar",
+          "name_hi": "Basrehar",
+          "aliases": [
+            "Basrehar"
+          ]
+        },
+        {
+          "slug": "bharthana",
+          "name": "Bharthana",
+          "name_hi": "Bharthana",
+          "aliases": [
+            "Bharthana"
+          ]
+        },
+        {
+          "slug": "mahewa",
+          "name": "Mahewa",
+          "name_hi": "Mahewa",
+          "aliases": [
+            "Mahewa"
+          ]
+        },
+        {
+          "slug": "chakarnagar",
+          "name": "Chakarnagar",
+          "name_hi": "Chakarnagar",
+          "aliases": [
+            "Chakarnagar"
+          ]
+        },
+        {
+          "slug": "takha",
+          "name": "Takha",
+          "name_hi": "Takha",
+          "aliases": [
+            "Takha"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "farrukhabad",
+      "name": "Farrukhabad",
+      "name_hi": "फर्रुखाबाद",
+      "blocks": [
+        {
+          "slug": "barhpur",
+          "name": "Barhpur",
+          "name_hi": "Barhpur",
+          "aliases": [
+            "Barhpur"
+          ]
+        },
+        {
+          "slug": "kamalganj",
+          "name": "Kamalganj",
+          "name_hi": "Kamalganj",
+          "aliases": [
+            "Kamalganj"
+          ]
+        },
+        {
+          "slug": "mohammadabad",
+          "name": "Mohammadabad",
+          "name_hi": "Mohammadabad",
+          "aliases": [
+            "Mohammadabad"
+          ]
+        },
+        {
+          "slug": "kaimganj",
+          "name": "Kaimganj",
+          "name_hi": "Kaimganj",
+          "aliases": [
+            "Kaimganj"
+          ]
+        },
+        {
+          "slug": "nawabganj",
+          "name": "Nawabganj",
+          "name_hi": "Nawabganj",
+          "aliases": [
+            "Nawabganj"
+          ]
+        },
+        {
+          "slug": "shamsabad",
+          "name": "Shamsabad",
+          "name_hi": "Shamsabad",
+          "aliases": [
+            "Shamsabad"
+          ]
+        },
+        {
+          "slug": "rajepur",
+          "name": "Rajepur",
+          "name_hi": "Rajepur",
+          "aliases": [
+            "Rajepur"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "fatehpur",
+      "name": "Fatehpur",
+      "name_hi": "फतेहपुर",
+      "blocks": [
+        {
+          "slug": "bhitaura",
+          "name": "Bhitaura",
+          "name_hi": "Bhitaura",
+          "aliases": [
+            "Bhitaura"
+          ]
+        },
+        {
+          "slug": "haswa",
+          "name": "Haswa",
+          "name_hi": "Haswa",
+          "aliases": [
+            "Haswa"
+          ]
+        },
+        {
+          "slug": "asothar",
+          "name": "Asothar",
+          "name_hi": "Asothar",
+          "aliases": [
+            "Asothar"
+          ]
+        },
+        {
+          "slug": "teliyani",
+          "name": "Teliyani",
+          "name_hi": "Teliyani",
+          "aliases": [
+            "Teliyani"
+          ]
+        },
+        {
+          "slug": "bahua",
+          "name": "Bahua",
+          "name_hi": "Bahua",
+          "aliases": [
+            "Bahua"
+          ]
+        },
+        {
+          "slug": "malwan",
+          "name": "Malwan",
+          "name_hi": "Malwan",
+          "aliases": [
+            "Malwan"
+          ]
+        },
+        {
+          "slug": "khajuha",
+          "name": "Khajuha",
+          "name_hi": "Khajuha",
+          "aliases": [
+            "Khajuha"
+          ]
+        },
+        {
+          "slug": "amauli",
+          "name": "Amauli",
+          "name_hi": "Amauli",
+          "aliases": [
+            "Amauli"
+          ]
+        },
+        {
+          "slug": "devmai",
+          "name": "Devmai",
+          "name_hi": "Devmai",
+          "aliases": [
+            "Devmai"
+          ]
+        },
+        {
+          "slug": "airayan",
+          "name": "Airayan",
+          "name_hi": "Airayan",
+          "aliases": [
+            "Airayan"
+          ]
+        },
+        {
+          "slug": "dhata",
+          "name": "Dhata",
+          "name_hi": "Dhata",
+          "aliases": [
+            "Dhata"
+          ]
+        },
+        {
+          "slug": "vijayipur",
+          "name": "Vijayipur",
+          "name_hi": "Vijayipur",
+          "aliases": [
+            "Vijayipur"
+          ]
+        },
+        {
+          "slug": "hathgaon",
+          "name": "Hathgaon",
+          "name_hi": "Hathgaon",
+          "aliases": [
+            "Hathgaon"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "firozabad",
+      "name": "Firozabad",
+      "name_hi": "फिरोजाबाद",
+      "blocks": [
+        {
+          "slug": "firozabad",
+          "name": "Firozabad",
+          "name_hi": "Firozabad",
+          "aliases": [
+            "Firozabad"
+          ]
+        },
+        {
+          "slug": "narkhi",
+          "name": "Narkhi",
+          "name_hi": "Narkhi",
+          "aliases": [
+            "Narkhi"
+          ]
+        },
+        {
+          "slug": "tundla",
+          "name": "Tundla",
+          "name_hi": "Tundla",
+          "aliases": [
+            "Tundla"
+          ]
+        },
+        {
+          "slug": "shikohabad",
+          "name": "Shikohabad",
+          "name_hi": "Shikohabad",
+          "aliases": [
+            "Shikohabad"
+          ]
+        },
+        {
+          "slug": "madanpur",
+          "name": "Madanpur",
+          "name_hi": "Madanpur",
+          "aliases": [
+            "Madanpur"
+          ]
+        },
+        {
+          "slug": "jasrana",
+          "name": "Jasrana",
+          "name_hi": "Jasrana",
+          "aliases": [
+            "Jasrana"
+          ]
+        },
+        {
+          "slug": "eka",
+          "name": "Eka",
+          "name_hi": "Eka",
+          "aliases": [
+            "Eka"
+          ]
+        },
+        {
+          "slug": "hathwant",
+          "name": "Hathwant",
+          "name_hi": "Hathwant",
+          "aliases": [
+            "Hathwant"
+          ]
+        },
+        {
+          "slug": "araon",
+          "name": "Araon",
+          "name_hi": "Araon",
+          "aliases": [
+            "Araon"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "gautam-buddha-nagar",
+      "name": "Gautam Buddha Nagar",
+      "name_hi": "गौतम बुद्ध नगर",
+      "blocks": [
+        {
+          "slug": "bisrakh",
+          "name": "Bisrakh",
+          "name_hi": "Bisrakh",
+          "aliases": [
+            "Bisrakh"
+          ]
+        },
+        {
+          "slug": "dadri",
+          "name": "Dadri",
+          "name_hi": "Dadri",
+          "aliases": [
+            "Dadri"
+          ]
+        },
+        {
+          "slug": "dankaur",
+          "name": "Dankaur",
+          "name_hi": "Dankaur",
+          "aliases": [
+            "Dankaur"
+          ]
+        },
+        {
+          "slug": "jewar",
+          "name": "Jewar",
+          "name_hi": "Jewar",
+          "aliases": [
+            "Jewar"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ghaziabad",
+      "name": "Ghaziabad",
+      "name_hi": "गाजियाबाद",
+      "blocks": [
+        {
+          "slug": "razapur",
+          "name": "Razapur",
+          "name_hi": "Razapur",
+          "aliases": [
+            "Razapur"
+          ]
+        },
+        {
+          "slug": "bhojpur",
+          "name": "Bhojpur",
+          "name_hi": "Bhojpur",
+          "aliases": [
+            "Bhojpur"
+          ]
+        },
+        {
+          "slug": "loni",
+          "name": "Loni",
+          "name_hi": "Loni",
+          "aliases": [
+            "Loni"
+          ]
+        },
+        {
+          "slug": "muradnagar",
+          "name": "Muradnagar",
+          "name_hi": "Muradnagar",
+          "aliases": [
+            "Muradnagar"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ghazipur",
+      "name": "Ghazipur",
+      "name_hi": "गाजीपुर",
+      "blocks": [
+        {
+          "slug": "ghazipur-sadar",
+          "name": "Ghazipur Sadar",
+          "name_hi": "Ghazipur Sadar",
+          "aliases": [
+            "GhazipurSadar"
+          ]
+        },
+        {
+          "slug": "mardah",
+          "name": "Mardah",
+          "name_hi": "Mardah",
+          "aliases": [
+            "Mardah"
+          ]
+        },
+        {
+          "slug": "birno",
+          "name": "Birno",
+          "name_hi": "Birno",
+          "aliases": [
+            "Birno"
+          ]
+        },
+        {
+          "slug": "zamania",
+          "name": "Zamania",
+          "name_hi": "Zamania",
+          "aliases": [
+            "Zamania"
+          ]
+        },
+        {
+          "slug": "saidpur",
+          "name": "Saidpur",
+          "name_hi": "Saidpur",
+          "aliases": [
+            "Saidpur"
+          ]
+        },
+        {
+          "slug": "sadat",
+          "name": "Sadat",
+          "name_hi": "Sadat",
+          "aliases": [
+            "Sadat"
+          ]
+        },
+        {
+          "slug": "deokali",
+          "name": "Deokali",
+          "name_hi": "Deokali",
+          "aliases": [
+            "Deokali"
+          ]
+        },
+        {
+          "slug": "jakhania",
+          "name": "Jakhania",
+          "name_hi": "Jakhania",
+          "aliases": [
+            "Jakhania"
+          ]
+        },
+        {
+          "slug": "manihari",
+          "name": "Manihari",
+          "name_hi": "Manihari",
+          "aliases": [
+            "Manihari"
+          ]
+        },
+        {
+          "slug": "kasimabad",
+          "name": "Kasimabad",
+          "name_hi": "Kasimabad",
+          "aliases": [
+            "Kasimabad"
+          ]
+        },
+        {
+          "slug": "varachakwar",
+          "name": "Varachakwar",
+          "name_hi": "Varachakwar",
+          "aliases": [
+            "Varachakwar"
+          ]
+        },
+        {
+          "slug": "mohammadabad",
+          "name": "Mohammadabad",
+          "name_hi": "Mohammadabad",
+          "aliases": [
+            "Mohammadabad"
+          ]
+        },
+        {
+          "slug": "bhawarkol",
+          "name": "Bhawarkol",
+          "name_hi": "Bhawarkol",
+          "aliases": [
+            "Bhawarkol"
+          ]
+        },
+        {
+          "slug": "karanda",
+          "name": "Karanda",
+          "name_hi": "Karanda",
+          "aliases": [
+            "Karanda"
+          ]
+        },
+        {
+          "slug": "revatipur",
+          "name": "Revatipur",
+          "name_hi": "Revatipur",
+          "aliases": [
+            "Revatipur"
+          ]
+        },
+        {
+          "slug": "sohawal",
+          "name": "Sohawal",
+          "name_hi": "Sohawal",
+          "aliases": [
+            "Sohawal"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "gonda",
+      "name": "Gonda",
+      "name_hi": "गोंडा",
+      "blocks": [
+        {
+          "slug": "jhanjhari",
+          "name": "Jhanjhari",
+          "name_hi": "Jhanjhari",
+          "aliases": [
+            "Jhanjhari"
+          ]
+        },
+        {
+          "slug": "pandey-baba",
+          "name": "Pandey Baba",
+          "name_hi": "Pandey Baba",
+          "aliases": [
+            "PandeyBaba"
+          ]
+        },
+        {
+          "slug": "rupaidih",
+          "name": "Rupaidih",
+          "name_hi": "Rupaidih",
+          "aliases": [
+            "Rupaidih"
+          ]
+        },
+        {
+          "slug": "itiathok",
+          "name": "Itiathok",
+          "name_hi": "Itiathok",
+          "aliases": [
+            "Itiathok"
+          ]
+        },
+        {
+          "slug": "mujehna",
+          "name": "Mujehna",
+          "name_hi": "Mujehna",
+          "aliases": [
+            "Mujehna"
+          ]
+        },
+        {
+          "slug": "katra-bazar",
+          "name": "Katra Bazar",
+          "name_hi": "Katra Bazar",
+          "aliases": [
+            "KatraBazar"
+          ]
+        },
+        {
+          "slug": "haldharmau",
+          "name": "Haldharmau",
+          "name_hi": "Haldharmau",
+          "aliases": [
+            "Haldharmau"
+          ]
+        },
+        {
+          "slug": "colonelganj",
+          "name": "Colonelganj",
+          "name_hi": "Colonelganj",
+          "aliases": [
+            "Colonelganj"
+          ]
+        },
+        {
+          "slug": "belsar",
+          "name": "Belsar",
+          "name_hi": "Belsar",
+          "aliases": [
+            "Belsar"
+          ]
+        },
+        {
+          "slug": "tarabganj",
+          "name": "Tarabganj",
+          "name_hi": "Tarabganj",
+          "aliases": [
+            "Tarabganj"
+          ]
+        },
+        {
+          "slug": "wazirganj",
+          "name": "Wazirganj",
+          "name_hi": "Wazirganj",
+          "aliases": [
+            "Wazirganj"
+          ]
+        },
+        {
+          "slug": "nawabganj",
+          "name": "Nawabganj",
+          "name_hi": "Nawabganj",
+          "aliases": [
+            "Nawabganj"
+          ]
+        },
+        {
+          "slug": "mankapur",
+          "name": "Mankapur",
+          "name_hi": "Mankapur",
+          "aliases": [
+            "Mankapur"
+          ]
+        },
+        {
+          "slug": "chhapia",
+          "name": "Chhapia",
+          "name_hi": "Chhapia",
+          "aliases": [
+            "Chhapia"
+          ]
+        },
+        {
+          "slug": "babhanjot",
+          "name": "Babhanjot",
+          "name_hi": "Babhanjot",
+          "aliases": [
+            "Babhanjot"
+          ]
+        },
+        {
+          "slug": "paraspur",
+          "name": "Paraspur",
+          "name_hi": "Paraspur",
+          "aliases": [
+            "Paraspur"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "gorakhpur",
+      "name": "Gorakhpur",
+      "name_hi": "गोरखपुर",
+      "blocks": [
+        {
+          "slug": "chargawan",
+          "name": "Chargawan",
+          "name_hi": "Chargawan",
+          "aliases": [
+            "Chargawan"
+          ]
+        },
+        {
+          "slug": "pipraich",
+          "name": "Pipraich",
+          "name_hi": "Pipraich",
+          "aliases": [
+            "Pipraich"
+          ]
+        },
+        {
+          "slug": "jangal-kaudia",
+          "name": "Jangal Kaudia",
+          "name_hi": "Jangal Kaudia",
+          "aliases": [
+            "JangalKaudia"
+          ]
+        },
+        {
+          "slug": "bhathat",
+          "name": "Bhathat",
+          "name_hi": "Bhathat",
+          "aliases": [
+            "Bhathat"
+          ]
+        },
+        {
+          "slug": "sahjanwa",
+          "name": "Sahjanwa",
+          "name_hi": "Sahjanwa",
+          "aliases": [
+            "Sahjanwa"
+          ]
+        },
+        {
+          "slug": "pali",
+          "name": "Pali",
+          "name_hi": "Pali",
+          "aliases": [
+            "Pali"
+          ]
+        },
+        {
+          "slug": "khorabar",
+          "name": "Khorabar",
+          "name_hi": "Khorabar",
+          "aliases": [
+            "Khorabar"
+          ]
+        },
+        {
+          "slug": "piprauli",
+          "name": "Piprauli",
+          "name_hi": "Piprauli",
+          "aliases": [
+            "Piprauli"
+          ]
+        },
+        {
+          "slug": "sardar-nagar",
+          "name": "Sardar Nagar",
+          "name_hi": "Sardar Nagar",
+          "aliases": [
+            "SardarNagar"
+          ]
+        },
+        {
+          "slug": "brahmpur",
+          "name": "Brahmpur",
+          "name_hi": "Brahmpur",
+          "aliases": [
+            "Brahmpur"
+          ]
+        },
+        {
+          "slug": "bansgaon",
+          "name": "Bansgaon",
+          "name_hi": "Bansgaon",
+          "aliases": [
+            "Bansgaon"
+          ]
+        },
+        {
+          "slug": "kauri-ram",
+          "name": "Kauri Ram",
+          "name_hi": "Kauri Ram",
+          "aliases": [
+            "KauriRam"
+          ]
+        },
+        {
+          "slug": "uruwa",
+          "name": "Uruwa",
+          "name_hi": "Uruwa",
+          "aliases": [
+            "Uruwa"
+          ]
+        },
+        {
+          "slug": "gola",
+          "name": "Gola",
+          "name_hi": "Gola",
+          "aliases": [
+            "Gola"
+          ]
+        },
+        {
+          "slug": "barhalganj",
+          "name": "Barhalganj",
+          "name_hi": "Barhalganj",
+          "aliases": [
+            "Barhalganj"
+          ]
+        },
+        {
+          "slug": "gagaha",
+          "name": "Gagaha",
+          "name_hi": "Gagaha",
+          "aliases": [
+            "Gagaha"
+          ]
+        },
+        {
+          "slug": "khajni",
+          "name": "Khajni",
+          "name_hi": "Khajni",
+          "aliases": [
+            "Khajni"
+          ]
+        },
+        {
+          "slug": "belghat",
+          "name": "Belghat",
+          "name_hi": "Belghat",
+          "aliases": [
+            "Belghat"
+          ]
+        },
+        {
+          "slug": "campierganj",
+          "name": "Campierganj",
+          "name_hi": "Campierganj",
+          "aliases": [
+            "Campierganj"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hamirpur",
+      "name": "Hamirpur",
+      "name_hi": "हमीरपुर",
+      "blocks": [
+        {
+          "slug": "kurara",
+          "name": "Kurara",
+          "name_hi": "Kurara",
+          "aliases": [
+            "Kurara"
+          ]
+        },
+        {
+          "slug": "sumerpur",
+          "name": "Sumerpur",
+          "name_hi": "Sumerpur",
+          "aliases": [
+            "Sumerpur"
+          ]
+        },
+        {
+          "slug": "maudaha",
+          "name": "Maudaha",
+          "name_hi": "Maudaha",
+          "aliases": [
+            "Maudaha"
+          ]
+        },
+        {
+          "slug": "muskara",
+          "name": "Muskara",
+          "name_hi": "Muskara",
+          "aliases": [
+            "Muskara"
+          ]
+        },
+        {
+          "slug": "rath",
+          "name": "Rath",
+          "name_hi": "Rath",
+          "aliases": [
+            "Rath"
+          ]
+        },
+        {
+          "slug": "gohand",
+          "name": "Gohand",
+          "name_hi": "Gohand",
+          "aliases": [
+            "Gohand"
+          ]
+        },
+        {
+          "slug": "sarila",
+          "name": "Sarila",
+          "name_hi": "Sarila",
+          "aliases": [
+            "Sarila"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hapur",
+      "name": "Hapur",
+      "name_hi": "हापुड़",
+      "blocks": [
+        {
+          "slug": "hapur",
+          "name": "Hapur",
+          "name_hi": "Hapur",
+          "aliases": [
+            "Hapur"
+          ]
+        },
+        {
+          "slug": "simbhawali",
+          "name": "Simbhawali",
+          "name_hi": "Simbhawali",
+          "aliases": [
+            "Simbhawali"
+          ]
+        },
+        {
+          "slug": "garhmukteshwar",
+          "name": "Garhmukteshwar",
+          "name_hi": "Garhmukteshwar",
+          "aliases": [
+            "Garhmukteshwar"
+          ]
+        },
+        {
+          "slug": "dhaulana",
+          "name": "Dhaulana",
+          "name_hi": "Dhaulana",
+          "aliases": [
+            "Dhaulana"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hardoi",
+      "name": "Hardoi",
+      "name_hi": "हरदोई",
+      "blocks": [
+        {
+          "slug": "sursa",
+          "name": "Sursa",
+          "name_hi": "Sursa",
+          "aliases": [
+            "Sursa"
+          ]
+        },
+        {
+          "slug": "bawan",
+          "name": "Bawan",
+          "name_hi": "Bawan",
+          "aliases": [
+            "Bawan"
+          ]
+        },
+        {
+          "slug": "ahirori",
+          "name": "Ahirori",
+          "name_hi": "Ahirori",
+          "aliases": [
+            "Ahirori"
+          ]
+        },
+        {
+          "slug": "tandiyawan",
+          "name": "Tandiyawan",
+          "name_hi": "Tandiyawan",
+          "aliases": [
+            "Tandiyawan"
+          ]
+        },
+        {
+          "slug": "harpalpur",
+          "name": "Harpalpur",
+          "name_hi": "Harpalpur",
+          "aliases": [
+            "Harpalpur"
+          ]
+        },
+        {
+          "slug": "sandi",
+          "name": "Sandi",
+          "name_hi": "Sandi",
+          "aliases": [
+            "Sandi"
+          ]
+        },
+        {
+          "slug": "bilgram",
+          "name": "Bilgram",
+          "name_hi": "Bilgram",
+          "aliases": [
+            "Bilgram"
+          ]
+        },
+        {
+          "slug": "madhavganj",
+          "name": "Madhavganj",
+          "name_hi": "Madhavganj",
+          "aliases": [
+            "Madhavganj"
+          ]
+        },
+        {
+          "slug": "mallawan",
+          "name": "Mallawan",
+          "name_hi": "Mallawan",
+          "aliases": [
+            "Mallawan"
+          ]
+        },
+        {
+          "slug": "kachhauna",
+          "name": "Kachhauna",
+          "name_hi": "Kachhauna",
+          "aliases": [
+            "Kachhauna"
+          ]
+        },
+        {
+          "slug": "sandila",
+          "name": "Sandila",
+          "name_hi": "Sandila",
+          "aliases": [
+            "Sandila"
+          ]
+        },
+        {
+          "slug": "behandar",
+          "name": "Behandar",
+          "name_hi": "Behandar",
+          "aliases": [
+            "Behandar"
+          ]
+        },
+        {
+          "slug": "bharawan",
+          "name": "Bharawan",
+          "name_hi": "Bharawan",
+          "aliases": [
+            "Bharawan"
+          ]
+        },
+        {
+          "slug": "kothawan",
+          "name": "Kothawan",
+          "name_hi": "Kothawan",
+          "aliases": [
+            "Kothawan"
+          ]
+        },
+        {
+          "slug": "pihani",
+          "name": "Pihani",
+          "name_hi": "Pihani",
+          "aliases": [
+            "Pihani"
+          ]
+        },
+        {
+          "slug": "shahabad",
+          "name": "Shahabad",
+          "name_hi": "Shahabad",
+          "aliases": [
+            "Shahabad"
+          ]
+        },
+        {
+          "slug": "bharkhani",
+          "name": "Bharkhani",
+          "name_hi": "Bharkhani",
+          "aliases": [
+            "Bharkhani"
+          ]
+        },
+        {
+          "slug": "hariyawan",
+          "name": "Hariyawan",
+          "name_hi": "Hariyawan",
+          "aliases": [
+            "Hariyawan"
+          ]
+        },
+        {
+          "slug": "toderpur",
+          "name": "Toderpur",
+          "name_hi": "Toderpur",
+          "aliases": [
+            "Toderpur"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hathras",
+      "name": "Hathras",
+      "name_hi": "हाथरस",
+      "blocks": [
+        {
+          "slug": "hathras",
+          "name": "Hathras",
+          "name_hi": "Hathras",
+          "aliases": [
+            "Hathras"
+          ]
+        },
+        {
+          "slug": "mursan",
+          "name": "Mursan",
+          "name_hi": "Mursan",
+          "aliases": [
+            "Mursan"
+          ]
+        },
+        {
+          "slug": "sasni",
+          "name": "Sasni",
+          "name_hi": "Sasni",
+          "aliases": [
+            "Sasni"
+          ]
+        },
+        {
+          "slug": "sadabad",
+          "name": "Sadabad",
+          "name_hi": "Sadabad",
+          "aliases": [
+            "Sadabad"
+          ]
+        },
+        {
+          "slug": "sahpau",
+          "name": "Sahpau",
+          "name_hi": "Sahpau",
+          "aliases": [
+            "Sahpau"
+          ]
+        },
+        {
+          "slug": "sikandra-rao",
+          "name": "Sikandra Rao",
+          "name_hi": "Sikandra Rao",
+          "aliases": [
+            "SikandraRao"
+          ]
+        },
+        {
+          "slug": "hasayan",
+          "name": "Hasayan",
+          "name_hi": "Hasayan",
+          "aliases": [
+            "Hasayan"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "jalaun",
+      "name": "Jalaun",
+      "name_hi": "जालौन",
+      "blocks": [
+        {
+          "slug": "dakore",
+          "name": "Dakore",
+          "name_hi": "Dakore",
+          "aliases": [
+            "Dakore"
+          ]
+        },
+        {
+          "slug": "jalaun",
+          "name": "Jalaun",
+          "name_hi": "Jalaun",
+          "aliases": [
+            "Jalaun"
+          ]
+        },
+        {
+          "slug": "konch",
+          "name": "Konch",
+          "name_hi": "Konch",
+          "aliases": [
+            "Konch"
+          ]
+        },
+        {
+          "slug": "nadi-gaon",
+          "name": "Nadi Gaon",
+          "name_hi": "Nadi Gaon",
+          "aliases": [
+            "NadiGaon"
+          ]
+        },
+        {
+          "slug": "kalpi",
+          "name": "Kalpi",
+          "name_hi": "Kalpi",
+          "aliases": [
+            "Kalpi"
+          ]
+        },
+        {
+          "slug": "maheva",
+          "name": "Maheva",
+          "name_hi": "Maheva",
+          "aliases": [
+            "Maheva"
+          ]
+        },
+        {
+          "slug": "madhogarh",
+          "name": "Madhogarh",
+          "name_hi": "Madhogarh",
+          "aliases": [
+            "Madhogarh"
+          ]
+        },
+        {
+          "slug": "rampura",
+          "name": "Rampura",
+          "name_hi": "Rampura",
+          "aliases": [
+            "Rampura"
+          ]
+        },
+        {
+          "slug": "kadaura",
+          "name": "Kadaura",
+          "name_hi": "Kadaura",
+          "aliases": [
+            "Kadaura"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "jaunpur",
+      "name": "Jaunpur",
+      "name_hi": "जौनपुर",
+      "blocks": [
+        {
+          "slug": "karanjit",
+          "name": "Karanjit",
+          "name_hi": "Karanjit",
+          "aliases": [
+            "Karanjit"
+          ]
+        },
+        {
+          "slug": "dharmapur",
+          "name": "Dharmapur",
+          "name_hi": "Dharmapur",
+          "aliases": [
+            "Dharmapur"
+          ]
+        },
+        {
+          "slug": "sikrara",
+          "name": "Sikrara",
+          "name_hi": "Sikrara",
+          "aliases": [
+            "Sikrara"
+          ]
+        },
+        {
+          "slug": "baksha",
+          "name": "Baksha",
+          "name_hi": "Baksha",
+          "aliases": [
+            "Baksha"
+          ]
+        },
+        {
+          "slug": "sirkoni",
+          "name": "Sirkoni",
+          "name_hi": "Sirkoni",
+          "aliases": [
+            "Sirkoni"
+          ]
+        },
+        {
+          "slug": "jalalpur",
+          "name": "Jalalpur",
+          "name_hi": "Jalalpur",
+          "aliases": [
+            "Jalalpur"
+          ]
+        },
+        {
+          "slug": "muftiganj",
+          "name": "Muftiganj",
+          "name_hi": "Muftiganj",
+          "aliases": [
+            "Muftiganj"
+          ]
+        },
+        {
+          "slug": "kerakat",
+          "name": "Kerakat",
+          "name_hi": "Kerakat",
+          "aliases": [
+            "Kerakat"
+          ]
+        },
+        {
+          "slug": "dobhi",
+          "name": "Dobhi",
+          "name_hi": "Dobhi",
+          "aliases": [
+            "Dobhi"
+          ]
+        },
+        {
+          "slug": "mariahu",
+          "name": "Mariahu",
+          "name_hi": "Mariahu",
+          "aliases": [
+            "Mariahu"
+          ]
+        },
+        {
+          "slug": "barsathi",
+          "name": "Barsathi",
+          "name_hi": "Barsathi",
+          "aliases": [
+            "Barsathi"
+          ]
+        },
+        {
+          "slug": "rampur",
+          "name": "Rampur",
+          "name_hi": "Rampur",
+          "aliases": [
+            "Rampur"
+          ]
+        },
+        {
+          "slug": "machhlishahr",
+          "name": "Machhlishahr",
+          "name_hi": "Machhlishahr",
+          "aliases": [
+            "Machhlishahr"
+          ]
+        },
+        {
+          "slug": "mogara-badshahpur",
+          "name": "Mogara Badshahpur",
+          "name_hi": "Mogara Badshahpur",
+          "aliases": [
+            "MogaraBadshahpur"
+          ]
+        },
+        {
+          "slug": "sujanganj",
+          "name": "Sujanganj",
+          "name_hi": "Sujanganj",
+          "aliases": [
+            "Sujanganj"
+          ]
+        },
+        {
+          "slug": "maharajganj",
+          "name": "Maharajganj",
+          "name_hi": "Maharajganj",
+          "aliases": [
+            "Maharajganj"
+          ]
+        },
+        {
+          "slug": "badlapur",
+          "name": "Badlapur",
+          "name_hi": "Badlapur",
+          "aliases": [
+            "Badlapur"
+          ]
+        },
+        {
+          "slug": "baksha",
+          "name": "Baksha",
+          "name_hi": "Baksha",
+          "aliases": [
+            "Baksha"
+          ]
+        },
+        {
+          "slug": "shahganj",
+          "name": "Shahganj",
+          "name_hi": "Shahganj",
+          "aliases": [
+            "Shahganj"
+          ]
+        },
+        {
+          "slug": "sondhi",
+          "name": "Sondhi",
+          "name_hi": "Sondhi",
+          "aliases": [
+            "Sondhi"
+          ]
+        },
+        {
+          "slug": "khutahan",
+          "name": "Khutahan",
+          "name_hi": "Khutahan",
+          "aliases": [
+            "Khutahan"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "jhansi",
+      "name": "Jhansi",
+      "name_hi": "झांसी",
+      "blocks": [
+        {
+          "slug": "badagaon",
+          "name": "Badagaon",
+          "name_hi": "Badagaon",
+          "aliases": [
+            "Badagaon"
+          ]
+        },
+        {
+          "slug": "babina",
+          "name": "Babina",
+          "name_hi": "Babina",
+          "aliases": [
+            "Babina"
+          ]
+        },
+        {
+          "slug": "mauranipur",
+          "name": "Mauranipur",
+          "name_hi": "Mauranipur",
+          "aliases": [
+            "Mauranipur"
+          ]
+        },
+        {
+          "slug": "bangra",
+          "name": "Bangra",
+          "name_hi": "Bangra",
+          "aliases": [
+            "Bangra"
+          ]
+        },
+        {
+          "slug": "gursarai",
+          "name": "Gursarai",
+          "name_hi": "Gursarai",
+          "aliases": [
+            "Gursarai"
+          ]
+        },
+        {
+          "slug": "bamaur",
+          "name": "Bamaur",
+          "name_hi": "Bamaur",
+          "aliases": [
+            "Bamaur"
+          ]
+        },
+        {
+          "slug": "moth",
+          "name": "Moth",
+          "name_hi": "Moth",
+          "aliases": [
+            "Moth"
+          ]
+        },
+        {
+          "slug": "chirgaon",
+          "name": "Chirgaon",
+          "name_hi": "Chirgaon",
+          "aliases": [
+            "Chirgaon"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "kannauj",
+      "name": "Kannauj",
+      "name_hi": "कन्नौज",
+      "blocks": [
+        {
+          "slug": "kannauj",
+          "name": "Kannauj",
+          "name_hi": "Kannauj",
+          "aliases": [
+            "Kannauj"
+          ]
+        },
+        {
+          "slug": "jalalabad",
+          "name": "Jalalabad",
+          "name_hi": "Jalalabad",
+          "aliases": [
+            "Jalalabad"
+          ]
+        },
+        {
+          "slug": "guganpur",
+          "name": "Guganpur",
+          "name_hi": "Guganpur",
+          "aliases": [
+            "Guganpur"
+          ]
+        },
+        {
+          "slug": "talgram",
+          "name": "Talgram",
+          "name_hi": "Talgram",
+          "aliases": [
+            "Talgram"
+          ]
+        },
+        {
+          "slug": "chhibramau",
+          "name": "Chhibramau",
+          "name_hi": "Chhibramau",
+          "aliases": [
+            "Chhibramau"
+          ]
+        },
+        {
+          "slug": "saurikh",
+          "name": "Saurikh",
+          "name_hi": "Saurikh",
+          "aliases": [
+            "Saurikh"
+          ]
+        },
+        {
+          "slug": "tirwa",
+          "name": "Tirwa",
+          "name_hi": "Tirwa",
+          "aliases": [
+            "Tirwa"
+          ]
+        },
+        {
+          "slug": "haseran",
+          "name": "Haseran",
+          "name_hi": "Haseran",
+          "aliases": [
+            "Haseran"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "kanpur-dehat",
+      "name": "Kanpur Dehat",
+      "name_hi": "कानपुर देहात",
+      "blocks": [
+        {
+          "slug": "akbarpur",
+          "name": "Akbarpur",
+          "name_hi": "Akbarpur",
+          "aliases": [
+            "Akbarpur"
+          ]
+        },
+        {
+          "slug": "sarbankhera",
+          "name": "Sarbankhera",
+          "name_hi": "Sarbankhera",
+          "aliases": [
+            "Sarbankhera"
+          ]
+        },
+        {
+          "slug": "malasa",
+          "name": "Malasa",
+          "name_hi": "Malasa",
+          "aliases": [
+            "Malasa"
+          ]
+        },
+        {
+          "slug": "amraudha",
+          "name": "Amraudha",
+          "name_hi": "Amraudha",
+          "aliases": [
+            "Amraudha"
+          ]
+        },
+        {
+          "slug": "rajpur",
+          "name": "Rajpur",
+          "name_hi": "Rajpur",
+          "aliases": [
+            "Rajpur"
+          ]
+        },
+        {
+          "slug": "derapur",
+          "name": "Derapur",
+          "name_hi": "Derapur",
+          "aliases": [
+            "Derapur"
+          ]
+        },
+        {
+          "slug": "jhinjhak",
+          "name": "Jhinjhak",
+          "name_hi": "Jhinjhak",
+          "aliases": [
+            "Jhinjhak"
+          ]
+        },
+        {
+          "slug": "rasulabad",
+          "name": "Rasulabad",
+          "name_hi": "Rasulabad",
+          "aliases": [
+            "Rasulabad"
+          ]
+        },
+        {
+          "slug": "sikandra",
+          "name": "Sikandra",
+          "name_hi": "Sikandra",
+          "aliases": [
+            "Sikandra"
+          ]
+        },
+        {
+          "slug": "sandalpur",
+          "name": "Sandalpur",
+          "name_hi": "Sandalpur",
+          "aliases": [
+            "Sandalpur"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "kanpur-nagar",
+      "name": "Kanpur Nagar",
+      "name_hi": "कानपुर नगर",
+      "blocks": [
+        {
+          "slug": "kalyanpur",
+          "name": "Kalyanpur",
+          "name_hi": "Kalyanpur",
+          "aliases": [
+            "Kalyanpur"
+          ]
+        },
+        {
+          "slug": "sarsaul",
+          "name": "Sarsaul",
+          "name_hi": "Sarsaul",
+          "aliases": [
+            "Sarsaul"
+          ]
+        },
+        {
+          "slug": "bidnu",
+          "name": "Bidnu",
+          "name_hi": "Bidnu",
+          "aliases": [
+            "Bidnu"
+          ]
+        },
+        {
+          "slug": "bhitargaon",
+          "name": "Bhitargaon",
+          "name_hi": "Bhitargaon",
+          "aliases": [
+            "Bhitargaon"
+          ]
+        },
+        {
+          "slug": "ghatampur",
+          "name": "Ghatampur",
+          "name_hi": "Ghatampur",
+          "aliases": [
+            "Ghatampur"
+          ]
+        },
+        {
+          "slug": "patara",
+          "name": "Patara",
+          "name_hi": "Patara",
+          "aliases": [
+            "Patara"
+          ]
+        },
+        {
+          "slug": "bilhaur",
+          "name": "Bilhaur",
+          "name_hi": "Bilhaur",
+          "aliases": [
+            "Bilhaur"
+          ]
+        },
+        {
+          "slug": "shivrajpur",
+          "name": "Shivrajpur",
+          "name_hi": "Shivrajpur",
+          "aliases": [
+            "Shivrajpur"
+          ]
+        },
+        {
+          "slug": "chaubepur",
+          "name": "Chaubepur",
+          "name_hi": "Chaubepur",
+          "aliases": [
+            "Chaubepur"
+          ]
+        },
+        {
+          "slug": "kakwan",
+          "name": "Kakwan",
+          "name_hi": "Kakwan",
+          "aliases": [
+            "Kakwan"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "kasganj",
+      "name": "Kasganj",
+      "name_hi": "कासगंज",
+      "blocks": [
+        {
+          "slug": "kasganj",
+          "name": "Kasganj",
+          "name_hi": "Kasganj",
+          "aliases": [
+            "Kasganj"
+          ]
+        },
+        {
+          "slug": "soron",
+          "name": "Soron",
+          "name_hi": "Soron",
+          "aliases": [
+            "Soron"
+          ]
+        },
+        {
+          "slug": "sahaver",
+          "name": "Sahaver",
+          "name_hi": "Sahaver",
+          "aliases": [
+            "Sahaver"
+          ]
+        },
+        {
+          "slug": "amanpur",
+          "name": "Amanpur",
+          "name_hi": "Amanpur",
+          "aliases": [
+            "Amanpur"
+          ]
+        },
+        {
+          "slug": "patiyali",
+          "name": "Patiyali",
+          "name_hi": "Patiyali",
+          "aliases": [
+            "Patiyali"
+          ]
+        },
+        {
+          "slug": "ganjdundwara",
+          "name": "Ganjdundwara",
+          "name_hi": "Ganjdundwara",
+          "aliases": [
+            "Ganjdundwara"
+          ]
+        },
+        {
+          "slug": "sidhpura",
+          "name": "Sidhpura",
+          "name_hi": "Sidhpura",
+          "aliases": [
+            "Sidhpura"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "kaushambi",
+      "name": "Kaushambi",
+      "name_hi": "कौशाम्बी",
+      "blocks": [
+        {
+          "slug": "manjhanpur",
+          "name": "Manjhanpur",
+          "name_hi": "Manjhanpur",
+          "aliases": [
+            "Manjhanpur"
+          ]
+        },
+        {
+          "slug": "sarsawan",
+          "name": "Sarsawan",
+          "name_hi": "Sarsawan",
+          "aliases": [
+            "Sarsawan"
+          ]
+        },
+        {
+          "slug": "kaushambi",
+          "name": "Kaushambi",
+          "name_hi": "Kaushambi",
+          "aliases": [
+            "Kaushambi"
+          ]
+        },
+        {
+          "slug": "chail",
+          "name": "Chail",
+          "name_hi": "Chail",
+          "aliases": [
+            "Chail"
+          ]
+        },
+        {
+          "slug": "nevada",
+          "name": "Nevada",
+          "name_hi": "Nevada",
+          "aliases": [
+            "Nevada"
+          ]
+        },
+        {
+          "slug": "muratganj",
+          "name": "Muratganj",
+          "name_hi": "Muratganj",
+          "aliases": [
+            "Muratganj"
+          ]
+        },
+        {
+          "slug": "sirathu",
+          "name": "Sirathu",
+          "name_hi": "Sirathu",
+          "aliases": [
+            "Sirathu"
+          ]
+        },
+        {
+          "slug": "kara",
+          "name": "Kara",
+          "name_hi": "Kara",
+          "aliases": [
+            "Kara"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "kushinagar",
+      "name": "Kushinagar",
+      "name_hi": "कुशीनगर",
+      "blocks": [
+        {
+          "slug": "padrauna",
+          "name": "Padrauna",
+          "name_hi": "Padrauna",
+          "aliases": [
+            "Padrauna"
+          ]
+        },
+        {
+          "slug": "vishunpura",
+          "name": "Vishunpura",
+          "name_hi": "Vishunpura",
+          "aliases": [
+            "Vishunpura"
+          ]
+        },
+        {
+          "slug": "nebua-naurangiya",
+          "name": "Nebua Naurangiya",
+          "name_hi": "Nebua Naurangiya",
+          "aliases": [
+            "NebuaNaurangiya"
+          ]
+        },
+        {
+          "slug": "khadda",
+          "name": "Khadda",
+          "name_hi": "Khadda",
+          "aliases": [
+            "Khadda"
+          ]
+        },
+        {
+          "slug": "kasia",
+          "name": "Kasia",
+          "name_hi": "Kasia",
+          "aliases": [
+            "Kasia"
+          ]
+        },
+        {
+          "slug": "fazilnagar",
+          "name": "Fazilnagar",
+          "name_hi": "Fazilnagar",
+          "aliases": [
+            "Fazilnagar"
+          ]
+        },
+        {
+          "slug": "hata",
+          "name": "Hata",
+          "name_hi": "Hata",
+          "aliases": [
+            "Hata"
+          ]
+        },
+        {
+          "slug": "kaptanganj",
+          "name": "Kaptanganj",
+          "name_hi": "Kaptanganj",
+          "aliases": [
+            "Kaptanganj"
+          ]
+        },
+        {
+          "slug": "motichak",
+          "name": "Motichak",
+          "name_hi": "Motichak",
+          "aliases": [
+            "Motichak"
+          ]
+        },
+        {
+          "slug": "sukrauli",
+          "name": "Sukrauli",
+          "name_hi": "Sukrauli",
+          "aliases": [
+            "Sukrauli"
+          ]
+        },
+        {
+          "slug": "tamkuhi-raj",
+          "name": "Tamkuhi Raj",
+          "name_hi": "Tamkuhi Raj",
+          "aliases": [
+            "TamkuhiRaj"
+          ]
+        },
+        {
+          "slug": "seorahi",
+          "name": "Seorahi",
+          "name_hi": "Seorahi",
+          "aliases": [
+            "Seorahi"
+          ]
+        },
+        {
+          "slug": "dudhai",
+          "name": "Dudhai",
+          "name_hi": "Dudhai",
+          "aliases": [
+            "Dudhai"
+          ]
+        },
+        {
+          "slug": "ramkola",
+          "name": "Ramkola",
+          "name_hi": "Ramkola",
+          "aliases": [
+            "Ramkola"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lakhimpur-kheri",
+      "name": "Lakhimpur Kheri",
+      "name_hi": "लखीमपुर खीरी",
+      "blocks": [
+        {
+          "slug": "lakhimpur",
+          "name": "Lakhimpur",
+          "name_hi": "Lakhimpur",
+          "aliases": [
+            "Lakhimpur"
+          ]
+        },
+        {
+          "slug": "behjam",
+          "name": "Behjam",
+          "name_hi": "Behjam",
+          "aliases": [
+            "Behjam"
+          ]
+        },
+        {
+          "slug": "mitauli",
+          "name": "Mitauli",
+          "name_hi": "Mitauli",
+          "aliases": [
+            "Mitauli"
+          ]
+        },
+        {
+          "slug": "pasgawan",
+          "name": "Pasgawan",
+          "name_hi": "Pasgawan",
+          "aliases": [
+            "Pasgawan"
+          ]
+        },
+        {
+          "slug": "mohammadi",
+          "name": "Mohammadi",
+          "name_hi": "Mohammadi",
+          "aliases": [
+            "Mohammadi"
+          ]
+        },
+        {
+          "slug": "gola",
+          "name": "Gola",
+          "name_hi": "Gola",
+          "aliases": [
+            "Gola"
+          ]
+        },
+        {
+          "slug": "bankeyganj",
+          "name": "Bankeyganj",
+          "name_hi": "Bankeyganj",
+          "aliases": [
+            "Bankeyganj"
+          ]
+        },
+        {
+          "slug": "bijua",
+          "name": "Bijua",
+          "name_hi": "Bijua",
+          "aliases": [
+            "Bijua"
+          ]
+        },
+        {
+          "slug": "paliya",
+          "name": "Paliya",
+          "name_hi": "Paliya",
+          "aliases": [
+            "Paliya"
+          ]
+        },
+        {
+          "slug": "nighasan",
+          "name": "Nighasan",
+          "name_hi": "Nighasan",
+          "aliases": [
+            "Nighasan"
+          ]
+        },
+        {
+          "slug": "ramia-behar",
+          "name": "Ramia Behar",
+          "name_hi": "Ramia Behar",
+          "aliases": [
+            "RamiaBehar"
+          ]
+        },
+        {
+          "slug": "dhaurahra",
+          "name": "Dhaurahra",
+          "name_hi": "Dhaurahra",
+          "aliases": [
+            "Dhaurahra"
+          ]
+        },
+        {
+          "slug": "isanagar",
+          "name": "Isanagar",
+          "name_hi": "Isanagar",
+          "aliases": [
+            "Isanagar"
+          ]
+        },
+        {
+          "slug": "nakaha",
+          "name": "Nakaha",
+          "name_hi": "Nakaha",
+          "aliases": [
+            "Nakaha"
+          ]
+        },
+        {
+          "slug": "phoolbehar",
+          "name": "Phoolbehar",
+          "name_hi": "Phoolbehar",
+          "aliases": [
+            "Phoolbehar"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lalitpur",
+      "name": "Lalitpur",
+      "name_hi": "ललितपुर",
+      "blocks": [
+        {
+          "slug": "birdha",
+          "name": "Birdha",
+          "name_hi": "Birdha",
+          "aliases": [
+            "Birdha"
+          ]
+        },
+        {
+          "slug": "jakhaura",
+          "name": "Jakhaura",
+          "name_hi": "Jakhaura",
+          "aliases": [
+            "Jakhaura"
+          ]
+        },
+        {
+          "slug": "talbehat",
+          "name": "Talbehat",
+          "name_hi": "Talbehat",
+          "aliases": [
+            "Talbehat"
+          ]
+        },
+        {
+          "slug": "bar",
+          "name": "Bar",
+          "name_hi": "Bar",
+          "aliases": [
+            "Bar"
+          ]
+        },
+        {
+          "slug": "mahroni",
+          "name": "Mahroni",
+          "name_hi": "Mahroni",
+          "aliases": [
+            "Mahroni"
+          ]
+        },
+        {
+          "slug": "madawara",
+          "name": "Madawara",
+          "name_hi": "Madawara",
+          "aliases": [
+            "Madawara"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lucknow",
+      "name": "Lucknow",
+      "name_hi": "लखनऊ",
+      "blocks": [
+        {
+          "slug": "bakshi-ka-talab",
+          "name": "Bakshi Ka Talab",
+          "name_hi": "Bakshi Ka Talab",
+          "aliases": [
+            "BakshiKaTalab"
+          ]
+        },
+        {
+          "slug": "chinhat",
+          "name": "Chinhat",
+          "name_hi": "Chinhat",
+          "aliases": [
+            "Chinhat"
+          ]
+        },
+        {
+          "slug": "kakori",
+          "name": "Kakori",
+          "name_hi": "Kakori",
+          "aliases": [
+            "Kakori"
+          ]
+        },
+        {
+          "slug": "mal",
+          "name": "Mal",
+          "name_hi": "Mal",
+          "aliases": [
+            "Mal"
+          ]
+        },
+        {
+          "slug": "malihabad",
+          "name": "Malihabad",
+          "name_hi": "Malihabad",
+          "aliases": [
+            "Malihabad"
+          ]
+        },
+        {
+          "slug": "gosainganj",
+          "name": "Gosainganj",
+          "name_hi": "Gosainganj",
+          "aliases": [
+            "Gosainganj"
+          ]
+        },
+        {
+          "slug": "mohanlalganj",
+          "name": "Mohanlalganj",
+          "name_hi": "Mohanlalganj",
+          "aliases": [
+            "Mohanlalganj"
+          ]
+        },
+        {
+          "slug": "sarojini-nagar",
+          "name": "Sarojini Nagar",
+          "name_hi": "Sarojini Nagar",
+          "aliases": [
+            "SarojiniNagar"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "maharajganj",
+      "name": "Maharajganj",
+      "name_hi": "महराजगंज",
+      "blocks": [
+        {
+          "slug": "maharajganj",
+          "name": "Maharajganj",
+          "name_hi": "Maharajganj",
+          "aliases": [
+            "Maharajganj"
+          ]
+        },
+        {
+          "slug": "mithaura",
+          "name": "Mithaura",
+          "name_hi": "Mithaura",
+          "aliases": [
+            "Mithaura"
+          ]
+        },
+        {
+          "slug": "siswa",
+          "name": "Siswa",
+          "name_hi": "Siswa",
+          "aliases": [
+            "Siswa"
+          ]
+        },
+        {
+          "slug": "nichlaul",
+          "name": "Nichlaul",
+          "name_hi": "Nichlaul",
+          "aliases": [
+            "Nichlaul"
+          ]
+        },
+        {
+          "slug": "nautanwa",
+          "name": "Nautanwa",
+          "name_hi": "Nautanwa",
+          "aliases": [
+            "Nautanwa"
+          ]
+        },
+        {
+          "slug": "ratanpur",
+          "name": "Ratanpur",
+          "name_hi": "Ratanpur",
+          "aliases": [
+            "Ratanpur"
+          ]
+        },
+        {
+          "slug": "laxmipur",
+          "name": "Laxmipur",
+          "name_hi": "Laxmipur",
+          "aliases": [
+            "Laxmipur"
+          ]
+        },
+        {
+          "slug": "brijmanganj",
+          "name": "Brijmanganj",
+          "name_hi": "Brijmanganj",
+          "aliases": [
+            "Brijmanganj"
+          ]
+        },
+        {
+          "slug": "pharenda",
+          "name": "Pharenda",
+          "name_hi": "Pharenda",
+          "aliases": [
+            "Pharenda"
+          ]
+        },
+        {
+          "slug": "dhani",
+          "name": "Dhani",
+          "name_hi": "Dhani",
+          "aliases": [
+            "Dhani"
+          ]
+        },
+        {
+          "slug": "paniara",
+          "name": "Paniara",
+          "name_hi": "Paniara",
+          "aliases": [
+            "Paniara"
+          ]
+        },
+        {
+          "slug": "partawal",
+          "name": "Partawal",
+          "name_hi": "Partawal",
+          "aliases": [
+            "Partawal"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "mahoba",
+      "name": "Mahoba",
+      "name_hi": "महोबा",
+      "blocks": [
+        {
+          "slug": "kabrai",
+          "name": "Kabrai",
+          "name_hi": "Kabrai",
+          "aliases": [
+            "Kabrai"
+          ]
+        },
+        {
+          "slug": "charkhari",
+          "name": "Charkhari",
+          "name_hi": "Charkhari",
+          "aliases": [
+            "Charkhari"
+          ]
+        },
+        {
+          "slug": "jaitpur",
+          "name": "Jaitpur",
+          "name_hi": "Jaitpur",
+          "aliases": [
+            "Jaitpur"
+          ]
+        },
+        {
+          "slug": "panwari",
+          "name": "Panwari",
+          "name_hi": "Panwari",
+          "aliases": [
+            "Panwari"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "mainpuri",
+      "name": "Mainpuri",
+      "name_hi": "मैनपुरी",
+      "blocks": [
+        {
+          "slug": "mainpuri",
+          "name": "Mainpuri",
+          "name_hi": "Mainpuri",
+          "aliases": [
+            "Mainpuri"
+          ]
+        },
+        {
+          "slug": "ghiror",
+          "name": "Ghiror",
+          "name_hi": "Ghiror",
+          "aliases": [
+            "Ghiror"
+          ]
+        },
+        {
+          "slug": "kuraoli",
+          "name": "Kuraoli",
+          "name_hi": "Kuraoli",
+          "aliases": [
+            "Kuraoli"
+          ]
+        },
+        {
+          "slug": "kishni",
+          "name": "Kishni",
+          "name_hi": "Kishni",
+          "aliases": [
+            "Kishni"
+          ]
+        },
+        {
+          "slug": "karhal",
+          "name": "Karhal",
+          "name_hi": "Karhal",
+          "aliases": [
+            "Karhal"
+          ]
+        },
+        {
+          "slug": "barnahal",
+          "name": "Barnahal",
+          "name_hi": "Barnahal",
+          "aliases": [
+            "Barnahal"
+          ]
+        },
+        {
+          "slug": "bewar",
+          "name": "Bewar",
+          "name_hi": "Bewar",
+          "aliases": [
+            "Bewar"
+          ]
+        },
+        {
+          "slug": "bhongaon",
+          "name": "Bhongaon",
+          "name_hi": "Bhongaon",
+          "aliases": [
+            "Bhongaon"
+          ]
+        },
+        {
+          "slug": "sultanganj",
+          "name": "Sultanganj",
+          "name_hi": "Sultanganj",
+          "aliases": [
+            "Sultanganj"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "mathura",
+      "name": "Mathura",
+      "name_hi": "मथुरा",
+      "blocks": [
+        {
+          "slug": "mathura",
+          "name": "Mathura",
+          "name_hi": "Mathura",
+          "aliases": [
+            "Mathura"
+          ]
+        },
+        {
+          "slug": "goverdhan",
+          "name": "Goverdhan",
+          "name_hi": "Goverdhan",
+          "aliases": [
+            "Goverdhan"
+          ]
+        },
+        {
+          "slug": "chhata",
+          "name": "Chhata",
+          "name_hi": "Chhata",
+          "aliases": [
+            "Chhata"
+          ]
+        },
+        {
+          "slug": "chaumuha",
+          "name": "Chaumuha",
+          "name_hi": "Chaumuha",
+          "aliases": [
+            "Chaumuha"
+          ]
+        },
+        {
+          "slug": "nandgaon",
+          "name": "Nandgaon",
+          "name_hi": "Nandgaon",
+          "aliases": [
+            "Nandgaon"
+          ]
+        },
+        {
+          "slug": "mant",
+          "name": "Mant",
+          "name_hi": "Mant",
+          "aliases": [
+            "Mant"
+          ]
+        },
+        {
+          "slug": "naujheel",
+          "name": "Naujheel",
+          "name_hi": "Naujheel",
+          "aliases": [
+            "Naujheel"
+          ]
+        },
+        {
+          "slug": "raya",
+          "name": "Raya",
+          "name_hi": "Raya",
+          "aliases": [
+            "Raya"
+          ]
+        },
+        {
+          "slug": "farah",
+          "name": "Farah",
+          "name_hi": "Farah",
+          "aliases": [
+            "Farah"
+          ]
+        },
+        {
+          "slug": "baldeo",
+          "name": "Baldeo",
+          "name_hi": "Baldeo",
+          "aliases": [
+            "Baldeo"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "mau",
+      "name": "Mau",
+      "name_hi": "मऊ",
+      "blocks": [
+        {
+          "slug": "pardaha",
+          "name": "Pardaha",
+          "name_hi": "Pardaha",
+          "aliases": [
+            "Pardaha"
+          ]
+        },
+        {
+          "slug": "ratanpura",
+          "name": "Ratanpura",
+          "name_hi": "Ratanpura",
+          "aliases": [
+            "Ratanpura"
+          ]
+        },
+        {
+          "slug": "ranipur",
+          "name": "Ranipur",
+          "name_hi": "Ranipur",
+          "aliases": [
+            "Ranipur"
+          ]
+        },
+        {
+          "slug": "kopaganj",
+          "name": "Kopaganj",
+          "name_hi": "Kopaganj",
+          "aliases": [
+            "Kopaganj"
+          ]
+        },
+        {
+          "slug": "ghosi",
+          "name": "Ghosi",
+          "name_hi": "Ghosi",
+          "aliases": [
+            "Ghosi"
+          ]
+        },
+        {
+          "slug": "badraon",
+          "name": "Badraon",
+          "name_hi": "Badraon",
+          "aliases": [
+            "Badraon"
+          ]
+        },
+        {
+          "slug": "fatehpur-madaun",
+          "name": "Fatehpur Madaun",
+          "name_hi": "Fatehpur Madaun",
+          "aliases": [
+            "FatehpurMadaun"
+          ]
+        },
+        {
+          "slug": "doharighat",
+          "name": "Doharighat",
+          "name_hi": "Doharighat",
+          "aliases": [
+            "Doharighat"
+          ]
+        },
+        {
+          "slug": "muhammadabad-gohna",
+          "name": "Muhammadabad Gohna",
+          "name_hi": "Muhammadabad Gohna",
+          "aliases": [
+            "MuhammadabadGohna"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "meerut",
+      "name": "Meerut",
+      "name_hi": "मेरठ",
+      "blocks": [
+        {
+          "slug": "meerut-sadar",
+          "name": "Meerut Sadar",
+          "name_hi": "Meerut Sadar",
+          "aliases": [
+            "MeerutSadar"
+          ]
+        },
+        {
+          "slug": "rajpura",
+          "name": "Rajpura",
+          "name_hi": "Rajpura",
+          "aliases": [
+            "Rajpura"
+          ]
+        },
+        {
+          "slug": "kharkhoda",
+          "name": "Kharkhoda",
+          "name_hi": "Kharkhoda",
+          "aliases": [
+            "Kharkhoda"
+          ]
+        },
+        {
+          "slug": "jani",
+          "name": "Jani",
+          "name_hi": "Jani",
+          "aliases": [
+            "Jani"
+          ]
+        },
+        {
+          "slug": "rohta",
+          "name": "Rohta",
+          "name_hi": "Rohta",
+          "aliases": [
+            "Rohta"
+          ]
+        },
+        {
+          "slug": "sardhana",
+          "name": "Sardhana",
+          "name_hi": "Sardhana",
+          "aliases": [
+            "Sardhana"
+          ]
+        },
+        {
+          "slug": "daurala",
+          "name": "Daurala",
+          "name_hi": "Daurala",
+          "aliases": [
+            "Daurala"
+          ]
+        },
+        {
+          "slug": "mawana",
+          "name": "Mawana",
+          "name_hi": "Mawana",
+          "aliases": [
+            "Mawana"
+          ]
+        },
+        {
+          "slug": "hastinapur",
+          "name": "Hastinapur",
+          "name_hi": "Hastinapur",
+          "aliases": [
+            "Hastinapur"
+          ]
+        },
+        {
+          "slug": "parikshitgarh",
+          "name": "Parikshitgarh",
+          "name_hi": "Parikshitgarh",
+          "aliases": [
+            "Parikshitgarh"
+          ]
+        },
+        {
+          "slug": "machhra",
+          "name": "Machhra",
+          "name_hi": "Machhra",
+          "aliases": [
+            "Machhra"
+          ]
+        },
+        {
+          "slug": "sarurpur",
+          "name": "Sarurpur",
+          "name_hi": "Sarurpur",
+          "aliases": [
+            "Sarurpur"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "mirzapur",
+      "name": "Mirzapur",
+      "name_hi": "मिर्जापुर",
+      "blocks": [
+        {
+          "slug": "nagar-city",
+          "name": "Nagar City",
+          "name_hi": "Nagar City",
+          "aliases": [
+            "NagarCity"
+          ]
+        },
+        {
+          "slug": "kon",
+          "name": "Kon",
+          "name_hi": "Kon",
+          "aliases": [
+            "Kon"
+          ]
+        },
+        {
+          "slug": "majhawan",
+          "name": "Majhawan",
+          "name_hi": "Majhawan",
+          "aliases": [
+            "Majhawan"
+          ]
+        },
+        {
+          "slug": "pahari",
+          "name": "Pahari",
+          "name_hi": "Pahari",
+          "aliases": [
+            "Pahari"
+          ]
+        },
+        {
+          "slug": "chunar-narayanpur",
+          "name": "Chunar (Narayanpur)",
+          "name_hi": "Chunar (Narayanpur)",
+          "aliases": [
+            "Chunar(Narayanpur)"
+          ]
+        },
+        {
+          "slug": "sikhar",
+          "name": "Sikhar",
+          "name_hi": "Sikhar",
+          "aliases": [
+            "Sikhar"
+          ]
+        },
+        {
+          "slug": "jamalpur",
+          "name": "Jamalpur",
+          "name_hi": "Jamalpur",
+          "aliases": [
+            "Jamalpur"
+          ]
+        },
+        {
+          "slug": "lalganj",
+          "name": "Lalganj",
+          "name_hi": "Lalganj",
+          "aliases": [
+            "Lalganj"
+          ]
+        },
+        {
+          "slug": "halia",
+          "name": "Halia",
+          "name_hi": "Halia",
+          "aliases": [
+            "Halia"
+          ]
+        },
+        {
+          "slug": "marihan",
+          "name": "Marihan",
+          "name_hi": "Marihan",
+          "aliases": [
+            "Marihan"
+          ]
+        },
+        {
+          "slug": "rajgarh",
+          "name": "Rajgarh",
+          "name_hi": "Rajgarh",
+          "aliases": [
+            "Rajgarh"
+          ]
+        },
+        {
+          "slug": "chhanbey",
+          "name": "Chhanbey",
+          "name_hi": "Chhanbey",
+          "aliases": [
+            "Chhanbey"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "moradabad",
+      "name": "Moradabad",
+      "name_hi": "मुरादाबाद",
+      "blocks": [
+        {
+          "slug": "moradabad-sadar",
+          "name": "Moradabad Sadar",
+          "name_hi": "Moradabad Sadar",
+          "aliases": [
+            "MoradabadSadar"
+          ]
+        },
+        {
+          "slug": "munda-pandey",
+          "name": "Munda Pandey",
+          "name_hi": "Munda Pandey",
+          "aliases": [
+            "MundaPandey"
+          ]
+        },
+        {
+          "slug": "bhagatpur-tanda",
+          "name": "Bhagatpur Tanda",
+          "name_hi": "Bhagatpur Tanda",
+          "aliases": [
+            "BhagatpurTanda"
+          ]
+        },
+        {
+          "slug": "kanth",
+          "name": "Kanth",
+          "name_hi": "Kanth",
+          "aliases": [
+            "Kanth"
+          ]
+        },
+        {
+          "slug": "chhajlat",
+          "name": "Chhajlat",
+          "name_hi": "Chhajlat",
+          "aliases": [
+            "Chhajlat"
+          ]
+        },
+        {
+          "slug": "dilari",
+          "name": "Dilari",
+          "name_hi": "Dilari",
+          "aliases": [
+            "Dilari"
+          ]
+        },
+        {
+          "slug": "thakurdwara",
+          "name": "Thakurdwara",
+          "name_hi": "Thakurdwara",
+          "aliases": [
+            "Thakurdwara"
+          ]
+        },
+        {
+          "slug": "bilari",
+          "name": "Bilari",
+          "name_hi": "Bilari",
+          "aliases": [
+            "Bilari"
+          ]
+        },
+        {
+          "slug": "kundarki",
+          "name": "Kundarki",
+          "name_hi": "Kundarki",
+          "aliases": [
+            "Kundarki"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "muzaffarnagar",
+      "name": "Muzaffarnagar",
+      "name_hi": "मुजफ्फरनगर",
+      "blocks": [
+        {
+          "slug": "muzaffarnagar",
+          "name": "Muzaffarnagar",
+          "name_hi": "Muzaffarnagar",
+          "aliases": [
+            "Muzaffarnagar"
+          ]
+        },
+        {
+          "slug": "baghra",
+          "name": "Baghra",
+          "name_hi": "Baghra",
+          "aliases": [
+            "Baghra"
+          ]
+        },
+        {
+          "slug": "charthawal",
+          "name": "Charthawal",
+          "name_hi": "Charthawal",
+          "aliases": [
+            "Charthawal"
+          ]
+        },
+        {
+          "slug": "kukra",
+          "name": "Kukra",
+          "name_hi": "Kukra",
+          "aliases": [
+            "Kukra"
+          ]
+        },
+        {
+          "slug": "purkazi",
+          "name": "Purkazi",
+          "name_hi": "Purkazi",
+          "aliases": [
+            "Purkazi"
+          ]
+        },
+        {
+          "slug": "khatauli",
+          "name": "Khatauli",
+          "name_hi": "Khatauli",
+          "aliases": [
+            "Khatauli"
+          ]
+        },
+        {
+          "slug": "jansath",
+          "name": "Jansath",
+          "name_hi": "Jansath",
+          "aliases": [
+            "Jansath"
+          ]
+        },
+        {
+          "slug": "morna",
+          "name": "Morna",
+          "name_hi": "Morna",
+          "aliases": [
+            "Morna"
+          ]
+        },
+        {
+          "slug": "budhana",
+          "name": "Budhana",
+          "name_hi": "Budhana",
+          "aliases": [
+            "Budhana"
+          ]
+        },
+        {
+          "slug": "shahpur",
+          "name": "Shahpur",
+          "name_hi": "Shahpur",
+          "aliases": [
+            "Shahpur"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "pilibhit",
+      "name": "Pilibhit",
+      "name_hi": "पीलीभीत",
+      "blocks": [
+        {
+          "slug": "marori",
+          "name": "Marori",
+          "name_hi": "Marori",
+          "aliases": [
+            "Marori"
+          ]
+        },
+        {
+          "slug": "lalaurikhera",
+          "name": "Lalaurikhera",
+          "name_hi": "Lalaurikhera",
+          "aliases": [
+            "Lalaurikhera"
+          ]
+        },
+        {
+          "slug": "amariya",
+          "name": "Amariya",
+          "name_hi": "Amariya",
+          "aliases": [
+            "Amariya"
+          ]
+        },
+        {
+          "slug": "barkhera",
+          "name": "Barkhera",
+          "name_hi": "Barkhera",
+          "aliases": [
+            "Barkhera"
+          ]
+        },
+        {
+          "slug": "bisalpur",
+          "name": "Bisalpur",
+          "name_hi": "Bisalpur",
+          "aliases": [
+            "Bisalpur"
+          ]
+        },
+        {
+          "slug": "bilsanda",
+          "name": "Bilsanda",
+          "name_hi": "Bilsanda",
+          "aliases": [
+            "Bilsanda"
+          ]
+        },
+        {
+          "slug": "puranpur",
+          "name": "Puranpur",
+          "name_hi": "Puranpur",
+          "aliases": [
+            "Puranpur"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "pratapgarh",
+      "name": "Pratapgarh",
+      "name_hi": "प्रतापगढ़",
+      "blocks": [
+        {
+          "slug": "sadar",
+          "name": "Sadar",
+          "name_hi": "Sadar",
+          "aliases": [
+            "Sadar"
+          ]
+        },
+        {
+          "slug": "mandhata",
+          "name": "Mandhata",
+          "name_hi": "Mandhata",
+          "aliases": [
+            "Mandhata"
+          ]
+        },
+        {
+          "slug": "sandwa-chandrika",
+          "name": "Sandwa Chandrika",
+          "name_hi": "Sandwa Chandrika",
+          "aliases": [
+            "SandwaChandrika"
+          ]
+        },
+        {
+          "slug": "laxmanpur",
+          "name": "Laxmanpur",
+          "name_hi": "Laxmanpur",
+          "aliases": [
+            "Laxmanpur"
+          ]
+        },
+        {
+          "slug": "sangramgarh",
+          "name": "Sangramgarh",
+          "name_hi": "Sangramgarh",
+          "aliases": [
+            "Sangramgarh"
+          ]
+        },
+        {
+          "slug": "babaganj",
+          "name": "Babaganj",
+          "name_hi": "Babaganj",
+          "aliases": [
+            "Babaganj"
+          ]
+        },
+        {
+          "slug": "kunda",
+          "name": "Kunda",
+          "name_hi": "Kunda",
+          "aliases": [
+            "Kunda"
+          ]
+        },
+        {
+          "slug": "bihar",
+          "name": "Bihar",
+          "name_hi": "Bihar",
+          "aliases": [
+            "Bihar"
+          ]
+        },
+        {
+          "slug": "lalganj",
+          "name": "Lalganj",
+          "name_hi": "Lalganj",
+          "aliases": [
+            "Lalganj"
+          ]
+        },
+        {
+          "slug": "rampur-sangramgarh",
+          "name": "Rampur Sangramgarh",
+          "name_hi": "Rampur Sangramgarh",
+          "aliases": [
+            "RampurSangramgarh"
+          ]
+        },
+        {
+          "slug": "patti",
+          "name": "Patti",
+          "name_hi": "Patti",
+          "aliases": [
+            "Patti"
+          ]
+        },
+        {
+          "slug": "aspur-deosara",
+          "name": "Aspur Deosara",
+          "name_hi": "Aspur Deosara",
+          "aliases": [
+            "AspurDeosara"
+          ]
+        },
+        {
+          "slug": "magraura",
+          "name": "Magraura",
+          "name_hi": "Magraura",
+          "aliases": [
+            "Magraura"
+          ]
+        },
+        {
+          "slug": "gaura",
+          "name": "Gaura",
+          "name_hi": "Gaura",
+          "aliases": [
+            "Gaura"
+          ]
+        },
+        {
+          "slug": "shivgarh",
+          "name": "Shivgarh",
+          "name_hi": "Shivgarh",
+          "aliases": [
+            "Shivgarh"
+          ]
+        },
+        {
+          "slug": "belha",
+          "name": "Belha",
+          "name_hi": "Belha",
+          "aliases": [
+            "Belha"
+          ]
+        },
+        {
+          "slug": "kalyanpur",
+          "name": "Kalyanpur",
+          "name_hi": "Kalyanpur",
+          "aliases": [
+            "Kalyanpur"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "prayagraj",
+      "name": "Prayagraj",
+      "name_hi": "प्रयागराज",
+      "blocks": [
+        {
+          "slug": "bahria",
+          "name": "Bahria",
+          "name_hi": "Bahria",
+          "aliases": [
+            "Bahria"
+          ]
+        },
+        {
+          "slug": "phulpur",
+          "name": "Phulpur",
+          "name_hi": "Phulpur",
+          "aliases": [
+            "Phulpur"
+          ]
+        },
+        {
+          "slug": "pratappur",
+          "name": "Pratappur",
+          "name_hi": "Pratappur",
+          "aliases": [
+            "Pratappur"
+          ]
+        },
+        {
+          "slug": "mauaima",
+          "name": "Mauaima",
+          "name_hi": "Mauaima",
+          "aliases": [
+            "Mauaima"
+          ]
+        },
+        {
+          "slug": "holagarh",
+          "name": "Holagarh",
+          "name_hi": "Holagarh",
+          "aliases": [
+            "Holagarh"
+          ]
+        },
+        {
+          "slug": "soraon",
+          "name": "Soraon",
+          "name_hi": "Soraon",
+          "aliases": [
+            "Soraon"
+          ]
+        },
+        {
+          "slug": "kaurihar",
+          "name": "Kaurihar",
+          "name_hi": "Kaurihar",
+          "aliases": [
+            "Kaurihar"
+          ]
+        },
+        {
+          "slug": "shringverpur",
+          "name": "Shringverpur",
+          "name_hi": "Shringverpur",
+          "aliases": [
+            "Shringverpur"
+          ]
+        },
+        {
+          "slug": "jasra",
+          "name": "Jasra",
+          "name_hi": "Jasra",
+          "aliases": [
+            "Jasra"
+          ]
+        },
+        {
+          "slug": "shankargarh",
+          "name": "Shankargarh",
+          "name_hi": "Shankargarh",
+          "aliases": [
+            "Shankargarh"
+          ]
+        },
+        {
+          "slug": "bara",
+          "name": "Bara",
+          "name_hi": "Bara",
+          "aliases": [
+            "Bara"
+          ]
+        },
+        {
+          "slug": "karchhana",
+          "name": "Karchhana",
+          "name_hi": "Karchhana",
+          "aliases": [
+            "Karchhana"
+          ]
+        },
+        {
+          "slug": "chaka",
+          "name": "Chaka",
+          "name_hi": "Chaka",
+          "aliases": [
+            "Chaka"
+          ]
+        },
+        {
+          "slug": "kaundhiyara",
+          "name": "Kaundhiyara",
+          "name_hi": "Kaundhiyara",
+          "aliases": [
+            "Kaundhiyara"
+          ]
+        },
+        {
+          "slug": "meja",
+          "name": "Meja",
+          "name_hi": "Meja",
+          "aliases": [
+            "Meja"
+          ]
+        },
+        {
+          "slug": "urwa",
+          "name": "Urwa",
+          "name_hi": "Urwa",
+          "aliases": [
+            "Urwa"
+          ]
+        },
+        {
+          "slug": "manda",
+          "name": "Manda",
+          "name_hi": "Manda",
+          "aliases": [
+            "Manda"
+          ]
+        },
+        {
+          "slug": "koraon",
+          "name": "Koraon",
+          "name_hi": "Koraon",
+          "aliases": [
+            "Koraon"
+          ]
+        },
+        {
+          "slug": "handia",
+          "name": "Handia",
+          "name_hi": "Handia",
+          "aliases": [
+            "Handia"
+          ]
+        },
+        {
+          "slug": "dhanupur",
+          "name": "Dhanupur",
+          "name_hi": "Dhanupur",
+          "aliases": [
+            "Dhanupur"
+          ]
+        },
+        {
+          "slug": "saidabad",
+          "name": "Saidabad",
+          "name_hi": "Saidabad",
+          "aliases": [
+            "Saidabad"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "raebareli",
+      "name": "Raebareli",
+      "name_hi": "रायबरेली",
+      "blocks": [
+        {
+          "slug": "rahi",
+          "name": "Rahi",
+          "name_hi": "Rahi",
+          "aliases": [
+            "Rahi"
+          ]
+        },
+        {
+          "slug": "amawa",
+          "name": "Amawa",
+          "name_hi": "Amawa",
+          "aliases": [
+            "Amawa"
+          ]
+        },
+        {
+          "slug": "harchandpur",
+          "name": "Harchandpur",
+          "name_hi": "Harchandpur",
+          "aliases": [
+            "Harchandpur"
+          ]
+        },
+        {
+          "slug": "sataon",
+          "name": "Sataon",
+          "name_hi": "Sataon",
+          "aliases": [
+            "Sataon"
+          ]
+        },
+        {
+          "slug": "bachhrawan",
+          "name": "Bachhrawan",
+          "name_hi": "Bachhrawan",
+          "aliases": [
+            "Bachhrawan"
+          ]
+        },
+        {
+          "slug": "shivgarh",
+          "name": "Shivgarh",
+          "name_hi": "Shivgarh",
+          "aliases": [
+            "Shivgarh"
+          ]
+        },
+        {
+          "slug": "sareni",
+          "name": "Sareni",
+          "name_hi": "Sareni",
+          "aliases": [
+            "Sareni"
+          ]
+        },
+        {
+          "slug": "maharajganj",
+          "name": "Maharajganj",
+          "name_hi": "Maharajganj",
+          "aliases": [
+            "Maharajganj"
+          ]
+        },
+        {
+          "slug": "salon",
+          "name": "Salon",
+          "name_hi": "Salon",
+          "aliases": [
+            "Salon"
+          ]
+        },
+        {
+          "slug": "khiron",
+          "name": "Khiron",
+          "name_hi": "Khiron",
+          "aliases": [
+            "Khiron"
+          ]
+        },
+        {
+          "slug": "chhatoh",
+          "name": "Chhatoh",
+          "name_hi": "Chhatoh",
+          "aliases": [
+            "Chhatoh"
+          ]
+        },
+        {
+          "slug": "lalganj",
+          "name": "Lalganj",
+          "name_hi": "Lalganj",
+          "aliases": [
+            "Lalganj"
+          ]
+        },
+        {
+          "slug": "jagatpur",
+          "name": "Jagatpur",
+          "name_hi": "Jagatpur",
+          "aliases": [
+            "Jagatpur"
+          ]
+        },
+        {
+          "slug": "rohaniya",
+          "name": "Rohaniya",
+          "name_hi": "Rohaniya",
+          "aliases": [
+            "Rohaniya"
+          ]
+        },
+        {
+          "slug": "unchahar",
+          "name": "Unchahar",
+          "name_hi": "Unchahar",
+          "aliases": [
+            "Unchahar"
+          ]
+        },
+        {
+          "slug": "deenshah-gaura",
+          "name": "Deenshah Gaura",
+          "name_hi": "Deenshah Gaura",
+          "aliases": [
+            "DeenshahGaura"
+          ]
+        },
+        {
+          "slug": "dalmau",
+          "name": "Dalmau",
+          "name_hi": "Dalmau",
+          "aliases": [
+            "Dalmau"
+          ]
+        },
+        {
+          "slug": "deeh",
+          "name": "Deeh",
+          "name_hi": "Deeh",
+          "aliases": [
+            "Deeh"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "rampur",
+      "name": "Rampur",
+      "name_hi": "रामपुर",
+      "blocks": [
+        {
+          "slug": "chamraua",
+          "name": "Chamraua",
+          "name_hi": "Chamraua",
+          "aliases": [
+            "Chamraua"
+          ]
+        },
+        {
+          "slug": "saidnagar",
+          "name": "Saidnagar",
+          "name_hi": "Saidnagar",
+          "aliases": [
+            "Saidnagar"
+          ]
+        },
+        {
+          "slug": "shahabad",
+          "name": "Shahabad",
+          "name_hi": "Shahabad",
+          "aliases": [
+            "Shahabad"
+          ]
+        },
+        {
+          "slug": "milak",
+          "name": "Milak",
+          "name_hi": "Milak",
+          "aliases": [
+            "Milak"
+          ]
+        },
+        {
+          "slug": "bilaspur",
+          "name": "Bilaspur",
+          "name_hi": "Bilaspur",
+          "aliases": [
+            "Bilaspur"
+          ]
+        },
+        {
+          "slug": "suar",
+          "name": "Suar",
+          "name_hi": "Suar",
+          "aliases": [
+            "Suar"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "saharanpur",
+      "name": "Saharanpur",
+      "name_hi": "सहारनपुर",
+      "blocks": [
+        {
+          "slug": "ballia-kheri",
+          "name": "Ballia Kheri",
+          "name_hi": "Ballia Kheri",
+          "aliases": [
+            "BalliaKheri"
+          ]
+        },
+        {
+          "slug": "puwaraka",
+          "name": "Puwaraka",
+          "name_hi": "Puwaraka",
+          "aliases": [
+            "Puwaraka"
+          ]
+        },
+        {
+          "slug": "sarsawa",
+          "name": "Sarsawa",
+          "name_hi": "Sarsawa",
+          "aliases": [
+            "Sarsawa"
+          ]
+        },
+        {
+          "slug": "nakur",
+          "name": "Nakur",
+          "name_hi": "Nakur",
+          "aliases": [
+            "Nakur"
+          ]
+        },
+        {
+          "slug": "gangoh",
+          "name": "Gangoh",
+          "name_hi": "Gangoh",
+          "aliases": [
+            "Gangoh"
+          ]
+        },
+        {
+          "slug": "deoband",
+          "name": "Deoband",
+          "name_hi": "Deoband",
+          "aliases": [
+            "Deoband"
+          ]
+        },
+        {
+          "slug": "nagal",
+          "name": "Nagal",
+          "name_hi": "Nagal",
+          "aliases": [
+            "Nagal"
+          ]
+        },
+        {
+          "slug": "rampur-maniharan",
+          "name": "Rampur Maniharan",
+          "name_hi": "Rampur Maniharan",
+          "aliases": [
+            "RampurManiharan"
+          ]
+        },
+        {
+          "slug": "nanauta",
+          "name": "Nanauta",
+          "name_hi": "Nanauta",
+          "aliases": [
+            "Nanauta"
+          ]
+        },
+        {
+          "slug": "sadauli-qadeem",
+          "name": "Sadauli Qadeem",
+          "name_hi": "Sadauli Qadeem",
+          "aliases": [
+            "SadauliQadeem"
+          ]
+        },
+        {
+          "slug": "muzaffarabad",
+          "name": "Muzaffarabad",
+          "name_hi": "Muzaffarabad",
+          "aliases": [
+            "Muzaffarabad"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sambhal",
+      "name": "Sambhal",
+      "name_hi": "सम्भल",
+      "blocks": [
+        {
+          "slug": "sambhal",
+          "name": "Sambhal",
+          "name_hi": "Sambhal",
+          "aliases": [
+            "Sambhal"
+          ]
+        },
+        {
+          "slug": "asmoli",
+          "name": "Asmoli",
+          "name_hi": "Asmoli",
+          "aliases": [
+            "Asmoli"
+          ]
+        },
+        {
+          "slug": "panwasa",
+          "name": "Panwasa",
+          "name_hi": "Panwasa",
+          "aliases": [
+            "Panwasa"
+          ]
+        },
+        {
+          "slug": "bahjoi",
+          "name": "Bahjoi",
+          "name_hi": "Bahjoi",
+          "aliases": [
+            "Bahjoi"
+          ]
+        },
+        {
+          "slug": "baniakhera",
+          "name": "Baniakhera",
+          "name_hi": "Baniakhera",
+          "aliases": [
+            "Baniakhera"
+          ]
+        },
+        {
+          "slug": "gunnaur",
+          "name": "Gunnaur",
+          "name_hi": "Gunnaur",
+          "aliases": [
+            "Gunnaur"
+          ]
+        },
+        {
+          "slug": "rajpura",
+          "name": "Rajpura",
+          "name_hi": "Rajpura",
+          "aliases": [
+            "Rajpura"
+          ]
+        },
+        {
+          "slug": "janawai",
+          "name": "Janawai",
+          "name_hi": "Janawai",
+          "aliases": [
+            "Janawai"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sant-kabir-nagar",
+      "name": "Sant Kabir Nagar",
+      "name_hi": "संत कबीर नगर",
+      "blocks": [
+        {
+          "slug": "khalilabad",
+          "name": "Khalilabad",
+          "name_hi": "Khalilabad",
+          "aliases": [
+            "Khalilabad"
+          ]
+        },
+        {
+          "slug": "baghnagar",
+          "name": "Baghnagar",
+          "name_hi": "Baghnagar",
+          "aliases": [
+            "Baghnagar"
+          ]
+        },
+        {
+          "slug": "semariyawan",
+          "name": "Semariyawan",
+          "name_hi": "Semariyawan",
+          "aliases": [
+            "Semariyawan"
+          ]
+        },
+        {
+          "slug": "mehdawal",
+          "name": "Mehdawal",
+          "name_hi": "Mehdawal",
+          "aliases": [
+            "Mehdawal"
+          ]
+        },
+        {
+          "slug": "belhar-kala",
+          "name": "Belhar Kala",
+          "name_hi": "Belhar Kala",
+          "aliases": [
+            "BelharKala"
+          ]
+        },
+        {
+          "slug": "satha",
+          "name": "Satha",
+          "name_hi": "Satha",
+          "aliases": [
+            "Satha"
+          ]
+        },
+        {
+          "slug": "dhanghata",
+          "name": "Dhanghata",
+          "name_hi": "Dhanghata",
+          "aliases": [
+            "Dhanghata"
+          ]
+        },
+        {
+          "slug": "hainsar-bazar",
+          "name": "Hainsar Bazar",
+          "name_hi": "Hainsar Bazar",
+          "aliases": [
+            "HainsarBazar"
+          ]
+        },
+        {
+          "slug": "pauli",
+          "name": "Pauli",
+          "name_hi": "Pauli",
+          "aliases": [
+            "Pauli"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "shahjahanpur",
+      "name": "Shahjahanpur",
+      "name_hi": "शाहजहाँपुर",
+      "blocks": [
+        {
+          "slug": "bhwal-khera",
+          "name": "Bhwal Khera",
+          "name_hi": "Bhwal Khera",
+          "aliases": [
+            "BhwalKhera"
+          ]
+        },
+        {
+          "slug": "dadraul",
+          "name": "Dadraul",
+          "name_hi": "Dadraul",
+          "aliases": [
+            "Dadraul"
+          ]
+        },
+        {
+          "slug": "tilhar",
+          "name": "Tilhar",
+          "name_hi": "Tilhar",
+          "aliases": [
+            "Tilhar"
+          ]
+        },
+        {
+          "slug": "nigohi",
+          "name": "Nigohi",
+          "name_hi": "Nigohi",
+          "aliases": [
+            "Nigohi"
+          ]
+        },
+        {
+          "slug": "katra",
+          "name": "Katra",
+          "name_hi": "Katra",
+          "aliases": [
+            "Katra"
+          ]
+        },
+        {
+          "slug": "jaitipur",
+          "name": "Jaitipur",
+          "name_hi": "Jaitipur",
+          "aliases": [
+            "Jaitipur"
+          ]
+        },
+        {
+          "slug": "jalalabad",
+          "name": "Jalalabad",
+          "name_hi": "Jalalabad",
+          "aliases": [
+            "Jalalabad"
+          ]
+        },
+        {
+          "slug": "mirzapur",
+          "name": "Mirzapur",
+          "name_hi": "Mirzapur",
+          "aliases": [
+            "Mirzapur"
+          ]
+        },
+        {
+          "slug": "madanapur",
+          "name": "Madanapur",
+          "name_hi": "Madanapur",
+          "aliases": [
+            "Madanapur"
+          ]
+        },
+        {
+          "slug": "kalan",
+          "name": "Kalan",
+          "name_hi": "Kalan",
+          "aliases": [
+            "Kalan"
+          ]
+        },
+        {
+          "slug": "powayan",
+          "name": "Powayan",
+          "name_hi": "Powayan",
+          "aliases": [
+            "Powayan"
+          ]
+        },
+        {
+          "slug": "banda",
+          "name": "Banda",
+          "name_hi": "Banda",
+          "aliases": [
+            "Banda"
+          ]
+        },
+        {
+          "slug": "khutar",
+          "name": "Khutar",
+          "name_hi": "Khutar",
+          "aliases": [
+            "Khutar"
+          ]
+        },
+        {
+          "slug": "sindhauli",
+          "name": "Sindhauli",
+          "name_hi": "Sindhauli",
+          "aliases": [
+            "Sindhauli"
+          ]
+        },
+        {
+          "slug": "kant",
+          "name": "Kant",
+          "name_hi": "Kant",
+          "aliases": [
+            "Kant"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "shamli",
+      "name": "Shamli",
+      "name_hi": "शामली",
+      "blocks": [
+        {
+          "slug": "shamli",
+          "name": "Shamli",
+          "name_hi": "Shamli",
+          "aliases": [
+            "Shamli"
+          ]
+        },
+        {
+          "slug": "kandhla",
+          "name": "Kandhla",
+          "name_hi": "Kandhla",
+          "aliases": [
+            "Kandhla"
+          ]
+        },
+        {
+          "slug": "thanabhawan",
+          "name": "Thanabhawan",
+          "name_hi": "Thanabhawan",
+          "aliases": [
+            "Thanabhawan"
+          ]
+        },
+        {
+          "slug": "kairana",
+          "name": "Kairana",
+          "name_hi": "Kairana",
+          "aliases": [
+            "Kairana"
+          ]
+        },
+        {
+          "slug": "unn",
+          "name": "Unn",
+          "name_hi": "Unn",
+          "aliases": [
+            "Unn"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "shravasti",
+      "name": "Shravasti",
+      "name_hi": "श्रावस्ती",
+      "blocks": [
+        {
+          "slug": "bhinga",
+          "name": "Bhinga",
+          "name_hi": "Bhinga",
+          "aliases": [
+            "Bhinga"
+          ]
+        },
+        {
+          "slug": "hariharpur-rani",
+          "name": "Hariharpur Rani",
+          "name_hi": "Hariharpur Rani",
+          "aliases": [
+            "HariharpurRani"
+          ]
+        },
+        {
+          "slug": "ikouna",
+          "name": "Ikouna",
+          "name_hi": "Ikouna",
+          "aliases": [
+            "Ikouna"
+          ]
+        },
+        {
+          "slug": "gilaula",
+          "name": "Gilaula",
+          "name_hi": "Gilaula",
+          "aliases": [
+            "Gilaula"
+          ]
+        },
+        {
+          "slug": "jamunaha",
+          "name": "Jamunaha",
+          "name_hi": "Jamunaha",
+          "aliases": [
+            "Jamunaha"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "siddharthnagar",
+      "name": "Siddharthnagar",
+      "name_hi": "सिद्धार्थनगर",
+      "blocks": [
+        {
+          "slug": "naugarh",
+          "name": "Naugarh",
+          "name_hi": "Naugarh",
+          "aliases": [
+            "Naugarh"
+          ]
+        },
+        {
+          "slug": "uska-bazar",
+          "name": "Uska Bazar",
+          "name_hi": "Uska Bazar",
+          "aliases": [
+            "UskaBazar"
+          ]
+        },
+        {
+          "slug": "birdpur",
+          "name": "Birdpur",
+          "name_hi": "Birdpur",
+          "aliases": [
+            "Birdpur"
+          ]
+        },
+        {
+          "slug": "lotan",
+          "name": "Lotan",
+          "name_hi": "Lotan",
+          "aliases": [
+            "Lotan"
+          ]
+        },
+        {
+          "slug": "jogia",
+          "name": "Jogia",
+          "name_hi": "Jogia",
+          "aliases": [
+            "Jogia"
+          ]
+        },
+        {
+          "slug": "bansi",
+          "name": "Bansi",
+          "name_hi": "Bansi",
+          "aliases": [
+            "Bansi"
+          ]
+        },
+        {
+          "slug": "khesraha",
+          "name": "Khesraha",
+          "name_hi": "Khesraha",
+          "aliases": [
+            "Khesraha"
+          ]
+        },
+        {
+          "slug": "mithwal",
+          "name": "Mithwal",
+          "name_hi": "Mithwal",
+          "aliases": [
+            "Mithwal"
+          ]
+        },
+        {
+          "slug": "itwa",
+          "name": "Itwa",
+          "name_hi": "Itwa",
+          "aliases": [
+            "Itwa"
+          ]
+        },
+        {
+          "slug": "barhni",
+          "name": "Barhni",
+          "name_hi": "Barhni",
+          "aliases": [
+            "Barhni"
+          ]
+        },
+        {
+          "slug": "khuniyaon",
+          "name": "Khuniyaon",
+          "name_hi": "Khuniyaon",
+          "aliases": [
+            "Khuniyaon"
+          ]
+        },
+        {
+          "slug": "domariyaganj",
+          "name": "Domariyaganj",
+          "name_hi": "Domariyaganj",
+          "aliases": [
+            "Domariyaganj"
+          ]
+        },
+        {
+          "slug": "bhanwapur",
+          "name": "Bhanwapur",
+          "name_hi": "Bhanwapur",
+          "aliases": [
+            "Bhanwapur"
+          ]
+        },
+        {
+          "slug": "shohratgarh",
+          "name": "Shohratgarh",
+          "name_hi": "Shohratgarh",
+          "aliases": [
+            "Shohratgarh"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sitapur",
+      "name": "Sitapur",
+      "name_hi": "सीतापुर",
+      "blocks": [
+        {
+          "slug": "khairabad",
+          "name": "Khairabad",
+          "name_hi": "Khairabad",
+          "aliases": [
+            "Khairabad"
+          ]
+        },
+        {
+          "slug": "aliya",
+          "name": "Aliya",
+          "name_hi": "Aliya",
+          "aliases": [
+            "Aliya"
+          ]
+        },
+        {
+          "slug": "hargaon",
+          "name": "Hargaon",
+          "name_hi": "Hargaon",
+          "aliases": [
+            "Hargaon"
+          ]
+        },
+        {
+          "slug": "aisbgh",
+          "name": "Aisbgh",
+          "name_hi": "Aisbgh",
+          "aliases": [
+            "Aisbgh"
+          ]
+        },
+        {
+          "slug": "parsendi",
+          "name": "Parsendi",
+          "name_hi": "Parsendi",
+          "aliases": [
+            "Parsendi"
+          ]
+        },
+        {
+          "slug": "laharpur",
+          "name": "Laharpur",
+          "name_hi": "Laharpur",
+          "aliases": [
+            "Laharpur"
+          ]
+        },
+        {
+          "slug": "behta",
+          "name": "Behta",
+          "name_hi": "Behta",
+          "aliases": [
+            "Behta"
+          ]
+        },
+        {
+          "slug": "reusa",
+          "name": "Reusa",
+          "name_hi": "Reusa",
+          "aliases": [
+            "Reusa"
+          ]
+        },
+        {
+          "slug": "sakran",
+          "name": "Sakran",
+          "name_hi": "Sakran",
+          "aliases": [
+            "Sakran"
+          ]
+        },
+        {
+          "slug": "biswan",
+          "name": "Biswan",
+          "name_hi": "Biswan",
+          "aliases": [
+            "Biswan"
+          ]
+        },
+        {
+          "slug": "pahala",
+          "name": "Pahala",
+          "name_hi": "Pahala",
+          "aliases": [
+            "Pahala"
+          ]
+        },
+        {
+          "slug": "mahmoodabad",
+          "name": "Mahmoodabad",
+          "name_hi": "Mahmoodabad",
+          "aliases": [
+            "Mahmoodabad"
+          ]
+        },
+        {
+          "slug": "rampur-mathura",
+          "name": "Rampur Mathura",
+          "name_hi": "Rampur Mathura",
+          "aliases": [
+            "RampurMathura"
+          ]
+        },
+        {
+          "slug": "sidhauli",
+          "name": "Sidhauli",
+          "name_hi": "Sidhauli",
+          "aliases": [
+            "Sidhauli"
+          ]
+        },
+        {
+          "slug": "kasmanda",
+          "name": "Kasmanda",
+          "name_hi": "Kasmanda",
+          "aliases": [
+            "Kasmanda"
+          ]
+        },
+        {
+          "slug": "gondlamau",
+          "name": "Gondlamau",
+          "name_hi": "Gondlamau",
+          "aliases": [
+            "Gondlamau"
+          ]
+        },
+        {
+          "slug": "misrikh",
+          "name": "Misrikh",
+          "name_hi": "Misrikh",
+          "aliases": [
+            "Misrikh"
+          ]
+        },
+        {
+          "slug": "machhrehta",
+          "name": "Machhrehta",
+          "name_hi": "Machhrehta",
+          "aliases": [
+            "Machhrehta"
+          ]
+        },
+        {
+          "slug": "pisawan",
+          "name": "Pisawan",
+          "name_hi": "Pisawan",
+          "aliases": [
+            "Pisawan"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sonbhadra",
+      "name": "Sonbhadra",
+      "name_hi": "सोनभद्र",
+      "blocks": [
+        {
+          "slug": "robertsganj",
+          "name": "Robertsganj",
+          "name_hi": "Robertsganj",
+          "aliases": [
+            "Robertsganj"
+          ]
+        },
+        {
+          "slug": "ghorawal",
+          "name": "Ghorawal",
+          "name_hi": "Ghorawal",
+          "aliases": [
+            "Ghorawal"
+          ]
+        },
+        {
+          "slug": "chatra",
+          "name": "Chatra",
+          "name_hi": "Chatra",
+          "aliases": [
+            "Chatra"
+          ]
+        },
+        {
+          "slug": "nagwa",
+          "name": "Nagwa",
+          "name_hi": "Nagwa",
+          "aliases": [
+            "Nagwa"
+          ]
+        },
+        {
+          "slug": "chopan",
+          "name": "Chopan",
+          "name_hi": "Chopan",
+          "aliases": [
+            "Chopan"
+          ]
+        },
+        {
+          "slug": "duddhi",
+          "name": "Duddhi",
+          "name_hi": "Duddhi",
+          "aliases": [
+            "Duddhi"
+          ]
+        },
+        {
+          "slug": "babhani",
+          "name": "Babhani",
+          "name_hi": "Babhani",
+          "aliases": [
+            "Babhani"
+          ]
+        },
+        {
+          "slug": "myorpur",
+          "name": "Myorpur",
+          "name_hi": "Myorpur",
+          "aliases": [
+            "Myorpur"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sultanpur",
+      "name": "Sultanpur",
+      "name_hi": "सुल्तानपुर",
+      "blocks": [
+        {
+          "slug": "dubeypur",
+          "name": "Dubeypur",
+          "name_hi": "Dubeypur",
+          "aliases": [
+            "Dubeypur"
+          ]
+        },
+        {
+          "slug": "kurebhar",
+          "name": "Kurebhar",
+          "name_hi": "Kurebhar",
+          "aliases": [
+            "Kurebhar"
+          ]
+        },
+        {
+          "slug": "jaisinghpur",
+          "name": "Jaisinghpur",
+          "name_hi": "Jaisinghpur",
+          "aliases": [
+            "Jaisinghpur"
+          ]
+        },
+        {
+          "slug": "dostpur",
+          "name": "Dostpur",
+          "name_hi": "Dostpur",
+          "aliases": [
+            "Dostpur"
+          ]
+        },
+        {
+          "slug": "akhand-nagar",
+          "name": "Akhand Nagar",
+          "name_hi": "Akhand Nagar",
+          "aliases": [
+            "AkhandNagar"
+          ]
+        },
+        {
+          "slug": "kadipur",
+          "name": "Kadipur",
+          "name_hi": "Kadipur",
+          "aliases": [
+            "Kadipur"
+          ]
+        },
+        {
+          "slug": "karaundi-kala",
+          "name": "Karaundi Kala",
+          "name_hi": "Karaundi Kala",
+          "aliases": [
+            "KaraundiKala"
+          ]
+        },
+        {
+          "slug": "lambhua",
+          "name": "Lambhua",
+          "name_hi": "Lambhua",
+          "aliases": [
+            "Lambhua"
+          ]
+        },
+        {
+          "slug": "pratappur-kamaicha",
+          "name": "Pratappur Kamaicha",
+          "name_hi": "Pratappur Kamaicha",
+          "aliases": [
+            "PratappurKamaicha"
+          ]
+        },
+        {
+          "slug": "bhadaiya",
+          "name": "Bhadaiya",
+          "name_hi": "Bhadaiya",
+          "aliases": [
+            "Bhadaiya"
+          ]
+        },
+        {
+          "slug": "motigarpur",
+          "name": "Motigarpur",
+          "name_hi": "Motigarpur",
+          "aliases": [
+            "Motigarpur"
+          ]
+        },
+        {
+          "slug": "kudwar",
+          "name": "Kudwar",
+          "name_hi": "Kudwar",
+          "aliases": [
+            "Kudwar"
+          ]
+        },
+        {
+          "slug": "dhanpatganj",
+          "name": "Dhanpatganj",
+          "name_hi": "Dhanpatganj",
+          "aliases": [
+            "Dhanpatganj"
+          ]
+        },
+        {
+          "slug": "baldirai",
+          "name": "Baldirai",
+          "name_hi": "Baldirai",
+          "aliases": [
+            "Baldirai"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "unnao",
+      "name": "Unnao",
+      "name_hi": "उन्नाव",
+      "blocks": [
+        {
+          "slug": "sikandarpur-sirohi",
+          "name": "Sikandarpur Sirohi",
+          "name_hi": "Sikandarpur Sirohi",
+          "aliases": [
+            "SikandarpurSirohi"
+          ]
+        },
+        {
+          "slug": "sikandarpur-karan",
+          "name": "Sikandarpur Karan",
+          "name_hi": "Sikandarpur Karan",
+          "aliases": [
+            "SikandarpurKaran"
+          ]
+        },
+        {
+          "slug": "bichhiya",
+          "name": "Bichhiya",
+          "name_hi": "Bichhiya",
+          "aliases": [
+            "Bichhiya"
+          ]
+        },
+        {
+          "slug": "nawabganj",
+          "name": "Nawabganj",
+          "name_hi": "Nawabganj",
+          "aliases": [
+            "Nawabganj"
+          ]
+        },
+        {
+          "slug": "hasanganj",
+          "name": "Hasanganj",
+          "name_hi": "Hasanganj",
+          "aliases": [
+            "Hasanganj"
+          ]
+        },
+        {
+          "slug": "miyanganj",
+          "name": "Miyanganj",
+          "name_hi": "Miyanganj",
+          "aliases": [
+            "Miyanganj"
+          ]
+        },
+        {
+          "slug": "auras",
+          "name": "Auras",
+          "name_hi": "Auras",
+          "aliases": [
+            "Auras"
+          ]
+        },
+        {
+          "slug": "safipur",
+          "name": "Safipur",
+          "name_hi": "Safipur",
+          "aliases": [
+            "Safipur"
+          ]
+        },
+        {
+          "slug": "fatehpur-chaurasi",
+          "name": "Fatehpur Chaurasi",
+          "name_hi": "Fatehpur Chaurasi",
+          "aliases": [
+            "FatehpurChaurasi"
+          ]
+        },
+        {
+          "slug": "bangarmau",
+          "name": "Bangarmau",
+          "name_hi": "Bangarmau",
+          "aliases": [
+            "Bangarmau"
+          ]
+        },
+        {
+          "slug": "ganj-moradabad",
+          "name": "Ganj Moradabad",
+          "name_hi": "Ganj Moradabad",
+          "aliases": [
+            "GanjMoradabad"
+          ]
+        },
+        {
+          "slug": "purwa",
+          "name": "Purwa",
+          "name_hi": "Purwa",
+          "aliases": [
+            "Purwa"
+          ]
+        },
+        {
+          "slug": "asoha",
+          "name": "Asoha",
+          "name_hi": "Asoha",
+          "aliases": [
+            "Asoha"
+          ]
+        },
+        {
+          "slug": "hilauli",
+          "name": "Hilauli",
+          "name_hi": "Hilauli",
+          "aliases": [
+            "Hilauli"
+          ]
+        },
+        {
+          "slug": "bighapur",
+          "name": "Bighapur",
+          "name_hi": "Bighapur",
+          "aliases": [
+            "Bighapur"
+          ]
+        },
+        {
+          "slug": "sumerpur",
+          "name": "Sumerpur",
+          "name_hi": "Sumerpur",
+          "aliases": [
+            "Sumerpur"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "varanasi",
+      "name": "Varanasi",
+      "name_hi": "वाराणसी",
+      "blocks": [
+        {
+          "slug": "kashi-vidyapeeth",
+          "name": "Kashi Vidyapeeth",
+          "name_hi": "Kashi Vidyapeeth",
+          "aliases": [
+            "KashiVidyapeeth"
+          ]
+        },
+        {
+          "slug": "harhua",
+          "name": "Harhua",
+          "name_hi": "Harhua",
+          "aliases": [
+            "Harhua"
+          ]
+        },
+        {
+          "slug": "pindra",
+          "name": "Pindra",
+          "name_hi": "Pindra",
+          "aliases": [
+            "Pindra"
+          ]
+        },
+        {
+          "slug": "baragaon",
+          "name": "Baragaon",
+          "name_hi": "Baragaon",
+          "aliases": [
+            "Baragaon"
+          ]
+        },
+        {
+          "slug": "araziline",
+          "name": "Araziline",
+          "name_hi": "Araziline",
+          "aliases": [
+            "Araziline"
+          ]
+        },
+        {
+          "slug": "sewapuri",
+          "name": "Sewapuri",
+          "name_hi": "Sewapuri",
+          "aliases": [
+            "Sewapuri"
+          ]
+        },
+        {
+          "slug": "cholapur",
+          "name": "Cholapur",
+          "name_hi": "Cholapur",
+          "aliases": [
+            "Cholapur"
+          ]
+        },
+        {
+          "slug": "chiraigaon",
+          "name": "Chiraigaon",
+          "name_hi": "Chiraigaon",
+          "aliases": [
+            "Chiraigaon"
+          ]
+        }
+      ]
+    }
+  ]
+}

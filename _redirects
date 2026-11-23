@@ -1,0 +1,15 @@
+# Clean URL redirects and language fallbacks
+/hi           /hi/          301!
+/officers     /officers/    301!
+/hi/officers  /hi/officers/ 301!
+/rti          /rti/         301!
+/hi/rti       /hi/rti/      301!
+/follow-up    /follow-up/   301!
+/hi/follow-up /hi/follow-up/ 301!
+/about        /about/       301!
+/hi/about     /hi/about/    301!
+/privacy      /privacy/     301!
+/hi/privacy   /hi/privacy/  301!
+
+# 404 Fallback
+/*            /404.html     404

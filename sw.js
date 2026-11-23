@@ -2,7 +2,7 @@
  * Service Worker: Offline Caching & Stale-While-Revalidate
  */
 
-const CACHE_NAME = 'up-civic-cache-v1';
+const CACHE_NAME = 'up-civic-cache-v2';
 
 const SHELL_ASSETS = [
   '/',
@@ -49,6 +49,20 @@ self.addEventListener('fetch', (event) => {
   // Only handle same-origin requests
   if (url.origin !== self.location.origin) return;
 
+  // HTML navigation: Network-First with cache fallback for instant updates
+  if (req.mode === 'navigate') {
+    event.respondWith(
+      fetch(req).then((res) => {
+        if (res && res.status === 200) {
+          const clone = res.clone();
+          caches.open(CACHE_NAME).then((cache) => cache.put(req, clone));
+        }
+        return res;
+      }).catch(() => caches.match(req))
+    );
+    return;
+  }
+
   // Stale-While-Revalidate Strategy for Data & Assets
   event.respondWith(
     caches.open(CACHE_NAME).then(async (cache) => {
@@ -59,10 +73,7 @@ self.addEventListener('fetch', (event) => {
           cache.put(req, networkResponse.clone());
         }
         return networkResponse;
-      }).catch((err) => {
-        // Network failed (offline)
-        return cachedResponse;
-      });
+      }).catch(() => cachedResponse);
 
       return cachedResponse || fetchPromise;
     })

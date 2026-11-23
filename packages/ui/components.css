@@ -737,3 +737,10 @@ select {
     color: var(--primary);
   }
 }
+
+/* 14. Print-only Elements (Hidden on screen) */
+.print-only,
+#printSection {
+  display: none !important;
+}
+

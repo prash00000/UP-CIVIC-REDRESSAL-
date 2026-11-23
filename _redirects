@@ -11,5 +11,11 @@
 /privacy      /privacy/     301!
 /hi/privacy   /hi/privacy/  301!
 
+# API Routes
+/api/v1/health       /.netlify/functions/health       200
+/api/v1/challenge    /.netlify/functions/challenge    200
+/api/v1/reports      /.netlify/functions/reports      200
+/api/admin/*         /.netlify/functions/admin-api    200
+
 # 404 Fallback
 /*            /404.html     404

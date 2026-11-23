@@ -90,6 +90,8 @@ describe('Validation Tests', () => {
   test('step 2 validation checks district, block, and village', () => {
     assert.strictEqual(validateStep2({ district: '', block: '', village: '' }).valid, false);
     assert.strictEqual(validateStep2({ district: 'Agra', block: 'Achhnera', village: 'Rampur' }).valid, true);
+    // Also test state-style object properties (districtSlug, blockName)
+    assert.strictEqual(validateStep2({ districtSlug: 'jaunpur', blockName: 'Shahganj', village: 'Kheta Sarai' }).valid, true);
   });
 
   test('step 3 validation checks name, mobile, and details length caps', () => {
@@ -105,6 +107,14 @@ describe('Validation Tests', () => {
       details: 'Handpump cylinder broken.'
     });
     assert.strictEqual(valid.valid, true);
+
+    // Also test state-style object properties (applicantName, applicantMobile)
+    const validState = validateStep3({
+      applicantName: 'Amit Sharma',
+      applicantMobile: '9454465263',
+      details: 'Handpump cylinder broken.'
+    });
+    assert.strictEqual(validState.valid, true);
   });
 });
 

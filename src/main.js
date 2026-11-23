@@ -8,12 +8,14 @@ import { resolveOfficer, getDistrictLookup } from './lib/officers.js';
 import { downloadIcs } from './lib/ics.js';
 import { saveDraft, loadDraft, clearDraft, saveTheme, loadTheme } from './lib/storage.js';
 import { getCurrentLang } from './lib/i18n.js';
+import { lookupPincode } from './lib/pincode.js';
 
 // State container
 export const state = {
   lang: 'en',
   currentStep: 1,
   category: 'road',
+  pincode: '',
   areaType: 'village',
   districtSlug: '',
   districtName: '',
@@ -115,7 +117,10 @@ function populateDistrictSelect() {
   state.blocksData.districts.forEach(d => {
     const opt = document.createElement('option');
     opt.value = d.slug;
-    opt.textContent = state.lang === 'hi' ? `${d.name_hi} (${d.name})` : d.name;
+    const label = state.lang === 'hi' ? `${d.name_hi} (${d.name})` : d.name;
+    opt.textContent = label;
+    opt.innerText = label;
+    opt.innerHTML = escapeHtml(label);
     opt.dataset.name = d.name;
     opt.dataset.nameHi = d.name_hi;
     if (d.slug === currentVal) opt.selected = true;
@@ -129,10 +134,13 @@ function populateDistrictSelect() {
 
 async function updateDistrictSelection(slug) {
   state.districtSlug = slug;
-  const distObj = state.blocksData?.districts.find(d => d.slug === slug);
+  const distObj = state.blocksData?.districts?.find(d => d.slug === slug || d.name.toLowerCase() === (slug || '').toLowerCase());
   if (distObj) {
+    state.districtSlug = distObj.slug;
     state.districtName = distObj.name;
     state.districtNameHi = distObj.name_hi;
+  } else {
+    state.districtName = slug;
   }
 
   // Populate block datalist
@@ -150,7 +158,7 @@ async function updateDistrictSelection(slug) {
 
   // Fetch district lookup JSON
   if (slug) {
-    state.districtLookup = await getDistrictLookup(slug);
+    state.districtLookup = await getDistrictLookup(state.districtSlug);
     updateOfficerPreview();
   }
 }
@@ -336,7 +344,23 @@ export function updateLetterPreview() {
     waBtn.href = `https://wa.me/?text=${encodeURIComponent(letterText)}`;
   }
 
-  saveDraft(state);
+  saveDraft({
+    category: state.category,
+    areaType: state.areaType,
+    districtSlug: state.districtSlug,
+    districtName: state.districtName,
+    districtNameHi: state.districtNameHi,
+    blockSlug: state.blockSlug,
+    blockName: state.blockName,
+    blockNameHi: state.blockNameHi,
+    village: state.village,
+    isPwdRoad: state.isPwdRoad,
+    applicantName: state.applicantName,
+    applicantMobile: state.applicantMobile,
+    details: state.details,
+    priorNote: state.priorNote,
+    currentStep: state.currentStep
+  });
 }
 
 /**
@@ -380,7 +404,14 @@ function initWizard() {
   // Restore draft if any
   const saved = loadDraft();
   if (saved) {
-    Object.assign(state, saved);
+    const allowedKeys = [
+      'category', 'areaType', 'districtSlug', 'districtName', 'districtNameHi',
+      'blockSlug', 'blockName', 'blockNameHi', 'village', 'isPwdRoad',
+      'applicantName', 'applicantMobile', 'details', 'priorNote', 'currentStep'
+    ];
+    allowedKeys.forEach(k => {
+      if (saved[k] !== undefined) state[k] = saved[k];
+    });
   }
 
   // Bind Step 1 problem selection
@@ -403,7 +434,74 @@ function initWizard() {
     });
   });
 
-  // Bind Step 2 location fields
+  // Bind Step 2 location fields & PIN code detection (Addendum)
+  const pinInput = document.getElementById('pincodeInput');
+  const pinStatus = document.getElementById('pincodeStatus');
+  const btnClearPin = document.getElementById('btnClearPincode');
+  const villageList = document.getElementById('villageLocalityList');
+
+  if (pinInput) {
+    if (state.pincode) {
+      pinInput.value = state.pincode;
+      if (btnClearPin) btnClearPin.style.display = 'inline-block';
+    }
+    pinInput.addEventListener('input', async (e) => {
+      const cleanVal = e.target.value.replace(/\D/g, '').slice(0, 6);
+      e.target.value = cleanVal;
+      state.pincode = cleanVal;
+      if (btnClearPin) btnClearPin.style.display = cleanVal ? 'inline-block' : 'none';
+
+      if (cleanVal.length === 6) {
+        if (pinStatus) pinStatus.textContent = state.lang === 'hi' ? 'खोज रहे हैं...' : 'Looking up PIN...';
+        const res = await lookupPincode(cleanVal);
+        if (res.valid) {
+          const msg = state.lang === 'hi' ? res.message_hi : res.message_en;
+          if (pinStatus) {
+            let statusText = msg;
+            if (res.hasTownOffice) {
+              statusText += ' ' + (state.lang === 'hi' ? '• इस पिन कोड में कस्बा/नगर डाकघर है।' : '• Note: Town post office detected.');
+            }
+            pinStatus.textContent = statusText;
+          }
+
+          // Populate locality suggestions
+          if (villageList && Array.isArray(res.localities)) {
+            villageList.innerHTML = '';
+            res.localities.forEach(loc => {
+              const opt = document.createElement('option');
+              opt.value = loc;
+              villageList.appendChild(opt);
+            });
+          }
+
+          // If single district, auto-select district
+          if (!res.isMultiDistrict && res.districtSlug) {
+            const dSelect = document.getElementById('districtSelect');
+            if (dSelect) {
+              dSelect.value = res.districtSlug;
+              updateDistrictSelection(res.districtSlug);
+            }
+          }
+        } else {
+          const msg = state.lang === 'hi' ? (res.message_hi || res.error) : (res.message_en || res.error);
+          if (pinStatus) pinStatus.textContent = msg;
+        }
+      } else {
+        if (pinStatus) pinStatus.textContent = '';
+      }
+    });
+
+    if (btnClearPin) {
+      btnClearPin.addEventListener('click', () => {
+        pinInput.value = '';
+        state.pincode = '';
+        btnClearPin.style.display = 'none';
+        if (pinStatus) pinStatus.textContent = '';
+        if (villageList) villageList.innerHTML = '';
+      });
+    }
+  }
+
   const areaRadios = document.querySelectorAll('input[name="areaType"]');
   areaRadios.forEach(radio => {
     if (radio.value === state.areaType) radio.checked = true;

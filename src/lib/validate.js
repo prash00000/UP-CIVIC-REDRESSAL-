@@ -17,15 +17,19 @@ export function validateStep1(data, i18n = {}) {
 
 export function validateStep2(data, i18n = {}) {
   const errors = {};
-  if (!data.district || !data.district.trim()) {
+  const district = (data.district || data.districtSlug || data.districtName || '').trim();
+  const block = (data.block || data.blockName || data.blockSlug || '').trim();
+  const village = (data.village || '').trim();
+
+  if (!district) {
     errors.district = i18n.err_district_required || 'Please select your district.';
   }
-  if (!data.block || !data.block.trim()) {
+  if (!block) {
     errors.block = i18n.err_block_required || 'Please enter or select your block / town name.';
   }
-  if (!data.village || !data.village.trim()) {
+  if (!village) {
     errors.village = i18n.err_village_required || 'Please enter your village, locality, or ward name.';
-  } else if (data.village.trim().length > 80) {
+  } else if (village.length > 80) {
     errors.village = 'Village / locality name must not exceed 80 characters.';
   }
   return {
@@ -36,20 +40,23 @@ export function validateStep2(data, i18n = {}) {
 
 export function validateStep3(data, i18n = {}) {
   const errors = {};
-  if (!data.name || !data.name.trim()) {
+  const name = (data.name || data.applicantName || '').trim();
+  const mobile = (data.mobile || data.applicantMobile || '').trim();
+  const details = (data.details || '').trim();
+
+  if (!name) {
     errors.name = i18n.err_name_required || 'Please enter your full name.';
-  } else if (data.name.trim().length > 80) {
+  } else if (name.length > 80) {
     errors.name = 'Name must not exceed 80 characters.';
   }
 
-  const mobileClean = (data.mobile || '').trim();
-  if (!mobileClean || !MOBILE_REGEX.test(mobileClean)) {
+  if (!mobile || !MOBILE_REGEX.test(mobile)) {
     errors.mobile = i18n.err_mobile_invalid || 'Please enter a valid 10-digit mobile number starting with 6, 7, 8, or 9.';
   }
 
-  if (!data.details || !data.details.trim()) {
+  if (!details) {
     errors.details = i18n.err_details_required || 'Please provide details about the problem.';
-  } else if (data.details.trim().length > 1500) {
+  } else if (details.length > 1500) {
     errors.details = 'Problem details must not exceed 1500 characters.';
   }
 

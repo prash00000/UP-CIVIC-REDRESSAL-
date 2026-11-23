@@ -44,6 +44,9 @@
   "cat_audit_default": "Information and inspection are requested regarding sanctioned public development funds, ongoing works, and completed construction quality in this locality.",
 
   "area_type": "Area type",
+  "pincode_label": "PIN code (optional, fills your district)",
+  "pincode_placeholder": "e.g., 229001",
+  "pincode_hint": "Enter 6-digit PIN to auto-detect District, Block hint & Village suggestions",
   "area_village": "Village (Gram Panchayat)",
   "area_village_hint": "Supervised by Block Development Officer (BDO). CC: CDO, DPRO, DM.",
   "area_town": "Town (Nagar Palika / Panchayat)",

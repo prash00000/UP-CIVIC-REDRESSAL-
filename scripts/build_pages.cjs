@@ -291,6 +291,17 @@ function generateHomePage(lang) {
         <h2 id="stepHeading2">${d.step2_title}</h2>
         <p class="form-hint">${d.step2_desc}</p>
 
+        <!-- PIN Code Detection (Addendum) -->
+        <div class="form-group" style="background: var(--surface); padding: var(--space-2); border-radius: var(--radius-sm); border: 1px solid var(--line); margin-top: var(--space-2); margin-bottom: var(--space-3);">
+          <label for="pincodeInput" class="form-label" style="display: flex; justify-content: space-between; align-items: center;">
+            <span>📮 ${d.pincode_label}</span>
+            <button type="button" id="btnClearPincode" class="btn btn-sm btn-secondary" style="display: none; padding: 2px 6px; font-size: 12px;">✕</button>
+          </label>
+          <input type="text" id="pincodeInput" class="input" inputmode="numeric" maxlength="6" pattern="^[1-9][0-9]{5}$" autocomplete="postal-code" placeholder="${d.pincode_placeholder}">
+          <div id="pincodeStatus" class="form-hint" role="status" aria-live="polite" style="margin-top: 4px; font-weight: 500; min-height: 1.4em;"></div>
+          <datalist id="villageLocalityList"></datalist>
+        </div>
+
         <!-- Area Type -->
         <fieldset class="form-group" style="border: none; margin: var(--space-3) 0;">
           <legend class="form-label">${d.area_type}</legend>
@@ -339,7 +350,7 @@ function generateHomePage(lang) {
         <!-- Village / Locality -->
         <div class="form-group">
           <label for="villageInput" class="form-label">${d.village_label} *</label>
-          <input type="text" id="villageInput" class="input" placeholder="${d.village_placeholder}" maxlength="80" required aria-required="true">
+          <input type="text" id="villageInput" class="input" list="villageLocalityList" placeholder="${d.village_placeholder}" maxlength="80" required aria-required="true">
         </div>
 
         <div style="display: flex; gap: var(--space-2); margin-top: var(--space-3);">

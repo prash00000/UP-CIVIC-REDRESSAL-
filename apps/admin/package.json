@@ -1,0 +1,10 @@
+{
+  "name": "@upcivic/admin",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Admin Console for UP Civic Grievance Helper",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  }
+}

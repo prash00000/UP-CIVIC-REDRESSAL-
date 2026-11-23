@@ -53,7 +53,7 @@ function renderHeader(lang, activeNav = 'home', altUrl = '') {
             🌐 ${d.lang_toggle}
           </a>
           <label for="themeToggle" class="visually-hidden" style="display:none;">${d.theme_toggle}</label>
-          <select id="themeToggle" class="select" style="min-height:36px; padding:4px 8px; font-size:13px; width:auto;">
+          <select id="themeToggle" class="select" style="min-height:36px; padding:4px 8px; font-size:16px; width:auto;">
             <option value="system">${d.theme_system}</option>
             <option value="light">${d.theme_light}</option>
             <option value="dark">${d.theme_dark}</option>
@@ -131,7 +131,7 @@ function renderHead({ title, description, lang, canonical, altLangUrl, extraJson
 <html lang="${lang}">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
   <title>${title}</title>
   <meta name="description" content="${description}">
   <link rel="canonical" href="${canonical}">
@@ -146,7 +146,9 @@ function renderHead({ title, description, lang, canonical, altLangUrl, extraJson
   <meta name="twitter:card" content="summary">
 
   <link rel="manifest" href="/manifest.webmanifest">
-  <meta name="theme-color" content="#005ea2">
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#161b22">
+  <meta name="color-scheme" content="light dark">
 
   <link rel="stylesheet" href="/src/styles/tokens.css">
   <link rel="stylesheet" href="/src/styles/base.css">

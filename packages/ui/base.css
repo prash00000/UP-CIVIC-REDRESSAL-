@@ -9,7 +9,13 @@
 html {
   font-size: 100%;
   -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
   scroll-behavior: smooth;
+}
+
+/* Scroll & overscroll behavior */
+html, body {
+  overscroll-behavior-y: none;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -30,10 +36,59 @@ body {
   font-size: var(--text-base);
   line-height: 1.6;
   min-height: 100vh;
+  min-height: 100dvh;
   display: flex;
   flex-direction: column;
-  padding-left: env(safe-area-inset-left);
-  padding-right: env(safe-area-inset-right);
+  overflow-x: hidden;
+  padding-left: env(safe-area-inset-left, 0px);
+  padding-right: env(safe-area-inset-right, 0px);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+/* Tap responsiveness: eliminate 300ms tap delay */
+button,
+a,
+[role="button"],
+.tile,
+.tappable {
+  touch-action: manipulation;
+}
+
+/* Long-press text selection: prevent callout on interactive controls */
+button,
+a.btn,
+.btn,
+[role="button"],
+.tile,
+.badge,
+.tab,
+[role="tab"],
+.tappable {
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+}
+
+/* Content remains selectable */
+body,
+.letter-text {
+  user-select: text;
+  -webkit-user-select: text;
+}
+
+/* Inputs: minimum 16px font-size to prevent iOS Safari auto-zoom */
+input,
+textarea,
+select {
+  font-size: 16px;
+}
+
+/* Inner scrollable containers: prevent scroll chaining to the page */
+textarea,
+.scrollable,
+[data-scrollable],
+.letter-text {
+  overscroll-behavior: contain;
 }
 
 /* Hindi Devanagari Typography Adjustment */
@@ -80,8 +135,10 @@ a {
   text-underline-offset: 3px;
 }
 
-a:hover {
-  color: var(--primary-d);
+@media (hover: hover) and (pointer: fine) {
+  a:hover {
+    color: var(--primary-d);
+  }
 }
 
 /* Accessible Focus Ring */

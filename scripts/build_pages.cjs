@@ -224,18 +224,18 @@ function generateHomePage(lang) {
     <!-- 3-Step Wizard Container -->
     <div class="wizard-card" style="background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-lg); padding: var(--space-3); box-shadow: var(--shadow-sm);">
       <!-- Stepper -->
-      <nav class="stepper" aria-label="${isHi ? 'प्रक्रिया चरण' : 'Process Steps'}">
+      <nav class="wizard-stepper stepper" aria-label="${isHi ? 'प्रक्रिया चरण' : 'Process Steps'}">
         <div id="stepperItem1" class="step-item is-current">
           <span class="step-num">1</span>
-          <span>${isHi ? 'समस्या' : 'Problem'}</span>
+          <span class="step-label">${isHi ? 'समस्या' : 'Issue'}</span>
         </div>
         <div id="stepperItem2" class="step-item">
           <span class="step-num">2</span>
-          <span>${isHi ? 'स्थान' : 'Location'}</span>
+          <span class="step-label">${isHi ? 'स्थान' : 'Location'}</span>
         </div>
         <div id="stepperItem3" class="step-item">
           <span class="step-num">3</span>
-          <span>${isHi ? 'शिकायत पत्र' : 'Letter'}</span>
+          <span class="step-label">${isHi ? 'अधिकारी एवं पत्र' : 'Officer &amp; Letter'}</span>
         </div>
       </nav>
 

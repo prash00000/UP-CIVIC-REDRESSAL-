@@ -52,12 +52,6 @@ function renderHeader(lang, activeNav = 'home', altUrl = '') {
           <a href="${targetAlt}" class="btn btn-sm btn-secondary" aria-label="${d.lang_toggle_aria}">
             🌐 ${d.lang_toggle}
           </a>
-          <label for="themeToggle" class="visually-hidden" style="display:none;">${d.theme_toggle}</label>
-          <select id="themeToggle" class="select" style="min-height:36px; padding:4px 8px; font-size:16px; width:auto;">
-            <option value="system">${d.theme_system}</option>
-            <option value="light">${d.theme_light}</option>
-            <option value="dark">${d.theme_dark}</option>
-          </select>
         </div>
       </div>
       <nav class="site-nav" role="navigation" aria-label="${isHi ? 'मुख्य नेविगेशन' : 'Main navigation'}">

@@ -12,6 +12,26 @@
     margin: 20mm 15mm 20mm 15mm;
   }
 
+  /* Explicitly hide all chrome and UI controls */
+  .site-header,
+  .site-nav,
+  .notice-banner,
+  .btn,
+  .letter-actions,
+  .wizard-card,
+  .wizard-stepper,
+  .stepper,
+  .step-pane,
+  .toast-region,
+  .skip-link,
+  .pill-group,
+  .char-count,
+  #detailsCharCount,
+  footer,
+  .site-footer {
+    display: none !important;
+  }
+
   /* Hide everything except the print container */
   body * {
     visibility: hidden;

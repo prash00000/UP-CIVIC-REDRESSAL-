@@ -143,6 +143,25 @@ async function updateDistrictSelection(slug) {
     state.districtName = slug;
   }
 
+  // If previous block does not belong to the new district, reset it
+  const blockInput = document.getElementById('blockInput');
+  if (blockInput && distObj) {
+    const entered = (blockInput.value || state.blockName || '').trim();
+    if (entered) {
+      const exists = distObj.blocks?.some(b =>
+        b.name.toLowerCase() === entered.toLowerCase() ||
+        b.slug.toLowerCase() === entered.toLowerCase() ||
+        (b.name_hi && b.name_hi === entered)
+      );
+      if (!exists) {
+        blockInput.value = '';
+        state.blockName = '';
+        state.blockSlug = '';
+        state.blockNameHi = '';
+      }
+    }
+  }
+
   // Populate block datalist
   const datalist = document.getElementById('blockList');
   if (datalist && distObj) {
@@ -367,6 +386,29 @@ export function updateLetterPreview() {
  * Step navigation with hash support and focus management
  */
 export function goToStep(stepNum) {
+  if (stepNum === 2) {
+    const v1 = validateStep1(state, state.i18n);
+    if (!v1.valid) {
+      showToast(v1.errors.category || (state.lang === 'hi' ? 'कृपया पहले समस्या चुनें' : 'Please select an issue first'));
+      goToStep(1);
+      return;
+    }
+  } else if (stepNum === 3) {
+    const v1 = validateStep1(state, state.i18n);
+    if (!v1.valid) {
+      goToStep(1);
+      return;
+    }
+    const v2 = validateStep2(state, state.i18n);
+    if (!v2.valid) {
+      const firstErr = Object.values(v2.errors)[0];
+      showToast(firstErr || (state.lang === 'hi' ? 'कृपया सभी आवश्यक स्थान विवरण भरें' : 'Please complete all required location fields'));
+      goToStep(2);
+      return;
+    }
+    updateOfficerPreview();
+  }
+
   state.currentStep = stepNum;
   window.location.hash = `step-${stepNum}`;
 
@@ -414,6 +456,22 @@ function initWizard() {
     });
   }
 
+  function updateCharCounter() {
+    const detailsCharCount = document.getElementById('detailsCharCount');
+    const detailsInput = document.getElementById('detailsInput');
+    if (detailsCharCount && detailsInput) {
+      const len = detailsInput.value.length;
+      detailsCharCount.textContent = `${len} / 1500`;
+      if (len >= 1500) {
+        detailsCharCount.style.color = 'var(--err)';
+      } else if (len >= 1400) {
+        detailsCharCount.style.color = '#b25e00';
+      } else {
+        detailsCharCount.style.color = 'var(--muted)';
+      }
+    }
+  }
+
   // Bind Step 1 problem selection
   const radioTiles = document.querySelectorAll('input[name="problemCategory"]');
   radioTiles.forEach(radio => {
@@ -424,7 +482,10 @@ function initWizard() {
       if (state.i18n[defaultTextKey]) {
         state.details = state.i18n[defaultTextKey];
         const detailsInput = document.getElementById('detailsInput');
-        if (detailsInput) detailsInput.value = state.details;
+        if (detailsInput) {
+          detailsInput.value = state.details;
+          updateCharCounter();
+        }
       }
       // Show/hide PWD road checkbox
       const pwdBox = document.getElementById('pwdRoadGroup');
@@ -434,11 +495,70 @@ function initWizard() {
     });
   });
 
+  // Accessible backwards stepper navigation
+  for (let i = 1; i <= 3; i++) {
+    const item = document.getElementById(`stepperItem${i}`);
+    if (item) {
+      const handleNav = () => {
+        if (i < state.currentStep) {
+          goToStep(i);
+        }
+      };
+      item.addEventListener('click', handleNav);
+      item.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          handleNav();
+        }
+      });
+    }
+  }
+
   // Bind Step 2 location fields & PIN code detection (Addendum)
   const pinInput = document.getElementById('pincodeInput');
   const pinStatus = document.getElementById('pincodeStatus');
+  const pinStatusText = document.getElementById('pincodeStatusText');
+  const pillsContainer = document.getElementById('pincodeDistrictPills');
   const btnClearPin = document.getElementById('btnClearPincode');
   const villageList = document.getElementById('villageLocalityList');
+
+  const setPinStatus = (text) => {
+    if (pinStatusText) {
+      pinStatusText.textContent = text;
+    } else if (pinStatus) {
+      pinStatus.textContent = text;
+    }
+  };
+
+  const updateDistrictPills = (res) => {
+    if (!pillsContainer) return;
+    if (res && res.isMultiDistrict && Array.isArray(res.districts) && res.districts.length > 1) {
+      pillsContainer.innerHTML = '';
+      pillsContainer.style.display = 'flex';
+      res.districts.forEach(d => {
+        const dSlug = typeof d === 'string' ? d : (d.slug || '');
+        const dMeta = state.blocksData?.districts?.find(dist => dist.slug === dSlug);
+        const dLabel = dMeta ? (state.lang === 'hi' ? `${dMeta.name_hi} (${dMeta.name})` : dMeta.name) : dSlug;
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'pill-btn' + (state.districtSlug === dSlug ? ' is-active' : '');
+        btn.textContent = dLabel;
+        btn.addEventListener('click', () => {
+          const dSelect = document.getElementById('districtSelect');
+          if (dSelect) {
+            dSelect.value = dSlug;
+            updateDistrictSelection(dSlug);
+          }
+          pillsContainer.querySelectorAll('.pill-btn').forEach(b => b.classList.remove('is-active'));
+          btn.classList.add('is-active');
+        });
+        pillsContainer.appendChild(btn);
+      });
+    } else {
+      pillsContainer.style.display = 'none';
+      pillsContainer.innerHTML = '';
+    }
+  };
 
   if (pinInput) {
     if (state.pincode) {
@@ -452,17 +572,16 @@ function initWizard() {
       if (btnClearPin) btnClearPin.style.display = cleanVal ? 'inline-block' : 'none';
 
       if (cleanVal.length === 6) {
-        if (pinStatus) pinStatus.textContent = state.lang === 'hi' ? 'खोज रहे हैं...' : 'Looking up PIN...';
+        setPinStatus(state.lang === 'hi' ? 'खोज रहे हैं...' : 'Looking up PIN...');
         const res = await lookupPincode(cleanVal);
         if (res.valid) {
           const msg = state.lang === 'hi' ? res.message_hi : res.message_en;
-          if (pinStatus) {
-            let statusText = msg;
-            if (res.hasTownOffice) {
-              statusText += ' ' + (state.lang === 'hi' ? '• इस पिन कोड में कस्बा/नगर डाकघर है।' : '• Note: Town post office detected.');
-            }
-            pinStatus.textContent = statusText;
+          let statusText = msg;
+          if (res.hasTownOffice) {
+            statusText += ' ' + (state.lang === 'hi' ? '• इस पिन कोड में कस्बा/नगर डाकघर है।' : '• Note: Town post office detected.');
           }
+          setPinStatus(statusText);
+          updateDistrictPills(res);
 
           // Populate locality suggestions
           if (villageList && Array.isArray(res.localities)) {
@@ -484,10 +603,12 @@ function initWizard() {
           }
         } else {
           const msg = state.lang === 'hi' ? (res.message_hi || res.error) : (res.message_en || res.error);
-          if (pinStatus) pinStatus.textContent = msg;
+          setPinStatus(msg);
+          updateDistrictPills(null);
         }
       } else {
-        if (pinStatus) pinStatus.textContent = '';
+        setPinStatus('');
+        updateDistrictPills(null);
       }
     });
 
@@ -496,7 +617,8 @@ function initWizard() {
         pinInput.value = '';
         state.pincode = '';
         btnClearPin.style.display = 'none';
-        if (pinStatus) pinStatus.textContent = '';
+        setPinStatus('');
+        updateDistrictPills(null);
         if (villageList) villageList.innerHTML = '';
       });
     }
@@ -566,8 +688,10 @@ function initWizard() {
   const detailsInput = document.getElementById('detailsInput');
   if (detailsInput) {
     if (state.details) detailsInput.value = state.details;
+    updateCharCounter();
     detailsInput.addEventListener('input', (e) => {
       state.details = e.target.value;
+      updateCharCounter();
       updateLetterPreview();
     });
   }

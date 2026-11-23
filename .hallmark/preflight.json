@@ -1,0 +1,22 @@
+{
+  "scanned": "2026-11-23T20:53:00+05:30",
+  "findings": {
+    "fonts": "Inter, system-ui fallback (src/styles/tokens.css)",
+    "palette": "Custom properties declared at :root (src/styles/tokens.css)",
+    "motion": "CSS native transitions, reduced-motion fallback (src/styles/base.css)",
+    "spacing": "4pt / 8pt token scale (src/styles/tokens.css)",
+    "framework": "Static HTML5 / Vanilla ES Modules / Node build_pages.cjs / Vercel Serverless"
+  },
+  "preserve": [
+    "Privacy architecture (zero personal data transmission)",
+    "Bilingual EN/HI content and 75 district routes",
+    "Form wiring, validation handlers, and offline PIN code lookup",
+    "Independent citizen tool disclaimer banner"
+  ],
+  "introduce": [
+    "Hallmark editorial design system and token block",
+    "Floor compliance (focus-visible rings, overflow-x: clip, zero emojis as icons, no glued arrows)",
+    "One idea per screen typographic discipline and SVG icon craft",
+    "Eight-state control parity (default, hover, active, focus, disabled)"
+  ]
+}

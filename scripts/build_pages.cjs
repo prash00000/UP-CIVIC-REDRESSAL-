@@ -18,7 +18,7 @@ function renderNoticeBanner(lang) {
   return `
   <div class="notice-banner" role="note" aria-label="${isHi ? 'स्वतंत्रता घोषणा' : 'Independence Notice'}">
     <div class="container notice-banner-inner">
-      <span class="notice-banner-icon" aria-hidden="true">ℹ️</span>
+      <svg class="notice-banner-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/></svg>
       <span>${text}</span>
     </div>
   </div>`;
@@ -47,10 +47,12 @@ function renderHeader(lang, activeNav = 'home', altUrl = '') {
         </a>
         <div class="header-actions">
           <a href="tel:1076" class="btn btn-sm btn-call-1076" aria-label="${d.call_1076_aria}">
-            📞 ${d.call_1076}
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+            <span>${d.call_1076}</span>
           </a>
           <a href="${targetAlt}" class="btn btn-sm btn-secondary" aria-label="${d.lang_toggle_aria}">
-            🌐 ${d.lang_toggle}
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>
+            <span>${d.lang_toggle}</span>
           </a>
         </div>
       </div>
@@ -97,7 +99,7 @@ function renderFooter(lang) {
     </div>
   </footer>
   <div id="toastRegion" class="toast-region" aria-live="polite" aria-atomic="true"></div>
-  <div id="printSection" class="print-only">
+  <div id="printSection" class="print-only" style="display: none !important;">
     <div id="printLetterBody" class="print-letter-body"></div>
     <div class="print-stub">
       <div class="print-stub-title">${d.receiving_stub_title}</div>
@@ -225,15 +227,15 @@ function generateHomePage(lang) {
     <div class="wizard-card" style="background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-lg); padding: var(--space-3); box-shadow: var(--shadow-sm);">
       <!-- Stepper -->
       <nav class="wizard-stepper stepper" aria-label="${isHi ? 'प्रक्रिया चरण' : 'Process Steps'}">
-        <div id="stepperItem1" class="step-item is-current">
+        <div id="stepperItem1" class="step-item stepper-item is-current" tabindex="0" role="link" aria-label="${isHi ? 'चरण 1: समस्या' : 'Step 1: Issue'}">
           <span class="step-num">1</span>
           <span class="step-label">${isHi ? 'समस्या' : 'Issue'}</span>
         </div>
-        <div id="stepperItem2" class="step-item">
+        <div id="stepperItem2" class="step-item stepper-item" tabindex="0" role="link" aria-label="${isHi ? 'चरण 2: स्थान' : 'Step 2: Location'}">
           <span class="step-num">2</span>
           <span class="step-label">${isHi ? 'स्थान' : 'Location'}</span>
         </div>
-        <div id="stepperItem3" class="step-item">
+        <div id="stepperItem3" class="step-item stepper-item" tabindex="0" role="link" aria-label="${isHi ? 'चरण 3: अधिकारी एवं पत्र' : 'Step 3: Officer &amp; Letter'}">
           <span class="step-num">3</span>
           <span class="step-label">${isHi ? 'अधिकारी एवं पत्र' : 'Officer &amp; Letter'}</span>
         </div>
@@ -247,38 +249,38 @@ function generateHomePage(lang) {
         <div class="tiles-grid" style="margin: var(--space-3) 0;">
           <label class="tile">
             <input type="radio" name="problemCategory" value="road" checked>
-            <span class="tile-title">🛣️ ${d.cat_road}</span>
+            <span class="tile-title"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19L8 5M16 5l4 14M12 8v3M12 15v3"/></svg> ${d.cat_road}</span>
             <span class="tile-desc">${d.cat_road_default}</span>
           </label>
           <label class="tile">
             <input type="radio" name="problemCategory" value="drainage">
-            <span class="tile-title">🌊 ${d.cat_drainage}</span>
+            <span class="tile-title"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 12c2-2 4-2 6 0s4 2 6 0 4-2 6 0M2 17c2-2 4-2 6 0s4 2 6 0 4-2 6 0"/></svg> ${d.cat_drainage}</span>
             <span class="tile-desc">${d.cat_drainage_default}</span>
           </label>
           <label class="tile">
             <input type="radio" name="problemCategory" value="water">
-            <span class="tile-title">🚰 ${d.cat_water}</span>
+            <span class="tile-title"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg> ${d.cat_water}</span>
             <span class="tile-desc">${d.cat_water_default}</span>
           </label>
           <label class="tile">
             <input type="radio" name="problemCategory" value="light">
-            <span class="tile-title">💡 ${d.cat_light}</span>
+            <span class="tile-title"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18h6M10 22h4M12 2v1M12 6a5 5 0 0 1 5 5c0 2-1 3.5-2 4.5H9C8 14.5 7 13 7 11a5 5 0 0 1 5-5z"/></svg> ${d.cat_light}</span>
             <span class="tile-desc">${d.cat_light_default}</span>
           </label>
           <label class="tile">
             <input type="radio" name="problemCategory" value="garbage">
-            <span class="tile-title">🧹 ${d.cat_garbage}</span>
+            <span class="tile-title"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6h18M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2M10 11v6M14 11v6"/></svg> ${d.cat_garbage}</span>
             <span class="tile-desc">${d.cat_garbage_default}</span>
           </label>
           <label class="tile">
             <input type="radio" name="problemCategory" value="audit">
-            <span class="tile-title">📋 ${d.cat_audit}</span>
+            <span class="tile-title"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> ${d.cat_audit}</span>
             <span class="tile-desc">${d.cat_audit_default}</span>
           </label>
         </div>
 
         <button type="button" id="btnStep1Next" class="btn btn-primary" style="width: 100%;">
-          ${d.btn_continue} &rarr;
+          ${d.btn_continue}
         </button>
       </div>
 
@@ -290,11 +292,14 @@ function generateHomePage(lang) {
         <!-- PIN Code Detection (Addendum) -->
         <div class="form-group" style="background: var(--surface); padding: var(--space-2); border-radius: var(--radius-sm); border: 1px solid var(--line); margin-top: var(--space-2); margin-bottom: var(--space-3);">
           <label for="pincodeInput" class="form-label" style="display: flex; justify-content: space-between; align-items: center;">
-            <span>📮 ${d.pincode_label}</span>
+            <span style="display:inline-flex; align-items:center; gap:6px;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg> ${d.pincode_label}</span>
             <button type="button" id="btnClearPincode" class="btn btn-sm btn-secondary" style="display: none; padding: 2px 6px; font-size: 12px;">✕</button>
           </label>
           <input type="text" id="pincodeInput" class="input" inputmode="numeric" maxlength="6" pattern="^[1-9][0-9]{5}$" autocomplete="postal-code" placeholder="${d.pincode_placeholder}">
-          <div id="pincodeStatus" class="form-hint" role="status" aria-live="polite" style="margin-top: 4px; font-weight: 500; min-height: 1.4em;"></div>
+          <div id="pincodeStatus" class="form-hint" role="status" aria-live="polite" style="margin-top: 4px; font-weight: 500; min-height: 1.4em;">
+            <div id="pincodeStatusText"></div>
+            <div id="pincodeDistrictPills" class="pill-group" style="display:none; margin-top:6px;"></div>
+          </div>
           <datalist id="villageLocalityList"></datalist>
         </div>
 
@@ -304,17 +309,17 @@ function generateHomePage(lang) {
           <div class="tiles-grid" style="margin-top: 8px;">
             <label class="tile">
               <input type="radio" name="areaType" value="village" checked>
-              <span class="tile-title">🌾 ${d.area_village}</span>
+              <span class="tile-title"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21h18M5 21V7l7-4 7 4v14M10 9v4M14 9v4"/></svg> ${d.area_village}</span>
               <span class="tile-desc">${d.area_village_hint}</span>
             </label>
             <label class="tile">
               <input type="radio" name="areaType" value="town">
-              <span class="tile-title">🏘️ ${d.area_town}</span>
+              <span class="tile-title"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18M2 22h20M10 6h4M10 10h4M10 14h4M10 18h4"/></svg> ${d.area_town}</span>
               <span class="tile-desc">${d.area_town_hint}</span>
             </label>
             <label class="tile">
               <input type="radio" name="areaType" value="city">
-              <span class="tile-title">🏛️ ${d.area_city}</span>
+              <span class="tile-title"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="2" width="16" height="20" rx="2"/><path d="M9 22v-4h6v4M8 6h.01M16 6h.01M12 6h.01M12 10h.01M8 10h.01M16 10h.01M12 14h.01M8 14h.01M16 14h.01"/></svg> ${d.area_city}</span>
               <span class="tile-desc">${d.area_city_hint}</span>
             </label>
           </div>
@@ -324,7 +329,7 @@ function generateHomePage(lang) {
         <div id="pwdRoadGroup" class="form-group" style="background: var(--bg); padding: var(--space-2); border-radius: var(--radius-sm); border: 1px solid var(--line);">
           <label class="checkbox-label">
             <input type="checkbox" id="pwdRoadCheck">
-            <span>🛣️ ${d.road_pwd_checkbox}</span>
+            <span>${d.road_pwd_checkbox}</span>
           </label>
         </div>
 
@@ -351,10 +356,10 @@ function generateHomePage(lang) {
 
         <div style="display: flex; gap: var(--space-2); margin-top: var(--space-3);">
           <button type="button" id="btnStep2Back" class="btn btn-secondary">
-            &larr; ${d.btn_back}
+            ${d.btn_back}
           </button>
           <button type="button" id="btnStep2Next" class="btn btn-primary" style="flex: 1;">
-            ${d.btn_continue} &rarr;
+            ${d.btn_continue}
           </button>
         </div>
       </div>
@@ -383,6 +388,7 @@ function generateHomePage(lang) {
         <div class="form-group">
           <label for="detailsInput" class="form-label">${d.details_label} *</label>
           <textarea id="detailsInput" class="textarea" placeholder="${d.details_placeholder}" maxlength="1500" required aria-required="true"></textarea>
+          <div style="display:flex; justify-content:space-between;"><span id="detailsCharCount" class="form-hint" style="margin-left:auto;">0 / 1500</span></div>
         </div>
 
         <div class="form-group">
@@ -397,19 +403,19 @@ function generateHomePage(lang) {
 
           <!-- Action Deck -->
           <div class="letter-actions">
-            <a id="btnSendEmail" href="#" class="btn btn-primary">✉️ ${d.btn_email}</a>
-            <a id="btnShareWhatsApp" href="#" class="btn btn-secondary" target="_blank" rel="noopener">💬 ${d.btn_whatsapp}</a>
-            <button type="button" id="btnCopyLetter" class="btn btn-secondary">📋 ${d.btn_copy}</button>
-            <button type="button" id="btnPrintLetter" class="btn btn-secondary">🖨️ ${d.btn_print}</button>
-            <a id="btnCallOffice" href="#" class="btn btn-secondary">📞 ${d.btn_call}</a>
-            <a href="https://jansunwai.up.nic.in" target="_blank" rel="noopener" class="btn btn-secondary">🌐 ${d.btn_jansunwai} ↗</a>
-            <button type="button" id="btnDownloadReminders" class="btn btn-secondary">📅 ${d.btn_reminders}</button>
+            <a id="btnSendEmail" href="#" class="btn btn-primary">${d.btn_email}</a>
+            <a id="btnShareWhatsApp" href="#" class="btn btn-secondary" target="_blank" rel="noopener">${d.btn_whatsapp}</a>
+            <button type="button" id="btnCopyLetter" class="btn btn-secondary">${d.btn_copy}</button>
+            <button type="button" id="btnPrintLetter" class="btn btn-secondary">${d.btn_print}</button>
+            <a id="btnCallOffice" href="#" class="btn btn-secondary">${d.btn_call}</a>
+            <a href="https://jansunwai.up.nic.in" target="_blank" rel="noopener" class="btn btn-secondary">${d.btn_jansunwai} ↗</a>
+            <button type="button" id="btnDownloadReminders" class="btn btn-secondary">${d.btn_reminders}</button>
           </div>
         </div>
 
         <div style="display: flex; gap: var(--space-2); margin-top: var(--space-3);">
           <button type="button" id="btnStep3Back" class="btn btn-secondary">
-            &larr; ${d.btn_back}
+            ${d.btn_back}
           </button>
         </div>
       </div>

@@ -1,0 +1,605 @@
+{
+  "district_id": "gonda",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-gonda-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Gonda",
+      "office_name_hi": "कार्यालय जिलाधिकारी, गोंडा",
+      "phones": [
+        {
+          "number": "9454417537",
+          "type": "office",
+          "source_url": "https://gonda.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmgon@nic.in",
+      "covers": [
+        "gonda"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Gonda",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), गोंडा",
+      "phones": [
+        {
+          "number": "9454419046",
+          "type": "office",
+          "source_url": "https://gonda.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "drda-gon@nic.in",
+      "covers": [
+        "gonda"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Gonda",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, गोंडा",
+      "phones": [],
+      "email": "dpro-gon@nic.in",
+      "covers": [
+        "gonda"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-sdm-gonda",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Gonda",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Gonda",
+      "phones": [],
+      "email": "sdm.gonda.gon-up@gov.in",
+      "covers": [
+        "gonda"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-sdm-colonelganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Colonelganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Colonelganj",
+      "phones": [],
+      "email": "sdm.colonelganj.gon-up@gov.in",
+      "covers": [
+        "colonelganj"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-sdm-tarabganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Tarabganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Tarabganj",
+      "phones": [],
+      "email": "sdm.tarabganj.gon-up@gov.in",
+      "covers": [
+        "tarabganj"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-sdm-mankapur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mankapur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mankapur",
+      "phones": [],
+      "email": "sdm.mankapur.gon-up@gov.in",
+      "covers": [
+        "mankapur"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-bdo-jhanjhari",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jhanjhari",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jhanjhari",
+      "phones": [],
+      "email": "bdo.jhanjhari.gon@gmail.com",
+      "covers": [
+        "jhanjhari"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-ado-jhanjhari",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jhanjhari",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jhanjhari",
+      "phones": [],
+      "covers": [
+        "jhanjhari"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-bdo-pandey-baba",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pandey Baba",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pandey Baba",
+      "phones": [],
+      "email": "bdo.pandeybaba.gon@gmail.com",
+      "covers": [
+        "pandey-baba"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-ado-pandey-baba",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pandey Baba",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pandey Baba",
+      "phones": [],
+      "covers": [
+        "pandey-baba"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-bdo-rupaidih",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rupaidih",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rupaidih",
+      "phones": [],
+      "email": "bdo.rupaidih.gon@gmail.com",
+      "covers": [
+        "rupaidih"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-ado-rupaidih",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rupaidih",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rupaidih",
+      "phones": [],
+      "covers": [
+        "rupaidih"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-bdo-itiathok",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Itiathok",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Itiathok",
+      "phones": [],
+      "email": "bdo.itiathok.gon@gmail.com",
+      "covers": [
+        "itiathok"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-ado-itiathok",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Itiathok",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Itiathok",
+      "phones": [],
+      "covers": [
+        "itiathok"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-bdo-mujehna",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mujehna",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mujehna",
+      "phones": [],
+      "email": "bdo.mujehna.gon@gmail.com",
+      "covers": [
+        "mujehna"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-ado-mujehna",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mujehna",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mujehna",
+      "phones": [],
+      "covers": [
+        "mujehna"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-bdo-katra-bazar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Katra Bazar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Katra Bazar",
+      "phones": [],
+      "email": "bdo.katrabazar.gon@gmail.com",
+      "covers": [
+        "katra-bazar"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-ado-katra-bazar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Katra Bazar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Katra Bazar",
+      "phones": [],
+      "covers": [
+        "katra-bazar"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-bdo-haldharmau",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Haldharmau",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Haldharmau",
+      "phones": [],
+      "email": "bdo.haldharmau.gon@gmail.com",
+      "covers": [
+        "haldharmau"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-ado-haldharmau",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Haldharmau",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Haldharmau",
+      "phones": [],
+      "covers": [
+        "haldharmau"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-bdo-colonelganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Colonelganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Colonelganj",
+      "phones": [],
+      "email": "bdo.colonelganj.gon@gmail.com",
+      "covers": [
+        "colonelganj"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-ado-colonelganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Colonelganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Colonelganj",
+      "phones": [],
+      "covers": [
+        "colonelganj"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-bdo-belsar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Belsar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Belsar",
+      "phones": [],
+      "email": "bdo.belsar.gon@gmail.com",
+      "covers": [
+        "belsar"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-ado-belsar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Belsar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Belsar",
+      "phones": [],
+      "covers": [
+        "belsar"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-bdo-tarabganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Tarabganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tarabganj",
+      "phones": [],
+      "email": "bdo.tarabganj.gon@gmail.com",
+      "covers": [
+        "tarabganj"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-ado-tarabganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Tarabganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Tarabganj",
+      "phones": [],
+      "covers": [
+        "tarabganj"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-bdo-wazirganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Wazirganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Wazirganj",
+      "phones": [],
+      "email": "bdo.wazirganj.gon@gmail.com",
+      "covers": [
+        "wazirganj"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-ado-wazirganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Wazirganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Wazirganj",
+      "phones": [],
+      "covers": [
+        "wazirganj"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-bdo-nawabganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nawabganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nawabganj",
+      "phones": [],
+      "email": "bdo.nawabganj.gon@gmail.com",
+      "covers": [
+        "nawabganj"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-ado-nawabganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nawabganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nawabganj",
+      "phones": [],
+      "covers": [
+        "nawabganj"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-bdo-mankapur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mankapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mankapur",
+      "phones": [],
+      "email": "bdo.mankapur.gon@gmail.com",
+      "covers": [
+        "mankapur"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-ado-mankapur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mankapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mankapur",
+      "phones": [],
+      "covers": [
+        "mankapur"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-bdo-chhapia",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chhapia",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chhapia",
+      "phones": [],
+      "email": "bdo.chhapia.gon@gmail.com",
+      "covers": [
+        "chhapia"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-ado-chhapia",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chhapia",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chhapia",
+      "phones": [],
+      "covers": [
+        "chhapia"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-bdo-babhanjot",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Babhanjot",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Babhanjot",
+      "phones": [],
+      "email": "bdo.babhanjot.gon@gmail.com",
+      "covers": [
+        "babhanjot"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-ado-babhanjot",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Babhanjot",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Babhanjot",
+      "phones": [],
+      "covers": [
+        "babhanjot"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-bdo-paraspur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Paraspur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Paraspur",
+      "phones": [],
+      "email": "bdo.paraspur.gon@gmail.com",
+      "covers": [
+        "paraspur"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gonda-ado-paraspur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Paraspur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Paraspur",
+      "phones": [],
+      "covers": [
+        "paraspur"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-gonda-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Gonda",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका गोंडा",
+      "phones": [],
+      "covers": [
+        "ulb-gonda-main"
+      ],
+      "source_url": "https://gonda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

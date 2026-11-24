@@ -1,0 +1,476 @@
+{
+  "district_id": "ayodhya",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-ayodhya-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Ayodhya",
+      "office_name_hi": "कार्यालय जिलाधिकारी, अयोध्या",
+      "officer_name_en": "Shashank Tripathi, IAS",
+      "phones": [
+        {
+          "number": "05278-224205",
+          "type": "office",
+          "source_url": "https://ayodhya.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmayo.up@up.gov.in",
+      "covers": [
+        "ayodhya"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Ayodhya",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), अयोध्या",
+      "phones": [
+        {
+          "number": "05278-222285",
+          "type": "office",
+          "source_url": "https://ayodhya.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo-ayo@up.gov.in",
+      "covers": [
+        "ayodhya"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Ayodhya",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, अयोध्या",
+      "phones": [],
+      "email": "dpro-fzd@nic.in",
+      "covers": [
+        "ayodhya"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [],
+      "email": "sdm.sadar.fzd-up@gov.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-sdm-rudauli",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Rudauli",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Rudauli",
+      "phones": [],
+      "email": "sdm.rudauli.fzd-up@gov.in",
+      "covers": [
+        "rudauli"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-sdm-bikapur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bikapur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bikapur",
+      "phones": [],
+      "email": "sdm.bikapur.fzd-up@gov.in",
+      "covers": [
+        "bikapur"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-sdm-sohawal",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sohawal",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sohawal",
+      "phones": [],
+      "email": "sdm.sohawal.fzd-up@gov.in",
+      "covers": [
+        "sohawal"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-sdm-milkipur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Milkipur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Milkipur",
+      "phones": [],
+      "email": "sdm.milkipur.fzd-up@gov.in",
+      "covers": [
+        "milkipur"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-bdo-masodha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Masodha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Masodha",
+      "phones": [],
+      "email": "bdo.masodha.fzd@gmail.com",
+      "covers": [
+        "masodha"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-ado-masodha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Masodha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Masodha",
+      "phones": [],
+      "covers": [
+        "masodha"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-bdo-pura-bazar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pura Bazar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pura Bazar",
+      "phones": [],
+      "email": "bdo.purabazar.fzd@gmail.com",
+      "covers": [
+        "pura-bazar"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-ado-pura-bazar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pura Bazar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pura Bazar",
+      "phones": [],
+      "covers": [
+        "pura-bazar"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-bdo-maya-bazar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Maya Bazar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Maya Bazar",
+      "phones": [],
+      "email": "bdo.mayabazar.fzd@gmail.com",
+      "covers": [
+        "maya-bazar"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-ado-maya-bazar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Maya Bazar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Maya Bazar",
+      "phones": [],
+      "covers": [
+        "maya-bazar"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-bdo-amaniganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Amaniganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Amaniganj",
+      "phones": [],
+      "email": "bdo.amaniganj.fzd@gmail.com",
+      "covers": [
+        "amaniganj"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-ado-amaniganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Amaniganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Amaniganj",
+      "phones": [],
+      "covers": [
+        "amaniganj"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-bdo-milkipur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Milkipur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Milkipur",
+      "phones": [],
+      "email": "bdo.milkipur.fzd@gmail.com",
+      "covers": [
+        "milkipur"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-ado-milkipur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Milkipur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Milkipur",
+      "phones": [],
+      "covers": [
+        "milkipur"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-bdo-harringtonganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Harringtonganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Harringtonganj",
+      "phones": [],
+      "email": "bdo.harringtonganj.fzd@gmail.com",
+      "covers": [
+        "harringtonganj"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-ado-harringtonganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Harringtonganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Harringtonganj",
+      "phones": [],
+      "covers": [
+        "harringtonganj"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-bdo-bikapur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bikapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bikapur",
+      "phones": [],
+      "email": "bdo.bikapur.fzd@gmail.com",
+      "covers": [
+        "bikapur"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-ado-bikapur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bikapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bikapur",
+      "phones": [],
+      "covers": [
+        "bikapur"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-bdo-tarun",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Tarun",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tarun",
+      "phones": [],
+      "email": "bdo.tarun.fzd@gmail.com",
+      "covers": [
+        "tarun"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-ado-tarun",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Tarun",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Tarun",
+      "phones": [],
+      "covers": [
+        "tarun"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-bdo-rudauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rudauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rudauli",
+      "phones": [],
+      "email": "bdo.rudauli.fzd@gmail.com",
+      "covers": [
+        "rudauli"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-ado-rudauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rudauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rudauli",
+      "phones": [],
+      "covers": [
+        "rudauli"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-bdo-mawai",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mawai",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mawai",
+      "phones": [],
+      "email": "bdo.mawai.fzd@gmail.com",
+      "covers": [
+        "mawai"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-ado-mawai",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mawai",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mawai",
+      "phones": [],
+      "covers": [
+        "mawai"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-bdo-sohawal",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sohawal",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sohawal",
+      "phones": [],
+      "email": "bdo.sohawal.fzd@gmail.com",
+      "covers": [
+        "sohawal"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ayodhya-ado-sohawal",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sohawal",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sohawal",
+      "phones": [],
+      "covers": [
+        "sohawal"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-ayodhya-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Ayodhya",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका अयोध्या",
+      "phones": [],
+      "covers": [
+        "ulb-ayodhya-main"
+      ],
+      "source_url": "https://ayodhya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

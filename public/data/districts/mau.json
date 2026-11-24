@@ -1,0 +1,426 @@
+{
+  "district_id": "mau",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-mau-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Mau",
+      "office_name_hi": "कार्यालय जिलाधिकारी, मऊ",
+      "phones": [
+        {
+          "number": "9454417523",
+          "type": "office",
+          "source_url": "https://mau.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmmau@nic.in",
+      "covers": [
+        "mau"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Mau",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), मऊ",
+      "phones": [
+        {
+          "number": "9454417218",
+          "type": "office",
+          "source_url": "https://mau.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo.mau-up@gov.in",
+      "covers": [
+        "mau"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Mau",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, मऊ",
+      "phones": [],
+      "email": "dpro-mau@nic.in",
+      "covers": [
+        "mau"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-sdm-mau-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mau Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mau Sadar",
+      "phones": [],
+      "email": "sdm.mausadar.mau-up@gov.in",
+      "covers": [
+        "mau-sadar"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-sdm-madhuban",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Madhuban",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Madhuban",
+      "phones": [
+        {
+          "number": "9454417987",
+          "type": "cug",
+          "source_url": "https://mau.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.madhuban.mau-up@gov.in",
+      "covers": [
+        "madhuban"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-sdm-ghosi",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Ghosi",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Ghosi",
+      "phones": [
+        {
+          "number": "9454417986",
+          "type": "cug",
+          "source_url": "https://mau.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.ghosi.mau-up@gov.in",
+      "covers": [
+        "ghosi"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-sdm-muhammadabad-gohna",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Muhammadabad Gohna",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Muhammadabad Gohna",
+      "phones": [
+        {
+          "number": "9454417985",
+          "type": "cug",
+          "source_url": "https://mau.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.muhammadabadgohna.mau-up@gov.in",
+      "covers": [
+        "muhammadabad-gohna"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-bdo-pardaha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pardaha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pardaha",
+      "phones": [],
+      "email": "bdo.pardaha.mau@gmail.com",
+      "covers": [
+        "pardaha"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-ado-pardaha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pardaha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pardaha",
+      "phones": [],
+      "covers": [
+        "pardaha"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-bdo-ratanpura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ratanpura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ratanpura",
+      "phones": [],
+      "email": "bdo.ratanpura.mau@gmail.com",
+      "covers": [
+        "ratanpura"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-ado-ratanpura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ratanpura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ratanpura",
+      "phones": [],
+      "covers": [
+        "ratanpura"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-bdo-ranipur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ranipur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ranipur",
+      "phones": [],
+      "email": "bdo.ranipur.mau@gmail.com",
+      "covers": [
+        "ranipur"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-ado-ranipur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ranipur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ranipur",
+      "phones": [],
+      "covers": [
+        "ranipur"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-bdo-kopaganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kopaganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kopaganj",
+      "phones": [],
+      "email": "bdo.kopaganj.mau@gmail.com",
+      "covers": [
+        "kopaganj"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-ado-kopaganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kopaganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kopaganj",
+      "phones": [],
+      "covers": [
+        "kopaganj"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-bdo-ghosi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ghosi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ghosi",
+      "phones": [],
+      "email": "bdo.ghosi.mau@gmail.com",
+      "covers": [
+        "ghosi"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-ado-ghosi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ghosi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ghosi",
+      "phones": [],
+      "covers": [
+        "ghosi"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-bdo-badraon",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Badraon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Badraon",
+      "phones": [],
+      "email": "bdo.badraon.mau@gmail.com",
+      "covers": [
+        "badraon"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-ado-badraon",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Badraon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Badraon",
+      "phones": [],
+      "covers": [
+        "badraon"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-bdo-fatehpur-madaun",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Fatehpur Madaun",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Fatehpur Madaun",
+      "phones": [],
+      "email": "bdo.fatehpurmadaun.mau@gmail.com",
+      "covers": [
+        "fatehpur-madaun"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-ado-fatehpur-madaun",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Fatehpur Madaun",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Fatehpur Madaun",
+      "phones": [],
+      "covers": [
+        "fatehpur-madaun"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-bdo-doharighat",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Doharighat",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Doharighat",
+      "phones": [],
+      "email": "bdo.doharighat.mau@gmail.com",
+      "covers": [
+        "doharighat"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-ado-doharighat",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Doharighat",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Doharighat",
+      "phones": [],
+      "covers": [
+        "doharighat"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-bdo-muhammadabad-gohna",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Muhammadabad Gohna",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Muhammadabad Gohna",
+      "phones": [],
+      "email": "bdo.muhammadabadgohna.mau@gmail.com",
+      "covers": [
+        "muhammadabad-gohna"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mau-ado-muhammadabad-gohna",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Muhammadabad Gohna",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Muhammadabad Gohna",
+      "phones": [],
+      "covers": [
+        "muhammadabad-gohna"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-mau-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Mau",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका मऊ",
+      "phones": [],
+      "covers": [
+        "ulb-mau-main"
+      ],
+      "source_url": "https://mau.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

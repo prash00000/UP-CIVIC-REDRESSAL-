@@ -1,0 +1,51 @@
+{
+  "slug": "mgnrega",
+  "title_en": "MGNREGA work demand or wage payment delay",
+  "title_hi": "मनरेगा काम की मांग या मजदूरी भुगतान में देरी",
+  "steps": [
+    {
+      "order": 1,
+      "role": "secretary",
+      "how_en": "Submit Form-6 (work demand application) to Gram Panchayat Employment Assistant / Secretary.",
+      "how_hi": "रोजगार सेवक / ग्राम पंचायत सचिव को प्रपत्र-6 भरकर काम की मांग हेतु आवेदन दें और पावती लें।",
+      "time_limit_days": 15,
+      "time_limit_source_url": "https://nrega.nic.in"
+    },
+    {
+      "order": 2,
+      "role": "bdo",
+      "how_en": "If work is not allocated within 15 days, apply to BDO (Programme Officer) for unemployment allowance.",
+      "how_hi": "15 दिन में काम न मिलने पर खंड विकास अधिकारी (कार्यक्रम अधिकारी) से बेरोजगारी भत्ते की मांग करें।",
+      "time_limit_days": 15,
+      "time_limit_source_url": "https://nrega.nic.in"
+    },
+    {
+      "order": 3,
+      "role": "cdo",
+      "how_en": "Escalate wage delay beyond 15 days to CDO / District Programme Coordinator.",
+      "how_hi": "15 दिन से अधिक मजदूरी लंबित होने पर मुख्य विकास अधिकारी (सीडीओ) को विलंब मुआवजे हेतु पत्र दें।",
+      "time_limit_days": null,
+      "time_limit_source_url": null
+    },
+    {
+      "order": 4,
+      "role": "dm",
+      "how_en": "Submit complaint to District Magistrate and file RTI Form-A demanding certified Muster Roll entries.",
+      "how_hi": "जिलाधिकारी को शिकायत दें और मस्टर रोल व मजदूरी भुगतान आदेश की प्रतियों हेतु आरटीआई लगाएं।",
+      "time_limit_days": null,
+      "time_limit_source_url": null
+    }
+  ],
+  "keep_en": [
+    "MGNREGA Job Card number and dated job card entries",
+    "Dated receipt of Form-6 (application for work)",
+    "Muster Roll numbers and dates of work performed",
+    "Bank / Post Office account passbook statement showing unpaid period"
+  ],
+  "keep_hi": [
+    "मनरेगा जॉब कार्ड संख्या व अद्यतन प्रविष्टियां",
+    "प्रपत्र-6 (काम की मांग) की दिनांकित प्राप्ति रसीद",
+    "कार्य किए गए दिनों के मस्टर रोल नंबर व तिथियां",
+    "बैंक या डाकघर पासबुक का विवरण जिसमें मजदूरी अप्राप्त दिखती हो"
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "district_id": "auraiya",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-auraiya-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Auraiya",
+      "office_name_hi": "कार्यालय जिलाधिकारी, औरैया",
+      "officer_name_en": "Shri Brijesh Kumar (I.A.S.)",
+      "phones": [
+        {
+          "number": "05683-246300",
+          "type": "office",
+          "source_url": "https://auraiya.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmaur@nic.in",
+      "covers": [
+        "auraiya"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Auraiya",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), औरैया",
+      "phones": [
+        {
+          "number": "9454465032",
+          "type": "office",
+          "source_url": "https://auraiya.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "drda-aur@nic.in",
+      "covers": [
+        "auraiya"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Auraiya",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, औरैया",
+      "phones": [],
+      "email": "dpro-aur@nic.in",
+      "covers": [
+        "auraiya"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-sdm-auraiya",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Auraiya",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Auraiya",
+      "phones": [],
+      "email": "sdm.auraiya.aur-up@gov.in",
+      "covers": [
+        "auraiya"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-sdm-bidhuna",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bidhuna",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bidhuna",
+      "phones": [],
+      "email": "sdm.bidhuna.aur-up@gov.in",
+      "covers": [
+        "bidhuna"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-sdm-ajitmal",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Ajitmal",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Ajitmal",
+      "phones": [],
+      "email": "sdm.ajitmal.aur-up@gov.in",
+      "covers": [
+        "ajitmal"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-bdo-auraiya",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Auraiya",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Auraiya",
+      "phones": [],
+      "email": "bdo.auraiya.aur@gmail.com",
+      "covers": [
+        "auraiya"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-ado-auraiya",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Auraiya",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Auraiya",
+      "phones": [],
+      "covers": [
+        "auraiya"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-bdo-ajitmal",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ajitmal",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ajitmal",
+      "phones": [],
+      "email": "bdo.ajitmal.aur@gmail.com",
+      "covers": [
+        "ajitmal"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-ado-ajitmal",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ajitmal",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ajitmal",
+      "phones": [],
+      "covers": [
+        "ajitmal"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-bdo-bhagyanagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhagyanagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhagyanagar",
+      "phones": [],
+      "email": "bdo.bhagyanagar.aur@gmail.com",
+      "covers": [
+        "bhagyanagar"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-ado-bhagyanagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhagyanagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhagyanagar",
+      "phones": [],
+      "covers": [
+        "bhagyanagar"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-bdo-bidhuna",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bidhuna",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bidhuna",
+      "phones": [],
+      "email": "bdo.bidhuna.aur@gmail.com",
+      "covers": [
+        "bidhuna"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-ado-bidhuna",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bidhuna",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bidhuna",
+      "phones": [],
+      "covers": [
+        "bidhuna"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-bdo-achhalda",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Achhalda",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Achhalda",
+      "phones": [],
+      "email": "bdo.achhalda.aur@gmail.com",
+      "covers": [
+        "achhalda"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-ado-achhalda",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Achhalda",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Achhalda",
+      "phones": [],
+      "covers": [
+        "achhalda"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-bdo-sahar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sahar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sahar",
+      "phones": [],
+      "email": "bdo.sahar.aur@gmail.com",
+      "covers": [
+        "sahar"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-ado-sahar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sahar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sahar",
+      "phones": [],
+      "covers": [
+        "sahar"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-bdo-erwa-katra",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Erwa Katra",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Erwa Katra",
+      "phones": [],
+      "email": "bdo.erwakatra.aur@gmail.com",
+      "covers": [
+        "erwa-katra"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-auraiya-ado-erwa-katra",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Erwa Katra",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Erwa Katra",
+      "phones": [],
+      "covers": [
+        "erwa-katra"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-auraiya-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Auraiya",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका औरैया",
+      "phones": [],
+      "covers": [
+        "ulb-auraiya-main"
+      ],
+      "source_url": "https://auraiya.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "drain",
+  "title_en": "Drain overflow or waterlogging",
+  "title_hi": "नाली चोक या जलभराव",
+  "steps": [
+    {
+      "order": 1,
+      "role": "secretary",
+      "how_en": "Submit written application to Secretary / Sanitation Supervisor for drain desilting.",
+      "how_hi": "नाली की सफाई व जल निकासी हेतु ग्राम पंचायत सचिव / सफाई नायक को लिखित आवेदन दें।",
+      "time_limit_days": 7,
+      "time_limit_source_url": "https://janhit.up.nic.in"
+    },
+    {
+      "order": 2,
+      "role": "ado_panchayat",
+      "how_en": "Report persistent blockage to ADO (Panchayat) / Block Development Officer (BDO).",
+      "how_hi": "सफाई न होने पर सहायक विकास अधिकारी (पंचायत) / खंड विकास अधिकारी (बीडीओ) को सूचित करें।",
+      "time_limit_days": 15,
+      "time_limit_source_url": "https://janhit.up.nic.in"
+    },
+    {
+      "order": 3,
+      "role": "dpro",
+      "how_en": "Escalate to District Panchayat Raj Officer (DPRO) or Municipal Commissioner.",
+      "how_hi": "जिला पंचायत राज अधिकारी (DPRO) अथवा नगर आयुक्त के समक्ष शिकायत दर्ज कराएं।",
+      "time_limit_days": null,
+      "time_limit_source_url": null
+    },
+    {
+      "order": 4,
+      "role": "dm",
+      "how_en": "Submit representation to DM during weekly public hearing or Tehsil Diwas.",
+      "how_hi": "साप्ताहिक जनसुनवाई या समाधान दिवस में जिलाधिकारी (डीएम) को प्रार्थना पत्र दें।",
+      "time_limit_days": null,
+      "time_limit_source_url": null
+    }
+  ],
+  "keep_en": [
+    "Photographs showing stagnant water and overflowing drain",
+    "Date from which waterlogging has persisted",
+    "Acknowledgment receipt copy from Gram Panchayat or Nagar Palika office",
+    "Details of previous verbal or written intimations"
+  ],
+  "keep_hi": [
+    "जलभराव और चोक नाली की स्पष्ट तस्वीरें",
+    "जल निकासी अवरुद्ध होने की प्रारम्भिक तिथि",
+    "ग्राम पंचायत या पालिका कार्यालय से प्राप्त पावती रसीद",
+    "पूर्व में दी गई सूचनाओं का विवरण"
+  ]
+}

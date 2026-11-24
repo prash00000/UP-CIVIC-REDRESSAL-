@@ -1,0 +1,259 @@
+{
+  "district_id": "gautam-buddha-nagar",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-gautam-buddha-nagar-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Gautam Buddha Nagar",
+      "office_name_hi": "कार्यालय जिलाधिकारी, गौतम बुद्ध नगर",
+      "officer_name_en": "Smt. Medha Roopam",
+      "phones": [
+        {
+          "number": "9870145599",
+          "type": "office",
+          "source_url": "https://gautam-buddha-nagar.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmgbn@nic.in",
+      "covers": [
+        "gautam-buddha-nagar"
+      ],
+      "source_url": "https://gautam-buddha-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gautam-buddha-nagar-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Gautam Buddha Nagar",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), गौतम बुद्ध नगर",
+      "phones": [
+        {
+          "number": "9197599712",
+          "type": "office",
+          "source_url": "https://gautam-buddha-nagar.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo-gbn@up.gov.in",
+      "covers": [
+        "gautam-buddha-nagar"
+      ],
+      "source_url": "https://gautam-buddha-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gautam-buddha-nagar-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Gautam Buddha Nagar",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, गौतम बुद्ध नगर",
+      "phones": [],
+      "email": "dpro-gbn@nic.in",
+      "covers": [
+        "gautam-buddha-nagar"
+      ],
+      "source_url": "https://gautam-buddha-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gautam-buddha-nagar-sdm-sadar-noida",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar (Noida)",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar (Noida)",
+      "phones": [],
+      "email": "sdm.sadarnoida.gbn-up@gov.in",
+      "covers": [
+        "sadar-noida"
+      ],
+      "source_url": "https://gautam-buddha-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gautam-buddha-nagar-sdm-dadri",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Dadri",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Dadri",
+      "phones": [
+        {
+          "number": "9560593435",
+          "type": "cug",
+          "source_url": "https://gautam-buddha-nagar.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmdadrigb-up@nic.in",
+      "covers": [
+        "dadri"
+      ],
+      "source_url": "https://gautam-buddha-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gautam-buddha-nagar-sdm-jewar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Jewar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Jewar",
+      "phones": [
+        {
+          "number": "9454416761",
+          "type": "cug",
+          "source_url": "https://gautam-buddha-nagar.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmjewargb-up@nic.in",
+      "covers": [
+        "jewar"
+      ],
+      "source_url": "https://gautam-buddha-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gautam-buddha-nagar-bdo-bisrakh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bisrakh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bisrakh",
+      "phones": [],
+      "email": "bdo.bisrakh.gbn@gmail.com",
+      "covers": [
+        "bisrakh"
+      ],
+      "source_url": "https://gautam-buddha-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gautam-buddha-nagar-ado-bisrakh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bisrakh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bisrakh",
+      "phones": [],
+      "covers": [
+        "bisrakh"
+      ],
+      "source_url": "https://gautam-buddha-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gautam-buddha-nagar-bdo-dadri",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dadri",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dadri",
+      "phones": [],
+      "email": "bdo.dadri.gbn@gmail.com",
+      "covers": [
+        "dadri"
+      ],
+      "source_url": "https://gautam-buddha-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gautam-buddha-nagar-ado-dadri",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dadri",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dadri",
+      "phones": [],
+      "covers": [
+        "dadri"
+      ],
+      "source_url": "https://gautam-buddha-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gautam-buddha-nagar-bdo-dankaur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dankaur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dankaur",
+      "phones": [],
+      "email": "bdo.dankaur.gbn@gmail.com",
+      "covers": [
+        "dankaur"
+      ],
+      "source_url": "https://gautam-buddha-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gautam-buddha-nagar-ado-dankaur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dankaur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dankaur",
+      "phones": [],
+      "covers": [
+        "dankaur"
+      ],
+      "source_url": "https://gautam-buddha-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gautam-buddha-nagar-bdo-jewar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jewar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jewar",
+      "phones": [],
+      "email": "bdo.jewar.gbn@gmail.com",
+      "covers": [
+        "jewar"
+      ],
+      "source_url": "https://gautam-buddha-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gautam-buddha-nagar-ado-jewar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jewar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jewar",
+      "phones": [],
+      "covers": [
+        "jewar"
+      ],
+      "source_url": "https://gautam-buddha-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-gautam-buddha-nagar-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Gautam Buddha Nagar",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका गौतम बुद्ध नगर",
+      "phones": [],
+      "covers": [
+        "ulb-gautam-buddha-nagar-main"
+      ],
+      "source_url": "https://gautam-buddha-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

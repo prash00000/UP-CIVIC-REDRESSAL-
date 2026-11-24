@@ -1,0 +1,242 @@
+{
+  "district_id": "hapur",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-hapur-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Hapur",
+      "office_name_hi": "कार्यालय जिलाधिकारी, हापुड़",
+      "phones": [
+        {
+          "number": "01222-304833",
+          "type": "office",
+          "source_url": "https://hapur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmhap@nic.in",
+      "covers": [
+        "hapur"
+      ],
+      "source_url": "https://hapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hapur-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Hapur",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), हापुड़",
+      "phones": [
+        {
+          "number": "9454449853",
+          "type": "office",
+          "source_url": "https://hapur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdohp-up@nic.in",
+      "covers": [
+        "hapur"
+      ],
+      "source_url": "https://hapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hapur-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Hapur",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, हापुड़",
+      "phones": [],
+      "email": "dpro-hpr@nic.in",
+      "covers": [
+        "hapur"
+      ],
+      "source_url": "https://hapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hapur-sdm-hapur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Hapur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Hapur",
+      "phones": [],
+      "email": "sdm.hapur.hpr-up@gov.in",
+      "covers": [
+        "hapur"
+      ],
+      "source_url": "https://hapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hapur-sdm-garhmukteshwar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Garhmukteshwar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Garhmukteshwar",
+      "phones": [],
+      "email": "sdm.garhmukteshwar.hpr-up@gov.in",
+      "covers": [
+        "garhmukteshwar"
+      ],
+      "source_url": "https://hapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hapur-sdm-dhaulana",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Dhaulana",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Dhaulana",
+      "phones": [],
+      "email": "sdm.dhaulana.hpr-up@gov.in",
+      "covers": [
+        "dhaulana"
+      ],
+      "source_url": "https://hapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hapur-bdo-hapur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Hapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hapur",
+      "phones": [],
+      "email": "bdo.hapur.hpr@gmail.com",
+      "covers": [
+        "hapur"
+      ],
+      "source_url": "https://hapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hapur-ado-hapur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Hapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Hapur",
+      "phones": [],
+      "covers": [
+        "hapur"
+      ],
+      "source_url": "https://hapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hapur-bdo-simbhawali",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Simbhawali",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Simbhawali",
+      "phones": [],
+      "email": "bdo.simbhawali.hpr@gmail.com",
+      "covers": [
+        "simbhawali"
+      ],
+      "source_url": "https://hapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hapur-ado-simbhawali",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Simbhawali",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Simbhawali",
+      "phones": [],
+      "covers": [
+        "simbhawali"
+      ],
+      "source_url": "https://hapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hapur-bdo-garhmukteshwar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Garhmukteshwar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Garhmukteshwar",
+      "phones": [],
+      "email": "bdo.garhmukteshwar.hpr@gmail.com",
+      "covers": [
+        "garhmukteshwar"
+      ],
+      "source_url": "https://hapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hapur-ado-garhmukteshwar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Garhmukteshwar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Garhmukteshwar",
+      "phones": [],
+      "covers": [
+        "garhmukteshwar"
+      ],
+      "source_url": "https://hapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hapur-bdo-dhaulana",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dhaulana",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dhaulana",
+      "phones": [],
+      "email": "bdo.dhaulana.hpr@gmail.com",
+      "covers": [
+        "dhaulana"
+      ],
+      "source_url": "https://hapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hapur-ado-dhaulana",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dhaulana",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dhaulana",
+      "phones": [],
+      "covers": [
+        "dhaulana"
+      ],
+      "source_url": "https://hapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-hapur-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Hapur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका हापुड़",
+      "phones": [],
+      "covers": [
+        "ulb-hapur-main"
+      ],
+      "source_url": "https://hapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

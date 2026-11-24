@@ -1,0 +1,518 @@
+{
+  "district_id": "amethi",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-amethi-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Amethi",
+      "office_name_hi": "कार्यालय जिलाधिकारी, अमेठी",
+      "phones": [
+        {
+          "number": "05368-244300",
+          "type": "office",
+          "source_url": "https://amethi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmamethi-up@nic.in",
+      "covers": [
+        "amethi"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Amethi",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), अमेठी",
+      "phones": [
+        {
+          "number": "9454465472",
+          "type": "office",
+          "source_url": "https://amethi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo-amethi@up.gov.on",
+      "covers": [
+        "amethi"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Amethi",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, अमेठी",
+      "phones": [],
+      "email": "dpro-amt@nic.in",
+      "covers": [
+        "amethi"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-sdm-gauriganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Gauriganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Gauriganj",
+      "phones": [],
+      "email": "sdm.gauriganj.amt-up@gov.in",
+      "covers": [
+        "gauriganj"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-sdm-amethi",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Amethi",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Amethi",
+      "phones": [],
+      "email": "sdm.amethi.amt-up@gov.in",
+      "covers": [
+        "amethi"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-sdm-musafirkhana",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Musafirkhana",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Musafirkhana",
+      "phones": [],
+      "email": "sdm.musafirkhana.amt-up@gov.in",
+      "covers": [
+        "musafirkhana"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-sdm-tiloi",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Tiloi",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Tiloi",
+      "phones": [],
+      "email": "sdm.tiloi.amt-up@gov.in",
+      "covers": [
+        "tiloi"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-bdo-gauriganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gauriganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gauriganj",
+      "phones": [],
+      "email": "bdo.gauriganj.amt@gmail.com",
+      "covers": [
+        "gauriganj"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-ado-gauriganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gauriganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gauriganj",
+      "phones": [],
+      "covers": [
+        "gauriganj"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-bdo-amethi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Amethi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Amethi",
+      "phones": [],
+      "email": "bdo.amethi.amt@gmail.com",
+      "covers": [
+        "amethi"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-ado-amethi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Amethi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Amethi",
+      "phones": [],
+      "covers": [
+        "amethi"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-bdo-bhadar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhadar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhadar",
+      "phones": [],
+      "email": "bdo.bhadar.amt@gmail.com",
+      "covers": [
+        "bhadar"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-ado-bhadar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhadar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhadar",
+      "phones": [],
+      "covers": [
+        "bhadar"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-bdo-sangrampur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sangrampur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sangrampur",
+      "phones": [],
+      "email": "bdo.sangrampur.amt@gmail.com",
+      "covers": [
+        "sangrampur"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-ado-sangrampur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sangrampur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sangrampur",
+      "phones": [],
+      "covers": [
+        "sangrampur"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-bdo-bhetua",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhetua",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhetua",
+      "phones": [],
+      "email": "bdo.bhetua.amt@gmail.com",
+      "covers": [
+        "bhetua"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-ado-bhetua",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhetua",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhetua",
+      "phones": [],
+      "covers": [
+        "bhetua"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-bdo-musafirkhana",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Musafirkhana",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Musafirkhana",
+      "phones": [],
+      "email": "bdo.musafirkhana.amt@gmail.com",
+      "covers": [
+        "musafirkhana"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-ado-musafirkhana",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Musafirkhana",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Musafirkhana",
+      "phones": [],
+      "covers": [
+        "musafirkhana"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-bdo-jagdishpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jagdishpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jagdishpur",
+      "phones": [],
+      "email": "bdo.jagdishpur.amt@gmail.com",
+      "covers": [
+        "jagdishpur"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-ado-jagdishpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jagdishpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jagdishpur",
+      "phones": [],
+      "covers": [
+        "jagdishpur"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-bdo-shukla-bazar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Shukla Bazar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shukla Bazar",
+      "phones": [],
+      "email": "bdo.shuklabazar.amt@gmail.com",
+      "covers": [
+        "shukla-bazar"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-ado-shukla-bazar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Shukla Bazar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shukla Bazar",
+      "phones": [],
+      "covers": [
+        "shukla-bazar"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-bdo-tiloi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Tiloi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tiloi",
+      "phones": [],
+      "email": "bdo.tiloi.amt@gmail.com",
+      "covers": [
+        "tiloi"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-ado-tiloi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Tiloi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Tiloi",
+      "phones": [],
+      "covers": [
+        "tiloi"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-bdo-singhashanpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Singhashanpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Singhashanpur",
+      "phones": [],
+      "email": "bdo.singhashanpur.amt@gmail.com",
+      "covers": [
+        "singhashanpur"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-ado-singhashanpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Singhashanpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Singhashanpur",
+      "phones": [],
+      "covers": [
+        "singhashanpur"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-bdo-bahadurpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bahadurpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bahadurpur",
+      "phones": [],
+      "email": "bdo.bahadurpur.amt@gmail.com",
+      "covers": [
+        "bahadurpur"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-ado-bahadurpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bahadurpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bahadurpur",
+      "phones": [],
+      "covers": [
+        "bahadurpur"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-bdo-shahgarh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Shahgarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shahgarh",
+      "phones": [],
+      "email": "bdo.shahgarh.amt@gmail.com",
+      "covers": [
+        "shahgarh"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-ado-shahgarh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Shahgarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shahgarh",
+      "phones": [],
+      "covers": [
+        "shahgarh"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-bdo-jamo",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jamo",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jamo",
+      "phones": [],
+      "email": "bdo.jamo.amt@gmail.com",
+      "covers": [
+        "jamo"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amethi-ado-jamo",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jamo",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jamo",
+      "phones": [],
+      "covers": [
+        "jamo"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-amethi-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Amethi",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका अमेठी",
+      "phones": [],
+      "covers": [
+        "ulb-amethi-main"
+      ],
+      "source_url": "https://amethi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

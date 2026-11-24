@@ -1,0 +1,293 @@
+{
+  "district_id": "bhadohi",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-bhadohi-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Bhadohi",
+      "office_name_hi": "कार्यालय जिलाधिकारी, भदोही",
+      "officer_name_en": "2",
+      "phones": [
+        {
+          "number": "9454417568",
+          "type": "office",
+          "source_url": "https://bhadohi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmbhd@nic.in",
+      "covers": [
+        "bhadohi"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bhadohi-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Bhadohi",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), भदोही",
+      "phones": [],
+      "email": "cdo.bhd-up@gov.in",
+      "covers": [
+        "bhadohi"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bhadohi-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Bhadohi",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, भदोही",
+      "phones": [],
+      "email": "dpro-bhd@nic.in",
+      "covers": [
+        "bhadohi"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bhadohi-sdm-gyanpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Gyanpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Gyanpur",
+      "phones": [],
+      "email": "sdm.gyanpur.bhd-up@gov.in",
+      "covers": [
+        "gyanpur"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bhadohi-sdm-bhadohi",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bhadohi",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bhadohi",
+      "phones": [],
+      "email": "sdm.bhadohi.bhd-up@gov.in",
+      "covers": [
+        "bhadohi"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bhadohi-sdm-aurai",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Aurai",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Aurai",
+      "phones": [],
+      "email": "sdm.aurai.bhd-up@gov.in",
+      "covers": [
+        "aurai"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bhadohi-bdo-gyanpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gyanpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gyanpur",
+      "phones": [],
+      "email": "bdo.gyanpur.bhd@gmail.com",
+      "covers": [
+        "gyanpur"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bhadohi-ado-gyanpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gyanpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gyanpur",
+      "phones": [],
+      "covers": [
+        "gyanpur"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bhadohi-bdo-deeh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Deeh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Deeh",
+      "phones": [],
+      "email": "bdo.deeh.bhd@gmail.com",
+      "covers": [
+        "deeh"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bhadohi-ado-deeh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Deeh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Deeh",
+      "phones": [],
+      "covers": [
+        "deeh"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bhadohi-bdo-abholi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Abholi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Abholi",
+      "phones": [],
+      "email": "bdo.abholi.bhd@gmail.com",
+      "covers": [
+        "abholi"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bhadohi-ado-abholi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Abholi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Abholi",
+      "phones": [],
+      "covers": [
+        "abholi"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bhadohi-bdo-bhadohi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhadohi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhadohi",
+      "phones": [],
+      "email": "bdo.bhadohi.bhd@gmail.com",
+      "covers": [
+        "bhadohi"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bhadohi-ado-bhadohi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhadohi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhadohi",
+      "phones": [],
+      "covers": [
+        "bhadohi"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bhadohi-bdo-suriyawan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Suriyawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Suriyawan",
+      "phones": [],
+      "email": "bdo.suriyawan.bhd@gmail.com",
+      "covers": [
+        "suriyawan"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bhadohi-ado-suriyawan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Suriyawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Suriyawan",
+      "phones": [],
+      "covers": [
+        "suriyawan"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bhadohi-bdo-aurai",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Aurai",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Aurai",
+      "phones": [],
+      "email": "bdo.aurai.bhd@gmail.com",
+      "covers": [
+        "aurai"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bhadohi-ado-aurai",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Aurai",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Aurai",
+      "phones": [],
+      "covers": [
+        "aurai"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-bhadohi-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Bhadohi",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका भदोही",
+      "phones": [],
+      "covers": [
+        "ulb-bhadohi-main"
+      ],
+      "source_url": "https://bhadohi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

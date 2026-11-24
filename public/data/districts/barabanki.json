@@ -1,0 +1,606 @@
+{
+  "district_id": "barabanki",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-barabanki-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Barabanki",
+      "office_name_hi": "कार्यालय जिलाधिकारी, बाराबंकी",
+      "phones": [
+        {
+          "number": "9454417540",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmbab@nic.in",
+      "covers": [
+        "barabanki"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Barabanki",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), बाराबंकी",
+      "phones": [
+        {
+          "number": "05248-223103",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "drda-bar@nic.in",
+      "covers": [
+        "barabanki"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Barabanki",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, बाराबंकी",
+      "phones": [],
+      "email": "dpro-bbk@nic.in",
+      "covers": [
+        "barabanki"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-sdm-nawabganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Nawabganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Nawabganj",
+      "phones": [],
+      "email": "sdm.nawabganj.bbk-up@gov.in",
+      "covers": [
+        "nawabganj"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-sdm-fatehpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Fatehpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Fatehpur",
+      "phones": [],
+      "email": "sdm.fatehpur.bbk-up@gov.in",
+      "covers": [
+        "fatehpur"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-sdm-ramsanehighat",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Ramsanehighat",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Ramsanehighat",
+      "phones": [],
+      "email": "sdm.ramsanehighat.bbk-up@gov.in",
+      "covers": [
+        "ramsanehighat"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-sdm-haidergarh",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Haidergarh",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Haidergarh",
+      "phones": [],
+      "email": "sdm.haidergarh.bbk-up@gov.in",
+      "covers": [
+        "haidergarh"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-sdm-ramnagar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Ramnagar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Ramnagar",
+      "phones": [],
+      "email": "sdm.ramnagar.bbk-up@gov.in",
+      "covers": [
+        "ramnagar"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-sdm-sirauli-ghauspur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sirauli Ghauspur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sirauli Ghauspur",
+      "phones": [],
+      "email": "sdm.siraulighauspur.bbk-up@gov.in",
+      "covers": [
+        "sirauli-ghauspur"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-bdo-banki",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Banki",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Banki",
+      "phones": [],
+      "email": "bdo.banki.bbk@gmail.com",
+      "covers": [
+        "banki"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-ado-banki",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Banki",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Banki",
+      "phones": [],
+      "covers": [
+        "banki"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-bdo-masauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Masauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Masauli",
+      "phones": [],
+      "email": "bdo.masauli.bbk@gmail.com",
+      "covers": [
+        "masauli"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-ado-masauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Masauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Masauli",
+      "phones": [],
+      "covers": [
+        "masauli"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-bdo-dewan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dewan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dewan",
+      "phones": [],
+      "email": "bdo.dewan.bbk@gmail.com",
+      "covers": [
+        "dewan"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-ado-dewan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dewan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dewan",
+      "phones": [],
+      "covers": [
+        "dewan"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-bdo-fatehpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Fatehpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Fatehpur",
+      "phones": [],
+      "email": "bdo.fatehpur.bbk@gmail.com",
+      "covers": [
+        "fatehpur"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-ado-fatehpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Fatehpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Fatehpur",
+      "phones": [],
+      "covers": [
+        "fatehpur"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-bdo-nindoora",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nindoora",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nindoora",
+      "phones": [],
+      "email": "bdo.nindoora.bbk@gmail.com",
+      "covers": [
+        "nindoora"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-ado-nindoora",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nindoora",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nindoora",
+      "phones": [],
+      "covers": [
+        "nindoora"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-bdo-ramnagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ramnagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ramnagar",
+      "phones": [],
+      "email": "bdo.ramnagar.bbk@gmail.com",
+      "covers": [
+        "ramnagar"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-ado-ramnagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ramnagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ramnagar",
+      "phones": [],
+      "covers": [
+        "ramnagar"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-bdo-sirauli-ghauspur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sirauli Ghauspur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sirauli Ghauspur",
+      "phones": [],
+      "email": "bdo.siraulighauspur.bbk@gmail.com",
+      "covers": [
+        "sirauli-ghauspur"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-ado-sirauli-ghauspur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sirauli Ghauspur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sirauli Ghauspur",
+      "phones": [],
+      "covers": [
+        "sirauli-ghauspur"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-bdo-dariyabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dariyabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dariyabad",
+      "phones": [],
+      "email": "bdo.dariyabad.bbk@gmail.com",
+      "covers": [
+        "dariyabad"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-ado-dariyabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dariyabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dariyabad",
+      "phones": [],
+      "covers": [
+        "dariyabad"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-bdo-suratganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Suratganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Suratganj",
+      "phones": [],
+      "email": "bdo.suratganj.bbk@gmail.com",
+      "covers": [
+        "suratganj"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-ado-suratganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Suratganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Suratganj",
+      "phones": [],
+      "covers": [
+        "suratganj"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-bdo-rudauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rudauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rudauli",
+      "phones": [],
+      "email": "bdo.rudauli.bbk@gmail.com",
+      "covers": [
+        "rudauli"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-ado-rudauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rudauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rudauli",
+      "phones": [],
+      "covers": [
+        "rudauli"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-bdo-bani-kodar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bani Kodar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bani Kodar",
+      "phones": [],
+      "email": "bdo.banikodar.bbk@gmail.com",
+      "covers": [
+        "bani-kodar"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-ado-bani-kodar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bani Kodar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bani Kodar",
+      "phones": [],
+      "covers": [
+        "bani-kodar"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-bdo-haidergarh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Haidergarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Haidergarh",
+      "phones": [],
+      "email": "bdo.haidergarh.bbk@gmail.com",
+      "covers": [
+        "haidergarh"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-ado-haidergarh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Haidergarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Haidergarh",
+      "phones": [],
+      "covers": [
+        "haidergarh"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-bdo-siddhaur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Siddhaur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Siddhaur",
+      "phones": [],
+      "email": "bdo.siddhaur.bbk@gmail.com",
+      "covers": [
+        "siddhaur"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-ado-siddhaur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Siddhaur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Siddhaur",
+      "phones": [],
+      "covers": [
+        "siddhaur"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-bdo-trivediganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Trivediganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Trivediganj",
+      "phones": [],
+      "email": "bdo.trivediganj.bbk@gmail.com",
+      "covers": [
+        "trivediganj"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-ado-trivediganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Trivediganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Trivediganj",
+      "phones": [],
+      "covers": [
+        "trivediganj"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-bdo-harakh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Harakh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Harakh",
+      "phones": [],
+      "email": "bdo.harakh.bbk@gmail.com",
+      "covers": [
+        "harakh"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-barabanki-ado-harakh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Harakh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Harakh",
+      "phones": [],
+      "covers": [
+        "harakh"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-barabanki-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Barabanki",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका बाराबंकी",
+      "phones": [],
+      "covers": [
+        "ulb-barabanki-main"
+      ],
+      "source_url": "https://barabanki.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

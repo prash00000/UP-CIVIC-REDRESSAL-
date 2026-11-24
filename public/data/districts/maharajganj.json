@@ -1,0 +1,530 @@
+{
+  "district_id": "maharajganj",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-maharajganj-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Maharajganj",
+      "office_name_hi": "कार्यालय जिलाधिकारी, महराजगंज",
+      "officer_name_en": "ADDITIONAL DISTRICT MAGISTRATE (J)",
+      "phones": [
+        {
+          "number": "9454416312",
+          "type": "office",
+          "source_url": "https://maharajganj.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmmrg@nic.in",
+      "covers": [
+        "maharajganj"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Maharajganj",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), महराजगंज",
+      "phones": [
+        {
+          "number": "05523-222404",
+          "type": "office",
+          "source_url": "https://maharajganj.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo.mrg-up@gov.in",
+      "covers": [
+        "maharajganj"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Maharajganj",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, महराजगंज",
+      "phones": [
+        {
+          "number": "05523-222180",
+          "type": "office",
+          "source_url": "https://maharajganj.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dpro-mrg@nic.in",
+      "covers": [
+        "maharajganj"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [
+        {
+          "number": "05523-222022",
+          "type": "cug",
+          "source_url": "https://maharajganj.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.sadar.mrg-up@gov.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-sdm-nautanwa",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Nautanwa",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Nautanwa",
+      "phones": [
+        {
+          "number": "05523-234268",
+          "type": "cug",
+          "source_url": "https://maharajganj.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.nautanwa.mrg-up@gov.in",
+      "covers": [
+        "nautanwa"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-sdm-nichlaul",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Nichlaul",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Nichlaul",
+      "phones": [
+        {
+          "number": "05523-246304",
+          "type": "cug",
+          "source_url": "https://maharajganj.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.nichlaul.mrg-up@gov.in",
+      "covers": [
+        "nichlaul"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-sdm-pharenda",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Pharenda",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Pharenda",
+      "phones": [
+        {
+          "number": "05523-223508",
+          "type": "cug",
+          "source_url": "https://maharajganj.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.pharenda.mrg-up@gov.in",
+      "covers": [
+        "pharenda"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-bdo-maharajganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Maharajganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Maharajganj",
+      "phones": [],
+      "email": "bdo.maharajganj.mrg@gmail.com",
+      "covers": [
+        "maharajganj"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-ado-maharajganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Maharajganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Maharajganj",
+      "phones": [],
+      "covers": [
+        "maharajganj"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-bdo-mithaura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mithaura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mithaura",
+      "phones": [],
+      "email": "bdo.mithaura.mrg@gmail.com",
+      "covers": [
+        "mithaura"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-ado-mithaura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mithaura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mithaura",
+      "phones": [],
+      "covers": [
+        "mithaura"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-bdo-siswa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Siswa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Siswa",
+      "phones": [],
+      "email": "bdo.siswa.mrg@gmail.com",
+      "covers": [
+        "siswa"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-ado-siswa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Siswa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Siswa",
+      "phones": [],
+      "covers": [
+        "siswa"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-bdo-nichlaul",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nichlaul",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nichlaul",
+      "phones": [],
+      "email": "bdo.nichlaul.mrg@gmail.com",
+      "covers": [
+        "nichlaul"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-ado-nichlaul",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nichlaul",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nichlaul",
+      "phones": [],
+      "covers": [
+        "nichlaul"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-bdo-nautanwa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nautanwa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nautanwa",
+      "phones": [],
+      "email": "bdo.nautanwa.mrg@gmail.com",
+      "covers": [
+        "nautanwa"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-ado-nautanwa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nautanwa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nautanwa",
+      "phones": [],
+      "covers": [
+        "nautanwa"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-bdo-ratanpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ratanpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ratanpur",
+      "phones": [],
+      "email": "bdo.ratanpur.mrg@gmail.com",
+      "covers": [
+        "ratanpur"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-ado-ratanpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ratanpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ratanpur",
+      "phones": [],
+      "covers": [
+        "ratanpur"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-bdo-laxmipur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Laxmipur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Laxmipur",
+      "phones": [],
+      "email": "bdo.laxmipur.mrg@gmail.com",
+      "covers": [
+        "laxmipur"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-ado-laxmipur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Laxmipur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Laxmipur",
+      "phones": [],
+      "covers": [
+        "laxmipur"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-bdo-brijmanganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Brijmanganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Brijmanganj",
+      "phones": [],
+      "email": "bdo.brijmanganj.mrg@gmail.com",
+      "covers": [
+        "brijmanganj"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-ado-brijmanganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Brijmanganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Brijmanganj",
+      "phones": [],
+      "covers": [
+        "brijmanganj"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-bdo-pharenda",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pharenda",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pharenda",
+      "phones": [],
+      "email": "bdo.pharenda.mrg@gmail.com",
+      "covers": [
+        "pharenda"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-ado-pharenda",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pharenda",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pharenda",
+      "phones": [],
+      "covers": [
+        "pharenda"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-bdo-dhani",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dhani",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dhani",
+      "phones": [],
+      "email": "bdo.dhani.mrg@gmail.com",
+      "covers": [
+        "dhani"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-ado-dhani",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dhani",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dhani",
+      "phones": [],
+      "covers": [
+        "dhani"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-bdo-paniara",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Paniara",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Paniara",
+      "phones": [],
+      "email": "bdo.paniara.mrg@gmail.com",
+      "covers": [
+        "paniara"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-ado-paniara",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Paniara",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Paniara",
+      "phones": [],
+      "covers": [
+        "paniara"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-bdo-partawal",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Partawal",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Partawal",
+      "phones": [],
+      "email": "bdo.partawal.mrg@gmail.com",
+      "covers": [
+        "partawal"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-maharajganj-ado-partawal",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Partawal",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Partawal",
+      "phones": [],
+      "covers": [
+        "partawal"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-maharajganj-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Maharajganj",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका महराजगंज",
+      "phones": [],
+      "covers": [
+        "ulb-maharajganj-main"
+      ],
+      "source_url": "https://maharajganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

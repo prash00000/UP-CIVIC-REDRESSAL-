@@ -1,0 +1,636 @@
+{
+  "district_id": "unnao",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-unnao-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Unnao",
+      "office_name_hi": "कार्यालय जिलाधिकारी, उन्नाव",
+      "officer_name_en": "Sushil Kumar Gaur",
+      "phones": [
+        {
+          "number": "05152-820701",
+          "type": "office",
+          "source_url": "https://unnao.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "adm.un-up@gov.in",
+      "covers": [
+        "unnao"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Unnao",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), उन्नाव",
+      "phones": [
+        {
+          "number": "9454465441",
+          "type": "office",
+          "source_url": "https://unnao.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo.un-up@gov.in",
+      "covers": [
+        "unnao"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Unnao",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, उन्नाव",
+      "phones": [],
+      "email": "dpro-unn@nic.in",
+      "covers": [
+        "unnao"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [],
+      "email": "sdm.sadar.unn-up@gov.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-sdm-safipur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Safipur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Safipur",
+      "phones": [],
+      "email": "sdm.safipur.unn-up@gov.in",
+      "covers": [
+        "safipur"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-sdm-purwa",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Purwa",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Purwa",
+      "phones": [],
+      "email": "sdm.purwa.unn-up@gov.in",
+      "covers": [
+        "purwa"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-sdm-hasanganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Hasanganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Hasanganj",
+      "phones": [],
+      "email": "sdm.hasanganj.unn-up@gov.in",
+      "covers": [
+        "hasanganj"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-sdm-bighapur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bighapur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bighapur",
+      "phones": [],
+      "email": "sdm.bighapur.unn-up@gov.in",
+      "covers": [
+        "bighapur"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-sdm-bangarmau",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bangarmau",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bangarmau",
+      "phones": [],
+      "email": "sdm.bangarmau.unn-up@gov.in",
+      "covers": [
+        "bangarmau"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-bdo-sikandarpur-sirohi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sikandarpur Sirohi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sikandarpur Sirohi",
+      "phones": [],
+      "email": "bdo.sikandarpursirohi.unn@gmail.com",
+      "covers": [
+        "sikandarpur-sirohi"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-ado-sikandarpur-sirohi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sikandarpur Sirohi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sikandarpur Sirohi",
+      "phones": [],
+      "covers": [
+        "sikandarpur-sirohi"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-bdo-sikandarpur-karan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sikandarpur Karan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sikandarpur Karan",
+      "phones": [],
+      "email": "bdo.sikandarpurkaran.unn@gmail.com",
+      "covers": [
+        "sikandarpur-karan"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-ado-sikandarpur-karan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sikandarpur Karan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sikandarpur Karan",
+      "phones": [],
+      "covers": [
+        "sikandarpur-karan"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-bdo-bichhiya",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bichhiya",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bichhiya",
+      "phones": [],
+      "email": "bdo.bichhiya.unn@gmail.com",
+      "covers": [
+        "bichhiya"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-ado-bichhiya",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bichhiya",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bichhiya",
+      "phones": [],
+      "covers": [
+        "bichhiya"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-bdo-nawabganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nawabganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nawabganj",
+      "phones": [],
+      "email": "bdo.nawabganj.unn@gmail.com",
+      "covers": [
+        "nawabganj"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-ado-nawabganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nawabganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nawabganj",
+      "phones": [],
+      "covers": [
+        "nawabganj"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-bdo-hasanganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Hasanganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hasanganj",
+      "phones": [],
+      "email": "bdo.hasanganj.unn@gmail.com",
+      "covers": [
+        "hasanganj"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-ado-hasanganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Hasanganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Hasanganj",
+      "phones": [],
+      "covers": [
+        "hasanganj"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-bdo-miyanganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Miyanganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Miyanganj",
+      "phones": [],
+      "email": "bdo.miyanganj.unn@gmail.com",
+      "covers": [
+        "miyanganj"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-ado-miyanganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Miyanganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Miyanganj",
+      "phones": [],
+      "covers": [
+        "miyanganj"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-bdo-auras",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Auras",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Auras",
+      "phones": [],
+      "email": "bdo.auras.unn@gmail.com",
+      "covers": [
+        "auras"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-ado-auras",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Auras",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Auras",
+      "phones": [],
+      "covers": [
+        "auras"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-bdo-safipur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Safipur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Safipur",
+      "phones": [],
+      "email": "bdo.safipur.unn@gmail.com",
+      "covers": [
+        "safipur"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-ado-safipur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Safipur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Safipur",
+      "phones": [],
+      "covers": [
+        "safipur"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-bdo-fatehpur-chaurasi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Fatehpur Chaurasi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Fatehpur Chaurasi",
+      "phones": [],
+      "email": "bdo.fatehpurchaurasi.unn@gmail.com",
+      "covers": [
+        "fatehpur-chaurasi"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-ado-fatehpur-chaurasi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Fatehpur Chaurasi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Fatehpur Chaurasi",
+      "phones": [],
+      "covers": [
+        "fatehpur-chaurasi"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-bdo-bangarmau",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bangarmau",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bangarmau",
+      "phones": [],
+      "email": "bdo.bangarmau.unn@gmail.com",
+      "covers": [
+        "bangarmau"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-ado-bangarmau",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bangarmau",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bangarmau",
+      "phones": [],
+      "covers": [
+        "bangarmau"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-bdo-ganj-moradabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ganj Moradabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ganj Moradabad",
+      "phones": [],
+      "email": "bdo.ganjmoradabad.unn@gmail.com",
+      "covers": [
+        "ganj-moradabad"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-ado-ganj-moradabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ganj Moradabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ganj Moradabad",
+      "phones": [],
+      "covers": [
+        "ganj-moradabad"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-bdo-purwa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Purwa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Purwa",
+      "phones": [],
+      "email": "bdo.purwa.unn@gmail.com",
+      "covers": [
+        "purwa"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-ado-purwa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Purwa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Purwa",
+      "phones": [],
+      "covers": [
+        "purwa"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-bdo-asoha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Asoha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Asoha",
+      "phones": [],
+      "email": "bdo.asoha.unn@gmail.com",
+      "covers": [
+        "asoha"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-ado-asoha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Asoha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Asoha",
+      "phones": [],
+      "covers": [
+        "asoha"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-bdo-hilauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Hilauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hilauli",
+      "phones": [],
+      "email": "bdo.hilauli.unn@gmail.com",
+      "covers": [
+        "hilauli"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-ado-hilauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Hilauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Hilauli",
+      "phones": [],
+      "covers": [
+        "hilauli"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-bdo-bighapur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bighapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bighapur",
+      "phones": [],
+      "email": "bdo.bighapur.unn@gmail.com",
+      "covers": [
+        "bighapur"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-ado-bighapur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bighapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bighapur",
+      "phones": [],
+      "covers": [
+        "bighapur"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-bdo-sumerpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sumerpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sumerpur",
+      "phones": [],
+      "email": "bdo.sumerpur.unn@gmail.com",
+      "covers": [
+        "sumerpur"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-unnao-ado-sumerpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sumerpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sumerpur",
+      "phones": [],
+      "covers": [
+        "sumerpur"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-unnao-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Unnao",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका उन्नाव",
+      "phones": [],
+      "covers": [
+        "ulb-unnao-main"
+      ],
+      "source_url": "https://unnao.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

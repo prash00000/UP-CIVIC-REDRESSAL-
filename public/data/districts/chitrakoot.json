@@ -1,0 +1,319 @@
+{
+  "district_id": "chitrakoot",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-chitrakoot-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Chitrakoot",
+      "office_name_hi": "कार्यालय जिलाधिकारी, चित्रकूट",
+      "officer_name_en": "Pulkit Garg (I.A.S.)",
+      "phones": [
+        {
+          "number": "05198-235118",
+          "type": "office",
+          "source_url": "https://chitrakoot.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmchi@nic.in",
+      "covers": [
+        "chitrakoot"
+      ],
+      "source_url": "https://chitrakoot.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chitrakoot-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Chitrakoot",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), चित्रकूट",
+      "phones": [
+        {
+          "number": "05198-236618",
+          "type": "office",
+          "source_url": "https://chitrakoot.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo.ct-up@gov.in",
+      "covers": [
+        "chitrakoot"
+      ],
+      "source_url": "https://chitrakoot.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chitrakoot-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Chitrakoot",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, चित्रकूट",
+      "phones": [],
+      "email": "dpro-ckt@nic.in",
+      "covers": [
+        "chitrakoot"
+      ],
+      "source_url": "https://chitrakoot.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chitrakoot-sdm-karwi",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Karwi",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Karwi",
+      "phones": [
+        {
+          "number": "9454415959",
+          "type": "cug",
+          "source_url": "https://chitrakoot.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmchi-karwi@nic.in",
+      "covers": [
+        "karwi"
+      ],
+      "source_url": "https://chitrakoot.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chitrakoot-sdm-mau",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mau",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mau",
+      "phones": [
+        {
+          "number": "9454415960",
+          "type": "cug",
+          "source_url": "https://chitrakoot.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmchi-mau@nic.in",
+      "covers": [
+        "mau"
+      ],
+      "source_url": "https://chitrakoot.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chitrakoot-sdm-manikpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Manikpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Manikpur",
+      "phones": [
+        {
+          "number": "9454415961",
+          "type": "cug",
+          "source_url": "https://chitrakoot.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm-manikpur.ct@up.gov.in",
+      "covers": [
+        "manikpur"
+      ],
+      "source_url": "https://chitrakoot.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chitrakoot-sdm-rajapur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Rajapur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Rajapur",
+      "phones": [
+        {
+          "number": "9454415962",
+          "type": "cug",
+          "source_url": "https://chitrakoot.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm-rajapur.ct@up.gov.in",
+      "covers": [
+        "rajapur"
+      ],
+      "source_url": "https://chitrakoot.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chitrakoot-bdo-karwi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Karwi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Karwi",
+      "phones": [],
+      "email": "bdo.karwi.ckt@gmail.com",
+      "covers": [
+        "karwi"
+      ],
+      "source_url": "https://chitrakoot.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chitrakoot-ado-karwi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Karwi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Karwi",
+      "phones": [],
+      "covers": [
+        "karwi"
+      ],
+      "source_url": "https://chitrakoot.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chitrakoot-bdo-pahari",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pahari",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pahari",
+      "phones": [],
+      "email": "bdo.pahari.ckt@gmail.com",
+      "covers": [
+        "pahari"
+      ],
+      "source_url": "https://chitrakoot.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chitrakoot-ado-pahari",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pahari",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pahari",
+      "phones": [],
+      "covers": [
+        "pahari"
+      ],
+      "source_url": "https://chitrakoot.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chitrakoot-bdo-manikpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Manikpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Manikpur",
+      "phones": [],
+      "email": "bdo.manikpur.ckt@gmail.com",
+      "covers": [
+        "manikpur"
+      ],
+      "source_url": "https://chitrakoot.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chitrakoot-ado-manikpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Manikpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Manikpur",
+      "phones": [],
+      "covers": [
+        "manikpur"
+      ],
+      "source_url": "https://chitrakoot.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chitrakoot-bdo-mau",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mau",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mau",
+      "phones": [],
+      "email": "bdo.mau.ckt@gmail.com",
+      "covers": [
+        "mau"
+      ],
+      "source_url": "https://chitrakoot.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chitrakoot-ado-mau",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mau",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mau",
+      "phones": [],
+      "covers": [
+        "mau"
+      ],
+      "source_url": "https://chitrakoot.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chitrakoot-bdo-ramnagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ramnagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ramnagar",
+      "phones": [],
+      "email": "bdo.ramnagar.ckt@gmail.com",
+      "covers": [
+        "ramnagar"
+      ],
+      "source_url": "https://chitrakoot.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chitrakoot-ado-ramnagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ramnagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ramnagar",
+      "phones": [],
+      "covers": [
+        "ramnagar"
+      ],
+      "source_url": "https://chitrakoot.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-chitrakoot-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Chitrakoot",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका चित्रकूट",
+      "phones": [],
+      "covers": [
+        "ulb-chitrakoot-main"
+      ],
+      "source_url": "https://chitrakoot.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

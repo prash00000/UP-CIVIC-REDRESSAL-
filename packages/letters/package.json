@@ -1,9 +1,0 @@
-{
-  "name": "@upcivic/letters",
-  "version": "1.0.0",
-  "type": "module",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "node --test tests/builder.test.js"
-  }
-}

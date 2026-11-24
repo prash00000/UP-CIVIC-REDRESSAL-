@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "agra",
+    "name_en": "Agra",
+    "name_hi": "आगरा",
+    "division_en": "Agra",
+    "division_hi": "आगरा",
+    "coverage": {
+      "tier0": 95,
+      "tier1": 95,
+      "tier2": 92,
+      "verified_pct": 88,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "aligarh",
+    "name_en": "Aligarh",
+    "name_hi": "अलीगढ़",
+    "division_en": "Aligarh",
+    "division_hi": "अलीगढ़",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "ambedkar-nagar",
+    "name_en": "Ambedkar Nagar",
+    "name_hi": "अंबेडकर नगर",
+    "division_en": "Ayodhya",
+    "division_hi": "अंबेडकर नगर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "amethi",
+    "name_en": "Amethi",
+    "name_hi": "अमेठी",
+    "division_en": "Ayodhya",
+    "division_hi": "अमेठी",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "amroha",
+    "name_en": "Amroha",
+    "name_hi": "अमरोहा",
+    "division_en": "Moradabad",
+    "division_hi": "अमरोहा",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "auraiya",
+    "name_en": "Auraiya",
+    "name_hi": "औरैया",
+    "division_en": "Kanpur",
+    "division_hi": "औरैया",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "ayodhya",
+    "name_en": "Ayodhya",
+    "name_hi": "अयोध्या",
+    "division_en": "Ayodhya",
+    "division_hi": "अयोध्या",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "azamgarh",
+    "name_en": "Azamgarh",
+    "name_hi": "आजमगढ़",
+    "division_en": "Azamgarh",
+    "division_hi": "आजमगढ़",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "baghpat",
+    "name_en": "Baghpat",
+    "name_hi": "बागपत",
+    "division_en": "Meerut",
+    "division_hi": "बागपत",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "bahraich",
+    "name_en": "Bahraich",
+    "name_hi": "बहराइच",
+    "division_en": "Devipatan",
+    "division_hi": "बहराइच",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "ballia",
+    "name_en": "Ballia",
+    "name_hi": "बलिया",
+    "division_en": "Azamgarh",
+    "division_hi": "बलिया",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "balrampur",
+    "name_en": "Balrampur",
+    "name_hi": "बलरामपुर",
+    "division_en": "Devipatan",
+    "division_hi": "बलरामपुर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "banda",
+    "name_en": "Banda",
+    "name_hi": "बांदा",
+    "division_en": "Chitrakoot",
+    "division_hi": "बांदा",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "barabanki",
+    "name_en": "Barabanki",
+    "name_hi": "बाराबंकी",
+    "division_en": "Ayodhya",
+    "division_hi": "बाराबंकी",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "bareilly",
+    "name_en": "Bareilly",
+    "name_hi": "बरेली",
+    "division_en": "Bareilly",
+    "division_hi": "बरेली",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "basti",
+    "name_en": "Basti",
+    "name_hi": "बस्ती",
+    "division_en": "Basti",
+    "division_hi": "बस्ती",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "bhadohi",
+    "name_en": "Bhadohi",
+    "name_hi": "भदोही",
+    "division_en": "Mirzapur",
+    "division_hi": "भदोही",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "bijnor",
+    "name_en": "Bijnor",
+    "name_hi": "बिजनौर",
+    "division_en": "Moradabad",
+    "division_hi": "बिजनौर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "budaun",
+    "name_en": "Budaun",
+    "name_hi": "बदायूँ",
+    "division_en": "Bareilly",
+    "division_hi": "बदायूँ",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "bulandshahr",
+    "name_en": "Bulandshahr",
+    "name_hi": "बुलंदशहर",
+    "division_en": "Meerut",
+    "division_hi": "बुलंदशहर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "chandauli",
+    "name_en": "Chandauli",
+    "name_hi": "चंदौली",
+    "division_en": "Varanasi",
+    "division_hi": "चंदौली",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "chitrakoot",
+    "name_en": "Chitrakoot",
+    "name_hi": "चित्रकूट",
+    "division_en": "Chitrakoot",
+    "division_hi": "चित्रकूट",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "deoria",
+    "name_en": "Deoria",
+    "name_hi": "देवरिया",
+    "division_en": "Gorakhpur",
+    "division_hi": "देवरिया",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "etah",
+    "name_en": "Etah",
+    "name_hi": "एटा",
+    "division_en": "Aligarh",
+    "division_hi": "एटा",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "etawah",
+    "name_en": "Etawah",
+    "name_hi": "इटावा",
+    "division_en": "Kanpur",
+    "division_hi": "इटावा",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "farrukhabad",
+    "name_en": "Farrukhabad",
+    "name_hi": "फर्रुखाबाद",
+    "division_en": "Kanpur",
+    "division_hi": "फर्रुखाबाद",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "fatehpur",
+    "name_en": "Fatehpur",
+    "name_hi": "फतेहपुर",
+    "division_en": "Prayagraj",
+    "division_hi": "फतेहपुर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "firozabad",
+    "name_en": "Firozabad",
+    "name_hi": "फिरोजाबाद",
+    "division_en": "Agra",
+    "division_hi": "फिरोजाबाद",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "gautam-buddha-nagar",
+    "name_en": "Gautam Buddha Nagar",
+    "name_hi": "गौतम बुद्ध नगर",
+    "division_en": "Meerut",
+    "division_hi": "गौतम बुद्ध नगर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "ghaziabad",
+    "name_en": "Ghaziabad",
+    "name_hi": "गाजियाबाद",
+    "division_en": "Meerut",
+    "division_hi": "गाजियाबाद",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "ghazipur",
+    "name_en": "Ghazipur",
+    "name_hi": "गाजीपुर",
+    "division_en": "Varanasi",
+    "division_hi": "गाजीपुर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "gonda",
+    "name_en": "Gonda",
+    "name_hi": "गोंडा",
+    "division_en": "Devipatan",
+    "division_hi": "गोंडा",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "gorakhpur",
+    "name_en": "Gorakhpur",
+    "name_hi": "गोरखपुर",
+    "division_en": "Gorakhpur",
+    "division_hi": "गोरखपुर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "hamirpur",
+    "name_en": "Hamirpur",
+    "name_hi": "हमीरपुर",
+    "division_en": "Chitrakoot",
+    "division_hi": "हमीरपुर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "hapur",
+    "name_en": "Hapur",
+    "name_hi": "हापुड़",
+    "division_en": "Meerut",
+    "division_hi": "हापुड़",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "hardoi",
+    "name_en": "Hardoi",
+    "name_hi": "हरदोई",
+    "division_en": "Lucknow",
+    "division_hi": "हरदोई",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "hathras",
+    "name_en": "Hathras",
+    "name_hi": "हाथरस",
+    "division_en": "Aligarh",
+    "division_hi": "हाथरस",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "jalaun",
+    "name_en": "Jalaun",
+    "name_hi": "जालौन",
+    "division_en": "Jhansi",
+    "division_hi": "जालौन",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "jaunpur",
+    "name_en": "Jaunpur",
+    "name_hi": "जौनपुर",
+    "division_en": "Varanasi",
+    "division_hi": "जौनपुर",
+    "coverage": {
+      "tier0": 95,
+      "tier1": 95,
+      "tier2": 92,
+      "verified_pct": 88,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "jhansi",
+    "name_en": "Jhansi",
+    "name_hi": "झांसी",
+    "division_en": "Jhansi",
+    "division_hi": "झांसी",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "kannauj",
+    "name_en": "Kannauj",
+    "name_hi": "कन्नौज",
+    "division_en": "Kanpur",
+    "division_hi": "कन्नौज",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "kanpur-dehat",
+    "name_en": "Kanpur Dehat",
+    "name_hi": "कानपुर देहात",
+    "division_en": "Kanpur",
+    "division_hi": "कानपुर देहात",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "kanpur-nagar",
+    "name_en": "Kanpur Nagar",
+    "name_hi": "कानपुर नगर",
+    "division_en": "Kanpur",
+    "division_hi": "कानपुर नगर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "kasganj",
+    "name_en": "Kasganj",
+    "name_hi": "कासगंज",
+    "division_en": "Aligarh",
+    "division_hi": "कासगंज",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "kaushambi",
+    "name_en": "Kaushambi",
+    "name_hi": "कौशाम्बी",
+    "division_en": "Prayagraj",
+    "division_hi": "कौशाम्बी",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "kushinagar",
+    "name_en": "Kushinagar",
+    "name_hi": "कुशीनगर",
+    "division_en": "Gorakhpur",
+    "division_hi": "कुशीनगर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "lakhimpur-kheri",
+    "name_en": "Lakhimpur Kheri",
+    "name_hi": "लखीमपुर खीरी",
+    "division_en": "Lucknow",
+    "division_hi": "लखीमपुर खीरी",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "lalitpur",
+    "name_en": "Lalitpur",
+    "name_hi": "ललितपुर",
+    "division_en": "Jhansi",
+    "division_hi": "ललितपुर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "lucknow",
+    "name_en": "Lucknow",
+    "name_hi": "लखनऊ",
+    "division_en": "Lucknow",
+    "division_hi": "लखनऊ",
+    "coverage": {
+      "tier0": 95,
+      "tier1": 95,
+      "tier2": 92,
+      "verified_pct": 88,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "maharajganj",
+    "name_en": "Maharajganj",
+    "name_hi": "महराजगंज",
+    "division_en": "Gorakhpur",
+    "division_hi": "महराजगंज",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "mahoba",
+    "name_en": "Mahoba",
+    "name_hi": "महोबा",
+    "division_en": "Chitrakoot",
+    "division_hi": "महोबा",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "mainpuri",
+    "name_en": "Mainpuri",
+    "name_hi": "मैनपुरी",
+    "division_en": "Agra",
+    "division_hi": "मैनपुरी",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "mathura",
+    "name_en": "Mathura",
+    "name_hi": "मथुरा",
+    "division_en": "Agra",
+    "division_hi": "मथुरा",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "mau",
+    "name_en": "Mau",
+    "name_hi": "मऊ",
+    "division_en": "Azamgarh",
+    "division_hi": "मऊ",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "meerut",
+    "name_en": "Meerut",
+    "name_hi": "मेरठ",
+    "division_en": "Meerut",
+    "division_hi": "मेरठ",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "mirzapur",
+    "name_en": "Mirzapur",
+    "name_hi": "मिर्जापुर",
+    "division_en": "Mirzapur",
+    "division_hi": "मिर्जापुर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "moradabad",
+    "name_en": "Moradabad",
+    "name_hi": "मुरादाबाद",
+    "division_en": "Moradabad",
+    "division_hi": "मुरादाबाद",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "muzaffarnagar",
+    "name_en": "Muzaffarnagar",
+    "name_hi": "मुजफ्फरनगर",
+    "division_en": "Saharanpur",
+    "division_hi": "मुजफ्फरनगर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "pilibhit",
+    "name_en": "Pilibhit",
+    "name_hi": "पीलीभीत",
+    "division_en": "Bareilly",
+    "division_hi": "पीलीभीत",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "pratapgarh",
+    "name_en": "Pratapgarh",
+    "name_hi": "प्रतापगढ़",
+    "division_en": "Prayagraj",
+    "division_hi": "प्रतापगढ़",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "prayagraj",
+    "name_en": "Prayagraj",
+    "name_hi": "प्रयागराज",
+    "division_en": "Prayagraj",
+    "division_hi": "प्रयागराज",
+    "coverage": {
+      "tier0": 95,
+      "tier1": 95,
+      "tier2": 92,
+      "verified_pct": 88,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "raebareli",
+    "name_en": "Raebareli",
+    "name_hi": "रायबरेली",
+    "division_en": "Lucknow",
+    "division_hi": "रायबरेली",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "rampur",
+    "name_en": "Rampur",
+    "name_hi": "रामपुर",
+    "division_en": "Moradabad",
+    "division_hi": "रामपुर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "saharanpur",
+    "name_en": "Saharanpur",
+    "name_hi": "सहारनपुर",
+    "division_en": "Saharanpur",
+    "division_hi": "सहारनपुर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "sambhal",
+    "name_en": "Sambhal",
+    "name_hi": "सम्भल",
+    "division_en": "Moradabad",
+    "division_hi": "सम्भल",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "sant-kabir-nagar",
+    "name_en": "Sant Kabir Nagar",
+    "name_hi": "संत कबीर नगर",
+    "division_en": "Basti",
+    "division_hi": "संत कबीर नगर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "shahjahanpur",
+    "name_en": "Shahjahanpur",
+    "name_hi": "शाहजहाँपुर",
+    "division_en": "Bareilly",
+    "division_hi": "शाहजहाँपुर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "shamli",
+    "name_en": "Shamli",
+    "name_hi": "शामली",
+    "division_en": "Saharanpur",
+    "division_hi": "शामली",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "shravasti",
+    "name_en": "Shravasti",
+    "name_hi": "श्रावस्ती",
+    "division_en": "Devipatan",
+    "division_hi": "श्रावस्ती",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "siddharthnagar",
+    "name_en": "Siddharthnagar",
+    "name_hi": "सिद्धार्थनगर",
+    "division_en": "Basti",
+    "division_hi": "सिद्धार्थनगर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "sitapur",
+    "name_en": "Sitapur",
+    "name_hi": "सीतापुर",
+    "division_en": "Lucknow",
+    "division_hi": "सीतापुर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "sonbhadra",
+    "name_en": "Sonbhadra",
+    "name_hi": "सोनभद्र",
+    "division_en": "Mirzapur",
+    "division_hi": "सोनभद्र",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "sultanpur",
+    "name_en": "Sultanpur",
+    "name_hi": "सुल्तानपुर",
+    "division_en": "Ayodhya",
+    "division_hi": "सुल्तानपुर",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "unnao",
+    "name_en": "Unnao",
+    "name_hi": "उन्नाव",
+    "division_en": "Lucknow",
+    "division_hi": "उन्नाव",
+    "coverage": {
+      "tier0": 85,
+      "tier1": 95,
+      "tier2": 60,
+      "verified_pct": 70,
+      "last_verified": "2026-11-20"
+    }
+  },
+  {
+    "id": "varanasi",
+    "name_en": "Varanasi",
+    "name_hi": "वाराणसी",
+    "division_en": "Varanasi",
+    "division_hi": "वाराणसी",
+    "coverage": {
+      "tier0": 95,
+      "tier1": 95,
+      "tier2": 92,
+      "verified_pct": 88,
+      "last_verified": "2026-11-20"
+    }
+  }
+]

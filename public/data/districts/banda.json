@@ -1,0 +1,390 @@
+{
+  "district_id": "banda",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-banda-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Banda",
+      "office_name_hi": "कार्यालय जिलाधिकारी, बांदा",
+      "officer_name_en": "Shri Kumar Dharmendra",
+      "phones": [
+        {
+          "number": "9454417602",
+          "type": "office",
+          "source_url": "https://banda.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "admbn-up@nic.in",
+      "covers": [
+        "banda"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Banda",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), बांदा",
+      "phones": [],
+      "email": "cdo.bnd-up@gov.in",
+      "covers": [
+        "banda"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Banda",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, बांदा",
+      "phones": [],
+      "email": "dpro-bnd@nic.in",
+      "covers": [
+        "banda"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-sdm-banda",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Banda",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Banda",
+      "phones": [
+        {
+          "number": "9454415969",
+          "type": "cug",
+          "source_url": "https://banda.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.banda.bnd-up@gov.in",
+      "covers": [
+        "banda"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-sdm-atarra",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Atarra",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Atarra",
+      "phones": [],
+      "email": "sdm.atarra.bnd-up@gov.in",
+      "covers": [
+        "atarra"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-sdm-baberu",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Baberu",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Baberu",
+      "phones": [
+        {
+          "number": "9454415970",
+          "type": "cug",
+          "source_url": "https://banda.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.baberu.bnd-up@gov.in",
+      "covers": [
+        "baberu"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-sdm-naraini",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Naraini",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Naraini",
+      "phones": [
+        {
+          "number": "9454415971",
+          "type": "cug",
+          "source_url": "https://banda.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.naraini.bnd-up@gov.in",
+      "covers": [
+        "naraini"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-bdo-badokhar-khurd",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Badokhar Khurd",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Badokhar Khurd",
+      "phones": [],
+      "email": "bdo.badokharkhurd.bnd@gmail.com",
+      "covers": [
+        "badokhar-khurd"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-ado-badokhar-khurd",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Badokhar Khurd",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Badokhar Khurd",
+      "phones": [],
+      "covers": [
+        "badokhar-khurd"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-bdo-mahua",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mahua",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mahua",
+      "phones": [],
+      "email": "bdo.mahua.bnd@gmail.com",
+      "covers": [
+        "mahua"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-ado-mahua",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mahua",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mahua",
+      "phones": [],
+      "covers": [
+        "mahua"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-bdo-tindwari",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Tindwari",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tindwari",
+      "phones": [],
+      "email": "bdo.tindwari.bnd@gmail.com",
+      "covers": [
+        "tindwari"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-ado-tindwari",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Tindwari",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Tindwari",
+      "phones": [],
+      "covers": [
+        "tindwari"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-bdo-baberu",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Baberu",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Baberu",
+      "phones": [],
+      "email": "bdo.baberu.bnd@gmail.com",
+      "covers": [
+        "baberu"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-ado-baberu",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Baberu",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Baberu",
+      "phones": [],
+      "covers": [
+        "baberu"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-bdo-bisanda",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bisanda",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bisanda",
+      "phones": [],
+      "email": "bdo.bisanda.bnd@gmail.com",
+      "covers": [
+        "bisanda"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-ado-bisanda",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bisanda",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bisanda",
+      "phones": [],
+      "covers": [
+        "bisanda"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-bdo-kamasin",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kamasin",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kamasin",
+      "phones": [],
+      "email": "bdo.kamasin.bnd@gmail.com",
+      "covers": [
+        "kamasin"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-ado-kamasin",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kamasin",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kamasin",
+      "phones": [],
+      "covers": [
+        "kamasin"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-bdo-naraini",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Naraini",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Naraini",
+      "phones": [],
+      "email": "bdo.naraini.bnd@gmail.com",
+      "covers": [
+        "naraini"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-ado-naraini",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Naraini",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Naraini",
+      "phones": [],
+      "covers": [
+        "naraini"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-bdo-jaspura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jaspura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jaspura",
+      "phones": [],
+      "email": "bdo.jaspura.bnd@gmail.com",
+      "covers": [
+        "jaspura"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-banda-ado-jaspura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jaspura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jaspura",
+      "phones": [],
+      "covers": [
+        "jaspura"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-banda-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Banda",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका बांदा",
+      "phones": [],
+      "covers": [
+        "ulb-banda-main"
+      ],
+      "source_url": "https://banda.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

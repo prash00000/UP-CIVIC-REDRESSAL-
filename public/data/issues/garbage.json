@@ -1,0 +1,51 @@
+{
+  "slug": "garbage",
+  "title_en": "Garbage dump or irregular waste collection",
+  "title_hi": "कूड़े का ढेर या सफाई न होना",
+  "steps": [
+    {
+      "order": 1,
+      "role": "secretary",
+      "how_en": "Submit notice to Secretary / Ward Sanitary Inspector regarding unattended garbage dump.",
+      "how_hi": "कूड़े के ढेर की सफाई हेतु ग्राम पंचायत सचिव / वार्ड सफाई निरीक्षक को लिखित सूचना दें।",
+      "time_limit_days": 3,
+      "time_limit_source_url": "https://janhit.up.nic.in"
+    },
+    {
+      "order": 2,
+      "role": "bdo",
+      "how_en": "Escalate to BDO / Executive Officer (EO) if solid waste removal is not organized.",
+      "how_hi": "सफाई न होने पर खंड विकास अधिकारी (बीडीओ) / अधिशासी अधिकारी (ईओ) को सूचित करें।",
+      "time_limit_days": 7,
+      "time_limit_source_url": "https://janhit.up.nic.in"
+    },
+    {
+      "order": 3,
+      "role": "dpro",
+      "how_en": "Escalate to District Panchayat Raj Officer / Municipal Commissioner.",
+      "how_hi": "जिला पंचायत राज अधिकारी / नगर आयुक्त को संक्रामक रोग के खतरे का उल्लेख करते हुए पत्र दें।",
+      "time_limit_days": null,
+      "time_limit_source_url": null
+    },
+    {
+      "order": 4,
+      "role": "dm",
+      "how_en": "Submit memorandum to District Magistrate and lodge grievance on CM Helpline 1076.",
+      "how_hi": "जिलाधिकारी (डीएम) को ज्ञापन दें एवं मुख्यमंत्री हेल्पलाइन 1076 पर शिकायत दर्ज कराएं।",
+      "time_limit_days": null,
+      "time_limit_source_url": null
+    }
+  ],
+  "keep_en": [
+    "Photographs showing accumulation of solid waste and garbage",
+    "Landmark location details and duration since last cleared",
+    "Receipt of complaint filed with local sanitary supervisor",
+    "Reference numbers from any municipal sanitation app or portal"
+  ],
+  "keep_hi": [
+    "सड़क या सार्वजनिक स्थान पर जमा कूड़े के ढेर की तस्वीरें",
+    "स्थान का लैंडमार्क विवरण और कितने दिनों से कूड़ा जमा है",
+    "स्थानीय सफाई कर्मचारी या सचिव को दिए गए पत्र की पावती",
+    "स्वच्छता पोर्टल या ऐप पर दर्ज शिकायत संख्या"
+  ]
+}

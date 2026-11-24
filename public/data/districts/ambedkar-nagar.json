@@ -1,0 +1,401 @@
+{
+  "district_id": "ambedkar-nagar",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-ambedkar-nagar-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Ambedkar Nagar",
+      "office_name_hi": "कार्यालय जिलाधिकारी, अंबेडकर नगर",
+      "phones": [],
+      "email": "dmamb@nic.in",
+      "covers": [
+        "ambedkar-nagar"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Ambedkar Nagar",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), अंबेडकर नगर",
+      "phones": [],
+      "email": "cdo.amb-up@gov.in",
+      "covers": [
+        "ambedkar-nagar"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Ambedkar Nagar",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, अंबेडकर नगर",
+      "phones": [],
+      "email": "dpro-amb@nic.in",
+      "covers": [
+        "ambedkar-nagar"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-sdm-akbarpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Akbarpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Akbarpur",
+      "phones": [],
+      "email": "sdm.akbarpur.amb-up@gov.in",
+      "covers": [
+        "akbarpur"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-sdm-tanda",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Tanda",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Tanda",
+      "phones": [],
+      "email": "sdm.tanda.amb-up@gov.in",
+      "covers": [
+        "tanda"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-sdm-jalalpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Jalalpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Jalalpur",
+      "phones": [],
+      "email": "sdm.jalalpur.amb-up@gov.in",
+      "covers": [
+        "jalalpur"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-sdm-alapur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Alapur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Alapur",
+      "phones": [],
+      "email": "sdm.alapur.amb-up@gov.in",
+      "covers": [
+        "alapur"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-sdm-bhiti",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bhiti",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bhiti",
+      "phones": [],
+      "email": "sdm.bhiti.amb-up@gov.in",
+      "covers": [
+        "bhiti"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-bdo-akbarpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Akbarpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Akbarpur",
+      "phones": [],
+      "email": "bdo.akbarpur.amb@gmail.com",
+      "covers": [
+        "akbarpur"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-ado-akbarpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Akbarpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Akbarpur",
+      "phones": [],
+      "covers": [
+        "akbarpur"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-bdo-tanda",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Tanda",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tanda",
+      "phones": [],
+      "email": "bdo.tanda.amb@gmail.com",
+      "covers": [
+        "tanda"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-ado-tanda",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Tanda",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Tanda",
+      "phones": [],
+      "covers": [
+        "tanda"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-bdo-jalalpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jalalpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jalalpur",
+      "phones": [],
+      "email": "bdo.jalalpur.amb@gmail.com",
+      "covers": [
+        "jalalpur"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-ado-jalalpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jalalpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jalalpur",
+      "phones": [],
+      "covers": [
+        "jalalpur"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-bdo-katehari",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Katehari",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Katehari",
+      "phones": [],
+      "email": "bdo.katehari.amb@gmail.com",
+      "covers": [
+        "katehari"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-ado-katehari",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Katehari",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Katehari",
+      "phones": [],
+      "covers": [
+        "katehari"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-bdo-bhiyawan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhiyawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhiyawan",
+      "phones": [],
+      "email": "bdo.bhiyawan.amb@gmail.com",
+      "covers": [
+        "bhiyawan"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-ado-bhiyawan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhiyawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhiyawan",
+      "phones": [],
+      "covers": [
+        "bhiyawan"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-bdo-ramnagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ramnagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ramnagar",
+      "phones": [],
+      "email": "bdo.ramnagar.amb@gmail.com",
+      "covers": [
+        "ramnagar"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-ado-ramnagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ramnagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ramnagar",
+      "phones": [],
+      "covers": [
+        "ramnagar"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-bdo-jahangirganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jahangirganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jahangirganj",
+      "phones": [],
+      "email": "bdo.jahangirganj.amb@gmail.com",
+      "covers": [
+        "jahangirganj"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-ado-jahangirganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jahangirganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jahangirganj",
+      "phones": [],
+      "covers": [
+        "jahangirganj"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-bdo-bhiti",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhiti",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhiti",
+      "phones": [],
+      "email": "bdo.bhiti.amb@gmail.com",
+      "covers": [
+        "bhiti"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-ado-bhiti",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhiti",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhiti",
+      "phones": [],
+      "covers": [
+        "bhiti"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-bdo-baskhari",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Baskhari",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Baskhari",
+      "phones": [],
+      "email": "bdo.baskhari.amb@gmail.com",
+      "covers": [
+        "baskhari"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ambedkar-nagar-ado-baskhari",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Baskhari",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Baskhari",
+      "phones": [],
+      "covers": [
+        "baskhari"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-ambedkar-nagar-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Ambedkar Nagar",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका अंबेडकर नगर",
+      "phones": [],
+      "covers": [
+        "ulb-ambedkar-nagar-main"
+      ],
+      "source_url": "https://ambedkar-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

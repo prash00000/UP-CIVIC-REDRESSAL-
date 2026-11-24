@@ -1,0 +1,642 @@
+{
+  "district_id": "ghazipur",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-ghazipur-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Ghazipur",
+      "office_name_hi": "कार्यालय जिलाधिकारी, गाजीपुर",
+      "phones": [
+        {
+          "number": "9454417577",
+          "type": "office",
+          "source_url": "https://ghazipur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmgaz@nic.in",
+      "covers": [
+        "ghazipur"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Ghazipur",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), गाजीपुर",
+      "phones": [],
+      "email": "cdo.gzp-up@gov.in",
+      "covers": [
+        "ghazipur"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Ghazipur",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, गाजीपुर",
+      "phones": [],
+      "email": "dpro-gzp@nic.in",
+      "covers": [
+        "ghazipur"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-sdm-ghazipur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Ghazipur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Ghazipur",
+      "phones": [],
+      "email": "sdm.ghazipur.gzp-up@gov.in",
+      "covers": [
+        "ghazipur"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-sdm-mohammadabad",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mohammadabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mohammadabad",
+      "phones": [],
+      "email": "sdm.mohammadabad.gzp-up@gov.in",
+      "covers": [
+        "mohammadabad"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-sdm-zamania",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Zamania",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Zamania",
+      "phones": [],
+      "email": "sdm.zamania.gzp-up@gov.in",
+      "covers": [
+        "zamania"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-sdm-saidpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Saidpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Saidpur",
+      "phones": [],
+      "email": "sdm.saidpur.gzp-up@gov.in",
+      "covers": [
+        "saidpur"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-sdm-jakhania",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Jakhania",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Jakhania",
+      "phones": [],
+      "email": "sdm.jakhania.gzp-up@gov.in",
+      "covers": [
+        "jakhania"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-sdm-kasimabad",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kasimabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kasimabad",
+      "phones": [],
+      "email": "sdm.kasimabad.gzp-up@gov.in",
+      "covers": [
+        "kasimabad"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-sdm-sewarai",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sewarai",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sewarai",
+      "phones": [],
+      "email": "sdm.sewarai.gzp-up@gov.in",
+      "covers": [
+        "sewarai"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-bdo-ghazipur-sadar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ghazipur Sadar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ghazipur Sadar",
+      "phones": [],
+      "email": "bdo.ghazipursadar.gzp@gmail.com",
+      "covers": [
+        "ghazipur-sadar"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-ado-ghazipur-sadar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ghazipur Sadar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ghazipur Sadar",
+      "phones": [],
+      "covers": [
+        "ghazipur-sadar"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-bdo-mardah",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mardah",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mardah",
+      "phones": [],
+      "email": "bdo.mardah.gzp@gmail.com",
+      "covers": [
+        "mardah"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-ado-mardah",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mardah",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mardah",
+      "phones": [],
+      "covers": [
+        "mardah"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-bdo-birno",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Birno",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Birno",
+      "phones": [],
+      "email": "bdo.birno.gzp@gmail.com",
+      "covers": [
+        "birno"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-ado-birno",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Birno",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Birno",
+      "phones": [],
+      "covers": [
+        "birno"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-bdo-zamania",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Zamania",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Zamania",
+      "phones": [],
+      "email": "bdo.zamania.gzp@gmail.com",
+      "covers": [
+        "zamania"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-ado-zamania",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Zamania",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Zamania",
+      "phones": [],
+      "covers": [
+        "zamania"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-bdo-saidpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Saidpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Saidpur",
+      "phones": [],
+      "email": "bdo.saidpur.gzp@gmail.com",
+      "covers": [
+        "saidpur"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-ado-saidpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Saidpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Saidpur",
+      "phones": [],
+      "covers": [
+        "saidpur"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-bdo-sadat",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sadat",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sadat",
+      "phones": [],
+      "email": "bdo.sadat.gzp@gmail.com",
+      "covers": [
+        "sadat"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-ado-sadat",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sadat",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sadat",
+      "phones": [],
+      "covers": [
+        "sadat"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-bdo-deokali",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Deokali",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Deokali",
+      "phones": [],
+      "email": "bdo.deokali.gzp@gmail.com",
+      "covers": [
+        "deokali"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-ado-deokali",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Deokali",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Deokali",
+      "phones": [],
+      "covers": [
+        "deokali"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-bdo-jakhania",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jakhania",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jakhania",
+      "phones": [],
+      "email": "bdo.jakhania.gzp@gmail.com",
+      "covers": [
+        "jakhania"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-ado-jakhania",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jakhania",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jakhania",
+      "phones": [],
+      "covers": [
+        "jakhania"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-bdo-manihari",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Manihari",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Manihari",
+      "phones": [],
+      "email": "bdo.manihari.gzp@gmail.com",
+      "covers": [
+        "manihari"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-ado-manihari",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Manihari",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Manihari",
+      "phones": [],
+      "covers": [
+        "manihari"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-bdo-kasimabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kasimabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kasimabad",
+      "phones": [],
+      "email": "bdo.kasimabad.gzp@gmail.com",
+      "covers": [
+        "kasimabad"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-ado-kasimabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kasimabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kasimabad",
+      "phones": [],
+      "covers": [
+        "kasimabad"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-bdo-varachakwar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Varachakwar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Varachakwar",
+      "phones": [],
+      "email": "bdo.varachakwar.gzp@gmail.com",
+      "covers": [
+        "varachakwar"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-ado-varachakwar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Varachakwar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Varachakwar",
+      "phones": [],
+      "covers": [
+        "varachakwar"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-bdo-mohammadabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mohammadabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mohammadabad",
+      "phones": [],
+      "email": "bdo.mohammadabad.gzp@gmail.com",
+      "covers": [
+        "mohammadabad"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-ado-mohammadabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mohammadabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mohammadabad",
+      "phones": [],
+      "covers": [
+        "mohammadabad"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-bdo-bhawarkol",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhawarkol",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhawarkol",
+      "phones": [],
+      "email": "bdo.bhawarkol.gzp@gmail.com",
+      "covers": [
+        "bhawarkol"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-ado-bhawarkol",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhawarkol",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhawarkol",
+      "phones": [],
+      "covers": [
+        "bhawarkol"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-bdo-karanda",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Karanda",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Karanda",
+      "phones": [],
+      "email": "bdo.karanda.gzp@gmail.com",
+      "covers": [
+        "karanda"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-ado-karanda",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Karanda",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Karanda",
+      "phones": [],
+      "covers": [
+        "karanda"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-bdo-revatipur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Revatipur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Revatipur",
+      "phones": [],
+      "email": "bdo.revatipur.gzp@gmail.com",
+      "covers": [
+        "revatipur"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-ado-revatipur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Revatipur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Revatipur",
+      "phones": [],
+      "covers": [
+        "revatipur"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-bdo-sohawal",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sohawal",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sohawal",
+      "phones": [],
+      "email": "bdo.sohawal.gzp@gmail.com",
+      "covers": [
+        "sohawal"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghazipur-ado-sohawal",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sohawal",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sohawal",
+      "phones": [],
+      "covers": [
+        "sohawal"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-ghazipur-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Ghazipur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका गाजीपुर",
+      "phones": [],
+      "covers": [
+        "ulb-ghazipur-main"
+      ],
+      "source_url": "https://ghazipur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

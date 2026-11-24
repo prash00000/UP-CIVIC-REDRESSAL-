@@ -1,0 +1,886 @@
+{
+  "district_id": "raebareli",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-raebareli-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Raebareli",
+      "office_name_hi": "कार्यालय जिलाधिकारी, रायबरेली",
+      "officer_name_en": "1.",
+      "phones": [
+        {
+          "number": "9454417559",
+          "type": "office",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmrae@nic.in",
+      "covers": [
+        "raebareli"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Raebareli",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), रायबरेली",
+      "phones": [
+        {
+          "number": "9454465401",
+          "type": "office",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo.rae-up@gov.in",
+      "covers": [
+        "raebareli"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Raebareli",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, रायबरेली",
+      "phones": [],
+      "email": "dpro-rae@nic.in",
+      "covers": [
+        "raebareli"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [
+        {
+          "number": "9454416627",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.sadar.rae-up@gov.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-sdm-dalmau",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Dalmau",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Dalmau",
+      "phones": [
+        {
+          "number": "9454416630",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.dalmau.rae-up@gov.in",
+      "covers": [
+        "dalmau"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-sdm-lalganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Lalganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Lalganj",
+      "phones": [
+        {
+          "number": "9454416628",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.lalganj.rae-up@gov.in",
+      "covers": [
+        "lalganj"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-sdm-maharajganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Maharajganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Maharajganj",
+      "phones": [
+        {
+          "number": "9454416633",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.maharajganj.rae-up@gov.in",
+      "covers": [
+        "maharajganj"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-sdm-salon",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Salon",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Salon",
+      "phones": [
+        {
+          "number": "9454416629",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.salon.rae-up@gov.in",
+      "covers": [
+        "salon"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-sdm-unchahar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Unchahar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Unchahar",
+      "phones": [
+        {
+          "number": "9454416631",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.unchahar.rae-up@gov.in",
+      "covers": [
+        "unchahar"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-bdo-rahi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rahi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rahi",
+      "phones": [
+        {
+          "number": "9454465410",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "rahimnrega@gmail.com",
+      "covers": [
+        "rahi"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-ado-rahi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rahi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rahi",
+      "phones": [],
+      "covers": [
+        "rahi"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-bdo-amawa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Amawa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Amawa",
+      "phones": [
+        {
+          "number": "9454465408",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "amawanmnrega@gmail.com",
+      "covers": [
+        "amawa"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-ado-amawa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Amawa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Amawa",
+      "phones": [],
+      "covers": [
+        "amawa"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-bdo-harchandpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Harchandpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Harchandpur",
+      "phones": [
+        {
+          "number": "9454465407",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "harchandpurmnrega@gmail.com",
+      "covers": [
+        "harchandpur"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-ado-harchandpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Harchandpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Harchandpur",
+      "phones": [],
+      "covers": [
+        "harchandpur"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-bdo-sataon",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sataon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sataon",
+      "phones": [
+        {
+          "number": "9454465409",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sataonmnrega@gmail.com",
+      "covers": [
+        "sataon"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-ado-sataon",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sataon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sataon",
+      "phones": [],
+      "covers": [
+        "sataon"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-bdo-bachhrawan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bachhrawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bachhrawan",
+      "phones": [
+        {
+          "number": "9454465404",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "nrega.bcn@gmail.com",
+      "covers": [
+        "bachhrawan"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-ado-bachhrawan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bachhrawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bachhrawan",
+      "phones": [],
+      "covers": [
+        "bachhrawan"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-bdo-shivgarh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Shivgarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shivgarh",
+      "phones": [
+        {
+          "number": "9454465405",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "shivgarhmnrega@gmail.com",
+      "covers": [
+        "shivgarh"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-ado-shivgarh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Shivgarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shivgarh",
+      "phones": [],
+      "covers": [
+        "shivgarh"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-bdo-sareni",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sareni",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sareni",
+      "phones": [
+        {
+          "number": "9454465412",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sarenimnrega@gmail.com",
+      "covers": [
+        "sareni"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-ado-sareni",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sareni",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sareni",
+      "phones": [],
+      "covers": [
+        "sareni"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-bdo-maharajganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Maharajganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Maharajganj",
+      "phones": [
+        {
+          "number": "9454465406",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "maharajganjmnrega@gmail.com",
+      "covers": [
+        "maharajganj"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-ado-maharajganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Maharajganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Maharajganj",
+      "phones": [],
+      "covers": [
+        "maharajganj"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-bdo-salon",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Salon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Salon",
+      "phones": [
+        {
+          "number": "9454465490",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "salonmnrega@gmail.com",
+      "covers": [
+        "salon"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-ado-salon",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Salon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Salon",
+      "phones": [],
+      "covers": [
+        "salon"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-bdo-khiron",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Khiron",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khiron",
+      "phones": [
+        {
+          "number": "9454465411",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "khironmnrega@gmail.com",
+      "covers": [
+        "khiron"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-ado-khiron",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Khiron",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Khiron",
+      "phones": [],
+      "covers": [
+        "khiron"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-bdo-chhatoh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chhatoh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chhatoh",
+      "phones": [
+        {
+          "number": "9454465489",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "chhatohmnrega@gmail.com",
+      "covers": [
+        "chhatoh"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-ado-chhatoh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chhatoh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chhatoh",
+      "phones": [],
+      "covers": [
+        "chhatoh"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-bdo-lalganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Lalganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Lalganj",
+      "phones": [
+        {
+          "number": "9454465413",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "lalganjmnrega@gmail.com",
+      "covers": [
+        "lalganj"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-ado-lalganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Lalganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Lalganj",
+      "phones": [],
+      "covers": [
+        "lalganj"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-bdo-jagatpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jagatpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jagatpur",
+      "phones": [
+        {
+          "number": "9454465416",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "jagatpurmnrega@gmail.com",
+      "covers": [
+        "jagatpur"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-ado-jagatpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jagatpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jagatpur",
+      "phones": [],
+      "covers": [
+        "jagatpur"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-bdo-rohaniya",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rohaniya",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rohaniya",
+      "phones": [
+        {
+          "number": "9454465417",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "rohaniamnrega@gmail.com",
+      "covers": [
+        "rohaniya"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-ado-rohaniya",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rohaniya",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rohaniya",
+      "phones": [],
+      "covers": [
+        "rohaniya"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-bdo-unchahar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Unchahar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Unchahar",
+      "phones": [
+        {
+          "number": "9454465418",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "unchaharmnrega@gmail.com",
+      "covers": [
+        "unchahar"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-ado-unchahar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Unchahar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Unchahar",
+      "phones": [],
+      "covers": [
+        "unchahar"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-bdo-deenshah-gaura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Deenshah Gaura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Deenshah Gaura",
+      "phones": [
+        {
+          "number": "9454465415",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "deenshahgauramnrega@gmail.com",
+      "covers": [
+        "deenshah-gaura"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-ado-deenshah-gaura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Deenshah Gaura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Deenshah Gaura",
+      "phones": [],
+      "covers": [
+        "deenshah-gaura"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-bdo-dalmau",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dalmau",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dalmau",
+      "phones": [
+        {
+          "number": "9454465414",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dalmaumnrega1@gmail.com",
+      "covers": [
+        "dalmau"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-ado-dalmau",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dalmau",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dalmau",
+      "phones": [],
+      "covers": [
+        "dalmau"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-bdo-deeh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Deeh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Deeh",
+      "phones": [
+        {
+          "number": "9454465488",
+          "type": "cug",
+          "source_url": "https://raebareli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "deehmnrega@gmail.com",
+      "covers": [
+        "deeh"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-raebareli-ado-deeh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Deeh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Deeh",
+      "phones": [],
+      "covers": [
+        "deeh"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-raebareli-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Raebareli",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका रायबरेली",
+      "phones": [],
+      "covers": [
+        "ulb-raebareli-main"
+      ],
+      "source_url": "https://raebareli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

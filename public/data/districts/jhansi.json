@@ -1,0 +1,389 @@
+{
+  "district_id": "jhansi",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-jhansi-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Jhansi",
+      "office_name_hi": "कार्यालय जिलाधिकारी, झांसी",
+      "officer_name_en": "Gaurang Rathi",
+      "phones": [
+        {
+          "number": "0510-2470556",
+          "type": "office",
+          "source_url": "https://jhansi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmjha@nic.in",
+      "covers": [
+        "jhansi"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Jhansi",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), झांसी",
+      "phones": [
+        {
+          "number": "0510-2440335",
+          "type": "office",
+          "source_url": "https://jhansi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdojhansi@gmail.com",
+      "covers": [
+        "jhansi"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Jhansi",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, झांसी",
+      "phones": [],
+      "email": "dpro-jhs@nic.in",
+      "covers": [
+        "jhansi"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-sdm-jhansi",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Jhansi",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Jhansi",
+      "phones": [],
+      "email": "sdm.jhansi.jhs-up@gov.in",
+      "covers": [
+        "jhansi"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-sdm-mauranipur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mauranipur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mauranipur",
+      "phones": [],
+      "email": "sdm.mauranipur.jhs-up@gov.in",
+      "covers": [
+        "mauranipur"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-sdm-garautha",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Garautha",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Garautha",
+      "phones": [],
+      "email": "sdm.garautha.jhs-up@gov.in",
+      "covers": [
+        "garautha"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-sdm-moth",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Moth",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Moth",
+      "phones": [],
+      "email": "sdm.moth.jhs-up@gov.in",
+      "covers": [
+        "moth"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-sdm-tahrauli",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Tahrauli",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Tahrauli",
+      "phones": [],
+      "email": "sdm.tahrauli.jhs-up@gov.in",
+      "covers": [
+        "tahrauli"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-bdo-badagaon",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Badagaon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Badagaon",
+      "phones": [],
+      "email": "bdo.badagaon.jhs@gmail.com",
+      "covers": [
+        "badagaon"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-ado-badagaon",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Badagaon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Badagaon",
+      "phones": [],
+      "covers": [
+        "badagaon"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-bdo-babina",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Babina",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Babina",
+      "phones": [],
+      "email": "bdo.babina.jhs@gmail.com",
+      "covers": [
+        "babina"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-ado-babina",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Babina",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Babina",
+      "phones": [],
+      "covers": [
+        "babina"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-bdo-mauranipur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mauranipur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mauranipur",
+      "phones": [],
+      "email": "bdo.mauranipur.jhs@gmail.com",
+      "covers": [
+        "mauranipur"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-ado-mauranipur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mauranipur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mauranipur",
+      "phones": [],
+      "covers": [
+        "mauranipur"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-bdo-bangra",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bangra",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bangra",
+      "phones": [],
+      "email": "bdo.bangra.jhs@gmail.com",
+      "covers": [
+        "bangra"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-ado-bangra",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bangra",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bangra",
+      "phones": [],
+      "covers": [
+        "bangra"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-bdo-gursarai",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gursarai",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gursarai",
+      "phones": [],
+      "email": "bdo.gursarai.jhs@gmail.com",
+      "covers": [
+        "gursarai"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-ado-gursarai",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gursarai",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gursarai",
+      "phones": [],
+      "covers": [
+        "gursarai"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-bdo-bamaur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bamaur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bamaur",
+      "phones": [],
+      "email": "bdo.bamaur.jhs@gmail.com",
+      "covers": [
+        "bamaur"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-ado-bamaur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bamaur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bamaur",
+      "phones": [],
+      "covers": [
+        "bamaur"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-bdo-moth",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Moth",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Moth",
+      "phones": [],
+      "email": "bdo.moth.jhs@gmail.com",
+      "covers": [
+        "moth"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-ado-moth",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Moth",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Moth",
+      "phones": [],
+      "covers": [
+        "moth"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-bdo-chirgaon",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chirgaon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chirgaon",
+      "phones": [],
+      "email": "bdo.chirgaon.jhs@gmail.com",
+      "covers": [
+        "chirgaon"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-ado-chirgaon",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chirgaon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chirgaon",
+      "phones": [],
+      "covers": [
+        "chirgaon"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-jhansi-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Jhansi",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका झांसी",
+      "phones": [],
+      "covers": [
+        "ulb-jhansi-main"
+      ],
+      "source_url": "https://jhansi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "district_id": "hathras",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-hathras-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Hathras",
+      "office_name_hi": "कार्यालय जिलाधिकारी, हाथरस",
+      "officer_name_en": "Satya Prakash Patel (I.A.S)",
+      "phones": [
+        {
+          "number": "05722-227076",
+          "type": "office",
+          "source_url": "https://hathras.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmhat@nic.in",
+      "covers": [
+        "hathras"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Hathras",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), हाथरस",
+      "phones": [],
+      "email": "cdo.hat-up@gov.in",
+      "covers": [
+        "hathras"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Hathras",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, हाथरस",
+      "phones": [],
+      "email": "dpro-hat@nic.in",
+      "covers": [
+        "hathras"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-sdm-hathras",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Hathras",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Hathras",
+      "phones": [],
+      "email": "sdm.hathras.hat-up@gov.in",
+      "covers": [
+        "hathras"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-sdm-sadabad",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadabad",
+      "phones": [],
+      "email": "sdm.sadabad.hat-up@gov.in",
+      "covers": [
+        "sadabad"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-sdm-sikandra-rao",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sikandra Rao",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sikandra Rao",
+      "phones": [],
+      "email": "sdm.sikandrarao.hat-up@gov.in",
+      "covers": [
+        "sikandra-rao"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-sdm-sasni",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sasni",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sasni",
+      "phones": [],
+      "email": "sdm.sasni.hat-up@gov.in",
+      "covers": [
+        "sasni"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-bdo-hathras",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Hathras",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hathras",
+      "phones": [],
+      "email": "bdo.hathras.hat@gmail.com",
+      "covers": [
+        "hathras"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-ado-hathras",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Hathras",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Hathras",
+      "phones": [],
+      "covers": [
+        "hathras"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-bdo-mursan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mursan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mursan",
+      "phones": [],
+      "email": "bdo.mursan.hat@gmail.com",
+      "covers": [
+        "mursan"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-ado-mursan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mursan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mursan",
+      "phones": [],
+      "covers": [
+        "mursan"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-bdo-sasni",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sasni",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sasni",
+      "phones": [],
+      "email": "bdo.sasni.hat@gmail.com",
+      "covers": [
+        "sasni"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-ado-sasni",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sasni",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sasni",
+      "phones": [],
+      "covers": [
+        "sasni"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-bdo-sadabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sadabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sadabad",
+      "phones": [],
+      "email": "bdo.sadabad.hat@gmail.com",
+      "covers": [
+        "sadabad"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-ado-sadabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sadabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sadabad",
+      "phones": [],
+      "covers": [
+        "sadabad"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-bdo-sahpau",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sahpau",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sahpau",
+      "phones": [],
+      "email": "bdo.sahpau.hat@gmail.com",
+      "covers": [
+        "sahpau"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-ado-sahpau",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sahpau",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sahpau",
+      "phones": [],
+      "covers": [
+        "sahpau"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-bdo-sikandra-rao",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sikandra Rao",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sikandra Rao",
+      "phones": [],
+      "email": "bdo.sikandrarao.hat@gmail.com",
+      "covers": [
+        "sikandra-rao"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-ado-sikandra-rao",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sikandra Rao",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sikandra Rao",
+      "phones": [],
+      "covers": [
+        "sikandra-rao"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-bdo-hasayan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Hasayan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hasayan",
+      "phones": [],
+      "email": "bdo.hasayan.hat@gmail.com",
+      "covers": [
+        "hasayan"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hathras-ado-hasayan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Hasayan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Hasayan",
+      "phones": [],
+      "covers": [
+        "hasayan"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-hathras-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Hathras",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका हाथरस",
+      "phones": [],
+      "covers": [
+        "ulb-hathras-main"
+      ],
+      "source_url": "https://hathras.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

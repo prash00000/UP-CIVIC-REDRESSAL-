@@ -1,0 +1,354 @@
+{
+  "district_id": "kasganj",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-kasganj-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Kasganj",
+      "office_name_hi": "कार्यालय जिलाधिकारी, कासगंज",
+      "officer_name_en": "Shri Pranay Singh, IAS",
+      "phones": [
+        {
+          "number": "6398781173",
+          "type": "office",
+          "source_url": "https://kasganj.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmksj@nic.in",
+      "covers": [
+        "kasganj"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Kasganj",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), कासगंज",
+      "phones": [
+        {
+          "number": "9454465520",
+          "type": "office",
+          "source_url": "https://kasganj.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo.ksj-up@gov.in",
+      "covers": [
+        "kasganj"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Kasganj",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, कासगंज",
+      "phones": [],
+      "email": "dpro-ksj@nic.in",
+      "covers": [
+        "kasganj"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-sdm-kasganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kasganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kasganj",
+      "phones": [
+        {
+          "number": "9454417802",
+          "type": "cug",
+          "source_url": "https://kasganj.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.kasganj.ksj-up@gov.in",
+      "covers": [
+        "kasganj"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-sdm-patiyali",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Patiyali",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Patiyali",
+      "phones": [
+        {
+          "number": "9454417804",
+          "type": "cug",
+          "source_url": "https://kasganj.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.patiyali.ksj-up@gov.in",
+      "covers": [
+        "patiyali"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-sdm-sahawar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sahawar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sahawar",
+      "phones": [
+        {
+          "number": "9454417803",
+          "type": "cug",
+          "source_url": "https://kasganj.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.sahawar.ksj-up@gov.in",
+      "covers": [
+        "sahawar"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-bdo-kasganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kasganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kasganj",
+      "phones": [],
+      "email": "bdo.kasganj.ksj@gmail.com",
+      "covers": [
+        "kasganj"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-ado-kasganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kasganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kasganj",
+      "phones": [],
+      "covers": [
+        "kasganj"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-bdo-soron",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Soron",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Soron",
+      "phones": [],
+      "email": "bdo.soron.ksj@gmail.com",
+      "covers": [
+        "soron"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-ado-soron",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Soron",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Soron",
+      "phones": [],
+      "covers": [
+        "soron"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-bdo-sahaver",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sahaver",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sahaver",
+      "phones": [],
+      "email": "bdo.sahaver.ksj@gmail.com",
+      "covers": [
+        "sahaver"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-ado-sahaver",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sahaver",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sahaver",
+      "phones": [],
+      "covers": [
+        "sahaver"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-bdo-amanpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Amanpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Amanpur",
+      "phones": [],
+      "email": "bdo.amanpur.ksj@gmail.com",
+      "covers": [
+        "amanpur"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-ado-amanpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Amanpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Amanpur",
+      "phones": [],
+      "covers": [
+        "amanpur"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-bdo-patiyali",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Patiyali",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Patiyali",
+      "phones": [],
+      "email": "bdo.patiyali.ksj@gmail.com",
+      "covers": [
+        "patiyali"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-ado-patiyali",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Patiyali",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Patiyali",
+      "phones": [],
+      "covers": [
+        "patiyali"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-bdo-ganjdundwara",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ganjdundwara",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ganjdundwara",
+      "phones": [],
+      "email": "bdo.ganjdundwara.ksj@gmail.com",
+      "covers": [
+        "ganjdundwara"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-ado-ganjdundwara",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ganjdundwara",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ganjdundwara",
+      "phones": [],
+      "covers": [
+        "ganjdundwara"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-bdo-sidhpura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sidhpura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sidhpura",
+      "phones": [],
+      "email": "bdo.sidhpura.ksj@gmail.com",
+      "covers": [
+        "sidhpura"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kasganj-ado-sidhpura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sidhpura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sidhpura",
+      "phones": [],
+      "covers": [
+        "sidhpura"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-kasganj-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Kasganj",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका कासगंज",
+      "phones": [],
+      "covers": [
+        "ulb-kasganj-main"
+      ],
+      "source_url": "https://kasganj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

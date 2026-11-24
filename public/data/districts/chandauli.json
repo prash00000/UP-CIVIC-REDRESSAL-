@@ -1,0 +1,466 @@
+{
+  "district_id": "chandauli",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-chandauli-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Chandauli",
+      "office_name_hi": "कार्यालय जिलाधिकारी, चंदौली",
+      "phones": [
+        {
+          "number": "9454417576",
+          "type": "office",
+          "source_url": "https://chandauli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmchn@nic.in",
+      "covers": [
+        "chandauli"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Chandauli",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), चंदौली",
+      "phones": [
+        {
+          "number": "9454417070",
+          "type": "office",
+          "source_url": "https://chandauli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdocd-up@nic.in",
+      "covers": [
+        "chandauli"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Chandauli",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, चंदौली",
+      "phones": [],
+      "email": "dpro-chn@nic.in",
+      "covers": [
+        "chandauli"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-sdm-chandauli",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Chandauli",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Chandauli",
+      "phones": [
+        {
+          "number": "9454417058",
+          "type": "cug",
+          "source_url": "https://chandauli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmcd-up@nic.in",
+      "covers": [
+        "chandauli"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-sdm-sakaldiha",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sakaldiha",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sakaldiha",
+      "phones": [
+        {
+          "number": "9454417060",
+          "type": "cug",
+          "source_url": "https://chandauli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmsakalcd-up@nic.in",
+      "covers": [
+        "sakaldiha"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-sdm-chakia",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Chakia",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Chakia",
+      "phones": [
+        {
+          "number": "9454417059",
+          "type": "cug",
+          "source_url": "https://chandauli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmchakiacd-up@nic.in",
+      "covers": [
+        "chakia"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-sdm-pandeypur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Pandeypur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Pandeypur",
+      "phones": [],
+      "email": "sdm.pandeypur.chn-up@gov.in",
+      "covers": [
+        "pandeypur"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-bdo-chandauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chandauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chandauli",
+      "phones": [
+        {
+          "number": "9454465235",
+          "type": "cug",
+          "source_url": "https://chandauli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.chandauli.chn@gmail.com",
+      "covers": [
+        "chandauli"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-ado-chandauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chandauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chandauli",
+      "phones": [],
+      "covers": [
+        "chandauli"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-bdo-niamatabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Niamatabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Niamatabad",
+      "phones": [],
+      "email": "bdo.niamatabad.chn@gmail.com",
+      "covers": [
+        "niamatabad"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-ado-niamatabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Niamatabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Niamatabad",
+      "phones": [],
+      "covers": [
+        "niamatabad"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-bdo-chahania",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chahania",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chahania",
+      "phones": [],
+      "email": "bdo.chahania.chn@gmail.com",
+      "covers": [
+        "chahania"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-ado-chahania",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chahania",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chahania",
+      "phones": [],
+      "covers": [
+        "chahania"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-bdo-sakaldiha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sakaldiha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sakaldiha",
+      "phones": [
+        {
+          "number": "9454465233",
+          "type": "cug",
+          "source_url": "https://chandauli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.sakaldiha.chn@gmail.com",
+      "covers": [
+        "sakaldiha"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-ado-sakaldiha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sakaldiha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sakaldiha",
+      "phones": [],
+      "covers": [
+        "sakaldiha"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-bdo-dhanapur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dhanapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dhanapur",
+      "phones": [
+        {
+          "number": "9454465232",
+          "type": "cug",
+          "source_url": "https://chandauli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.dhanapur.chn@gmail.com",
+      "covers": [
+        "dhanapur"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-ado-dhanapur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dhanapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dhanapur",
+      "phones": [],
+      "covers": [
+        "dhanapur"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-bdo-barhani",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Barhani",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Barhani",
+      "phones": [],
+      "email": "bdo.barhani.chn@gmail.com",
+      "covers": [
+        "barhani"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-ado-barhani",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Barhani",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Barhani",
+      "phones": [],
+      "covers": [
+        "barhani"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-bdo-chakia",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chakia",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chakia",
+      "phones": [
+        {
+          "number": "9454465237",
+          "type": "cug",
+          "source_url": "https://chandauli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.chakia.chn@gmail.com",
+      "covers": [
+        "chakia"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-ado-chakia",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chakia",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chakia",
+      "phones": [],
+      "covers": [
+        "chakia"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-bdo-sahabganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sahabganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sahabganj",
+      "phones": [],
+      "email": "bdo.sahabganj.chn@gmail.com",
+      "covers": [
+        "sahabganj"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-ado-sahabganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sahabganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sahabganj",
+      "phones": [],
+      "covers": [
+        "sahabganj"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-bdo-naugarh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Naugarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Naugarh",
+      "phones": [
+        {
+          "number": "9454465239",
+          "type": "cug",
+          "source_url": "https://chandauli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.naugarh.chn@gmail.com",
+      "covers": [
+        "naugarh"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-chandauli-ado-naugarh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Naugarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Naugarh",
+      "phones": [],
+      "covers": [
+        "naugarh"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-chandauli-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Chandauli",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका चंदौली",
+      "phones": [],
+      "covers": [
+        "ulb-chandauli-main"
+      ],
+      "source_url": "https://chandauli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

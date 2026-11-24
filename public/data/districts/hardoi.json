@@ -1,0 +1,740 @@
+{
+  "district_id": "hardoi",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-hardoi-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Hardoi",
+      "office_name_hi": "कार्यालय जिलाधिकारी, हरदोई",
+      "officer_name_en": "1",
+      "phones": [
+        {
+          "number": "9454417556",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmhar@nic.in",
+      "covers": [
+        "hardoi"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Hardoi",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), हरदोई",
+      "phones": [
+        {
+          "number": "9454416620",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo.har-up@gov.in",
+      "covers": [
+        "hardoi"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Hardoi",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, हरदोई",
+      "phones": [
+        {
+          "number": "7317374610",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dpro-har@nic.in",
+      "covers": [
+        "hardoi"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-sdm-hardoi",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Hardoi",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Hardoi",
+      "phones": [],
+      "email": "sdm.hardoi.har-up@gov.in",
+      "covers": [
+        "hardoi"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-sdm-shahabad",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Shahabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Shahabad",
+      "phones": [
+        {
+          "number": "9452071781",
+          "type": "cug",
+          "source_url": "https://hardoi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.shahabad.har-up@gov.in",
+      "covers": [
+        "shahabad"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-sdm-bilgram",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bilgram",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bilgram",
+      "phones": [
+        {
+          "number": "8533069905",
+          "type": "cug",
+          "source_url": "https://hardoi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.bilgram.har-up@gov.in",
+      "covers": [
+        "bilgram"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-sdm-sandila",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sandila",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sandila",
+      "phones": [
+        {
+          "number": "7905768924",
+          "type": "cug",
+          "source_url": "https://hardoi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.sandila.har-up@gov.in",
+      "covers": [
+        "sandila"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-sdm-sawayajpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sawayajpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sawayajpur",
+      "phones": [],
+      "email": "sdm.sawayajpur.har-up@gov.in",
+      "covers": [
+        "sawayajpur"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-sursa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sursa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sursa",
+      "phones": [],
+      "email": "bdo.sursa.har@gmail.com",
+      "covers": [
+        "sursa"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-sursa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sursa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sursa",
+      "phones": [],
+      "covers": [
+        "sursa"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-bawan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bawan",
+      "phones": [],
+      "email": "bdo.bawan.har@gmail.com",
+      "covers": [
+        "bawan"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-bawan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bawan",
+      "phones": [],
+      "covers": [
+        "bawan"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-ahirori",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ahirori",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ahirori",
+      "phones": [],
+      "email": "bdo.ahirori.har@gmail.com",
+      "covers": [
+        "ahirori"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-ahirori",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ahirori",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ahirori",
+      "phones": [],
+      "covers": [
+        "ahirori"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-tandiyawan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Tandiyawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tandiyawan",
+      "phones": [],
+      "email": "bdo.tandiyawan.har@gmail.com",
+      "covers": [
+        "tandiyawan"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-tandiyawan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Tandiyawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Tandiyawan",
+      "phones": [],
+      "covers": [
+        "tandiyawan"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-harpalpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Harpalpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Harpalpur",
+      "phones": [],
+      "email": "bdo.harpalpur.har@gmail.com",
+      "covers": [
+        "harpalpur"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-harpalpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Harpalpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Harpalpur",
+      "phones": [],
+      "covers": [
+        "harpalpur"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-sandi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sandi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sandi",
+      "phones": [],
+      "email": "bdo.sandi.har@gmail.com",
+      "covers": [
+        "sandi"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-sandi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sandi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sandi",
+      "phones": [],
+      "covers": [
+        "sandi"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-bilgram",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bilgram",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bilgram",
+      "phones": [],
+      "email": "bdo.bilgram.har@gmail.com",
+      "covers": [
+        "bilgram"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-bilgram",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bilgram",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bilgram",
+      "phones": [],
+      "covers": [
+        "bilgram"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-madhavganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Madhavganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Madhavganj",
+      "phones": [],
+      "email": "bdo.madhavganj.har@gmail.com",
+      "covers": [
+        "madhavganj"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-madhavganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Madhavganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Madhavganj",
+      "phones": [],
+      "covers": [
+        "madhavganj"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-mallawan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mallawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mallawan",
+      "phones": [],
+      "email": "bdo.mallawan.har@gmail.com",
+      "covers": [
+        "mallawan"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-mallawan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mallawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mallawan",
+      "phones": [],
+      "covers": [
+        "mallawan"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-kachhauna",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kachhauna",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kachhauna",
+      "phones": [],
+      "email": "bdo.kachhauna.har@gmail.com",
+      "covers": [
+        "kachhauna"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-kachhauna",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kachhauna",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kachhauna",
+      "phones": [],
+      "covers": [
+        "kachhauna"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-sandila",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sandila",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sandila",
+      "phones": [],
+      "email": "bdo.sandila.har@gmail.com",
+      "covers": [
+        "sandila"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-sandila",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sandila",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sandila",
+      "phones": [],
+      "covers": [
+        "sandila"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-behandar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Behandar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Behandar",
+      "phones": [],
+      "email": "bdo.behandar.har@gmail.com",
+      "covers": [
+        "behandar"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-behandar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Behandar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Behandar",
+      "phones": [],
+      "covers": [
+        "behandar"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-bharawan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bharawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bharawan",
+      "phones": [],
+      "email": "bdo.bharawan.har@gmail.com",
+      "covers": [
+        "bharawan"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-bharawan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bharawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bharawan",
+      "phones": [],
+      "covers": [
+        "bharawan"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-kothawan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kothawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kothawan",
+      "phones": [],
+      "email": "bdo.kothawan.har@gmail.com",
+      "covers": [
+        "kothawan"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-kothawan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kothawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kothawan",
+      "phones": [],
+      "covers": [
+        "kothawan"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-pihani",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pihani",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pihani",
+      "phones": [],
+      "email": "bdo.pihani.har@gmail.com",
+      "covers": [
+        "pihani"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-pihani",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pihani",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pihani",
+      "phones": [],
+      "covers": [
+        "pihani"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-shahabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Shahabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shahabad",
+      "phones": [],
+      "email": "bdo.shahabad.har@gmail.com",
+      "covers": [
+        "shahabad"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-shahabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Shahabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shahabad",
+      "phones": [],
+      "covers": [
+        "shahabad"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-bharkhani",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bharkhani",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bharkhani",
+      "phones": [],
+      "email": "bdo.bharkhani.har@gmail.com",
+      "covers": [
+        "bharkhani"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-bharkhani",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bharkhani",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bharkhani",
+      "phones": [],
+      "covers": [
+        "bharkhani"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-hariyawan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Hariyawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hariyawan",
+      "phones": [],
+      "email": "bdo.hariyawan.har@gmail.com",
+      "covers": [
+        "hariyawan"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-hariyawan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Hariyawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Hariyawan",
+      "phones": [],
+      "covers": [
+        "hariyawan"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-bdo-toderpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Toderpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Toderpur",
+      "phones": [],
+      "email": "bdo.toderpur.har@gmail.com",
+      "covers": [
+        "toderpur"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hardoi-ado-toderpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Toderpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Toderpur",
+      "phones": [],
+      "covers": [
+        "toderpur"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-hardoi-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Hardoi",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका हरदोई",
+      "phones": [],
+      "covers": [
+        "ulb-hardoi-main"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

@@ -1,17 +1,36 @@
 {
-  "name": "up-civic-grievance-helper",
+  "name": "up-civic-grievance",
   "version": "1.0.0",
-  "description": "Frontend for UP Civic Grievance Helper - Independent citizen tool for Uttar Pradesh",
-  "type": "module",
+  "private": true,
   "scripts": {
-    "build:data": "node scripts/build_data.cjs && node scripts/build_pincode_data.cjs",
-    "build:pages": "node scripts/build_pages.cjs",
-    "build": "node scripts/build_data.cjs && node scripts/build_pincode_data.cjs && node scripts/build_pages.cjs",
-    "test:unit": "node --test tests/unit.test.js tests/pincode.test.js packages/letters/tests/builder.test.js",
-    "test:acceptance": "node tests/acceptance.test.js",
-    "test": "node --test tests/unit.test.js && node tests/acceptance.test.js"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "validate-data": "tsx scripts/validate-data.ts"
   },
-  "keywords": ["civic", "grievance", "uttar-pradesh", "citizen-tool"],
-  "author": "Independent Citizen Initiative",
-  "license": "MIT"
+  "dependencies": {
+    "@fontsource/inter": "^5.1.0",
+    "@fontsource/noto-sans-devanagari": "^5.1.0",
+    "next": "^14.2.24",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^2.8.2",
+    "@playwright/test": "^1.49.1",
+    "@supabase/supabase-js": "^2.47.10",
+    "@types/node": "^20.17.10",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  }
 }

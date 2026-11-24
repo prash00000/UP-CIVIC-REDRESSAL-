@@ -1,0 +1,330 @@
+{
+  "district_id": "lalitpur",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-lalitpur-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Lalitpur",
+      "office_name_hi": "कार्यालय जिलाधिकारी, ललितपुर",
+      "phones": [
+        {
+          "number": "05176-272200",
+          "type": "office",
+          "source_url": "https://lalitpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmlal@nic.in",
+      "covers": [
+        "lalitpur"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Lalitpur",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), ललितपुर",
+      "phones": [
+        {
+          "number": "05176-273682",
+          "type": "office",
+          "source_url": "https://lalitpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo.llt-up@gov.in",
+      "covers": [
+        "lalitpur"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Lalitpur",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, ललितपुर",
+      "phones": [],
+      "email": "dpro-llt@nic.in",
+      "covers": [
+        "lalitpur"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-sdm-lalitpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Lalitpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Lalitpur",
+      "phones": [],
+      "email": "sdm.lalitpur.llt-up@gov.in",
+      "covers": [
+        "lalitpur"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-sdm-mahroni",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mahroni",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mahroni",
+      "phones": [],
+      "email": "sdm.mahroni.llt-up@gov.in",
+      "covers": [
+        "mahroni"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-sdm-talbehat",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Talbehat",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Talbehat",
+      "phones": [],
+      "email": "sdm.talbehat.llt-up@gov.in",
+      "covers": [
+        "talbehat"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-sdm-madawara",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Madawara",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Madawara",
+      "phones": [],
+      "email": "sdm.madawara.llt-up@gov.in",
+      "covers": [
+        "madawara"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-sdm-pali",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Pali",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Pali",
+      "phones": [],
+      "email": "sdm.pali.llt-up@gov.in",
+      "covers": [
+        "pali"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-bdo-birdha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Birdha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Birdha",
+      "phones": [],
+      "email": "bdo.birdha.llt@gmail.com",
+      "covers": [
+        "birdha"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-ado-birdha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Birdha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Birdha",
+      "phones": [],
+      "covers": [
+        "birdha"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-bdo-jakhaura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jakhaura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jakhaura",
+      "phones": [],
+      "email": "bdo.jakhaura.llt@gmail.com",
+      "covers": [
+        "jakhaura"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-ado-jakhaura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jakhaura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jakhaura",
+      "phones": [],
+      "covers": [
+        "jakhaura"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-bdo-talbehat",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Talbehat",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Talbehat",
+      "phones": [],
+      "email": "bdo.talbehat.llt@gmail.com",
+      "covers": [
+        "talbehat"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-ado-talbehat",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Talbehat",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Talbehat",
+      "phones": [],
+      "covers": [
+        "talbehat"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-bdo-bar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bar",
+      "phones": [],
+      "email": "bdo.bar.llt@gmail.com",
+      "covers": [
+        "bar"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-ado-bar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bar",
+      "phones": [],
+      "covers": [
+        "bar"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-bdo-mahroni",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mahroni",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mahroni",
+      "phones": [],
+      "email": "bdo.mahroni.llt@gmail.com",
+      "covers": [
+        "mahroni"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-ado-mahroni",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mahroni",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mahroni",
+      "phones": [],
+      "covers": [
+        "mahroni"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-bdo-madawara",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Madawara",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Madawara",
+      "phones": [],
+      "email": "bdo.madawara.llt@gmail.com",
+      "covers": [
+        "madawara"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lalitpur-ado-madawara",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Madawara",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Madawara",
+      "phones": [],
+      "covers": [
+        "madawara"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-lalitpur-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Lalitpur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका ललितपुर",
+      "phones": [],
+      "covers": [
+        "ulb-lalitpur-main"
+      ],
+      "source_url": "https://lalitpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

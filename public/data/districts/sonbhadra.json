@@ -1,0 +1,366 @@
+{
+  "district_id": "sonbhadra",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-sonbhadra-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Sonbhadra",
+      "office_name_hi": "कार्यालय जिलाधिकारी, सोनभद्र",
+      "officer_name_en": "Mr Charchit Gaur",
+      "phones": [
+        {
+          "number": "9454417569",
+          "type": "office",
+          "source_url": "https://sonbhadra.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmson@nic.in",
+      "covers": [
+        "sonbhadra"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Sonbhadra",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), सोनभद्र",
+      "phones": [],
+      "email": "cdo.snb-up@gov.in",
+      "covers": [
+        "sonbhadra"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Sonbhadra",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, सोनभद्र",
+      "phones": [],
+      "email": "dpro-snb@nic.in",
+      "covers": [
+        "sonbhadra"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-sdm-robertsganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Robertsganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Robertsganj",
+      "phones": [],
+      "email": "sdm.robertsganj.snb-up@gov.in",
+      "covers": [
+        "robertsganj"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-sdm-ghorawal",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Ghorawal",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Ghorawal",
+      "phones": [],
+      "email": "sdm.ghorawal.snb-up@gov.in",
+      "covers": [
+        "ghorawal"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-sdm-duddhi",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Duddhi",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Duddhi",
+      "phones": [],
+      "email": "sdm.duddhi.snb-up@gov.in",
+      "covers": [
+        "duddhi"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-sdm-obra",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Obra",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Obra",
+      "phones": [],
+      "email": "sdm.obra.snb-up@gov.in",
+      "covers": [
+        "obra"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-bdo-robertsganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Robertsganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Robertsganj",
+      "phones": [],
+      "email": "bdo.robertsganj.snb@gmail.com",
+      "covers": [
+        "robertsganj"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-ado-robertsganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Robertsganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Robertsganj",
+      "phones": [],
+      "covers": [
+        "robertsganj"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-bdo-ghorawal",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ghorawal",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ghorawal",
+      "phones": [],
+      "email": "bdo.ghorawal.snb@gmail.com",
+      "covers": [
+        "ghorawal"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-ado-ghorawal",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ghorawal",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ghorawal",
+      "phones": [],
+      "covers": [
+        "ghorawal"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-bdo-chatra",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chatra",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chatra",
+      "phones": [],
+      "email": "bdo.chatra.snb@gmail.com",
+      "covers": [
+        "chatra"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-ado-chatra",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chatra",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chatra",
+      "phones": [],
+      "covers": [
+        "chatra"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-bdo-nagwa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nagwa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nagwa",
+      "phones": [],
+      "email": "bdo.nagwa.snb@gmail.com",
+      "covers": [
+        "nagwa"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-ado-nagwa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nagwa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nagwa",
+      "phones": [],
+      "covers": [
+        "nagwa"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-bdo-chopan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chopan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chopan",
+      "phones": [],
+      "email": "bdo.chopan.snb@gmail.com",
+      "covers": [
+        "chopan"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-ado-chopan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chopan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chopan",
+      "phones": [],
+      "covers": [
+        "chopan"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-bdo-duddhi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Duddhi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Duddhi",
+      "phones": [],
+      "email": "bdo.duddhi.snb@gmail.com",
+      "covers": [
+        "duddhi"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-ado-duddhi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Duddhi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Duddhi",
+      "phones": [],
+      "covers": [
+        "duddhi"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-bdo-babhani",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Babhani",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Babhani",
+      "phones": [],
+      "email": "bdo.babhani.snb@gmail.com",
+      "covers": [
+        "babhani"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-ado-babhani",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Babhani",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Babhani",
+      "phones": [],
+      "covers": [
+        "babhani"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-bdo-myorpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Myorpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Myorpur",
+      "phones": [],
+      "email": "bdo.myorpur.snb@gmail.com",
+      "covers": [
+        "myorpur"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sonbhadra-ado-myorpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Myorpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Myorpur",
+      "phones": [],
+      "covers": [
+        "myorpur"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-sonbhadra-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Sonbhadra",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका सोनभद्र",
+      "phones": [],
+      "covers": [
+        "ulb-sonbhadra-main"
+      ],
+      "source_url": "https://sonbhadra.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

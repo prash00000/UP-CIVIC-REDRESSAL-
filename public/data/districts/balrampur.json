@@ -1,0 +1,387 @@
+{
+  "district_id": "balrampur",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-balrampur-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Balrampur",
+      "office_name_hi": "कार्यालय जिलाधिकारी, बलरामपुर",
+      "phones": [
+        {
+          "number": "9454417536",
+          "type": "office",
+          "source_url": "https://balrampur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmblr@nic.in",
+      "covers": [
+        "balrampur"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Balrampur",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), बलरामपुर",
+      "phones": [
+        {
+          "number": "9454464819",
+          "type": "office",
+          "source_url": "https://balrampur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo.brp-up@gov.in",
+      "covers": [
+        "balrampur"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Balrampur",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, बलरामपुर",
+      "phones": [],
+      "email": "dpro-brp@nic.in",
+      "covers": [
+        "balrampur"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-sdm-balrampur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Balrampur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Balrampur",
+      "phones": [],
+      "email": "sdm.balrampur.brp-up@gov.in",
+      "covers": [
+        "balrampur"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-sdm-tulsipur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Tulsipur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Tulsipur",
+      "phones": [],
+      "email": "sdm.tulsipur.brp-up@gov.in",
+      "covers": [
+        "tulsipur"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-sdm-utraula",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Utraula",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Utraula",
+      "phones": [],
+      "email": "sdm.utraula.brp-up@gov.in",
+      "covers": [
+        "utraula"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-bdo-balrampur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Balrampur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Balrampur",
+      "phones": [],
+      "email": "bdo.balrampur.brp@gmail.com",
+      "covers": [
+        "balrampur"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-ado-balrampur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Balrampur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Balrampur",
+      "phones": [],
+      "covers": [
+        "balrampur"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-bdo-tulsipur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Tulsipur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tulsipur",
+      "phones": [],
+      "email": "bdo.tulsipur.brp@gmail.com",
+      "covers": [
+        "tulsipur"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-ado-tulsipur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Tulsipur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Tulsipur",
+      "phones": [],
+      "covers": [
+        "tulsipur"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-bdo-gainsari",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gainsari",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gainsari",
+      "phones": [],
+      "email": "bdo.gainsari.brp@gmail.com",
+      "covers": [
+        "gainsari"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-ado-gainsari",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gainsari",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gainsari",
+      "phones": [],
+      "covers": [
+        "gainsari"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-bdo-pachperwa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pachperwa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pachperwa",
+      "phones": [],
+      "email": "bdo.pachperwa.brp@gmail.com",
+      "covers": [
+        "pachperwa"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-ado-pachperwa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pachperwa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pachperwa",
+      "phones": [],
+      "covers": [
+        "pachperwa"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-bdo-utraula",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Utraula",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Utraula",
+      "phones": [],
+      "email": "bdo.utraula.brp@gmail.com",
+      "covers": [
+        "utraula"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-ado-utraula",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Utraula",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Utraula",
+      "phones": [],
+      "covers": [
+        "utraula"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-bdo-rehra-bazar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rehra Bazar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rehra Bazar",
+      "phones": [],
+      "email": "bdo.rehrabazar.brp@gmail.com",
+      "covers": [
+        "rehra-bazar"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-ado-rehra-bazar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rehra Bazar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rehra Bazar",
+      "phones": [],
+      "covers": [
+        "rehra-bazar"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-bdo-gaindas-bujurg",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gaindas Bujurg",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gaindas Bujurg",
+      "phones": [],
+      "email": "bdo.gaindasbujurg.brp@gmail.com",
+      "covers": [
+        "gaindas-bujurg"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-ado-gaindas-bujurg",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gaindas Bujurg",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gaindas Bujurg",
+      "phones": [],
+      "covers": [
+        "gaindas-bujurg"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-bdo-shriduttganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Shriduttganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shriduttganj",
+      "phones": [],
+      "email": "bdo.shriduttganj.brp@gmail.com",
+      "covers": [
+        "shriduttganj"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-ado-shriduttganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Shriduttganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shriduttganj",
+      "phones": [],
+      "covers": [
+        "shriduttganj"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-bdo-shivpura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Shivpura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shivpura",
+      "phones": [],
+      "email": "bdo.shivpura.brp@gmail.com",
+      "covers": [
+        "shivpura"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-balrampur-ado-shivpura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Shivpura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shivpura",
+      "phones": [],
+      "covers": [
+        "shivpura"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-balrampur-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Balrampur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका बलरामपुर",
+      "phones": [],
+      "covers": [
+        "ulb-balrampur-main"
+      ],
+      "source_url": "https://balrampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

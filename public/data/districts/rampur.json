@@ -1,0 +1,323 @@
+{
+  "district_id": "rampur",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-rampur-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Rampur",
+      "office_name_hi": "कार्यालय जिलाधिकारी, रामपुर",
+      "officer_name_en": "Shri Ajay Kumar Dwivedi (I.A.S)",
+      "phones": [
+        {
+          "number": "9454417573",
+          "type": "office",
+          "source_url": "https://rampur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmram@nic.in",
+      "covers": [
+        "rampur"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Rampur",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), रामपुर",
+      "phones": [],
+      "email": "cdo.rmp-up@gov.in",
+      "covers": [
+        "rampur"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Rampur",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, रामपुर",
+      "phones": [],
+      "email": "dpro-rmp@nic.in",
+      "covers": [
+        "rampur"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [],
+      "email": "sdm.sadar.rmp-up@gov.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-sdm-bilaspur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bilaspur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bilaspur",
+      "phones": [],
+      "email": "sdm.bilaspur.rmp-up@gov.in",
+      "covers": [
+        "bilaspur"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-sdm-milak",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Milak",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Milak",
+      "phones": [],
+      "email": "sdm.milak.rmp-up@gov.in",
+      "covers": [
+        "milak"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-sdm-shahabad",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Shahabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Shahabad",
+      "phones": [],
+      "email": "sdm.shahabad.rmp-up@gov.in",
+      "covers": [
+        "shahabad"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-sdm-suar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Suar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Suar",
+      "phones": [],
+      "email": "sdm.suar.rmp-up@gov.in",
+      "covers": [
+        "suar"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-bdo-chamraua",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chamraua",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chamraua",
+      "phones": [],
+      "email": "bdo.chamraua.rmp@gmail.com",
+      "covers": [
+        "chamraua"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-ado-chamraua",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chamraua",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chamraua",
+      "phones": [],
+      "covers": [
+        "chamraua"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-bdo-saidnagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Saidnagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Saidnagar",
+      "phones": [],
+      "email": "bdo.saidnagar.rmp@gmail.com",
+      "covers": [
+        "saidnagar"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-ado-saidnagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Saidnagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Saidnagar",
+      "phones": [],
+      "covers": [
+        "saidnagar"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-bdo-shahabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Shahabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shahabad",
+      "phones": [],
+      "email": "bdo.shahabad.rmp@gmail.com",
+      "covers": [
+        "shahabad"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-ado-shahabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Shahabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shahabad",
+      "phones": [],
+      "covers": [
+        "shahabad"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-bdo-milak",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Milak",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Milak",
+      "phones": [],
+      "email": "bdo.milak.rmp@gmail.com",
+      "covers": [
+        "milak"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-ado-milak",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Milak",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Milak",
+      "phones": [],
+      "covers": [
+        "milak"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-bdo-bilaspur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bilaspur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bilaspur",
+      "phones": [],
+      "email": "bdo.bilaspur.rmp@gmail.com",
+      "covers": [
+        "bilaspur"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-ado-bilaspur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bilaspur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bilaspur",
+      "phones": [],
+      "covers": [
+        "bilaspur"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-bdo-suar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Suar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Suar",
+      "phones": [],
+      "email": "bdo.suar.rmp@gmail.com",
+      "covers": [
+        "suar"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-rampur-ado-suar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Suar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Suar",
+      "phones": [],
+      "covers": [
+        "suar"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-rampur-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Rampur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका रामपुर",
+      "phones": [],
+      "covers": [
+        "ulb-rampur-main"
+      ],
+      "source_url": "https://rampur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

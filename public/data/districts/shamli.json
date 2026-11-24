@@ -1,0 +1,271 @@
+{
+  "district_id": "shamli",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-shamli-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Shamli",
+      "office_name_hi": "कार्यालय जिलाधिकारी, शामली",
+      "phones": [
+        {
+          "number": "9454416996",
+          "type": "office",
+          "source_url": "https://shamli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmshm@nic.in",
+      "covers": [
+        "shamli"
+      ],
+      "source_url": "https://shamli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shamli-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Shamli",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), शामली",
+      "phones": [
+        {
+          "number": "7275554659",
+          "type": "office",
+          "source_url": "https://shamli.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo-shm@up.gov.in",
+      "covers": [
+        "shamli"
+      ],
+      "source_url": "https://shamli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shamli-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Shamli",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, शामली",
+      "phones": [],
+      "email": "dpro-sml@nic.in",
+      "covers": [
+        "shamli"
+      ],
+      "source_url": "https://shamli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shamli-sdm-shamli",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Shamli",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Shamli",
+      "phones": [],
+      "email": "sdm.shamli.sml-up@gov.in",
+      "covers": [
+        "shamli"
+      ],
+      "source_url": "https://shamli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shamli-sdm-kairana",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kairana",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kairana",
+      "phones": [],
+      "email": "sdm.kairana.sml-up@gov.in",
+      "covers": [
+        "kairana"
+      ],
+      "source_url": "https://shamli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shamli-sdm-unn",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Unn",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Unn",
+      "phones": [],
+      "email": "sdm.unn.sml-up@gov.in",
+      "covers": [
+        "unn"
+      ],
+      "source_url": "https://shamli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shamli-bdo-shamli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Shamli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shamli",
+      "phones": [],
+      "email": "bdo.shamli.sml@gmail.com",
+      "covers": [
+        "shamli"
+      ],
+      "source_url": "https://shamli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shamli-ado-shamli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Shamli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shamli",
+      "phones": [],
+      "covers": [
+        "shamli"
+      ],
+      "source_url": "https://shamli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shamli-bdo-kandhla",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kandhla",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kandhla",
+      "phones": [],
+      "email": "bdo.kandhla.sml@gmail.com",
+      "covers": [
+        "kandhla"
+      ],
+      "source_url": "https://shamli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shamli-ado-kandhla",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kandhla",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kandhla",
+      "phones": [],
+      "covers": [
+        "kandhla"
+      ],
+      "source_url": "https://shamli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shamli-bdo-thanabhawan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Thanabhawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Thanabhawan",
+      "phones": [],
+      "email": "bdo.thanabhawan.sml@gmail.com",
+      "covers": [
+        "thanabhawan"
+      ],
+      "source_url": "https://shamli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shamli-ado-thanabhawan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Thanabhawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Thanabhawan",
+      "phones": [],
+      "covers": [
+        "thanabhawan"
+      ],
+      "source_url": "https://shamli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shamli-bdo-kairana",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kairana",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kairana",
+      "phones": [],
+      "email": "bdo.kairana.sml@gmail.com",
+      "covers": [
+        "kairana"
+      ],
+      "source_url": "https://shamli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shamli-ado-kairana",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kairana",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kairana",
+      "phones": [],
+      "covers": [
+        "kairana"
+      ],
+      "source_url": "https://shamli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shamli-bdo-unn",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Unn",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Unn",
+      "phones": [],
+      "email": "bdo.unn.sml@gmail.com",
+      "covers": [
+        "unn"
+      ],
+      "source_url": "https://shamli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shamli-ado-unn",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Unn",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Unn",
+      "phones": [],
+      "covers": [
+        "unn"
+      ],
+      "source_url": "https://shamli.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-shamli-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Shamli",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका शामली",
+      "phones": [],
+      "covers": [
+        "ulb-shamli-main"
+      ],
+      "source_url": "https://shamli.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

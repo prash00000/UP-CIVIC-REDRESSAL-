@@ -1,0 +1,752 @@
+{
+  "district_id": "azamgarh",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-azamgarh-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Azamgarh",
+      "office_name_hi": "कार्यालय जिलाधिकारी, आजमगढ़",
+      "phones": [
+        {
+          "number": "05462-220930",
+          "type": "office",
+          "source_url": "https://azamgarh.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmaza@nic.in",
+      "covers": [
+        "azamgarh"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Azamgarh",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), आजमगढ़",
+      "phones": [
+        {
+          "number": "9194544645",
+          "type": "office",
+          "source_url": "https://azamgarh.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo.az-up@up.gov.in",
+      "covers": [
+        "azamgarh"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Azamgarh",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, आजमगढ़",
+      "phones": [],
+      "email": "dpro-azm@nic.in",
+      "covers": [
+        "azamgarh"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [],
+      "email": "sdm.sadar.azm-up@gov.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-sdm-sagri",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sagri",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sagri",
+      "phones": [],
+      "email": "sdm.sagri.azm-up@gov.in",
+      "covers": [
+        "sagri"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-sdm-mehnagar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mehnagar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mehnagar",
+      "phones": [],
+      "email": "sdm.mehnagar.azm-up@gov.in",
+      "covers": [
+        "mehnagar"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-sdm-lalganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Lalganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Lalganj",
+      "phones": [],
+      "email": "sdm.lalganj.azm-up@gov.in",
+      "covers": [
+        "lalganj"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-sdm-burhanpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Burhanpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Burhanpur",
+      "phones": [],
+      "email": "sdm.burhanpur.azm-up@gov.in",
+      "covers": [
+        "burhanpur"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-sdm-phoolpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Phoolpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Phoolpur",
+      "phones": [],
+      "email": "sdm.phoolpur.azm-up@gov.in",
+      "covers": [
+        "phoolpur"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-sdm-nizamabad",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Nizamabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Nizamabad",
+      "phones": [],
+      "email": "sdm.nizamabad.azm-up@gov.in",
+      "covers": [
+        "nizamabad"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-sdm-martinganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Martinganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Martinganj",
+      "phones": [],
+      "email": "sdm.martinganj.azm-up@gov.in",
+      "covers": [
+        "martinganj"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-palhani",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Palhani",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Palhani",
+      "phones": [],
+      "email": "bdo.palhani.azm@gmail.com",
+      "covers": [
+        "palhani"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-palhani",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Palhani",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Palhani",
+      "phones": [],
+      "covers": [
+        "palhani"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-rani-ki-sarai",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rani Ki Sarai",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rani Ki Sarai",
+      "phones": [],
+      "email": "bdo.ranikisarai.azm@gmail.com",
+      "covers": [
+        "rani-ki-sarai"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-rani-ki-sarai",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rani Ki Sarai",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rani Ki Sarai",
+      "phones": [],
+      "covers": [
+        "rani-ki-sarai"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-sathiaon",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sathiaon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sathiaon",
+      "phones": [],
+      "email": "bdo.sathiaon.azm@gmail.com",
+      "covers": [
+        "sathiaon"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-sathiaon",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sathiaon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sathiaon",
+      "phones": [],
+      "covers": [
+        "sathiaon"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-jahanaganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jahanaganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jahanaganj",
+      "phones": [],
+      "email": "bdo.jahanaganj.azm@gmail.com",
+      "covers": [
+        "jahanaganj"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-jahanaganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jahanaganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jahanaganj",
+      "phones": [],
+      "covers": [
+        "jahanaganj"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-tahbarpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Tahbarpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tahbarpur",
+      "phones": [],
+      "email": "bdo.tahbarpur.azm@gmail.com",
+      "covers": [
+        "tahbarpur"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-tahbarpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Tahbarpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Tahbarpur",
+      "phones": [],
+      "covers": [
+        "tahbarpur"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-koyelsa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Koyelsa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Koyelsa",
+      "phones": [],
+      "email": "bdo.koyelsa.azm@gmail.com",
+      "covers": [
+        "koyelsa"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-koyelsa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Koyelsa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Koyelsa",
+      "phones": [],
+      "covers": [
+        "koyelsa"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-atraulia",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Atraulia",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Atraulia",
+      "phones": [],
+      "email": "bdo.atraulia.azm@gmail.com",
+      "covers": [
+        "atraulia"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-atraulia",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Atraulia",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Atraulia",
+      "phones": [],
+      "covers": [
+        "atraulia"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-ahiraula",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ahiraula",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ahiraula",
+      "phones": [],
+      "email": "bdo.ahiraula.azm@gmail.com",
+      "covers": [
+        "ahiraula"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-ahiraula",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ahiraula",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ahiraula",
+      "phones": [],
+      "covers": [
+        "ahiraula"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-phoolpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Phoolpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Phoolpur",
+      "phones": [],
+      "email": "bdo.phoolpur.azm@gmail.com",
+      "covers": [
+        "phoolpur"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-phoolpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Phoolpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Phoolpur",
+      "phones": [],
+      "covers": [
+        "phoolpur"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-pawani",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pawani",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pawani",
+      "phones": [],
+      "email": "bdo.pawani.azm@gmail.com",
+      "covers": [
+        "pawani"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-pawani",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pawani",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pawani",
+      "phones": [],
+      "covers": [
+        "pawani"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-martinganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Martinganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Martinganj",
+      "phones": [],
+      "email": "bdo.martinganj.azm@gmail.com",
+      "covers": [
+        "martinganj"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-martinganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Martinganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Martinganj",
+      "phones": [],
+      "covers": [
+        "martinganj"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-thekma",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Thekma",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Thekma",
+      "phones": [],
+      "email": "bdo.thekma.azm@gmail.com",
+      "covers": [
+        "thekma"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-thekma",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Thekma",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Thekma",
+      "phones": [],
+      "covers": [
+        "thekma"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-lalganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Lalganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Lalganj",
+      "phones": [],
+      "email": "bdo.lalganj.azm@gmail.com",
+      "covers": [
+        "lalganj"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-lalganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Lalganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Lalganj",
+      "phones": [],
+      "covers": [
+        "lalganj"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-tarwa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Tarwa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tarwa",
+      "phones": [],
+      "email": "bdo.tarwa.azm@gmail.com",
+      "covers": [
+        "tarwa"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-tarwa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Tarwa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Tarwa",
+      "phones": [],
+      "covers": [
+        "tarwa"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-mehnagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mehnagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mehnagar",
+      "phones": [],
+      "email": "bdo.mehnagar.azm@gmail.com",
+      "covers": [
+        "mehnagar"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-mehnagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mehnagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mehnagar",
+      "phones": [],
+      "covers": [
+        "mehnagar"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-bilariyaganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bilariyaganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bilariyaganj",
+      "phones": [],
+      "email": "bdo.bilariyaganj.azm@gmail.com",
+      "covers": [
+        "bilariyaganj"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-bilariyaganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bilariyaganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bilariyaganj",
+      "phones": [],
+      "covers": [
+        "bilariyaganj"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-maharajganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Maharajganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Maharajganj",
+      "phones": [],
+      "email": "bdo.maharajganj.azm@gmail.com",
+      "covers": [
+        "maharajganj"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-maharajganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Maharajganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Maharajganj",
+      "phones": [],
+      "covers": [
+        "maharajganj"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-haraiya",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Haraiya",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Haraiya",
+      "phones": [],
+      "email": "bdo.haraiya.azm@gmail.com",
+      "covers": [
+        "haraiya"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-haraiya",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Haraiya",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Haraiya",
+      "phones": [],
+      "covers": [
+        "haraiya"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-bdo-mirzapur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mirzapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mirzapur",
+      "phones": [],
+      "email": "bdo.mirzapur.azm@gmail.com",
+      "covers": [
+        "mirzapur"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-azamgarh-ado-mirzapur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mirzapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mirzapur",
+      "phones": [],
+      "covers": [
+        "mirzapur"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-azamgarh-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Azamgarh",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका आजमगढ़",
+      "phones": [],
+      "covers": [
+        "ulb-azamgarh-main"
+      ],
+      "source_url": "https://azamgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

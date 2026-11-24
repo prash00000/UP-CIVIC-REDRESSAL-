@@ -1,0 +1,608 @@
+{
+  "district_id": "fatehpur",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-fatehpur-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Fatehpur",
+      "office_name_hi": "कार्यालय जिलाधिकारी, फतेहपुर",
+      "officer_name_en": "1.",
+      "phones": [
+        {
+          "number": "05180-224502",
+          "type": "office",
+          "source_url": "https://fatehpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmftp@nic.in",
+      "covers": [
+        "fatehpur"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Fatehpur",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), फतेहपुर",
+      "phones": [
+        {
+          "number": "9454464564",
+          "type": "office",
+          "source_url": "https://fatehpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo.ftp-up@gov.in",
+      "covers": [
+        "fatehpur"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Fatehpur",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, फतेहपुर",
+      "phones": [
+        {
+          "number": "7007786597",
+          "type": "office",
+          "source_url": "https://fatehpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dpro-ftp@nic.in",
+      "covers": [
+        "fatehpur"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-sdm-fatehpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Fatehpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Fatehpur",
+      "phones": [],
+      "email": "sdm.fatehpur.ftp-up@gov.in",
+      "covers": [
+        "fatehpur"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-sdm-bindki",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bindki",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bindki",
+      "phones": [
+        {
+          "number": "9454417865",
+          "type": "cug",
+          "source_url": "https://fatehpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.bindki.ftp-up@gov.in",
+      "covers": [
+        "bindki"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-sdm-khaga",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Khaga",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Khaga",
+      "phones": [],
+      "email": "sdm.khaga.ftp-up@gov.in",
+      "covers": [
+        "khaga"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-bdo-bhitaura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhitaura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhitaura",
+      "phones": [
+        {
+          "number": "9454464556",
+          "type": "cug",
+          "source_url": "https://fatehpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.bhitaura.ftp@gmail.com",
+      "covers": [
+        "bhitaura"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-ado-bhitaura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhitaura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhitaura",
+      "phones": [],
+      "covers": [
+        "bhitaura"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-bdo-haswa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Haswa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Haswa",
+      "phones": [
+        {
+          "number": "9454464565",
+          "type": "cug",
+          "source_url": "https://fatehpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.haswa.ftp@gmail.com",
+      "covers": [
+        "haswa"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-ado-haswa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Haswa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Haswa",
+      "phones": [],
+      "covers": [
+        "haswa"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-bdo-asothar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Asothar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Asothar",
+      "phones": [
+        {
+          "number": "9454464567",
+          "type": "cug",
+          "source_url": "https://fatehpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.asothar.ftp@gmail.com",
+      "covers": [
+        "asothar"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-ado-asothar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Asothar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Asothar",
+      "phones": [],
+      "covers": [
+        "asothar"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-bdo-teliyani",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Teliyani",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Teliyani",
+      "phones": [
+        {
+          "number": "9454464563",
+          "type": "cug",
+          "source_url": "https://fatehpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.teliyani.ftp@gmail.com",
+      "covers": [
+        "teliyani"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-ado-teliyani",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Teliyani",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Teliyani",
+      "phones": [],
+      "covers": [
+        "teliyani"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-bdo-bahua",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bahua",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bahua",
+      "phones": [
+        {
+          "number": "9454464566",
+          "type": "cug",
+          "source_url": "https://fatehpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.bahua.ftp@gmail.com",
+      "covers": [
+        "bahua"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-ado-bahua",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bahua",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bahua",
+      "phones": [],
+      "covers": [
+        "bahua"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-bdo-malwan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Malwan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Malwan",
+      "phones": [
+        {
+          "number": "9454464560",
+          "type": "cug",
+          "source_url": "https://fatehpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.malwan.ftp@gmail.com",
+      "covers": [
+        "malwan"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-ado-malwan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Malwan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Malwan",
+      "phones": [],
+      "covers": [
+        "malwan"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-bdo-khajuha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Khajuha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khajuha",
+      "phones": [
+        {
+          "number": "9454464562",
+          "type": "cug",
+          "source_url": "https://fatehpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.khajuha.ftp@gmail.com",
+      "covers": [
+        "khajuha"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-ado-khajuha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Khajuha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Khajuha",
+      "phones": [],
+      "covers": [
+        "khajuha"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-bdo-amauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Amauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Amauli",
+      "phones": [
+        {
+          "number": "9454464561",
+          "type": "cug",
+          "source_url": "https://fatehpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.amauli.ftp@gmail.com",
+      "covers": [
+        "amauli"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-ado-amauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Amauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Amauli",
+      "phones": [],
+      "covers": [
+        "amauli"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-bdo-devmai",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Devmai",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Devmai",
+      "phones": [
+        {
+          "number": "9454464559",
+          "type": "cug",
+          "source_url": "https://fatehpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.devmai.ftp@gmail.com",
+      "covers": [
+        "devmai"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-ado-devmai",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Devmai",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Devmai",
+      "phones": [],
+      "covers": [
+        "devmai"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-bdo-airayan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Airayan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Airayan",
+      "phones": [
+        {
+          "number": "9454464569",
+          "type": "cug",
+          "source_url": "https://fatehpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.airayan.ftp@gmail.com",
+      "covers": [
+        "airayan"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-ado-airayan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Airayan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Airayan",
+      "phones": [],
+      "covers": [
+        "airayan"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-bdo-dhata",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dhata",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dhata",
+      "phones": [
+        {
+          "number": "9454464571",
+          "type": "cug",
+          "source_url": "https://fatehpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.dhata.ftp@gmail.com",
+      "covers": [
+        "dhata"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-ado-dhata",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dhata",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dhata",
+      "phones": [],
+      "covers": [
+        "dhata"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-bdo-vijayipur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Vijayipur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Vijayipur",
+      "phones": [],
+      "email": "bdo.vijayipur.ftp@gmail.com",
+      "covers": [
+        "vijayipur"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-ado-vijayipur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Vijayipur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Vijayipur",
+      "phones": [],
+      "covers": [
+        "vijayipur"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-bdo-hathgaon",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Hathgaon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hathgaon",
+      "phones": [],
+      "email": "bdo.hathgaon.ftp@gmail.com",
+      "covers": [
+        "hathgaon"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-fatehpur-ado-hathgaon",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Hathgaon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Hathgaon",
+      "phones": [],
+      "covers": [
+        "hathgaon"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-fatehpur-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Fatehpur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका फतेहपुर",
+      "phones": [],
+      "covers": [
+        "ulb-fatehpur-main"
+      ],
+      "source_url": "https://fatehpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

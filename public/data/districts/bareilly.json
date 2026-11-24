@@ -1,0 +1,635 @@
+{
+  "district_id": "bareilly",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-bareilly-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Bareilly",
+      "office_name_hi": "कार्यालय जिलाधिकारी, बरेली",
+      "phones": [
+        {
+          "number": "05812-427043",
+          "type": "office",
+          "source_url": "https://bareilly.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmbar@nic.in",
+      "covers": [
+        "bareilly"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Bareilly",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), बरेली",
+      "phones": [
+        {
+          "number": "9454464642",
+          "type": "office",
+          "source_url": "https://bareilly.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo-bar@up.gov.in",
+      "covers": [
+        "bareilly"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Bareilly",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, बरेली",
+      "phones": [],
+      "email": "dpro-bly@nic.in",
+      "covers": [
+        "bareilly"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [],
+      "email": "sdm.sadar.bly-up@gov.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-sdm-aonla",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Aonla",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Aonla",
+      "phones": [],
+      "email": "sdm.aonla.bly-up@gov.in",
+      "covers": [
+        "aonla"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-sdm-baheri",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Baheri",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Baheri",
+      "phones": [],
+      "email": "sdm.baheri.bly-up@gov.in",
+      "covers": [
+        "baheri"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-sdm-faridpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Faridpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Faridpur",
+      "phones": [],
+      "email": "sdm.faridpur.bly-up@gov.in",
+      "covers": [
+        "faridpur"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-sdm-nawabganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Nawabganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Nawabganj",
+      "phones": [],
+      "email": "sdm.nawabganj.bly-up@gov.in",
+      "covers": [
+        "nawabganj"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-sdm-meerganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Meerganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Meerganj",
+      "phones": [],
+      "email": "sdm.meerganj.bly-up@gov.in",
+      "covers": [
+        "meerganj"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-bdo-bhojipura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhojipura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhojipura",
+      "phones": [],
+      "email": "bdo.bhojipura.bly@gmail.com",
+      "covers": [
+        "bhojipura"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-ado-bhojipura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhojipura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhojipura",
+      "phones": [],
+      "covers": [
+        "bhojipura"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-bdo-bithri-chainpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bithri Chainpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bithri Chainpur",
+      "phones": [],
+      "email": "bdo.bithrichainpur.bly@gmail.com",
+      "covers": [
+        "bithri-chainpur"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-ado-bithri-chainpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bithri Chainpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bithri Chainpur",
+      "phones": [],
+      "covers": [
+        "bithri-chainpur"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-bdo-fatehganj-paschim",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Fatehganj Paschim",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Fatehganj Paschim",
+      "phones": [],
+      "email": "bdo.fatehganjpaschim.bly@gmail.com",
+      "covers": [
+        "fatehganj-paschim"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-ado-fatehganj-paschim",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Fatehganj Paschim",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Fatehganj Paschim",
+      "phones": [],
+      "covers": [
+        "fatehganj-paschim"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-bdo-kyara",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kyara",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kyara",
+      "phones": [],
+      "email": "bdo.kyara.bly@gmail.com",
+      "covers": [
+        "kyara"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-ado-kyara",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kyara",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kyara",
+      "phones": [],
+      "covers": [
+        "kyara"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-bdo-baheri",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Baheri",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Baheri",
+      "phones": [],
+      "email": "bdo.baheri.bly@gmail.com",
+      "covers": [
+        "baheri"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-ado-baheri",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Baheri",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Baheri",
+      "phones": [],
+      "covers": [
+        "baheri"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-bdo-damkhoda",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Damkhoda",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Damkhoda",
+      "phones": [],
+      "email": "bdo.damkhoda.bly@gmail.com",
+      "covers": [
+        "damkhoda"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-ado-damkhoda",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Damkhoda",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Damkhoda",
+      "phones": [],
+      "covers": [
+        "damkhoda"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-bdo-shergarh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Shergarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shergarh",
+      "phones": [],
+      "email": "bdo.shergarh.bly@gmail.com",
+      "covers": [
+        "shergarh"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-ado-shergarh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Shergarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shergarh",
+      "phones": [],
+      "covers": [
+        "shergarh"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-bdo-richha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Richha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Richha",
+      "phones": [],
+      "email": "bdo.richha.bly@gmail.com",
+      "covers": [
+        "richha"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-ado-richha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Richha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Richha",
+      "phones": [],
+      "covers": [
+        "richha"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-bdo-mirganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mirganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mirganj",
+      "phones": [],
+      "email": "bdo.mirganj.bly@gmail.com",
+      "covers": [
+        "mirganj"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-ado-mirganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mirganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mirganj",
+      "phones": [],
+      "covers": [
+        "mirganj"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-bdo-fatehganj-purvi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Fatehganj Purvi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Fatehganj Purvi",
+      "phones": [],
+      "email": "bdo.fatehganjpurvi.bly@gmail.com",
+      "covers": [
+        "fatehganj-purvi"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-ado-fatehganj-purvi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Fatehganj Purvi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Fatehganj Purvi",
+      "phones": [],
+      "covers": [
+        "fatehganj-purvi"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-bdo-faridpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Faridpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Faridpur",
+      "phones": [],
+      "email": "bdo.faridpur.bly@gmail.com",
+      "covers": [
+        "faridpur"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-ado-faridpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Faridpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Faridpur",
+      "phones": [],
+      "covers": [
+        "faridpur"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-bdo-bhuta",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhuta",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhuta",
+      "phones": [],
+      "email": "bdo.bhuta.bly@gmail.com",
+      "covers": [
+        "bhuta"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-ado-bhuta",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhuta",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhuta",
+      "phones": [],
+      "covers": [
+        "bhuta"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-bdo-aonla",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Aonla",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Aonla",
+      "phones": [],
+      "email": "bdo.aonla.bly@gmail.com",
+      "covers": [
+        "aonla"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-ado-aonla",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Aonla",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Aonla",
+      "phones": [],
+      "covers": [
+        "aonla"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-bdo-alampur-jafrabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Alampur Jafrabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Alampur Jafrabad",
+      "phones": [],
+      "email": "bdo.alampurjafrabad.bly@gmail.com",
+      "covers": [
+        "alampur-jafrabad"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-ado-alampur-jafrabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Alampur Jafrabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Alampur Jafrabad",
+      "phones": [],
+      "covers": [
+        "alampur-jafrabad"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-bdo-majhgawan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Majhgawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Majhgawan",
+      "phones": [],
+      "email": "bdo.majhgawan.bly@gmail.com",
+      "covers": [
+        "majhgawan"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-ado-majhgawan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Majhgawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Majhgawan",
+      "phones": [],
+      "covers": [
+        "majhgawan"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-bdo-ramnagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ramnagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ramnagar",
+      "phones": [],
+      "email": "bdo.ramnagar.bly@gmail.com",
+      "covers": [
+        "ramnagar"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-ado-ramnagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ramnagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ramnagar",
+      "phones": [],
+      "covers": [
+        "ramnagar"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-bareilly-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Bareilly",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका बरेली",
+      "phones": [],
+      "covers": [
+        "ulb-bareilly-main"
+      ],
+      "source_url": "https://bareilly.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

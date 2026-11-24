@@ -1,0 +1,351 @@
+{
+  "district_id": "kannauj",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-kannauj-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Kannauj",
+      "office_name_hi": "कार्यालय जिलाधिकारी, कन्नौज",
+      "officer_name_en": "Ashutosh Mohan Agnihotri, IAS",
+      "phones": [
+        {
+          "number": "9454417555",
+          "type": "office",
+          "source_url": "https://kannauj.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmknj@nic.in",
+      "covers": [
+        "kannauj"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Kannauj",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), कन्नौज",
+      "phones": [],
+      "email": "cdo.knj-up@gov.in",
+      "covers": [
+        "kannauj"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Kannauj",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, कन्नौज",
+      "phones": [],
+      "email": "dpro-knj@nic.in",
+      "covers": [
+        "kannauj"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-sdm-kannauj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kannauj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kannauj",
+      "phones": [],
+      "email": "sdm.kannauj.knj-up@gov.in",
+      "covers": [
+        "kannauj"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-sdm-chhibramau",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Chhibramau",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Chhibramau",
+      "phones": [],
+      "email": "sdm.chhibramau.knj-up@gov.in",
+      "covers": [
+        "chhibramau"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-sdm-tirwa",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Tirwa",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Tirwa",
+      "phones": [],
+      "email": "sdm.tirwa.knj-up@gov.in",
+      "covers": [
+        "tirwa"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-bdo-kannauj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kannauj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kannauj",
+      "phones": [],
+      "email": "bdo.kannauj.knj@gmail.com",
+      "covers": [
+        "kannauj"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-ado-kannauj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kannauj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kannauj",
+      "phones": [],
+      "covers": [
+        "kannauj"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-bdo-jalalabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jalalabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jalalabad",
+      "phones": [],
+      "email": "bdo.jalalabad.knj@gmail.com",
+      "covers": [
+        "jalalabad"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-ado-jalalabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jalalabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jalalabad",
+      "phones": [],
+      "covers": [
+        "jalalabad"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-bdo-guganpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Guganpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Guganpur",
+      "phones": [],
+      "email": "bdo.guganpur.knj@gmail.com",
+      "covers": [
+        "guganpur"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-ado-guganpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Guganpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Guganpur",
+      "phones": [],
+      "covers": [
+        "guganpur"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-bdo-talgram",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Talgram",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Talgram",
+      "phones": [],
+      "email": "bdo.talgram.knj@gmail.com",
+      "covers": [
+        "talgram"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-ado-talgram",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Talgram",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Talgram",
+      "phones": [],
+      "covers": [
+        "talgram"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-bdo-chhibramau",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chhibramau",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chhibramau",
+      "phones": [],
+      "email": "bdo.chhibramau.knj@gmail.com",
+      "covers": [
+        "chhibramau"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-ado-chhibramau",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chhibramau",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chhibramau",
+      "phones": [],
+      "covers": [
+        "chhibramau"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-bdo-saurikh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Saurikh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Saurikh",
+      "phones": [],
+      "email": "bdo.saurikh.knj@gmail.com",
+      "covers": [
+        "saurikh"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-ado-saurikh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Saurikh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Saurikh",
+      "phones": [],
+      "covers": [
+        "saurikh"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-bdo-tirwa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Tirwa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tirwa",
+      "phones": [],
+      "email": "bdo.tirwa.knj@gmail.com",
+      "covers": [
+        "tirwa"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-ado-tirwa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Tirwa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Tirwa",
+      "phones": [],
+      "covers": [
+        "tirwa"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-bdo-haseran",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Haseran",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Haseran",
+      "phones": [],
+      "email": "bdo.haseran.knj@gmail.com",
+      "covers": [
+        "haseran"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kannauj-ado-haseran",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Haseran",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Haseran",
+      "phones": [],
+      "covers": [
+        "haseran"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-kannauj-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Kannauj",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका कन्नौज",
+      "phones": [],
+      "covers": [
+        "ulb-kannauj-main"
+      ],
+      "source_url": "https://kannauj.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

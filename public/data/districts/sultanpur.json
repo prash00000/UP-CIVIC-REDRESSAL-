@@ -1,0 +1,531 @@
+{
+  "district_id": "sultanpur",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-sultanpur-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Sultanpur",
+      "office_name_hi": "कार्यालय जिलाधिकारी, सुल्तानपुर",
+      "phones": [],
+      "email": "dmsln@nic.in",
+      "covers": [
+        "sultanpur"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Sultanpur",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), सुल्तानपुर",
+      "phones": [],
+      "email": "cdo.sln-up@gov.in",
+      "covers": [
+        "sultanpur"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Sultanpur",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, सुल्तानपुर",
+      "phones": [],
+      "email": "dpro-sln@nic.in",
+      "covers": [
+        "sultanpur"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [],
+      "email": "sdm.sadar.sln-up@gov.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-sdm-kadipur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kadipur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kadipur",
+      "phones": [],
+      "email": "sdm.kadipur.sln-up@gov.in",
+      "covers": [
+        "kadipur"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-sdm-jaisinghpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Jaisinghpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Jaisinghpur",
+      "phones": [],
+      "email": "sdm.jaisinghpur.sln-up@gov.in",
+      "covers": [
+        "jaisinghpur"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-sdm-lambhua",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Lambhua",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Lambhua",
+      "phones": [],
+      "email": "sdm.lambhua.sln-up@gov.in",
+      "covers": [
+        "lambhua"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-bdo-dubeypur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dubeypur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dubeypur",
+      "phones": [],
+      "email": "bdo.dubeypur.sln@gmail.com",
+      "covers": [
+        "dubeypur"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-ado-dubeypur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dubeypur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dubeypur",
+      "phones": [],
+      "covers": [
+        "dubeypur"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-bdo-kurebhar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kurebhar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kurebhar",
+      "phones": [],
+      "email": "bdo.kurebhar.sln@gmail.com",
+      "covers": [
+        "kurebhar"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-ado-kurebhar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kurebhar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kurebhar",
+      "phones": [],
+      "covers": [
+        "kurebhar"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-bdo-jaisinghpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jaisinghpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jaisinghpur",
+      "phones": [],
+      "email": "bdo.jaisinghpur.sln@gmail.com",
+      "covers": [
+        "jaisinghpur"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-ado-jaisinghpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jaisinghpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jaisinghpur",
+      "phones": [],
+      "covers": [
+        "jaisinghpur"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-bdo-dostpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dostpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dostpur",
+      "phones": [],
+      "email": "bdo.dostpur.sln@gmail.com",
+      "covers": [
+        "dostpur"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-ado-dostpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dostpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dostpur",
+      "phones": [],
+      "covers": [
+        "dostpur"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-bdo-akhand-nagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Akhand Nagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Akhand Nagar",
+      "phones": [],
+      "email": "bdo.akhandnagar.sln@gmail.com",
+      "covers": [
+        "akhand-nagar"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-ado-akhand-nagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Akhand Nagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Akhand Nagar",
+      "phones": [],
+      "covers": [
+        "akhand-nagar"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-bdo-kadipur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kadipur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kadipur",
+      "phones": [],
+      "email": "bdo.kadipur.sln@gmail.com",
+      "covers": [
+        "kadipur"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-ado-kadipur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kadipur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kadipur",
+      "phones": [],
+      "covers": [
+        "kadipur"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-bdo-karaundi-kala",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Karaundi Kala",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Karaundi Kala",
+      "phones": [],
+      "email": "bdo.karaundikala.sln@gmail.com",
+      "covers": [
+        "karaundi-kala"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-ado-karaundi-kala",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Karaundi Kala",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Karaundi Kala",
+      "phones": [],
+      "covers": [
+        "karaundi-kala"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-bdo-lambhua",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Lambhua",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Lambhua",
+      "phones": [],
+      "email": "bdo.lambhua.sln@gmail.com",
+      "covers": [
+        "lambhua"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-ado-lambhua",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Lambhua",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Lambhua",
+      "phones": [],
+      "covers": [
+        "lambhua"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-bdo-pratappur-kamaicha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pratappur Kamaicha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pratappur Kamaicha",
+      "phones": [],
+      "email": "bdo.pratappurkamaicha.sln@gmail.com",
+      "covers": [
+        "pratappur-kamaicha"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-ado-pratappur-kamaicha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pratappur Kamaicha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pratappur Kamaicha",
+      "phones": [],
+      "covers": [
+        "pratappur-kamaicha"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-bdo-bhadaiya",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhadaiya",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhadaiya",
+      "phones": [],
+      "email": "bdo.bhadaiya.sln@gmail.com",
+      "covers": [
+        "bhadaiya"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-ado-bhadaiya",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhadaiya",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhadaiya",
+      "phones": [],
+      "covers": [
+        "bhadaiya"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-bdo-motigarpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Motigarpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Motigarpur",
+      "phones": [],
+      "email": "bdo.motigarpur.sln@gmail.com",
+      "covers": [
+        "motigarpur"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-ado-motigarpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Motigarpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Motigarpur",
+      "phones": [],
+      "covers": [
+        "motigarpur"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-bdo-kudwar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kudwar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kudwar",
+      "phones": [],
+      "email": "bdo.kudwar.sln@gmail.com",
+      "covers": [
+        "kudwar"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-ado-kudwar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kudwar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kudwar",
+      "phones": [],
+      "covers": [
+        "kudwar"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-bdo-dhanpatganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dhanpatganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dhanpatganj",
+      "phones": [],
+      "email": "bdo.dhanpatganj.sln@gmail.com",
+      "covers": [
+        "dhanpatganj"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-ado-dhanpatganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dhanpatganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dhanpatganj",
+      "phones": [],
+      "covers": [
+        "dhanpatganj"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-bdo-baldirai",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Baldirai",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Baldirai",
+      "phones": [],
+      "email": "bdo.baldirai.sln@gmail.com",
+      "covers": [
+        "baldirai"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sultanpur-ado-baldirai",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Baldirai",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Baldirai",
+      "phones": [],
+      "covers": [
+        "baldirai"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-sultanpur-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Sultanpur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका सुल्तानपुर",
+      "phones": [],
+      "covers": [
+        "ulb-sultanpur-main"
+      ],
+      "source_url": "https://sultanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

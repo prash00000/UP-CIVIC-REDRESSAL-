@@ -1,0 +1,649 @@
+{
+  "district_id": "pratapgarh",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-pratapgarh-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Pratapgarh",
+      "office_name_hi": "कार्यालय जिलाधिकारी, प्रतापगढ़",
+      "phones": [
+        {
+          "number": "9454417520",
+          "type": "office",
+          "source_url": "https://pratapgarh.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmpra@nic.in",
+      "covers": [
+        "pratapgarh"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Pratapgarh",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), प्रतापगढ़",
+      "phones": [
+        {
+          "number": "9454465541",
+          "type": "office",
+          "source_url": "https://pratapgarh.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "drda-pra@nic.in",
+      "covers": [
+        "pratapgarh"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Pratapgarh",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, प्रतापगढ़",
+      "phones": [],
+      "email": "dpro-prt@nic.in",
+      "covers": [
+        "pratapgarh"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [],
+      "email": "sdm.sadar.prt-up@gov.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-sdm-kunda",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kunda",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kunda",
+      "phones": [],
+      "email": "sdm.kunda.prt-up@gov.in",
+      "covers": [
+        "kunda"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-sdm-lalganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Lalganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Lalganj",
+      "phones": [],
+      "email": "sdm.lalganj.prt-up@gov.in",
+      "covers": [
+        "lalganj"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-sdm-patti",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Patti",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Patti",
+      "phones": [],
+      "email": "sdm.patti.prt-up@gov.in",
+      "covers": [
+        "patti"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-sdm-raniganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Raniganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Raniganj",
+      "phones": [],
+      "email": "sdm.raniganj.prt-up@gov.in",
+      "covers": [
+        "raniganj"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-bdo-sadar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sadar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sadar",
+      "phones": [],
+      "email": "bdo.sadar.prt@gmail.com",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-ado-sadar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sadar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sadar",
+      "phones": [],
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-bdo-mandhata",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mandhata",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mandhata",
+      "phones": [],
+      "email": "bdo.mandhata.prt@gmail.com",
+      "covers": [
+        "mandhata"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-ado-mandhata",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mandhata",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mandhata",
+      "phones": [],
+      "covers": [
+        "mandhata"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-bdo-sandwa-chandrika",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sandwa Chandrika",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sandwa Chandrika",
+      "phones": [],
+      "email": "bdo.sandwachandrika.prt@gmail.com",
+      "covers": [
+        "sandwa-chandrika"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-ado-sandwa-chandrika",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sandwa Chandrika",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sandwa Chandrika",
+      "phones": [],
+      "covers": [
+        "sandwa-chandrika"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-bdo-laxmanpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Laxmanpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Laxmanpur",
+      "phones": [],
+      "email": "bdo.laxmanpur.prt@gmail.com",
+      "covers": [
+        "laxmanpur"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-ado-laxmanpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Laxmanpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Laxmanpur",
+      "phones": [],
+      "covers": [
+        "laxmanpur"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-bdo-sangramgarh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sangramgarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sangramgarh",
+      "phones": [],
+      "email": "bdo.sangramgarh.prt@gmail.com",
+      "covers": [
+        "sangramgarh"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-ado-sangramgarh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sangramgarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sangramgarh",
+      "phones": [],
+      "covers": [
+        "sangramgarh"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-bdo-babaganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Babaganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Babaganj",
+      "phones": [],
+      "email": "bdo.babaganj.prt@gmail.com",
+      "covers": [
+        "babaganj"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-ado-babaganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Babaganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Babaganj",
+      "phones": [],
+      "covers": [
+        "babaganj"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-bdo-kunda",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kunda",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kunda",
+      "phones": [],
+      "email": "bdo.kunda.prt@gmail.com",
+      "covers": [
+        "kunda"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-ado-kunda",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kunda",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kunda",
+      "phones": [],
+      "covers": [
+        "kunda"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-bdo-bihar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bihar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bihar",
+      "phones": [],
+      "email": "bdo.bihar.prt@gmail.com",
+      "covers": [
+        "bihar"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-ado-bihar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bihar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bihar",
+      "phones": [],
+      "covers": [
+        "bihar"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-bdo-lalganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Lalganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Lalganj",
+      "phones": [],
+      "email": "bdo.lalganj.prt@gmail.com",
+      "covers": [
+        "lalganj"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-ado-lalganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Lalganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Lalganj",
+      "phones": [],
+      "covers": [
+        "lalganj"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-bdo-rampur-sangramgarh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rampur Sangramgarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rampur Sangramgarh",
+      "phones": [],
+      "email": "bdo.rampursangramgarh.prt@gmail.com",
+      "covers": [
+        "rampur-sangramgarh"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-ado-rampur-sangramgarh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rampur Sangramgarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rampur Sangramgarh",
+      "phones": [],
+      "covers": [
+        "rampur-sangramgarh"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-bdo-patti",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Patti",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Patti",
+      "phones": [],
+      "email": "bdo.patti.prt@gmail.com",
+      "covers": [
+        "patti"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-ado-patti",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Patti",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Patti",
+      "phones": [],
+      "covers": [
+        "patti"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-bdo-aspur-deosara",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Aspur Deosara",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Aspur Deosara",
+      "phones": [],
+      "email": "bdo.aspurdeosara.prt@gmail.com",
+      "covers": [
+        "aspur-deosara"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-ado-aspur-deosara",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Aspur Deosara",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Aspur Deosara",
+      "phones": [],
+      "covers": [
+        "aspur-deosara"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-bdo-magraura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Magraura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Magraura",
+      "phones": [],
+      "email": "bdo.magraura.prt@gmail.com",
+      "covers": [
+        "magraura"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-ado-magraura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Magraura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Magraura",
+      "phones": [],
+      "covers": [
+        "magraura"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-bdo-gaura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gaura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gaura",
+      "phones": [],
+      "email": "bdo.gaura.prt@gmail.com",
+      "covers": [
+        "gaura"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-ado-gaura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gaura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gaura",
+      "phones": [],
+      "covers": [
+        "gaura"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-bdo-shivgarh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Shivgarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shivgarh",
+      "phones": [],
+      "email": "bdo.shivgarh.prt@gmail.com",
+      "covers": [
+        "shivgarh"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-ado-shivgarh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Shivgarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shivgarh",
+      "phones": [],
+      "covers": [
+        "shivgarh"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-bdo-belha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Belha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Belha",
+      "phones": [],
+      "email": "bdo.belha.prt@gmail.com",
+      "covers": [
+        "belha"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-ado-belha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Belha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Belha",
+      "phones": [],
+      "covers": [
+        "belha"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-bdo-kalyanpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kalyanpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kalyanpur",
+      "phones": [],
+      "email": "bdo.kalyanpur.prt@gmail.com",
+      "covers": [
+        "kalyanpur"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-pratapgarh-ado-kalyanpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kalyanpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kalyanpur",
+      "phones": [],
+      "covers": [
+        "kalyanpur"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-pratapgarh-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Pratapgarh",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका प्रतापगढ़",
+      "phones": [],
+      "covers": [
+        "ulb-pratapgarh-main"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

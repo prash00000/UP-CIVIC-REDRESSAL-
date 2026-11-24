@@ -1,0 +1,569 @@
+{
+  "district_id": "bahraich",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-bahraich-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Bahraich",
+      "office_name_hi": "कार्यालय जिलाधिकारी, बहराइच",
+      "phones": [
+        {
+          "number": "9194544175",
+          "type": "office",
+          "source_url": "https://bahraich.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmbeh@nic.in",
+      "covers": [
+        "bahraich"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Bahraich",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), बहराइच",
+      "phones": [],
+      "email": "cdo.bhc-up@gov.in",
+      "covers": [
+        "bahraich"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Bahraich",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, बहराइच",
+      "phones": [],
+      "email": "dpro-bhc@nic.in",
+      "covers": [
+        "bahraich"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [],
+      "email": "sdm.sadar.bhc-up@gov.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-sdm-nanpara",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Nanpara",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Nanpara",
+      "phones": [],
+      "email": "sdm.nanpara.bhc-up@gov.in",
+      "covers": [
+        "nanpara"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-sdm-kaisarganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kaisarganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kaisarganj",
+      "phones": [],
+      "email": "sdm.kaisarganj.bhc-up@gov.in",
+      "covers": [
+        "kaisarganj"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-sdm-mahasi",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mahasi",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mahasi",
+      "phones": [],
+      "email": "sdm.mahasi.bhc-up@gov.in",
+      "covers": [
+        "mahasi"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-sdm-payagpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Payagpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Payagpur",
+      "phones": [],
+      "email": "sdm.payagpur.bhc-up@gov.in",
+      "covers": [
+        "payagpur"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-sdm-mihinpurwa",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mihinpurwa",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mihinpurwa",
+      "phones": [],
+      "email": "sdm.mihinpurwa.bhc-up@gov.in",
+      "covers": [
+        "mihinpurwa"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-bdo-chittaura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chittaura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chittaura",
+      "phones": [],
+      "email": "bdo.chittaura.bhc@gmail.com",
+      "covers": [
+        "chittaura"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-ado-chittaura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chittaura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chittaura",
+      "phones": [],
+      "covers": [
+        "chittaura"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-bdo-visheshwarganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Visheshwarganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Visheshwarganj",
+      "phones": [],
+      "email": "bdo.visheshwarganj.bhc@gmail.com",
+      "covers": [
+        "visheshwarganj"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-ado-visheshwarganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Visheshwarganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Visheshwarganj",
+      "phones": [],
+      "covers": [
+        "visheshwarganj"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-bdo-payagpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Payagpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Payagpur",
+      "phones": [],
+      "email": "bdo.payagpur.bhc@gmail.com",
+      "covers": [
+        "payagpur"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-ado-payagpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Payagpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Payagpur",
+      "phones": [],
+      "covers": [
+        "payagpur"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-bdo-huzoorpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Huzoorpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Huzoorpur",
+      "phones": [],
+      "email": "bdo.huzoorpur.bhc@gmail.com",
+      "covers": [
+        "huzoorpur"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-ado-huzoorpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Huzoorpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Huzoorpur",
+      "phones": [],
+      "covers": [
+        "huzoorpur"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-bdo-kaisarganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kaisarganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kaisarganj",
+      "phones": [],
+      "email": "bdo.kaisarganj.bhc@gmail.com",
+      "covers": [
+        "kaisarganj"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-ado-kaisarganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kaisarganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kaisarganj",
+      "phones": [],
+      "covers": [
+        "kaisarganj"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-bdo-jarwal",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jarwal",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jarwal",
+      "phones": [],
+      "email": "bdo.jarwal.bhc@gmail.com",
+      "covers": [
+        "jarwal"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-ado-jarwal",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jarwal",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jarwal",
+      "phones": [],
+      "covers": [
+        "jarwal"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-bdo-fakharpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Fakharpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Fakharpur",
+      "phones": [],
+      "email": "bdo.fakharpur.bhc@gmail.com",
+      "covers": [
+        "fakharpur"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-ado-fakharpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Fakharpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Fakharpur",
+      "phones": [],
+      "covers": [
+        "fakharpur"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-bdo-tajwapur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Tajwapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tajwapur",
+      "phones": [],
+      "email": "bdo.tajwapur.bhc@gmail.com",
+      "covers": [
+        "tajwapur"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-ado-tajwapur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Tajwapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Tajwapur",
+      "phones": [],
+      "covers": [
+        "tajwapur"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-bdo-mahasi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mahasi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mahasi",
+      "phones": [],
+      "email": "bdo.mahasi.bhc@gmail.com",
+      "covers": [
+        "mahasi"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-ado-mahasi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mahasi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mahasi",
+      "phones": [],
+      "covers": [
+        "mahasi"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-bdo-shivpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Shivpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shivpur",
+      "phones": [],
+      "email": "bdo.shivpur.bhc@gmail.com",
+      "covers": [
+        "shivpur"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-ado-shivpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Shivpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shivpur",
+      "phones": [],
+      "covers": [
+        "shivpur"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-bdo-nanpara",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nanpara",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nanpara",
+      "phones": [],
+      "email": "bdo.nanpara.bhc@gmail.com",
+      "covers": [
+        "nanpara"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-ado-nanpara",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nanpara",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nanpara",
+      "phones": [],
+      "covers": [
+        "nanpara"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-bdo-bawabganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bawabganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bawabganj",
+      "phones": [],
+      "email": "bdo.bawabganj.bhc@gmail.com",
+      "covers": [
+        "bawabganj"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-ado-bawabganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bawabganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bawabganj",
+      "phones": [],
+      "covers": [
+        "bawabganj"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-bdo-mihinpurwa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mihinpurwa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mihinpurwa",
+      "phones": [],
+      "email": "bdo.mihinpurwa.bhc@gmail.com",
+      "covers": [
+        "mihinpurwa"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-ado-mihinpurwa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mihinpurwa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mihinpurwa",
+      "phones": [],
+      "covers": [
+        "mihinpurwa"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-bdo-risia",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Risia",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Risia",
+      "phones": [],
+      "email": "bdo.risia.bhc@gmail.com",
+      "covers": [
+        "risia"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bahraich-ado-risia",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Risia",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Risia",
+      "phones": [],
+      "covers": [
+        "risia"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-bahraich-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Bahraich",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका बहराइच",
+      "phones": [],
+      "covers": [
+        "ulb-bahraich-main"
+      ],
+      "source_url": "https://bahraich.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

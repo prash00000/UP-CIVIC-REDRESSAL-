@@ -1,0 +1,548 @@
+{
+  "district_id": "kushinagar",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-kushinagar-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Kushinagar",
+      "office_name_hi": "कार्यालय जिलाधिकारी, कुशीनगर",
+      "officer_name_en": "Shri Sanjay Chauhan IAS (DM).",
+      "phones": [
+        {
+          "number": "9454417545",
+          "type": "office",
+          "source_url": "https://kushinagar.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmkus@nic.in",
+      "covers": [
+        "kushinagar"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Kushinagar",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), कुशीनगर",
+      "phones": [
+        {
+          "number": "9454416297",
+          "type": "office",
+          "source_url": "https://kushinagar.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo-kus@up.gov.in",
+      "covers": [
+        "kushinagar"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Kushinagar",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, कुशीनगर",
+      "phones": [],
+      "email": "dpro-kush@nic.in",
+      "covers": [
+        "kushinagar"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-sdm-padrauna",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Padrauna",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Padrauna",
+      "phones": [],
+      "email": "sdm.padrauna.kush-up@gov.in",
+      "covers": [
+        "padrauna"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-sdm-hata",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Hata",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Hata",
+      "phones": [],
+      "email": "sdm.hata.kush-up@gov.in",
+      "covers": [
+        "hata"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-sdm-tamkuhi-raj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Tamkuhi Raj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Tamkuhi Raj",
+      "phones": [],
+      "email": "sdm.tamkuhiraj.kush-up@gov.in",
+      "covers": [
+        "tamkuhi-raj"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-sdm-kasia",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kasia",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kasia",
+      "phones": [],
+      "email": "sdm.kasia.kush-up@gov.in",
+      "covers": [
+        "kasia"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-bdo-padrauna",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Padrauna",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Padrauna",
+      "phones": [],
+      "email": "bdo.padrauna.kush@gmail.com",
+      "covers": [
+        "padrauna"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-ado-padrauna",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Padrauna",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Padrauna",
+      "phones": [],
+      "covers": [
+        "padrauna"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-bdo-vishunpura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Vishunpura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Vishunpura",
+      "phones": [],
+      "email": "bdo.vishunpura.kush@gmail.com",
+      "covers": [
+        "vishunpura"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-ado-vishunpura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Vishunpura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Vishunpura",
+      "phones": [],
+      "covers": [
+        "vishunpura"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-bdo-nebua-naurangiya",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nebua Naurangiya",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nebua Naurangiya",
+      "phones": [],
+      "email": "bdo.nebuanaurangiya.kush@gmail.com",
+      "covers": [
+        "nebua-naurangiya"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-ado-nebua-naurangiya",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nebua Naurangiya",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nebua Naurangiya",
+      "phones": [],
+      "covers": [
+        "nebua-naurangiya"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-bdo-khadda",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Khadda",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khadda",
+      "phones": [],
+      "email": "bdo.khadda.kush@gmail.com",
+      "covers": [
+        "khadda"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-ado-khadda",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Khadda",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Khadda",
+      "phones": [],
+      "covers": [
+        "khadda"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-bdo-kasia",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kasia",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kasia",
+      "phones": [],
+      "email": "bdo.kasia.kush@gmail.com",
+      "covers": [
+        "kasia"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-ado-kasia",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kasia",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kasia",
+      "phones": [],
+      "covers": [
+        "kasia"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-bdo-fazilnagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Fazilnagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Fazilnagar",
+      "phones": [],
+      "email": "bdo.fazilnagar.kush@gmail.com",
+      "covers": [
+        "fazilnagar"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-ado-fazilnagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Fazilnagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Fazilnagar",
+      "phones": [],
+      "covers": [
+        "fazilnagar"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-bdo-hata",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Hata",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hata",
+      "phones": [],
+      "email": "bdo.hata.kush@gmail.com",
+      "covers": [
+        "hata"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-ado-hata",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Hata",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Hata",
+      "phones": [],
+      "covers": [
+        "hata"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-bdo-kaptanganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kaptanganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kaptanganj",
+      "phones": [],
+      "email": "bdo.kaptanganj.kush@gmail.com",
+      "covers": [
+        "kaptanganj"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-ado-kaptanganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kaptanganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kaptanganj",
+      "phones": [],
+      "covers": [
+        "kaptanganj"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-bdo-motichak",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Motichak",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Motichak",
+      "phones": [],
+      "email": "bdo.motichak.kush@gmail.com",
+      "covers": [
+        "motichak"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-ado-motichak",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Motichak",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Motichak",
+      "phones": [],
+      "covers": [
+        "motichak"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-bdo-sukrauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sukrauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sukrauli",
+      "phones": [],
+      "email": "bdo.sukrauli.kush@gmail.com",
+      "covers": [
+        "sukrauli"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-ado-sukrauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sukrauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sukrauli",
+      "phones": [],
+      "covers": [
+        "sukrauli"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-bdo-tamkuhi-raj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Tamkuhi Raj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tamkuhi Raj",
+      "phones": [],
+      "email": "bdo.tamkuhiraj.kush@gmail.com",
+      "covers": [
+        "tamkuhi-raj"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-ado-tamkuhi-raj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Tamkuhi Raj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Tamkuhi Raj",
+      "phones": [],
+      "covers": [
+        "tamkuhi-raj"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-bdo-seorahi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Seorahi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Seorahi",
+      "phones": [],
+      "email": "bdo.seorahi.kush@gmail.com",
+      "covers": [
+        "seorahi"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-ado-seorahi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Seorahi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Seorahi",
+      "phones": [],
+      "covers": [
+        "seorahi"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-bdo-dudhai",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dudhai",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dudhai",
+      "phones": [],
+      "email": "bdo.dudhai.kush@gmail.com",
+      "covers": [
+        "dudhai"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-ado-dudhai",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dudhai",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dudhai",
+      "phones": [],
+      "covers": [
+        "dudhai"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-bdo-ramkola",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ramkola",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ramkola",
+      "phones": [],
+      "email": "bdo.ramkola.kush@gmail.com",
+      "covers": [
+        "ramkola"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kushinagar-ado-ramkola",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ramkola",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ramkola",
+      "phones": [],
+      "covers": [
+        "ramkola"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-kushinagar-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Kushinagar",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका कुशीनगर",
+      "phones": [],
+      "covers": [
+        "ulb-kushinagar-main"
+      ],
+      "source_url": "https://kushinagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

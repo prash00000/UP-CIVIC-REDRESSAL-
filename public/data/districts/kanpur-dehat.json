@@ -1,0 +1,462 @@
+{
+  "district_id": "kanpur-dehat",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-kanpur-dehat-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Kanpur Dehat",
+      "office_name_hi": "कार्यालय जिलाधिकारी, कानपुर देहात",
+      "officer_name_en": "Mr. Kapil Singh I.A.S.",
+      "phones": [
+        {
+          "number": "9454417553",
+          "type": "office",
+          "source_url": "https://kanpur-dehat.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmkan@nic.in",
+      "covers": [
+        "kanpur-dehat"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Kanpur Dehat",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), कानपुर देहात",
+      "phones": [
+        {
+          "number": "9454465006",
+          "type": "office",
+          "source_url": "https://kanpur-dehat.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdokan@nic.in",
+      "covers": [
+        "kanpur-dehat"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Kanpur Dehat",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, कानपुर देहात",
+      "phones": [],
+      "email": "dpro-kand@nic.in",
+      "covers": [
+        "kanpur-dehat"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-sdm-akbarpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Akbarpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Akbarpur",
+      "phones": [],
+      "email": "sdm.akbarpur.kand-up@gov.in",
+      "covers": [
+        "akbarpur"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-sdm-bhoganipur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bhoganipur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bhoganipur",
+      "phones": [],
+      "email": "sdm.bhoganipur.kand-up@gov.in",
+      "covers": [
+        "bhoganipur"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-sdm-derapur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Derapur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Derapur",
+      "phones": [],
+      "email": "sdm.derapur.kand-up@gov.in",
+      "covers": [
+        "derapur"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-sdm-rasulabad",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Rasulabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Rasulabad",
+      "phones": [],
+      "email": "sdm.rasulabad.kand-up@gov.in",
+      "covers": [
+        "rasulabad"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-sdm-sikandra",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sikandra",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sikandra",
+      "phones": [],
+      "email": "sdm.sikandra.kand-up@gov.in",
+      "covers": [
+        "sikandra"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-sdm-maitha",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Maitha",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Maitha",
+      "phones": [],
+      "email": "sdm.maitha.kand-up@gov.in",
+      "covers": [
+        "maitha"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-bdo-akbarpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Akbarpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Akbarpur",
+      "phones": [],
+      "email": "bdo.akbarpur.kand@gmail.com",
+      "covers": [
+        "akbarpur"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-ado-akbarpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Akbarpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Akbarpur",
+      "phones": [],
+      "covers": [
+        "akbarpur"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-bdo-sarbankhera",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sarbankhera",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sarbankhera",
+      "phones": [],
+      "email": "bdo.sarbankhera.kand@gmail.com",
+      "covers": [
+        "sarbankhera"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-ado-sarbankhera",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sarbankhera",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sarbankhera",
+      "phones": [],
+      "covers": [
+        "sarbankhera"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-bdo-malasa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Malasa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Malasa",
+      "phones": [],
+      "email": "bdo.malasa.kand@gmail.com",
+      "covers": [
+        "malasa"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-ado-malasa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Malasa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Malasa",
+      "phones": [],
+      "covers": [
+        "malasa"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-bdo-amraudha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Amraudha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Amraudha",
+      "phones": [],
+      "email": "bdo.amraudha.kand@gmail.com",
+      "covers": [
+        "amraudha"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-ado-amraudha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Amraudha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Amraudha",
+      "phones": [],
+      "covers": [
+        "amraudha"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-bdo-rajpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rajpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rajpur",
+      "phones": [],
+      "email": "bdo.rajpur.kand@gmail.com",
+      "covers": [
+        "rajpur"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-ado-rajpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rajpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rajpur",
+      "phones": [],
+      "covers": [
+        "rajpur"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-bdo-derapur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Derapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Derapur",
+      "phones": [],
+      "email": "bdo.derapur.kand@gmail.com",
+      "covers": [
+        "derapur"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-ado-derapur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Derapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Derapur",
+      "phones": [],
+      "covers": [
+        "derapur"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-bdo-jhinjhak",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jhinjhak",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jhinjhak",
+      "phones": [],
+      "email": "bdo.jhinjhak.kand@gmail.com",
+      "covers": [
+        "jhinjhak"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-ado-jhinjhak",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jhinjhak",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jhinjhak",
+      "phones": [],
+      "covers": [
+        "jhinjhak"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-bdo-rasulabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rasulabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rasulabad",
+      "phones": [],
+      "email": "bdo.rasulabad.kand@gmail.com",
+      "covers": [
+        "rasulabad"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-ado-rasulabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rasulabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rasulabad",
+      "phones": [],
+      "covers": [
+        "rasulabad"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-bdo-sikandra",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sikandra",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sikandra",
+      "phones": [],
+      "email": "bdo.sikandra.kand@gmail.com",
+      "covers": [
+        "sikandra"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-ado-sikandra",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sikandra",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sikandra",
+      "phones": [],
+      "covers": [
+        "sikandra"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-bdo-sandalpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sandalpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sandalpur",
+      "phones": [],
+      "email": "bdo.sandalpur.kand@gmail.com",
+      "covers": [
+        "sandalpur"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-dehat-ado-sandalpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sandalpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sandalpur",
+      "phones": [],
+      "covers": [
+        "sandalpur"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-kanpur-dehat-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Kanpur Dehat",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका कानपुर देहात",
+      "phones": [],
+      "covers": [
+        "ulb-kanpur-dehat-main"
+      ],
+      "source_url": "https://kanpur-dehat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

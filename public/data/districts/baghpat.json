@@ -1,0 +1,284 @@
+{
+  "district_id": "baghpat",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-baghpat-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Baghpat",
+      "office_name_hi": "कार्यालय जिलाधिकारी, बागपत",
+      "phones": [],
+      "email": "dmbgp@nic.in",
+      "covers": [
+        "baghpat"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-baghpat-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Baghpat",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), बागपत",
+      "phones": [],
+      "email": "cdo.bgp-up@gov.in",
+      "covers": [
+        "baghpat"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-baghpat-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Baghpat",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, बागपत",
+      "phones": [],
+      "email": "dpro-bgp@nic.in",
+      "covers": [
+        "baghpat"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-baghpat-sdm-baghpat",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Baghpat",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Baghpat",
+      "phones": [],
+      "email": "sdm.baghpat.bgp-up@gov.in",
+      "covers": [
+        "baghpat"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-baghpat-sdm-baraut",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Baraut",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Baraut",
+      "phones": [],
+      "email": "sdm.baraut.bgp-up@gov.in",
+      "covers": [
+        "baraut"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-baghpat-sdm-khekra",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Khekra",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Khekra",
+      "phones": [],
+      "email": "sdm.khekra.bgp-up@gov.in",
+      "covers": [
+        "khekra"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-baghpat-bdo-baghpat",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Baghpat",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Baghpat",
+      "phones": [],
+      "email": "bdo.baghpat.bgp@gmail.com",
+      "covers": [
+        "baghpat"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-baghpat-ado-baghpat",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Baghpat",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Baghpat",
+      "phones": [],
+      "covers": [
+        "baghpat"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-baghpat-bdo-baraut",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Baraut",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Baraut",
+      "phones": [],
+      "email": "bdo.baraut.bgp@gmail.com",
+      "covers": [
+        "baraut"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-baghpat-ado-baraut",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Baraut",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Baraut",
+      "phones": [],
+      "covers": [
+        "baraut"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-baghpat-bdo-binauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Binauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Binauli",
+      "phones": [],
+      "email": "bdo.binauli.bgp@gmail.com",
+      "covers": [
+        "binauli"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-baghpat-ado-binauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Binauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Binauli",
+      "phones": [],
+      "covers": [
+        "binauli"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-baghpat-bdo-chhaprauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chhaprauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chhaprauli",
+      "phones": [],
+      "email": "bdo.chhaprauli.bgp@gmail.com",
+      "covers": [
+        "chhaprauli"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-baghpat-ado-chhaprauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chhaprauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chhaprauli",
+      "phones": [],
+      "covers": [
+        "chhaprauli"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-baghpat-bdo-khekra",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Khekra",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khekra",
+      "phones": [],
+      "email": "bdo.khekra.bgp@gmail.com",
+      "covers": [
+        "khekra"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-baghpat-ado-khekra",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Khekra",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Khekra",
+      "phones": [],
+      "covers": [
+        "khekra"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-baghpat-bdo-pilana",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pilana",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pilana",
+      "phones": [],
+      "email": "bdo.pilana.bgp@gmail.com",
+      "covers": [
+        "pilana"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-baghpat-ado-pilana",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pilana",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pilana",
+      "phones": [],
+      "covers": [
+        "pilana"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-baghpat-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Baghpat",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका बागपत",
+      "phones": [],
+      "covers": [
+        "ulb-baghpat-main"
+      ],
+      "source_url": "https://baghpat.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

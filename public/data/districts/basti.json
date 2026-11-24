@@ -1,0 +1,577 @@
+{
+  "district_id": "basti",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-basti-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Basti",
+      "office_name_hi": "कार्यालय जिलाधिकारी, बस्ती",
+      "officer_name_en": "1",
+      "phones": [
+        {
+          "number": "05542-247155",
+          "type": "office",
+          "source_url": "https://basti.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmbas@nic.in",
+      "covers": [
+        "basti"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Basti",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), बस्ती",
+      "phones": [
+        {
+          "number": "05542-247145",
+          "type": "office",
+          "source_url": "https://basti.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdobasti@nic.in",
+      "covers": [
+        "basti"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Basti",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, बस्ती",
+      "phones": [],
+      "email": "dpro-bst@nic.in",
+      "covers": [
+        "basti"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [],
+      "email": "sdm.sadar.bst-up@gov.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-sdm-harraiya",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Harraiya",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Harraiya",
+      "phones": [],
+      "email": "sdm.harraiya.bst-up@gov.in",
+      "covers": [
+        "harraiya"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-sdm-bhanpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bhanpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bhanpur",
+      "phones": [],
+      "email": "sdm.bhanpur.bst-up@gov.in",
+      "covers": [
+        "bhanpur"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-sdm-rudhauli",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Rudhauli",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Rudhauli",
+      "phones": [],
+      "email": "sdm.rudhauli.bst-up@gov.in",
+      "covers": [
+        "rudhauli"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-bdo-basti-sadar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Basti Sadar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Basti Sadar",
+      "phones": [],
+      "email": "bdo.bastisadar.bst@gmail.com",
+      "covers": [
+        "basti-sadar"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-ado-basti-sadar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Basti Sadar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Basti Sadar",
+      "phones": [],
+      "covers": [
+        "basti-sadar"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-bdo-bahadurpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bahadurpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bahadurpur",
+      "phones": [],
+      "email": "bdo.bahadurpur.bst@gmail.com",
+      "covers": [
+        "bahadurpur"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-ado-bahadurpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bahadurpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bahadurpur",
+      "phones": [],
+      "covers": [
+        "bahadurpur"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-bdo-bankati",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bankati",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bankati",
+      "phones": [],
+      "email": "bdo.bankati.bst@gmail.com",
+      "covers": [
+        "bankati"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-ado-bankati",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bankati",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bankati",
+      "phones": [],
+      "covers": [
+        "bankati"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-bdo-kaptanganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kaptanganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kaptanganj",
+      "phones": [],
+      "email": "bdo.kaptanganj.bst@gmail.com",
+      "covers": [
+        "kaptanganj"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-ado-kaptanganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kaptanganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kaptanganj",
+      "phones": [],
+      "covers": [
+        "kaptanganj"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-bdo-kudraha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kudraha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kudraha",
+      "phones": [],
+      "email": "bdo.kudraha.bst@gmail.com",
+      "covers": [
+        "kudraha"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-ado-kudraha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kudraha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kudraha",
+      "phones": [],
+      "covers": [
+        "kudraha"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-bdo-rampur-manjhari",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rampur Manjhari",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rampur Manjhari",
+      "phones": [],
+      "email": "bdo.rampurmanjhari.bst@gmail.com",
+      "covers": [
+        "rampur-manjhari"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-ado-rampur-manjhari",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rampur Manjhari",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rampur Manjhari",
+      "phones": [],
+      "covers": [
+        "rampur-manjhari"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-bdo-saunghat",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Saunghat",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Saunghat",
+      "phones": [],
+      "email": "bdo.saunghat.bst@gmail.com",
+      "covers": [
+        "saunghat"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-ado-saunghat",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Saunghat",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Saunghat",
+      "phones": [],
+      "covers": [
+        "saunghat"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-bdo-harraiya",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Harraiya",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Harraiya",
+      "phones": [],
+      "email": "bdo.harraiya.bst@gmail.com",
+      "covers": [
+        "harraiya"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-ado-harraiya",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Harraiya",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Harraiya",
+      "phones": [],
+      "covers": [
+        "harraiya"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-bdo-vikram-jot",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Vikram Jot",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Vikram Jot",
+      "phones": [],
+      "email": "bdo.vikramjot.bst@gmail.com",
+      "covers": [
+        "vikram-jot"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-ado-vikram-jot",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Vikram Jot",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Vikram Jot",
+      "phones": [],
+      "covers": [
+        "vikram-jot"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-bdo-paras-rampur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Paras Rampur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Paras Rampur",
+      "phones": [],
+      "email": "bdo.parasrampur.bst@gmail.com",
+      "covers": [
+        "paras-rampur"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-ado-paras-rampur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Paras Rampur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Paras Rampur",
+      "phones": [],
+      "covers": [
+        "paras-rampur"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-bdo-gaur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gaur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gaur",
+      "phones": [],
+      "email": "bdo.gaur.bst@gmail.com",
+      "covers": [
+        "gaur"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-ado-gaur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gaur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gaur",
+      "phones": [],
+      "covers": [
+        "gaur"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-bdo-chhitahi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chhitahi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chhitahi",
+      "phones": [],
+      "email": "bdo.chhitahi.bst@gmail.com",
+      "covers": [
+        "chhitahi"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-ado-chhitahi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chhitahi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chhitahi",
+      "phones": [],
+      "covers": [
+        "chhitahi"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-bdo-bhanpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhanpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhanpur",
+      "phones": [],
+      "email": "bdo.bhanpur.bst@gmail.com",
+      "covers": [
+        "bhanpur"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-ado-bhanpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhanpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhanpur",
+      "phones": [],
+      "covers": [
+        "bhanpur"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-bdo-ramnagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ramnagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ramnagar",
+      "phones": [],
+      "email": "bdo.ramnagar.bst@gmail.com",
+      "covers": [
+        "ramnagar"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-ado-ramnagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ramnagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ramnagar",
+      "phones": [],
+      "covers": [
+        "ramnagar"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-bdo-rudhauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rudhauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rudhauli",
+      "phones": [],
+      "email": "bdo.rudhauli.bst@gmail.com",
+      "covers": [
+        "rudhauli"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-basti-ado-rudhauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rudhauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rudhauli",
+      "phones": [],
+      "covers": [
+        "rudhauli"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-basti-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Basti",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका बस्ती",
+      "phones": [],
+      "covers": [
+        "ulb-basti-main"
+      ],
+      "source_url": "https://basti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

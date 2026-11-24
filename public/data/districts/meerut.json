@@ -1,0 +1,490 @@
+{
+  "district_id": "meerut",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-meerut-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Meerut",
+      "office_name_hi": "कार्यालय जिलाधिकारी, मेरठ",
+      "phones": [
+        {
+          "number": "9454417566",
+          "type": "office",
+          "source_url": "https://meerut.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmmrt@nic.in",
+      "covers": [
+        "meerut"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Meerut",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), मेरठ",
+      "phones": [],
+      "email": "cdo.mrt-up@gov.in",
+      "covers": [
+        "meerut"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Meerut",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, मेरठ",
+      "phones": [],
+      "email": "dpro-mrt@nic.in",
+      "covers": [
+        "meerut"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-sdm-meerut",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Meerut",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Meerut",
+      "phones": [
+        {
+          "number": "9454416685",
+          "type": "cug",
+          "source_url": "https://meerut.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.meerut.mrt-up@gov.in",
+      "covers": [
+        "meerut"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-sdm-mawana",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mawana",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mawana",
+      "phones": [
+        {
+          "number": "9454416686",
+          "type": "cug",
+          "source_url": "https://meerut.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.mawana.mrt-up@gov.in",
+      "covers": [
+        "mawana"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-sdm-sardhana",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sardhana",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sardhana",
+      "phones": [
+        {
+          "number": "9454416687",
+          "type": "cug",
+          "source_url": "https://meerut.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.sardhana.mrt-up@gov.in",
+      "covers": [
+        "sardhana"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-bdo-meerut-sadar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Meerut Sadar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Meerut Sadar",
+      "phones": [],
+      "email": "bdo.meerutsadar.mrt@gmail.com",
+      "covers": [
+        "meerut-sadar"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-ado-meerut-sadar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Meerut Sadar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Meerut Sadar",
+      "phones": [],
+      "covers": [
+        "meerut-sadar"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-bdo-rajpura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rajpura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rajpura",
+      "phones": [],
+      "email": "bdo.rajpura.mrt@gmail.com",
+      "covers": [
+        "rajpura"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-ado-rajpura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rajpura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rajpura",
+      "phones": [],
+      "covers": [
+        "rajpura"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-bdo-kharkhoda",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kharkhoda",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kharkhoda",
+      "phones": [],
+      "email": "bdo.kharkhoda.mrt@gmail.com",
+      "covers": [
+        "kharkhoda"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-ado-kharkhoda",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kharkhoda",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kharkhoda",
+      "phones": [],
+      "covers": [
+        "kharkhoda"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-bdo-jani",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jani",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jani",
+      "phones": [],
+      "email": "bdo.jani.mrt@gmail.com",
+      "covers": [
+        "jani"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-ado-jani",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jani",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jani",
+      "phones": [],
+      "covers": [
+        "jani"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-bdo-rohta",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rohta",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rohta",
+      "phones": [],
+      "email": "bdo.rohta.mrt@gmail.com",
+      "covers": [
+        "rohta"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-ado-rohta",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rohta",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rohta",
+      "phones": [],
+      "covers": [
+        "rohta"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-bdo-sardhana",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sardhana",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sardhana",
+      "phones": [],
+      "email": "bdo.sardhana.mrt@gmail.com",
+      "covers": [
+        "sardhana"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-ado-sardhana",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sardhana",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sardhana",
+      "phones": [],
+      "covers": [
+        "sardhana"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-bdo-daurala",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Daurala",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Daurala",
+      "phones": [],
+      "email": "bdo.daurala.mrt@gmail.com",
+      "covers": [
+        "daurala"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-ado-daurala",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Daurala",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Daurala",
+      "phones": [],
+      "covers": [
+        "daurala"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-bdo-mawana",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mawana",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mawana",
+      "phones": [],
+      "email": "bdo.mawana.mrt@gmail.com",
+      "covers": [
+        "mawana"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-ado-mawana",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mawana",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mawana",
+      "phones": [],
+      "covers": [
+        "mawana"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-bdo-hastinapur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Hastinapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hastinapur",
+      "phones": [],
+      "email": "bdo.hastinapur.mrt@gmail.com",
+      "covers": [
+        "hastinapur"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-ado-hastinapur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Hastinapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Hastinapur",
+      "phones": [],
+      "covers": [
+        "hastinapur"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-bdo-parikshitgarh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Parikshitgarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Parikshitgarh",
+      "phones": [],
+      "email": "bdo.parikshitgarh.mrt@gmail.com",
+      "covers": [
+        "parikshitgarh"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-ado-parikshitgarh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Parikshitgarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Parikshitgarh",
+      "phones": [],
+      "covers": [
+        "parikshitgarh"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-bdo-machhra",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Machhra",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Machhra",
+      "phones": [],
+      "email": "bdo.machhra.mrt@gmail.com",
+      "covers": [
+        "machhra"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-ado-machhra",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Machhra",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Machhra",
+      "phones": [],
+      "covers": [
+        "machhra"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-bdo-sarurpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sarurpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sarurpur",
+      "phones": [],
+      "email": "bdo.sarurpur.mrt@gmail.com",
+      "covers": [
+        "sarurpur"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-ado-sarurpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sarurpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sarurpur",
+      "phones": [],
+      "covers": [
+        "sarurpur"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-meerut-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Meerut",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका मेरठ",
+      "phones": [],
+      "covers": [
+        "ulb-meerut-main"
+      ],
+      "source_url": "https://meerut.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

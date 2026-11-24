@@ -1,0 +1,490 @@
+{
+  "district_id": "mirzapur",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-mirzapur-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Mirzapur",
+      "office_name_hi": "कार्यालय जिलाधिकारी, मिर्जापुर",
+      "officer_name_en": "Shri Pawan Kumar Gangwar (I.A.S.)",
+      "phones": [
+        {
+          "number": "9454417567",
+          "type": "office",
+          "source_url": "https://mirzapur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmmir@nic.in",
+      "covers": [
+        "mirzapur"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Mirzapur",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), मिर्जापुर",
+      "phones": [
+        {
+          "number": "9454465106",
+          "type": "office",
+          "source_url": "https://mirzapur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo-mir@up.gov.in",
+      "covers": [
+        "mirzapur"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Mirzapur",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, मिर्जापुर",
+      "phones": [],
+      "email": "dpro-mzp@nic.in",
+      "covers": [
+        "mirzapur"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [],
+      "email": "sdm.sadar.mzp-up@gov.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-sdm-chunar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Chunar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Chunar",
+      "phones": [],
+      "email": "sdm.chunar.mzp-up@gov.in",
+      "covers": [
+        "chunar"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-sdm-lalganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Lalganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Lalganj",
+      "phones": [],
+      "email": "sdm.lalganj.mzp-up@gov.in",
+      "covers": [
+        "lalganj"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-sdm-marihan",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Marihan",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Marihan",
+      "phones": [],
+      "email": "sdm.marihan.mzp-up@gov.in",
+      "covers": [
+        "marihan"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-bdo-nagar-city",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nagar City",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nagar City",
+      "phones": [],
+      "email": "bdo.nagarcity.mzp@gmail.com",
+      "covers": [
+        "nagar-city"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-ado-nagar-city",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nagar City",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nagar City",
+      "phones": [],
+      "covers": [
+        "nagar-city"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-bdo-kon",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kon",
+      "phones": [],
+      "email": "bdo.kon.mzp@gmail.com",
+      "covers": [
+        "kon"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-ado-kon",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kon",
+      "phones": [],
+      "covers": [
+        "kon"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-bdo-majhawan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Majhawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Majhawan",
+      "phones": [],
+      "email": "bdo.majhawan.mzp@gmail.com",
+      "covers": [
+        "majhawan"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-ado-majhawan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Majhawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Majhawan",
+      "phones": [],
+      "covers": [
+        "majhawan"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-bdo-pahari",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pahari",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pahari",
+      "phones": [],
+      "email": "bdo.pahari.mzp@gmail.com",
+      "covers": [
+        "pahari"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-ado-pahari",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pahari",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pahari",
+      "phones": [],
+      "covers": [
+        "pahari"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-bdo-chunar-narayanpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chunar (Narayanpur)",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chunar (Narayanpur)",
+      "phones": [],
+      "email": "bdo.chunarnarayanpur.mzp@gmail.com",
+      "covers": [
+        "chunar-narayanpur"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-ado-chunar-narayanpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chunar (Narayanpur)",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chunar (Narayanpur)",
+      "phones": [],
+      "covers": [
+        "chunar-narayanpur"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-bdo-sikhar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sikhar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sikhar",
+      "phones": [],
+      "email": "bdo.sikhar.mzp@gmail.com",
+      "covers": [
+        "sikhar"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-ado-sikhar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sikhar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sikhar",
+      "phones": [],
+      "covers": [
+        "sikhar"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-bdo-jamalpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jamalpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jamalpur",
+      "phones": [],
+      "email": "bdo.jamalpur.mzp@gmail.com",
+      "covers": [
+        "jamalpur"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-ado-jamalpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jamalpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jamalpur",
+      "phones": [],
+      "covers": [
+        "jamalpur"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-bdo-lalganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Lalganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Lalganj",
+      "phones": [],
+      "email": "bdo.lalganj.mzp@gmail.com",
+      "covers": [
+        "lalganj"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-ado-lalganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Lalganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Lalganj",
+      "phones": [],
+      "covers": [
+        "lalganj"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-bdo-halia",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Halia",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Halia",
+      "phones": [],
+      "email": "bdo.halia.mzp@gmail.com",
+      "covers": [
+        "halia"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-ado-halia",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Halia",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Halia",
+      "phones": [],
+      "covers": [
+        "halia"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-bdo-marihan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Marihan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Marihan",
+      "phones": [],
+      "email": "bdo.marihan.mzp@gmail.com",
+      "covers": [
+        "marihan"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-ado-marihan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Marihan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Marihan",
+      "phones": [],
+      "covers": [
+        "marihan"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-bdo-rajgarh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rajgarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rajgarh",
+      "phones": [],
+      "email": "bdo.rajgarh.mzp@gmail.com",
+      "covers": [
+        "rajgarh"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-ado-rajgarh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rajgarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rajgarh",
+      "phones": [],
+      "covers": [
+        "rajgarh"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-bdo-chhanbey",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chhanbey",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chhanbey",
+      "phones": [],
+      "email": "bdo.chhanbey.mzp@gmail.com",
+      "covers": [
+        "chhanbey"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mirzapur-ado-chhanbey",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chhanbey",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chhanbey",
+      "phones": [],
+      "covers": [
+        "chhanbey"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-mirzapur-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Mirzapur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका मिर्जापुर",
+      "phones": [],
+      "covers": [
+        "ulb-mirzapur-main"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

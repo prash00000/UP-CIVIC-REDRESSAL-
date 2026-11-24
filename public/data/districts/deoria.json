@@ -1,0 +1,621 @@
+{
+  "district_id": "deoria",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-deoria-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Deoria",
+      "office_name_hi": "कार्यालय जिलाधिकारी, देवरिया",
+      "officer_name_en": "Madhusudan Hulgi",
+      "phones": [
+        {
+          "number": "9194544175",
+          "type": "office",
+          "source_url": "https://deoria.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmdeo@nic.in",
+      "covers": [
+        "deoria"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Deoria",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), देवरिया",
+      "phones": [
+        {
+          "number": "9194544648",
+          "type": "office",
+          "source_url": "https://deoria.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdodeoria@gmail.com",
+      "covers": [
+        "deoria"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Deoria",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, देवरिया",
+      "phones": [],
+      "email": "dpro-deo@nic.in",
+      "covers": [
+        "deoria"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-sdm-deoria",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Deoria",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Deoria",
+      "phones": [],
+      "email": "sdm.deoria.deo-up@gov.in",
+      "covers": [
+        "deoria"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-sdm-salempur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Salempur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Salempur",
+      "phones": [],
+      "email": "sdm.salempur.deo-up@gov.in",
+      "covers": [
+        "salempur"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-sdm-bhatpar-rani",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bhatpar Rani",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bhatpar Rani",
+      "phones": [],
+      "email": "sdm.bhatparrani.deo-up@gov.in",
+      "covers": [
+        "bhatpar-rani"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-sdm-barhaj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Barhaj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Barhaj",
+      "phones": [],
+      "email": "sdm.barhaj.deo-up@gov.in",
+      "covers": [
+        "barhaj"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-sdm-rudrapur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Rudrapur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Rudrapur",
+      "phones": [],
+      "email": "sdm.rudrapur.deo-up@gov.in",
+      "covers": [
+        "rudrapur"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-bdo-deoria-sadar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Deoria Sadar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Deoria Sadar",
+      "phones": [],
+      "email": "bdo.deoriasadar.deo@gmail.com",
+      "covers": [
+        "deoria-sadar"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-ado-deoria-sadar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Deoria Sadar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Deoria Sadar",
+      "phones": [],
+      "covers": [
+        "deoria-sadar"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-bdo-baitalpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Baitalpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Baitalpur",
+      "phones": [],
+      "email": "bdo.baitalpur.deo@gmail.com",
+      "covers": [
+        "baitalpur"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-ado-baitalpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Baitalpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Baitalpur",
+      "phones": [],
+      "covers": [
+        "baitalpur"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-bdo-gauri-bazar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gauri Bazar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gauri Bazar",
+      "phones": [],
+      "email": "bdo.gauribazar.deo@gmail.com",
+      "covers": [
+        "gauri-bazar"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-ado-gauri-bazar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gauri Bazar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gauri Bazar",
+      "phones": [],
+      "covers": [
+        "gauri-bazar"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-bdo-rampur-karkhana",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rampur Karkhana",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rampur Karkhana",
+      "phones": [],
+      "email": "bdo.rampurkarkhana.deo@gmail.com",
+      "covers": [
+        "rampur-karkhana"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-ado-rampur-karkhana",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rampur Karkhana",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rampur Karkhana",
+      "phones": [],
+      "covers": [
+        "rampur-karkhana"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-bdo-desahi-deoria",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Desahi Deoria",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Desahi Deoria",
+      "phones": [],
+      "email": "bdo.desahideoria.deo@gmail.com",
+      "covers": [
+        "desahi-deoria"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-ado-desahi-deoria",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Desahi Deoria",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Desahi Deoria",
+      "phones": [],
+      "covers": [
+        "desahi-deoria"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-bdo-tarkulwa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Tarkulwa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tarkulwa",
+      "phones": [],
+      "email": "bdo.tarkulwa.deo@gmail.com",
+      "covers": [
+        "tarkulwa"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-ado-tarkulwa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Tarkulwa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Tarkulwa",
+      "phones": [],
+      "covers": [
+        "tarkulwa"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-bdo-pathardewa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pathardewa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pathardewa",
+      "phones": [],
+      "email": "bdo.pathardewa.deo@gmail.com",
+      "covers": [
+        "pathardewa"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-ado-pathardewa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pathardewa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pathardewa",
+      "phones": [],
+      "covers": [
+        "pathardewa"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-bdo-rudrapur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rudrapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rudrapur",
+      "phones": [],
+      "email": "bdo.rudrapur.deo@gmail.com",
+      "covers": [
+        "rudrapur"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-ado-rudrapur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rudrapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rudrapur",
+      "phones": [],
+      "covers": [
+        "rudrapur"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-bdo-bhaluani",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhaluani",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhaluani",
+      "phones": [],
+      "email": "bdo.bhaluani.deo@gmail.com",
+      "covers": [
+        "bhaluani"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-ado-bhaluani",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhaluani",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhaluani",
+      "phones": [],
+      "covers": [
+        "bhaluani"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-bdo-barhaj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Barhaj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Barhaj",
+      "phones": [],
+      "email": "bdo.barhaj.deo@gmail.com",
+      "covers": [
+        "barhaj"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-ado-barhaj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Barhaj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Barhaj",
+      "phones": [],
+      "covers": [
+        "barhaj"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-bdo-salempur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Salempur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Salempur",
+      "phones": [],
+      "email": "bdo.salempur.deo@gmail.com",
+      "covers": [
+        "salempur"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-ado-salempur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Salempur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Salempur",
+      "phones": [],
+      "covers": [
+        "salempur"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-bdo-bhagalpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhagalpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhagalpur",
+      "phones": [],
+      "email": "bdo.bhagalpur.deo@gmail.com",
+      "covers": [
+        "bhagalpur"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-ado-bhagalpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhagalpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhagalpur",
+      "phones": [],
+      "covers": [
+        "bhagalpur"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-bdo-lar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Lar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Lar",
+      "phones": [],
+      "email": "bdo.lar.deo@gmail.com",
+      "covers": [
+        "lar"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-ado-lar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Lar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Lar",
+      "phones": [],
+      "covers": [
+        "lar"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-bdo-bhatpar-rani",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhatpar Rani",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhatpar Rani",
+      "phones": [],
+      "email": "bdo.bhatparrani.deo@gmail.com",
+      "covers": [
+        "bhatpar-rani"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-ado-bhatpar-rani",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhatpar Rani",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhatpar Rani",
+      "phones": [],
+      "covers": [
+        "bhatpar-rani"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-bdo-bankata",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bankata",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bankata",
+      "phones": [],
+      "email": "bdo.bankata.deo@gmail.com",
+      "covers": [
+        "bankata"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-ado-bankata",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bankata",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bankata",
+      "phones": [],
+      "covers": [
+        "bankata"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-bdo-bhatni",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhatni",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhatni",
+      "phones": [],
+      "email": "bdo.bhatni.deo@gmail.com",
+      "covers": [
+        "bhatni"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-deoria-ado-bhatni",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhatni",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhatni",
+      "phones": [],
+      "covers": [
+        "bhatni"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-deoria-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Deoria",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका देवरिया",
+      "phones": [],
+      "covers": [
+        "ulb-deoria-main"
+      ],
+      "source_url": "https://deoria.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

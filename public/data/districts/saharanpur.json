@@ -1,0 +1,499 @@
+{
+  "district_id": "saharanpur",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-saharanpur-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Saharanpur",
+      "office_name_hi": "कार्यालय जिलाधिकारी, सहारनपुर",
+      "phones": [
+        {
+          "number": "9454417575",
+          "type": "office",
+          "source_url": "https://saharanpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmsah@nic.in",
+      "covers": [
+        "saharanpur"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Saharanpur",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), सहारनपुर",
+      "phones": [],
+      "email": "cdosah@nic.in",
+      "covers": [
+        "saharanpur"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Saharanpur",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, सहारनपुर",
+      "phones": [],
+      "email": "dprosa-up@nic.in",
+      "covers": [
+        "saharanpur"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-sdm-saharanpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Saharanpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Saharanpur",
+      "phones": [],
+      "email": "sdm.saharanpur.sre-up@gov.in",
+      "covers": [
+        "saharanpur"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-sdm-deoband",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Deoband",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Deoband",
+      "phones": [
+        {
+          "number": "01336-222354",
+          "type": "cug",
+          "source_url": "https://saharanpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmsah-deoband@nic.in",
+      "covers": [
+        "deoband"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-sdm-nakur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Nakur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Nakur",
+      "phones": [
+        {
+          "number": "01336-243257",
+          "type": "cug",
+          "source_url": "https://saharanpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmsah-nakur@nic.in",
+      "covers": [
+        "nakur"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-sdm-behat",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Behat",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Behat",
+      "phones": [
+        {
+          "number": "9454416972",
+          "type": "cug",
+          "source_url": "https://saharanpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmsah-behat@nic.in",
+      "covers": [
+        "behat"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-sdm-rampur-maniharan",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Rampur Maniharan",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Rampur Maniharan",
+      "phones": [
+        {
+          "number": "01336-252500",
+          "type": "cug",
+          "source_url": "https://saharanpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmsah-rampur@nic.in",
+      "covers": [
+        "rampur-maniharan"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-bdo-ballia-kheri",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ballia Kheri",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ballia Kheri",
+      "phones": [],
+      "email": "bdo.balliakheri.sre@gmail.com",
+      "covers": [
+        "ballia-kheri"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-ado-ballia-kheri",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ballia Kheri",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ballia Kheri",
+      "phones": [],
+      "covers": [
+        "ballia-kheri"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-bdo-puwaraka",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Puwaraka",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Puwaraka",
+      "phones": [],
+      "email": "bdo.puwaraka.sre@gmail.com",
+      "covers": [
+        "puwaraka"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-ado-puwaraka",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Puwaraka",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Puwaraka",
+      "phones": [],
+      "covers": [
+        "puwaraka"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-bdo-sarsawa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sarsawa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sarsawa",
+      "phones": [],
+      "email": "bdo.sarsawa.sre@gmail.com",
+      "covers": [
+        "sarsawa"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-ado-sarsawa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sarsawa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sarsawa",
+      "phones": [],
+      "covers": [
+        "sarsawa"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-bdo-nakur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nakur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nakur",
+      "phones": [],
+      "email": "bdo.nakur.sre@gmail.com",
+      "covers": [
+        "nakur"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-ado-nakur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nakur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nakur",
+      "phones": [],
+      "covers": [
+        "nakur"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-bdo-gangoh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gangoh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gangoh",
+      "phones": [],
+      "email": "bdo.gangoh.sre@gmail.com",
+      "covers": [
+        "gangoh"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-ado-gangoh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gangoh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gangoh",
+      "phones": [],
+      "covers": [
+        "gangoh"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-bdo-deoband",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Deoband",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Deoband",
+      "phones": [],
+      "email": "bdo.deoband.sre@gmail.com",
+      "covers": [
+        "deoband"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-ado-deoband",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Deoband",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Deoband",
+      "phones": [],
+      "covers": [
+        "deoband"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-bdo-nagal",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nagal",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nagal",
+      "phones": [],
+      "email": "bdo.nagal.sre@gmail.com",
+      "covers": [
+        "nagal"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-ado-nagal",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nagal",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nagal",
+      "phones": [],
+      "covers": [
+        "nagal"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-bdo-rampur-maniharan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rampur Maniharan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rampur Maniharan",
+      "phones": [],
+      "email": "bdo.rampurmaniharan.sre@gmail.com",
+      "covers": [
+        "rampur-maniharan"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-ado-rampur-maniharan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rampur Maniharan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rampur Maniharan",
+      "phones": [],
+      "covers": [
+        "rampur-maniharan"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-bdo-nanauta",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nanauta",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nanauta",
+      "phones": [],
+      "email": "bdo.nanauta.sre@gmail.com",
+      "covers": [
+        "nanauta"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-ado-nanauta",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nanauta",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nanauta",
+      "phones": [],
+      "covers": [
+        "nanauta"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-bdo-sadauli-qadeem",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sadauli Qadeem",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sadauli Qadeem",
+      "phones": [],
+      "email": "bdo.sadauliqadeem.sre@gmail.com",
+      "covers": [
+        "sadauli-qadeem"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-ado-sadauli-qadeem",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sadauli Qadeem",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sadauli Qadeem",
+      "phones": [],
+      "covers": [
+        "sadauli-qadeem"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-bdo-muzaffarabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Muzaffarabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Muzaffarabad",
+      "phones": [],
+      "email": "bdo.muzaffarabad.sre@gmail.com",
+      "covers": [
+        "muzaffarabad"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-saharanpur-ado-muzaffarabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Muzaffarabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Muzaffarabad",
+      "phones": [],
+      "covers": [
+        "muzaffarabad"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-saharanpur-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Saharanpur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका सहारनपुर",
+      "phones": [],
+      "covers": [
+        "ulb-saharanpur-main"
+      ],
+      "source_url": "https://saharanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

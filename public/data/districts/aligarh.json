@@ -1,0 +1,505 @@
+{
+  "district_id": "aligarh",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-aligarh-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Aligarh",
+      "office_name_hi": "कार्यालय जिलाधिकारी, अलीगढ़",
+      "officer_name_en": "Avinash Kumar , IAS",
+      "phones": [
+        {
+          "number": "0571-2400202",
+          "type": "office",
+          "source_url": "https://aligarh.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmali@nic.in",
+      "covers": [
+        "aligarh"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Aligarh",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), अलीगढ़",
+      "phones": [
+        {
+          "number": "0571-2742543",
+          "type": "office",
+          "source_url": "https://aligarh.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdoali@nic.in",
+      "covers": [
+        "aligarh"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Aligarh",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, अलीगढ़",
+      "phones": [],
+      "email": "dpro-ali@nic.in",
+      "covers": [
+        "aligarh"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-sdm-koil",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Koil",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Koil",
+      "phones": [],
+      "email": "sdm.koil.ali-up@gov.in",
+      "covers": [
+        "koil"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-sdm-khair",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Khair",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Khair",
+      "phones": [],
+      "email": "sdm.khair.ali-up@gov.in",
+      "covers": [
+        "khair"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-sdm-atrauli",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Atrauli",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Atrauli",
+      "phones": [],
+      "email": "sdm.atrauli.ali-up@gov.in",
+      "covers": [
+        "atrauli"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-sdm-iglas",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Iglas",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Iglas",
+      "phones": [],
+      "email": "sdm.iglas.ali-up@gov.in",
+      "covers": [
+        "iglas"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-sdm-ghabhana",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Ghabhana",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Ghabhana",
+      "phones": [],
+      "email": "sdm.ghabhana.ali-up@gov.in",
+      "covers": [
+        "ghabhana"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-bdo-dhanipur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dhanipur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dhanipur",
+      "phones": [],
+      "email": "bdo.dhanipur.ali@gmail.com",
+      "covers": [
+        "dhanipur"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-ado-dhanipur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dhanipur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dhanipur",
+      "phones": [],
+      "covers": [
+        "dhanipur"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-bdo-lodha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Lodha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Lodha",
+      "phones": [],
+      "email": "bdo.lodha.ali@gmail.com",
+      "covers": [
+        "lodha"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-ado-lodha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Lodha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Lodha",
+      "phones": [],
+      "covers": [
+        "lodha"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-bdo-jawan-sikanderpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jawan Sikanderpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jawan Sikanderpur",
+      "phones": [],
+      "email": "bdo.jawansikanderpur.ali@gmail.com",
+      "covers": [
+        "jawan-sikanderpur"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-ado-jawan-sikanderpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jawan Sikanderpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jawan Sikanderpur",
+      "phones": [],
+      "covers": [
+        "jawan-sikanderpur"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-bdo-chandaus",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chandaus",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chandaus",
+      "phones": [],
+      "email": "bdo.chandaus.ali@gmail.com",
+      "covers": [
+        "chandaus"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-ado-chandaus",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chandaus",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chandaus",
+      "phones": [],
+      "covers": [
+        "chandaus"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-bdo-khair",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Khair",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khair",
+      "phones": [],
+      "email": "bdo.khair.ali@gmail.com",
+      "covers": [
+        "khair"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-ado-khair",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Khair",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Khair",
+      "phones": [],
+      "covers": [
+        "khair"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-bdo-atrauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Atrauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Atrauli",
+      "phones": [],
+      "email": "bdo.atrauli.ali@gmail.com",
+      "covers": [
+        "atrauli"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-ado-atrauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Atrauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Atrauli",
+      "phones": [],
+      "covers": [
+        "atrauli"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-bdo-gangiri",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gangiri",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gangiri",
+      "phones": [],
+      "email": "bdo.gangiri.ali@gmail.com",
+      "covers": [
+        "gangiri"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-ado-gangiri",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gangiri",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gangiri",
+      "phones": [],
+      "covers": [
+        "gangiri"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-bdo-bijauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bijauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bijauli",
+      "phones": [],
+      "email": "bdo.bijauli.ali@gmail.com",
+      "covers": [
+        "bijauli"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-ado-bijauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bijauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bijauli",
+      "phones": [],
+      "covers": [
+        "bijauli"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-bdo-iglas",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Iglas",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Iglas",
+      "phones": [],
+      "email": "bdo.iglas.ali@gmail.com",
+      "covers": [
+        "iglas"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-ado-iglas",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Iglas",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Iglas",
+      "phones": [],
+      "covers": [
+        "iglas"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-bdo-gonda",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gonda",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gonda",
+      "phones": [],
+      "email": "bdo.gonda.ali@gmail.com",
+      "covers": [
+        "gonda"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-ado-gonda",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gonda",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gonda",
+      "phones": [],
+      "covers": [
+        "gonda"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-bdo-tappal",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Tappal",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tappal",
+      "phones": [],
+      "email": "bdo.tappal.ali@gmail.com",
+      "covers": [
+        "tappal"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-ado-tappal",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Tappal",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Tappal",
+      "phones": [],
+      "covers": [
+        "tappal"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-bdo-akrabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Akrabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Akrabad",
+      "phones": [],
+      "email": "bdo.akrabad.ali@gmail.com",
+      "covers": [
+        "akrabad"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-ado-akrabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Akrabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Akrabad",
+      "phones": [],
+      "covers": [
+        "akrabad"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-aligarh-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Aligarh",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका अलीगढ़",
+      "phones": [],
+      "covers": [
+        "ulb-aligarh-main"
+      ],
+      "source_url": "https://aligarh.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

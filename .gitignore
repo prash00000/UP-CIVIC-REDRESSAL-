@@ -1,7 +1,6 @@
-# Node & OS ignores
 node_modules/
-.DS_Store
-Thumbs.db
+.next/
+out/
+.env*.local
 *.log
-.netlify/
-.vercel/
+.DS_Store

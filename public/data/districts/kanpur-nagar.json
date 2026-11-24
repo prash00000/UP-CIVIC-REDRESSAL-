@@ -1,0 +1,432 @@
+{
+  "district_id": "kanpur-nagar",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-kanpur-nagar-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Kanpur Nagar",
+      "office_name_hi": "कार्यालय जिलाधिकारी, कानपुर नगर",
+      "officer_name_en": "Mahendra Singh Tanwar, IAS",
+      "phones": [
+        {
+          "number": "9454417554",
+          "type": "office",
+          "source_url": "https://kanpur-nagar.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmkap@nic.in",
+      "covers": [
+        "kanpur-nagar"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Kanpur Nagar",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), कानपुर नगर",
+      "phones": [
+        {
+          "number": "9454418877",
+          "type": "office",
+          "source_url": "https://kanpur-nagar.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdokap@nic.in",
+      "covers": [
+        "kanpur-nagar"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Kanpur Nagar",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, कानपुर नगर",
+      "phones": [],
+      "email": "dpro-kan@nic.in",
+      "covers": [
+        "kanpur-nagar"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [],
+      "email": "sdm.sadar.kan-up@gov.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-sdm-ghatampur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Ghatampur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Ghatampur",
+      "phones": [],
+      "email": "sdm.ghatampur.kan-up@gov.in",
+      "covers": [
+        "ghatampur"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-sdm-bilhaur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bilhaur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bilhaur",
+      "phones": [],
+      "email": "sdm.bilhaur.kan-up@gov.in",
+      "covers": [
+        "bilhaur"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-sdm-narwal",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Narwal",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Narwal",
+      "phones": [],
+      "email": "sdm.narwal.kan-up@gov.in",
+      "covers": [
+        "narwal"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-bdo-kalyanpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kalyanpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kalyanpur",
+      "phones": [],
+      "email": "bdo.kalyanpur.kan@gmail.com",
+      "covers": [
+        "kalyanpur"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-ado-kalyanpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kalyanpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kalyanpur",
+      "phones": [],
+      "covers": [
+        "kalyanpur"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-bdo-sarsaul",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sarsaul",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sarsaul",
+      "phones": [],
+      "email": "bdo.sarsaul.kan@gmail.com",
+      "covers": [
+        "sarsaul"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-ado-sarsaul",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sarsaul",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sarsaul",
+      "phones": [],
+      "covers": [
+        "sarsaul"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-bdo-bidnu",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bidnu",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bidnu",
+      "phones": [],
+      "email": "bdo.bidnu.kan@gmail.com",
+      "covers": [
+        "bidnu"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-ado-bidnu",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bidnu",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bidnu",
+      "phones": [],
+      "covers": [
+        "bidnu"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-bdo-bhitargaon",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhitargaon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhitargaon",
+      "phones": [],
+      "email": "bdo.bhitargaon.kan@gmail.com",
+      "covers": [
+        "bhitargaon"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-ado-bhitargaon",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhitargaon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhitargaon",
+      "phones": [],
+      "covers": [
+        "bhitargaon"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-bdo-ghatampur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ghatampur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ghatampur",
+      "phones": [],
+      "email": "bdo.ghatampur.kan@gmail.com",
+      "covers": [
+        "ghatampur"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-ado-ghatampur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ghatampur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ghatampur",
+      "phones": [],
+      "covers": [
+        "ghatampur"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-bdo-patara",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Patara",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Patara",
+      "phones": [],
+      "email": "bdo.patara.kan@gmail.com",
+      "covers": [
+        "patara"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-ado-patara",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Patara",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Patara",
+      "phones": [],
+      "covers": [
+        "patara"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-bdo-bilhaur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bilhaur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bilhaur",
+      "phones": [],
+      "email": "bdo.bilhaur.kan@gmail.com",
+      "covers": [
+        "bilhaur"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-ado-bilhaur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bilhaur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bilhaur",
+      "phones": [],
+      "covers": [
+        "bilhaur"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-bdo-shivrajpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Shivrajpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shivrajpur",
+      "phones": [],
+      "email": "bdo.shivrajpur.kan@gmail.com",
+      "covers": [
+        "shivrajpur"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-ado-shivrajpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Shivrajpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shivrajpur",
+      "phones": [],
+      "covers": [
+        "shivrajpur"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-bdo-chaubepur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chaubepur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chaubepur",
+      "phones": [],
+      "email": "bdo.chaubepur.kan@gmail.com",
+      "covers": [
+        "chaubepur"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-ado-chaubepur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chaubepur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chaubepur",
+      "phones": [],
+      "covers": [
+        "chaubepur"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-bdo-kakwan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kakwan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kakwan",
+      "phones": [],
+      "email": "bdo.kakwan.kan@gmail.com",
+      "covers": [
+        "kakwan"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kanpur-nagar-ado-kakwan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kakwan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kakwan",
+      "phones": [],
+      "covers": [
+        "kakwan"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-kanpur-nagar-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Kanpur Nagar",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका कानपुर नगर",
+      "phones": [],
+      "covers": [
+        "ulb-kanpur-nagar-main"
+      ],
+      "source_url": "https://kanpur-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

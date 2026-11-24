@@ -1,0 +1,383 @@
+{
+  "district_id": "etah",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-etah-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Etah",
+      "office_name_hi": "कार्यालय जिलाधिकारी, एटा",
+      "officer_name_en": "Ms.M Arunmozhi",
+      "phones": [
+        {
+          "number": "9454417514",
+          "type": "office",
+          "source_url": "https://etah.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmeth@nic.in",
+      "covers": [
+        "etah"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Etah",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), एटा",
+      "phones": [
+        {
+          "number": "9454465512",
+          "type": "office",
+          "source_url": "https://etah.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo.eth-up@gov.in",
+      "covers": [
+        "etah"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Etah",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, एटा",
+      "phones": [],
+      "email": "dpro-eth@nic.in",
+      "covers": [
+        "etah"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-sdm-etah",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Etah",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Etah",
+      "phones": [
+        {
+          "number": "9454417771",
+          "type": "cug",
+          "source_url": "https://etah.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.etah.eth-up@gov.in",
+      "covers": [
+        "etah"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-sdm-aliganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Aliganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Aliganj",
+      "phones": [],
+      "email": "sdm.aliganj.eth-up@gov.in",
+      "covers": [
+        "aliganj"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-sdm-jalesar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Jalesar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Jalesar",
+      "phones": [],
+      "email": "sdm.jalesar.eth-up@gov.in",
+      "covers": [
+        "jalesar"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-bdo-sheetalpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sheetalpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sheetalpur",
+      "phones": [
+        {
+          "number": "8630497228",
+          "type": "cug",
+          "source_url": "https://etah.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.sheetalpur.eth@gmail.com",
+      "covers": [
+        "sheetalpur"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-ado-sheetalpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sheetalpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sheetalpur",
+      "phones": [],
+      "covers": [
+        "sheetalpur"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-bdo-sakit",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sakit",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sakit",
+      "phones": [],
+      "email": "bdo.sakit.eth@gmail.com",
+      "covers": [
+        "sakit"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-ado-sakit",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sakit",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sakit",
+      "phones": [],
+      "covers": [
+        "sakit"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-bdo-nidhauli-kalan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nidhauli Kalan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nidhauli Kalan",
+      "phones": [
+        {
+          "number": "8979024717",
+          "type": "cug",
+          "source_url": "https://etah.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.nidhaulikalan.eth@gmail.com",
+      "covers": [
+        "nidhauli-kalan"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-ado-nidhauli-kalan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nidhauli Kalan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nidhauli Kalan",
+      "phones": [],
+      "covers": [
+        "nidhauli-kalan"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-bdo-marehra",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Marehra",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Marehra",
+      "phones": [],
+      "email": "bdo.marehra.eth@gmail.com",
+      "covers": [
+        "marehra"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-ado-marehra",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Marehra",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Marehra",
+      "phones": [],
+      "covers": [
+        "marehra"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-bdo-awagarh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Awagarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Awagarh",
+      "phones": [],
+      "email": "bdo.awagarh.eth@gmail.com",
+      "covers": [
+        "awagarh"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-ado-awagarh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Awagarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Awagarh",
+      "phones": [],
+      "covers": [
+        "awagarh"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-bdo-jalesar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jalesar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jalesar",
+      "phones": [],
+      "email": "bdo.jalesar.eth@gmail.com",
+      "covers": [
+        "jalesar"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-ado-jalesar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jalesar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jalesar",
+      "phones": [],
+      "covers": [
+        "jalesar"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-bdo-aliganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Aliganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Aliganj",
+      "phones": [],
+      "email": "bdo.aliganj.eth@gmail.com",
+      "covers": [
+        "aliganj"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-ado-aliganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Aliganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Aliganj",
+      "phones": [],
+      "covers": [
+        "aliganj"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-bdo-jaithara",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jaithara",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jaithara",
+      "phones": [],
+      "email": "bdo.jaithara.eth@gmail.com",
+      "covers": [
+        "jaithara"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etah-ado-jaithara",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jaithara",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jaithara",
+      "phones": [],
+      "covers": [
+        "jaithara"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-etah-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Etah",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका एटा",
+      "phones": [],
+      "covers": [
+        "ulb-etah-main"
+      ],
+      "source_url": "https://etah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

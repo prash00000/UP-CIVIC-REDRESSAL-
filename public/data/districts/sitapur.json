@@ -1,0 +1,729 @@
+{
+  "district_id": "sitapur",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-sitapur-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Sitapur",
+      "office_name_hi": "कार्यालय जिलाधिकारी, सीतापुर",
+      "phones": [
+        {
+          "number": "05862-242212",
+          "type": "office",
+          "source_url": "https://sitapur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmsit@nic.in",
+      "covers": [
+        "sitapur"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Sitapur",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), सीतापुर",
+      "phones": [],
+      "email": "cdo.sit-up@gov.in",
+      "covers": [
+        "sitapur"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Sitapur",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, सीतापुर",
+      "phones": [],
+      "email": "dpro-sit@nic.in",
+      "covers": [
+        "sitapur"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [],
+      "email": "sdm.sadar.sit-up@gov.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-sdm-biswan",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Biswan",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Biswan",
+      "phones": [],
+      "email": "sdm.biswan.sit-up@gov.in",
+      "covers": [
+        "biswan"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-sdm-mahmoodabad",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mahmoodabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mahmoodabad",
+      "phones": [],
+      "email": "sdm.mahmoodabad.sit-up@gov.in",
+      "covers": [
+        "mahmoodabad"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-sdm-sidhauli",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sidhauli",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sidhauli",
+      "phones": [],
+      "email": "sdm.sidhauli.sit-up@gov.in",
+      "covers": [
+        "sidhauli"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-sdm-misrikh",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Misrikh",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Misrikh",
+      "phones": [],
+      "email": "sdm.misrikh.sit-up@gov.in",
+      "covers": [
+        "misrikh"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-sdm-laharpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Laharpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Laharpur",
+      "phones": [],
+      "email": "sdm.laharpur.sit-up@gov.in",
+      "covers": [
+        "laharpur"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-sdm-mahauli",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mahauli",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mahauli",
+      "phones": [],
+      "email": "sdm.mahauli.sit-up@gov.in",
+      "covers": [
+        "mahauli"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-khairabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Khairabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khairabad",
+      "phones": [],
+      "email": "bdo.khairabad.sit@gmail.com",
+      "covers": [
+        "khairabad"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-khairabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Khairabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Khairabad",
+      "phones": [],
+      "covers": [
+        "khairabad"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-aliya",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Aliya",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Aliya",
+      "phones": [],
+      "email": "bdo.aliya.sit@gmail.com",
+      "covers": [
+        "aliya"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-aliya",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Aliya",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Aliya",
+      "phones": [],
+      "covers": [
+        "aliya"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-hargaon",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Hargaon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hargaon",
+      "phones": [],
+      "email": "bdo.hargaon.sit@gmail.com",
+      "covers": [
+        "hargaon"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-hargaon",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Hargaon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Hargaon",
+      "phones": [],
+      "covers": [
+        "hargaon"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-aisbgh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Aisbgh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Aisbgh",
+      "phones": [],
+      "email": "bdo.aisbgh.sit@gmail.com",
+      "covers": [
+        "aisbgh"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-aisbgh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Aisbgh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Aisbgh",
+      "phones": [],
+      "covers": [
+        "aisbgh"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-parsendi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Parsendi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Parsendi",
+      "phones": [],
+      "email": "bdo.parsendi.sit@gmail.com",
+      "covers": [
+        "parsendi"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-parsendi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Parsendi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Parsendi",
+      "phones": [],
+      "covers": [
+        "parsendi"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-laharpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Laharpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Laharpur",
+      "phones": [],
+      "email": "bdo.laharpur.sit@gmail.com",
+      "covers": [
+        "laharpur"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-laharpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Laharpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Laharpur",
+      "phones": [],
+      "covers": [
+        "laharpur"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-behta",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Behta",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Behta",
+      "phones": [],
+      "email": "bdo.behta.sit@gmail.com",
+      "covers": [
+        "behta"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-behta",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Behta",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Behta",
+      "phones": [],
+      "covers": [
+        "behta"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-reusa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Reusa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Reusa",
+      "phones": [],
+      "email": "bdo.reusa.sit@gmail.com",
+      "covers": [
+        "reusa"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-reusa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Reusa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Reusa",
+      "phones": [],
+      "covers": [
+        "reusa"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-sakran",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sakran",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sakran",
+      "phones": [],
+      "email": "bdo.sakran.sit@gmail.com",
+      "covers": [
+        "sakran"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-sakran",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sakran",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sakran",
+      "phones": [],
+      "covers": [
+        "sakran"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-biswan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Biswan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Biswan",
+      "phones": [],
+      "email": "bdo.biswan.sit@gmail.com",
+      "covers": [
+        "biswan"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-biswan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Biswan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Biswan",
+      "phones": [],
+      "covers": [
+        "biswan"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-pahala",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pahala",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pahala",
+      "phones": [],
+      "email": "bdo.pahala.sit@gmail.com",
+      "covers": [
+        "pahala"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-pahala",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pahala",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pahala",
+      "phones": [],
+      "covers": [
+        "pahala"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-mahmoodabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mahmoodabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mahmoodabad",
+      "phones": [],
+      "email": "bdo.mahmoodabad.sit@gmail.com",
+      "covers": [
+        "mahmoodabad"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-mahmoodabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mahmoodabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mahmoodabad",
+      "phones": [],
+      "covers": [
+        "mahmoodabad"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-rampur-mathura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rampur Mathura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rampur Mathura",
+      "phones": [],
+      "email": "bdo.rampurmathura.sit@gmail.com",
+      "covers": [
+        "rampur-mathura"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-rampur-mathura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rampur Mathura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rampur Mathura",
+      "phones": [],
+      "covers": [
+        "rampur-mathura"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-sidhauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sidhauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sidhauli",
+      "phones": [],
+      "email": "bdo.sidhauli.sit@gmail.com",
+      "covers": [
+        "sidhauli"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-sidhauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sidhauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sidhauli",
+      "phones": [],
+      "covers": [
+        "sidhauli"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-kasmanda",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kasmanda",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kasmanda",
+      "phones": [],
+      "email": "bdo.kasmanda.sit@gmail.com",
+      "covers": [
+        "kasmanda"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-kasmanda",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kasmanda",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kasmanda",
+      "phones": [],
+      "covers": [
+        "kasmanda"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-gondlamau",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gondlamau",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gondlamau",
+      "phones": [],
+      "email": "bdo.gondlamau.sit@gmail.com",
+      "covers": [
+        "gondlamau"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-gondlamau",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gondlamau",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gondlamau",
+      "phones": [],
+      "covers": [
+        "gondlamau"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-misrikh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Misrikh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Misrikh",
+      "phones": [],
+      "email": "bdo.misrikh.sit@gmail.com",
+      "covers": [
+        "misrikh"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-misrikh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Misrikh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Misrikh",
+      "phones": [],
+      "covers": [
+        "misrikh"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-machhrehta",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Machhrehta",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Machhrehta",
+      "phones": [],
+      "email": "bdo.machhrehta.sit@gmail.com",
+      "covers": [
+        "machhrehta"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-machhrehta",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Machhrehta",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Machhrehta",
+      "phones": [],
+      "covers": [
+        "machhrehta"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-bdo-pisawan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pisawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pisawan",
+      "phones": [],
+      "email": "bdo.pisawan.sit@gmail.com",
+      "covers": [
+        "pisawan"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sitapur-ado-pisawan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pisawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pisawan",
+      "phones": [],
+      "covers": [
+        "pisawan"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-sitapur-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Sitapur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका सीतापुर",
+      "phones": [],
+      "covers": [
+        "ulb-sitapur-main"
+      ],
+      "source_url": "https://sitapur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

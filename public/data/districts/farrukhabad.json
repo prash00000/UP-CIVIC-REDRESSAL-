@@ -1,0 +1,394 @@
+{
+  "district_id": "farrukhabad",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-farrukhabad-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Farrukhabad",
+      "office_name_hi": "कार्यालय जिलाधिकारी, फर्रुखाबाद",
+      "officer_name_en": "Addl.D.M.(F&amp;R)",
+      "phones": [
+        {
+          "number": "9454417623",
+          "type": "office",
+          "source_url": "https://farrukhabad.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "admfr.fr-up@nic.in",
+      "covers": [
+        "farrukhabad"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Farrukhabad",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), फर्रुखाबाद",
+      "phones": [
+        {
+          "number": "9454464981",
+          "type": "office",
+          "source_url": "https://farrukhabad.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "drda-far@nic.in",
+      "covers": [
+        "farrukhabad"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Farrukhabad",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, फर्रुखाबाद",
+      "phones": [],
+      "email": "dprofr-up@nic.in",
+      "covers": [
+        "farrukhabad"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-sdm-farrukhabad",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Farrukhabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Farrukhabad",
+      "phones": [
+        {
+          "number": "9454416454",
+          "type": "cug",
+          "source_url": "https://farrukhabad.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.farrukhabad.frd-up@gov.in",
+      "covers": [
+        "farrukhabad"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-sdm-kaimganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kaimganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kaimganj",
+      "phones": [
+        {
+          "number": "05690-232029",
+          "type": "cug",
+          "source_url": "https://farrukhabad.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.kaimganj.frd-up@gov.in",
+      "covers": [
+        "kaimganj"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-sdm-amritpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Amritpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Amritpur",
+      "phones": [
+        {
+          "number": "9454419007",
+          "type": "cug",
+          "source_url": "https://farrukhabad.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.amritpur.frd-up@gov.in",
+      "covers": [
+        "amritpur"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-bdo-barhpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Barhpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Barhpur",
+      "phones": [],
+      "email": "bdo.barhpur.frd@gmail.com",
+      "covers": [
+        "barhpur"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-ado-barhpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Barhpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Barhpur",
+      "phones": [],
+      "covers": [
+        "barhpur"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-bdo-kamalganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kamalganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kamalganj",
+      "phones": [
+        {
+          "number": "9454464990",
+          "type": "cug",
+          "source_url": "https://farrukhabad.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.kamalganj.frd@gmail.com",
+      "covers": [
+        "kamalganj"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-ado-kamalganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kamalganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kamalganj",
+      "phones": [],
+      "covers": [
+        "kamalganj"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-bdo-mohammadabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mohammadabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mohammadabad",
+      "phones": [],
+      "email": "bdo.mohammadabad.frd@gmail.com",
+      "covers": [
+        "mohammadabad"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-ado-mohammadabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mohammadabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mohammadabad",
+      "phones": [],
+      "covers": [
+        "mohammadabad"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-bdo-kaimganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kaimganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kaimganj",
+      "phones": [
+        {
+          "number": "9454464984",
+          "type": "cug",
+          "source_url": "https://farrukhabad.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.kaimganj.frd@gmail.com",
+      "covers": [
+        "kaimganj"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-ado-kaimganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kaimganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kaimganj",
+      "phones": [],
+      "covers": [
+        "kaimganj"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-bdo-nawabganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nawabganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nawabganj",
+      "phones": [
+        {
+          "number": "9454464985",
+          "type": "cug",
+          "source_url": "https://farrukhabad.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.nawabganj.frd@gmail.com",
+      "covers": [
+        "nawabganj"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-ado-nawabganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nawabganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nawabganj",
+      "phones": [],
+      "covers": [
+        "nawabganj"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-bdo-shamsabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Shamsabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shamsabad",
+      "phones": [
+        {
+          "number": "9454464986",
+          "type": "cug",
+          "source_url": "https://farrukhabad.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.shamsabad.frd@gmail.com",
+      "covers": [
+        "shamsabad"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-ado-shamsabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Shamsabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shamsabad",
+      "phones": [],
+      "covers": [
+        "shamsabad"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-bdo-rajepur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rajepur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rajepur",
+      "phones": [
+        {
+          "number": "9454464987",
+          "type": "cug",
+          "source_url": "https://farrukhabad.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.rajepur.frd@gmail.com",
+      "covers": [
+        "rajepur"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-farrukhabad-ado-rajepur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rajepur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rajepur",
+      "phones": [],
+      "covers": [
+        "rajepur"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-farrukhabad-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Farrukhabad",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका फर्रुखाबाद",
+      "phones": [],
+      "covers": [
+        "ulb-farrukhabad-main"
+      ],
+      "source_url": "https://farrukhabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

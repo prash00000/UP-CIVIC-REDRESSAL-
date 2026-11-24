@@ -1,0 +1,315 @@
+{
+  "district_id": "amroha",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-amroha-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Amroha",
+      "office_name_hi": "कार्यालय जिलाधिकारी, अमरोहा",
+      "phones": [
+        {
+          "number": "9454417571",
+          "type": "office",
+          "source_url": "https://amroha.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmjpn@nic.in",
+      "covers": [
+        "amroha"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amroha-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Amroha",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), अमरोहा",
+      "phones": [
+        {
+          "number": "9454465158",
+          "type": "office",
+          "source_url": "https://amroha.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdojpn@nic.in",
+      "covers": [
+        "amroha"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amroha-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Amroha",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, अमरोहा",
+      "phones": [],
+      "email": "dpro-jpn@nic.in",
+      "covers": [
+        "amroha"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amroha-sdm-amroha",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Amroha",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Amroha",
+      "phones": [],
+      "email": "sdm.amroha.jpn-up@gov.in",
+      "covers": [
+        "amroha"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amroha-sdm-dhanaura",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Dhanaura",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Dhanaura",
+      "phones": [],
+      "email": "sdm.dhanaura.jpn-up@gov.in",
+      "covers": [
+        "dhanaura"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amroha-sdm-hasanpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Hasanpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Hasanpur",
+      "phones": [],
+      "email": "sdm.hasanpur.jpn-up@gov.in",
+      "covers": [
+        "hasanpur"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amroha-sdm-naugawan-sadat",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Naugawan Sadat",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Naugawan Sadat",
+      "phones": [],
+      "email": "sdm.naugawansadat.jpn-up@gov.in",
+      "covers": [
+        "naugawan-sadat"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amroha-bdo-amroha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Amroha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Amroha",
+      "phones": [],
+      "email": "bdo.amroha.jpn@gmail.com",
+      "covers": [
+        "amroha"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amroha-ado-amroha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Amroha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Amroha",
+      "phones": [],
+      "covers": [
+        "amroha"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amroha-bdo-dhanaura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dhanaura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dhanaura",
+      "phones": [],
+      "email": "bdo.dhanaura.jpn@gmail.com",
+      "covers": [
+        "dhanaura"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amroha-ado-dhanaura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dhanaura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dhanaura",
+      "phones": [],
+      "covers": [
+        "dhanaura"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amroha-bdo-gajraula",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gajraula",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gajraula",
+      "phones": [],
+      "email": "bdo.gajraula.jpn@gmail.com",
+      "covers": [
+        "gajraula"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amroha-ado-gajraula",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gajraula",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gajraula",
+      "phones": [],
+      "covers": [
+        "gajraula"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amroha-bdo-hasanpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Hasanpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hasanpur",
+      "phones": [],
+      "email": "bdo.hasanpur.jpn@gmail.com",
+      "covers": [
+        "hasanpur"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amroha-ado-hasanpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Hasanpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Hasanpur",
+      "phones": [],
+      "covers": [
+        "hasanpur"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amroha-bdo-joya",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Joya",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Joya",
+      "phones": [],
+      "email": "bdo.joya.jpn@gmail.com",
+      "covers": [
+        "joya"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amroha-ado-joya",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Joya",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Joya",
+      "phones": [],
+      "covers": [
+        "joya"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amroha-bdo-gangeshwari",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gangeshwari",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gangeshwari",
+      "phones": [],
+      "email": "bdo.gangeshwari.jpn@gmail.com",
+      "covers": [
+        "gangeshwari"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-amroha-ado-gangeshwari",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gangeshwari",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gangeshwari",
+      "phones": [],
+      "covers": [
+        "gangeshwari"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-amroha-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Amroha",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका अमरोहा",
+      "phones": [],
+      "covers": [
+        "ulb-amroha-main"
+      ],
+      "source_url": "https://amroha.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

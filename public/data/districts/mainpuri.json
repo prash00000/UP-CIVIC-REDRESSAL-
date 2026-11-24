@@ -1,0 +1,417 @@
+{
+  "district_id": "mainpuri",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-mainpuri-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Mainpuri",
+      "office_name_hi": "कार्यालय जिलाधिकारी, मैनपुरी",
+      "phones": [
+        {
+          "number": "9454417511",
+          "type": "office",
+          "source_url": "https://mainpuri.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmmai@nic.in",
+      "covers": [
+        "mainpuri"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Mainpuri",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), मैनपुरी",
+      "phones": [
+        {
+          "number": "9454417710",
+          "type": "office",
+          "source_url": "https://mainpuri.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdomai@nic.in",
+      "covers": [
+        "mainpuri"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Mainpuri",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, मैनपुरी",
+      "phones": [],
+      "email": "dpro-mnp@nic.in",
+      "covers": [
+        "mainpuri"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-sdm-mainpuri",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mainpuri",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mainpuri",
+      "phones": [],
+      "email": "sdm.mainpuri.mnp-up@gov.in",
+      "covers": [
+        "mainpuri"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-sdm-bhongaon",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bhongaon",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bhongaon",
+      "phones": [],
+      "email": "sdm.bhongaon.mnp-up@gov.in",
+      "covers": [
+        "bhongaon"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-sdm-karhal",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Karhal",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Karhal",
+      "phones": [],
+      "email": "sdm.karhal.mnp-up@gov.in",
+      "covers": [
+        "karhal"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-sdm-kishni",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kishni",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kishni",
+      "phones": [],
+      "email": "sdm.kishni.mnp-up@gov.in",
+      "covers": [
+        "kishni"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-sdm-kurawali",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kurawali",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kurawali",
+      "phones": [],
+      "email": "sdm.kurawali.mnp-up@gov.in",
+      "covers": [
+        "kurawali"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-bdo-mainpuri",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mainpuri",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mainpuri",
+      "phones": [],
+      "email": "bdo.mainpuri.mnp@gmail.com",
+      "covers": [
+        "mainpuri"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-ado-mainpuri",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mainpuri",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mainpuri",
+      "phones": [],
+      "covers": [
+        "mainpuri"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-bdo-ghiror",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ghiror",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ghiror",
+      "phones": [],
+      "email": "bdo.ghiror.mnp@gmail.com",
+      "covers": [
+        "ghiror"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-ado-ghiror",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ghiror",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ghiror",
+      "phones": [],
+      "covers": [
+        "ghiror"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-bdo-kuraoli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kuraoli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kuraoli",
+      "phones": [],
+      "email": "bdo.kuraoli.mnp@gmail.com",
+      "covers": [
+        "kuraoli"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-ado-kuraoli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kuraoli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kuraoli",
+      "phones": [],
+      "covers": [
+        "kuraoli"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-bdo-kishni",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kishni",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kishni",
+      "phones": [],
+      "email": "bdo.kishni.mnp@gmail.com",
+      "covers": [
+        "kishni"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-ado-kishni",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kishni",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kishni",
+      "phones": [],
+      "covers": [
+        "kishni"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-bdo-karhal",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Karhal",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Karhal",
+      "phones": [],
+      "email": "bdo.karhal.mnp@gmail.com",
+      "covers": [
+        "karhal"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-ado-karhal",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Karhal",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Karhal",
+      "phones": [],
+      "covers": [
+        "karhal"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-bdo-barnahal",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Barnahal",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Barnahal",
+      "phones": [],
+      "email": "bdo.barnahal.mnp@gmail.com",
+      "covers": [
+        "barnahal"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-ado-barnahal",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Barnahal",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Barnahal",
+      "phones": [],
+      "covers": [
+        "barnahal"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-bdo-bewar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bewar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bewar",
+      "phones": [],
+      "email": "bdo.bewar.mnp@gmail.com",
+      "covers": [
+        "bewar"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-ado-bewar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bewar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bewar",
+      "phones": [],
+      "covers": [
+        "bewar"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-bdo-bhongaon",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhongaon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhongaon",
+      "phones": [],
+      "email": "bdo.bhongaon.mnp@gmail.com",
+      "covers": [
+        "bhongaon"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-ado-bhongaon",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhongaon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhongaon",
+      "phones": [],
+      "covers": [
+        "bhongaon"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-bdo-sultanganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sultanganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sultanganj",
+      "phones": [],
+      "email": "bdo.sultanganj.mnp@gmail.com",
+      "covers": [
+        "sultanganj"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mainpuri-ado-sultanganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sultanganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sultanganj",
+      "phones": [],
+      "covers": [
+        "sultanganj"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-mainpuri-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Mainpuri",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका मैनपुरी",
+      "phones": [],
+      "covers": [
+        "ulb-mainpuri-main"
+      ],
+      "source_url": "https://mainpuri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

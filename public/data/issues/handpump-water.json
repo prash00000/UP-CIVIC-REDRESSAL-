@@ -1,0 +1,51 @@
+{
+  "slug": "handpump-water",
+  "title_en": "Handpump broken or unsafe drinking water",
+  "title_hi": "हैंडपंप खराब या दूषित पेयजल",
+  "steps": [
+    {
+      "order": 1,
+      "role": "secretary",
+      "how_en": "Report damaged handpump / borewell to Gram Panchayat Secretary with handpump number.",
+      "how_hi": "हैंडपंप संख्या अंकित कर ग्राम पंचायत सचिव / जलकल विभाग को लिखित सूचना दें।",
+      "time_limit_days": 7,
+      "time_limit_source_url": "https://janhit.up.nic.in"
+    },
+    {
+      "order": 2,
+      "role": "ado_panchayat",
+      "how_en": "Report to ADO (Panchayat) / BDO for re-boring or mechanic allotment under Jal Nigam maintenance.",
+      "how_hi": "हैंडपंप मरम्मत या रिबोर हेतु सहायक विकास अधिकारी (पंचायत) / बीडीओ को पत्र दें।",
+      "time_limit_days": 15,
+      "time_limit_source_url": "https://janhit.up.nic.in"
+    },
+    {
+      "order": 3,
+      "role": "dpro",
+      "how_en": "Escalate to District Panchayat Raj Officer (DPRO) / Executive Engineer Jal Nigam.",
+      "how_hi": "जिला पंचायत राज अधिकारी (DPRO) अथवा अधिशासी अभियंता जल निगम के समक्ष गुहार लगाएं।",
+      "time_limit_days": null,
+      "time_limit_source_url": null
+    },
+    {
+      "order": 4,
+      "role": "dm",
+      "how_en": "Submit urgent complaint to District Magistrate regarding denial of potable drinking water.",
+      "how_hi": "पेयजल संकट की तत्काल सूचना जिलाधिकारी (डीएम) को देकर वैकल्पिक व्यवस्था की मांग करें।",
+      "time_limit_days": null,
+      "time_limit_source_url": null
+    }
+  ],
+  "keep_en": [
+    "Photograph of the defective handpump with stamped identification mark",
+    "Exact location address (e.g., Near Primary School, Hamlet Name)",
+    "Acknowledgment copy of initial intimation to Secretary",
+    "Water quality test report if contamination or yellow water is observed"
+  ],
+  "keep_hi": [
+    "खराब हैंडपंप की स्पष्ट तस्वीर",
+    "हैंडपंप का सटीक स्थान व मजरा/टोला विवरण",
+    "सचिव को दिए गए मूल आवेदन की पावती प्रति",
+    "पानी के दूषित या पीला होने पर जल परीक्षण विवरण यदि उपलब्ध हो"
+  ]
+}

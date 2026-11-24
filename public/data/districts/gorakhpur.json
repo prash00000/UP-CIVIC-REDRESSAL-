@@ -1,0 +1,778 @@
+{
+  "district_id": "gorakhpur",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-gorakhpur-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Gorakhpur",
+      "office_name_hi": "कार्यालय जिलाधिकारी, गोरखपुर",
+      "officer_name_en": "4.",
+      "phones": [
+        {
+          "number": "05512-336005",
+          "type": "office",
+          "source_url": "https://gorakhpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmgor@nic.in",
+      "covers": [
+        "gorakhpur"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Gorakhpur",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), गोरखपुर",
+      "phones": [],
+      "email": "cdo.gkp-up@gov.in",
+      "covers": [
+        "gorakhpur"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Gorakhpur",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, गोरखपुर",
+      "phones": [],
+      "email": "dpro-gkp@nic.in",
+      "covers": [
+        "gorakhpur"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [
+        {
+          "number": "05512-333461",
+          "type": "cug",
+          "source_url": "https://gorakhpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmgor-sadar@nic.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-sdm-sahjanwa",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sahjanwa",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sahjanwa",
+      "phones": [
+        {
+          "number": "05512-700154",
+          "type": "cug",
+          "source_url": "https://gorakhpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmgor-shajanwa@nic.in",
+      "covers": [
+        "sahjanwa"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-sdm-chauri-chaura",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Chauri Chaura",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Chauri Chaura",
+      "phones": [],
+      "email": "sdm.chaurichaura.gkp-up@gov.in",
+      "covers": [
+        "chauri-chaura"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-sdm-bansgaon",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bansgaon",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bansgaon",
+      "phones": [
+        {
+          "number": "05521-230006",
+          "type": "cug",
+          "source_url": "https://gorakhpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmgor-bansgaon@nic.in",
+      "covers": [
+        "bansgaon"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-sdm-khajni",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Khajni",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Khajni",
+      "phones": [
+        {
+          "number": "05521-251013",
+          "type": "cug",
+          "source_url": "https://gorakhpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "tehgor-khajani@nic.in",
+      "covers": [
+        "khajni"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-sdm-campierganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Campierganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Campierganj",
+      "phones": [
+        {
+          "number": "05524-248322",
+          "type": "cug",
+          "source_url": "https://gorakhpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmgor-campierganj@nic.in",
+      "covers": [
+        "campierganj"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-sdm-gola",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Gola",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Gola",
+      "phones": [
+        {
+          "number": "05525-231250",
+          "type": "cug",
+          "source_url": "https://gorakhpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmgor-gola@nic.in",
+      "covers": [
+        "gola"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-chargawan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chargawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chargawan",
+      "phones": [],
+      "email": "bdo.chargawan.gkp@gmail.com",
+      "covers": [
+        "chargawan"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-chargawan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chargawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chargawan",
+      "phones": [],
+      "covers": [
+        "chargawan"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-pipraich",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pipraich",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pipraich",
+      "phones": [],
+      "email": "bdo.pipraich.gkp@gmail.com",
+      "covers": [
+        "pipraich"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-pipraich",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pipraich",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pipraich",
+      "phones": [],
+      "covers": [
+        "pipraich"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-jangal-kaudia",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jangal Kaudia",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jangal Kaudia",
+      "phones": [],
+      "email": "bdo.jangalkaudia.gkp@gmail.com",
+      "covers": [
+        "jangal-kaudia"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-jangal-kaudia",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jangal Kaudia",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jangal Kaudia",
+      "phones": [],
+      "covers": [
+        "jangal-kaudia"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-bhathat",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhathat",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhathat",
+      "phones": [],
+      "email": "bdo.bhathat.gkp@gmail.com",
+      "covers": [
+        "bhathat"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-bhathat",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhathat",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhathat",
+      "phones": [],
+      "covers": [
+        "bhathat"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-sahjanwa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sahjanwa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sahjanwa",
+      "phones": [],
+      "email": "bdo.sahjanwa.gkp@gmail.com",
+      "covers": [
+        "sahjanwa"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-sahjanwa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sahjanwa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sahjanwa",
+      "phones": [],
+      "covers": [
+        "sahjanwa"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-pali",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pali",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pali",
+      "phones": [],
+      "email": "bdo.pali.gkp@gmail.com",
+      "covers": [
+        "pali"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-pali",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pali",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pali",
+      "phones": [],
+      "covers": [
+        "pali"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-khorabar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Khorabar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khorabar",
+      "phones": [],
+      "email": "bdo.khorabar.gkp@gmail.com",
+      "covers": [
+        "khorabar"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-khorabar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Khorabar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Khorabar",
+      "phones": [],
+      "covers": [
+        "khorabar"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-piprauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Piprauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Piprauli",
+      "phones": [],
+      "email": "bdo.piprauli.gkp@gmail.com",
+      "covers": [
+        "piprauli"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-piprauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Piprauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Piprauli",
+      "phones": [],
+      "covers": [
+        "piprauli"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-sardar-nagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sardar Nagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sardar Nagar",
+      "phones": [],
+      "email": "bdo.sardarnagar.gkp@gmail.com",
+      "covers": [
+        "sardar-nagar"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-sardar-nagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sardar Nagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sardar Nagar",
+      "phones": [],
+      "covers": [
+        "sardar-nagar"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-brahmpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Brahmpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Brahmpur",
+      "phones": [],
+      "email": "bdo.brahmpur.gkp@gmail.com",
+      "covers": [
+        "brahmpur"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-brahmpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Brahmpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Brahmpur",
+      "phones": [],
+      "covers": [
+        "brahmpur"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-bansgaon",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bansgaon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bansgaon",
+      "phones": [],
+      "email": "bdo.bansgaon.gkp@gmail.com",
+      "covers": [
+        "bansgaon"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-bansgaon",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bansgaon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bansgaon",
+      "phones": [],
+      "covers": [
+        "bansgaon"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-kauri-ram",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kauri Ram",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kauri Ram",
+      "phones": [],
+      "email": "bdo.kauriram.gkp@gmail.com",
+      "covers": [
+        "kauri-ram"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-kauri-ram",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kauri Ram",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kauri Ram",
+      "phones": [],
+      "covers": [
+        "kauri-ram"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-uruwa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Uruwa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Uruwa",
+      "phones": [],
+      "email": "bdo.uruwa.gkp@gmail.com",
+      "covers": [
+        "uruwa"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-uruwa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Uruwa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Uruwa",
+      "phones": [],
+      "covers": [
+        "uruwa"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-gola",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gola",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gola",
+      "phones": [],
+      "email": "bdo.gola.gkp@gmail.com",
+      "covers": [
+        "gola"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-gola",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gola",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gola",
+      "phones": [],
+      "covers": [
+        "gola"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-barhalganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Barhalganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Barhalganj",
+      "phones": [],
+      "email": "bdo.barhalganj.gkp@gmail.com",
+      "covers": [
+        "barhalganj"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-barhalganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Barhalganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Barhalganj",
+      "phones": [],
+      "covers": [
+        "barhalganj"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-gagaha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gagaha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gagaha",
+      "phones": [],
+      "email": "bdo.gagaha.gkp@gmail.com",
+      "covers": [
+        "gagaha"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-gagaha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gagaha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gagaha",
+      "phones": [],
+      "covers": [
+        "gagaha"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-khajni",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Khajni",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khajni",
+      "phones": [],
+      "email": "bdo.khajni.gkp@gmail.com",
+      "covers": [
+        "khajni"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-khajni",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Khajni",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Khajni",
+      "phones": [],
+      "covers": [
+        "khajni"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-belghat",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Belghat",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Belghat",
+      "phones": [],
+      "email": "bdo.belghat.gkp@gmail.com",
+      "covers": [
+        "belghat"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-belghat",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Belghat",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Belghat",
+      "phones": [],
+      "covers": [
+        "belghat"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-bdo-campierganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Campierganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Campierganj",
+      "phones": [],
+      "email": "bdo.campierganj.gkp@gmail.com",
+      "covers": [
+        "campierganj"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-gorakhpur-ado-campierganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Campierganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Campierganj",
+      "phones": [],
+      "covers": [
+        "campierganj"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-gorakhpur-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Gorakhpur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका गोरखपुर",
+      "phones": [],
+      "covers": [
+        "ulb-gorakhpur-main"
+      ],
+      "source_url": "https://gorakhpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

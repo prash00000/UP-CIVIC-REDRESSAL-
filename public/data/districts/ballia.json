@@ -1,0 +1,657 @@
+{
+  "district_id": "ballia",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-ballia-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Ballia",
+      "office_name_hi": "कार्यालय जिलाधिकारी, बलिया",
+      "officer_name_en": "Gyanendra Singh, IAS",
+      "phones": [
+        {
+          "number": "9194544175",
+          "type": "office",
+          "source_url": "https://ballia.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmbal@nic.in",
+      "covers": [
+        "ballia"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Ballia",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), बलिया",
+      "phones": [],
+      "email": "cdo.bal-up@gov.in",
+      "covers": [
+        "ballia"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Ballia",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, बलिया",
+      "phones": [],
+      "email": "dpro-bal@nic.in",
+      "covers": [
+        "ballia"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [],
+      "email": "sdm.sadar.bal-up@gov.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-sdm-rasra",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Rasra",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Rasra",
+      "phones": [],
+      "email": "sdm.rasra.bal-up@gov.in",
+      "covers": [
+        "rasra"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-sdm-bansdih",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bansdih",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bansdih",
+      "phones": [],
+      "email": "sdm.bansdih.bal-up@gov.in",
+      "covers": [
+        "bansdih"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-sdm-bairia",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bairia",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bairia",
+      "phones": [],
+      "email": "sdm.bairia.bal-up@gov.in",
+      "covers": [
+        "bairia"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-sdm-sikanderpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sikanderpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sikanderpur",
+      "phones": [],
+      "email": "sdm.sikanderpur.bal-up@gov.in",
+      "covers": [
+        "sikanderpur"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-sdm-belthara-road",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Belthara Road",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Belthara Road",
+      "phones": [],
+      "email": "sdm.belthararoad.bal-up@gov.in",
+      "covers": [
+        "belthara-road"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-bdo-dubhad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dubhad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dubhad",
+      "phones": [],
+      "email": "bdo.dubhad.bal@gmail.com",
+      "covers": [
+        "dubhad"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-ado-dubhad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dubhad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dubhad",
+      "phones": [],
+      "covers": [
+        "dubhad"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-bdo-hanumanganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Hanumanganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hanumanganj",
+      "phones": [],
+      "email": "bdo.hanumanganj.bal@gmail.com",
+      "covers": [
+        "hanumanganj"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-ado-hanumanganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Hanumanganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Hanumanganj",
+      "phones": [],
+      "covers": [
+        "hanumanganj"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-bdo-garwar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Garwar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Garwar",
+      "phones": [],
+      "email": "bdo.garwar.bal@gmail.com",
+      "covers": [
+        "garwar"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-ado-garwar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Garwar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Garwar",
+      "phones": [],
+      "covers": [
+        "garwar"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-bdo-bansdih",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bansdih",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bansdih",
+      "phones": [],
+      "email": "bdo.bansdih.bal@gmail.com",
+      "covers": [
+        "bansdih"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-ado-bansdih",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bansdih",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bansdih",
+      "phones": [],
+      "covers": [
+        "bansdih"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-bdo-beruarbari",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Beruarbari",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Beruarbari",
+      "phones": [],
+      "email": "bdo.beruarbari.bal@gmail.com",
+      "covers": [
+        "beruarbari"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-ado-beruarbari",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Beruarbari",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Beruarbari",
+      "phones": [],
+      "covers": [
+        "beruarbari"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-bdo-reoti",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Reoti",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Reoti",
+      "phones": [],
+      "email": "bdo.reoti.bal@gmail.com",
+      "covers": [
+        "reoti"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-ado-reoti",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Reoti",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Reoti",
+      "phones": [],
+      "covers": [
+        "reoti"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-bdo-bairia",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bairia",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bairia",
+      "phones": [],
+      "email": "bdo.bairia.bal@gmail.com",
+      "covers": [
+        "bairia"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-ado-bairia",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bairia",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bairia",
+      "phones": [],
+      "covers": [
+        "bairia"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-bdo-muralichhapra",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Muralichhapra",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Muralichhapra",
+      "phones": [],
+      "email": "bdo.muralichhapra.bal@gmail.com",
+      "covers": [
+        "muralichhapra"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-ado-muralichhapra",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Muralichhapra",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Muralichhapra",
+      "phones": [],
+      "covers": [
+        "muralichhapra"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-bdo-sikanderpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sikanderpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sikanderpur",
+      "phones": [],
+      "email": "bdo.sikanderpur.bal@gmail.com",
+      "covers": [
+        "sikanderpur"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-ado-sikanderpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sikanderpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sikanderpur",
+      "phones": [],
+      "covers": [
+        "sikanderpur"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-bdo-pandah",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pandah",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pandah",
+      "phones": [],
+      "email": "bdo.pandah.bal@gmail.com",
+      "covers": [
+        "pandah"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-ado-pandah",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pandah",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pandah",
+      "phones": [],
+      "covers": [
+        "pandah"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-bdo-maniyar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Maniyar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Maniyar",
+      "phones": [],
+      "email": "bdo.maniyar.bal@gmail.com",
+      "covers": [
+        "maniyar"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-ado-maniyar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Maniyar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Maniyar",
+      "phones": [],
+      "covers": [
+        "maniyar"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-bdo-nawanagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nawanagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nawanagar",
+      "phones": [],
+      "email": "bdo.nawanagar.bal@gmail.com",
+      "covers": [
+        "nawanagar"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-ado-nawanagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nawanagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nawanagar",
+      "phones": [],
+      "covers": [
+        "nawanagar"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-bdo-rasra",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rasra",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rasra",
+      "phones": [],
+      "email": "bdo.rasra.bal@gmail.com",
+      "covers": [
+        "rasra"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-ado-rasra",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rasra",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rasra",
+      "phones": [],
+      "covers": [
+        "rasra"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-bdo-chilkahar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chilkahar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chilkahar",
+      "phones": [],
+      "email": "bdo.chilkahar.bal@gmail.com",
+      "covers": [
+        "chilkahar"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-ado-chilkahar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chilkahar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chilkahar",
+      "phones": [],
+      "covers": [
+        "chilkahar"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-bdo-sohnaon",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sohnaon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sohnaon",
+      "phones": [],
+      "email": "bdo.sohnaon.bal@gmail.com",
+      "covers": [
+        "sohnaon"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-ado-sohnaon",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sohnaon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sohnaon",
+      "phones": [],
+      "covers": [
+        "sohnaon"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-bdo-nagra",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nagra",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nagra",
+      "phones": [],
+      "email": "bdo.nagra.bal@gmail.com",
+      "covers": [
+        "nagra"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-ado-nagra",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nagra",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nagra",
+      "phones": [],
+      "covers": [
+        "nagra"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-bdo-siarchor",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Siarchor",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Siarchor",
+      "phones": [],
+      "email": "bdo.siarchor.bal@gmail.com",
+      "covers": [
+        "siarchor"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ballia-ado-siarchor",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Siarchor",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Siarchor",
+      "phones": [],
+      "covers": [
+        "siarchor"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-ballia-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Ballia",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका बलिया",
+      "phones": [],
+      "covers": [
+        "ulb-ballia-main"
+      ],
+      "source_url": "https://ballia.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

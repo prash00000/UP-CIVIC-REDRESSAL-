@@ -1,0 +1,680 @@
+{
+  "district_id": "bulandshahr",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-bulandshahr-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Bulandshahr",
+      "office_name_hi": "कार्यालय जिलाधिकारी, बुलंदशहर",
+      "officer_name_en": "Mr. Kumar Harsh, IAS",
+      "phones": [
+        {
+          "number": "05732-280351",
+          "type": "office",
+          "source_url": "https://bulandshahr.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmbul@nic.in",
+      "covers": [
+        "bulandshahr"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Bulandshahr",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), बुलंदशहर",
+      "phones": [
+        {
+          "number": "9454465052",
+          "type": "office",
+          "source_url": "https://bulandshahr.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdobul@nic.in",
+      "covers": [
+        "bulandshahr"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Bulandshahr",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, बुलंदशहर",
+      "phones": [],
+      "email": "dpro-bul@nic.in",
+      "covers": [
+        "bulandshahr"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-sdm-bulandshahr",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bulandshahr",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bulandshahr",
+      "phones": [],
+      "email": "sdm.bulandshahr.bul-up@gov.in",
+      "covers": [
+        "bulandshahr"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-sdm-anupshahr",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Anupshahr",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Anupshahr",
+      "phones": [],
+      "email": "sdm.anupshahr.bul-up@gov.in",
+      "covers": [
+        "anupshahr"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-sdm-debai",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Debai",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Debai",
+      "phones": [],
+      "email": "sdm.debai.bul-up@gov.in",
+      "covers": [
+        "debai"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-sdm-khurja",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Khurja",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Khurja",
+      "phones": [],
+      "email": "sdm.khurja.bul-up@gov.in",
+      "covers": [
+        "khurja"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-sdm-shikarpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Shikarpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Shikarpur",
+      "phones": [],
+      "email": "sdm.shikarpur.bul-up@gov.in",
+      "covers": [
+        "shikarpur"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-sdm-siana",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Siana",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Siana",
+      "phones": [],
+      "email": "sdm.siana.bul-up@gov.in",
+      "covers": [
+        "siana"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-sdm-syana",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Syana",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Syana",
+      "phones": [],
+      "email": "sdm.syana.bul-up@gov.in",
+      "covers": [
+        "syana"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-bdo-bulandshahr",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bulandshahr",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bulandshahr",
+      "phones": [],
+      "email": "bdo.bulandshahr.bul@gmail.com",
+      "covers": [
+        "bulandshahr"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-ado-bulandshahr",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bulandshahr",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bulandshahr",
+      "phones": [],
+      "covers": [
+        "bulandshahr"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-bdo-lakhaoti",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Lakhaoti",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Lakhaoti",
+      "phones": [],
+      "email": "bdo.lakhaoti.bul@gmail.com",
+      "covers": [
+        "lakhaoti"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-ado-lakhaoti",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Lakhaoti",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Lakhaoti",
+      "phones": [],
+      "covers": [
+        "lakhaoti"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-bdo-sikandrabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sikandrabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sikandrabad",
+      "phones": [],
+      "email": "bdo.sikandrabad.bul@gmail.com",
+      "covers": [
+        "sikandrabad"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-ado-sikandrabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sikandrabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sikandrabad",
+      "phones": [],
+      "covers": [
+        "sikandrabad"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-bdo-gulaothi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gulaothi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gulaothi",
+      "phones": [],
+      "email": "bdo.gulaothi.bul@gmail.com",
+      "covers": [
+        "gulaothi"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-ado-gulaothi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gulaothi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gulaothi",
+      "phones": [],
+      "covers": [
+        "gulaothi"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-bdo-aguta",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Aguta",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Aguta",
+      "phones": [],
+      "email": "bdo.aguta.bul@gmail.com",
+      "covers": [
+        "aguta"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-ado-aguta",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Aguta",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Aguta",
+      "phones": [],
+      "covers": [
+        "aguta"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-bdo-bhavan-bahadur-nagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhavan Bahadur Nagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhavan Bahadur Nagar",
+      "phones": [],
+      "email": "bdo.bhavanbahadurnagar.bul@gmail.com",
+      "covers": [
+        "bhavan-bahadur-nagar"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-ado-bhavan-bahadur-nagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhavan Bahadur Nagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhavan Bahadur Nagar",
+      "phones": [],
+      "covers": [
+        "bhavan-bahadur-nagar"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-bdo-syana",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Syana",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Syana",
+      "phones": [],
+      "email": "bdo.syana.bul@gmail.com",
+      "covers": [
+        "syana"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-ado-syana",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Syana",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Syana",
+      "phones": [],
+      "covers": [
+        "syana"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-bdo-unchagaon",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Unchagaon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Unchagaon",
+      "phones": [],
+      "email": "bdo.unchagaon.bul@gmail.com",
+      "covers": [
+        "unchagaon"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-ado-unchagaon",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Unchagaon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Unchagaon",
+      "phones": [],
+      "covers": [
+        "unchagaon"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-bdo-jahangirabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jahangirabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jahangirabad",
+      "phones": [],
+      "email": "bdo.jahangirabad.bul@gmail.com",
+      "covers": [
+        "jahangirabad"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-ado-jahangirabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jahangirabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jahangirabad",
+      "phones": [],
+      "covers": [
+        "jahangirabad"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-bdo-anupshahr",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Anupshahr",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Anupshahr",
+      "phones": [],
+      "email": "bdo.anupshahr.bul@gmail.com",
+      "covers": [
+        "anupshahr"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-ado-anupshahr",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Anupshahr",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Anupshahr",
+      "phones": [],
+      "covers": [
+        "anupshahr"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-bdo-debai",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Debai",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Debai",
+      "phones": [],
+      "email": "bdo.debai.bul@gmail.com",
+      "covers": [
+        "debai"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-ado-debai",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Debai",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Debai",
+      "phones": [],
+      "covers": [
+        "debai"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-bdo-danpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Danpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Danpur",
+      "phones": [],
+      "email": "bdo.danpur.bul@gmail.com",
+      "covers": [
+        "danpur"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-ado-danpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Danpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Danpur",
+      "phones": [],
+      "covers": [
+        "danpur"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-bdo-dharampur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dharampur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dharampur",
+      "phones": [],
+      "email": "bdo.dharampur.bul@gmail.com",
+      "covers": [
+        "dharampur"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-ado-dharampur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dharampur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dharampur",
+      "phones": [],
+      "covers": [
+        "dharampur"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-bdo-shikarpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Shikarpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shikarpur",
+      "phones": [],
+      "email": "bdo.shikarpur.bul@gmail.com",
+      "covers": [
+        "shikarpur"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-ado-shikarpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Shikarpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shikarpur",
+      "phones": [],
+      "covers": [
+        "shikarpur"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-bdo-pahasu",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pahasu",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pahasu",
+      "phones": [],
+      "email": "bdo.pahasu.bul@gmail.com",
+      "covers": [
+        "pahasu"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-ado-pahasu",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pahasu",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pahasu",
+      "phones": [],
+      "covers": [
+        "pahasu"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-bdo-khurja",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Khurja",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khurja",
+      "phones": [],
+      "email": "bdo.khurja.bul@gmail.com",
+      "covers": [
+        "khurja"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-ado-khurja",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Khurja",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Khurja",
+      "phones": [],
+      "covers": [
+        "khurja"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-bdo-araniya",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Araniya",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Araniya",
+      "phones": [],
+      "email": "bdo.araniya.bul@gmail.com",
+      "covers": [
+        "araniya"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bulandshahr-ado-araniya",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Araniya",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Araniya",
+      "phones": [],
+      "covers": [
+        "araniya"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-bulandshahr-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Bulandshahr",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका बुलंदशहर",
+      "phones": [],
+      "covers": [
+        "ulb-bulandshahr-main"
+      ],
+      "source_url": "https://bulandshahr.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

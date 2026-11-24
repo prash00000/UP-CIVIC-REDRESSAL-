@@ -1,0 +1,51 @@
+{
+  "slug": "street-light",
+  "title_en": "Street light broken or missing",
+  "title_hi": "स्ट्रीट लाइट खराब या बंद",
+  "steps": [
+    {
+      "order": 1,
+      "role": "secretary",
+      "how_en": "Submit written request to Gram Panchayat Secretary (or EO in town) noting pole number.",
+      "how_hi": "ग्राम पंचायत सचिव (या कस्बे में ईओ) को खंभा नंबर दर्ज कर लिखित प्रार्थना पत्र दें।",
+      "time_limit_days": 15,
+      "time_limit_source_url": "https://janhit.up.nic.in"
+    },
+    {
+      "order": 2,
+      "role": "bdo",
+      "how_en": "If unrepaired after 15 days, escalate to BDO / Nagar Palika Chairman with acknowledgment copy.",
+      "how_hi": "15 दिन में सुधार न होने पर पावती प्रति सहित खंड विकास अधिकारी (बीडीओ) / पालिका अध्यक्ष को दें।",
+      "time_limit_days": 15,
+      "time_limit_source_url": "https://janhit.up.nic.in"
+    },
+    {
+      "order": 3,
+      "role": "sdm",
+      "how_en": "Present at Tehsil Samadhan Diwas (1st & 3rd Tuesday) before SDM.",
+      "how_hi": "माह के प्रथम व तृतीय मंगलवार को तहसील समाधान दिवस में एसडीएम के समक्ष प्रस्तुत करें।",
+      "time_limit_days": null,
+      "time_limit_source_url": null
+    },
+    {
+      "order": 4,
+      "role": "dm",
+      "how_en": "File formal petition before District Magistrate and file RTI Form-A for maintenance ledger.",
+      "how_hi": "जिलाधिकारी (डीएम) को प्रार्थना पत्र दें और लाइट रख-रखाव बिलों हेतु आरटीआई प्रपत्र-क दाखिल करें।",
+      "time_limit_days": null,
+      "time_limit_source_url": null
+    }
+  ],
+  "keep_en": [
+    "Clear photograph of the non-functional street light fixture with date and time",
+    "Exact electric pole number or nearest landmark address",
+    "Diary / receipt number of the written application submitted to the Secretary / EO",
+    "Prior reference number if registered on 1076 or Jansunwai"
+  ],
+  "keep_hi": [
+    "खराब स्ट्रीट लाइट की दिनांक व समय सहित स्पष्ट फोटो",
+    "बिजली के खंभे का नंबर या निकटतम पहचान स्थल",
+    "सचिव या अधिशासी अधिकारी को दिए गए आवेदन की डायरी / पावती रसीद",
+    "सीएम हेल्पलाइन 1076 या जनसुनवाई संदर्भ संख्या (यदि दर्ज हो)"
+  ]
+}

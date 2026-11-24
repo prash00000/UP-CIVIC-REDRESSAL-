@@ -1,0 +1,375 @@
+{
+  "district_id": "sambhal",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-sambhal-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Sambhal",
+      "office_name_hi": "कार्यालय जिलाधिकारी, सम्भल",
+      "officer_name_en": "Mr. Ankit Khandelwal",
+      "phones": [
+        {
+          "number": "05921-243443",
+          "type": "office",
+          "source_url": "https://sambhal.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmbm-up@nic.in",
+      "covers": [
+        "sambhal"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Sambhal",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), सम्भल",
+      "phones": [],
+      "email": "cdo.sbh-up@gov.in",
+      "covers": [
+        "sambhal"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Sambhal",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, सम्भल",
+      "phones": [],
+      "email": "dpro-sbh@nic.in",
+      "covers": [
+        "sambhal"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-sdm-sambhal",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sambhal",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sambhal",
+      "phones": [
+        {
+          "number": "9454416871",
+          "type": "cug",
+          "source_url": "https://sambhal.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmsambhal@gmail.com",
+      "covers": [
+        "sambhal"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-sdm-chandausi",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Chandausi",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Chandausi",
+      "phones": [
+        {
+          "number": "9454416870",
+          "type": "cug",
+          "source_url": "https://sambhal.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmchandausi@gmail.com",
+      "covers": [
+        "chandausi"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-sdm-gunnaur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Gunnaur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Gunnaur",
+      "phones": [
+        {
+          "number": "9454415834",
+          "type": "cug",
+          "source_url": "https://sambhal.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmgunnaur@gmail.com",
+      "covers": [
+        "gunnaur"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-bdo-sambhal",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sambhal",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sambhal",
+      "phones": [],
+      "email": "bdo.sambhal.sbh@gmail.com",
+      "covers": [
+        "sambhal"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-ado-sambhal",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sambhal",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sambhal",
+      "phones": [],
+      "covers": [
+        "sambhal"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-bdo-asmoli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Asmoli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Asmoli",
+      "phones": [],
+      "email": "bdo.asmoli.sbh@gmail.com",
+      "covers": [
+        "asmoli"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-ado-asmoli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Asmoli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Asmoli",
+      "phones": [],
+      "covers": [
+        "asmoli"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-bdo-panwasa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Panwasa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Panwasa",
+      "phones": [],
+      "email": "bdo.panwasa.sbh@gmail.com",
+      "covers": [
+        "panwasa"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-ado-panwasa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Panwasa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Panwasa",
+      "phones": [],
+      "covers": [
+        "panwasa"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-bdo-bahjoi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bahjoi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bahjoi",
+      "phones": [],
+      "email": "bdo.bahjoi.sbh@gmail.com",
+      "covers": [
+        "bahjoi"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-ado-bahjoi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bahjoi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bahjoi",
+      "phones": [],
+      "covers": [
+        "bahjoi"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-bdo-baniakhera",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Baniakhera",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Baniakhera",
+      "phones": [],
+      "email": "bdo.baniakhera.sbh@gmail.com",
+      "covers": [
+        "baniakhera"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-ado-baniakhera",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Baniakhera",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Baniakhera",
+      "phones": [],
+      "covers": [
+        "baniakhera"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-bdo-gunnaur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gunnaur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gunnaur",
+      "phones": [],
+      "email": "bdo.gunnaur.sbh@gmail.com",
+      "covers": [
+        "gunnaur"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-ado-gunnaur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gunnaur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gunnaur",
+      "phones": [],
+      "covers": [
+        "gunnaur"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-bdo-rajpura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rajpura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rajpura",
+      "phones": [],
+      "email": "bdo.rajpura.sbh@gmail.com",
+      "covers": [
+        "rajpura"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-ado-rajpura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rajpura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rajpura",
+      "phones": [],
+      "covers": [
+        "rajpura"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-bdo-janawai",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Janawai",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Janawai",
+      "phones": [],
+      "email": "bdo.janawai.sbh@gmail.com",
+      "covers": [
+        "janawai"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sambhal-ado-janawai",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Janawai",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Janawai",
+      "phones": [],
+      "covers": [
+        "janawai"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-sambhal-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Sambhal",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका सम्भल",
+      "phones": [],
+      "covers": [
+        "ulb-sambhal-main"
+      ],
+      "source_url": "https://sambhal.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

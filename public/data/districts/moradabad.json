@@ -1,0 +1,403 @@
+{
+  "district_id": "moradabad",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-moradabad-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Moradabad",
+      "office_name_hi": "कार्यालय जिलाधिकारी, मुरादाबाद",
+      "officer_name_en": "Shri Anunaya Jha",
+      "phones": [
+        {
+          "number": "05912-413288",
+          "type": "office",
+          "source_url": "https://moradabad.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmmor@nic.in",
+      "covers": [
+        "moradabad"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Moradabad",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), मुरादाबाद",
+      "phones": [
+        {
+          "number": "05912-451657",
+          "type": "office",
+          "source_url": "https://moradabad.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdomor@nic.in",
+      "covers": [
+        "moradabad"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Moradabad",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, मुरादाबाद",
+      "phones": [],
+      "email": "dpro-mrd@nic.in",
+      "covers": [
+        "moradabad"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-sdm-moradabad",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Moradabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Moradabad",
+      "phones": [],
+      "email": "sdm.moradabad.mrd-up@gov.in",
+      "covers": [
+        "moradabad"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-sdm-kanth",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kanth",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kanth",
+      "phones": [],
+      "email": "sdm.kanth.mrd-up@gov.in",
+      "covers": [
+        "kanth"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-sdm-bilari",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bilari",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bilari",
+      "phones": [],
+      "email": "sdm.bilari.mrd-up@gov.in",
+      "covers": [
+        "bilari"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-sdm-thakurdwara",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Thakurdwara",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Thakurdwara",
+      "phones": [],
+      "email": "sdm.thakurdwara.mrd-up@gov.in",
+      "covers": [
+        "thakurdwara"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-bdo-moradabad-sadar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Moradabad Sadar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Moradabad Sadar",
+      "phones": [],
+      "email": "bdo.moradabadsadar.mrd@gmail.com",
+      "covers": [
+        "moradabad-sadar"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-ado-moradabad-sadar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Moradabad Sadar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Moradabad Sadar",
+      "phones": [],
+      "covers": [
+        "moradabad-sadar"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-bdo-munda-pandey",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Munda Pandey",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Munda Pandey",
+      "phones": [],
+      "email": "bdo.mundapandey.mrd@gmail.com",
+      "covers": [
+        "munda-pandey"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-ado-munda-pandey",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Munda Pandey",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Munda Pandey",
+      "phones": [],
+      "covers": [
+        "munda-pandey"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-bdo-bhagatpur-tanda",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhagatpur Tanda",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhagatpur Tanda",
+      "phones": [],
+      "email": "bdo.bhagatpurtanda.mrd@gmail.com",
+      "covers": [
+        "bhagatpur-tanda"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-ado-bhagatpur-tanda",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhagatpur Tanda",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhagatpur Tanda",
+      "phones": [],
+      "covers": [
+        "bhagatpur-tanda"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-bdo-kanth",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kanth",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kanth",
+      "phones": [],
+      "email": "bdo.kanth.mrd@gmail.com",
+      "covers": [
+        "kanth"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-ado-kanth",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kanth",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kanth",
+      "phones": [],
+      "covers": [
+        "kanth"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-bdo-chhajlat",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chhajlat",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chhajlat",
+      "phones": [],
+      "email": "bdo.chhajlat.mrd@gmail.com",
+      "covers": [
+        "chhajlat"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-ado-chhajlat",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chhajlat",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chhajlat",
+      "phones": [],
+      "covers": [
+        "chhajlat"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-bdo-dilari",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dilari",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dilari",
+      "phones": [],
+      "email": "bdo.dilari.mrd@gmail.com",
+      "covers": [
+        "dilari"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-ado-dilari",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dilari",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dilari",
+      "phones": [],
+      "covers": [
+        "dilari"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-bdo-thakurdwara",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Thakurdwara",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Thakurdwara",
+      "phones": [],
+      "email": "bdo.thakurdwara.mrd@gmail.com",
+      "covers": [
+        "thakurdwara"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-ado-thakurdwara",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Thakurdwara",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Thakurdwara",
+      "phones": [],
+      "covers": [
+        "thakurdwara"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-bdo-bilari",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bilari",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bilari",
+      "phones": [],
+      "email": "bdo.bilari.mrd@gmail.com",
+      "covers": [
+        "bilari"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-ado-bilari",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bilari",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bilari",
+      "phones": [],
+      "covers": [
+        "bilari"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-bdo-kundarki",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kundarki",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kundarki",
+      "phones": [],
+      "email": "bdo.kundarki.mrd@gmail.com",
+      "covers": [
+        "kundarki"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-ado-kundarki",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kundarki",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kundarki",
+      "phones": [],
+      "covers": [
+        "kundarki"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-moradabad-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Moradabad",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका मुरादाबाद",
+      "phones": [],
+      "covers": [
+        "ulb-moradabad-main"
+      ],
+      "source_url": "https://moradabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "district_id": "ghaziabad",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-ghaziabad-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Ghaziabad",
+      "office_name_hi": "कार्यालय जिलाधिकारी, गाजियाबाद",
+      "officer_name_en": "1",
+      "phones": [],
+      "email": "dmgzb@nic.in",
+      "covers": [
+        "ghaziabad"
+      ],
+      "source_url": "https://ghaziabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghaziabad-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Ghaziabad",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), गाजियाबाद",
+      "phones": [],
+      "email": "cdo.gzb-up@gov.in",
+      "covers": [
+        "ghaziabad"
+      ],
+      "source_url": "https://ghaziabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghaziabad-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Ghaziabad",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, गाजियाबाद",
+      "phones": [],
+      "email": "dpro-gzb@nic.in",
+      "covers": [
+        "ghaziabad"
+      ],
+      "source_url": "https://ghaziabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghaziabad-sdm-ghaziabad",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Ghaziabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Ghaziabad",
+      "phones": [],
+      "email": "sdm.ghaziabad.gzb-up@gov.in",
+      "covers": [
+        "ghaziabad"
+      ],
+      "source_url": "https://ghaziabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghaziabad-sdm-modinagar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Modinagar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Modinagar",
+      "phones": [
+        {
+          "number": "01232-220770",
+          "type": "cug",
+          "source_url": "https://ghaziabad.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.modinagar.gzb-up@gov.in",
+      "covers": [
+        "modinagar"
+      ],
+      "source_url": "https://ghaziabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghaziabad-sdm-loni",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Loni",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Loni",
+      "phones": [
+        {
+          "number": "9211085687",
+          "type": "cug",
+          "source_url": "https://ghaziabad.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.loni.gzb-up@gov.in",
+      "covers": [
+        "loni"
+      ],
+      "source_url": "https://ghaziabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghaziabad-bdo-razapur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Razapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Razapur",
+      "phones": [],
+      "email": "bdo.razapur.gzb@gmail.com",
+      "covers": [
+        "razapur"
+      ],
+      "source_url": "https://ghaziabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghaziabad-ado-razapur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Razapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Razapur",
+      "phones": [],
+      "covers": [
+        "razapur"
+      ],
+      "source_url": "https://ghaziabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghaziabad-bdo-bhojpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhojpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhojpur",
+      "phones": [],
+      "email": "bdo.bhojpur.gzb@gmail.com",
+      "covers": [
+        "bhojpur"
+      ],
+      "source_url": "https://ghaziabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghaziabad-ado-bhojpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhojpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhojpur",
+      "phones": [],
+      "covers": [
+        "bhojpur"
+      ],
+      "source_url": "https://ghaziabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghaziabad-bdo-loni",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Loni",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Loni",
+      "phones": [],
+      "email": "bdo.loni.gzb@gmail.com",
+      "covers": [
+        "loni"
+      ],
+      "source_url": "https://ghaziabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghaziabad-ado-loni",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Loni",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Loni",
+      "phones": [],
+      "covers": [
+        "loni"
+      ],
+      "source_url": "https://ghaziabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghaziabad-bdo-muradnagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Muradnagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Muradnagar",
+      "phones": [],
+      "email": "bdo.muradnagar.gzb@gmail.com",
+      "covers": [
+        "muradnagar"
+      ],
+      "source_url": "https://ghaziabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghaziabad-ado-muradnagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Muradnagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Muradnagar",
+      "phones": [],
+      "covers": [
+        "muradnagar"
+      ],
+      "source_url": "https://ghaziabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-ghaziabad-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Ghaziabad",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका गाजियाबाद",
+      "phones": [],
+      "covers": [
+        "ulb-ghaziabad-main"
+      ],
+      "source_url": "https://ghaziabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

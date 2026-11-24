@@ -1,0 +1,605 @@
+{
+  "district_id": "lakhimpur-kheri",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-lakhimpur-kheri-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Lakhimpur Kheri",
+      "office_name_hi": "कार्यालय जिलाधिकारी, लखीमपुर खीरी",
+      "phones": [],
+      "email": "dmkhe@nic.in",
+      "covers": [
+        "lakhimpur-kheri"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Lakhimpur Kheri",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), लखीमपुर खीरी",
+      "phones": [],
+      "email": "cdo.khe-up@gov.in",
+      "covers": [
+        "lakhimpur-kheri"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Lakhimpur Kheri",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, लखीमपुर खीरी",
+      "phones": [],
+      "email": "dpro-khe@nic.in",
+      "covers": [
+        "lakhimpur-kheri"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-sdm-lakhimpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Lakhimpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Lakhimpur",
+      "phones": [],
+      "email": "sdm.lakhimpur.khe-up@gov.in",
+      "covers": [
+        "lakhimpur"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-sdm-gola-gokaran-nath",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Gola Gokaran Nath",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Gola Gokaran Nath",
+      "phones": [],
+      "email": "sdm.golagokarannath.khe-up@gov.in",
+      "covers": [
+        "gola-gokaran-nath"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-sdm-mohammadi",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mohammadi",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mohammadi",
+      "phones": [],
+      "email": "sdm.mohammadi.khe-up@gov.in",
+      "covers": [
+        "mohammadi"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-sdm-nighasan",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Nighasan",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Nighasan",
+      "phones": [],
+      "email": "sdm.nighasan.khe-up@gov.in",
+      "covers": [
+        "nighasan"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-sdm-dhaurahra",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Dhaurahra",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Dhaurahra",
+      "phones": [],
+      "email": "sdm.dhaurahra.khe-up@gov.in",
+      "covers": [
+        "dhaurahra"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-sdm-mitauli",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mitauli",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mitauli",
+      "phones": [],
+      "email": "sdm.mitauli.khe-up@gov.in",
+      "covers": [
+        "mitauli"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-sdm-paliya",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Paliya",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Paliya",
+      "phones": [],
+      "email": "sdm.paliya.khe-up@gov.in",
+      "covers": [
+        "paliya"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-bdo-lakhimpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Lakhimpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Lakhimpur",
+      "phones": [],
+      "email": "bdo.lakhimpur.khe@gmail.com",
+      "covers": [
+        "lakhimpur"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-ado-lakhimpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Lakhimpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Lakhimpur",
+      "phones": [],
+      "covers": [
+        "lakhimpur"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-bdo-behjam",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Behjam",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Behjam",
+      "phones": [],
+      "email": "bdo.behjam.khe@gmail.com",
+      "covers": [
+        "behjam"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-ado-behjam",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Behjam",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Behjam",
+      "phones": [],
+      "covers": [
+        "behjam"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-bdo-mitauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mitauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mitauli",
+      "phones": [],
+      "email": "bdo.mitauli.khe@gmail.com",
+      "covers": [
+        "mitauli"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-ado-mitauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mitauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mitauli",
+      "phones": [],
+      "covers": [
+        "mitauli"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-bdo-pasgawan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pasgawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pasgawan",
+      "phones": [],
+      "email": "bdo.pasgawan.khe@gmail.com",
+      "covers": [
+        "pasgawan"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-ado-pasgawan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pasgawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pasgawan",
+      "phones": [],
+      "covers": [
+        "pasgawan"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-bdo-mohammadi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mohammadi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mohammadi",
+      "phones": [],
+      "email": "bdo.mohammadi.khe@gmail.com",
+      "covers": [
+        "mohammadi"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-ado-mohammadi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mohammadi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mohammadi",
+      "phones": [],
+      "covers": [
+        "mohammadi"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-bdo-gola",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gola",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gola",
+      "phones": [],
+      "email": "bdo.gola.khe@gmail.com",
+      "covers": [
+        "gola"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-ado-gola",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gola",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gola",
+      "phones": [],
+      "covers": [
+        "gola"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-bdo-bankeyganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bankeyganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bankeyganj",
+      "phones": [],
+      "email": "bdo.bankeyganj.khe@gmail.com",
+      "covers": [
+        "bankeyganj"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-ado-bankeyganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bankeyganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bankeyganj",
+      "phones": [],
+      "covers": [
+        "bankeyganj"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-bdo-bijua",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bijua",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bijua",
+      "phones": [],
+      "email": "bdo.bijua.khe@gmail.com",
+      "covers": [
+        "bijua"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-ado-bijua",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bijua",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bijua",
+      "phones": [],
+      "covers": [
+        "bijua"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-bdo-paliya",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Paliya",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Paliya",
+      "phones": [],
+      "email": "bdo.paliya.khe@gmail.com",
+      "covers": [
+        "paliya"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-ado-paliya",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Paliya",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Paliya",
+      "phones": [],
+      "covers": [
+        "paliya"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-bdo-nighasan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nighasan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nighasan",
+      "phones": [],
+      "email": "bdo.nighasan.khe@gmail.com",
+      "covers": [
+        "nighasan"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-ado-nighasan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nighasan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nighasan",
+      "phones": [],
+      "covers": [
+        "nighasan"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-bdo-ramia-behar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ramia Behar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ramia Behar",
+      "phones": [],
+      "email": "bdo.ramiabehar.khe@gmail.com",
+      "covers": [
+        "ramia-behar"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-ado-ramia-behar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ramia Behar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ramia Behar",
+      "phones": [],
+      "covers": [
+        "ramia-behar"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-bdo-dhaurahra",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dhaurahra",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dhaurahra",
+      "phones": [],
+      "email": "bdo.dhaurahra.khe@gmail.com",
+      "covers": [
+        "dhaurahra"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-ado-dhaurahra",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dhaurahra",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dhaurahra",
+      "phones": [],
+      "covers": [
+        "dhaurahra"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-bdo-isanagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Isanagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Isanagar",
+      "phones": [],
+      "email": "bdo.isanagar.khe@gmail.com",
+      "covers": [
+        "isanagar"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-ado-isanagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Isanagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Isanagar",
+      "phones": [],
+      "covers": [
+        "isanagar"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-bdo-nakaha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nakaha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nakaha",
+      "phones": [],
+      "email": "bdo.nakaha.khe@gmail.com",
+      "covers": [
+        "nakaha"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-ado-nakaha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nakaha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nakaha",
+      "phones": [],
+      "covers": [
+        "nakaha"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-bdo-phoolbehar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Phoolbehar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Phoolbehar",
+      "phones": [],
+      "email": "bdo.phoolbehar.khe@gmail.com",
+      "covers": [
+        "phoolbehar"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-lakhimpur-kheri-ado-phoolbehar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Phoolbehar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Phoolbehar",
+      "phones": [],
+      "covers": [
+        "phoolbehar"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-lakhimpur-kheri-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Lakhimpur Kheri",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका लखीमपुर खीरी",
+      "phones": [],
+      "covers": [
+        "ulb-lakhimpur-kheri-main"
+      ],
+      "source_url": "https://lakhimpur-kheri.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

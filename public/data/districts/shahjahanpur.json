@@ -1,0 +1,591 @@
+{
+  "district_id": "shahjahanpur",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-shahjahanpur-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Shahjahanpur",
+      "office_name_hi": "कार्यालय जिलाधिकारी, शाहजहाँपुर",
+      "phones": [
+        {
+          "number": "05842-281540",
+          "type": "office",
+          "source_url": "https://shahjahanpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmsha@nic.in",
+      "covers": [
+        "shahjahanpur"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Shahjahanpur",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), शाहजहाँपुर",
+      "phones": [
+        {
+          "number": "05842-225902",
+          "type": "office",
+          "source_url": "https://shahjahanpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo.shp-up@gov.in",
+      "covers": [
+        "shahjahanpur"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Shahjahanpur",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, शाहजहाँपुर",
+      "phones": [],
+      "email": "dpro-shp@nic.in",
+      "covers": [
+        "shahjahanpur"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [],
+      "email": "sdm.sadar.shp-up@gov.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-sdm-tilhar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Tilhar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Tilhar",
+      "phones": [],
+      "email": "sdm.tilhar.shp-up@gov.in",
+      "covers": [
+        "tilhar"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-sdm-jalalabad",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Jalalabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Jalalabad",
+      "phones": [],
+      "email": "sdm.jalalabad.shp-up@gov.in",
+      "covers": [
+        "jalalabad"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-sdm-powayan",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Powayan",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Powayan",
+      "phones": [],
+      "email": "sdm.powayan.shp-up@gov.in",
+      "covers": [
+        "powayan"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-sdm-kalan",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kalan",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kalan",
+      "phones": [],
+      "email": "sdm.kalan.shp-up@gov.in",
+      "covers": [
+        "kalan"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-bdo-bhwal-khera",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhwal Khera",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhwal Khera",
+      "phones": [],
+      "email": "bdo.bhwalkhera.shp@gmail.com",
+      "covers": [
+        "bhwal-khera"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-ado-bhwal-khera",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhwal Khera",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhwal Khera",
+      "phones": [],
+      "covers": [
+        "bhwal-khera"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-bdo-dadraul",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dadraul",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dadraul",
+      "phones": [],
+      "email": "bdo.dadraul.shp@gmail.com",
+      "covers": [
+        "dadraul"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-ado-dadraul",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dadraul",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dadraul",
+      "phones": [],
+      "covers": [
+        "dadraul"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-bdo-tilhar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Tilhar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tilhar",
+      "phones": [],
+      "email": "bdo.tilhar.shp@gmail.com",
+      "covers": [
+        "tilhar"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-ado-tilhar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Tilhar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Tilhar",
+      "phones": [],
+      "covers": [
+        "tilhar"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-bdo-nigohi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nigohi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nigohi",
+      "phones": [],
+      "email": "bdo.nigohi.shp@gmail.com",
+      "covers": [
+        "nigohi"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-ado-nigohi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nigohi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nigohi",
+      "phones": [],
+      "covers": [
+        "nigohi"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-bdo-katra",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Katra",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Katra",
+      "phones": [],
+      "email": "bdo.katra.shp@gmail.com",
+      "covers": [
+        "katra"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-ado-katra",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Katra",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Katra",
+      "phones": [],
+      "covers": [
+        "katra"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-bdo-jaitipur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jaitipur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jaitipur",
+      "phones": [],
+      "email": "bdo.jaitipur.shp@gmail.com",
+      "covers": [
+        "jaitipur"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-ado-jaitipur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jaitipur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jaitipur",
+      "phones": [],
+      "covers": [
+        "jaitipur"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-bdo-jalalabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jalalabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jalalabad",
+      "phones": [],
+      "email": "bdo.jalalabad.shp@gmail.com",
+      "covers": [
+        "jalalabad"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-ado-jalalabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jalalabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jalalabad",
+      "phones": [],
+      "covers": [
+        "jalalabad"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-bdo-mirzapur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mirzapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mirzapur",
+      "phones": [],
+      "email": "bdo.mirzapur.shp@gmail.com",
+      "covers": [
+        "mirzapur"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-ado-mirzapur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mirzapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mirzapur",
+      "phones": [],
+      "covers": [
+        "mirzapur"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-bdo-madanapur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Madanapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Madanapur",
+      "phones": [],
+      "email": "bdo.madanapur.shp@gmail.com",
+      "covers": [
+        "madanapur"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-ado-madanapur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Madanapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Madanapur",
+      "phones": [],
+      "covers": [
+        "madanapur"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-bdo-kalan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kalan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kalan",
+      "phones": [],
+      "email": "bdo.kalan.shp@gmail.com",
+      "covers": [
+        "kalan"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-ado-kalan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kalan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kalan",
+      "phones": [],
+      "covers": [
+        "kalan"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-bdo-powayan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Powayan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Powayan",
+      "phones": [],
+      "email": "bdo.powayan.shp@gmail.com",
+      "covers": [
+        "powayan"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-ado-powayan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Powayan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Powayan",
+      "phones": [],
+      "covers": [
+        "powayan"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-bdo-banda",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Banda",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Banda",
+      "phones": [],
+      "email": "bdo.banda.shp@gmail.com",
+      "covers": [
+        "banda"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-ado-banda",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Banda",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Banda",
+      "phones": [],
+      "covers": [
+        "banda"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-bdo-khutar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Khutar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khutar",
+      "phones": [],
+      "email": "bdo.khutar.shp@gmail.com",
+      "covers": [
+        "khutar"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-ado-khutar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Khutar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Khutar",
+      "phones": [],
+      "covers": [
+        "khutar"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-bdo-sindhauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sindhauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sindhauli",
+      "phones": [],
+      "email": "bdo.sindhauli.shp@gmail.com",
+      "covers": [
+        "sindhauli"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-ado-sindhauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sindhauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sindhauli",
+      "phones": [],
+      "covers": [
+        "sindhauli"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-bdo-kant",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kant",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kant",
+      "phones": [],
+      "email": "bdo.kant.shp@gmail.com",
+      "covers": [
+        "kant"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shahjahanpur-ado-kant",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kant",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kant",
+      "phones": [],
+      "covers": [
+        "kant"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-shahjahanpur-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Shahjahanpur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका शाहजहाँपुर",
+      "phones": [],
+      "covers": [
+        "ulb-shahjahanpur-main"
+      ],
+      "source_url": "https://shahjahanpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

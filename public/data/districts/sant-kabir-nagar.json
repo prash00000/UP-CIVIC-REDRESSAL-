@@ -1,0 +1,371 @@
+{
+  "district_id": "sant-kabir-nagar",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-sant-kabir-nagar-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Sant Kabir Nagar",
+      "office_name_hi": "कार्यालय जिलाधिकारी, संत कबीर नगर",
+      "phones": [],
+      "email": "dmskn@nic.in",
+      "covers": [
+        "sant-kabir-nagar"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Sant Kabir Nagar",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), संत कबीर नगर",
+      "phones": [],
+      "email": "cdo.skn-up@gov.in",
+      "covers": [
+        "sant-kabir-nagar"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Sant Kabir Nagar",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, संत कबीर नगर",
+      "phones": [],
+      "email": "dpro-skn@nic.in",
+      "covers": [
+        "sant-kabir-nagar"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-sdm-khalilabad",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Khalilabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Khalilabad",
+      "phones": [],
+      "email": "sdm.khalilabad.skn-up@gov.in",
+      "covers": [
+        "khalilabad"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-sdm-mehdawal",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mehdawal",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mehdawal",
+      "phones": [],
+      "email": "sdm.mehdawal.skn-up@gov.in",
+      "covers": [
+        "mehdawal"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-sdm-dhanghata",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Dhanghata",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Dhanghata",
+      "phones": [],
+      "email": "sdm.dhanghata.skn-up@gov.in",
+      "covers": [
+        "dhanghata"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-bdo-khalilabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Khalilabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khalilabad",
+      "phones": [],
+      "email": "bdo.khalilabad.skn@gmail.com",
+      "covers": [
+        "khalilabad"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-ado-khalilabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Khalilabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Khalilabad",
+      "phones": [],
+      "covers": [
+        "khalilabad"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-bdo-baghnagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Baghnagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Baghnagar",
+      "phones": [],
+      "email": "bdo.baghnagar.skn@gmail.com",
+      "covers": [
+        "baghnagar"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-ado-baghnagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Baghnagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Baghnagar",
+      "phones": [],
+      "covers": [
+        "baghnagar"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-bdo-semariyawan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Semariyawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Semariyawan",
+      "phones": [],
+      "email": "bdo.semariyawan.skn@gmail.com",
+      "covers": [
+        "semariyawan"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-ado-semariyawan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Semariyawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Semariyawan",
+      "phones": [],
+      "covers": [
+        "semariyawan"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-bdo-mehdawal",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mehdawal",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mehdawal",
+      "phones": [],
+      "email": "bdo.mehdawal.skn@gmail.com",
+      "covers": [
+        "mehdawal"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-ado-mehdawal",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mehdawal",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mehdawal",
+      "phones": [],
+      "covers": [
+        "mehdawal"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-bdo-belhar-kala",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Belhar Kala",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Belhar Kala",
+      "phones": [],
+      "email": "bdo.belharkala.skn@gmail.com",
+      "covers": [
+        "belhar-kala"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-ado-belhar-kala",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Belhar Kala",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Belhar Kala",
+      "phones": [],
+      "covers": [
+        "belhar-kala"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-bdo-satha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Satha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Satha",
+      "phones": [],
+      "email": "bdo.satha.skn@gmail.com",
+      "covers": [
+        "satha"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-ado-satha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Satha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Satha",
+      "phones": [],
+      "covers": [
+        "satha"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-bdo-dhanghata",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dhanghata",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dhanghata",
+      "phones": [],
+      "email": "bdo.dhanghata.skn@gmail.com",
+      "covers": [
+        "dhanghata"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-ado-dhanghata",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dhanghata",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dhanghata",
+      "phones": [],
+      "covers": [
+        "dhanghata"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-bdo-hainsar-bazar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Hainsar Bazar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hainsar Bazar",
+      "phones": [],
+      "email": "bdo.hainsarbazar.skn@gmail.com",
+      "covers": [
+        "hainsar-bazar"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-ado-hainsar-bazar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Hainsar Bazar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Hainsar Bazar",
+      "phones": [],
+      "covers": [
+        "hainsar-bazar"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-bdo-pauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Pauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pauli",
+      "phones": [],
+      "email": "bdo.pauli.skn@gmail.com",
+      "covers": [
+        "pauli"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-sant-kabir-nagar-ado-pauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Pauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pauli",
+      "phones": [],
+      "covers": [
+        "pauli"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-sant-kabir-nagar-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Sant Kabir Nagar",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका संत कबीर नगर",
+      "phones": [],
+      "covers": [
+        "ulb-sant-kabir-nagar-main"
+      ],
+      "source_url": "https://sant-kabir-nagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

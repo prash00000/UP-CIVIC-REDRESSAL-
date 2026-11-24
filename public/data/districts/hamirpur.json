@@ -1,0 +1,441 @@
+{
+  "district_id": "hamirpur",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-hamirpur-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Hamirpur",
+      "office_name_hi": "कार्यालय जिलाधिकारी, हमीरपुर",
+      "officer_name_en": "1",
+      "phones": [
+        {
+          "number": "9454417533",
+          "type": "office",
+          "source_url": "https://hamirpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmham@nic.in",
+      "covers": [
+        "hamirpur"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Hamirpur",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), हमीरपुर",
+      "phones": [
+        {
+          "number": "9454464781",
+          "type": "office",
+          "source_url": "https://hamirpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo-ham@up.gov.in",
+      "covers": [
+        "hamirpur"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Hamirpur",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, हमीरपुर",
+      "phones": [
+        {
+          "number": "8377960068",
+          "type": "office",
+          "source_url": "https://hamirpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dprohm-up@nic.in",
+      "covers": [
+        "hamirpur"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-sdm-hamirpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Hamirpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Hamirpur",
+      "phones": [
+        {
+          "number": "9454415994",
+          "type": "cug",
+          "source_url": "https://hamirpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmhm-up@nic.in",
+      "covers": [
+        "hamirpur"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-sdm-rath",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Rath",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Rath",
+      "phones": [
+        {
+          "number": "9454415996",
+          "type": "cug",
+          "source_url": "https://hamirpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm-rath.hm@up.gov.in",
+      "covers": [
+        "rath"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-sdm-maudaha",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Maudaha",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Maudaha",
+      "phones": [
+        {
+          "number": "9454415995",
+          "type": "cug",
+          "source_url": "https://hamirpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmmaudaha.hm-up@gov.in",
+      "covers": [
+        "maudaha"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-sdm-sarila",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sarila",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sarila",
+      "phones": [
+        {
+          "number": "9454415997",
+          "type": "cug",
+          "source_url": "https://hamirpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm-sarila.hm@up.gov.in",
+      "covers": [
+        "sarila"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-bdo-kurara",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kurara",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kurara",
+      "phones": [
+        {
+          "number": "05282-223201",
+          "type": "cug",
+          "source_url": "https://hamirpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdokurhm-up@nic.in",
+      "covers": [
+        "kurara"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-ado-kurara",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kurara",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kurara",
+      "phones": [],
+      "covers": [
+        "kurara"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-bdo-sumerpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sumerpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sumerpur",
+      "phones": [
+        {
+          "number": "05280-231035",
+          "type": "cug",
+          "source_url": "https://hamirpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.sumerpur0@gmail.com",
+      "covers": [
+        "sumerpur"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-ado-sumerpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sumerpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sumerpur",
+      "phones": [],
+      "covers": [
+        "sumerpur"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-bdo-maudaha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Maudaha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Maudaha",
+      "phones": [
+        {
+          "number": "05284-280047",
+          "type": "cug",
+          "source_url": "https://hamirpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdomauhm-up@nic.in",
+      "covers": [
+        "maudaha"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-ado-maudaha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Maudaha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Maudaha",
+      "phones": [],
+      "covers": [
+        "maudaha"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-bdo-muskara",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Muskara",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Muskara",
+      "phones": [
+        {
+          "number": "05284-284555",
+          "type": "cug",
+          "source_url": "https://hamirpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdomuskara022@gmail.com",
+      "covers": [
+        "muskara"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-ado-muskara",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Muskara",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Muskara",
+      "phones": [],
+      "covers": [
+        "muskara"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-bdo-rath",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rath",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rath",
+      "phones": [
+        {
+          "number": "05280-221411",
+          "type": "cug",
+          "source_url": "https://hamirpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdorath023@gmail.com",
+      "covers": [
+        "rath"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-ado-rath",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rath",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rath",
+      "phones": [],
+      "covers": [
+        "rath"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-bdo-gohand",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gohand",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gohand",
+      "phones": [
+        {
+          "number": "05280-212025",
+          "type": "cug",
+          "source_url": "https://hamirpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdogohand06@gmail.com",
+      "covers": [
+        "gohand"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-ado-gohand",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gohand",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gohand",
+      "phones": [],
+      "covers": [
+        "gohand"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-bdo-sarila",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sarila",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sarila",
+      "phones": [
+        {
+          "number": "05280-240061",
+          "type": "cug",
+          "source_url": "https://hamirpur.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdosarhm-up@nic.in",
+      "covers": [
+        "sarila"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-hamirpur-ado-sarila",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sarila",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sarila",
+      "phones": [],
+      "covers": [
+        "sarila"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-hamirpur-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Hamirpur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका हमीरपुर",
+      "phones": [],
+      "covers": [
+        "ulb-hamirpur-main"
+      ],
+      "source_url": "https://hamirpur.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

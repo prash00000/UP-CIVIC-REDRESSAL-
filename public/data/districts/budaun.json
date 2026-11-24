@@ -1,0 +1,591 @@
+{
+  "district_id": "budaun",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-budaun-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Budaun",
+      "office_name_hi": "कार्यालय जिलाधिकारी, बदायूँ",
+      "phones": [
+        {
+          "number": "05832-266406",
+          "type": "office",
+          "source_url": "https://budaun.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmbud@nic.in",
+      "covers": [
+        "budaun"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Budaun",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), बदायूँ",
+      "phones": [
+        {
+          "number": "05832-268638",
+          "type": "office",
+          "source_url": "https://budaun.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "drda-bud@nic.in",
+      "covers": [
+        "budaun"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Budaun",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, बदायूँ",
+      "phones": [],
+      "email": "dpro-bdn@nic.in",
+      "covers": [
+        "budaun"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [],
+      "email": "sdm.sadar.bdn-up@gov.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-sdm-bilsi",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bilsi",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bilsi",
+      "phones": [],
+      "email": "sdm.bilsi.bdn-up@gov.in",
+      "covers": [
+        "bilsi"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-sdm-bisauli",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bisauli",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bisauli",
+      "phones": [],
+      "email": "sdm.bisauli.bdn-up@gov.in",
+      "covers": [
+        "bisauli"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-sdm-dataganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Dataganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Dataganj",
+      "phones": [],
+      "email": "sdm.dataganj.bdn-up@gov.in",
+      "covers": [
+        "dataganj"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-sdm-sahaswan",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sahaswan",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sahaswan",
+      "phones": [],
+      "email": "sdm.sahaswan.bdn-up@gov.in",
+      "covers": [
+        "sahaswan"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-bdo-salarpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Salarpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Salarpur",
+      "phones": [],
+      "email": "bdo.salarpur.bdn@gmail.com",
+      "covers": [
+        "salarpur"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-ado-salarpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Salarpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Salarpur",
+      "phones": [],
+      "covers": [
+        "salarpur"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-bdo-ujhani",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ujhani",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ujhani",
+      "phones": [],
+      "email": "bdo.ujhani.bdn@gmail.com",
+      "covers": [
+        "ujhani"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-ado-ujhani",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ujhani",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ujhani",
+      "phones": [],
+      "covers": [
+        "ujhani"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-bdo-qadar-chowk",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Qadar Chowk",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Qadar Chowk",
+      "phones": [],
+      "email": "bdo.qadarchowk.bdn@gmail.com",
+      "covers": [
+        "qadar-chowk"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-ado-qadar-chowk",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Qadar Chowk",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Qadar Chowk",
+      "phones": [],
+      "covers": [
+        "qadar-chowk"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-bdo-jagat",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jagat",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jagat",
+      "phones": [],
+      "email": "bdo.jagat.bdn@gmail.com",
+      "covers": [
+        "jagat"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-ado-jagat",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jagat",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jagat",
+      "phones": [],
+      "covers": [
+        "jagat"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-bdo-bisauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bisauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bisauli",
+      "phones": [],
+      "email": "bdo.bisauli.bdn@gmail.com",
+      "covers": [
+        "bisauli"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-ado-bisauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bisauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bisauli",
+      "phones": [],
+      "covers": [
+        "bisauli"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-bdo-asafpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Asafpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Asafpur",
+      "phones": [],
+      "email": "bdo.asafpur.bdn@gmail.com",
+      "covers": [
+        "asafpur"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-ado-asafpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Asafpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Asafpur",
+      "phones": [],
+      "covers": [
+        "asafpur"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-bdo-wazirganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Wazirganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Wazirganj",
+      "phones": [],
+      "email": "bdo.wazirganj.bdn@gmail.com",
+      "covers": [
+        "wazirganj"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-ado-wazirganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Wazirganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Wazirganj",
+      "phones": [],
+      "covers": [
+        "wazirganj"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-bdo-sahaswan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sahaswan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sahaswan",
+      "phones": [],
+      "email": "bdo.sahaswan.bdn@gmail.com",
+      "covers": [
+        "sahaswan"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-ado-sahaswan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sahaswan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sahaswan",
+      "phones": [],
+      "covers": [
+        "sahaswan"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-bdo-ambiapur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ambiapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ambiapur",
+      "phones": [],
+      "email": "bdo.ambiapur.bdn@gmail.com",
+      "covers": [
+        "ambiapur"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-ado-ambiapur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ambiapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ambiapur",
+      "phones": [],
+      "covers": [
+        "ambiapur"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-bdo-bilsi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bilsi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bilsi",
+      "phones": [],
+      "email": "bdo.bilsi.bdn@gmail.com",
+      "covers": [
+        "bilsi"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-ado-bilsi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bilsi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bilsi",
+      "phones": [],
+      "covers": [
+        "bilsi"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-bdo-islamnagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Islamnagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Islamnagar",
+      "phones": [],
+      "email": "bdo.islamnagar.bdn@gmail.com",
+      "covers": [
+        "islamnagar"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-ado-islamnagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Islamnagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Islamnagar",
+      "phones": [],
+      "covers": [
+        "islamnagar"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-bdo-dataganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dataganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dataganj",
+      "phones": [],
+      "email": "bdo.dataganj.bdn@gmail.com",
+      "covers": [
+        "dataganj"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-ado-dataganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dataganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dataganj",
+      "phones": [],
+      "covers": [
+        "dataganj"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-bdo-samrer",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Samrer",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Samrer",
+      "phones": [],
+      "email": "bdo.samrer.bdn@gmail.com",
+      "covers": [
+        "samrer"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-ado-samrer",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Samrer",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Samrer",
+      "phones": [],
+      "covers": [
+        "samrer"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-bdo-miyanganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Miyanganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Miyanganj",
+      "phones": [],
+      "email": "bdo.miyanganj.bdn@gmail.com",
+      "covers": [
+        "miyanganj"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-ado-miyanganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Miyanganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Miyanganj",
+      "phones": [],
+      "covers": [
+        "miyanganj"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-bdo-usawan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Usawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Usawan",
+      "phones": [],
+      "email": "bdo.usawan.bdn@gmail.com",
+      "covers": [
+        "usawan"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-budaun-ado-usawan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Usawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Usawan",
+      "phones": [],
+      "covers": [
+        "usawan"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-budaun-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Budaun",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका बदायूँ",
+      "phones": [],
+      "covers": [
+        "ulb-budaun-main"
+      ],
+      "source_url": "https://budaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

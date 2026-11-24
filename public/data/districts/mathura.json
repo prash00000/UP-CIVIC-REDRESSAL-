@@ -1,0 +1,447 @@
+{
+  "district_id": "mathura",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-mathura-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Mathura",
+      "office_name_hi": "कार्यालय जिलाधिकारी, मथुरा",
+      "officer_name_en": "Shri Chandra Prakash Singh ( I.A.S.)",
+      "phones": [
+        {
+          "number": "9454417512",
+          "type": "office",
+          "source_url": "https://mathura.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmmat@nic.in",
+      "covers": [
+        "mathura"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Mathura",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), मथुरा",
+      "phones": [
+        {
+          "number": "9454417742",
+          "type": "office",
+          "source_url": "https://mathura.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "drda-mat@nic.in",
+      "covers": [
+        "mathura"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Mathura",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, मथुरा",
+      "phones": [],
+      "email": "dpro-mat@nic.in",
+      "covers": [
+        "mathura"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-sdm-mathura",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mathura",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mathura",
+      "phones": [],
+      "email": "sdm.mathura.mat-up@gov.in",
+      "covers": [
+        "mathura"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-sdm-chhata",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Chhata",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Chhata",
+      "phones": [],
+      "email": "sdm.chhata.mat-up@gov.in",
+      "covers": [
+        "chhata"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-sdm-mant",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mant",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mant",
+      "phones": [],
+      "email": "sdm.mant.mat-up@gov.in",
+      "covers": [
+        "mant"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-sdm-goverdhan",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Goverdhan",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Goverdhan",
+      "phones": [],
+      "email": "sdm.goverdhan.mat-up@gov.in",
+      "covers": [
+        "goverdhan"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-sdm-mahavan",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mahavan",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mahavan",
+      "phones": [],
+      "email": "sdm.mahavan.mat-up@gov.in",
+      "covers": [
+        "mahavan"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-bdo-mathura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mathura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mathura",
+      "phones": [],
+      "email": "bdo.mathura.mat@gmail.com",
+      "covers": [
+        "mathura"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-ado-mathura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mathura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mathura",
+      "phones": [],
+      "covers": [
+        "mathura"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-bdo-goverdhan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Goverdhan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Goverdhan",
+      "phones": [],
+      "email": "bdo.goverdhan.mat@gmail.com",
+      "covers": [
+        "goverdhan"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-ado-goverdhan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Goverdhan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Goverdhan",
+      "phones": [],
+      "covers": [
+        "goverdhan"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-bdo-chhata",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chhata",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chhata",
+      "phones": [],
+      "email": "bdo.chhata.mat@gmail.com",
+      "covers": [
+        "chhata"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-ado-chhata",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chhata",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chhata",
+      "phones": [],
+      "covers": [
+        "chhata"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-bdo-chaumuha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chaumuha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chaumuha",
+      "phones": [],
+      "email": "bdo.chaumuha.mat@gmail.com",
+      "covers": [
+        "chaumuha"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-ado-chaumuha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chaumuha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chaumuha",
+      "phones": [],
+      "covers": [
+        "chaumuha"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-bdo-nandgaon",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nandgaon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nandgaon",
+      "phones": [],
+      "email": "bdo.nandgaon.mat@gmail.com",
+      "covers": [
+        "nandgaon"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-ado-nandgaon",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nandgaon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nandgaon",
+      "phones": [],
+      "covers": [
+        "nandgaon"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-bdo-mant",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mant",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mant",
+      "phones": [],
+      "email": "bdo.mant.mat@gmail.com",
+      "covers": [
+        "mant"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-ado-mant",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mant",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mant",
+      "phones": [],
+      "covers": [
+        "mant"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-bdo-naujheel",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Naujheel",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Naujheel",
+      "phones": [],
+      "email": "bdo.naujheel.mat@gmail.com",
+      "covers": [
+        "naujheel"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-ado-naujheel",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Naujheel",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Naujheel",
+      "phones": [],
+      "covers": [
+        "naujheel"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-bdo-raya",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Raya",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Raya",
+      "phones": [],
+      "email": "bdo.raya.mat@gmail.com",
+      "covers": [
+        "raya"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-ado-raya",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Raya",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Raya",
+      "phones": [],
+      "covers": [
+        "raya"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-bdo-farah",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Farah",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Farah",
+      "phones": [],
+      "email": "bdo.farah.mat@gmail.com",
+      "covers": [
+        "farah"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-ado-farah",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Farah",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Farah",
+      "phones": [],
+      "covers": [
+        "farah"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-bdo-baldeo",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Baldeo",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Baldeo",
+      "phones": [],
+      "email": "bdo.baldeo.mat@gmail.com",
+      "covers": [
+        "baldeo"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mathura-ado-baldeo",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Baldeo",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Baldeo",
+      "phones": [],
+      "covers": [
+        "baldeo"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-mathura-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Mathura",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका मथुरा",
+      "phones": [],
+      "covers": [
+        "ulb-mathura-main"
+      ],
+      "source_url": "https://mathura.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

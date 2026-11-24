@@ -1,0 +1,242 @@
+{
+  "district_id": "mahoba",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-mahoba-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Mahoba",
+      "office_name_hi": "कार्यालय जिलाधिकारी, महोबा",
+      "phones": [
+        {
+          "number": "9454417534",
+          "type": "office",
+          "source_url": "https://mahoba.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmmhb@nic.in",
+      "covers": [
+        "mahoba"
+      ],
+      "source_url": "https://mahoba.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mahoba-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Mahoba",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), महोबा",
+      "phones": [
+        {
+          "number": "9454464792",
+          "type": "office",
+          "source_url": "https://mahoba.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo.mhb-up@gov.in",
+      "covers": [
+        "mahoba"
+      ],
+      "source_url": "https://mahoba.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mahoba-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Mahoba",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, महोबा",
+      "phones": [],
+      "email": "dpro-mhb@nic.in",
+      "covers": [
+        "mahoba"
+      ],
+      "source_url": "https://mahoba.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mahoba-sdm-mahoba",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mahoba",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mahoba",
+      "phones": [],
+      "email": "sdm.mahoba.mhb-up@gov.in",
+      "covers": [
+        "mahoba"
+      ],
+      "source_url": "https://mahoba.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mahoba-sdm-charkhari",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Charkhari",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Charkhari",
+      "phones": [],
+      "email": "sdm.charkhari.mhb-up@gov.in",
+      "covers": [
+        "charkhari"
+      ],
+      "source_url": "https://mahoba.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mahoba-sdm-kulpahar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kulpahar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kulpahar",
+      "phones": [],
+      "email": "sdm.kulpahar.mhb-up@gov.in",
+      "covers": [
+        "kulpahar"
+      ],
+      "source_url": "https://mahoba.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mahoba-bdo-kabrai",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kabrai",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kabrai",
+      "phones": [],
+      "email": "bdo.kabrai.mhb@gmail.com",
+      "covers": [
+        "kabrai"
+      ],
+      "source_url": "https://mahoba.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mahoba-ado-kabrai",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kabrai",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kabrai",
+      "phones": [],
+      "covers": [
+        "kabrai"
+      ],
+      "source_url": "https://mahoba.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mahoba-bdo-charkhari",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Charkhari",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Charkhari",
+      "phones": [],
+      "email": "bdo.charkhari.mhb@gmail.com",
+      "covers": [
+        "charkhari"
+      ],
+      "source_url": "https://mahoba.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mahoba-ado-charkhari",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Charkhari",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Charkhari",
+      "phones": [],
+      "covers": [
+        "charkhari"
+      ],
+      "source_url": "https://mahoba.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mahoba-bdo-jaitpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jaitpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jaitpur",
+      "phones": [],
+      "email": "bdo.jaitpur.mhb@gmail.com",
+      "covers": [
+        "jaitpur"
+      ],
+      "source_url": "https://mahoba.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mahoba-ado-jaitpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jaitpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jaitpur",
+      "phones": [],
+      "covers": [
+        "jaitpur"
+      ],
+      "source_url": "https://mahoba.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mahoba-bdo-panwari",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Panwari",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Panwari",
+      "phones": [],
+      "email": "bdo.panwari.mhb@gmail.com",
+      "covers": [
+        "panwari"
+      ],
+      "source_url": "https://mahoba.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-mahoba-ado-panwari",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Panwari",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Panwari",
+      "phones": [],
+      "covers": [
+        "panwari"
+      ],
+      "source_url": "https://mahoba.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-mahoba-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Mahoba",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका महोबा",
+      "phones": [],
+      "covers": [
+        "ulb-mahoba-main"
+      ],
+      "source_url": "https://mahoba.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

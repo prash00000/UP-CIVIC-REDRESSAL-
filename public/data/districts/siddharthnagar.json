@@ -1,0 +1,562 @@
+{
+  "district_id": "siddharthnagar",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-siddharthnagar-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Siddharthnagar",
+      "office_name_hi": "कार्यालय जिलाधिकारी, सिद्धार्थनगर",
+      "phones": [
+        {
+          "number": "9454417530",
+          "type": "office",
+          "source_url": "https://siddharthnagar.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmsid@nic.in",
+      "covers": [
+        "siddharthnagar"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Siddharthnagar",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), सिद्धार्थनगर",
+      "phones": [
+        {
+          "number": "9454464749",
+          "type": "office",
+          "source_url": "https://siddharthnagar.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo.sid-up@gov.in",
+      "covers": [
+        "siddharthnagar"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Siddharthnagar",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, सिद्धार्थनगर",
+      "phones": [],
+      "email": "dpro-sid@nic.in",
+      "covers": [
+        "siddharthnagar"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-sdm-naugarh",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Naugarh",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Naugarh",
+      "phones": [],
+      "email": "sdm.naugarh.sid-up@gov.in",
+      "covers": [
+        "naugarh"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-sdm-bansi",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bansi",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bansi",
+      "phones": [],
+      "email": "sdm.bansi.sid-up@gov.in",
+      "covers": [
+        "bansi"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-sdm-itwa",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Itwa",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Itwa",
+      "phones": [],
+      "email": "sdm.itwa.sid-up@gov.in",
+      "covers": [
+        "itwa"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-sdm-domariyaganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Domariyaganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Domariyaganj",
+      "phones": [],
+      "email": "sdm.domariyaganj.sid-up@gov.in",
+      "covers": [
+        "domariyaganj"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-sdm-shohratgarh",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Shohratgarh",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Shohratgarh",
+      "phones": [],
+      "email": "sdm.shohratgarh.sid-up@gov.in",
+      "covers": [
+        "shohratgarh"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-bdo-naugarh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Naugarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Naugarh",
+      "phones": [],
+      "email": "bdo.naugarh.sid@gmail.com",
+      "covers": [
+        "naugarh"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-ado-naugarh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Naugarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Naugarh",
+      "phones": [],
+      "covers": [
+        "naugarh"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-bdo-uska-bazar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Uska Bazar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Uska Bazar",
+      "phones": [],
+      "email": "bdo.uskabazar.sid@gmail.com",
+      "covers": [
+        "uska-bazar"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-ado-uska-bazar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Uska Bazar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Uska Bazar",
+      "phones": [],
+      "covers": [
+        "uska-bazar"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-bdo-birdpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Birdpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Birdpur",
+      "phones": [],
+      "email": "bdo.birdpur.sid@gmail.com",
+      "covers": [
+        "birdpur"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-ado-birdpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Birdpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Birdpur",
+      "phones": [],
+      "covers": [
+        "birdpur"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-bdo-lotan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Lotan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Lotan",
+      "phones": [],
+      "email": "bdo.lotan.sid@gmail.com",
+      "covers": [
+        "lotan"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-ado-lotan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Lotan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Lotan",
+      "phones": [],
+      "covers": [
+        "lotan"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-bdo-jogia",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jogia",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jogia",
+      "phones": [],
+      "email": "bdo.jogia.sid@gmail.com",
+      "covers": [
+        "jogia"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-ado-jogia",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jogia",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jogia",
+      "phones": [],
+      "covers": [
+        "jogia"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-bdo-bansi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bansi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bansi",
+      "phones": [],
+      "email": "bdo.bansi.sid@gmail.com",
+      "covers": [
+        "bansi"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-ado-bansi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bansi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bansi",
+      "phones": [],
+      "covers": [
+        "bansi"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-bdo-khesraha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Khesraha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khesraha",
+      "phones": [],
+      "email": "bdo.khesraha.sid@gmail.com",
+      "covers": [
+        "khesraha"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-ado-khesraha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Khesraha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Khesraha",
+      "phones": [],
+      "covers": [
+        "khesraha"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-bdo-mithwal",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mithwal",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mithwal",
+      "phones": [],
+      "email": "bdo.mithwal.sid@gmail.com",
+      "covers": [
+        "mithwal"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-ado-mithwal",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mithwal",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mithwal",
+      "phones": [],
+      "covers": [
+        "mithwal"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-bdo-itwa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Itwa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Itwa",
+      "phones": [],
+      "email": "bdo.itwa.sid@gmail.com",
+      "covers": [
+        "itwa"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-ado-itwa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Itwa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Itwa",
+      "phones": [],
+      "covers": [
+        "itwa"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-bdo-barhni",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Barhni",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Barhni",
+      "phones": [],
+      "email": "bdo.barhni.sid@gmail.com",
+      "covers": [
+        "barhni"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-ado-barhni",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Barhni",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Barhni",
+      "phones": [],
+      "covers": [
+        "barhni"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-bdo-khuniyaon",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Khuniyaon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khuniyaon",
+      "phones": [],
+      "email": "bdo.khuniyaon.sid@gmail.com",
+      "covers": [
+        "khuniyaon"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-ado-khuniyaon",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Khuniyaon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Khuniyaon",
+      "phones": [],
+      "covers": [
+        "khuniyaon"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-bdo-domariyaganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Domariyaganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Domariyaganj",
+      "phones": [],
+      "email": "bdo.domariyaganj.sid@gmail.com",
+      "covers": [
+        "domariyaganj"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-ado-domariyaganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Domariyaganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Domariyaganj",
+      "phones": [],
+      "covers": [
+        "domariyaganj"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-bdo-bhanwapur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhanwapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhanwapur",
+      "phones": [],
+      "email": "bdo.bhanwapur.sid@gmail.com",
+      "covers": [
+        "bhanwapur"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-ado-bhanwapur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhanwapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhanwapur",
+      "phones": [],
+      "covers": [
+        "bhanwapur"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-bdo-shohratgarh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Shohratgarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shohratgarh",
+      "phones": [],
+      "email": "bdo.shohratgarh.sid@gmail.com",
+      "covers": [
+        "shohratgarh"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-siddharthnagar-ado-shohratgarh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Shohratgarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shohratgarh",
+      "phones": [],
+      "covers": [
+        "shohratgarh"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-siddharthnagar-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Siddharthnagar",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका सिद्धार्थनगर",
+      "phones": [],
+      "covers": [
+        "ulb-siddharthnagar-main"
+      ],
+      "source_url": "https://siddharthnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

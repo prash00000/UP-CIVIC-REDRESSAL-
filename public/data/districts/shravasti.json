@@ -1,0 +1,271 @@
+{
+  "district_id": "shravasti",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-shravasti-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Shravasti",
+      "office_name_hi": "कार्यालय जिलाधिकारी, श्रावस्ती",
+      "phones": [
+        {
+          "number": "9454417538",
+          "type": "office",
+          "source_url": "https://shravasti.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmshr@nic.in",
+      "covers": [
+        "shravasti"
+      ],
+      "source_url": "https://shravasti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shravasti-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Shravasti",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), श्रावस्ती",
+      "phones": [
+        {
+          "number": "9454464850",
+          "type": "office",
+          "source_url": "https://shravasti.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "drda-shr@nic.in",
+      "covers": [
+        "shravasti"
+      ],
+      "source_url": "https://shravasti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shravasti-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Shravasti",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, श्रावस्ती",
+      "phones": [],
+      "email": "dpro-srv@nic.in",
+      "covers": [
+        "shravasti"
+      ],
+      "source_url": "https://shravasti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shravasti-sdm-bhinga",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bhinga",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bhinga",
+      "phones": [],
+      "email": "sdm.bhinga.srv-up@gov.in",
+      "covers": [
+        "bhinga"
+      ],
+      "source_url": "https://shravasti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shravasti-sdm-ikouna",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Ikouna",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Ikouna",
+      "phones": [],
+      "email": "sdm.ikouna.srv-up@gov.in",
+      "covers": [
+        "ikouna"
+      ],
+      "source_url": "https://shravasti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shravasti-sdm-jamunaha",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Jamunaha",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Jamunaha",
+      "phones": [],
+      "email": "sdm.jamunaha.srv-up@gov.in",
+      "covers": [
+        "jamunaha"
+      ],
+      "source_url": "https://shravasti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shravasti-bdo-bhinga",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhinga",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhinga",
+      "phones": [],
+      "email": "bdo.bhinga.srv@gmail.com",
+      "covers": [
+        "bhinga"
+      ],
+      "source_url": "https://shravasti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shravasti-ado-bhinga",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhinga",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhinga",
+      "phones": [],
+      "covers": [
+        "bhinga"
+      ],
+      "source_url": "https://shravasti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shravasti-bdo-hariharpur-rani",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Hariharpur Rani",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hariharpur Rani",
+      "phones": [],
+      "email": "bdo.hariharpurrani.srv@gmail.com",
+      "covers": [
+        "hariharpur-rani"
+      ],
+      "source_url": "https://shravasti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shravasti-ado-hariharpur-rani",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Hariharpur Rani",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Hariharpur Rani",
+      "phones": [],
+      "covers": [
+        "hariharpur-rani"
+      ],
+      "source_url": "https://shravasti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shravasti-bdo-ikouna",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ikouna",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ikouna",
+      "phones": [],
+      "email": "bdo.ikouna.srv@gmail.com",
+      "covers": [
+        "ikouna"
+      ],
+      "source_url": "https://shravasti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shravasti-ado-ikouna",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ikouna",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ikouna",
+      "phones": [],
+      "covers": [
+        "ikouna"
+      ],
+      "source_url": "https://shravasti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shravasti-bdo-gilaula",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Gilaula",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gilaula",
+      "phones": [],
+      "email": "bdo.gilaula.srv@gmail.com",
+      "covers": [
+        "gilaula"
+      ],
+      "source_url": "https://shravasti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shravasti-ado-gilaula",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Gilaula",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gilaula",
+      "phones": [],
+      "covers": [
+        "gilaula"
+      ],
+      "source_url": "https://shravasti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shravasti-bdo-jamunaha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jamunaha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jamunaha",
+      "phones": [],
+      "email": "bdo.jamunaha.srv@gmail.com",
+      "covers": [
+        "jamunaha"
+      ],
+      "source_url": "https://shravasti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-shravasti-ado-jamunaha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jamunaha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jamunaha",
+      "phones": [],
+      "covers": [
+        "jamunaha"
+      ],
+      "source_url": "https://shravasti.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-shravasti-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Shravasti",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका श्रावस्ती",
+      "phones": [],
+      "covers": [
+        "ulb-shravasti-main"
+      ],
+      "source_url": "https://shravasti.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "district_id": "muzaffarnagar",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-muzaffarnagar-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Muzaffarnagar",
+      "office_name_hi": "कार्यालय जिलाधिकारी, मुजफ्फरनगर",
+      "phones": [
+        {
+          "number": "9454417574",
+          "type": "office",
+          "source_url": "https://muzaffarnagar.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmmuz@nic.in",
+      "covers": [
+        "muzaffarnagar"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Muzaffarnagar",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), मुजफ्फरनगर",
+      "phones": [
+        {
+          "number": "9454417009",
+          "type": "office",
+          "source_url": "https://muzaffarnagar.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdomzn2012@gmail.com",
+      "covers": [
+        "muzaffarnagar"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Muzaffarnagar",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, मुजफ्फरनगर",
+      "phones": [],
+      "email": "dpro-mzn@nic.in",
+      "covers": [
+        "muzaffarnagar"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-sdm-sadar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "phones": [],
+      "email": "sdm.sadar.mzn-up@gov.in",
+      "covers": [
+        "sadar"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-sdm-budhana",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Budhana",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Budhana",
+      "phones": [],
+      "email": "sdm.budhana.mzn-up@gov.in",
+      "covers": [
+        "budhana"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-sdm-jansath",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Jansath",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Jansath",
+      "phones": [],
+      "email": "sdm.jansath.mzn-up@gov.in",
+      "covers": [
+        "jansath"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-sdm-khatauli",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Khatauli",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Khatauli",
+      "phones": [],
+      "email": "sdm.khatauli.mzn-up@gov.in",
+      "covers": [
+        "khatauli"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-bdo-muzaffarnagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Muzaffarnagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Muzaffarnagar",
+      "phones": [],
+      "email": "bdo.muzaffarnagar.mzn@gmail.com",
+      "covers": [
+        "muzaffarnagar"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-ado-muzaffarnagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Muzaffarnagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Muzaffarnagar",
+      "phones": [],
+      "covers": [
+        "muzaffarnagar"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-bdo-baghra",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Baghra",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Baghra",
+      "phones": [],
+      "email": "bdo.baghra.mzn@gmail.com",
+      "covers": [
+        "baghra"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-ado-baghra",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Baghra",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Baghra",
+      "phones": [],
+      "covers": [
+        "baghra"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-bdo-charthawal",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Charthawal",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Charthawal",
+      "phones": [],
+      "email": "bdo.charthawal.mzn@gmail.com",
+      "covers": [
+        "charthawal"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-ado-charthawal",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Charthawal",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Charthawal",
+      "phones": [],
+      "covers": [
+        "charthawal"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-bdo-kukra",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kukra",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kukra",
+      "phones": [],
+      "email": "bdo.kukra.mzn@gmail.com",
+      "covers": [
+        "kukra"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-ado-kukra",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kukra",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kukra",
+      "phones": [],
+      "covers": [
+        "kukra"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-bdo-purkazi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Purkazi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Purkazi",
+      "phones": [],
+      "email": "bdo.purkazi.mzn@gmail.com",
+      "covers": [
+        "purkazi"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-ado-purkazi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Purkazi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Purkazi",
+      "phones": [],
+      "covers": [
+        "purkazi"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-bdo-khatauli",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Khatauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khatauli",
+      "phones": [],
+      "email": "bdo.khatauli.mzn@gmail.com",
+      "covers": [
+        "khatauli"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-ado-khatauli",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Khatauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Khatauli",
+      "phones": [],
+      "covers": [
+        "khatauli"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-bdo-jansath",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jansath",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jansath",
+      "phones": [],
+      "email": "bdo.jansath.mzn@gmail.com",
+      "covers": [
+        "jansath"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-ado-jansath",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jansath",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jansath",
+      "phones": [],
+      "covers": [
+        "jansath"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-bdo-morna",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Morna",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Morna",
+      "phones": [],
+      "email": "bdo.morna.mzn@gmail.com",
+      "covers": [
+        "morna"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-ado-morna",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Morna",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Morna",
+      "phones": [],
+      "covers": [
+        "morna"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-bdo-budhana",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Budhana",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Budhana",
+      "phones": [],
+      "email": "bdo.budhana.mzn@gmail.com",
+      "covers": [
+        "budhana"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-ado-budhana",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Budhana",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Budhana",
+      "phones": [],
+      "covers": [
+        "budhana"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-bdo-shahpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Shahpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shahpur",
+      "phones": [],
+      "email": "bdo.shahpur.mzn@gmail.com",
+      "covers": [
+        "shahpur"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-muzaffarnagar-ado-shahpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Shahpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shahpur",
+      "phones": [],
+      "covers": [
+        "shahpur"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-muzaffarnagar-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Muzaffarnagar",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका मुजफ्फरनगर",
+      "phones": [],
+      "covers": [
+        "ulb-muzaffarnagar-main"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

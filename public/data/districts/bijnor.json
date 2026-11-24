@@ -1,0 +1,580 @@
+{
+  "district_id": "bijnor",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-bijnor-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Bijnor",
+      "office_name_hi": "कार्यालय जिलाधिकारी, बिजनौर",
+      "officer_name_en": "1",
+      "phones": [
+        {
+          "number": "9454417570",
+          "type": "office",
+          "source_url": "https://bijnor.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmbjn@nic.in",
+      "covers": [
+        "bijnor"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Bijnor",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), बिजनौर",
+      "phones": [
+        {
+          "number": "9454416912",
+          "type": "office",
+          "source_url": "https://bijnor.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo.bjn-up@gov.in",
+      "covers": [
+        "bijnor"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Bijnor",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, बिजनौर",
+      "phones": [
+        {
+          "number": "01342-262557",
+          "type": "office",
+          "source_url": "https://bijnor.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dpro-bjn@nic.in",
+      "covers": [
+        "bijnor"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-sdm-bijnor",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bijnor",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bijnor",
+      "phones": [
+        {
+          "number": "9454416896",
+          "type": "cug",
+          "source_url": "https://bijnor.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.bijnor.bjn-up@gov.in",
+      "covers": [
+        "bijnor"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-sdm-chandpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Chandpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Chandpur",
+      "phones": [
+        {
+          "number": "9454416900",
+          "type": "cug",
+          "source_url": "https://bijnor.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.chandpur.bjn-up@gov.in",
+      "covers": [
+        "chandpur"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-sdm-dhampur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Dhampur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Dhampur",
+      "phones": [
+        {
+          "number": "9454416897",
+          "type": "cug",
+          "source_url": "https://bijnor.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.dhampur.bjn-up@gov.in",
+      "covers": [
+        "dhampur"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-sdm-nagina",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Nagina",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Nagina",
+      "phones": [
+        {
+          "number": "9454416898",
+          "type": "cug",
+          "source_url": "https://bijnor.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.nagina.bjn-up@gov.in",
+      "covers": [
+        "nagina"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-sdm-najibabad",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Najibabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Najibabad",
+      "phones": [
+        {
+          "number": "9454416899",
+          "type": "cug",
+          "source_url": "https://bijnor.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.najibabad.bjn-up@gov.in",
+      "covers": [
+        "najibabad"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-bdo-mohammedpur-deomal",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mohammedpur Deomal",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mohammedpur Deomal",
+      "phones": [],
+      "email": "bdo.mohammedpurdeomal.bjn@gmail.com",
+      "covers": [
+        "mohammedpur-deomal"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-ado-mohammedpur-deomal",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mohammedpur Deomal",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mohammedpur Deomal",
+      "phones": [],
+      "covers": [
+        "mohammedpur-deomal"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-bdo-haldaur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Haldaur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Haldaur",
+      "phones": [
+        {
+          "number": "9454465149",
+          "type": "cug",
+          "source_url": "https://bijnor.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.haldaur.bjn@gmail.com",
+      "covers": [
+        "haldaur"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-ado-haldaur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Haldaur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Haldaur",
+      "phones": [],
+      "covers": [
+        "haldaur"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-bdo-kiratpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kiratpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kiratpur",
+      "phones": [
+        {
+          "number": "9454465147",
+          "type": "cug",
+          "source_url": "https://bijnor.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.kiratpur.bjn@gmail.com",
+      "covers": [
+        "kiratpur"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-ado-kiratpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kiratpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kiratpur",
+      "phones": [],
+      "covers": [
+        "kiratpur"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-bdo-kotwali",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kotwali",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kotwali",
+      "phones": [
+        {
+          "number": "9454465150",
+          "type": "cug",
+          "source_url": "https://bijnor.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.kotwali.bjn@gmail.com",
+      "covers": [
+        "kotwali"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-ado-kotwali",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kotwali",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kotwali",
+      "phones": [],
+      "covers": [
+        "kotwali"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-bdo-najibabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Najibabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Najibabad",
+      "phones": [],
+      "email": "bdo.najibabad.bjn@gmail.com",
+      "covers": [
+        "najibabad"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-ado-najibabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Najibabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Najibabad",
+      "phones": [],
+      "covers": [
+        "najibabad"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-bdo-nehtaur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nehtaur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nehtaur",
+      "phones": [
+        {
+          "number": "9454465153",
+          "type": "cug",
+          "source_url": "https://bijnor.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.nehtaur.bjn@gmail.com",
+      "covers": [
+        "nehtaur"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-ado-nehtaur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nehtaur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nehtaur",
+      "phones": [],
+      "covers": [
+        "nehtaur"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-bdo-dhampur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dhampur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dhampur",
+      "phones": [
+        {
+          "number": "9454465154",
+          "type": "cug",
+          "source_url": "https://bijnor.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.dhampur.bjn@gmail.com",
+      "covers": [
+        "dhampur"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-ado-dhampur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dhampur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dhampur",
+      "phones": [],
+      "covers": [
+        "dhampur"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-bdo-afzalgarh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Afzalgarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Afzalgarh",
+      "phones": [
+        {
+          "number": "9454465152",
+          "type": "cug",
+          "source_url": "https://bijnor.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.afzalgarh.bjn@gmail.com",
+      "covers": [
+        "afzalgarh"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-ado-afzalgarh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Afzalgarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Afzalgarh",
+      "phones": [],
+      "covers": [
+        "afzalgarh"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-bdo-allahpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Allahpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Allahpur",
+      "phones": [],
+      "email": "bdo.allahpur.bjn@gmail.com",
+      "covers": [
+        "allahpur"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-ado-allahpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Allahpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Allahpur",
+      "phones": [],
+      "covers": [
+        "allahpur"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-bdo-noorpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Noorpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Noorpur",
+      "phones": [
+        {
+          "number": "9454465157",
+          "type": "cug",
+          "source_url": "https://bijnor.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.noorpur.bjn@gmail.com",
+      "covers": [
+        "noorpur"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-ado-noorpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Noorpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Noorpur",
+      "phones": [],
+      "covers": [
+        "noorpur"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-bdo-jalilpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jalilpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jalilpur",
+      "phones": [],
+      "email": "bdo.jalilpur.bjn@gmail.com",
+      "covers": [
+        "jalilpur"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bijnor-ado-jalilpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jalilpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jalilpur",
+      "phones": [],
+      "covers": [
+        "jalilpur"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-bijnor-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Bijnor",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका बिजनौर",
+      "phones": [],
+      "covers": [
+        "ulb-bijnor-main"
+      ],
+      "source_url": "https://bijnor.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

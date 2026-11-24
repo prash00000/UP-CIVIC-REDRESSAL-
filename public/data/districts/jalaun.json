@@ -1,0 +1,458 @@
+{
+  "district_id": "jalaun",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-jalaun-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Jalaun",
+      "office_name_hi": "कार्यालय जिलाधिकारी, जालौन",
+      "officer_name_en": "2",
+      "phones": [
+        {
+          "number": "9454417548",
+          "type": "office",
+          "source_url": "https://jalaun.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmjln@nic.in",
+      "covers": [
+        "jalaun"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Jalaun",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), जालौन",
+      "phones": [
+        {
+          "number": "9454417179",
+          "type": "office",
+          "source_url": "https://jalaun.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo.jln-up@gov.in",
+      "covers": [
+        "jalaun"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Jalaun",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, जालौन",
+      "phones": [],
+      "email": "dpro-jln@nic.in",
+      "covers": [
+        "jalaun"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-sdm-orai",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Orai",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Orai",
+      "phones": [
+        {
+          "number": "9454416347",
+          "type": "cug",
+          "source_url": "https://jalaun.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.orai.jln-up@gov.in",
+      "covers": [
+        "orai"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-sdm-jalaun",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Jalaun",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Jalaun",
+      "phones": [
+        {
+          "number": "9454416348",
+          "type": "cug",
+          "source_url": "https://jalaun.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.jalaun.jln-up@gov.in",
+      "covers": [
+        "jalaun"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-sdm-konch",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Konch",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Konch",
+      "phones": [
+        {
+          "number": "9454416350",
+          "type": "cug",
+          "source_url": "https://jalaun.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.konch.jln-up@gov.in",
+      "covers": [
+        "konch"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-sdm-kalpi",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kalpi",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kalpi",
+      "phones": [
+        {
+          "number": "9454416349",
+          "type": "cug",
+          "source_url": "https://jalaun.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.kalpi.jln-up@gov.in",
+      "covers": [
+        "kalpi"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-sdm-madhogarh",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Madhogarh",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Madhogarh",
+      "phones": [
+        {
+          "number": "9454416351",
+          "type": "cug",
+          "source_url": "https://jalaun.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.madhogarh.jln-up@gov.in",
+      "covers": [
+        "madhogarh"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-bdo-dakore",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Dakore",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dakore",
+      "phones": [],
+      "email": "bdo.dakore.jln@gmail.com",
+      "covers": [
+        "dakore"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-ado-dakore",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Dakore",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dakore",
+      "phones": [],
+      "covers": [
+        "dakore"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-bdo-jalaun",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jalaun",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jalaun",
+      "phones": [],
+      "email": "bdo.jalaun.jln@gmail.com",
+      "covers": [
+        "jalaun"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-ado-jalaun",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jalaun",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jalaun",
+      "phones": [],
+      "covers": [
+        "jalaun"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-bdo-konch",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Konch",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Konch",
+      "phones": [],
+      "email": "bdo.konch.jln@gmail.com",
+      "covers": [
+        "konch"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-ado-konch",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Konch",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Konch",
+      "phones": [],
+      "covers": [
+        "konch"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-bdo-nadi-gaon",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nadi Gaon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nadi Gaon",
+      "phones": [],
+      "email": "bdo.nadigaon.jln@gmail.com",
+      "covers": [
+        "nadi-gaon"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-ado-nadi-gaon",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nadi Gaon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nadi Gaon",
+      "phones": [],
+      "covers": [
+        "nadi-gaon"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-bdo-kalpi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kalpi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kalpi",
+      "phones": [],
+      "email": "bdo.kalpi.jln@gmail.com",
+      "covers": [
+        "kalpi"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-ado-kalpi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kalpi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kalpi",
+      "phones": [],
+      "covers": [
+        "kalpi"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-bdo-maheva",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Maheva",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Maheva",
+      "phones": [],
+      "email": "bdo.maheva.jln@gmail.com",
+      "covers": [
+        "maheva"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-ado-maheva",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Maheva",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Maheva",
+      "phones": [],
+      "covers": [
+        "maheva"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-bdo-madhogarh",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Madhogarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Madhogarh",
+      "phones": [],
+      "email": "bdo.madhogarh.jln@gmail.com",
+      "covers": [
+        "madhogarh"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-ado-madhogarh",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Madhogarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Madhogarh",
+      "phones": [],
+      "covers": [
+        "madhogarh"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-bdo-rampura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Rampura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rampura",
+      "phones": [],
+      "email": "bdo.rampura.jln@gmail.com",
+      "covers": [
+        "rampura"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-ado-rampura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Rampura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rampura",
+      "phones": [],
+      "covers": [
+        "rampura"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-bdo-kadaura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kadaura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kadaura",
+      "phones": [],
+      "email": "bdo.kadaura.jln@gmail.com",
+      "covers": [
+        "kadaura"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jalaun-ado-kadaura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kadaura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kadaura",
+      "phones": [],
+      "covers": [
+        "kadaura"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-jalaun-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Jalaun",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका जालौन",
+      "phones": [],
+      "covers": [
+        "ulb-jalaun-main"
+      ],
+      "source_url": "https://jalaun.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

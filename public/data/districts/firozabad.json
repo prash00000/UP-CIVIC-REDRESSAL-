@@ -1,0 +1,417 @@
+{
+  "district_id": "firozabad",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-firozabad-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Firozabad",
+      "office_name_hi": "कार्यालय जिलाधिकारी, फिरोजाबाद",
+      "phones": [
+        {
+          "number": "9454417510",
+          "type": "office",
+          "source_url": "https://firozabad.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmfir@nic.in",
+      "covers": [
+        "firozabad"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Firozabad",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), फिरोजाबाद",
+      "phones": [
+        {
+          "number": "9454418950",
+          "type": "office",
+          "source_url": "https://firozabad.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "drda-frz@nic.in",
+      "covers": [
+        "firozabad"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Firozabad",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, फिरोजाबाद",
+      "phones": [],
+      "email": "dpro-fzb@nic.in",
+      "covers": [
+        "firozabad"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-sdm-firozabad",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Firozabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Firozabad",
+      "phones": [],
+      "email": "sdm.firozabad.fzb-up@gov.in",
+      "covers": [
+        "firozabad"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-sdm-shikohabad",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Shikohabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Shikohabad",
+      "phones": [],
+      "email": "sdm.shikohabad.fzb-up@gov.in",
+      "covers": [
+        "shikohabad"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-sdm-jasrana",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Jasrana",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Jasrana",
+      "phones": [],
+      "email": "sdm.jasrana.fzb-up@gov.in",
+      "covers": [
+        "jasrana"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-sdm-tundla",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Tundla",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Tundla",
+      "phones": [],
+      "email": "sdm.tundla.fzb-up@gov.in",
+      "covers": [
+        "tundla"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-sdm-sirsaganj",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sirsaganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sirsaganj",
+      "phones": [],
+      "email": "sdm.sirsaganj.fzb-up@gov.in",
+      "covers": [
+        "sirsaganj"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-bdo-firozabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Firozabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Firozabad",
+      "phones": [],
+      "email": "bdo.firozabad.fzb@gmail.com",
+      "covers": [
+        "firozabad"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-ado-firozabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Firozabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Firozabad",
+      "phones": [],
+      "covers": [
+        "firozabad"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-bdo-narkhi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Narkhi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Narkhi",
+      "phones": [],
+      "email": "bdo.narkhi.fzb@gmail.com",
+      "covers": [
+        "narkhi"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-ado-narkhi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Narkhi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Narkhi",
+      "phones": [],
+      "covers": [
+        "narkhi"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-bdo-tundla",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Tundla",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tundla",
+      "phones": [],
+      "email": "bdo.tundla.fzb@gmail.com",
+      "covers": [
+        "tundla"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-ado-tundla",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Tundla",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Tundla",
+      "phones": [],
+      "covers": [
+        "tundla"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-bdo-shikohabad",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Shikohabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shikohabad",
+      "phones": [],
+      "email": "bdo.shikohabad.fzb@gmail.com",
+      "covers": [
+        "shikohabad"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-ado-shikohabad",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Shikohabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shikohabad",
+      "phones": [],
+      "covers": [
+        "shikohabad"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-bdo-madanpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Madanpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Madanpur",
+      "phones": [],
+      "email": "bdo.madanpur.fzb@gmail.com",
+      "covers": [
+        "madanpur"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-ado-madanpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Madanpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Madanpur",
+      "phones": [],
+      "covers": [
+        "madanpur"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-bdo-jasrana",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jasrana",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jasrana",
+      "phones": [],
+      "email": "bdo.jasrana.fzb@gmail.com",
+      "covers": [
+        "jasrana"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-ado-jasrana",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jasrana",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jasrana",
+      "phones": [],
+      "covers": [
+        "jasrana"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-bdo-eka",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Eka",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Eka",
+      "phones": [],
+      "email": "bdo.eka.fzb@gmail.com",
+      "covers": [
+        "eka"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-ado-eka",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Eka",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Eka",
+      "phones": [],
+      "covers": [
+        "eka"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-bdo-hathwant",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Hathwant",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hathwant",
+      "phones": [],
+      "email": "bdo.hathwant.fzb@gmail.com",
+      "covers": [
+        "hathwant"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-ado-hathwant",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Hathwant",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Hathwant",
+      "phones": [],
+      "covers": [
+        "hathwant"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-bdo-araon",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Araon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Araon",
+      "phones": [],
+      "email": "bdo.araon.fzb@gmail.com",
+      "covers": [
+        "araon"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-ado-araon",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Araon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Araon",
+      "phones": [],
+      "covers": [
+        "araon"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-firozabad-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Firozabad",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका फिरोजाबाद",
+      "phones": [],
+      "covers": [
+        "ulb-firozabad-main"
+      ],
+      "source_url": "https://firozabad.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

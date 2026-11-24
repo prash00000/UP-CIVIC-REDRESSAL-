@@ -1,0 +1,415 @@
+{
+  "district_id": "kaushambi",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-kaushambi-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Kaushambi",
+      "office_name_hi": "कार्यालय जिलाधिकारी, कौशाम्बी",
+      "officer_name_en": "2",
+      "phones": [
+        {
+          "number": "9454417519",
+          "type": "office",
+          "source_url": "https://kaushambi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmkos@nic.in",
+      "covers": [
+        "kaushambi"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Kaushambi",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), कौशाम्बी",
+      "phones": [
+        {
+          "number": "9454464572",
+          "type": "office",
+          "source_url": "https://kaushambi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdokos@nic.in",
+      "covers": [
+        "kaushambi"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Kaushambi",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, कौशाम्बी",
+      "phones": [],
+      "email": "dpro-ksb@nic.in",
+      "covers": [
+        "kaushambi"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-sdm-manjhanpur",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Manjhanpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Manjhanpur",
+      "phones": [
+        {
+          "number": "9454417883",
+          "type": "cug",
+          "source_url": "https://kaushambi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.manjhanpur.ksb-up@gov.in",
+      "covers": [
+        "manjhanpur"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-sdm-chail",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Chail",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Chail",
+      "phones": [
+        {
+          "number": "9454417884",
+          "type": "cug",
+          "source_url": "https://kaushambi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.chail.ksb-up@gov.in",
+      "covers": [
+        "chail"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-sdm-sirathu",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sirathu",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sirathu",
+      "phones": [
+        {
+          "number": "9454417882",
+          "type": "cug",
+          "source_url": "https://kaushambi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.sirathu.ksb-up@gov.in",
+      "covers": [
+        "sirathu"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-bdo-manjhanpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Manjhanpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Manjhanpur",
+      "phones": [],
+      "email": "bdo.manjhanpur.ksb@gmail.com",
+      "covers": [
+        "manjhanpur"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-ado-manjhanpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Manjhanpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Manjhanpur",
+      "phones": [],
+      "covers": [
+        "manjhanpur"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-bdo-sarsawan",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sarsawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sarsawan",
+      "phones": [
+        {
+          "number": "9454464585",
+          "type": "cug",
+          "source_url": "https://kaushambi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.sarsawan.ksb@gmail.com",
+      "covers": [
+        "sarsawan"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-ado-sarsawan",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sarsawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sarsawan",
+      "phones": [],
+      "covers": [
+        "sarsawan"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-bdo-kaushambi",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kaushambi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kaushambi",
+      "phones": [
+        {
+          "number": "9454464579",
+          "type": "cug",
+          "source_url": "https://kaushambi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.kaushambi.ksb@gmail.com",
+      "covers": [
+        "kaushambi"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-ado-kaushambi",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kaushambi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kaushambi",
+      "phones": [],
+      "covers": [
+        "kaushambi"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-bdo-chail",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chail",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chail",
+      "phones": [
+        {
+          "number": "9454464582",
+          "type": "cug",
+          "source_url": "https://kaushambi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdokos-chail@nic.in",
+      "covers": [
+        "chail"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-ado-chail",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chail",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chail",
+      "phones": [],
+      "covers": [
+        "chail"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-bdo-nevada",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Nevada",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nevada",
+      "phones": [],
+      "email": "bdo.nevada.ksb@gmail.com",
+      "covers": [
+        "nevada"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-ado-nevada",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Nevada",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nevada",
+      "phones": [],
+      "covers": [
+        "nevada"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-bdo-muratganj",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Muratganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Muratganj",
+      "phones": [],
+      "email": "bdo.muratganj.ksb@gmail.com",
+      "covers": [
+        "muratganj"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-ado-muratganj",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Muratganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Muratganj",
+      "phones": [],
+      "covers": [
+        "muratganj"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-bdo-sirathu",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sirathu",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sirathu",
+      "phones": [
+        {
+          "number": "9454464576",
+          "type": "cug",
+          "source_url": "https://kaushambi.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "bdo.sirathu.ksb@gmail.com",
+      "covers": [
+        "sirathu"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-ado-sirathu",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sirathu",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sirathu",
+      "phones": [],
+      "covers": [
+        "sirathu"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-bdo-kara",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kara",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kara",
+      "phones": [],
+      "email": "bdo.kara.ksb@gmail.com",
+      "covers": [
+        "kara"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-kaushambi-ado-kara",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kara",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kara",
+      "phones": [],
+      "covers": [
+        "kara"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-kaushambi-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Kaushambi",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका कौशाम्बी",
+      "phones": [],
+      "covers": [
+        "ulb-kaushambi-main"
+      ],
+      "source_url": "https://kaushambi.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

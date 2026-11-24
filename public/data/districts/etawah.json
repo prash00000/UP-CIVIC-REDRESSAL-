@@ -1,0 +1,451 @@
+{
+  "district_id": "etawah",
+  "verified_on": "2026-11-20",
+  "offices": [
+    {
+      "id": "up-etawah-dm",
+      "level": "district",
+      "role": "dm",
+      "office_name_en": "Office of District Magistrate, Etawah",
+      "office_name_hi": "कार्यालय जिलाधिकारी, इटावा",
+      "phones": [
+        {
+          "number": "05688-252544",
+          "type": "office",
+          "source_url": "https://etawah.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "dmetw@nic.in",
+      "covers": [
+        "etawah"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-cdo",
+      "level": "district",
+      "role": "cdo",
+      "office_name_en": "Chief Development Officer (CDO), Etawah",
+      "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), इटावा",
+      "phones": [
+        {
+          "number": "05688-254690",
+          "type": "office",
+          "source_url": "https://etawah.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo.etw-up@gov.in",
+      "covers": [
+        "etawah"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-dpro",
+      "level": "district",
+      "role": "dpro",
+      "office_name_en": "District Panchayat Raj Officer (DPRO), Etawah",
+      "office_name_hi": "जिला पंचायत राज अधिकारी, इटावा",
+      "phones": [],
+      "email": "dpro-etw@nic.in",
+      "covers": [
+        "etawah"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-sdm-etawah",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Etawah",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Etawah",
+      "phones": [
+        {
+          "number": "9454416439",
+          "type": "cug",
+          "source_url": "https://etawah.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.etawah.etw-up@gov.in",
+      "covers": [
+        "etawah"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-sdm-bharthana",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bharthana",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bharthana",
+      "phones": [
+        {
+          "number": "9454416440",
+          "type": "cug",
+          "source_url": "https://etawah.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.bharthana.etw-up@gov.in",
+      "covers": [
+        "bharthana"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-sdm-chakarnagar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Chakarnagar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Chakarnagar",
+      "phones": [
+        {
+          "number": "9454416442",
+          "type": "cug",
+          "source_url": "https://etawah.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.chakarnagar.etw-up@gov.in",
+      "covers": [
+        "chakarnagar"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-sdm-saifai",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Saifai",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Saifai",
+      "phones": [
+        {
+          "number": "9454416441",
+          "type": "cug",
+          "source_url": "https://etawah.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.saifai.etw-up@gov.in",
+      "covers": [
+        "saifai"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-sdm-jaswantnagar",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Jaswantnagar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Jaswantnagar",
+      "phones": [
+        {
+          "number": "9454416443",
+          "type": "cug",
+          "source_url": "https://etawah.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.jaswantnagar.etw-up@gov.in",
+      "covers": [
+        "jaswantnagar"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-sdm-takha",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Takha",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Takha",
+      "phones": [
+        {
+          "number": "9454419063",
+          "type": "cug",
+          "source_url": "https://etawah.nic.in",
+          "checked_on": "2026-11-20",
+          "status": "verified"
+        }
+      ],
+      "email": "sdm.takha.etw-up@gov.in",
+      "covers": [
+        "takha"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-bdo-barhpura",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Barhpura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Barhpura",
+      "phones": [],
+      "email": "bdo.barhpura.etw@gmail.com",
+      "covers": [
+        "barhpura"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-ado-barhpura",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Barhpura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Barhpura",
+      "phones": [],
+      "covers": [
+        "barhpura"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-bdo-jaswantnagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Jaswantnagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jaswantnagar",
+      "phones": [],
+      "email": "bdo.jaswantnagar.etw@gmail.com",
+      "covers": [
+        "jaswantnagar"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-ado-jaswantnagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Jaswantnagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jaswantnagar",
+      "phones": [],
+      "covers": [
+        "jaswantnagar"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-bdo-saifai",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Saifai",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Saifai",
+      "phones": [],
+      "email": "bdo.saifai.etw@gmail.com",
+      "covers": [
+        "saifai"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-ado-saifai",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Saifai",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Saifai",
+      "phones": [],
+      "covers": [
+        "saifai"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-bdo-basrehar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Basrehar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Basrehar",
+      "phones": [],
+      "email": "bdo.basrehar.etw@gmail.com",
+      "covers": [
+        "basrehar"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-ado-basrehar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Basrehar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Basrehar",
+      "phones": [],
+      "covers": [
+        "basrehar"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-bdo-bharthana",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bharthana",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bharthana",
+      "phones": [],
+      "email": "bdo.bharthana.etw@gmail.com",
+      "covers": [
+        "bharthana"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-ado-bharthana",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bharthana",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bharthana",
+      "phones": [],
+      "covers": [
+        "bharthana"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-bdo-mahewa",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Mahewa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mahewa",
+      "phones": [],
+      "email": "bdo.mahewa.etw@gmail.com",
+      "covers": [
+        "mahewa"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-ado-mahewa",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Mahewa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mahewa",
+      "phones": [],
+      "covers": [
+        "mahewa"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-bdo-chakarnagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Chakarnagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chakarnagar",
+      "phones": [],
+      "email": "bdo.chakarnagar.etw@gmail.com",
+      "covers": [
+        "chakarnagar"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-ado-chakarnagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Chakarnagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chakarnagar",
+      "phones": [],
+      "covers": [
+        "chakarnagar"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-bdo-takha",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Takha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Takha",
+      "phones": [],
+      "email": "bdo.takha.etw@gmail.com",
+      "covers": [
+        "takha"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-etawah-ado-takha",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Takha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Takha",
+      "phones": [],
+      "covers": [
+        "takha"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "eo-etawah-main",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Etawah",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका इटावा",
+      "phones": [],
+      "covers": [
+        "ulb-etawah-main"
+      ],
+      "source_url": "https://etawah.nic.in",
+      "confidence": "high",
+      "valid_as_of": "2026-11-20"
+    }
+  ]
+}

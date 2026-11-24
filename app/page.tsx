@@ -1,7 +1,8 @@
 "use client";
 
-import React from "react";
+import React, { useState } from "react";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import { useT } from "@/lib/i18n";
 
 const ISSUES = [
@@ -15,6 +16,8 @@ const ISSUES = [
 
 export default function HomePage() {
   const t = useT();
+  const router = useRouter();
+  const [homePin, setHomePin] = useState("");
 
   return (
     <div className="space-y-12 md:space-y-16">
@@ -41,6 +44,36 @@ export default function HomePage() {
             {t("nav.directory")}
           </Link>
         </div>
+
+        {/* Quick PIN Code Form */}
+        <form
+          onSubmit={(e) => {
+            e.preventDefault();
+            const clean = homePin.replace(/\D/g, "");
+            if (clean.length === 6) {
+              router.push(`/find/?pincode=${clean}`);
+            }
+          }}
+          className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-2 max-w-[420px] mx-auto"
+        >
+          <input
+            type="text"
+            inputMode="numeric"
+            maxLength={6}
+            value={homePin}
+            onChange={(e) => setHomePin(e.target.value.replace(/\D/g, "").slice(0, 6))}
+            placeholder={t("flow.pincodePlaceholder")}
+            aria-label="Pincode search"
+            className="w-full sm:w-60 min-h-btn px-4 py-2.5 text-center text-[16px] font-medium border-2 border-border rounded-btn bg-surface focus:border-primary focus-visible:outline-none"
+          />
+          <button
+            type="submit"
+            disabled={homePin.length !== 6}
+            className="w-full sm:w-auto min-h-btn px-5 py-2.5 bg-primary disabled:opacity-50 hover:bg-primary-hover text-white font-bold rounded-btn transition-colors text-[16px]"
+          >
+            {t("flow.next")}
+          </button>
+        </form>
       </section>
 
       {/* HOW IT WORKS (3 Steps) */}

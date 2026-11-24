@@ -1,4 +1,1046 @@
 {
+  "201001": [
+    {
+      "district_id": "ghaziabad",
+      "tehsil_id": "ghaziabad"
+    },
+    {
+      "district_id": "gautam-buddha-nagar",
+      "tehsil_id": "noida"
+    }
+  ],
+  "201008": [
+    {
+      "district_id": "ghaziabad",
+      "tehsil_id": "modinagar"
+    }
+  ],
+  "201015": [
+    {
+      "district_id": "ghaziabad",
+      "tehsil_id": "loni"
+    }
+  ],
+  "201022": [
+    {
+      "district_id": "ghaziabad",
+      "tehsil_id": "ghaziabad"
+    }
+  ],
+  "201029": [
+    {
+      "district_id": "ghaziabad",
+      "tehsil_id": "modinagar"
+    }
+  ],
+  "201036": [
+    {
+      "district_id": "ghaziabad",
+      "tehsil_id": "loni"
+    }
+  ],
+  "201043": [
+    {
+      "district_id": "ghaziabad",
+      "tehsil_id": "ghaziabad"
+    }
+  ],
+  "201050": [
+    {
+      "district_id": "ghaziabad",
+      "tehsil_id": "modinagar"
+    }
+  ],
+  "201057": [
+    {
+      "district_id": "ghaziabad",
+      "tehsil_id": "loni"
+    }
+  ],
+  "201064": [
+    {
+      "district_id": "ghaziabad",
+      "tehsil_id": "ghaziabad"
+    }
+  ],
+  "201071": [
+    {
+      "district_id": "ghaziabad",
+      "tehsil_id": "modinagar"
+    }
+  ],
+  "201078": [
+    {
+      "district_id": "ghaziabad",
+      "tehsil_id": "loni"
+    }
+  ],
+  "201085": [
+    {
+      "district_id": "ghaziabad",
+      "tehsil_id": "ghaziabad"
+    }
+  ],
+  "201092": [
+    {
+      "district_id": "ghaziabad",
+      "tehsil_id": "modinagar"
+    }
+  ],
+  "201301": [
+    {
+      "district_id": "gautam-buddha-nagar",
+      "tehsil_id": "noida"
+    }
+  ],
+  "201308": [
+    {
+      "district_id": "gautam-buddha-nagar",
+      "tehsil_id": "dadri"
+    }
+  ],
+  "201315": [
+    {
+      "district_id": "gautam-buddha-nagar",
+      "tehsil_id": "jewar"
+    }
+  ],
+  "201322": [
+    {
+      "district_id": "gautam-buddha-nagar",
+      "tehsil_id": "noida"
+    }
+  ],
+  "201329": [
+    {
+      "district_id": "gautam-buddha-nagar",
+      "tehsil_id": "dadri"
+    }
+  ],
+  "201336": [
+    {
+      "district_id": "gautam-buddha-nagar",
+      "tehsil_id": "jewar"
+    }
+  ],
+  "201343": [
+    {
+      "district_id": "gautam-buddha-nagar",
+      "tehsil_id": "noida"
+    }
+  ],
+  "201350": [
+    {
+      "district_id": "gautam-buddha-nagar",
+      "tehsil_id": "dadri"
+    }
+  ],
+  "201357": [
+    {
+      "district_id": "gautam-buddha-nagar",
+      "tehsil_id": "jewar"
+    }
+  ],
+  "201364": [
+    {
+      "district_id": "gautam-buddha-nagar",
+      "tehsil_id": "noida"
+    }
+  ],
+  "201371": [
+    {
+      "district_id": "gautam-buddha-nagar",
+      "tehsil_id": "dadri"
+    }
+  ],
+  "201378": [
+    {
+      "district_id": "gautam-buddha-nagar",
+      "tehsil_id": "jewar"
+    }
+  ],
+  "201385": [
+    {
+      "district_id": "gautam-buddha-nagar",
+      "tehsil_id": "noida"
+    }
+  ],
+  "201392": [
+    {
+      "district_id": "gautam-buddha-nagar",
+      "tehsil_id": "dadri"
+    }
+  ],
+  "202001": [
+    {
+      "district_id": "aligarh",
+      "tehsil_id": "koil"
+    }
+  ],
+  "202008": [
+    {
+      "district_id": "aligarh",
+      "tehsil_id": "khair"
+    }
+  ],
+  "202015": [
+    {
+      "district_id": "aligarh",
+      "tehsil_id": "atrauli"
+    }
+  ],
+  "202022": [
+    {
+      "district_id": "aligarh",
+      "tehsil_id": "iglas"
+    }
+  ],
+  "202029": [
+    {
+      "district_id": "aligarh",
+      "tehsil_id": "gabhana"
+    }
+  ],
+  "202036": [
+    {
+      "district_id": "aligarh",
+      "tehsil_id": "koil"
+    }
+  ],
+  "202043": [
+    {
+      "district_id": "aligarh",
+      "tehsil_id": "khair"
+    }
+  ],
+  "202050": [
+    {
+      "district_id": "aligarh",
+      "tehsil_id": "atrauli"
+    }
+  ],
+  "202057": [
+    {
+      "district_id": "aligarh",
+      "tehsil_id": "iglas"
+    }
+  ],
+  "202064": [
+    {
+      "district_id": "aligarh",
+      "tehsil_id": "gabhana"
+    }
+  ],
+  "203001": [
+    {
+      "district_id": "bulandshahr",
+      "tehsil_id": "bulandshahr"
+    }
+  ],
+  "203008": [
+    {
+      "district_id": "bulandshahr",
+      "tehsil_id": "khurja"
+    }
+  ],
+  "203015": [
+    {
+      "district_id": "bulandshahr",
+      "tehsil_id": "sikandrabad"
+    }
+  ],
+  "203022": [
+    {
+      "district_id": "bulandshahr",
+      "tehsil_id": "siana"
+    }
+  ],
+  "203029": [
+    {
+      "district_id": "bulandshahr",
+      "tehsil_id": "anupshahr"
+    }
+  ],
+  "203036": [
+    {
+      "district_id": "bulandshahr",
+      "tehsil_id": "debai"
+    }
+  ],
+  "203043": [
+    {
+      "district_id": "bulandshahr",
+      "tehsil_id": "shikarpur"
+    }
+  ],
+  "203050": [
+    {
+      "district_id": "bulandshahr",
+      "tehsil_id": "bulandshahr"
+    }
+  ],
+  "203057": [
+    {
+      "district_id": "bulandshahr",
+      "tehsil_id": "khurja"
+    }
+  ],
+  "203064": [
+    {
+      "district_id": "bulandshahr",
+      "tehsil_id": "sikandrabad"
+    }
+  ],
+  "203071": [
+    {
+      "district_id": "bulandshahr",
+      "tehsil_id": "siana"
+    }
+  ],
+  "203078": [
+    {
+      "district_id": "bulandshahr",
+      "tehsil_id": "anupshahr"
+    }
+  ],
+  "204101": [
+    {
+      "district_id": "hathras",
+      "tehsil_id": "hathras"
+    }
+  ],
+  "204108": [
+    {
+      "district_id": "hathras",
+      "tehsil_id": "sadabad"
+    }
+  ],
+  "204115": [
+    {
+      "district_id": "hathras",
+      "tehsil_id": "sasni"
+    }
+  ],
+  "204122": [
+    {
+      "district_id": "hathras",
+      "tehsil_id": "sikandra-rao"
+    }
+  ],
+  "204129": [
+    {
+      "district_id": "hathras",
+      "tehsil_id": "hathras"
+    }
+  ],
+  "204136": [
+    {
+      "district_id": "hathras",
+      "tehsil_id": "sadabad"
+    }
+  ],
+  "204143": [
+    {
+      "district_id": "hathras",
+      "tehsil_id": "sasni"
+    }
+  ],
+  "204150": [
+    {
+      "district_id": "hathras",
+      "tehsil_id": "sikandra-rao"
+    }
+  ],
+  "205001": [
+    {
+      "district_id": "mainpuri",
+      "tehsil_id": "mainpuri"
+    }
+  ],
+  "205008": [
+    {
+      "district_id": "mainpuri",
+      "tehsil_id": "bhongaon"
+    }
+  ],
+  "205015": [
+    {
+      "district_id": "mainpuri",
+      "tehsil_id": "karhal"
+    }
+  ],
+  "205022": [
+    {
+      "district_id": "mainpuri",
+      "tehsil_id": "kishni"
+    }
+  ],
+  "205029": [
+    {
+      "district_id": "mainpuri",
+      "tehsil_id": "kuraoli"
+    }
+  ],
+  "205036": [
+    {
+      "district_id": "mainpuri",
+      "tehsil_id": "mainpuri"
+    }
+  ],
+  "205043": [
+    {
+      "district_id": "mainpuri",
+      "tehsil_id": "bhongaon"
+    }
+  ],
+  "205050": [
+    {
+      "district_id": "mainpuri",
+      "tehsil_id": "karhal"
+    }
+  ],
+  "206001": [
+    {
+      "district_id": "etawah",
+      "tehsil_id": "etawah"
+    }
+  ],
+  "206008": [
+    {
+      "district_id": "etawah",
+      "tehsil_id": "bharthana"
+    }
+  ],
+  "206015": [
+    {
+      "district_id": "etawah",
+      "tehsil_id": "chakarnagar"
+    }
+  ],
+  "206022": [
+    {
+      "district_id": "etawah",
+      "tehsil_id": "jaswantnagar"
+    }
+  ],
+  "206029": [
+    {
+      "district_id": "etawah",
+      "tehsil_id": "saifai"
+    }
+  ],
+  "206036": [
+    {
+      "district_id": "etawah",
+      "tehsil_id": "etawah"
+    }
+  ],
+  "206043": [
+    {
+      "district_id": "etawah",
+      "tehsil_id": "bharthana"
+    }
+  ],
+  "206050": [
+    {
+      "district_id": "etawah",
+      "tehsil_id": "chakarnagar"
+    }
+  ],
+  "206122": [
+    {
+      "district_id": "auraiya",
+      "tehsil_id": "auraiya"
+    }
+  ],
+  "206129": [
+    {
+      "district_id": "auraiya",
+      "tehsil_id": "bidhuna"
+    }
+  ],
+  "206136": [
+    {
+      "district_id": "auraiya",
+      "tehsil_id": "ajitmal"
+    }
+  ],
+  "206143": [
+    {
+      "district_id": "auraiya",
+      "tehsil_id": "auraiya"
+    }
+  ],
+  "206150": [
+    {
+      "district_id": "auraiya",
+      "tehsil_id": "bidhuna"
+    }
+  ],
+  "206157": [
+    {
+      "district_id": "auraiya",
+      "tehsil_id": "ajitmal"
+    }
+  ],
+  "206164": [
+    {
+      "district_id": "auraiya",
+      "tehsil_id": "auraiya"
+    }
+  ],
+  "207001": [
+    {
+      "district_id": "etah",
+      "tehsil_id": "etah"
+    }
+  ],
+  "207008": [
+    {
+      "district_id": "etah",
+      "tehsil_id": "aliganj"
+    }
+  ],
+  "207015": [
+    {
+      "district_id": "etah",
+      "tehsil_id": "jalesar"
+    }
+  ],
+  "207022": [
+    {
+      "district_id": "etah",
+      "tehsil_id": "etah"
+    }
+  ],
+  "207029": [
+    {
+      "district_id": "etah",
+      "tehsil_id": "aliganj"
+    }
+  ],
+  "207036": [
+    {
+      "district_id": "etah",
+      "tehsil_id": "jalesar"
+    }
+  ],
+  "207043": [
+    {
+      "district_id": "etah",
+      "tehsil_id": "etah"
+    }
+  ],
+  "207050": [
+    {
+      "district_id": "etah",
+      "tehsil_id": "aliganj"
+    }
+  ],
+  "207123": [
+    {
+      "district_id": "kasganj",
+      "tehsil_id": "kasganj"
+    }
+  ],
+  "207130": [
+    {
+      "district_id": "kasganj",
+      "tehsil_id": "patiyali"
+    }
+  ],
+  "207137": [
+    {
+      "district_id": "kasganj",
+      "tehsil_id": "sahawar"
+    }
+  ],
+  "207144": [
+    {
+      "district_id": "kasganj",
+      "tehsil_id": "kasganj"
+    }
+  ],
+  "207151": [
+    {
+      "district_id": "kasganj",
+      "tehsil_id": "patiyali"
+    }
+  ],
+  "207158": [
+    {
+      "district_id": "kasganj",
+      "tehsil_id": "sahawar"
+    }
+  ],
+  "208001": [
+    {
+      "district_id": "kanpur-nagar",
+      "tehsil_id": "kanpur-sadar"
+    }
+  ],
+  "208008": [
+    {
+      "district_id": "kanpur-nagar",
+      "tehsil_id": "bilhaur"
+    }
+  ],
+  "208015": [
+    {
+      "district_id": "kanpur-nagar",
+      "tehsil_id": "ghatampur"
+    }
+  ],
+  "208022": [
+    {
+      "district_id": "kanpur-nagar",
+      "tehsil_id": "narwal"
+    }
+  ],
+  "208029": [
+    {
+      "district_id": "kanpur-nagar",
+      "tehsil_id": "kanpur-sadar"
+    }
+  ],
+  "208036": [
+    {
+      "district_id": "kanpur-nagar",
+      "tehsil_id": "bilhaur"
+    }
+  ],
+  "208043": [
+    {
+      "district_id": "kanpur-nagar",
+      "tehsil_id": "ghatampur"
+    }
+  ],
+  "208050": [
+    {
+      "district_id": "kanpur-nagar",
+      "tehsil_id": "narwal"
+    }
+  ],
+  "208057": [
+    {
+      "district_id": "kanpur-nagar",
+      "tehsil_id": "kanpur-sadar"
+    }
+  ],
+  "208064": [
+    {
+      "district_id": "kanpur-nagar",
+      "tehsil_id": "bilhaur"
+    }
+  ],
+  "208071": [
+    {
+      "district_id": "kanpur-nagar",
+      "tehsil_id": "ghatampur"
+    }
+  ],
+  "208078": [
+    {
+      "district_id": "kanpur-nagar",
+      "tehsil_id": "narwal"
+    }
+  ],
+  "208085": [
+    {
+      "district_id": "kanpur-nagar",
+      "tehsil_id": "kanpur-sadar"
+    }
+  ],
+  "208092": [
+    {
+      "district_id": "kanpur-nagar",
+      "tehsil_id": "bilhaur"
+    }
+  ],
+  "208099": [
+    {
+      "district_id": "kanpur-nagar",
+      "tehsil_id": "ghatampur"
+    }
+  ],
+  "208106": [
+    {
+      "district_id": "kanpur-nagar",
+      "tehsil_id": "narwal"
+    }
+  ],
+  "209101": [
+    {
+      "district_id": "kanpur-dehat",
+      "tehsil_id": "akbarpur"
+    }
+  ],
+  "209108": [
+    {
+      "district_id": "kanpur-dehat",
+      "tehsil_id": "bhognipur"
+    }
+  ],
+  "209115": [
+    {
+      "district_id": "kanpur-dehat",
+      "tehsil_id": "derapur"
+    }
+  ],
+  "209122": [
+    {
+      "district_id": "kanpur-dehat",
+      "tehsil_id": "rasulabad"
+    }
+  ],
+  "209129": [
+    {
+      "district_id": "kanpur-dehat",
+      "tehsil_id": "sikandra"
+    }
+  ],
+  "209136": [
+    {
+      "district_id": "kanpur-dehat",
+      "tehsil_id": "maitha"
+    }
+  ],
+  "209143": [
+    {
+      "district_id": "kanpur-dehat",
+      "tehsil_id": "akbarpur"
+    }
+  ],
+  "209150": [
+    {
+      "district_id": "kanpur-dehat",
+      "tehsil_id": "bhognipur"
+    }
+  ],
+  "209157": [
+    {
+      "district_id": "kanpur-dehat",
+      "tehsil_id": "derapur"
+    }
+  ],
+  "209164": [
+    {
+      "district_id": "kanpur-dehat",
+      "tehsil_id": "rasulabad"
+    }
+  ],
+  "209625": [
+    {
+      "district_id": "farrukhabad",
+      "tehsil_id": "fatehgarh"
+    }
+  ],
+  "209632": [
+    {
+      "district_id": "farrukhabad",
+      "tehsil_id": "kaimganj"
+    }
+  ],
+  "209639": [
+    {
+      "district_id": "farrukhabad",
+      "tehsil_id": "amritpur"
+    }
+  ],
+  "209646": [
+    {
+      "district_id": "farrukhabad",
+      "tehsil_id": "fatehgarh"
+    }
+  ],
+  "209653": [
+    {
+      "district_id": "farrukhabad",
+      "tehsil_id": "kaimganj"
+    }
+  ],
+  "209660": [
+    {
+      "district_id": "farrukhabad",
+      "tehsil_id": "amritpur"
+    }
+  ],
+  "209667": [
+    {
+      "district_id": "farrukhabad",
+      "tehsil_id": "fatehgarh"
+    }
+  ],
+  "209674": [
+    {
+      "district_id": "farrukhabad",
+      "tehsil_id": "kaimganj"
+    }
+  ],
+  "209725": [
+    {
+      "district_id": "kannauj",
+      "tehsil_id": "kannauj"
+    }
+  ],
+  "209732": [
+    {
+      "district_id": "kannauj",
+      "tehsil_id": "chhibramau"
+    }
+  ],
+  "209739": [
+    {
+      "district_id": "kannauj",
+      "tehsil_id": "tirwa"
+    }
+  ],
+  "209746": [
+    {
+      "district_id": "kannauj",
+      "tehsil_id": "kannauj"
+    }
+  ],
+  "209753": [
+    {
+      "district_id": "kannauj",
+      "tehsil_id": "chhibramau"
+    }
+  ],
+  "209760": [
+    {
+      "district_id": "kannauj",
+      "tehsil_id": "tirwa"
+    }
+  ],
+  "209801": [
+    {
+      "district_id": "unnao",
+      "tehsil_id": "unnao"
+    }
+  ],
+  "209808": [
+    {
+      "district_id": "unnao",
+      "tehsil_id": "hasanganj"
+    }
+  ],
+  "209815": [
+    {
+      "district_id": "unnao",
+      "tehsil_id": "safipur"
+    }
+  ],
+  "209822": [
+    {
+      "district_id": "unnao",
+      "tehsil_id": "purwa"
+    }
+  ],
+  "209829": [
+    {
+      "district_id": "unnao",
+      "tehsil_id": "bighapur"
+    }
+  ],
+  "209836": [
+    {
+      "district_id": "unnao",
+      "tehsil_id": "bangarmau"
+    }
+  ],
+  "209843": [
+    {
+      "district_id": "unnao",
+      "tehsil_id": "unnao"
+    }
+  ],
+  "209850": [
+    {
+      "district_id": "unnao",
+      "tehsil_id": "hasanganj"
+    }
+  ],
+  "209857": [
+    {
+      "district_id": "unnao",
+      "tehsil_id": "safipur"
+    }
+  ],
+  "209864": [
+    {
+      "district_id": "unnao",
+      "tehsil_id": "purwa"
+    }
+  ],
+  "209871": [
+    {
+      "district_id": "unnao",
+      "tehsil_id": "bighapur"
+    }
+  ],
+  "209878": [
+    {
+      "district_id": "unnao",
+      "tehsil_id": "bangarmau"
+    }
+  ],
+  "210001": [
+    {
+      "district_id": "banda",
+      "tehsil_id": "banda"
+    }
+  ],
+  "210008": [
+    {
+      "district_id": "banda",
+      "tehsil_id": "atarra"
+    }
+  ],
+  "210015": [
+    {
+      "district_id": "banda",
+      "tehsil_id": "baberu"
+    }
+  ],
+  "210022": [
+    {
+      "district_id": "banda",
+      "tehsil_id": "naraini"
+    }
+  ],
+  "210029": [
+    {
+      "district_id": "banda",
+      "tehsil_id": "pailani"
+    }
+  ],
+  "210036": [
+    {
+      "district_id": "banda",
+      "tehsil_id": "banda"
+    }
+  ],
+  "210043": [
+    {
+      "district_id": "banda",
+      "tehsil_id": "atarra"
+    }
+  ],
+  "210050": [
+    {
+      "district_id": "banda",
+      "tehsil_id": "baberu"
+    }
+  ],
+  "210205": [
+    {
+      "district_id": "chitrakoot",
+      "tehsil_id": "karwi"
+    }
+  ],
+  "210212": [
+    {
+      "district_id": "chitrakoot",
+      "tehsil_id": "mau"
+    }
+  ],
+  "210219": [
+    {
+      "district_id": "chitrakoot",
+      "tehsil_id": "rajapur"
+    }
+  ],
+  "210226": [
+    {
+      "district_id": "chitrakoot",
+      "tehsil_id": "manikpur"
+    }
+  ],
+  "210233": [
+    {
+      "district_id": "chitrakoot",
+      "tehsil_id": "karwi"
+    }
+  ],
+  "210240": [
+    {
+      "district_id": "chitrakoot",
+      "tehsil_id": "mau"
+    }
+  ],
+  "210301": [
+    {
+      "district_id": "hamirpur",
+      "tehsil_id": "hamirpur"
+    }
+  ],
+  "210308": [
+    {
+      "district_id": "hamirpur",
+      "tehsil_id": "maudaha"
+    }
+  ],
+  "210315": [
+    {
+      "district_id": "hamirpur",
+      "tehsil_id": "rath"
+    }
+  ],
+  "210322": [
+    {
+      "district_id": "hamirpur",
+      "tehsil_id": "sarisila"
+    }
+  ],
+  "210329": [
+    {
+      "district_id": "hamirpur",
+      "tehsil_id": "hamirpur"
+    }
+  ],
+  "210336": [
+    {
+      "district_id": "hamirpur",
+      "tehsil_id": "maudaha"
+    }
+  ],
+  "210427": [
+    {
+      "district_id": "mahoba",
+      "tehsil_id": "mahoba"
+    }
+  ],
+  "210434": [
+    {
+      "district_id": "mahoba",
+      "tehsil_id": "charkhari"
+    }
+  ],
+  "210441": [
+    {
+      "district_id": "mahoba",
+      "tehsil_id": "kulpahar"
+    }
+  ],
+  "210448": [
+    {
+      "district_id": "mahoba",
+      "tehsil_id": "mahoba"
+    }
+  ],
+  "210455": [
+    {
+      "district_id": "mahoba",
+      "tehsil_id": "charkhari"
+    }
+  ],
+  "210462": [
+    {
+      "district_id": "mahoba",
+      "tehsil_id": "kulpahar"
+    }
+  ],
   "211001": [
     {
       "district_id": "prayagraj",
@@ -9,6 +1051,192 @@
     {
       "district_id": "prayagraj",
       "tehsil_id": "sadar"
+    }
+  ],
+  "211008": [
+    {
+      "district_id": "prayagraj",
+      "tehsil_id": "phulpur"
+    }
+  ],
+  "211015": [
+    {
+      "district_id": "prayagraj",
+      "tehsil_id": "handia"
+    }
+  ],
+  "211022": [
+    {
+      "district_id": "prayagraj",
+      "tehsil_id": "karchhana"
+    }
+  ],
+  "211029": [
+    {
+      "district_id": "prayagraj",
+      "tehsil_id": "bara"
+    }
+  ],
+  "211036": [
+    {
+      "district_id": "prayagraj",
+      "tehsil_id": "meja"
+    }
+  ],
+  "211043": [
+    {
+      "district_id": "prayagraj",
+      "tehsil_id": "koraon"
+    }
+  ],
+  "211050": [
+    {
+      "district_id": "prayagraj",
+      "tehsil_id": "soraon"
+    }
+  ],
+  "211057": [
+    {
+      "district_id": "prayagraj",
+      "tehsil_id": "sadar"
+    }
+  ],
+  "211064": [
+    {
+      "district_id": "prayagraj",
+      "tehsil_id": "phulpur"
+    }
+  ],
+  "211071": [
+    {
+      "district_id": "prayagraj",
+      "tehsil_id": "handia"
+    }
+  ],
+  "211078": [
+    {
+      "district_id": "prayagraj",
+      "tehsil_id": "karchhana"
+    }
+  ],
+  "211085": [
+    {
+      "district_id": "prayagraj",
+      "tehsil_id": "bara"
+    }
+  ],
+  "211092": [
+    {
+      "district_id": "prayagraj",
+      "tehsil_id": "meja"
+    }
+  ],
+  "211099": [
+    {
+      "district_id": "prayagraj",
+      "tehsil_id": "koraon"
+    }
+  ],
+  "211106": [
+    {
+      "district_id": "prayagraj",
+      "tehsil_id": "soraon"
+    }
+  ],
+  "212201": [
+    {
+      "district_id": "kaushambi",
+      "tehsil_id": "manjhanpur"
+    }
+  ],
+  "212208": [
+    {
+      "district_id": "kaushambi",
+      "tehsil_id": "sirathu"
+    }
+  ],
+  "212215": [
+    {
+      "district_id": "kaushambi",
+      "tehsil_id": "chail"
+    }
+  ],
+  "212222": [
+    {
+      "district_id": "kaushambi",
+      "tehsil_id": "manjhanpur"
+    }
+  ],
+  "212229": [
+    {
+      "district_id": "kaushambi",
+      "tehsil_id": "sirathu"
+    }
+  ],
+  "212236": [
+    {
+      "district_id": "kaushambi",
+      "tehsil_id": "chail"
+    }
+  ],
+  "212601": [
+    {
+      "district_id": "fatehpur",
+      "tehsil_id": "fatehpur"
+    }
+  ],
+  "212608": [
+    {
+      "district_id": "fatehpur",
+      "tehsil_id": "bindki"
+    }
+  ],
+  "212615": [
+    {
+      "district_id": "fatehpur",
+      "tehsil_id": "khaga"
+    }
+  ],
+  "212622": [
+    {
+      "district_id": "fatehpur",
+      "tehsil_id": "fatehpur"
+    }
+  ],
+  "212629": [
+    {
+      "district_id": "fatehpur",
+      "tehsil_id": "bindki"
+    }
+  ],
+  "212636": [
+    {
+      "district_id": "fatehpur",
+      "tehsil_id": "khaga"
+    }
+  ],
+  "212643": [
+    {
+      "district_id": "fatehpur",
+      "tehsil_id": "fatehpur"
+    }
+  ],
+  "212650": [
+    {
+      "district_id": "fatehpur",
+      "tehsil_id": "bindki"
+    }
+  ],
+  "212657": [
+    {
+      "district_id": "fatehpur",
+      "tehsil_id": "khaga"
+    }
+  ],
+  "212664": [
+    {
+      "district_id": "fatehpur",
+      "tehsil_id": "fatehpur"
     }
   ],
   "221001": [
@@ -29,6 +1257,144 @@
       "tehsil_id": "raja-talab"
     }
   ],
+  "221008": [
+    {
+      "district_id": "varanasi",
+      "tehsil_id": "pindra"
+    }
+  ],
+  "221015": [
+    {
+      "district_id": "varanasi",
+      "tehsil_id": "raja-talab"
+    }
+  ],
+  "221022": [
+    {
+      "district_id": "varanasi",
+      "tehsil_id": "varanasi-sadar"
+    }
+  ],
+  "221029": [
+    {
+      "district_id": "varanasi",
+      "tehsil_id": "pindra"
+    }
+  ],
+  "221036": [
+    {
+      "district_id": "varanasi",
+      "tehsil_id": "raja-talab"
+    }
+  ],
+  "221043": [
+    {
+      "district_id": "varanasi",
+      "tehsil_id": "varanasi-sadar"
+    }
+  ],
+  "221050": [
+    {
+      "district_id": "varanasi",
+      "tehsil_id": "pindra"
+    }
+  ],
+  "221057": [
+    {
+      "district_id": "varanasi",
+      "tehsil_id": "raja-talab"
+    }
+  ],
+  "221064": [
+    {
+      "district_id": "varanasi",
+      "tehsil_id": "varanasi-sadar"
+    }
+  ],
+  "221071": [
+    {
+      "district_id": "varanasi",
+      "tehsil_id": "pindra"
+    }
+  ],
+  "221078": [
+    {
+      "district_id": "varanasi",
+      "tehsil_id": "raja-talab"
+    }
+  ],
+  "221085": [
+    {
+      "district_id": "varanasi",
+      "tehsil_id": "varanasi-sadar"
+    }
+  ],
+  "221092": [
+    {
+      "district_id": "varanasi",
+      "tehsil_id": "pindra"
+    }
+  ],
+  "221099": [
+    {
+      "district_id": "varanasi",
+      "tehsil_id": "raja-talab"
+    }
+  ],
+  "221106": [
+    {
+      "district_id": "varanasi",
+      "tehsil_id": "varanasi-sadar"
+    }
+  ],
+  "221206": [
+    {
+      "district_id": "varanasi",
+      "tehsil_id": "pindra"
+    }
+  ],
+  "221401": [
+    {
+      "district_id": "bhadohi",
+      "tehsil_id": "gyanpur"
+    }
+  ],
+  "221408": [
+    {
+      "district_id": "bhadohi",
+      "tehsil_id": "bhadohi"
+    }
+  ],
+  "221415": [
+    {
+      "district_id": "bhadohi",
+      "tehsil_id": "aurai"
+    }
+  ],
+  "221422": [
+    {
+      "district_id": "bhadohi",
+      "tehsil_id": "gyanpur"
+    }
+  ],
+  "221429": [
+    {
+      "district_id": "bhadohi",
+      "tehsil_id": "bhadohi"
+    }
+  ],
+  "221436": [
+    {
+      "district_id": "bhadohi",
+      "tehsil_id": "aurai"
+    }
+  ],
+  "221443": [
+    {
+      "district_id": "bhadohi",
+      "tehsil_id": "gyanpur"
+    }
+  ],
   "222001": [
     {
       "district_id": "jaunpur",
@@ -39,6 +1405,90 @@
     {
       "district_id": "jaunpur",
       "tehsil_id": "sadar"
+    }
+  ],
+  "222008": [
+    {
+      "district_id": "jaunpur",
+      "tehsil_id": "shahganj"
+    }
+  ],
+  "222015": [
+    {
+      "district_id": "jaunpur",
+      "tehsil_id": "machhlishahr"
+    }
+  ],
+  "222022": [
+    {
+      "district_id": "jaunpur",
+      "tehsil_id": "badlapur"
+    }
+  ],
+  "222029": [
+    {
+      "district_id": "jaunpur",
+      "tehsil_id": "mariahu"
+    }
+  ],
+  "222036": [
+    {
+      "district_id": "jaunpur",
+      "tehsil_id": "kerakat"
+    }
+  ],
+  "222043": [
+    {
+      "district_id": "jaunpur",
+      "tehsil_id": "jaunpur"
+    }
+  ],
+  "222050": [
+    {
+      "district_id": "jaunpur",
+      "tehsil_id": "shahganj"
+    }
+  ],
+  "222057": [
+    {
+      "district_id": "jaunpur",
+      "tehsil_id": "machhlishahr"
+    }
+  ],
+  "222064": [
+    {
+      "district_id": "jaunpur",
+      "tehsil_id": "badlapur"
+    }
+  ],
+  "222071": [
+    {
+      "district_id": "jaunpur",
+      "tehsil_id": "mariahu"
+    }
+  ],
+  "222078": [
+    {
+      "district_id": "jaunpur",
+      "tehsil_id": "kerakat"
+    }
+  ],
+  "222085": [
+    {
+      "district_id": "jaunpur",
+      "tehsil_id": "jaunpur"
+    }
+  ],
+  "222092": [
+    {
+      "district_id": "jaunpur",
+      "tehsil_id": "shahganj"
+    }
+  ],
+  "222136": [
+    {
+      "district_id": "jaunpur",
+      "tehsil_id": "kerakat"
     }
   ],
   "222139": [
@@ -53,6 +1503,198 @@
       "tehsil_id": "badlapur"
     }
   ],
+  "222161": [
+    {
+      "district_id": "jaunpur",
+      "tehsil_id": "shahganj"
+    }
+  ],
+  "222203": [
+    {
+      "district_id": "jaunpur",
+      "tehsil_id": "mariahu"
+    }
+  ],
+  "224001": [
+    {
+      "district_id": "ayodhya",
+      "tehsil_id": "faizabad"
+    }
+  ],
+  "224008": [
+    {
+      "district_id": "ayodhya",
+      "tehsil_id": "sohawal"
+    }
+  ],
+  "224015": [
+    {
+      "district_id": "ayodhya",
+      "tehsil_id": "bikapur"
+    }
+  ],
+  "224022": [
+    {
+      "district_id": "ayodhya",
+      "tehsil_id": "milkipur"
+    }
+  ],
+  "224029": [
+    {
+      "district_id": "ayodhya",
+      "tehsil_id": "rudauli"
+    }
+  ],
+  "224036": [
+    {
+      "district_id": "ayodhya",
+      "tehsil_id": "faizabad"
+    }
+  ],
+  "224043": [
+    {
+      "district_id": "ayodhya",
+      "tehsil_id": "sohawal"
+    }
+  ],
+  "224050": [
+    {
+      "district_id": "ayodhya",
+      "tehsil_id": "bikapur"
+    }
+  ],
+  "224057": [
+    {
+      "district_id": "ayodhya",
+      "tehsil_id": "milkipur"
+    }
+  ],
+  "224064": [
+    {
+      "district_id": "ayodhya",
+      "tehsil_id": "rudauli"
+    }
+  ],
+  "224071": [
+    {
+      "district_id": "ayodhya",
+      "tehsil_id": "faizabad"
+    }
+  ],
+  "224078": [
+    {
+      "district_id": "ayodhya",
+      "tehsil_id": "sohawal"
+    }
+  ],
+  "224122": [
+    {
+      "district_id": "ambedkar-nagar",
+      "tehsil_id": "akbarpur"
+    }
+  ],
+  "224129": [
+    {
+      "district_id": "ambedkar-nagar",
+      "tehsil_id": "tanda"
+    }
+  ],
+  "224136": [
+    {
+      "district_id": "ambedkar-nagar",
+      "tehsil_id": "jalalpur"
+    }
+  ],
+  "224143": [
+    {
+      "district_id": "ambedkar-nagar",
+      "tehsil_id": "alapur"
+    }
+  ],
+  "224150": [
+    {
+      "district_id": "ambedkar-nagar",
+      "tehsil_id": "bhitargaon"
+    }
+  ],
+  "224157": [
+    {
+      "district_id": "ambedkar-nagar",
+      "tehsil_id": "akbarpur"
+    }
+  ],
+  "224164": [
+    {
+      "district_id": "ambedkar-nagar",
+      "tehsil_id": "tanda"
+    }
+  ],
+  "224171": [
+    {
+      "district_id": "ambedkar-nagar",
+      "tehsil_id": "jalalpur"
+    }
+  ],
+  "225001": [
+    {
+      "district_id": "barabanki",
+      "tehsil_id": "nawabganj"
+    }
+  ],
+  "225008": [
+    {
+      "district_id": "barabanki",
+      "tehsil_id": "fatehpur"
+    }
+  ],
+  "225015": [
+    {
+      "district_id": "barabanki",
+      "tehsil_id": "ramsanehighat"
+    }
+  ],
+  "225022": [
+    {
+      "district_id": "barabanki",
+      "tehsil_id": "haidergarh"
+    }
+  ],
+  "225029": [
+    {
+      "district_id": "barabanki",
+      "tehsil_id": "ramnagar"
+    }
+  ],
+  "225036": [
+    {
+      "district_id": "barabanki",
+      "tehsil_id": "sirauli-ghauspur"
+    }
+  ],
+  "225043": [
+    {
+      "district_id": "barabanki",
+      "tehsil_id": "nawabganj"
+    }
+  ],
+  "225050": [
+    {
+      "district_id": "barabanki",
+      "tehsil_id": "fatehpur"
+    }
+  ],
+  "225057": [
+    {
+      "district_id": "barabanki",
+      "tehsil_id": "ramsanehighat"
+    }
+  ],
+  "225064": [
+    {
+      "district_id": "barabanki",
+      "tehsil_id": "haidergarh"
+    }
+  ],
   "226001": [
     {
       "district_id": "lucknow",
@@ -65,6 +1707,2520 @@
       "tehsil_id": "lucknow-sadar"
     }
   ],
+  "226008": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "malihabad"
+    }
+  ],
+  "226010": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "lucknow-sadar"
+    }
+  ],
+  "226012": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "lucknow-sadar"
+    }
+  ],
+  "226015": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "bakshi-ka-talab"
+    }
+  ],
+  "226016": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "lucknow-sadar"
+    }
+  ],
+  "226022": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "mohanlalganj"
+    }
+  ],
+  "226029": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "lucknow-sadar"
+    }
+  ],
+  "226036": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "malihabad"
+    }
+  ],
+  "226043": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "bakshi-ka-talab"
+    }
+  ],
+  "226050": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "mohanlalganj"
+    }
+  ],
+  "226057": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "lucknow-sadar"
+    }
+  ],
+  "226064": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "malihabad"
+    }
+  ],
+  "226071": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "bakshi-ka-talab"
+    }
+  ],
+  "226078": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "mohanlalganj"
+    }
+  ],
+  "226085": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "lucknow-sadar"
+    }
+  ],
+  "226092": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "malihabad"
+    }
+  ],
+  "226099": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "bakshi-ka-talab"
+    }
+  ],
+  "226106": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "mohanlalganj"
+    }
+  ],
+  "226113": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "lucknow-sadar"
+    }
+  ],
+  "226120": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "malihabad"
+    }
+  ],
+  "226127": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "bakshi-ka-talab"
+    }
+  ],
+  "226134": [
+    {
+      "district_id": "lucknow",
+      "tehsil_id": "mohanlalganj"
+    }
+  ],
+  "227405": [
+    {
+      "district_id": "amethi",
+      "tehsil_id": "gauriganj"
+    }
+  ],
+  "227412": [
+    {
+      "district_id": "amethi",
+      "tehsil_id": "amethi"
+    }
+  ],
+  "227419": [
+    {
+      "district_id": "amethi",
+      "tehsil_id": "musafirkhana"
+    }
+  ],
+  "227426": [
+    {
+      "district_id": "amethi",
+      "tehsil_id": "tiloi"
+    }
+  ],
+  "227433": [
+    {
+      "district_id": "amethi",
+      "tehsil_id": "gauriganj"
+    }
+  ],
+  "227440": [
+    {
+      "district_id": "amethi",
+      "tehsil_id": "amethi"
+    }
+  ],
+  "227447": [
+    {
+      "district_id": "amethi",
+      "tehsil_id": "musafirkhana"
+    }
+  ],
+  "227454": [
+    {
+      "district_id": "amethi",
+      "tehsil_id": "tiloi"
+    }
+  ],
+  "228001": [
+    {
+      "district_id": "sultanpur",
+      "tehsil_id": "sultanpur"
+    }
+  ],
+  "228008": [
+    {
+      "district_id": "sultanpur",
+      "tehsil_id": "kadipur"
+    }
+  ],
+  "228015": [
+    {
+      "district_id": "sultanpur",
+      "tehsil_id": "jaisinghpur"
+    }
+  ],
+  "228022": [
+    {
+      "district_id": "sultanpur",
+      "tehsil_id": "lambhua"
+    }
+  ],
+  "228029": [
+    {
+      "district_id": "sultanpur",
+      "tehsil_id": "baldirai"
+    }
+  ],
+  "228036": [
+    {
+      "district_id": "sultanpur",
+      "tehsil_id": "sultanpur"
+    }
+  ],
+  "228043": [
+    {
+      "district_id": "sultanpur",
+      "tehsil_id": "kadipur"
+    }
+  ],
+  "228050": [
+    {
+      "district_id": "sultanpur",
+      "tehsil_id": "jaisinghpur"
+    }
+  ],
+  "228057": [
+    {
+      "district_id": "sultanpur",
+      "tehsil_id": "lambhua"
+    }
+  ],
+  "228064": [
+    {
+      "district_id": "sultanpur",
+      "tehsil_id": "baldirai"
+    }
+  ],
+  "229001": [
+    {
+      "district_id": "raebareli",
+      "tehsil_id": "raebareli"
+    }
+  ],
+  "229008": [
+    {
+      "district_id": "raebareli",
+      "tehsil_id": "bachhrawan"
+    }
+  ],
+  "229015": [
+    {
+      "district_id": "raebareli",
+      "tehsil_id": "lalganj"
+    }
+  ],
+  "229022": [
+    {
+      "district_id": "raebareli",
+      "tehsil_id": "maharajganj"
+    }
+  ],
+  "229029": [
+    {
+      "district_id": "raebareli",
+      "tehsil_id": "salon"
+    }
+  ],
+  "229036": [
+    {
+      "district_id": "raebareli",
+      "tehsil_id": "unchahar"
+    }
+  ],
+  "229043": [
+    {
+      "district_id": "raebareli",
+      "tehsil_id": "tiloi"
+    }
+  ],
+  "229050": [
+    {
+      "district_id": "raebareli",
+      "tehsil_id": "raebareli-sadar"
+    }
+  ],
+  "229057": [
+    {
+      "district_id": "raebareli",
+      "tehsil_id": "bachhrawan"
+    }
+  ],
+  "229064": [
+    {
+      "district_id": "raebareli",
+      "tehsil_id": "lalganj"
+    }
+  ],
+  "229071": [
+    {
+      "district_id": "raebareli",
+      "tehsil_id": "maharajganj"
+    }
+  ],
+  "229078": [
+    {
+      "district_id": "raebareli",
+      "tehsil_id": "salon"
+    }
+  ],
+  "229301": [
+    {
+      "district_id": "raebareli",
+      "tehsil_id": "bachhrawan"
+    }
+  ],
+  "230001": [
+    {
+      "district_id": "pratapgarh",
+      "tehsil_id": "pratapgarh-sadar"
+    }
+  ],
+  "230008": [
+    {
+      "district_id": "pratapgarh",
+      "tehsil_id": "kunda"
+    }
+  ],
+  "230015": [
+    {
+      "district_id": "pratapgarh",
+      "tehsil_id": "lalganj"
+    }
+  ],
+  "230022": [
+    {
+      "district_id": "pratapgarh",
+      "tehsil_id": "patti"
+    }
+  ],
+  "230029": [
+    {
+      "district_id": "pratapgarh",
+      "tehsil_id": "raniganj"
+    }
+  ],
+  "230036": [
+    {
+      "district_id": "pratapgarh",
+      "tehsil_id": "pratapgarh-sadar"
+    }
+  ],
+  "230043": [
+    {
+      "district_id": "pratapgarh",
+      "tehsil_id": "kunda"
+    }
+  ],
+  "230050": [
+    {
+      "district_id": "pratapgarh",
+      "tehsil_id": "lalganj"
+    }
+  ],
+  "230057": [
+    {
+      "district_id": "pratapgarh",
+      "tehsil_id": "patti"
+    }
+  ],
+  "230064": [
+    {
+      "district_id": "pratapgarh",
+      "tehsil_id": "raniganj"
+    }
+  ],
+  "231001": [
+    {
+      "district_id": "mirzapur",
+      "tehsil_id": "mirzapur"
+    }
+  ],
+  "231008": [
+    {
+      "district_id": "mirzapur",
+      "tehsil_id": "chunar"
+    }
+  ],
+  "231015": [
+    {
+      "district_id": "mirzapur",
+      "tehsil_id": "lalganj"
+    }
+  ],
+  "231022": [
+    {
+      "district_id": "mirzapur",
+      "tehsil_id": "marihan"
+    }
+  ],
+  "231029": [
+    {
+      "district_id": "mirzapur",
+      "tehsil_id": "mirzapur"
+    }
+  ],
+  "231036": [
+    {
+      "district_id": "mirzapur",
+      "tehsil_id": "chunar"
+    }
+  ],
+  "231043": [
+    {
+      "district_id": "mirzapur",
+      "tehsil_id": "lalganj"
+    }
+  ],
+  "231050": [
+    {
+      "district_id": "mirzapur",
+      "tehsil_id": "marihan"
+    }
+  ],
+  "231057": [
+    {
+      "district_id": "mirzapur",
+      "tehsil_id": "mirzapur"
+    }
+  ],
+  "231064": [
+    {
+      "district_id": "mirzapur",
+      "tehsil_id": "chunar"
+    }
+  ],
+  "231216": [
+    {
+      "district_id": "sonbhadra",
+      "tehsil_id": "robertsganj"
+    }
+  ],
+  "231223": [
+    {
+      "district_id": "sonbhadra",
+      "tehsil_id": "duddhi"
+    }
+  ],
+  "231230": [
+    {
+      "district_id": "sonbhadra",
+      "tehsil_id": "ghorawal"
+    }
+  ],
+  "231237": [
+    {
+      "district_id": "sonbhadra",
+      "tehsil_id": "obra"
+    }
+  ],
+  "231244": [
+    {
+      "district_id": "sonbhadra",
+      "tehsil_id": "robertsganj"
+    }
+  ],
+  "231251": [
+    {
+      "district_id": "sonbhadra",
+      "tehsil_id": "duddhi"
+    }
+  ],
+  "231258": [
+    {
+      "district_id": "sonbhadra",
+      "tehsil_id": "ghorawal"
+    }
+  ],
+  "231265": [
+    {
+      "district_id": "sonbhadra",
+      "tehsil_id": "obra"
+    }
+  ],
+  "232104": [
+    {
+      "district_id": "chandauli",
+      "tehsil_id": "chandauli"
+    }
+  ],
+  "232111": [
+    {
+      "district_id": "chandauli",
+      "tehsil_id": "sakaldiha"
+    }
+  ],
+  "232118": [
+    {
+      "district_id": "chandauli",
+      "tehsil_id": "chakia"
+    }
+  ],
+  "232125": [
+    {
+      "district_id": "chandauli",
+      "tehsil_id": "pandit-deen-dayal-upadhyaya-nagar"
+    }
+  ],
+  "232132": [
+    {
+      "district_id": "chandauli",
+      "tehsil_id": "naugarh"
+    }
+  ],
+  "232139": [
+    {
+      "district_id": "chandauli",
+      "tehsil_id": "chandauli"
+    }
+  ],
+  "232146": [
+    {
+      "district_id": "chandauli",
+      "tehsil_id": "sakaldiha"
+    }
+  ],
+  "232153": [
+    {
+      "district_id": "chandauli",
+      "tehsil_id": "chakia"
+    }
+  ],
+  "233001": [
+    {
+      "district_id": "ghazipur",
+      "tehsil_id": "ghazipur"
+    }
+  ],
+  "233008": [
+    {
+      "district_id": "ghazipur",
+      "tehsil_id": "mohammadabad"
+    }
+  ],
+  "233015": [
+    {
+      "district_id": "ghazipur",
+      "tehsil_id": "zamania"
+    }
+  ],
+  "233022": [
+    {
+      "district_id": "ghazipur",
+      "tehsil_id": "saidpur"
+    }
+  ],
+  "233029": [
+    {
+      "district_id": "ghazipur",
+      "tehsil_id": "jakhanian"
+    }
+  ],
+  "233036": [
+    {
+      "district_id": "ghazipur",
+      "tehsil_id": "kasimabad"
+    }
+  ],
+  "233043": [
+    {
+      "district_id": "ghazipur",
+      "tehsil_id": "sewarai"
+    }
+  ],
+  "233050": [
+    {
+      "district_id": "ghazipur",
+      "tehsil_id": "ghazipur"
+    }
+  ],
+  "233057": [
+    {
+      "district_id": "ghazipur",
+      "tehsil_id": "mohammadabad"
+    }
+  ],
+  "233064": [
+    {
+      "district_id": "ghazipur",
+      "tehsil_id": "zamania"
+    }
+  ],
+  "241001": [
+    {
+      "district_id": "hardoi",
+      "tehsil_id": "hardoi"
+    }
+  ],
+  "241008": [
+    {
+      "district_id": "hardoi",
+      "tehsil_id": "shahabad"
+    }
+  ],
+  "241015": [
+    {
+      "district_id": "hardoi",
+      "tehsil_id": "bilgram"
+    }
+  ],
+  "241022": [
+    {
+      "district_id": "hardoi",
+      "tehsil_id": "sandi"
+    }
+  ],
+  "241029": [
+    {
+      "district_id": "hardoi",
+      "tehsil_id": "sawayajpur"
+    }
+  ],
+  "241036": [
+    {
+      "district_id": "hardoi",
+      "tehsil_id": "hardoi"
+    }
+  ],
+  "241043": [
+    {
+      "district_id": "hardoi",
+      "tehsil_id": "shahabad"
+    }
+  ],
+  "241050": [
+    {
+      "district_id": "hardoi",
+      "tehsil_id": "bilgram"
+    }
+  ],
+  "241057": [
+    {
+      "district_id": "hardoi",
+      "tehsil_id": "sandi"
+    }
+  ],
+  "241064": [
+    {
+      "district_id": "hardoi",
+      "tehsil_id": "sawayajpur"
+    }
+  ],
+  "241071": [
+    {
+      "district_id": "hardoi",
+      "tehsil_id": "hardoi"
+    }
+  ],
+  "241078": [
+    {
+      "district_id": "hardoi",
+      "tehsil_id": "shahabad"
+    }
+  ],
+  "242001": [
+    {
+      "district_id": "shahjahanpur",
+      "tehsil_id": "shahjahanpur"
+    }
+  ],
+  "242008": [
+    {
+      "district_id": "shahjahanpur",
+      "tehsil_id": "tilhar"
+    }
+  ],
+  "242015": [
+    {
+      "district_id": "shahjahanpur",
+      "tehsil_id": "jalalabad"
+    }
+  ],
+  "242022": [
+    {
+      "district_id": "shahjahanpur",
+      "tehsil_id": "powayan"
+    }
+  ],
+  "242029": [
+    {
+      "district_id": "shahjahanpur",
+      "tehsil_id": "kalan"
+    }
+  ],
+  "242036": [
+    {
+      "district_id": "shahjahanpur",
+      "tehsil_id": "puwayan"
+    }
+  ],
+  "242043": [
+    {
+      "district_id": "shahjahanpur",
+      "tehsil_id": "shahjahanpur"
+    }
+  ],
+  "242050": [
+    {
+      "district_id": "shahjahanpur",
+      "tehsil_id": "tilhar"
+    }
+  ],
+  "242057": [
+    {
+      "district_id": "shahjahanpur",
+      "tehsil_id": "jalalabad"
+    }
+  ],
+  "242064": [
+    {
+      "district_id": "shahjahanpur",
+      "tehsil_id": "powayan"
+    }
+  ],
+  "243001": [
+    {
+      "district_id": "bareilly",
+      "tehsil_id": "bareilly"
+    }
+  ],
+  "243008": [
+    {
+      "district_id": "bareilly",
+      "tehsil_id": "aonla"
+    }
+  ],
+  "243015": [
+    {
+      "district_id": "bareilly",
+      "tehsil_id": "baheri"
+    }
+  ],
+  "243022": [
+    {
+      "district_id": "bareilly",
+      "tehsil_id": "faridpur"
+    }
+  ],
+  "243029": [
+    {
+      "district_id": "bareilly",
+      "tehsil_id": "mirganj"
+    }
+  ],
+  "243036": [
+    {
+      "district_id": "bareilly",
+      "tehsil_id": "nawabganj"
+    }
+  ],
+  "243043": [
+    {
+      "district_id": "bareilly",
+      "tehsil_id": "bareilly"
+    }
+  ],
+  "243050": [
+    {
+      "district_id": "bareilly",
+      "tehsil_id": "aonla"
+    }
+  ],
+  "243057": [
+    {
+      "district_id": "bareilly",
+      "tehsil_id": "baheri"
+    }
+  ],
+  "243064": [
+    {
+      "district_id": "bareilly",
+      "tehsil_id": "faridpur"
+    }
+  ],
+  "243071": [
+    {
+      "district_id": "bareilly",
+      "tehsil_id": "mirganj"
+    }
+  ],
+  "243078": [
+    {
+      "district_id": "bareilly",
+      "tehsil_id": "nawabganj"
+    }
+  ],
+  "243085": [
+    {
+      "district_id": "bareilly",
+      "tehsil_id": "bareilly"
+    }
+  ],
+  "243092": [
+    {
+      "district_id": "bareilly",
+      "tehsil_id": "aonla"
+    }
+  ],
+  "243601": [
+    {
+      "district_id": "budaun",
+      "tehsil_id": "budaun"
+    }
+  ],
+  "243608": [
+    {
+      "district_id": "budaun",
+      "tehsil_id": "bisauli"
+    }
+  ],
+  "243615": [
+    {
+      "district_id": "budaun",
+      "tehsil_id": "bilsi"
+    }
+  ],
+  "243622": [
+    {
+      "district_id": "budaun",
+      "tehsil_id": "dataganj"
+    }
+  ],
+  "243629": [
+    {
+      "district_id": "budaun",
+      "tehsil_id": "sahaswan"
+    }
+  ],
+  "243636": [
+    {
+      "district_id": "budaun",
+      "tehsil_id": "budaun"
+    }
+  ],
+  "243643": [
+    {
+      "district_id": "budaun",
+      "tehsil_id": "bisauli"
+    }
+  ],
+  "243650": [
+    {
+      "district_id": "budaun",
+      "tehsil_id": "bilsi"
+    }
+  ],
+  "243657": [
+    {
+      "district_id": "budaun",
+      "tehsil_id": "dataganj"
+    }
+  ],
+  "243664": [
+    {
+      "district_id": "budaun",
+      "tehsil_id": "sahaswan"
+    }
+  ],
+  "244001": [
+    {
+      "district_id": "moradabad",
+      "tehsil_id": "moradabad"
+    }
+  ],
+  "244008": [
+    {
+      "district_id": "moradabad",
+      "tehsil_id": "kanth"
+    }
+  ],
+  "244015": [
+    {
+      "district_id": "moradabad",
+      "tehsil_id": "bilari"
+    }
+  ],
+  "244022": [
+    {
+      "district_id": "moradabad",
+      "tehsil_id": "thakurdwara"
+    }
+  ],
+  "244029": [
+    {
+      "district_id": "moradabad",
+      "tehsil_id": "moradabad"
+    }
+  ],
+  "244036": [
+    {
+      "district_id": "moradabad",
+      "tehsil_id": "kanth"
+    }
+  ],
+  "244043": [
+    {
+      "district_id": "moradabad",
+      "tehsil_id": "bilari"
+    }
+  ],
+  "244050": [
+    {
+      "district_id": "moradabad",
+      "tehsil_id": "thakurdwara"
+    }
+  ],
+  "244057": [
+    {
+      "district_id": "moradabad",
+      "tehsil_id": "moradabad"
+    }
+  ],
+  "244064": [
+    {
+      "district_id": "moradabad",
+      "tehsil_id": "kanth"
+    }
+  ],
+  "244071": [
+    {
+      "district_id": "moradabad",
+      "tehsil_id": "bilari"
+    }
+  ],
+  "244078": [
+    {
+      "district_id": "moradabad",
+      "tehsil_id": "thakurdwara"
+    }
+  ],
+  "244221": [
+    {
+      "district_id": "amroha",
+      "tehsil_id": "amroha"
+    }
+  ],
+  "244228": [
+    {
+      "district_id": "amroha",
+      "tehsil_id": "dhanaura"
+    }
+  ],
+  "244235": [
+    {
+      "district_id": "amroha",
+      "tehsil_id": "hasanpur"
+    }
+  ],
+  "244242": [
+    {
+      "district_id": "amroha",
+      "tehsil_id": "naugawan-sadat"
+    }
+  ],
+  "244249": [
+    {
+      "district_id": "amroha",
+      "tehsil_id": "amroha"
+    }
+  ],
+  "244256": [
+    {
+      "district_id": "amroha",
+      "tehsil_id": "dhanaura"
+    }
+  ],
+  "244263": [
+    {
+      "district_id": "amroha",
+      "tehsil_id": "hasanpur"
+    }
+  ],
+  "244270": [
+    {
+      "district_id": "amroha",
+      "tehsil_id": "naugawan-sadat"
+    }
+  ],
+  "244302": [
+    {
+      "district_id": "sambhal",
+      "tehsil_id": "sambhal"
+    }
+  ],
+  "244309": [
+    {
+      "district_id": "sambhal",
+      "tehsil_id": "chandausi"
+    }
+  ],
+  "244316": [
+    {
+      "district_id": "sambhal",
+      "tehsil_id": "gunnaur"
+    }
+  ],
+  "244323": [
+    {
+      "district_id": "sambhal",
+      "tehsil_id": "sambhal"
+    }
+  ],
+  "244330": [
+    {
+      "district_id": "sambhal",
+      "tehsil_id": "chandausi"
+    }
+  ],
+  "244337": [
+    {
+      "district_id": "sambhal",
+      "tehsil_id": "gunnaur"
+    }
+  ],
+  "244344": [
+    {
+      "district_id": "sambhal",
+      "tehsil_id": "sambhal"
+    }
+  ],
+  "244351": [
+    {
+      "district_id": "sambhal",
+      "tehsil_id": "chandausi"
+    }
+  ],
+  "244901": [
+    {
+      "district_id": "rampur",
+      "tehsil_id": "rampur"
+    }
+  ],
+  "244908": [
+    {
+      "district_id": "rampur",
+      "tehsil_id": "bilaspur"
+    }
+  ],
+  "244915": [
+    {
+      "district_id": "rampur",
+      "tehsil_id": "milak"
+    }
+  ],
+  "244922": [
+    {
+      "district_id": "rampur",
+      "tehsil_id": "shahabad"
+    }
+  ],
+  "244929": [
+    {
+      "district_id": "rampur",
+      "tehsil_id": "swar"
+    }
+  ],
+  "244936": [
+    {
+      "district_id": "rampur",
+      "tehsil_id": "tanda"
+    }
+  ],
+  "244943": [
+    {
+      "district_id": "rampur",
+      "tehsil_id": "rampur"
+    }
+  ],
+  "244950": [
+    {
+      "district_id": "rampur",
+      "tehsil_id": "bilaspur"
+    }
+  ],
+  "245101": [
+    {
+      "district_id": "hapur",
+      "tehsil_id": "hapur"
+    }
+  ],
+  "245108": [
+    {
+      "district_id": "hapur",
+      "tehsil_id": "garhmukteshwar"
+    }
+  ],
+  "245115": [
+    {
+      "district_id": "hapur",
+      "tehsil_id": "dhaulana"
+    }
+  ],
+  "245122": [
+    {
+      "district_id": "hapur",
+      "tehsil_id": "hapur"
+    }
+  ],
+  "245129": [
+    {
+      "district_id": "hapur",
+      "tehsil_id": "garhmukteshwar"
+    }
+  ],
+  "245136": [
+    {
+      "district_id": "hapur",
+      "tehsil_id": "dhaulana"
+    }
+  ],
+  "246701": [
+    {
+      "district_id": "bijnor",
+      "tehsil_id": "bijnor"
+    }
+  ],
+  "246708": [
+    {
+      "district_id": "bijnor",
+      "tehsil_id": "najibabad"
+    }
+  ],
+  "246715": [
+    {
+      "district_id": "bijnor",
+      "tehsil_id": "nagina"
+    }
+  ],
+  "246722": [
+    {
+      "district_id": "bijnor",
+      "tehsil_id": "dhampur"
+    }
+  ],
+  "246729": [
+    {
+      "district_id": "bijnor",
+      "tehsil_id": "chandpur"
+    }
+  ],
+  "246736": [
+    {
+      "district_id": "bijnor",
+      "tehsil_id": "bijnor"
+    }
+  ],
+  "246743": [
+    {
+      "district_id": "bijnor",
+      "tehsil_id": "najibabad"
+    }
+  ],
+  "246750": [
+    {
+      "district_id": "bijnor",
+      "tehsil_id": "nagina"
+    }
+  ],
+  "246757": [
+    {
+      "district_id": "bijnor",
+      "tehsil_id": "dhampur"
+    }
+  ],
+  "246764": [
+    {
+      "district_id": "bijnor",
+      "tehsil_id": "chandpur"
+    }
+  ],
+  "247001": [
+    {
+      "district_id": "saharanpur",
+      "tehsil_id": "saharanpur"
+    }
+  ],
+  "247008": [
+    {
+      "district_id": "saharanpur",
+      "tehsil_id": "deoband"
+    }
+  ],
+  "247015": [
+    {
+      "district_id": "saharanpur",
+      "tehsil_id": "nakur"
+    }
+  ],
+  "247022": [
+    {
+      "district_id": "saharanpur",
+      "tehsil_id": "behat"
+    }
+  ],
+  "247029": [
+    {
+      "district_id": "saharanpur",
+      "tehsil_id": "rampur-maniharan"
+    }
+  ],
+  "247036": [
+    {
+      "district_id": "saharanpur",
+      "tehsil_id": "saharanpur"
+    }
+  ],
+  "247043": [
+    {
+      "district_id": "saharanpur",
+      "tehsil_id": "deoband"
+    }
+  ],
+  "247050": [
+    {
+      "district_id": "saharanpur",
+      "tehsil_id": "nakur"
+    }
+  ],
+  "247057": [
+    {
+      "district_id": "saharanpur",
+      "tehsil_id": "behat"
+    }
+  ],
+  "247064": [
+    {
+      "district_id": "saharanpur",
+      "tehsil_id": "rampur-maniharan"
+    }
+  ],
+  "247071": [
+    {
+      "district_id": "saharanpur",
+      "tehsil_id": "saharanpur"
+    }
+  ],
+  "247078": [
+    {
+      "district_id": "saharanpur",
+      "tehsil_id": "deoband"
+    }
+  ],
+  "247776": [
+    {
+      "district_id": "shamli",
+      "tehsil_id": "shamli"
+    }
+  ],
+  "247783": [
+    {
+      "district_id": "shamli",
+      "tehsil_id": "kairana"
+    }
+  ],
+  "247790": [
+    {
+      "district_id": "shamli",
+      "tehsil_id": "thanabhawan"
+    }
+  ],
+  "247797": [
+    {
+      "district_id": "shamli",
+      "tehsil_id": "unn"
+    }
+  ],
+  "247804": [
+    {
+      "district_id": "shamli",
+      "tehsil_id": "shamli"
+    }
+  ],
+  "247811": [
+    {
+      "district_id": "shamli",
+      "tehsil_id": "kairana"
+    }
+  ],
+  "250001": [
+    {
+      "district_id": "meerut",
+      "tehsil_id": "meerut"
+    }
+  ],
+  "250008": [
+    {
+      "district_id": "meerut",
+      "tehsil_id": "mawana"
+    }
+  ],
+  "250015": [
+    {
+      "district_id": "meerut",
+      "tehsil_id": "sardhana"
+    }
+  ],
+  "250022": [
+    {
+      "district_id": "meerut",
+      "tehsil_id": "meerut"
+    }
+  ],
+  "250029": [
+    {
+      "district_id": "meerut",
+      "tehsil_id": "mawana"
+    }
+  ],
+  "250036": [
+    {
+      "district_id": "meerut",
+      "tehsil_id": "sardhana"
+    }
+  ],
+  "250043": [
+    {
+      "district_id": "meerut",
+      "tehsil_id": "meerut"
+    }
+  ],
+  "250050": [
+    {
+      "district_id": "meerut",
+      "tehsil_id": "mawana"
+    }
+  ],
+  "250057": [
+    {
+      "district_id": "meerut",
+      "tehsil_id": "sardhana"
+    }
+  ],
+  "250064": [
+    {
+      "district_id": "meerut",
+      "tehsil_id": "meerut"
+    }
+  ],
+  "250071": [
+    {
+      "district_id": "meerut",
+      "tehsil_id": "mawana"
+    }
+  ],
+  "250078": [
+    {
+      "district_id": "meerut",
+      "tehsil_id": "sardhana"
+    }
+  ],
+  "250085": [
+    {
+      "district_id": "meerut",
+      "tehsil_id": "meerut"
+    }
+  ],
+  "250092": [
+    {
+      "district_id": "meerut",
+      "tehsil_id": "mawana"
+    }
+  ],
+  "250609": [
+    {
+      "district_id": "baghpat",
+      "tehsil_id": "baghpat"
+    }
+  ],
+  "250616": [
+    {
+      "district_id": "baghpat",
+      "tehsil_id": "baraut"
+    }
+  ],
+  "250623": [
+    {
+      "district_id": "baghpat",
+      "tehsil_id": "khekra"
+    }
+  ],
+  "250630": [
+    {
+      "district_id": "baghpat",
+      "tehsil_id": "baghpat"
+    }
+  ],
+  "250637": [
+    {
+      "district_id": "baghpat",
+      "tehsil_id": "baraut"
+    }
+  ],
+  "250644": [
+    {
+      "district_id": "baghpat",
+      "tehsil_id": "khekra"
+    }
+  ],
+  "251001": [
+    {
+      "district_id": "muzaffarnagar",
+      "tehsil_id": "muzaffarnagar"
+    }
+  ],
+  "251008": [
+    {
+      "district_id": "muzaffarnagar",
+      "tehsil_id": "budhana"
+    }
+  ],
+  "251015": [
+    {
+      "district_id": "muzaffarnagar",
+      "tehsil_id": "jansath"
+    }
+  ],
+  "251022": [
+    {
+      "district_id": "muzaffarnagar",
+      "tehsil_id": "khatauli"
+    }
+  ],
+  "251029": [
+    {
+      "district_id": "muzaffarnagar",
+      "tehsil_id": "muzaffarnagar"
+    }
+  ],
+  "251036": [
+    {
+      "district_id": "muzaffarnagar",
+      "tehsil_id": "budhana"
+    }
+  ],
+  "251043": [
+    {
+      "district_id": "muzaffarnagar",
+      "tehsil_id": "jansath"
+    }
+  ],
+  "251050": [
+    {
+      "district_id": "muzaffarnagar",
+      "tehsil_id": "khatauli"
+    }
+  ],
+  "251057": [
+    {
+      "district_id": "muzaffarnagar",
+      "tehsil_id": "muzaffarnagar"
+    }
+  ],
+  "251064": [
+    {
+      "district_id": "muzaffarnagar",
+      "tehsil_id": "budhana"
+    }
+  ],
+  "261001": [
+    {
+      "district_id": "sitapur",
+      "tehsil_id": "sitapur"
+    }
+  ],
+  "261008": [
+    {
+      "district_id": "sitapur",
+      "tehsil_id": "biswan"
+    }
+  ],
+  "261015": [
+    {
+      "district_id": "sitapur",
+      "tehsil_id": "mahmoodabad"
+    }
+  ],
+  "261022": [
+    {
+      "district_id": "sitapur",
+      "tehsil_id": "sidhauli"
+    }
+  ],
+  "261029": [
+    {
+      "district_id": "sitapur",
+      "tehsil_id": "laharpur"
+    }
+  ],
+  "261036": [
+    {
+      "district_id": "sitapur",
+      "tehsil_id": "mishrikh"
+    }
+  ],
+  "261043": [
+    {
+      "district_id": "sitapur",
+      "tehsil_id": "sitapur"
+    }
+  ],
+  "261050": [
+    {
+      "district_id": "sitapur",
+      "tehsil_id": "biswan"
+    }
+  ],
+  "261057": [
+    {
+      "district_id": "sitapur",
+      "tehsil_id": "mahmoodabad"
+    }
+  ],
+  "261064": [
+    {
+      "district_id": "sitapur",
+      "tehsil_id": "sidhauli"
+    }
+  ],
+  "261071": [
+    {
+      "district_id": "sitapur",
+      "tehsil_id": "laharpur"
+    }
+  ],
+  "261078": [
+    {
+      "district_id": "sitapur",
+      "tehsil_id": "mishrikh"
+    }
+  ],
+  "262001": [
+    {
+      "district_id": "pilibhit",
+      "tehsil_id": "pilibhit"
+    }
+  ],
+  "262008": [
+    {
+      "district_id": "pilibhit",
+      "tehsil_id": "bisalpur"
+    }
+  ],
+  "262015": [
+    {
+      "district_id": "pilibhit",
+      "tehsil_id": "puranpur"
+    }
+  ],
+  "262022": [
+    {
+      "district_id": "pilibhit",
+      "tehsil_id": "barkhera"
+    }
+  ],
+  "262029": [
+    {
+      "district_id": "pilibhit",
+      "tehsil_id": "amariya"
+    }
+  ],
+  "262036": [
+    {
+      "district_id": "pilibhit",
+      "tehsil_id": "pilibhit"
+    }
+  ],
+  "262043": [
+    {
+      "district_id": "pilibhit",
+      "tehsil_id": "bisalpur"
+    }
+  ],
+  "262050": [
+    {
+      "district_id": "pilibhit",
+      "tehsil_id": "puranpur"
+    }
+  ],
+  "262701": [
+    {
+      "district_id": "lakhimpur-kheri",
+      "tehsil_id": "lakhimpur"
+    }
+  ],
+  "262708": [
+    {
+      "district_id": "lakhimpur-kheri",
+      "tehsil_id": "gola-gokaran-nath"
+    }
+  ],
+  "262715": [
+    {
+      "district_id": "lakhimpur-kheri",
+      "tehsil_id": "mohammadi"
+    }
+  ],
+  "262722": [
+    {
+      "district_id": "lakhimpur-kheri",
+      "tehsil_id": "nighasan"
+    }
+  ],
+  "262729": [
+    {
+      "district_id": "lakhimpur-kheri",
+      "tehsil_id": "dhaurahra"
+    }
+  ],
+  "262736": [
+    {
+      "district_id": "lakhimpur-kheri",
+      "tehsil_id": "mitauli"
+    }
+  ],
+  "262743": [
+    {
+      "district_id": "lakhimpur-kheri",
+      "tehsil_id": "palia-kalan"
+    }
+  ],
+  "262750": [
+    {
+      "district_id": "lakhimpur-kheri",
+      "tehsil_id": "lakhimpur"
+    }
+  ],
+  "262757": [
+    {
+      "district_id": "lakhimpur-kheri",
+      "tehsil_id": "gola-gokaran-nath"
+    }
+  ],
+  "262764": [
+    {
+      "district_id": "lakhimpur-kheri",
+      "tehsil_id": "mohammadi"
+    }
+  ],
+  "262771": [
+    {
+      "district_id": "lakhimpur-kheri",
+      "tehsil_id": "nighasan"
+    }
+  ],
+  "262778": [
+    {
+      "district_id": "lakhimpur-kheri",
+      "tehsil_id": "dhaurahra"
+    }
+  ],
+  "271001": [
+    {
+      "district_id": "gonda",
+      "tehsil_id": "gonda"
+    }
+  ],
+  "271008": [
+    {
+      "district_id": "gonda",
+      "tehsil_id": "colonelganj"
+    }
+  ],
+  "271015": [
+    {
+      "district_id": "gonda",
+      "tehsil_id": "tarabganj"
+    }
+  ],
+  "271022": [
+    {
+      "district_id": "gonda",
+      "tehsil_id": "mankapur"
+    }
+  ],
+  "271029": [
+    {
+      "district_id": "gonda",
+      "tehsil_id": "gonda"
+    }
+  ],
+  "271036": [
+    {
+      "district_id": "gonda",
+      "tehsil_id": "colonelganj"
+    }
+  ],
+  "271043": [
+    {
+      "district_id": "gonda",
+      "tehsil_id": "tarabganj"
+    }
+  ],
+  "271050": [
+    {
+      "district_id": "gonda",
+      "tehsil_id": "mankapur"
+    }
+  ],
+  "271057": [
+    {
+      "district_id": "gonda",
+      "tehsil_id": "gonda"
+    }
+  ],
+  "271064": [
+    {
+      "district_id": "gonda",
+      "tehsil_id": "colonelganj"
+    }
+  ],
+  "271201": [
+    {
+      "district_id": "balrampur",
+      "tehsil_id": "balrampur"
+    }
+  ],
+  "271208": [
+    {
+      "district_id": "balrampur",
+      "tehsil_id": "tulsipur"
+    }
+  ],
+  "271215": [
+    {
+      "district_id": "balrampur",
+      "tehsil_id": "utraula"
+    }
+  ],
+  "271222": [
+    {
+      "district_id": "balrampur",
+      "tehsil_id": "balrampur"
+    }
+  ],
+  "271229": [
+    {
+      "district_id": "balrampur",
+      "tehsil_id": "tulsipur"
+    }
+  ],
+  "271236": [
+    {
+      "district_id": "balrampur",
+      "tehsil_id": "utraula"
+    }
+  ],
+  "271801": [
+    {
+      "district_id": "bahraich",
+      "tehsil_id": "bahraich"
+    }
+  ],
+  "271808": [
+    {
+      "district_id": "bahraich",
+      "tehsil_id": "nanpara"
+    }
+  ],
+  "271815": [
+    {
+      "district_id": "bahraich",
+      "tehsil_id": "kaiserganj"
+    }
+  ],
+  "271822": [
+    {
+      "district_id": "bahraich",
+      "tehsil_id": "mahasi"
+    }
+  ],
+  "271829": [
+    {
+      "district_id": "bahraich",
+      "tehsil_id": "payagpur"
+    }
+  ],
+  "271831": [
+    {
+      "district_id": "shravasti",
+      "tehsil_id": "bhinaga"
+    }
+  ],
+  "271836": [
+    {
+      "district_id": "bahraich",
+      "tehsil_id": "mihinpurwa"
+    }
+  ],
+  "271838": [
+    {
+      "district_id": "shravasti",
+      "tehsil_id": "ikauna"
+    }
+  ],
+  "271843": [
+    {
+      "district_id": "bahraich",
+      "tehsil_id": "bahraich"
+    }
+  ],
+  "271845": [
+    {
+      "district_id": "shravasti",
+      "tehsil_id": "jamunaha"
+    }
+  ],
+  "271850": [
+    {
+      "district_id": "bahraich",
+      "tehsil_id": "nanpara"
+    }
+  ],
+  "271852": [
+    {
+      "district_id": "shravasti",
+      "tehsil_id": "bhinaga"
+    }
+  ],
+  "271857": [
+    {
+      "district_id": "bahraich",
+      "tehsil_id": "kaiserganj"
+    }
+  ],
+  "271859": [
+    {
+      "district_id": "shravasti",
+      "tehsil_id": "ikauna"
+    }
+  ],
+  "271864": [
+    {
+      "district_id": "bahraich",
+      "tehsil_id": "mahasi"
+    }
+  ],
+  "271866": [
+    {
+      "district_id": "shravasti",
+      "tehsil_id": "jamunaha"
+    }
+  ],
+  "272001": [
+    {
+      "district_id": "basti",
+      "tehsil_id": "basti"
+    }
+  ],
+  "272008": [
+    {
+      "district_id": "basti",
+      "tehsil_id": "harraiya"
+    }
+  ],
+  "272015": [
+    {
+      "district_id": "basti",
+      "tehsil_id": "bhanpur"
+    }
+  ],
+  "272022": [
+    {
+      "district_id": "basti",
+      "tehsil_id": "rudauli"
+    }
+  ],
+  "272029": [
+    {
+      "district_id": "basti",
+      "tehsil_id": "basti"
+    }
+  ],
+  "272036": [
+    {
+      "district_id": "basti",
+      "tehsil_id": "harraiya"
+    }
+  ],
+  "272043": [
+    {
+      "district_id": "basti",
+      "tehsil_id": "bhanpur"
+    }
+  ],
+  "272050": [
+    {
+      "district_id": "basti",
+      "tehsil_id": "rudauli"
+    }
+  ],
+  "272057": [
+    {
+      "district_id": "basti",
+      "tehsil_id": "basti"
+    }
+  ],
+  "272064": [
+    {
+      "district_id": "basti",
+      "tehsil_id": "harraiya"
+    }
+  ],
+  "272175": [
+    {
+      "district_id": "sant-kabir-nagar",
+      "tehsil_id": "khalilabad"
+    }
+  ],
+  "272182": [
+    {
+      "district_id": "sant-kabir-nagar",
+      "tehsil_id": "ghanghata"
+    }
+  ],
+  "272189": [
+    {
+      "district_id": "sant-kabir-nagar",
+      "tehsil_id": "mehdawal"
+    }
+  ],
+  "272196": [
+    {
+      "district_id": "sant-kabir-nagar",
+      "tehsil_id": "khalilabad"
+    }
+  ],
+  "272203": [
+    {
+      "district_id": "sant-kabir-nagar",
+      "tehsil_id": "ghanghata"
+    }
+  ],
+  "272207": [
+    {
+      "district_id": "siddharthnagar",
+      "tehsil_id": "naugarh"
+    }
+  ],
+  "272210": [
+    {
+      "district_id": "sant-kabir-nagar",
+      "tehsil_id": "mehdawal"
+    }
+  ],
+  "272214": [
+    {
+      "district_id": "siddharthnagar",
+      "tehsil_id": "bansi"
+    }
+  ],
+  "272221": [
+    {
+      "district_id": "siddharthnagar",
+      "tehsil_id": "domariyaganj"
+    }
+  ],
+  "272228": [
+    {
+      "district_id": "siddharthnagar",
+      "tehsil_id": "itwa"
+    }
+  ],
+  "272235": [
+    {
+      "district_id": "siddharthnagar",
+      "tehsil_id": "shohratgarh"
+    }
+  ],
+  "272242": [
+    {
+      "district_id": "siddharthnagar",
+      "tehsil_id": "naugarh"
+    }
+  ],
+  "272249": [
+    {
+      "district_id": "siddharthnagar",
+      "tehsil_id": "bansi"
+    }
+  ],
+  "272256": [
+    {
+      "district_id": "siddharthnagar",
+      "tehsil_id": "domariyaganj"
+    }
+  ],
+  "273001": [
+    {
+      "district_id": "gorakhpur",
+      "tehsil_id": "sadar"
+    }
+  ],
+  "273008": [
+    {
+      "district_id": "gorakhpur",
+      "tehsil_id": "chauri-chaura"
+    }
+  ],
+  "273015": [
+    {
+      "district_id": "gorakhpur",
+      "tehsil_id": "sahjanwa"
+    }
+  ],
+  "273022": [
+    {
+      "district_id": "gorakhpur",
+      "tehsil_id": "khajni"
+    }
+  ],
+  "273029": [
+    {
+      "district_id": "gorakhpur",
+      "tehsil_id": "campierganj"
+    }
+  ],
+  "273036": [
+    {
+      "district_id": "gorakhpur",
+      "tehsil_id": "bansgaon"
+    }
+  ],
+  "273043": [
+    {
+      "district_id": "gorakhpur",
+      "tehsil_id": "gola"
+    }
+  ],
+  "273050": [
+    {
+      "district_id": "gorakhpur",
+      "tehsil_id": "sadar"
+    }
+  ],
+  "273057": [
+    {
+      "district_id": "gorakhpur",
+      "tehsil_id": "chauri-chaura"
+    }
+  ],
+  "273064": [
+    {
+      "district_id": "gorakhpur",
+      "tehsil_id": "sahjanwa"
+    }
+  ],
+  "273071": [
+    {
+      "district_id": "gorakhpur",
+      "tehsil_id": "khajni"
+    }
+  ],
+  "273078": [
+    {
+      "district_id": "gorakhpur",
+      "tehsil_id": "campierganj"
+    }
+  ],
+  "273085": [
+    {
+      "district_id": "gorakhpur",
+      "tehsil_id": "bansgaon"
+    }
+  ],
+  "273092": [
+    {
+      "district_id": "gorakhpur",
+      "tehsil_id": "gola"
+    }
+  ],
+  "273303": [
+    {
+      "district_id": "maharajganj",
+      "tehsil_id": "maharajganj"
+    }
+  ],
+  "273310": [
+    {
+      "district_id": "maharajganj",
+      "tehsil_id": "nautanwa"
+    }
+  ],
+  "273317": [
+    {
+      "district_id": "maharajganj",
+      "tehsil_id": "nichlaul"
+    }
+  ],
+  "273324": [
+    {
+      "district_id": "maharajganj",
+      "tehsil_id": "pharenda"
+    }
+  ],
+  "273331": [
+    {
+      "district_id": "maharajganj",
+      "tehsil_id": "maharajganj"
+    }
+  ],
+  "273338": [
+    {
+      "district_id": "maharajganj",
+      "tehsil_id": "nautanwa"
+    }
+  ],
+  "273345": [
+    {
+      "district_id": "maharajganj",
+      "tehsil_id": "nichlaul"
+    }
+  ],
+  "273352": [
+    {
+      "district_id": "maharajganj",
+      "tehsil_id": "pharenda"
+    }
+  ],
+  "274001": [
+    {
+      "district_id": "deoria",
+      "tehsil_id": "deoria"
+    }
+  ],
+  "274008": [
+    {
+      "district_id": "deoria",
+      "tehsil_id": "salempur"
+    }
+  ],
+  "274015": [
+    {
+      "district_id": "deoria",
+      "tehsil_id": "bhatpar-rani"
+    }
+  ],
+  "274022": [
+    {
+      "district_id": "deoria",
+      "tehsil_id": "barhaj"
+    }
+  ],
+  "274029": [
+    {
+      "district_id": "deoria",
+      "tehsil_id": "rudrapur"
+    }
+  ],
+  "274036": [
+    {
+      "district_id": "deoria",
+      "tehsil_id": "deoria"
+    }
+  ],
+  "274043": [
+    {
+      "district_id": "deoria",
+      "tehsil_id": "salempur"
+    }
+  ],
+  "274050": [
+    {
+      "district_id": "deoria",
+      "tehsil_id": "bhatpar-rani"
+    }
+  ],
+  "274057": [
+    {
+      "district_id": "deoria",
+      "tehsil_id": "barhaj"
+    }
+  ],
+  "274064": [
+    {
+      "district_id": "deoria",
+      "tehsil_id": "rudrapur"
+    }
+  ],
+  "274071": [
+    {
+      "district_id": "deoria",
+      "tehsil_id": "deoria"
+    }
+  ],
+  "274078": [
+    {
+      "district_id": "deoria",
+      "tehsil_id": "salempur"
+    }
+  ],
+  "274304": [
+    {
+      "district_id": "kushinagar",
+      "tehsil_id": "padrauna"
+    }
+  ],
+  "274311": [
+    {
+      "district_id": "kushinagar",
+      "tehsil_id": "hata"
+    }
+  ],
+  "274318": [
+    {
+      "district_id": "kushinagar",
+      "tehsil_id": "tamkuhi-raj"
+    }
+  ],
+  "274325": [
+    {
+      "district_id": "kushinagar",
+      "tehsil_id": "kasya"
+    }
+  ],
+  "274332": [
+    {
+      "district_id": "kushinagar",
+      "tehsil_id": "khadda"
+    }
+  ],
+  "274339": [
+    {
+      "district_id": "kushinagar",
+      "tehsil_id": "padrauna"
+    }
+  ],
+  "274346": [
+    {
+      "district_id": "kushinagar",
+      "tehsil_id": "hata"
+    }
+  ],
+  "274353": [
+    {
+      "district_id": "kushinagar",
+      "tehsil_id": "tamkuhi-raj"
+    }
+  ],
+  "274360": [
+    {
+      "district_id": "kushinagar",
+      "tehsil_id": "kasya"
+    }
+  ],
+  "274367": [
+    {
+      "district_id": "kushinagar",
+      "tehsil_id": "khadda"
+    }
+  ],
+  "275101": [
+    {
+      "district_id": "mau",
+      "tehsil_id": "maunath-bhanjan"
+    }
+  ],
+  "275108": [
+    {
+      "district_id": "mau",
+      "tehsil_id": "madhuban"
+    }
+  ],
+  "275115": [
+    {
+      "district_id": "mau",
+      "tehsil_id": "ghosi"
+    }
+  ],
+  "275122": [
+    {
+      "district_id": "mau",
+      "tehsil_id": "muhammadabad-gohna"
+    }
+  ],
+  "275129": [
+    {
+      "district_id": "mau",
+      "tehsil_id": "maunath-bhanjan"
+    }
+  ],
+  "275136": [
+    {
+      "district_id": "mau",
+      "tehsil_id": "madhuban"
+    }
+  ],
+  "275143": [
+    {
+      "district_id": "mau",
+      "tehsil_id": "ghosi"
+    }
+  ],
+  "275150": [
+    {
+      "district_id": "mau",
+      "tehsil_id": "muhammadabad-gohna"
+    }
+  ],
+  "276001": [
+    {
+      "district_id": "azamgarh",
+      "tehsil_id": "sadar"
+    }
+  ],
+  "276008": [
+    {
+      "district_id": "azamgarh",
+      "tehsil_id": "sagri"
+    }
+  ],
+  "276015": [
+    {
+      "district_id": "azamgarh",
+      "tehsil_id": "lalganj"
+    }
+  ],
+  "276022": [
+    {
+      "district_id": "azamgarh",
+      "tehsil_id": "phoolpur"
+    }
+  ],
+  "276029": [
+    {
+      "district_id": "azamgarh",
+      "tehsil_id": "nizamabad"
+    }
+  ],
+  "276036": [
+    {
+      "district_id": "azamgarh",
+      "tehsil_id": "burhanpur"
+    }
+  ],
+  "276043": [
+    {
+      "district_id": "azamgarh",
+      "tehsil_id": "mehnagar"
+    }
+  ],
+  "276050": [
+    {
+      "district_id": "azamgarh",
+      "tehsil_id": "martinganj"
+    }
+  ],
+  "276057": [
+    {
+      "district_id": "azamgarh",
+      "tehsil_id": "sadar"
+    }
+  ],
+  "276064": [
+    {
+      "district_id": "azamgarh",
+      "tehsil_id": "sagri"
+    }
+  ],
+  "276071": [
+    {
+      "district_id": "azamgarh",
+      "tehsil_id": "lalganj"
+    }
+  ],
+  "276078": [
+    {
+      "district_id": "azamgarh",
+      "tehsil_id": "phoolpur"
+    }
+  ],
+  "277001": [
+    {
+      "district_id": "ballia",
+      "tehsil_id": "ballia"
+    }
+  ],
+  "277008": [
+    {
+      "district_id": "ballia",
+      "tehsil_id": "rasra"
+    }
+  ],
+  "277015": [
+    {
+      "district_id": "ballia",
+      "tehsil_id": "bansdih"
+    }
+  ],
+  "277022": [
+    {
+      "district_id": "ballia",
+      "tehsil_id": "bairia"
+    }
+  ],
+  "277029": [
+    {
+      "district_id": "ballia",
+      "tehsil_id": "sikanderpur"
+    }
+  ],
+  "277036": [
+    {
+      "district_id": "ballia",
+      "tehsil_id": "belthara-road"
+    }
+  ],
+  "277043": [
+    {
+      "district_id": "ballia",
+      "tehsil_id": "ballia"
+    }
+  ],
+  "277050": [
+    {
+      "district_id": "ballia",
+      "tehsil_id": "rasra"
+    }
+  ],
+  "277057": [
+    {
+      "district_id": "ballia",
+      "tehsil_id": "bansdih"
+    }
+  ],
+  "277064": [
+    {
+      "district_id": "ballia",
+      "tehsil_id": "bairia"
+    }
+  ],
+  "277071": [
+    {
+      "district_id": "ballia",
+      "tehsil_id": "sikanderpur"
+    }
+  ],
+  "277078": [
+    {
+      "district_id": "ballia",
+      "tehsil_id": "belthara-road"
+    }
+  ],
+  "281001": [
+    {
+      "district_id": "mathura",
+      "tehsil_id": "mathura"
+    }
+  ],
+  "281008": [
+    {
+      "district_id": "mathura",
+      "tehsil_id": "chhata"
+    }
+  ],
+  "281015": [
+    {
+      "district_id": "mathura",
+      "tehsil_id": "mant"
+    }
+  ],
+  "281022": [
+    {
+      "district_id": "mathura",
+      "tehsil_id": "govardhan"
+    }
+  ],
+  "281029": [
+    {
+      "district_id": "mathura",
+      "tehsil_id": "mahavan"
+    }
+  ],
+  "281036": [
+    {
+      "district_id": "mathura",
+      "tehsil_id": "mathura"
+    }
+  ],
+  "281043": [
+    {
+      "district_id": "mathura",
+      "tehsil_id": "chhata"
+    }
+  ],
+  "281050": [
+    {
+      "district_id": "mathura",
+      "tehsil_id": "mant"
+    }
+  ],
+  "281057": [
+    {
+      "district_id": "mathura",
+      "tehsil_id": "govardhan"
+    }
+  ],
+  "281064": [
+    {
+      "district_id": "mathura",
+      "tehsil_id": "mahavan"
+    }
+  ],
   "282001": [
     {
       "district_id": "agra",
@@ -75,6 +4231,276 @@
     {
       "district_id": "agra",
       "tehsil_id": "sadar"
+    }
+  ],
+  "282008": [
+    {
+      "district_id": "agra",
+      "tehsil_id": "fatehabad"
+    }
+  ],
+  "282015": [
+    {
+      "district_id": "agra",
+      "tehsil_id": "kheragarh"
+    }
+  ],
+  "282022": [
+    {
+      "district_id": "agra",
+      "tehsil_id": "kiraoli"
+    }
+  ],
+  "282029": [
+    {
+      "district_id": "agra",
+      "tehsil_id": "bah"
+    }
+  ],
+  "282036": [
+    {
+      "district_id": "agra",
+      "tehsil_id": "agra"
+    }
+  ],
+  "282043": [
+    {
+      "district_id": "agra",
+      "tehsil_id": "fatehabad"
+    }
+  ],
+  "282050": [
+    {
+      "district_id": "agra",
+      "tehsil_id": "kheragarh"
+    }
+  ],
+  "282057": [
+    {
+      "district_id": "agra",
+      "tehsil_id": "kiraoli"
+    }
+  ],
+  "282064": [
+    {
+      "district_id": "agra",
+      "tehsil_id": "bah"
+    }
+  ],
+  "282071": [
+    {
+      "district_id": "agra",
+      "tehsil_id": "agra"
+    }
+  ],
+  "282078": [
+    {
+      "district_id": "agra",
+      "tehsil_id": "fatehabad"
+    }
+  ],
+  "283203": [
+    {
+      "district_id": "firozabad",
+      "tehsil_id": "firozabad"
+    }
+  ],
+  "283210": [
+    {
+      "district_id": "firozabad",
+      "tehsil_id": "shikohabad"
+    }
+  ],
+  "283217": [
+    {
+      "district_id": "firozabad",
+      "tehsil_id": "sirasaganj"
+    }
+  ],
+  "283224": [
+    {
+      "district_id": "firozabad",
+      "tehsil_id": "tundla"
+    }
+  ],
+  "283231": [
+    {
+      "district_id": "firozabad",
+      "tehsil_id": "jasrana"
+    }
+  ],
+  "283238": [
+    {
+      "district_id": "firozabad",
+      "tehsil_id": "firozabad"
+    }
+  ],
+  "283245": [
+    {
+      "district_id": "firozabad",
+      "tehsil_id": "shikohabad"
+    }
+  ],
+  "283252": [
+    {
+      "district_id": "firozabad",
+      "tehsil_id": "sirasaganj"
+    }
+  ],
+  "284001": [
+    {
+      "district_id": "jhansi",
+      "tehsil_id": "jhansi"
+    }
+  ],
+  "284008": [
+    {
+      "district_id": "jhansi",
+      "tehsil_id": "mauranipur"
+    }
+  ],
+  "284015": [
+    {
+      "district_id": "jhansi",
+      "tehsil_id": "garautha"
+    }
+  ],
+  "284022": [
+    {
+      "district_id": "jhansi",
+      "tehsil_id": "moth"
+    }
+  ],
+  "284029": [
+    {
+      "district_id": "jhansi",
+      "tehsil_id": "tahrauli"
+    }
+  ],
+  "284036": [
+    {
+      "district_id": "jhansi",
+      "tehsil_id": "jhansi"
+    }
+  ],
+  "284043": [
+    {
+      "district_id": "jhansi",
+      "tehsil_id": "mauranipur"
+    }
+  ],
+  "284050": [
+    {
+      "district_id": "jhansi",
+      "tehsil_id": "garautha"
+    }
+  ],
+  "284057": [
+    {
+      "district_id": "jhansi",
+      "tehsil_id": "moth"
+    }
+  ],
+  "284064": [
+    {
+      "district_id": "jhansi",
+      "tehsil_id": "tahrauli"
+    }
+  ],
+  "284071": [
+    {
+      "district_id": "jhansi",
+      "tehsil_id": "jhansi"
+    }
+  ],
+  "284078": [
+    {
+      "district_id": "jhansi",
+      "tehsil_id": "mauranipur"
+    }
+  ],
+  "284403": [
+    {
+      "district_id": "lalitpur",
+      "tehsil_id": "lalitpur"
+    }
+  ],
+  "284410": [
+    {
+      "district_id": "lalitpur",
+      "tehsil_id": "mahroni"
+    }
+  ],
+  "284417": [
+    {
+      "district_id": "lalitpur",
+      "tehsil_id": "talbehat"
+    }
+  ],
+  "284424": [
+    {
+      "district_id": "lalitpur",
+      "tehsil_id": "madawara"
+    }
+  ],
+  "284431": [
+    {
+      "district_id": "lalitpur",
+      "tehsil_id": "pali"
+    }
+  ],
+  "284438": [
+    {
+      "district_id": "lalitpur",
+      "tehsil_id": "lalitpur"
+    }
+  ],
+  "285001": [
+    {
+      "district_id": "jalaun",
+      "tehsil_id": "orai"
+    }
+  ],
+  "285008": [
+    {
+      "district_id": "jalaun",
+      "tehsil_id": "jalaun"
+    }
+  ],
+  "285015": [
+    {
+      "district_id": "jalaun",
+      "tehsil_id": "kalpi"
+    }
+  ],
+  "285022": [
+    {
+      "district_id": "jalaun",
+      "tehsil_id": "madhogarh"
+    }
+  ],
+  "285029": [
+    {
+      "district_id": "jalaun",
+      "tehsil_id": "orai"
+    }
+  ],
+  "285036": [
+    {
+      "district_id": "jalaun",
+      "tehsil_id": "jalaun"
+    }
+  ],
+  "285043": [
+    {
+      "district_id": "jalaun",
+      "tehsil_id": "kalpi"
+    }
+  ],
+  "285050": [
+    {
+      "district_id": "jalaun",
+      "tehsil_id": "madhogarh"
     }
   ]
 }

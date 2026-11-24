@@ -36,6 +36,7 @@ function WizardContent() {
   const typeParam = searchParams.get("type") as LocalBodyType | "unknown" | "other" | null;
   const districtParam = searchParams.get("district");
   const placeParam = searchParams.get("place");
+  const pincodeParam = searchParams.get("pincode");
 
   // Loaded data
   const [districts, setDistricts] = useState<DistrictIndexEntry[]>([]);
@@ -52,7 +53,9 @@ function WizardContent() {
   );
   const [selectedDistrict, setSelectedDistrict] = useState<string | null>(districtParam);
   const [selectedPlace, setSelectedPlace] = useState<string | null>(placeParam);
-  const [pincodeInput, setPincodeInput] = useState("");
+  const [pincodeInput, setPincodeInput] = useState(pincodeParam || "");
+  const [pincodeMatches, setPincodeMatches] = useState<{ district_id: string; tehsil_id?: string }[] | null>(null);
+  const [pincodeNotFound, setPincodeNotFound] = useState(false);
   const [unknownChoice, setUnknownChoice] = useState<"village" | "town" | null>(null);
 
   // Load static index datasets once on mount
@@ -68,6 +71,19 @@ function WizardContent() {
     setSelectedDistrict(districtParam);
     setSelectedPlace(placeParam);
   }, [typeParam, districtParam, placeParam]);
+
+  // Initial pincode lookup when pincodesMap loads and pincodeParam exists
+  useEffect(() => {
+    if (pincodeParam && pincodesMap[pincodeParam.trim()]) {
+      const clean = pincodeParam.trim();
+      const matches = pincodesMap[clean];
+      setPincodeInput(clean);
+      setPincodeMatches(matches);
+      if (matches.length === 1 && !selectedDistrict) {
+        setSelectedDistrict(matches[0].district_id);
+      }
+    }
+  }, [pincodeParam, pincodesMap, selectedDistrict]);
 
   // Load district-specific data when district is selected
   useEffect(() => {
@@ -91,12 +107,15 @@ function WizardContent() {
   const updateUrl = (
     newType: string | null,
     newDistrict: string | null,
-    newPlace: string | null
+    newPlace: string | null,
+    newPin?: string | null
   ) => {
     const params = new URLSearchParams();
     if (newType) params.set("type", newType);
     if (newDistrict) params.set("district", newDistrict);
     if (newPlace) params.set("place", newPlace);
+    const pin = newPin !== undefined ? newPin : pincodeInput;
+    if (pin && pin.length === 6) params.set("pincode", pin);
     router.replace(`/find/?${params.toString()}`);
   };
 
@@ -114,15 +133,33 @@ function WizardContent() {
 
   // Handle Pincode entry
   const handlePincodeChange = (pin: string) => {
-    setPincodeInput(pin);
-    const cleanPin = pin.trim();
-    if (cleanPin.length === 6 && pincodesMap[cleanPin]) {
-      const match = pincodesMap[cleanPin][0];
-      if (match?.district_id) {
-        setSelectedDistrict(match.district_id);
-        updateUrl(selectedType, match.district_id, null);
+    const cleanPin = pin.replace(/\D/g, "").slice(0, 6);
+    setPincodeInput(cleanPin);
+
+    if (cleanPin.length === 6) {
+      const matches = pincodesMap[cleanPin];
+      if (matches && matches.length > 0) {
+        setPincodeMatches(matches);
+        setPincodeNotFound(false);
+        if (matches.length === 1) {
+          const match = matches[0];
+          setSelectedDistrict(match.district_id);
+          updateUrl(selectedType, match.district_id, null, cleanPin);
+        }
+      } else {
+        setPincodeMatches(null);
+        setPincodeNotFound(true);
       }
+    } else {
+      setPincodeMatches(null);
+      setPincodeNotFound(false);
     }
+  };
+
+  const handleClearPincode = () => {
+    setPincodeInput("");
+    setPincodeMatches(null);
+    setPincodeNotFound(false);
   };
 
   // Options for District Search
@@ -204,9 +241,46 @@ function WizardContent() {
           <h1 id="q1-heading" className="text-[26px] sm:text-[32px] font-bold text-text leading-tight mb-2">
             {t("flow.q1")}
           </h1>
-          <p className="text-[16px] sm:text-[17px] text-muted mb-6 leading-relaxed">
+          <p className="text-[16px] sm:text-[17px] text-muted mb-4 leading-relaxed">
             {t("home.step1Desc")}
           </p>
+
+          {/* Quick PIN Code Search on Step 1 */}
+          <div className="p-4 rounded-card bg-surface border border-border flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-4">
+            <div>
+              <span className="font-semibold text-[15px] text-text block">
+                📮 {t("flow.quickPincode")}
+              </span>
+              <span className="text-[13px] text-muted block">
+                {t("flow.pincodePlaceholder")}
+              </span>
+            </div>
+            <div className="flex items-center gap-2">
+              <input
+                type="text"
+                inputMode="numeric"
+                maxLength={6}
+                value={pincodeInput}
+                onChange={(e) => handlePincodeChange(e.target.value)}
+                placeholder="e.g. 226001"
+                className="w-36 min-h-[42px] px-3 py-1.5 bg-bg text-text text-[15px] border-2 border-border rounded-btn focus:border-primary focus-visible:outline-none"
+              />
+              {pincodeMatches && pincodeMatches.length > 0 && selectedDistrict && (
+                <span className="text-[13px] font-bold text-success bg-success/10 border border-success/30 px-2.5 py-1.5 rounded-btn whitespace-nowrap">
+                  ✓ {getLocalized(districts.find((d) => d.id === selectedDistrict), "name", lang)}
+                </span>
+              )}
+              {pincodeInput && (
+                <button
+                  type="button"
+                  onClick={handleClearPincode}
+                  className="text-[13px] text-muted hover:text-danger px-1"
+                >
+                  ✕
+                </button>
+              )}
+            </div>
+          </div>
 
           <div className="space-y-3">
             <ChoiceButton
@@ -275,19 +349,91 @@ function WizardContent() {
           </h1>
 
           {/* Pincode Helper */}
-          <div className="p-4 rounded-card bg-surface border border-border">
-            <label htmlFor="pincode-input" className="block text-label font-semibold text-text mb-1">
-              {t("flow.pincode")}
-            </label>
-            <input
-              id="pincode-input"
-              type="text"
-              maxLength={6}
-              value={pincodeInput}
-              onChange={(e) => handlePincodeChange(e.target.value)}
-              placeholder={t("flow.pincodePlaceholder")}
-              className="w-full min-h-btn px-4 py-2 bg-bg text-text text-[16px] border border-border rounded-btn focus:border-primary focus-visible:outline-none"
-            />
+          <div className="p-5 rounded-card bg-surface border-2 border-border space-y-3">
+            <div className="flex items-center justify-between">
+              <label htmlFor="pincode-input" className="block text-label font-bold text-text">
+                📮 {t("flow.pincode")}
+              </label>
+              {pincodeInput && (
+                <button
+                  type="button"
+                  onClick={handleClearPincode}
+                  className="text-[13px] text-muted hover:text-danger font-medium underline"
+                >
+                  {t("flow.pincodeClear")}
+                </button>
+              )}
+            </div>
+
+            <div className="relative">
+              <input
+                id="pincode-input"
+                type="text"
+                inputMode="numeric"
+                maxLength={6}
+                value={pincodeInput}
+                onChange={(e) => handlePincodeChange(e.target.value)}
+                placeholder={t("flow.pincodePlaceholder")}
+                className="w-full min-h-btn px-4 py-2.5 bg-bg text-text text-[17px] font-medium border-2 border-border rounded-btn focus:border-primary focus-visible:outline-none"
+              />
+            </div>
+
+            {/* If single district detected */}
+            {pincodeMatches && pincodeMatches.length === 1 && selectedDistrict && (
+              <div className="p-3 rounded-btn bg-success/10 border border-success/30 text-success text-[15px] font-semibold flex items-center justify-between">
+                <span>
+                  ✓ {t("flow.pincodeDetected", {
+                    district:
+                      getLocalized(
+                        districts.find((d) => d.id === selectedDistrict),
+                        "name",
+                        lang
+                      ) || selectedDistrict,
+                  })}
+                </span>
+                <span className="text-[13px] bg-success text-white px-2 py-0.5 rounded">
+                  Selected
+                </span>
+              </div>
+            )}
+
+            {/* If multi-district border PIN detected */}
+            {pincodeMatches && pincodeMatches.length > 1 && (
+              <div className="p-3.5 rounded-btn bg-blue-50 border border-blue-200 text-blue-900 space-y-2 text-[14px]">
+                <p className="font-semibold">{t("flow.pincodeMulti")}</p>
+                <div className="flex flex-wrap gap-2">
+                  {pincodeMatches.map((m) => {
+                    const dEntry = districts.find((d) => d.id === m.district_id);
+                    const dName = dEntry ? getLocalized(dEntry, "name", lang) : m.district_id;
+                    const isChosen = selectedDistrict === m.district_id;
+                    return (
+                      <button
+                        key={m.district_id}
+                        type="button"
+                        onClick={() => {
+                          setSelectedDistrict(m.district_id);
+                          updateUrl(selectedType, m.district_id, null, pincodeInput);
+                        }}
+                        className={`px-3 py-1.5 rounded-btn font-bold text-[14px] border transition-all ${
+                          isChosen
+                            ? "bg-primary text-white border-primary shadow-sm"
+                            : "bg-white text-text border-slate-300 hover:border-primary"
+                        }`}
+                      >
+                        {dName}
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+            )}
+
+            {/* If not found */}
+            {pincodeNotFound && (
+              <div className="p-3 rounded-btn bg-amber-50 border border-amber-300 text-amber-900 text-[14px] leading-relaxed">
+                {t("flow.pincodeNotFound")}
+              </div>
+            )}
           </div>
 
           {/* District Select */}

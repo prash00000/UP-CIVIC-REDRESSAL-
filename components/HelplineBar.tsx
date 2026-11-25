@@ -12,12 +12,12 @@ export default function HelplineBar() {
       className="sticky top-0 z-50 bg-[#0F2C4C] text-white border-t-[3px] border-[#C84B16] border-b border-[#1D446E] py-2 px-4 no-print"
     >
       <div className="max-w-[1120px] mx-auto flex items-center justify-between gap-3 text-[13px] sm:text-[14px]">
-        <div className="flex items-center gap-2.5 min-w-0">
+        <div className="flex items-center gap-2 min-w-0">
           <span
             aria-hidden="true"
             className="inline-block w-2 h-2 rounded-full bg-[#E66A36] flex-shrink-0"
           />
-          <span className="font-medium tracking-wide text-[#EEF3F8] truncate tabular-nums">
+          <span className="font-medium tracking-wide text-[#EEF3F8] leading-snug tabular-nums">
             {t("helpline.bar")}
           </span>
         </div>

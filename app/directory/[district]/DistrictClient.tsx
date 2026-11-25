@@ -55,7 +55,7 @@ export default function DistrictClient({
     if (!data?.offices) return {};
     const map: Partial<Record<OfficeLevel, typeof data.offices>> = {};
     for (const off of data.offices) {
-      if (!map[off.role ? off.level : "district"]) {
+      if (!map[off.level]) {
         map[off.level] = [];
       }
       map[off.level]!.push(off);

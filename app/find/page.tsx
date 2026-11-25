@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect, Suspense, useMemo } from "react";
+import React, { useState, useEffect, Suspense, useMemo, useRef } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { Card } from "@astryxdesign/core/Card";
@@ -17,6 +17,7 @@ import {
   PincodeMap,
   StateData,
 } from "@/lib/types";
+import { resolvePincode, PincodeMatch } from "@/lib/pincode";
 import {
   loadDistrictsIndex,
   loadDistrictData,
@@ -56,9 +57,13 @@ function WizardContent() {
   const [selectedDistrict, setSelectedDistrict] = useState<string | null>(districtParam);
   const [selectedPlace, setSelectedPlace] = useState<string | null>(placeParam);
   const [pincodeInput, setPincodeInput] = useState(pincodeParam || "");
-  const [pincodeMatches, setPincodeMatches] = useState<{ district_id: string; tehsil_id?: string }[] | null>(null);
+  const [pincodeMatches, setPincodeMatches] = useState<PincodeMatch[] | null>(null);
+  const [pincodeKind, setPincodeKind] = useState<"exact" | "prefix" | null>(null);
   const [pincodeNotFound, setPincodeNotFound] = useState(false);
   const [unknownChoice, setUnknownChoice] = useState<"village" | "town" | null>(null);
+
+  // Prevents URL sync or Back/Change click from immediately re-auto-applying PIN over user's intent
+  const userClearedDistrictRef = useRef(false);
 
   useEffect(() => {
     loadDistrictsIndex().then(setDistricts);
@@ -66,23 +71,38 @@ function WizardContent() {
     loadStateData().then(setStateInfo);
   }, []);
 
+  // Sync URL params safely without wiping a valid PIN-detected district unless URL explicitly specifies district
   useEffect(() => {
     setSelectedType(typeParam);
-    setSelectedDistrict(districtParam);
-    setSelectedPlace(placeParam);
-  }, [typeParam, districtParam, placeParam]);
-
-  useEffect(() => {
-    if (pincodeParam && pincodesMap[pincodeParam.trim()]) {
-      const clean = pincodeParam.trim();
-      const matches = pincodesMap[clean];
-      setPincodeInput(clean);
-      setPincodeMatches(matches);
-      if (matches.length === 1 && !selectedDistrict) {
-        setSelectedDistrict(matches[0].district_id);
-      }
+    if (districtParam) {
+      setSelectedDistrict(districtParam);
+    } else if (!pincodeParam) {
+      setSelectedDistrict(null);
     }
-  }, [pincodeParam, pincodesMap, selectedDistrict]);
+    setSelectedPlace(placeParam);
+  }, [typeParam, districtParam, placeParam, pincodeParam]);
+
+  // Resolve initial or updated URL ?pincode= cleanly using exact + 3-digit prefix lookup
+  useEffect(() => {
+    if (!pincodeParam || Object.keys(pincodesMap).length === 0) return;
+    const clean = pincodeParam.replace(/\D/g, "").slice(0, 6);
+    if (clean.length !== 6) return;
+
+    setPincodeInput(clean);
+    const res = resolvePincode(clean, pincodesMap);
+    if (res.matches.length > 0) {
+      setPincodeMatches(res.matches);
+      setPincodeKind(res.kind === "exact" ? "exact" : "prefix");
+      setPincodeNotFound(false);
+      if (res.matches.length === 1 && !districtParam && !userClearedDistrictRef.current) {
+        setSelectedDistrict(res.matches[0].district_id);
+      }
+    } else {
+      setPincodeMatches(null);
+      setPincodeKind(null);
+      setPincodeNotFound(true);
+    }
+  }, [pincodeParam, districtParam, pincodesMap]);
 
   useEffect(() => {
     if (selectedDistrict) {
@@ -113,7 +133,8 @@ function WizardContent() {
     if (newPlace) params.set("place", newPlace);
     const pin = newPin !== undefined ? newPin : pincodeInput;
     if (pin && pin.length === 6) params.set("pincode", pin);
-    router.replace(`/find/?${params.toString()}`);
+    const qs = params.toString();
+    router.replace(qs ? `/find/?${qs}` : `/find/`);
   };
 
   let step = 1;
@@ -127,34 +148,47 @@ function WizardContent() {
     }
   }
 
+  const getDistrictName = (id: string) => {
+    const dEntry = districts.find((d) => d.id === id);
+    return dEntry ? getLocalized(dEntry, "name", lang) : id;
+  };
+
   const handlePincodeChange = (pin: string) => {
     const cleanPin = pin.replace(/\D/g, "").slice(0, 6);
     setPincodeInput(cleanPin);
+    userClearedDistrictRef.current = false;
 
     if (cleanPin.length === 6) {
-      const matches = pincodesMap[cleanPin];
-      if (matches && matches.length > 0) {
-        setPincodeMatches(matches);
+      const res = resolvePincode(cleanPin, pincodesMap);
+      if (res.matches.length > 0) {
+        setPincodeMatches(res.matches);
+        setPincodeKind(res.kind === "exact" ? "exact" : "prefix");
         setPincodeNotFound(false);
-        if (matches.length === 1) {
-          const match = matches[0];
+        if (res.matches.length === 1) {
+          const match = res.matches[0];
+          // Preselect district immediately without unexpectedly skipping Step 2 mid-typing
           setSelectedDistrict(match.district_id);
-          updateUrl(selectedType, match.district_id, null, cleanPin);
         }
       } else {
         setPincodeMatches(null);
+        setPincodeKind(null);
         setPincodeNotFound(true);
       }
     } else {
       setPincodeMatches(null);
+      setPincodeKind(null);
       setPincodeNotFound(false);
     }
   };
 
   const handleClearPincode = () => {
+    userClearedDistrictRef.current = true;
     setPincodeInput("");
     setPincodeMatches(null);
+    setPincodeKind(null);
     setPincodeNotFound(false);
+    setSelectedDistrict(null);
+    updateUrl(selectedType, null, null, null);
   };
 
   const districtOptions: SearchOption[] = useMemo(() => {
@@ -190,7 +224,7 @@ function WizardContent() {
     return resolveOfficers(
       selectedType || "unknown",
       selectedDistrict,
-      selectedPlace,
+      selectedPlace === "district-hq" ? null : selectedPlace,
       currentDistrictData,
       currentPlaces,
       stateInfo || undefined
@@ -200,6 +234,7 @@ function WizardContent() {
   const handleBack = () => {
     if (step === 4) {
       if (selectedType === "other") {
+        userClearedDistrictRef.current = true;
         setSelectedDistrict(null);
         updateUrl(selectedType, null, null);
       } else {
@@ -207,12 +242,27 @@ function WizardContent() {
         updateUrl(selectedType, selectedDistrict, null);
       }
     } else if (step === 3) {
+      userClearedDistrictRef.current = true;
       setSelectedDistrict(null);
       updateUrl(selectedType, null, null);
     } else if (step === 2) {
       setSelectedType(null);
-      updateUrl(null, null, null);
+      updateUrl(null, selectedDistrict, null);
     }
+  };
+
+  // Pick a district resolved synchronously or from state when Step 1 ballot is chosen
+  const selectBallotAndProceed = (ballot: LocalBodyType | "unknown" | "other") => {
+    setSelectedType(ballot);
+    let effDistrict = selectedDistrict;
+    if (!effDistrict && pincodeInput.length === 6) {
+      const res = resolvePincode(pincodeInput, pincodesMap);
+      if (res.matches.length === 1) {
+        effDistrict = res.matches[0].district_id;
+        setSelectedDistrict(effDistrict);
+      }
+    }
+    updateUrl(ballot, effDistrict, ballot === "other" ? null : selectedPlace);
   };
 
   return (
@@ -224,6 +274,28 @@ function WizardContent() {
           canBack={step > 1}
           onBack={handleBack}
         />
+      )}
+
+      {/* Selected District Context Banner (visible on Steps 1 & 3 so PIN auto-detection is always transparent) */}
+      {selectedDistrict && (step === 1 || step === 3) && (
+        <div className="mb-5 p-3.5 rounded-[4px] bg-[#EBF1F6] border border-[#154273]/30 flex flex-wrap items-center justify-between gap-2 text-[14px]">
+          <span className="font-semibold text-[#154273]">
+            ✓ {t("flow.pincodeSelectedBar", { district: getDistrictName(selectedDistrict) })}
+            {pincodeInput.length === 6 && ` (PIN ${pincodeInput})`}
+          </span>
+          <button
+            type="button"
+            onClick={() => {
+              userClearedDistrictRef.current = true;
+              setSelectedDistrict(null);
+              setSelectedPlace(null);
+              updateUrl(selectedType, null, null);
+            }}
+            className="text-[13px] font-semibold text-[#154273] underline hover:text-[#0F3156]"
+          >
+            {t("flow.changeDistrict")}
+          </button>
+        </div>
       )}
 
       {/* STEP 1: Ballot Choice */}
@@ -239,99 +311,112 @@ function WizardContent() {
           </div>
 
           <Card padding={4} variant="default" elevation="none">
-            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
-              <div>
-                <span className="font-semibold text-[15px] text-text block">
-                  {t("flow.quickPincode")}
-                </span>
-                <span className="text-[13px] text-muted block">
-                  {t("flow.pincodePlaceholder")}
-                </span>
-              </div>
-              <div className="flex items-center gap-2">
-                <input
-                  type="text"
-                  inputMode="numeric"
-                  maxLength={6}
-                  value={pincodeInput}
-                  onChange={(e) => handlePincodeChange(e.target.value)}
-                  placeholder="226001"
-                  className="w-36 min-h-[42px] px-3 py-1.5 bg-bg text-text text-[15px] tabular-nums border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none"
-                />
-                {pincodeMatches && pincodeMatches.length > 0 && selectedDistrict && (
-                  <Badge
-                    variant="success"
-                    label={getLocalized(districts.find((d) => d.id === selectedDistrict), "name", lang)}
+            <div className="space-y-3">
+              <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+                <div>
+                  <span className="font-semibold text-[15px] text-text block">
+                    {t("flow.quickPincode")}
+                  </span>
+                  <span className="text-[13px] text-muted block">
+                    {t("flow.pincodePlaceholder")}
+                  </span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <input
+                    type="text"
+                    inputMode="numeric"
+                    maxLength={6}
+                    value={pincodeInput}
+                    onChange={(e) => handlePincodeChange(e.target.value)}
+                    placeholder="226001"
+                    className="w-36 min-h-[42px] px-3 py-1.5 bg-bg text-text text-[15px] tabular-nums border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none"
                   />
-                )}
-                {pincodeInput && (
-                  <button
-                    type="button"
-                    onClick={handleClearPincode}
-                    aria-label={t("flow.pincodeClear")}
-                    className="text-[13px] text-muted hover:text-danger px-2 py-1"
-                  >
-                    ✕
-                  </button>
-                )}
+                  {pincodeMatches && pincodeMatches.length === 1 && selectedDistrict && (
+                    <Badge
+                      variant="success"
+                      label={getDistrictName(selectedDistrict)}
+                    />
+                  )}
+                  {pincodeInput && (
+                    <button
+                      type="button"
+                      onClick={handleClearPincode}
+                      aria-label={t("flow.pincodeClear")}
+                      className="text-[13px] text-muted hover:text-danger px-2 py-1"
+                    >
+                      ✕
+                    </button>
+                  )}
+                </div>
               </div>
+
+              {pincodeMatches && pincodeMatches.length > 1 && (
+                <Banner
+                  status="info"
+                  container="card"
+                  collapsible={false}
+                  title={t("flow.pincodeMulti")}
+                >
+                  <div className="flex flex-wrap gap-2 pt-1">
+                    {pincodeMatches.map((m) => (
+                      <Button
+                        key={m.district_id}
+                        type="button"
+                        size="sm"
+                        variant={selectedDistrict === m.district_id ? "primary" : "secondary"}
+                        label={getDistrictName(m.district_id)}
+                        onClick={() => {
+                          setSelectedDistrict(m.district_id);
+                          updateUrl(selectedType, m.district_id, null, pincodeInput);
+                        }}
+                      />
+                    ))}
+                  </div>
+                </Banner>
+              )}
+
+              {pincodeNotFound && (
+                <Banner status="warning" container="card" title={t("flow.pincodeNotFound")} />
+              )}
             </div>
           </Card>
 
           <div className="space-y-2.5">
             <ChoiceButton
               title={t("flow.q1.pradhan")}
-              subtitle="Rural Village / Gram Panchayat"
+              subtitle={t("flow.q1.pradhanSub")}
               selected={selectedType === "gram_panchayat"}
-              onClick={() => {
-                setSelectedType("gram_panchayat");
-                updateUrl("gram_panchayat", selectedDistrict, selectedPlace);
-              }}
+              onClick={() => selectBallotAndProceed("gram_panchayat")}
             />
             <ChoiceButton
               title={t("flow.q1.np")}
-              subtitle="Small Town / Nagar Panchayat"
+              subtitle={t("flow.q1.npSub")}
               selected={selectedType === "nagar_panchayat"}
-              onClick={() => {
-                setSelectedType("nagar_panchayat");
-                updateUrl("nagar_panchayat", selectedDistrict, selectedPlace);
-              }}
+              onClick={() => selectBallotAndProceed("nagar_panchayat")}
             />
             <ChoiceButton
               title={t("flow.q1.npp")}
-              subtitle="Municipality / Nagar Palika Parishad"
+              subtitle={t("flow.q1.nppSub")}
               selected={selectedType === "nagar_palika_parishad"}
-              onClick={() => {
-                setSelectedType("nagar_palika_parishad");
-                updateUrl("nagar_palika_parishad", selectedDistrict, selectedPlace);
-              }}
+              onClick={() => selectBallotAndProceed("nagar_palika_parishad")}
             />
             <ChoiceButton
               title={t("flow.q1.mayor")}
-              subtitle="Municipal Corporation (Nagar Nigam / Metro)"
+              subtitle={t("flow.q1.mayorSub")}
               selected={selectedType === "nagar_nigam"}
-              onClick={() => {
-                setSelectedType("nagar_nigam");
-                updateUrl("nagar_nigam", selectedDistrict, selectedPlace);
-              }}
+              onClick={() => selectBallotAndProceed("nagar_nigam")}
             />
             <ChoiceButton
               title={t("flow.q1.other")}
-              subtitle="Cantonment Board, Industrial Township, or Development Authority"
+              subtitle={t("flow.q1.otherSub")}
               selected={selectedType === "other"}
-              onClick={() => {
-                setSelectedType("other");
-                updateUrl("other", selectedDistrict, null);
-              }}
+              onClick={() => selectBallotAndProceed("other")}
             />
             <ChoiceButton
               title={t("flow.q1.unsure")}
-              subtitle="Not sure whether village or town"
+              subtitle={t("flow.q1.unsureSub")}
               selected={selectedType === "unknown"}
-              onClick={() => {
-                setSelectedType("unknown");
-                updateUrl("unknown", selectedDistrict, selectedPlace);
-              }}
+              onClick={() => selectBallotAndProceed("unknown")}
             />
           </div>
         </section>
@@ -376,15 +461,24 @@ function WizardContent() {
                 <Banner
                   status="success"
                   container="card"
-                  title={t("flow.pincodeDetected", {
-                    district:
-                      getLocalized(
-                        districts.find((d) => d.id === selectedDistrict),
-                        "name",
-                        lang
-                      ) || selectedDistrict,
-                  })}
-                />
+                  collapsible={false}
+                  title={t(
+                    pincodeKind === "exact"
+                      ? "flow.pincodeDetected"
+                      : "flow.pincodePrefixDetected",
+                    { district: getDistrictName(selectedDistrict) }
+                  )}
+                >
+                  <div className="pt-2">
+                    <Button
+                      type="button"
+                      variant="primary"
+                      size="sm"
+                      label={`${t("flow.continueDistrict", { district: getDistrictName(selectedDistrict) })} →`}
+                      onClick={() => updateUrl(selectedType, selectedDistrict, null, pincodeInput)}
+                    />
+                  </div>
+                </Banner>
               )}
 
               {pincodeMatches && pincodeMatches.length > 1 && (
@@ -396,8 +490,7 @@ function WizardContent() {
                 >
                   <div className="flex flex-wrap gap-2 pt-1">
                     {pincodeMatches.map((m) => {
-                      const dEntry = districts.find((d) => d.id === m.district_id);
-                      const dName = dEntry ? getLocalized(dEntry, "name", lang) : m.district_id;
+                      const dName = getDistrictName(m.district_id);
                       const isChosen = selectedDistrict === m.district_id;
                       return (
                         <Button
@@ -428,6 +521,7 @@ function WizardContent() {
             options={districtOptions}
             value={selectedDistrict}
             onSelect={(opt) => {
+              userClearedDistrictRef.current = false;
               setSelectedDistrict(opt.id);
               updateUrl(selectedType, opt.id, null);
             }}
@@ -468,20 +562,57 @@ function WizardContent() {
             <div className="py-8 text-center text-muted font-medium">
               {t("common.loading")}
             </div>
+          ) : currentPlaces.length === 0 ? (
+            <Banner
+              status="info"
+              container="card"
+              collapsible={false}
+              title={t("flow.noPlacesNotice", {
+                district: selectedDistrict ? getDistrictName(selectedDistrict) : "",
+              })}
+            >
+              <div className="pt-2">
+                <Button
+                  type="button"
+                  variant="primary"
+                  size="md"
+                  label={`${t("flow.viewDistrictOfficers")} →`}
+                  onClick={() => {
+                    setSelectedPlace("district-hq");
+                    updateUrl(selectedType, selectedDistrict, "district-hq");
+                  }}
+                />
+              </div>
+            </Banner>
           ) : (
-            <SearchSelect
-              label={
-                selectedType === "gram_panchayat" || unknownChoice === "village"
-                  ? t("flow.q3.village")
-                  : t("flow.q3.ward")
-              }
-              options={placeOptions}
-              value={selectedPlace}
-              onSelect={(opt) => {
-                setSelectedPlace(opt.id);
-                updateUrl(selectedType, selectedDistrict, opt.id);
-              }}
-            />
+            <div className="space-y-4">
+              <SearchSelect
+                label={
+                  selectedType === "gram_panchayat" || unknownChoice === "village"
+                    ? t("flow.q3.village")
+                    : t("flow.q3.ward")
+                }
+                options={placeOptions}
+                value={selectedPlace}
+                onSelect={(opt) => {
+                  setSelectedPlace(opt.id);
+                  updateUrl(selectedType, selectedDistrict, opt.id);
+                }}
+              />
+
+              <div className="pt-1">
+                <button
+                  type="button"
+                  onClick={() => {
+                    setSelectedPlace("district-hq");
+                    updateUrl(selectedType, selectedDistrict, "district-hq");
+                  }}
+                  className="text-[14px] font-semibold text-[#154273] underline underline-offset-4 hover:text-[#0F3156]"
+                >
+                  {t("flow.skipPlace")} →
+                </button>
+              </div>
+            </div>
           )}
         </section>
       )}
@@ -507,7 +638,9 @@ function WizardContent() {
               label={
                 resolution.place
                   ? getLocalized(resolution.place, "name", lang)
-                  : selectedDistrict || ""
+                  : selectedDistrict
+                  ? getDistrictName(selectedDistrict)
+                  : ""
               }
             />
           </div>
@@ -516,15 +649,19 @@ function WizardContent() {
             {t("results.title")}
           </h1>
 
-          {resolution.place && (
+          {resolution.place ? (
             <div className="p-4 rounded-[6px] bg-surface border border-border border-l-4 border-l-[#154273] text-[15px] text-text font-medium">
               {getLocalized(resolution.place, "name", lang)}
               {resolution.place.gp_id && ` · GP: ${resolution.place.gp_id}`}
               {resolution.place.block_id && ` · Block: ${resolution.place.block_id}`}
               {resolution.place.tehsil_id && ` · Tehsil: ${resolution.place.tehsil_id}`}
-              {selectedDistrict && ` · District: ${selectedDistrict}`}
+              {selectedDistrict && ` · ${getDistrictName(selectedDistrict)}`}
             </div>
-          )}
+          ) : selectedDistrict ? (
+            <div className="p-4 rounded-[6px] bg-surface border border-border border-l-4 border-l-[#154273] text-[15px] text-text font-medium">
+              {getDistrictName(selectedDistrict)}
+            </div>
+          ) : null}
 
           {resolution.hasCoverageGap && <CoverageBanner />}
 

@@ -2,6 +2,7 @@ import { describe, it, expect } from "vitest";
 import pincodesData from "../public/data/pincodes.json";
 import districtsData from "../public/data/districts.json";
 import { PincodeMap } from "../lib/types";
+import { resolvePincode } from "../lib/pincode";
 
 describe("Pincode Search & Directory Parity Tests", () => {
   const pincodes = pincodesData as unknown as PincodeMap;
@@ -49,5 +50,25 @@ describe("Pincode Search & Directory Parity Tests", () => {
         ).toBe(true);
       }
     }
+  });
+
+  it("should resolve exact PINs and 3-digit postal prefixes for any UP PIN", () => {
+    const exactLucknow = resolvePincode("226001", pincodes);
+    expect(exactLucknow.kind).toBe("exact");
+    expect(exactLucknow.matches[0].district_id).toBe("lucknow");
+
+    // Prefix fallback when exact 6-digit PIN is not sampled (e.g. 226024, 208005)
+    const prefixLucknow = resolvePincode("226024", pincodes);
+    expect(prefixLucknow.kind).toBe("prefix");
+    expect(prefixLucknow.matches.map((m) => m.district_id)).toContain("lucknow");
+
+    const prefixKanpur = resolvePincode("208005", pincodes);
+    expect(prefixKanpur.kind).toBe("prefix");
+    expect(prefixKanpur.matches[0].district_id).toBe("kanpur-nagar");
+
+    // Out-of-state PIN rejected
+    const delhiPin = resolvePincode("110001", pincodes);
+    expect(delhiPin.kind).toBe("invalid_prefix");
+    expect(delhiPin.matches).toEqual([]);
   });
 });

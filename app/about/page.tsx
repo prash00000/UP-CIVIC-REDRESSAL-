@@ -22,6 +22,15 @@ export default function AboutPage() {
         </p>
       </div>
 
+      {/* Formal Citizen-Built Non-Government Disclaimer */}
+      <Banner
+        status="info"
+        container="card"
+        collapsible={false}
+        title={t("about.citizenNoticeTitle")}
+        description={t("about.citizenNoticeText")}
+      />
+
       <section aria-labelledby="mission-heading" className="space-y-3">
         <h2 id="mission-heading" className="font-editorial text-[24px] font-bold text-text">
           {t("about.missionTitle")}

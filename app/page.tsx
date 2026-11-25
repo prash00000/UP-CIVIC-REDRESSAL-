@@ -1,14 +1,18 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { Card } from "@astryxdesign/core/Card";
+import { Banner } from "@astryxdesign/core/Banner";
 import { Button } from "@astryxdesign/core/Button";
 import { Heading } from "@astryxdesign/core/Heading";
 import { Text } from "@astryxdesign/core/Text";
 import { Divider } from "@astryxdesign/core/Divider";
-import { useT } from "@/lib/i18n";
+import { useT, useLang, getLocalized } from "@/lib/i18n";
+import { loadDistrictsIndex, loadPincodes } from "@/lib/data";
+import { DistrictIndexEntry, PincodeMap } from "@/lib/types";
+import { resolvePincode } from "@/lib/pincode";
 
 const ISSUES: { slug: string; titleKey: string; icon: React.ReactNode }[] = [
   {
@@ -84,8 +88,41 @@ const ISSUES: { slug: string; titleKey: string; icon: React.ReactNode }[] = [
 
 export default function HomePage() {
   const t = useT();
+  const { lang } = useLang();
   const router = useRouter();
   const [homePin, setHomePin] = useState("");
+  const [districts, setDistricts] = useState<DistrictIndexEntry[]>([]);
+  const [pincodesMap, setPincodesMap] = useState<PincodeMap>({});
+
+  useEffect(() => {
+    loadDistrictsIndex().then(setDistricts);
+    loadPincodes().then(setPincodesMap);
+  }, []);
+
+  const pinResolution = useMemo(() => {
+    if (homePin.length !== 6) return null;
+    return resolvePincode(homePin, pincodesMap);
+  }, [homePin, pincodesMap]);
+
+  const getDistrictName = (id: string) => {
+    const found = districts.find((d) => d.id === id);
+    return found ? getLocalized(found, "name", lang) : id;
+  };
+
+  const handlePinSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    const clean = homePin.replace(/\D/g, "");
+    if (clean.length !== 6) return;
+    if (pinResolution && pinResolution.matches.length === 1) {
+      router.push(
+        `/find/?pincode=${clean}&district=${encodeURIComponent(
+          pinResolution.matches[0].district_id
+        )}`
+      );
+    } else {
+      router.push(`/find/?pincode=${clean}`);
+    }
+  };
 
   return (
     <div className="space-y-12 md:space-y-16">
@@ -138,33 +175,74 @@ export default function HomePage() {
               {t("home.pinHint")}
             </Text>
 
-            <form
-              onSubmit={(e) => {
-                e.preventDefault();
-                const clean = homePin.replace(/\D/g, "");
-                if (clean.length === 6) {
-                  router.push(`/find/?pincode=${clean}`);
-                }
-              }}
-              className="mt-4 flex flex-col sm:flex-row gap-2.5"
-            >
-              <input
-                type="text"
-                inputMode="numeric"
-                maxLength={6}
-                value={homePin}
-                onChange={(e) => setHomePin(e.target.value.replace(/\D/g, "").slice(0, 6))}
-                placeholder={t("flow.pincodePlaceholder")}
-                aria-label="Pincode search"
-                className="flex-1 min-h-btn px-3.5 py-2 text-[16px] font-medium tabular-nums border border-borderStrong rounded-[4px] bg-bg focus:border-[#154273] focus-visible:outline-none"
-              />
-              <Button
-                type="submit"
-                variant="primary"
-                size="md"
-                label={t("flow.next")}
-                isDisabled={homePin.length !== 6}
-              />
+            <form onSubmit={handlePinSubmit} className="mt-4 space-y-3">
+              <div className="flex flex-col sm:flex-row gap-2.5">
+                <input
+                  type="text"
+                  inputMode="numeric"
+                  maxLength={6}
+                  value={homePin}
+                  onChange={(e) => setHomePin(e.target.value.replace(/\D/g, "").slice(0, 6))}
+                  placeholder={t("flow.pincodePlaceholder")}
+                  aria-label="Pincode search"
+                  className="flex-1 min-h-btn px-3.5 py-2 text-[16px] font-medium tabular-nums border border-borderStrong rounded-[4px] bg-bg focus:border-[#154273] focus-visible:outline-none"
+                />
+                <button
+                  type="submit"
+                  disabled={homePin.length !== 6}
+                  className="min-h-btn px-5 py-2 bg-[#154273] hover:bg-[#0F3156] disabled:opacity-45 disabled:cursor-not-allowed text-white font-semibold rounded-[4px] text-[15px] transition-colors whitespace-nowrap"
+                >
+                  {t("flow.next")}
+                </button>
+              </div>
+
+              {/* Live District Feedback right on Homepage */}
+              {pinResolution && pinResolution.matches.length === 1 && (
+                <Banner
+                  status="success"
+                  container="card"
+                  title={t(
+                    pinResolution.kind === "exact"
+                      ? "flow.pincodeDetected"
+                      : "flow.pincodePrefixDetected",
+                    { district: getDistrictName(pinResolution.matches[0].district_id) }
+                  )}
+                />
+              )}
+
+              {pinResolution && pinResolution.matches.length > 1 && (
+                <Banner
+                  status="info"
+                  container="card"
+                  collapsible={false}
+                  title={t("flow.pincodeMulti")}
+                >
+                  <div className="flex flex-wrap gap-2 pt-1">
+                    {pinResolution.matches.map((m) => (
+                      <Button
+                        key={m.district_id}
+                        type="button"
+                        size="sm"
+                        variant="secondary"
+                        label={getDistrictName(m.district_id)}
+                        onClick={() =>
+                          router.push(
+                            `/find/?pincode=${homePin}&district=${encodeURIComponent(
+                              m.district_id
+                            )}`
+                          )
+                        }
+                      />
+                    ))}
+                  </div>
+                </Banner>
+              )}
+
+              {pinResolution &&
+                (pinResolution.kind === "invalid_prefix" ||
+                  pinResolution.kind === "not_found") && (
+                  <Banner status="warning" container="card" title={t("flow.pincodeNotFound")} />
+                )}
             </form>
           </Card>
         </div>

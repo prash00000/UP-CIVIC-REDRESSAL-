@@ -1,6 +1,6 @@
 {
   "district_id": "gorakhpur",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-gorakhpur-dm",
@@ -8,7 +8,7 @@
       "role": "dm",
       "office_name_en": "Office of District Magistrate, Gorakhpur",
       "office_name_hi": "कार्यालय जिलाधिकारी, गोरखपुर",
-      "officer_name_en": "4.",
+      "officer_name_en": "Sh. Deepak Meena",
       "phones": [
         {
           "number": "05512-336005",
@@ -16,15 +16,23 @@
           "source_url": "https://gorakhpur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454417544",
+          "type": "office",
+          "source_url": "https://gorakhpur.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmgor@nic.in",
       "covers": [
         "gorakhpur"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Gorakhpur"
     },
     {
       "id": "up-gorakhpur-cdo",
@@ -32,14 +40,24 @@
       "role": "cdo",
       "office_name_en": "Chief Development Officer (CDO), Gorakhpur",
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), गोरखपुर",
-      "phones": [],
-      "email": "cdo.gkp-up@gov.in",
+      "phones": [
+        {
+          "number": "9454416251",
+          "type": "office",
+          "source_url": "https://gorakhpur.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "cdogor@nic.in",
       "covers": [
         "gorakhpur"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Sh. Abhishek Kumar",
+      "address_en": "Vikas Bahawan, Gorakhpur"
     },
     {
       "id": "up-gorakhpur-dpro",
@@ -52,7 +70,7 @@
       "covers": [
         "gorakhpur"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -75,7 +93,7 @@
       "covers": [
         "sadar"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -98,7 +116,7 @@
       "covers": [
         "sahjanwa"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -113,7 +131,7 @@
       "covers": [
         "chauri-chaura"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -136,7 +154,7 @@
       "covers": [
         "bansgaon"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -159,7 +177,7 @@
       "covers": [
         "khajni"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -182,7 +200,7 @@
       "covers": [
         "campierganj"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -205,7 +223,7 @@
       "covers": [
         "gola"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -220,7 +238,7 @@
       "covers": [
         "chargawan"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -234,7 +252,7 @@
       "covers": [
         "chargawan"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -249,7 +267,7 @@
       "covers": [
         "pipraich"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -263,7 +281,7 @@
       "covers": [
         "pipraich"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -278,7 +296,7 @@
       "covers": [
         "jangal-kaudia"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -292,7 +310,7 @@
       "covers": [
         "jangal-kaudia"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -307,7 +325,7 @@
       "covers": [
         "bhathat"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -321,7 +339,7 @@
       "covers": [
         "bhathat"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -336,7 +354,7 @@
       "covers": [
         "sahjanwa"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -350,7 +368,7 @@
       "covers": [
         "sahjanwa"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -365,7 +383,7 @@
       "covers": [
         "pali"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -379,7 +397,7 @@
       "covers": [
         "pali"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -394,7 +412,7 @@
       "covers": [
         "khorabar"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -408,7 +426,7 @@
       "covers": [
         "khorabar"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -423,7 +441,7 @@
       "covers": [
         "piprauli"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -437,7 +455,7 @@
       "covers": [
         "piprauli"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -452,7 +470,7 @@
       "covers": [
         "sardar-nagar"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -466,7 +484,7 @@
       "covers": [
         "sardar-nagar"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -481,7 +499,7 @@
       "covers": [
         "brahmpur"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -495,7 +513,7 @@
       "covers": [
         "brahmpur"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -510,7 +528,7 @@
       "covers": [
         "bansgaon"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -524,7 +542,7 @@
       "covers": [
         "bansgaon"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -539,7 +557,7 @@
       "covers": [
         "kauri-ram"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -553,7 +571,7 @@
       "covers": [
         "kauri-ram"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -568,7 +586,7 @@
       "covers": [
         "uruwa"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -582,7 +600,7 @@
       "covers": [
         "uruwa"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -597,7 +615,7 @@
       "covers": [
         "gola"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -611,7 +629,7 @@
       "covers": [
         "gola"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -626,7 +644,7 @@
       "covers": [
         "barhalganj"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -640,7 +658,7 @@
       "covers": [
         "barhalganj"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -655,7 +673,7 @@
       "covers": [
         "gagaha"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -669,7 +687,7 @@
       "covers": [
         "gagaha"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -684,7 +702,7 @@
       "covers": [
         "khajni"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -698,7 +716,7 @@
       "covers": [
         "khajni"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -713,7 +731,7 @@
       "covers": [
         "belghat"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -727,7 +745,7 @@
       "covers": [
         "belghat"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -742,7 +760,7 @@
       "covers": [
         "campierganj"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -756,7 +774,7 @@
       "covers": [
         "campierganj"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -770,7 +788,7 @@
       "covers": [
         "ulb-gorakhpur-main"
       ],
-      "source_url": "https://gorakhpur.nic.in",
+      "source_url": "https://gorakhpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

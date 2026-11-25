@@ -1,6 +1,6 @@
 {
   "district_id": "rampur",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-rampur-dm",
@@ -8,13 +8,13 @@
       "role": "dm",
       "office_name_en": "Office of District Magistrate, Rampur",
       "office_name_hi": "कार्यालय जिलाधिकारी, रामपुर",
-      "officer_name_en": "Shri Ajay Kumar Dwivedi (I.A.S)",
+      "officer_name_en": "Shri Ajay Kumar Dwivedi (IAS)",
       "phones": [
         {
           "number": "9454417573",
           "type": "office",
-          "source_url": "https://rampur.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://rampur.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -22,9 +22,10 @@
       "covers": [
         "rampur"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Collectorate, Rampur-244901"
     },
     {
       "id": "up-rampur-cdo",
@@ -32,14 +33,24 @@
       "role": "cdo",
       "office_name_en": "Chief Development Officer (CDO), Rampur",
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), रामपुर",
-      "phones": [],
-      "email": "cdo.rmp-up@gov.in",
+      "phones": [
+        {
+          "number": "9454465183",
+          "type": "office",
+          "source_url": "https://rampur.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "cdora-up@up.nic.in",
       "covers": [
         "rampur"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Gulab Chandra (IAS)",
+      "address_en": "Vikas Bhawan, Rampur-244901"
     },
     {
       "id": "up-rampur-dpro",
@@ -52,7 +63,7 @@
       "covers": [
         "rampur"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -67,7 +78,7 @@
       "covers": [
         "sadar"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -82,7 +93,7 @@
       "covers": [
         "bilaspur"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -97,7 +108,7 @@
       "covers": [
         "milak"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -112,7 +123,7 @@
       "covers": [
         "shahabad"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -127,7 +138,7 @@
       "covers": [
         "suar"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -142,7 +153,7 @@
       "covers": [
         "chamraua"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -156,7 +167,7 @@
       "covers": [
         "chamraua"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -171,7 +182,7 @@
       "covers": [
         "saidnagar"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -185,7 +196,7 @@
       "covers": [
         "saidnagar"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -200,7 +211,7 @@
       "covers": [
         "shahabad"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -214,7 +225,7 @@
       "covers": [
         "shahabad"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -229,7 +240,7 @@
       "covers": [
         "milak"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -243,7 +254,7 @@
       "covers": [
         "milak"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -258,7 +269,7 @@
       "covers": [
         "bilaspur"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -272,7 +283,7 @@
       "covers": [
         "bilaspur"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -287,7 +298,7 @@
       "covers": [
         "suar"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -301,7 +312,7 @@
       "covers": [
         "suar"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -315,7 +326,7 @@
       "covers": [
         "ulb-rampur-main"
       ],
-      "source_url": "https://rampur.nic.in",
+      "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

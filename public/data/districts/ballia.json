@@ -1,6 +1,6 @@
 {
   "district_id": "ballia",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-ballia-dm",
@@ -16,15 +16,23 @@
           "source_url": "https://ballia.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454417522",
+          "type": "office",
+          "source_url": "https://ballia.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmbal@nic.in",
       "covers": [
         "ballia"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "DM Camp Office, Civil Lines, Ballia, Pin 277001"
     },
     {
       "id": "up-ballia-cdo",
@@ -37,7 +45,7 @@
       "covers": [
         "ballia"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -52,7 +60,7 @@
       "covers": [
         "ballia"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -67,7 +75,7 @@
       "covers": [
         "sadar"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -82,7 +90,7 @@
       "covers": [
         "rasra"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -97,7 +105,7 @@
       "covers": [
         "bansdih"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -112,7 +120,7 @@
       "covers": [
         "bairia"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -127,7 +135,7 @@
       "covers": [
         "sikanderpur"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -142,7 +150,7 @@
       "covers": [
         "belthara-road"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -157,7 +165,7 @@
       "covers": [
         "dubhad"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -171,7 +179,7 @@
       "covers": [
         "dubhad"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -186,7 +194,7 @@
       "covers": [
         "hanumanganj"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -200,7 +208,7 @@
       "covers": [
         "hanumanganj"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -215,7 +223,7 @@
       "covers": [
         "garwar"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -229,7 +237,7 @@
       "covers": [
         "garwar"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -244,7 +252,7 @@
       "covers": [
         "bansdih"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -258,7 +266,7 @@
       "covers": [
         "bansdih"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -273,7 +281,7 @@
       "covers": [
         "beruarbari"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -287,7 +295,7 @@
       "covers": [
         "beruarbari"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -302,7 +310,7 @@
       "covers": [
         "reoti"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -316,7 +324,7 @@
       "covers": [
         "reoti"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -331,7 +339,7 @@
       "covers": [
         "bairia"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -345,7 +353,7 @@
       "covers": [
         "bairia"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -360,7 +368,7 @@
       "covers": [
         "muralichhapra"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -374,7 +382,7 @@
       "covers": [
         "muralichhapra"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -389,7 +397,7 @@
       "covers": [
         "sikanderpur"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -403,7 +411,7 @@
       "covers": [
         "sikanderpur"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -418,7 +426,7 @@
       "covers": [
         "pandah"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -432,7 +440,7 @@
       "covers": [
         "pandah"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -447,7 +455,7 @@
       "covers": [
         "maniyar"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -461,7 +469,7 @@
       "covers": [
         "maniyar"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -476,7 +484,7 @@
       "covers": [
         "nawanagar"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -490,7 +498,7 @@
       "covers": [
         "nawanagar"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -505,7 +513,7 @@
       "covers": [
         "rasra"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -519,7 +527,7 @@
       "covers": [
         "rasra"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -534,7 +542,7 @@
       "covers": [
         "chilkahar"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -548,7 +556,7 @@
       "covers": [
         "chilkahar"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -563,7 +571,7 @@
       "covers": [
         "sohnaon"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -577,7 +585,7 @@
       "covers": [
         "sohnaon"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -592,7 +600,7 @@
       "covers": [
         "nagra"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -606,7 +614,7 @@
       "covers": [
         "nagra"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -621,7 +629,7 @@
       "covers": [
         "siarchor"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -635,7 +643,7 @@
       "covers": [
         "siarchor"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -649,7 +657,7 @@
       "covers": [
         "ulb-ballia-main"
       ],
-      "source_url": "https://ballia.nic.in",
+      "source_url": "https://ballia.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

@@ -1,6 +1,6 @@
 {
   "district_id": "amroha",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-amroha-dm",
@@ -15,15 +15,24 @@
           "source_url": "https://amroha.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "05922-252993",
+          "type": "landline",
+          "source_url": "https://amroha.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
-      "email": "dmjpn@nic.in",
+      "email": "iasdistrictmagistratedmjpn@nic.in",
       "covers": [
         "amroha"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Nitin Gaur, IAS District Magistrate",
+      "address_en": "Collectorate, Joya Road Amroha, District - Amroha, Uttar Pradesh, Pin Code - 244221"
     },
     {
       "id": "up-amroha-cdo",
@@ -35,18 +44,20 @@
         {
           "number": "9454465158",
           "type": "office",
-          "source_url": "https://amroha.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://amroha.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
-      "email": "cdojpn@nic.in",
+      "email": "pdschiefdevelopmentofficercdojpn@nic.in",
       "covers": [
         "amroha"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Umesh Chandra Tiwari, PDS Chief Development Officer",
+      "address_en": "Vikas Bhawan, Joya Road Amroha, District - Amroha, Uttar Pradesh, Pin Code - 244221"
     },
     {
       "id": "up-amroha-dpro",
@@ -59,7 +70,7 @@
       "covers": [
         "amroha"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -74,7 +85,7 @@
       "covers": [
         "amroha"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -89,7 +100,7 @@
       "covers": [
         "dhanaura"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -104,7 +115,7 @@
       "covers": [
         "hasanpur"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -119,7 +130,7 @@
       "covers": [
         "naugawan-sadat"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -134,7 +145,7 @@
       "covers": [
         "amroha"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -148,7 +159,7 @@
       "covers": [
         "amroha"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -163,7 +174,7 @@
       "covers": [
         "dhanaura"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -177,7 +188,7 @@
       "covers": [
         "dhanaura"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -192,7 +203,7 @@
       "covers": [
         "gajraula"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -206,7 +217,7 @@
       "covers": [
         "gajraula"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -221,7 +232,7 @@
       "covers": [
         "hasanpur"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -235,7 +246,7 @@
       "covers": [
         "hasanpur"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -250,7 +261,7 @@
       "covers": [
         "joya"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -264,7 +275,7 @@
       "covers": [
         "joya"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -279,7 +290,7 @@
       "covers": [
         "gangeshwari"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -293,7 +304,7 @@
       "covers": [
         "gangeshwari"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -307,7 +318,7 @@
       "covers": [
         "ulb-amroha-main"
       ],
-      "source_url": "https://amroha.nic.in",
+      "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

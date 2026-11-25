@@ -1,6 +1,6 @@
 {
   "district_id": "moradabad",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-moradabad-dm",
@@ -16,15 +16,23 @@
           "source_url": "https://moradabad.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "0591-2413288",
+          "type": "landline",
+          "source_url": "https://moradabad.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmmor@nic.in",
       "covers": [
         "moradabad"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Collectorate, Moradabad"
     },
     {
       "id": "up-moradabad-cdo",
@@ -39,15 +47,24 @@
           "source_url": "https://moradabad.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "0591-2451657",
+          "type": "landline",
+          "source_url": "https://moradabad.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "cdomor@nic.in",
       "covers": [
         "moradabad"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Ms.Mrunalee Avinash Joshi",
+      "address_en": "Vikas Bhawan kanth Road, Moradabad"
     },
     {
       "id": "up-moradabad-dpro",
@@ -60,7 +77,7 @@
       "covers": [
         "moradabad"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -75,7 +92,7 @@
       "covers": [
         "moradabad"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -90,7 +107,7 @@
       "covers": [
         "kanth"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -105,7 +122,7 @@
       "covers": [
         "bilari"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -120,7 +137,7 @@
       "covers": [
         "thakurdwara"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -135,7 +152,7 @@
       "covers": [
         "moradabad-sadar"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -149,7 +166,7 @@
       "covers": [
         "moradabad-sadar"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -164,7 +181,7 @@
       "covers": [
         "munda-pandey"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -178,7 +195,7 @@
       "covers": [
         "munda-pandey"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -193,7 +210,7 @@
       "covers": [
         "bhagatpur-tanda"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -207,7 +224,7 @@
       "covers": [
         "bhagatpur-tanda"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -222,7 +239,7 @@
       "covers": [
         "kanth"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -236,7 +253,7 @@
       "covers": [
         "kanth"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -251,7 +268,7 @@
       "covers": [
         "chhajlat"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -265,7 +282,7 @@
       "covers": [
         "chhajlat"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -280,7 +297,7 @@
       "covers": [
         "dilari"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -294,7 +311,7 @@
       "covers": [
         "dilari"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -309,7 +326,7 @@
       "covers": [
         "thakurdwara"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -323,7 +340,7 @@
       "covers": [
         "thakurdwara"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -338,7 +355,7 @@
       "covers": [
         "bilari"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -352,7 +369,7 @@
       "covers": [
         "bilari"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -367,7 +384,7 @@
       "covers": [
         "kundarki"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -381,7 +398,7 @@
       "covers": [
         "kundarki"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -395,7 +412,7 @@
       "covers": [
         "ulb-moradabad-main"
       ],
-      "source_url": "https://moradabad.nic.in",
+      "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

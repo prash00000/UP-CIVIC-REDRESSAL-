@@ -1,6 +1,6 @@
 {
   "district_id": "bijnor",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-bijnor-dm",
@@ -8,23 +8,24 @@
       "role": "dm",
       "office_name_en": "Office of District Magistrate, Bijnor",
       "office_name_hi": "कार्यालय जिलाधिकारी, बिजनौर",
-      "officer_name_en": "1",
+      "officer_name_en": "Shri Jogindra Singh, IAS",
       "phones": [
         {
           "number": "9454417570",
           "type": "office",
-          "source_url": "https://bijnor.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://bijnor.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
-      "email": "dmbjn@nic.in",
+      "email": "dmbij@nic.in",
       "covers": [
         "bijnor"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Collectrate Compound Bijnor"
     },
     {
       "id": "up-bijnor-cdo",
@@ -36,18 +37,20 @@
         {
           "number": "9454416912",
           "type": "office",
-          "source_url": "https://bijnor.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://bijnor.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
-      "email": "cdo.bjn-up@gov.in",
+      "email": "cdobi-up@nic.in",
       "covers": [
         "bijnor"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Ran Vijai Singh (IAS)",
+      "address_en": "Vikas Bhawan, Bijnor"
     },
     {
       "id": "up-bijnor-dpro",
@@ -68,7 +71,7 @@
       "covers": [
         "bijnor"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -91,7 +94,7 @@
       "covers": [
         "bijnor"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -114,7 +117,7 @@
       "covers": [
         "chandpur"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -137,7 +140,7 @@
       "covers": [
         "dhampur"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -160,7 +163,7 @@
       "covers": [
         "nagina"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -183,7 +186,7 @@
       "covers": [
         "najibabad"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -198,7 +201,7 @@
       "covers": [
         "mohammedpur-deomal"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -212,7 +215,7 @@
       "covers": [
         "mohammedpur-deomal"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -235,7 +238,7 @@
       "covers": [
         "haldaur"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -249,7 +252,7 @@
       "covers": [
         "haldaur"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -272,7 +275,7 @@
       "covers": [
         "kiratpur"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -286,7 +289,7 @@
       "covers": [
         "kiratpur"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -309,7 +312,7 @@
       "covers": [
         "kotwali"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -323,7 +326,7 @@
       "covers": [
         "kotwali"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -338,7 +341,7 @@
       "covers": [
         "najibabad"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -352,7 +355,7 @@
       "covers": [
         "najibabad"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -375,7 +378,7 @@
       "covers": [
         "nehtaur"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -389,7 +392,7 @@
       "covers": [
         "nehtaur"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -412,7 +415,7 @@
       "covers": [
         "dhampur"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -426,7 +429,7 @@
       "covers": [
         "dhampur"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -449,7 +452,7 @@
       "covers": [
         "afzalgarh"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -463,7 +466,7 @@
       "covers": [
         "afzalgarh"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -478,7 +481,7 @@
       "covers": [
         "allahpur"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -492,7 +495,7 @@
       "covers": [
         "allahpur"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -515,7 +518,7 @@
       "covers": [
         "noorpur"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -529,7 +532,7 @@
       "covers": [
         "noorpur"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -544,7 +547,7 @@
       "covers": [
         "jalilpur"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -558,7 +561,7 @@
       "covers": [
         "jalilpur"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -572,7 +575,7 @@
       "covers": [
         "ulb-bijnor-main"
       ],
-      "source_url": "https://bijnor.nic.in",
+      "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

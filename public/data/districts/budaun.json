@@ -1,6 +1,6 @@
 {
   "district_id": "budaun",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-budaun-dm",
@@ -15,15 +15,24 @@
           "source_url": "https://budaun.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "0583-2266406",
+          "type": "landline",
+          "source_url": "https://budaun.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmbud@nic.in",
       "covers": [
         "budaun"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "District Magistrate",
+      "address_en": "Office of District Magistrate Budaun-243601"
     },
     {
       "id": "up-budaun-cdo",
@@ -38,15 +47,24 @@
           "source_url": "https://budaun.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "0583-2268638",
+          "type": "landline",
+          "source_url": "https://budaun.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "drda-bud@nic.in",
       "covers": [
         "budaun"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "CDO",
+      "address_en": "CDO Office Budaun"
     },
     {
       "id": "up-budaun-dpro",
@@ -59,7 +77,7 @@
       "covers": [
         "budaun"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -74,7 +92,7 @@
       "covers": [
         "sadar"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -89,7 +107,7 @@
       "covers": [
         "bilsi"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -104,7 +122,7 @@
       "covers": [
         "bisauli"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -119,7 +137,7 @@
       "covers": [
         "dataganj"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -134,7 +152,7 @@
       "covers": [
         "sahaswan"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -149,7 +167,7 @@
       "covers": [
         "salarpur"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -163,7 +181,7 @@
       "covers": [
         "salarpur"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -178,7 +196,7 @@
       "covers": [
         "ujhani"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -192,7 +210,7 @@
       "covers": [
         "ujhani"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -207,7 +225,7 @@
       "covers": [
         "qadar-chowk"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -221,7 +239,7 @@
       "covers": [
         "qadar-chowk"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -236,7 +254,7 @@
       "covers": [
         "jagat"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -250,7 +268,7 @@
       "covers": [
         "jagat"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -265,7 +283,7 @@
       "covers": [
         "bisauli"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -279,7 +297,7 @@
       "covers": [
         "bisauli"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -294,7 +312,7 @@
       "covers": [
         "asafpur"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -308,7 +326,7 @@
       "covers": [
         "asafpur"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -323,7 +341,7 @@
       "covers": [
         "wazirganj"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -337,7 +355,7 @@
       "covers": [
         "wazirganj"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -352,7 +370,7 @@
       "covers": [
         "sahaswan"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -366,7 +384,7 @@
       "covers": [
         "sahaswan"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -381,7 +399,7 @@
       "covers": [
         "ambiapur"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -395,7 +413,7 @@
       "covers": [
         "ambiapur"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -410,7 +428,7 @@
       "covers": [
         "bilsi"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -424,7 +442,7 @@
       "covers": [
         "bilsi"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -439,7 +457,7 @@
       "covers": [
         "islamnagar"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -453,7 +471,7 @@
       "covers": [
         "islamnagar"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -468,7 +486,7 @@
       "covers": [
         "dataganj"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -482,7 +500,7 @@
       "covers": [
         "dataganj"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -497,7 +515,7 @@
       "covers": [
         "samrer"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -511,7 +529,7 @@
       "covers": [
         "samrer"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -526,7 +544,7 @@
       "covers": [
         "miyanganj"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -540,7 +558,7 @@
       "covers": [
         "miyanganj"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -555,7 +573,7 @@
       "covers": [
         "usawan"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -569,7 +587,7 @@
       "covers": [
         "usawan"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -583,7 +601,7 @@
       "covers": [
         "ulb-budaun-main"
       ],
-      "source_url": "https://budaun.nic.in",
+      "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

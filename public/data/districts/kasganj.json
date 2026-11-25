@@ -1,6 +1,6 @@
 {
   "district_id": "kasganj",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-kasganj-dm",
@@ -13,8 +13,8 @@
         {
           "number": "6398781173",
           "type": "office",
-          "source_url": "https://kasganj.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://kasganj.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -22,9 +22,9 @@
       "covers": [
         "kasganj"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kasganj-cdo",
@@ -36,8 +36,8 @@
         {
           "number": "9454465520",
           "type": "office",
-          "source_url": "https://kasganj.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://kasganj.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -45,9 +45,10 @@
       "covers": [
         "kasganj"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Veerendra Singh"
     },
     {
       "id": "up-kasganj-dpro",
@@ -60,7 +61,7 @@
       "covers": [
         "kasganj"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -74,8 +75,8 @@
         {
           "number": "9454417802",
           "type": "cug",
-          "source_url": "https://kasganj.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://kasganj.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -83,9 +84,10 @@
       "covers": [
         "kasganj"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri. Surendra Narayan Tripathi"
     },
     {
       "id": "up-kasganj-sdm-patiyali",
@@ -97,8 +99,8 @@
         {
           "number": "9454417804",
           "type": "cug",
-          "source_url": "https://kasganj.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://kasganj.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -106,9 +108,10 @@
       "covers": [
         "patiyali"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri. Atish Kumar Singh"
     },
     {
       "id": "up-kasganj-sdm-sahawar",
@@ -120,8 +123,8 @@
         {
           "number": "9454417803",
           "type": "cug",
-          "source_url": "https://kasganj.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://kasganj.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -129,9 +132,10 @@
       "covers": [
         "sahawar"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Shushant Sanwarey"
     },
     {
       "id": "up-kasganj-bdo-kasganj",
@@ -144,7 +148,7 @@
       "covers": [
         "kasganj"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -158,7 +162,7 @@
       "covers": [
         "kasganj"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -173,7 +177,7 @@
       "covers": [
         "soron"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -187,7 +191,7 @@
       "covers": [
         "soron"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -202,7 +206,7 @@
       "covers": [
         "sahaver"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -216,7 +220,7 @@
       "covers": [
         "sahaver"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -231,7 +235,7 @@
       "covers": [
         "amanpur"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -245,7 +249,7 @@
       "covers": [
         "amanpur"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -260,7 +264,7 @@
       "covers": [
         "patiyali"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -274,7 +278,7 @@
       "covers": [
         "patiyali"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -289,7 +293,7 @@
       "covers": [
         "ganjdundwara"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -303,7 +307,7 @@
       "covers": [
         "ganjdundwara"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -318,7 +322,7 @@
       "covers": [
         "sidhpura"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -332,7 +336,7 @@
       "covers": [
         "sidhpura"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -346,7 +350,7 @@
       "covers": [
         "ulb-kasganj-main"
       ],
-      "source_url": "https://kasganj.nic.in",
+      "source_url": "https://kasganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

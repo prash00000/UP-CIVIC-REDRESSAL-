@@ -1,6 +1,6 @@
 {
   "district_id": "barabanki",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-barabanki-dm",
@@ -17,13 +17,15 @@
           "status": "verified"
         }
       ],
-      "email": "dmbab@nic.in",
+      "email": "ishanpratapsinghdistrictmagistratedmbab@nic.in",
       "covers": [
         "barabanki"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "ISHAN PRATAP SINGH District Magistrate",
+      "address_en": "Collectorate, Barabanki"
     },
     {
       "id": "up-barabanki-cdo",
@@ -38,15 +40,24 @@
           "source_url": "https://barabanki.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "0524-8223103",
+          "type": "landline",
+          "source_url": "https://barabanki.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
-      "email": "drda-bar@nic.in",
+      "email": "pankajvermachiefdevelopmentofficerdrda-bar@nic.in",
       "covers": [
         "barabanki"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "PANKAJ VERMA Chief Development Officer",
+      "address_en": "Vikas Bhawan, Barabanki"
     },
     {
       "id": "up-barabanki-dpro",
@@ -59,7 +70,7 @@
       "covers": [
         "barabanki"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -74,7 +85,7 @@
       "covers": [
         "nawabganj"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -89,7 +100,7 @@
       "covers": [
         "fatehpur"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -104,7 +115,7 @@
       "covers": [
         "ramsanehighat"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -119,7 +130,7 @@
       "covers": [
         "haidergarh"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -134,7 +145,7 @@
       "covers": [
         "ramnagar"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -149,7 +160,7 @@
       "covers": [
         "sirauli-ghauspur"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -164,7 +175,7 @@
       "covers": [
         "banki"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -178,7 +189,7 @@
       "covers": [
         "banki"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -193,7 +204,7 @@
       "covers": [
         "masauli"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -207,7 +218,7 @@
       "covers": [
         "masauli"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -222,7 +233,7 @@
       "covers": [
         "dewan"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -236,7 +247,7 @@
       "covers": [
         "dewan"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -251,7 +262,7 @@
       "covers": [
         "fatehpur"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -265,7 +276,7 @@
       "covers": [
         "fatehpur"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -280,7 +291,7 @@
       "covers": [
         "nindoora"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -294,7 +305,7 @@
       "covers": [
         "nindoora"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -309,7 +320,7 @@
       "covers": [
         "ramnagar"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -323,7 +334,7 @@
       "covers": [
         "ramnagar"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -338,7 +349,7 @@
       "covers": [
         "sirauli-ghauspur"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -352,7 +363,7 @@
       "covers": [
         "sirauli-ghauspur"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -367,7 +378,7 @@
       "covers": [
         "dariyabad"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -381,7 +392,7 @@
       "covers": [
         "dariyabad"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -396,7 +407,7 @@
       "covers": [
         "suratganj"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -410,7 +421,7 @@
       "covers": [
         "suratganj"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -425,7 +436,7 @@
       "covers": [
         "rudauli"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -439,7 +450,7 @@
       "covers": [
         "rudauli"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -454,7 +465,7 @@
       "covers": [
         "bani-kodar"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -468,7 +479,7 @@
       "covers": [
         "bani-kodar"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -483,7 +494,7 @@
       "covers": [
         "haidergarh"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -497,7 +508,7 @@
       "covers": [
         "haidergarh"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -512,7 +523,7 @@
       "covers": [
         "siddhaur"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -526,7 +537,7 @@
       "covers": [
         "siddhaur"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -541,7 +552,7 @@
       "covers": [
         "trivediganj"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -555,7 +566,7 @@
       "covers": [
         "trivediganj"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -570,7 +581,7 @@
       "covers": [
         "harakh"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -584,7 +595,7 @@
       "covers": [
         "harakh"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -598,7 +609,7 @@
       "covers": [
         "ulb-barabanki-main"
       ],
-      "source_url": "https://barabanki.nic.in",
+      "source_url": "https://barabanki.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

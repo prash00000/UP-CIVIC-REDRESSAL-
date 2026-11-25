@@ -1,6 +1,6 @@
 {
   "district_id": "jalaun",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-jalaun-dm",
@@ -8,7 +8,7 @@
       "role": "dm",
       "office_name_en": "Office of District Magistrate, Jalaun",
       "office_name_hi": "कार्यालय जिलाधिकारी, जालौन",
-      "officer_name_en": "2",
+      "officer_name_en": "Mr. Sameer",
       "phones": [
         {
           "number": "9454417548",
@@ -16,15 +16,23 @@
           "source_url": "https://jalaun.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "05162-252201",
+          "type": "landline",
+          "source_url": "https://jalaun.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
-      "email": "dmjln@nic.in",
+      "email": "dmjal@nic.in",
       "covers": [
         "jalaun"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "District Magistrate Office Jalaun at Orai"
     },
     {
       "id": "up-jalaun-cdo",
@@ -36,8 +44,8 @@
         {
           "number": "9454417179",
           "type": "office",
-          "source_url": "https://jalaun.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://jalaun.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -45,9 +53,11 @@
       "covers": [
         "jalaun"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Mr. Kumudendra Kalakar Singh",
+      "address_en": "Vikas Bhawan Orai"
     },
     {
       "id": "up-jalaun-dpro",
@@ -60,7 +70,7 @@
       "covers": [
         "jalaun"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -83,7 +93,7 @@
       "covers": [
         "orai"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -106,7 +116,7 @@
       "covers": [
         "jalaun"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -129,7 +139,7 @@
       "covers": [
         "konch"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -152,7 +162,7 @@
       "covers": [
         "kalpi"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -175,7 +185,7 @@
       "covers": [
         "madhogarh"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -190,7 +200,7 @@
       "covers": [
         "dakore"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -204,7 +214,7 @@
       "covers": [
         "dakore"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -219,7 +229,7 @@
       "covers": [
         "jalaun"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -233,7 +243,7 @@
       "covers": [
         "jalaun"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -248,7 +258,7 @@
       "covers": [
         "konch"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -262,7 +272,7 @@
       "covers": [
         "konch"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -277,7 +287,7 @@
       "covers": [
         "nadi-gaon"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -291,7 +301,7 @@
       "covers": [
         "nadi-gaon"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -306,7 +316,7 @@
       "covers": [
         "kalpi"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -320,7 +330,7 @@
       "covers": [
         "kalpi"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -335,7 +345,7 @@
       "covers": [
         "maheva"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -349,7 +359,7 @@
       "covers": [
         "maheva"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -364,7 +374,7 @@
       "covers": [
         "madhogarh"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -378,7 +388,7 @@
       "covers": [
         "madhogarh"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -393,7 +403,7 @@
       "covers": [
         "rampura"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -407,7 +417,7 @@
       "covers": [
         "rampura"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -422,7 +432,7 @@
       "covers": [
         "kadaura"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -436,7 +446,7 @@
       "covers": [
         "kadaura"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -450,7 +460,7 @@
       "covers": [
         "ulb-jalaun-main"
       ],
-      "source_url": "https://jalaun.nic.in",
+      "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

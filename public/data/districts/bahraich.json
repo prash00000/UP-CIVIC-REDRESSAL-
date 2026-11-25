@@ -1,6 +1,6 @@
 {
   "district_id": "bahraich",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-bahraich-dm",
@@ -15,15 +15,24 @@
           "source_url": "https://bahraich.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454417535",
+          "type": "office",
+          "source_url": "https://bahraich.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmbeh@nic.in",
       "covers": [
         "bahraich"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Rajesh Kumar Pandey, IAS",
+      "address_en": "Collectorate ,Bahraich"
     },
     {
       "id": "up-bahraich-cdo",
@@ -36,7 +45,7 @@
       "covers": [
         "bahraich"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -51,7 +60,7 @@
       "covers": [
         "bahraich"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -66,7 +75,7 @@
       "covers": [
         "sadar"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -81,7 +90,7 @@
       "covers": [
         "nanpara"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -96,7 +105,7 @@
       "covers": [
         "kaisarganj"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -111,7 +120,7 @@
       "covers": [
         "mahasi"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -126,7 +135,7 @@
       "covers": [
         "payagpur"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -141,7 +150,7 @@
       "covers": [
         "mihinpurwa"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -156,7 +165,7 @@
       "covers": [
         "chittaura"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -170,7 +179,7 @@
       "covers": [
         "chittaura"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -185,7 +194,7 @@
       "covers": [
         "visheshwarganj"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -199,7 +208,7 @@
       "covers": [
         "visheshwarganj"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -214,7 +223,7 @@
       "covers": [
         "payagpur"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -228,7 +237,7 @@
       "covers": [
         "payagpur"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -243,7 +252,7 @@
       "covers": [
         "huzoorpur"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -257,7 +266,7 @@
       "covers": [
         "huzoorpur"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -272,7 +281,7 @@
       "covers": [
         "kaisarganj"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -286,7 +295,7 @@
       "covers": [
         "kaisarganj"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -301,7 +310,7 @@
       "covers": [
         "jarwal"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -315,7 +324,7 @@
       "covers": [
         "jarwal"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -330,7 +339,7 @@
       "covers": [
         "fakharpur"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -344,7 +353,7 @@
       "covers": [
         "fakharpur"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -359,7 +368,7 @@
       "covers": [
         "tajwapur"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -373,7 +382,7 @@
       "covers": [
         "tajwapur"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -388,7 +397,7 @@
       "covers": [
         "mahasi"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -402,7 +411,7 @@
       "covers": [
         "mahasi"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -417,7 +426,7 @@
       "covers": [
         "shivpur"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -431,7 +440,7 @@
       "covers": [
         "shivpur"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -446,7 +455,7 @@
       "covers": [
         "nanpara"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -460,7 +469,7 @@
       "covers": [
         "nanpara"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -475,7 +484,7 @@
       "covers": [
         "bawabganj"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -489,7 +498,7 @@
       "covers": [
         "bawabganj"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -504,7 +513,7 @@
       "covers": [
         "mihinpurwa"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -518,7 +527,7 @@
       "covers": [
         "mihinpurwa"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -533,7 +542,7 @@
       "covers": [
         "risia"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -547,7 +556,7 @@
       "covers": [
         "risia"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -561,7 +570,7 @@
       "covers": [
         "ulb-bahraich-main"
       ],
-      "source_url": "https://bahraich.nic.in",
+      "source_url": "https://bahraich.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

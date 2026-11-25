@@ -1,6 +1,6 @@
 {
   "district_id": "maharajganj",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-maharajganj-dm",
@@ -8,7 +8,7 @@
       "role": "dm",
       "office_name_en": "Office of District Magistrate, Maharajganj",
       "office_name_hi": "कार्यालय जिलाधिकारी, महराजगंज",
-      "officer_name_en": "ADDITIONAL DISTRICT MAGISTRATE (J)",
+      "officer_name_en": "Mr. Shivasharanappa G N",
       "phones": [
         {
           "number": "9454416312",
@@ -16,15 +16,23 @@
           "source_url": "https://maharajganj.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454417546",
+          "type": "office",
+          "source_url": "https://maharajganj.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
-      "email": "dmmrg@nic.in",
+      "email": "dmmah@nic.in",
       "covers": [
         "maharajganj"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Collectorate Campus, Maharajganj"
     },
     {
       "id": "up-maharajganj-cdo",
@@ -39,15 +47,24 @@
           "source_url": "https://maharajganj.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454464920",
+          "type": "office",
+          "source_url": "https://maharajganj.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
-      "email": "cdo.mrg-up@gov.in",
+      "email": "cdo.mg-up@gov.in",
       "covers": [
         "maharajganj"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Mr. Mahendra Kumar Singh",
+      "address_en": "Vikas Bhawan Maharajganj"
     },
     {
       "id": "up-maharajganj-dpro",
@@ -68,7 +85,7 @@
       "covers": [
         "maharajganj"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -91,7 +108,7 @@
       "covers": [
         "sadar"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -114,7 +131,7 @@
       "covers": [
         "nautanwa"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -137,7 +154,7 @@
       "covers": [
         "nichlaul"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -160,7 +177,7 @@
       "covers": [
         "pharenda"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -175,7 +192,7 @@
       "covers": [
         "maharajganj"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -189,7 +206,7 @@
       "covers": [
         "maharajganj"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -204,7 +221,7 @@
       "covers": [
         "mithaura"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -218,7 +235,7 @@
       "covers": [
         "mithaura"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -233,7 +250,7 @@
       "covers": [
         "siswa"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -247,7 +264,7 @@
       "covers": [
         "siswa"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -262,7 +279,7 @@
       "covers": [
         "nichlaul"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -276,7 +293,7 @@
       "covers": [
         "nichlaul"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -291,7 +308,7 @@
       "covers": [
         "nautanwa"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -305,7 +322,7 @@
       "covers": [
         "nautanwa"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -320,7 +337,7 @@
       "covers": [
         "ratanpur"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -334,7 +351,7 @@
       "covers": [
         "ratanpur"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -349,7 +366,7 @@
       "covers": [
         "laxmipur"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -363,7 +380,7 @@
       "covers": [
         "laxmipur"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -378,7 +395,7 @@
       "covers": [
         "brijmanganj"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -392,7 +409,7 @@
       "covers": [
         "brijmanganj"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -407,7 +424,7 @@
       "covers": [
         "pharenda"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -421,7 +438,7 @@
       "covers": [
         "pharenda"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -436,7 +453,7 @@
       "covers": [
         "dhani"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -450,7 +467,7 @@
       "covers": [
         "dhani"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -465,7 +482,7 @@
       "covers": [
         "paniara"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -479,7 +496,7 @@
       "covers": [
         "paniara"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -494,7 +511,7 @@
       "covers": [
         "partawal"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -508,7 +525,7 @@
       "covers": [
         "partawal"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -522,7 +539,7 @@
       "covers": [
         "ulb-maharajganj-main"
       ],
-      "source_url": "https://maharajganj.nic.in",
+      "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

@@ -1,6 +1,6 @@
 {
   "district_id": "jhansi",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-jhansi-dm",
@@ -13,8 +13,8 @@
         {
           "number": "0510-2470556",
           "type": "office",
-          "source_url": "https://jhansi.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://jhansi.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -22,9 +22,10 @@
       "covers": [
         "jhansi"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Collectorate Jhansi"
     },
     {
       "id": "up-jhansi-cdo",
@@ -36,8 +37,8 @@
         {
           "number": "0510-2440335",
           "type": "office",
-          "source_url": "https://jhansi.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://jhansi.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -45,9 +46,11 @@
       "covers": [
         "jhansi"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Rameshwar Sudhakar Sabbanwad",
+      "address_en": "vikas bhawan"
     },
     {
       "id": "up-jhansi-dpro",
@@ -60,7 +63,7 @@
       "covers": [
         "jhansi"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -75,7 +78,7 @@
       "covers": [
         "jhansi"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -90,7 +93,7 @@
       "covers": [
         "mauranipur"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -105,7 +108,7 @@
       "covers": [
         "garautha"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -120,7 +123,7 @@
       "covers": [
         "moth"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -135,7 +138,7 @@
       "covers": [
         "tahrauli"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -150,7 +153,7 @@
       "covers": [
         "badagaon"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -164,7 +167,7 @@
       "covers": [
         "badagaon"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -179,7 +182,7 @@
       "covers": [
         "babina"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -193,7 +196,7 @@
       "covers": [
         "babina"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -208,7 +211,7 @@
       "covers": [
         "mauranipur"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -222,7 +225,7 @@
       "covers": [
         "mauranipur"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -237,7 +240,7 @@
       "covers": [
         "bangra"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -251,7 +254,7 @@
       "covers": [
         "bangra"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -266,7 +269,7 @@
       "covers": [
         "gursarai"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -280,7 +283,7 @@
       "covers": [
         "gursarai"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -295,7 +298,7 @@
       "covers": [
         "bamaur"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -309,7 +312,7 @@
       "covers": [
         "bamaur"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -324,7 +327,7 @@
       "covers": [
         "moth"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -338,7 +341,7 @@
       "covers": [
         "moth"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -353,7 +356,7 @@
       "covers": [
         "chirgaon"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -367,7 +370,7 @@
       "covers": [
         "chirgaon"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -381,7 +384,7 @@
       "covers": [
         "ulb-jhansi-main"
       ],
-      "source_url": "https://jhansi.nic.in",
+      "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

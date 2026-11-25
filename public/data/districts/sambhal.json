@@ -1,6 +1,6 @@
 {
   "district_id": "sambhal",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-sambhal-dm",
@@ -13,8 +13,8 @@
         {
           "number": "05921-243443",
           "type": "office",
-          "source_url": "https://sambhal.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://sambhal.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -22,9 +22,10 @@
       "covers": [
         "sambhal"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Collectorate Bahjoi Sambhal"
     },
     {
       "id": "up-sambhal-cdo",
@@ -32,14 +33,24 @@
       "role": "cdo",
       "office_name_en": "Chief Development Officer (CDO), Sambhal",
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), सम्भल",
-      "phones": [],
-      "email": "cdo.sbh-up@gov.in",
+      "phones": [
+        {
+          "number": "7275554571",
+          "type": "office",
+          "source_url": "https://sambhal.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "cdo-sam@up.gov.in",
       "covers": [
         "sambhal"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Mr. Gorakhnath Bhatt",
+      "address_en": "Collectorate"
     },
     {
       "id": "up-sambhal-dpro",
@@ -52,7 +63,7 @@
       "covers": [
         "sambhal"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -66,8 +77,8 @@
         {
           "number": "9454416871",
           "type": "cug",
-          "source_url": "https://sambhal.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://sambhal.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -75,9 +86,11 @@
       "covers": [
         "sambhal"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Mr. Vikas Chandra",
+      "address_en": "Tehsil Sambhal"
     },
     {
       "id": "up-sambhal-sdm-chandausi",
@@ -89,8 +102,8 @@
         {
           "number": "9454416870",
           "type": "cug",
-          "source_url": "https://sambhal.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://sambhal.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -98,9 +111,11 @@
       "covers": [
         "chandausi"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Mr. Ashutosh Tiwari",
+      "address_en": "Tehsil Chandausi"
     },
     {
       "id": "up-sambhal-sdm-gunnaur",
@@ -112,8 +127,8 @@
         {
           "number": "9454415834",
           "type": "cug",
-          "source_url": "https://sambhal.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://sambhal.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -121,9 +136,11 @@
       "covers": [
         "gunnaur"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Mr. Avadesh Kumar",
+      "address_en": "Tehsil Gunnaur"
     },
     {
       "id": "up-sambhal-bdo-sambhal",
@@ -136,7 +153,7 @@
       "covers": [
         "sambhal"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -150,7 +167,7 @@
       "covers": [
         "sambhal"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -165,7 +182,7 @@
       "covers": [
         "asmoli"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -179,7 +196,7 @@
       "covers": [
         "asmoli"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -194,7 +211,7 @@
       "covers": [
         "panwasa"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -208,7 +225,7 @@
       "covers": [
         "panwasa"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -223,7 +240,7 @@
       "covers": [
         "bahjoi"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -237,7 +254,7 @@
       "covers": [
         "bahjoi"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -252,7 +269,7 @@
       "covers": [
         "baniakhera"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -266,7 +283,7 @@
       "covers": [
         "baniakhera"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -281,7 +298,7 @@
       "covers": [
         "gunnaur"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -295,7 +312,7 @@
       "covers": [
         "gunnaur"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -310,7 +327,7 @@
       "covers": [
         "rajpura"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -324,7 +341,7 @@
       "covers": [
         "rajpura"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -339,7 +356,7 @@
       "covers": [
         "janawai"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -353,7 +370,7 @@
       "covers": [
         "janawai"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -367,7 +384,7 @@
       "covers": [
         "ulb-sambhal-main"
       ],
-      "source_url": "https://sambhal.nic.in",
+      "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

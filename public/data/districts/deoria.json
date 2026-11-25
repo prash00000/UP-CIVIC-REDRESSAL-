@@ -1,6 +1,6 @@
 {
   "district_id": "deoria",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-deoria-dm",
@@ -22,7 +22,7 @@
       "covers": [
         "deoria"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -39,15 +39,24 @@
           "source_url": "https://deoria.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454464859",
+          "type": "office",
+          "source_url": "https://deoria.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "cdodeoria@gmail.com",
       "covers": [
         "deoria"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Rajesh Kumar Singh",
+      "address_en": "Vikas Bhawan Deoria"
     },
     {
       "id": "up-deoria-dpro",
@@ -60,7 +69,7 @@
       "covers": [
         "deoria"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -70,14 +79,24 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Deoria",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Deoria",
-      "phones": [],
-      "email": "sdm.deoria.deo-up@gov.in",
+      "phones": [
+        {
+          "number": "9454416256",
+          "type": "office",
+          "source_url": "https://deoria.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "sdmsadar.de-up@gov.in",
       "covers": [
         "deoria"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Animesh Verma",
+      "address_en": "Collectorate Campus Deoria"
     },
     {
       "id": "up-deoria-sdm-salempur",
@@ -90,7 +109,7 @@
       "covers": [
         "salempur"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -105,7 +124,7 @@
       "covers": [
         "bhatpar-rani"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -120,7 +139,7 @@
       "covers": [
         "barhaj"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -135,7 +154,7 @@
       "covers": [
         "rudrapur"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -150,7 +169,7 @@
       "covers": [
         "deoria-sadar"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -164,7 +183,7 @@
       "covers": [
         "deoria-sadar"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -179,7 +198,7 @@
       "covers": [
         "baitalpur"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -193,7 +212,7 @@
       "covers": [
         "baitalpur"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -208,7 +227,7 @@
       "covers": [
         "gauri-bazar"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -222,7 +241,7 @@
       "covers": [
         "gauri-bazar"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -237,7 +256,7 @@
       "covers": [
         "rampur-karkhana"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -251,7 +270,7 @@
       "covers": [
         "rampur-karkhana"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -266,7 +285,7 @@
       "covers": [
         "desahi-deoria"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -280,7 +299,7 @@
       "covers": [
         "desahi-deoria"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -295,7 +314,7 @@
       "covers": [
         "tarkulwa"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -309,7 +328,7 @@
       "covers": [
         "tarkulwa"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -324,7 +343,7 @@
       "covers": [
         "pathardewa"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -338,7 +357,7 @@
       "covers": [
         "pathardewa"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -353,7 +372,7 @@
       "covers": [
         "rudrapur"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -367,7 +386,7 @@
       "covers": [
         "rudrapur"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -382,7 +401,7 @@
       "covers": [
         "bhaluani"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -396,7 +415,7 @@
       "covers": [
         "bhaluani"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -411,7 +430,7 @@
       "covers": [
         "barhaj"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -425,7 +444,7 @@
       "covers": [
         "barhaj"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -440,7 +459,7 @@
       "covers": [
         "salempur"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -454,7 +473,7 @@
       "covers": [
         "salempur"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -469,7 +488,7 @@
       "covers": [
         "bhagalpur"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -483,7 +502,7 @@
       "covers": [
         "bhagalpur"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -498,7 +517,7 @@
       "covers": [
         "lar"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -512,7 +531,7 @@
       "covers": [
         "lar"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -527,7 +546,7 @@
       "covers": [
         "bhatpar-rani"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -541,7 +560,7 @@
       "covers": [
         "bhatpar-rani"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -556,7 +575,7 @@
       "covers": [
         "bankata"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -570,7 +589,7 @@
       "covers": [
         "bankata"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -585,7 +604,7 @@
       "covers": [
         "bhatni"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -599,7 +618,7 @@
       "covers": [
         "bhatni"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -613,7 +632,7 @@
       "covers": [
         "ulb-deoria-main"
       ],
-      "source_url": "https://deoria.nic.in",
+      "source_url": "https://deoria.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

@@ -1,6 +1,6 @@
 {
   "district_id": "chitrakoot",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-chitrakoot-dm",
@@ -13,8 +13,15 @@
         {
           "number": "05198-235118",
           "type": "office",
-          "source_url": "https://chitrakoot.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://chitrakoot.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454417532",
+          "type": "office",
+          "source_url": "https://chitrakoot.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -22,9 +29,10 @@
       "covers": [
         "chitrakoot"
       ],
-      "source_url": "https://chitrakoot.nic.in",
+      "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "New Collectorate, Karwi, Chitrakoot"
     },
     {
       "id": "up-chitrakoot-cdo",
@@ -36,8 +44,15 @@
         {
           "number": "05198-236618",
           "type": "office",
-          "source_url": "https://chitrakoot.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://chitrakoot.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454464772",
+          "type": "office",
+          "source_url": "https://chitrakoot.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -45,9 +60,11 @@
       "covers": [
         "chitrakoot"
       ],
-      "source_url": "https://chitrakoot.nic.in",
+      "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Devi Prasad Pal (I.A.S)",
+      "address_en": "New Vikash Bhawan, Sonepur, Karwi, Chitrakoot"
     },
     {
       "id": "up-chitrakoot-dpro",
@@ -60,7 +77,7 @@
       "covers": [
         "chitrakoot"
       ],
-      "source_url": "https://chitrakoot.nic.in",
+      "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -74,8 +91,8 @@
         {
           "number": "9454415959",
           "type": "cug",
-          "source_url": "https://chitrakoot.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://chitrakoot.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -83,9 +100,11 @@
       "covers": [
         "karwi"
       ],
-      "source_url": "https://chitrakoot.nic.in",
+      "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Ajay Kumar (P.C.S)",
+      "address_en": "SDM Office, Tehsil Karwi, Chitrakoot"
     },
     {
       "id": "up-chitrakoot-sdm-mau",
@@ -97,8 +116,8 @@
         {
           "number": "9454415960",
           "type": "cug",
-          "source_url": "https://chitrakoot.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://chitrakoot.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -106,9 +125,11 @@
       "covers": [
         "mau"
       ],
-      "source_url": "https://chitrakoot.nic.in",
+      "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Ram Rishi Raman (P.C.S)",
+      "address_en": "SDM Office, Tehsil-Mau, Chitrakoot"
     },
     {
       "id": "up-chitrakoot-sdm-manikpur",
@@ -120,8 +141,8 @@
         {
           "number": "9454415961",
           "type": "cug",
-          "source_url": "https://chitrakoot.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://chitrakoot.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -129,9 +150,11 @@
       "covers": [
         "manikpur"
       ],
-      "source_url": "https://chitrakoot.nic.in",
+      "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Vipin Kumar Diwedi (P.C.S)",
+      "address_en": "SDM Manikpur, Tehsil-Manikpur, Chitrakoot"
     },
     {
       "id": "up-chitrakoot-sdm-rajapur",
@@ -143,8 +166,8 @@
         {
           "number": "9454415962",
           "type": "cug",
-          "source_url": "https://chitrakoot.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://chitrakoot.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -152,9 +175,11 @@
       "covers": [
         "rajapur"
       ],
-      "source_url": "https://chitrakoot.nic.in",
+      "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Pooja Gupta (P.C.S)",
+      "address_en": "SDM Rajapur, Tehsil-Rajapur, Chitrakoot"
     },
     {
       "id": "up-chitrakoot-bdo-karwi",
@@ -167,7 +192,7 @@
       "covers": [
         "karwi"
       ],
-      "source_url": "https://chitrakoot.nic.in",
+      "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -181,7 +206,7 @@
       "covers": [
         "karwi"
       ],
-      "source_url": "https://chitrakoot.nic.in",
+      "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -196,7 +221,7 @@
       "covers": [
         "pahari"
       ],
-      "source_url": "https://chitrakoot.nic.in",
+      "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -210,7 +235,7 @@
       "covers": [
         "pahari"
       ],
-      "source_url": "https://chitrakoot.nic.in",
+      "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -225,7 +250,7 @@
       "covers": [
         "manikpur"
       ],
-      "source_url": "https://chitrakoot.nic.in",
+      "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -239,7 +264,7 @@
       "covers": [
         "manikpur"
       ],
-      "source_url": "https://chitrakoot.nic.in",
+      "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -254,7 +279,7 @@
       "covers": [
         "mau"
       ],
-      "source_url": "https://chitrakoot.nic.in",
+      "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -268,7 +293,7 @@
       "covers": [
         "mau"
       ],
-      "source_url": "https://chitrakoot.nic.in",
+      "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -283,7 +308,7 @@
       "covers": [
         "ramnagar"
       ],
-      "source_url": "https://chitrakoot.nic.in",
+      "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -297,7 +322,7 @@
       "covers": [
         "ramnagar"
       ],
-      "source_url": "https://chitrakoot.nic.in",
+      "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -311,7 +336,7 @@
       "covers": [
         "ulb-chitrakoot-main"
       ],
-      "source_url": "https://chitrakoot.nic.in",
+      "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

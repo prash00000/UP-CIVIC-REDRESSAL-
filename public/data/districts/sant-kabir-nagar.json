@@ -1,6 +1,6 @@
 {
   "district_id": "sant-kabir-nagar",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-sant-kabir-nagar-dm",
@@ -8,14 +8,24 @@
       "role": "dm",
       "office_name_en": "Office of District Magistrate, Sant Kabir Nagar",
       "office_name_hi": "कार्यालय जिलाधिकारी, संत कबीर नगर",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417529",
+          "type": "office",
+          "source_url": "https://sknagar.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "dmskn@nic.in",
       "covers": [
         "sant-kabir-nagar"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "District Magistrate",
+      "address_en": "Collectorate Mehadawal Road Sant Kabir Nagar 272175"
     },
     {
       "id": "up-sant-kabir-nagar-cdo",
@@ -23,14 +33,24 @@
       "role": "cdo",
       "office_name_en": "Chief Development Officer (CDO), Sant Kabir Nagar",
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), संत कबीर नगर",
-      "phones": [],
-      "email": "cdo.skn-up@gov.in",
+      "phones": [
+        {
+          "number": "9454464731",
+          "type": "office",
+          "source_url": "https://sknagar.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "drda-skn@nic.in",
       "covers": [
         "sant-kabir-nagar"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Chief Development Officer",
+      "address_en": "vikas bhawan sant kabir nagar 272175"
     },
     {
       "id": "up-sant-kabir-nagar-dpro",
@@ -43,7 +63,7 @@
       "covers": [
         "sant-kabir-nagar"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -53,14 +73,24 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Khalilabad",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Khalilabad",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454415925",
+          "type": "office",
+          "source_url": "https://sknagar.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.khalilabad.skn-up@gov.in",
       "covers": [
         "khalilabad"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Khalilabad",
+      "address_en": "TEHSIL KHALILABAD"
     },
     {
       "id": "up-sant-kabir-nagar-sdm-mehdawal",
@@ -68,14 +98,24 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mehdawal",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mehdawal",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454415926",
+          "type": "office",
+          "source_url": "https://sknagar.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.mehdawal.skn-up@gov.in",
       "covers": [
         "mehdawal"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Mehdawal",
+      "address_en": "Tehsil Mehdawal"
     },
     {
       "id": "up-sant-kabir-nagar-sdm-dhanghata",
@@ -83,14 +123,24 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Dhanghata",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Dhanghata",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454415927",
+          "type": "office",
+          "source_url": "https://sknagar.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.dhanghata.skn-up@gov.in",
       "covers": [
         "dhanghata"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Dhanghata",
+      "address_en": "Tehsil Dhanghata"
     },
     {
       "id": "up-sant-kabir-nagar-bdo-khalilabad",
@@ -103,7 +153,7 @@
       "covers": [
         "khalilabad"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -117,7 +167,7 @@
       "covers": [
         "khalilabad"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -132,7 +182,7 @@
       "covers": [
         "baghnagar"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -146,7 +196,7 @@
       "covers": [
         "baghnagar"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -161,7 +211,7 @@
       "covers": [
         "semariyawan"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -175,7 +225,7 @@
       "covers": [
         "semariyawan"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -190,7 +240,7 @@
       "covers": [
         "mehdawal"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -204,7 +254,7 @@
       "covers": [
         "mehdawal"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -219,7 +269,7 @@
       "covers": [
         "belhar-kala"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -233,7 +283,7 @@
       "covers": [
         "belhar-kala"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -248,7 +298,7 @@
       "covers": [
         "satha"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -262,7 +312,7 @@
       "covers": [
         "satha"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -277,7 +327,7 @@
       "covers": [
         "dhanghata"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -291,7 +341,7 @@
       "covers": [
         "dhanghata"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -306,7 +356,7 @@
       "covers": [
         "hainsar-bazar"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -320,7 +370,7 @@
       "covers": [
         "hainsar-bazar"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -335,7 +385,7 @@
       "covers": [
         "pauli"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -349,7 +399,7 @@
       "covers": [
         "pauli"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -363,7 +413,7 @@
       "covers": [
         "ulb-sant-kabir-nagar-main"
       ],
-      "source_url": "https://sant-kabir-nagar.nic.in",
+      "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

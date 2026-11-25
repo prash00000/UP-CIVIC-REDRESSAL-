@@ -1,6 +1,6 @@
 {
   "district_id": "mau",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-mau-dm",
@@ -12,8 +12,8 @@
         {
           "number": "9454417523",
           "type": "office",
-          "source_url": "https://mau.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://mau.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -21,9 +21,11 @@
       "covers": [
         "mau"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Anand Vardhan IAS",
+      "address_en": "DM Office Mau Land line : 0547-2220233 fax : 0547-2223645"
     },
     {
       "id": "up-mau-cdo",
@@ -35,18 +37,20 @@
         {
           "number": "9454417218",
           "type": "office",
-          "source_url": "https://mau.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://mau.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
-      "email": "cdo.mau-up@gov.in",
+      "email": "cdo-mau@up.nic.in",
       "covers": [
         "mau"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Dhruv Khadia IAS",
+      "address_en": "Vikas Bhavan Mau Land Line : 0547-2221861"
     },
     {
       "id": "up-mau-dpro",
@@ -59,7 +63,7 @@
       "covers": [
         "mau"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -74,7 +78,7 @@
       "covers": [
         "mau-sadar"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -97,7 +101,7 @@
       "covers": [
         "madhuban"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -120,7 +124,7 @@
       "covers": [
         "ghosi"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -143,7 +147,7 @@
       "covers": [
         "muhammadabad-gohna"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -158,7 +162,7 @@
       "covers": [
         "pardaha"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -172,7 +176,7 @@
       "covers": [
         "pardaha"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -187,7 +191,7 @@
       "covers": [
         "ratanpura"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -201,7 +205,7 @@
       "covers": [
         "ratanpura"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -216,7 +220,7 @@
       "covers": [
         "ranipur"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -230,7 +234,7 @@
       "covers": [
         "ranipur"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -245,7 +249,7 @@
       "covers": [
         "kopaganj"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -259,7 +263,7 @@
       "covers": [
         "kopaganj"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -274,7 +278,7 @@
       "covers": [
         "ghosi"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -288,7 +292,7 @@
       "covers": [
         "ghosi"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -303,7 +307,7 @@
       "covers": [
         "badraon"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -317,7 +321,7 @@
       "covers": [
         "badraon"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -332,7 +336,7 @@
       "covers": [
         "fatehpur-madaun"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -346,7 +350,7 @@
       "covers": [
         "fatehpur-madaun"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -361,7 +365,7 @@
       "covers": [
         "doharighat"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -375,7 +379,7 @@
       "covers": [
         "doharighat"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -390,7 +394,7 @@
       "covers": [
         "muhammadabad-gohna"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -404,7 +408,7 @@
       "covers": [
         "muhammadabad-gohna"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -418,7 +422,7 @@
       "covers": [
         "ulb-mau-main"
       ],
-      "source_url": "https://mau.nic.in",
+      "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

@@ -1,6 +1,6 @@
 {
   "district_id": "ambedkar-nagar",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-ambedkar-nagar-dm",
@@ -8,14 +8,24 @@
       "role": "dm",
       "office_name_en": "Office of District Magistrate, Ambedkar Nagar",
       "office_name_hi": "कार्यालय जिलाधिकारी, अंबेडकर नगर",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417539",
+          "type": "office",
+          "source_url": "https://ambedkarnagar.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "dmamb@nic.in",
       "covers": [
         "ambedkar-nagar"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Smt. Eesha Priya",
+      "address_en": "Collectorate Campus tehsil-Akbarpur Ambedkarnagar(U.P)-224122"
     },
     {
       "id": "up-ambedkar-nagar-cdo",
@@ -28,7 +38,7 @@
       "covers": [
         "ambedkar-nagar"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -43,7 +53,7 @@
       "covers": [
         "ambedkar-nagar"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -58,7 +68,7 @@
       "covers": [
         "akbarpur"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -73,7 +83,7 @@
       "covers": [
         "tanda"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -88,7 +98,7 @@
       "covers": [
         "jalalpur"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -103,7 +113,7 @@
       "covers": [
         "alapur"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -118,7 +128,7 @@
       "covers": [
         "bhiti"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -133,7 +143,7 @@
       "covers": [
         "akbarpur"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -147,7 +157,7 @@
       "covers": [
         "akbarpur"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -162,7 +172,7 @@
       "covers": [
         "tanda"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -176,7 +186,7 @@
       "covers": [
         "tanda"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -191,7 +201,7 @@
       "covers": [
         "jalalpur"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -205,7 +215,7 @@
       "covers": [
         "jalalpur"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -220,7 +230,7 @@
       "covers": [
         "katehari"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -234,7 +244,7 @@
       "covers": [
         "katehari"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -249,7 +259,7 @@
       "covers": [
         "bhiyawan"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -263,7 +273,7 @@
       "covers": [
         "bhiyawan"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -278,7 +288,7 @@
       "covers": [
         "ramnagar"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -292,7 +302,7 @@
       "covers": [
         "ramnagar"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -307,7 +317,7 @@
       "covers": [
         "jahangirganj"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -321,7 +331,7 @@
       "covers": [
         "jahangirganj"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -336,7 +346,7 @@
       "covers": [
         "bhiti"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -350,7 +360,7 @@
       "covers": [
         "bhiti"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -365,7 +375,7 @@
       "covers": [
         "baskhari"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -379,7 +389,7 @@
       "covers": [
         "baskhari"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -393,7 +403,7 @@
       "covers": [
         "ulb-ambedkar-nagar-main"
       ],
-      "source_url": "https://ambedkar-nagar.nic.in",
+      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

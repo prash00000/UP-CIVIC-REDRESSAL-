@@ -1,6 +1,6 @@
 {
   "district_id": "hathras",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-hathras-dm",
@@ -16,15 +16,23 @@
           "source_url": "https://hathras.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "0572-2227076",
+          "type": "landline",
+          "source_url": "https://hathras.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmhat@nic.in",
       "covers": [
         "hathras"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "District Magistrate, Collectorate, Hathras(UP)-204101."
     },
     {
       "id": "up-hathras-cdo",
@@ -37,7 +45,7 @@
       "covers": [
         "hathras"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -52,7 +60,7 @@
       "covers": [
         "hathras"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -67,7 +75,7 @@
       "covers": [
         "hathras"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -82,7 +90,7 @@
       "covers": [
         "sadabad"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -97,7 +105,7 @@
       "covers": [
         "sikandra-rao"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -112,7 +120,7 @@
       "covers": [
         "sasni"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -127,7 +135,7 @@
       "covers": [
         "hathras"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -141,7 +149,7 @@
       "covers": [
         "hathras"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -156,7 +164,7 @@
       "covers": [
         "mursan"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -170,7 +178,7 @@
       "covers": [
         "mursan"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -185,7 +193,7 @@
       "covers": [
         "sasni"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -199,7 +207,7 @@
       "covers": [
         "sasni"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -214,7 +222,7 @@
       "covers": [
         "sadabad"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -228,7 +236,7 @@
       "covers": [
         "sadabad"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -243,7 +251,7 @@
       "covers": [
         "sahpau"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -257,7 +265,7 @@
       "covers": [
         "sahpau"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -272,7 +280,7 @@
       "covers": [
         "sikandra-rao"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -286,7 +294,7 @@
       "covers": [
         "sikandra-rao"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -301,7 +309,7 @@
       "covers": [
         "hasayan"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -315,7 +323,7 @@
       "covers": [
         "hasayan"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -329,7 +337,7 @@
       "covers": [
         "ulb-hathras-main"
       ],
-      "source_url": "https://hathras.nic.in",
+      "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

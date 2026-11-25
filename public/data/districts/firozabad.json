@@ -1,6 +1,6 @@
 {
   "district_id": "firozabad",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-firozabad-dm",
@@ -12,8 +12,8 @@
         {
           "number": "9454417510",
           "type": "office",
-          "source_url": "https://firozabad.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://firozabad.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -21,9 +21,11 @@
       "covers": [
         "firozabad"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Santosh Kumar Sharma (I.A.S.)",
+      "address_en": "Contact -DM Office - 05612-285001,DM Camp Office - 05612-285002,Collectorate Civil Lines"
     },
     {
       "id": "up-firozabad-cdo",
@@ -35,8 +37,8 @@
         {
           "number": "9454418950",
           "type": "office",
-          "source_url": "https://firozabad.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://firozabad.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -44,9 +46,11 @@
       "covers": [
         "firozabad"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shailendra Kumar Singh",
+      "address_en": "Vikas Bhawan Civil Line"
     },
     {
       "id": "up-firozabad-dpro",
@@ -59,7 +63,7 @@
       "covers": [
         "firozabad"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -74,7 +78,7 @@
       "covers": [
         "firozabad"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -89,7 +93,7 @@
       "covers": [
         "shikohabad"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -104,7 +108,7 @@
       "covers": [
         "jasrana"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -119,7 +123,7 @@
       "covers": [
         "tundla"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -134,7 +138,7 @@
       "covers": [
         "sirsaganj"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -149,7 +153,7 @@
       "covers": [
         "firozabad"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -163,7 +167,7 @@
       "covers": [
         "firozabad"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -178,7 +182,7 @@
       "covers": [
         "narkhi"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -192,7 +196,7 @@
       "covers": [
         "narkhi"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -207,7 +211,7 @@
       "covers": [
         "tundla"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -221,7 +225,7 @@
       "covers": [
         "tundla"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -236,7 +240,7 @@
       "covers": [
         "shikohabad"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -250,7 +254,7 @@
       "covers": [
         "shikohabad"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -265,7 +269,7 @@
       "covers": [
         "madanpur"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -279,7 +283,7 @@
       "covers": [
         "madanpur"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -294,7 +298,7 @@
       "covers": [
         "jasrana"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -308,7 +312,7 @@
       "covers": [
         "jasrana"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -323,7 +327,7 @@
       "covers": [
         "eka"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -337,7 +341,7 @@
       "covers": [
         "eka"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -352,7 +356,7 @@
       "covers": [
         "hathwant"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -366,7 +370,7 @@
       "covers": [
         "hathwant"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -381,7 +385,7 @@
       "covers": [
         "araon"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -395,7 +399,7 @@
       "covers": [
         "araon"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -409,7 +413,7 @@
       "covers": [
         "ulb-firozabad-main"
       ],
-      "source_url": "https://firozabad.nic.in",
+      "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

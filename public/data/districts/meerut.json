@@ -1,6 +1,6 @@
 {
   "district_id": "meerut",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-meerut-dm",
@@ -12,18 +12,20 @@
         {
           "number": "9454417566",
           "type": "office",
-          "source_url": "https://meerut.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://meerut.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
-      "email": "dmmrt@nic.in",
+      "email": "dmmee@nic.in",
       "covers": [
         "meerut"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Dr. Vijay Kumar Singh",
+      "address_en": "Office of the District Magistrate, Collectorate, Meerut"
     },
     {
       "id": "up-meerut-cdo",
@@ -36,7 +38,7 @@
       "covers": [
         "meerut"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -51,7 +53,7 @@
       "covers": [
         "meerut"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -74,7 +76,7 @@
       "covers": [
         "meerut"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -97,7 +99,7 @@
       "covers": [
         "mawana"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -120,7 +122,7 @@
       "covers": [
         "sardhana"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -135,7 +137,7 @@
       "covers": [
         "meerut-sadar"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -149,7 +151,7 @@
       "covers": [
         "meerut-sadar"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -164,7 +166,7 @@
       "covers": [
         "rajpura"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -178,7 +180,7 @@
       "covers": [
         "rajpura"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -193,7 +195,7 @@
       "covers": [
         "kharkhoda"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -207,7 +209,7 @@
       "covers": [
         "kharkhoda"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -222,7 +224,7 @@
       "covers": [
         "jani"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -236,7 +238,7 @@
       "covers": [
         "jani"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -251,7 +253,7 @@
       "covers": [
         "rohta"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -265,7 +267,7 @@
       "covers": [
         "rohta"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -280,7 +282,7 @@
       "covers": [
         "sardhana"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -294,7 +296,7 @@
       "covers": [
         "sardhana"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -309,7 +311,7 @@
       "covers": [
         "daurala"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -323,7 +325,7 @@
       "covers": [
         "daurala"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -338,7 +340,7 @@
       "covers": [
         "mawana"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -352,7 +354,7 @@
       "covers": [
         "mawana"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -367,7 +369,7 @@
       "covers": [
         "hastinapur"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -381,7 +383,7 @@
       "covers": [
         "hastinapur"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -396,7 +398,7 @@
       "covers": [
         "parikshitgarh"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -410,7 +412,7 @@
       "covers": [
         "parikshitgarh"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -425,7 +427,7 @@
       "covers": [
         "machhra"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -439,7 +441,7 @@
       "covers": [
         "machhra"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -454,7 +456,7 @@
       "covers": [
         "sarurpur"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -468,7 +470,7 @@
       "covers": [
         "sarurpur"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -482,7 +484,7 @@
       "covers": [
         "ulb-meerut-main"
       ],
-      "source_url": "https://meerut.nic.in",
+      "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

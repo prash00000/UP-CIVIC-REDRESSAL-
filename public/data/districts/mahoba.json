@@ -1,6 +1,6 @@
 {
   "district_id": "mahoba",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-mahoba-dm",
@@ -12,8 +12,8 @@
         {
           "number": "9454417534",
           "type": "office",
-          "source_url": "https://mahoba.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://mahoba.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -21,9 +21,10 @@
       "covers": [
         "mahoba"
       ],
-      "source_url": "https://mahoba.nic.in",
+      "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Prabhash Kumar"
     },
     {
       "id": "up-mahoba-cdo",
@@ -35,8 +36,8 @@
         {
           "number": "9454464792",
           "type": "office",
-          "source_url": "https://mahoba.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://mahoba.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -44,9 +45,10 @@
       "covers": [
         "mahoba"
       ],
-      "source_url": "https://mahoba.nic.in",
+      "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Balram Kumar"
     },
     {
       "id": "up-mahoba-dpro",
@@ -59,7 +61,7 @@
       "covers": [
         "mahoba"
       ],
-      "source_url": "https://mahoba.nic.in",
+      "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -74,7 +76,7 @@
       "covers": [
         "mahoba"
       ],
-      "source_url": "https://mahoba.nic.in",
+      "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -89,7 +91,7 @@
       "covers": [
         "charkhari"
       ],
-      "source_url": "https://mahoba.nic.in",
+      "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -104,7 +106,7 @@
       "covers": [
         "kulpahar"
       ],
-      "source_url": "https://mahoba.nic.in",
+      "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -119,7 +121,7 @@
       "covers": [
         "kabrai"
       ],
-      "source_url": "https://mahoba.nic.in",
+      "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -133,7 +135,7 @@
       "covers": [
         "kabrai"
       ],
-      "source_url": "https://mahoba.nic.in",
+      "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -148,7 +150,7 @@
       "covers": [
         "charkhari"
       ],
-      "source_url": "https://mahoba.nic.in",
+      "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -162,7 +164,7 @@
       "covers": [
         "charkhari"
       ],
-      "source_url": "https://mahoba.nic.in",
+      "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -177,7 +179,7 @@
       "covers": [
         "jaitpur"
       ],
-      "source_url": "https://mahoba.nic.in",
+      "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -191,7 +193,7 @@
       "covers": [
         "jaitpur"
       ],
-      "source_url": "https://mahoba.nic.in",
+      "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -206,7 +208,7 @@
       "covers": [
         "panwari"
       ],
-      "source_url": "https://mahoba.nic.in",
+      "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -220,7 +222,7 @@
       "covers": [
         "panwari"
       ],
-      "source_url": "https://mahoba.nic.in",
+      "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -234,7 +236,7 @@
       "covers": [
         "ulb-mahoba-main"
       ],
-      "source_url": "https://mahoba.nic.in",
+      "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

@@ -1,6 +1,6 @@
 {
   "district_id": "gonda",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-gonda-dm",
@@ -15,15 +15,24 @@
           "source_url": "https://gonda.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "05262-222400",
+          "type": "landline",
+          "source_url": "https://gonda.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmgon@nic.in",
       "covers": [
         "gonda"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Ramesh Ranjan (I.A.S.)",
+      "address_en": "District Magistrate Office, Gonda Uttar Pradesh Mobile: 9454417537, Residence: 05262-232600"
     },
     {
       "id": "up-gonda-cdo",
@@ -38,15 +47,24 @@
           "source_url": "https://gonda.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "05262-230100",
+          "type": "landline",
+          "source_url": "https://gonda.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "drda-gon@nic.in",
       "covers": [
         "gonda"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Dayanand Prasad, (I.A.S.)",
+      "address_en": "Chief Development Officer, Office, Gonda, Uttar Pradesh Mobile: 9454419046"
     },
     {
       "id": "up-gonda-dpro",
@@ -59,7 +77,7 @@
       "covers": [
         "gonda"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -74,7 +92,7 @@
       "covers": [
         "gonda"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -89,7 +107,7 @@
       "covers": [
         "colonelganj"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -104,7 +122,7 @@
       "covers": [
         "tarabganj"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -119,7 +137,7 @@
       "covers": [
         "mankapur"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -134,7 +152,7 @@
       "covers": [
         "jhanjhari"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -148,7 +166,7 @@
       "covers": [
         "jhanjhari"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -163,7 +181,7 @@
       "covers": [
         "pandey-baba"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -177,7 +195,7 @@
       "covers": [
         "pandey-baba"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -192,7 +210,7 @@
       "covers": [
         "rupaidih"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -206,7 +224,7 @@
       "covers": [
         "rupaidih"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -221,7 +239,7 @@
       "covers": [
         "itiathok"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -235,7 +253,7 @@
       "covers": [
         "itiathok"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -250,7 +268,7 @@
       "covers": [
         "mujehna"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -264,7 +282,7 @@
       "covers": [
         "mujehna"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -279,7 +297,7 @@
       "covers": [
         "katra-bazar"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -293,7 +311,7 @@
       "covers": [
         "katra-bazar"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -308,7 +326,7 @@
       "covers": [
         "haldharmau"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -322,7 +340,7 @@
       "covers": [
         "haldharmau"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -337,7 +355,7 @@
       "covers": [
         "colonelganj"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -351,7 +369,7 @@
       "covers": [
         "colonelganj"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -366,7 +384,7 @@
       "covers": [
         "belsar"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -380,7 +398,7 @@
       "covers": [
         "belsar"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -395,7 +413,7 @@
       "covers": [
         "tarabganj"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -409,7 +427,7 @@
       "covers": [
         "tarabganj"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -424,7 +442,7 @@
       "covers": [
         "wazirganj"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -438,7 +456,7 @@
       "covers": [
         "wazirganj"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -453,7 +471,7 @@
       "covers": [
         "nawabganj"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -467,7 +485,7 @@
       "covers": [
         "nawabganj"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -482,7 +500,7 @@
       "covers": [
         "mankapur"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -496,7 +514,7 @@
       "covers": [
         "mankapur"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -511,7 +529,7 @@
       "covers": [
         "chhapia"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -525,7 +543,7 @@
       "covers": [
         "chhapia"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -540,7 +558,7 @@
       "covers": [
         "babhanjot"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -554,7 +572,7 @@
       "covers": [
         "babhanjot"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -569,7 +587,7 @@
       "covers": [
         "paraspur"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -583,7 +601,7 @@
       "covers": [
         "paraspur"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -597,7 +615,7 @@
       "covers": [
         "ulb-gonda-main"
       ],
-      "source_url": "https://gonda.nic.in",
+      "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

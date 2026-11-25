@@ -1,6 +1,6 @@
 {
   "district_id": "ghaziabad",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-ghaziabad-dm",
@@ -8,15 +8,16 @@
       "role": "dm",
       "office_name_en": "Office of District Magistrate, Ghaziabad",
       "office_name_hi": "कार्यालय जिलाधिकारी, गाजियाबाद",
-      "officer_name_en": "1",
+      "officer_name_en": "Shri Ravindra Kumar Mandar, IAS",
       "phones": [],
       "email": "dmgzb@nic.in",
       "covers": [
         "ghaziabad"
       ],
-      "source_url": "https://ghaziabad.nic.in",
+      "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Shri Ravindra Kumar Mandar, IAS"
     },
     {
       "id": "up-ghaziabad-cdo",
@@ -29,9 +30,11 @@
       "covers": [
         "ghaziabad"
       ],
-      "source_url": "https://ghaziabad.nic.in",
+      "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Kumar Saurabh, IAS",
+      "address_en": "Shri Kumar Saurabh, IAS"
     },
     {
       "id": "up-ghaziabad-dpro",
@@ -44,7 +47,7 @@
       "covers": [
         "ghaziabad"
       ],
-      "source_url": "https://ghaziabad.nic.in",
+      "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -59,7 +62,7 @@
       "covers": [
         "ghaziabad"
       ],
-      "source_url": "https://ghaziabad.nic.in",
+      "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -73,8 +76,8 @@
         {
           "number": "01232-220770",
           "type": "cug",
-          "source_url": "https://ghaziabad.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://ghaziabad.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -82,9 +85,11 @@
       "covers": [
         "modinagar"
       ],
-      "source_url": "https://ghaziabad.nic.in",
+      "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Smt. Komal Panwar",
+      "address_en": "Smt. Komal Panwar"
     },
     {
       "id": "up-ghaziabad-sdm-loni",
@@ -96,8 +101,8 @@
         {
           "number": "9211085687",
           "type": "cug",
-          "source_url": "https://ghaziabad.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://ghaziabad.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -105,9 +110,11 @@
       "covers": [
         "loni"
       ],
-      "source_url": "https://ghaziabad.nic.in",
+      "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Deepak Singhanwal",
+      "address_en": "Shri Deepak Singhanwal"
     },
     {
       "id": "up-ghaziabad-bdo-razapur",
@@ -120,7 +127,7 @@
       "covers": [
         "razapur"
       ],
-      "source_url": "https://ghaziabad.nic.in",
+      "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -134,7 +141,7 @@
       "covers": [
         "razapur"
       ],
-      "source_url": "https://ghaziabad.nic.in",
+      "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -149,7 +156,7 @@
       "covers": [
         "bhojpur"
       ],
-      "source_url": "https://ghaziabad.nic.in",
+      "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -163,7 +170,7 @@
       "covers": [
         "bhojpur"
       ],
-      "source_url": "https://ghaziabad.nic.in",
+      "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -178,7 +185,7 @@
       "covers": [
         "loni"
       ],
-      "source_url": "https://ghaziabad.nic.in",
+      "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -192,7 +199,7 @@
       "covers": [
         "loni"
       ],
-      "source_url": "https://ghaziabad.nic.in",
+      "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -207,7 +214,7 @@
       "covers": [
         "muradnagar"
       ],
-      "source_url": "https://ghaziabad.nic.in",
+      "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -221,7 +228,7 @@
       "covers": [
         "muradnagar"
       ],
-      "source_url": "https://ghaziabad.nic.in",
+      "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -235,7 +242,7 @@
       "covers": [
         "ulb-ghaziabad-main"
       ],
-      "source_url": "https://ghaziabad.nic.in",
+      "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

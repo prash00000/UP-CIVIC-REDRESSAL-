@@ -1,6 +1,6 @@
 {
   "district_id": "bhadohi",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-bhadohi-dm",
@@ -8,7 +8,7 @@
       "role": "dm",
       "office_name_en": "Office of District Magistrate, Bhadohi",
       "office_name_hi": "कार्यालय जिलाधिकारी, भदोही",
-      "officer_name_en": "2",
+      "officer_name_en": "Shri Anil Kumar Singh",
       "phones": [
         {
           "number": "9454417568",
@@ -16,15 +16,23 @@
           "source_url": "https://bhadohi.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "0541-4250203",
+          "type": "landline",
+          "source_url": "https://bhadohi.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmbhd@nic.in",
       "covers": [
         "bhadohi"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Collectorate Campus, Sarpatha, Gyanpur, Bhadohi"
     },
     {
       "id": "up-bhadohi-cdo",
@@ -32,14 +40,24 @@
       "role": "cdo",
       "office_name_en": "Chief Development Officer (CDO), Bhadohi",
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), भदोही",
-      "phones": [],
+      "phones": [
+        {
+          "number": "0541-4298122",
+          "type": "landline",
+          "source_url": "https://bhadohi.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "cdo.bhd-up@gov.in",
       "covers": [
         "bhadohi"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Bal Govind Shukla",
+      "address_en": "Vikash Bhavan, Gyanpur, Bhadohi"
     },
     {
       "id": "up-bhadohi-dpro",
@@ -52,7 +70,7 @@
       "covers": [
         "bhadohi"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -67,7 +85,7 @@
       "covers": [
         "gyanpur"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -82,7 +100,7 @@
       "covers": [
         "bhadohi"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -97,7 +115,7 @@
       "covers": [
         "aurai"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -112,7 +130,7 @@
       "covers": [
         "gyanpur"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -126,7 +144,7 @@
       "covers": [
         "gyanpur"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -141,7 +159,7 @@
       "covers": [
         "deeh"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -155,7 +173,7 @@
       "covers": [
         "deeh"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -170,7 +188,7 @@
       "covers": [
         "abholi"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -184,7 +202,7 @@
       "covers": [
         "abholi"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -199,7 +217,7 @@
       "covers": [
         "bhadohi"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -213,7 +231,7 @@
       "covers": [
         "bhadohi"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -228,7 +246,7 @@
       "covers": [
         "suriyawan"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -242,7 +260,7 @@
       "covers": [
         "suriyawan"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -257,7 +275,7 @@
       "covers": [
         "aurai"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -271,7 +289,7 @@
       "covers": [
         "aurai"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -285,7 +303,7 @@
       "covers": [
         "ulb-bhadohi-main"
       ],
-      "source_url": "https://bhadohi.nic.in",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

@@ -1,6 +1,6 @@
 {
   "district_id": "hapur",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-hapur-dm",
@@ -15,15 +15,23 @@
           "source_url": "https://hapur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "0122-2304833",
+          "type": "landline",
+          "source_url": "https://hapur.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmhap@nic.in",
       "covers": [
         "hapur"
       ],
-      "source_url": "https://hapur.nic.in",
+      "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Collectorate Hapur"
     },
     {
       "id": "up-hapur-cdo",
@@ -35,8 +43,8 @@
         {
           "number": "9454449853",
           "type": "office",
-          "source_url": "https://hapur.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://hapur.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -44,9 +52,10 @@
       "covers": [
         "hapur"
       ],
-      "source_url": "https://hapur.nic.in",
+      "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Vikas Bhawan, Hapur"
     },
     {
       "id": "up-hapur-dpro",
@@ -59,7 +68,7 @@
       "covers": [
         "hapur"
       ],
-      "source_url": "https://hapur.nic.in",
+      "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -74,7 +83,7 @@
       "covers": [
         "hapur"
       ],
-      "source_url": "https://hapur.nic.in",
+      "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -89,7 +98,7 @@
       "covers": [
         "garhmukteshwar"
       ],
-      "source_url": "https://hapur.nic.in",
+      "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -104,7 +113,7 @@
       "covers": [
         "dhaulana"
       ],
-      "source_url": "https://hapur.nic.in",
+      "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -119,7 +128,7 @@
       "covers": [
         "hapur"
       ],
-      "source_url": "https://hapur.nic.in",
+      "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -133,7 +142,7 @@
       "covers": [
         "hapur"
       ],
-      "source_url": "https://hapur.nic.in",
+      "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -148,7 +157,7 @@
       "covers": [
         "simbhawali"
       ],
-      "source_url": "https://hapur.nic.in",
+      "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -162,7 +171,7 @@
       "covers": [
         "simbhawali"
       ],
-      "source_url": "https://hapur.nic.in",
+      "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -177,7 +186,7 @@
       "covers": [
         "garhmukteshwar"
       ],
-      "source_url": "https://hapur.nic.in",
+      "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -191,7 +200,7 @@
       "covers": [
         "garhmukteshwar"
       ],
-      "source_url": "https://hapur.nic.in",
+      "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -206,7 +215,7 @@
       "covers": [
         "dhaulana"
       ],
-      "source_url": "https://hapur.nic.in",
+      "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -220,7 +229,7 @@
       "covers": [
         "dhaulana"
       ],
-      "source_url": "https://hapur.nic.in",
+      "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -234,7 +243,7 @@
       "covers": [
         "ulb-hapur-main"
       ],
-      "source_url": "https://hapur.nic.in",
+      "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

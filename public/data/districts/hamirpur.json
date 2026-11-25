@@ -1,6 +1,6 @@
 {
   "district_id": "hamirpur",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-hamirpur-dm",
@@ -8,13 +8,13 @@
       "role": "dm",
       "office_name_en": "Office of District Magistrate, Hamirpur",
       "office_name_hi": "कार्यालय जिलाधिकारी, हमीरपुर",
-      "officer_name_en": "1",
+      "officer_name_en": "Shri Ashok Kumar, IAS",
       "phones": [
         {
           "number": "9454417533",
           "type": "office",
-          "source_url": "https://hamirpur.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://hamirpur.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -22,9 +22,10 @@
       "covers": [
         "hamirpur"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Collectorate, Hamirpur"
     },
     {
       "id": "up-hamirpur-cdo",
@@ -36,8 +37,8 @@
         {
           "number": "9454464781",
           "type": "office",
-          "source_url": "https://hamirpur.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://hamirpur.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -45,9 +46,11 @@
       "covers": [
         "hamirpur"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Arun Kumar Singh",
+      "address_en": "Vikas Bhavan, Kuchhechha"
     },
     {
       "id": "up-hamirpur-dpro",
@@ -62,15 +65,24 @@
           "source_url": "https://hamirpur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "7007722946",
+          "type": "office",
+          "source_url": "https://hamirpur.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dprohm-up@nic.in",
       "covers": [
         "hamirpur"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Miss Subodh Joshi",
+      "address_en": "Vikas Bhavan, Kuchhechha Hamirpur"
     },
     {
       "id": "up-hamirpur-sdm-hamirpur",
@@ -91,7 +103,7 @@
       "covers": [
         "hamirpur"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -114,7 +126,7 @@
       "covers": [
         "rath"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -137,7 +149,7 @@
       "covers": [
         "maudaha"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -160,7 +172,7 @@
       "covers": [
         "sarila"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -183,7 +195,7 @@
       "covers": [
         "kurara"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -197,7 +209,7 @@
       "covers": [
         "kurara"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -220,7 +232,7 @@
       "covers": [
         "sumerpur"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -234,7 +246,7 @@
       "covers": [
         "sumerpur"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -257,7 +269,7 @@
       "covers": [
         "maudaha"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -271,7 +283,7 @@
       "covers": [
         "maudaha"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -294,7 +306,7 @@
       "covers": [
         "muskara"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -308,7 +320,7 @@
       "covers": [
         "muskara"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -331,7 +343,7 @@
       "covers": [
         "rath"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -345,7 +357,7 @@
       "covers": [
         "rath"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -368,7 +380,7 @@
       "covers": [
         "gohand"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -382,7 +394,7 @@
       "covers": [
         "gohand"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -405,7 +417,7 @@
       "covers": [
         "sarila"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -419,7 +431,7 @@
       "covers": [
         "sarila"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -433,7 +445,7 @@
       "covers": [
         "ulb-hamirpur-main"
       ],
-      "source_url": "https://hamirpur.nic.in",
+      "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

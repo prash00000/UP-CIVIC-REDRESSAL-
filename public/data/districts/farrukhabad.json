@@ -1,6 +1,6 @@
 {
   "district_id": "farrukhabad",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-farrukhabad-dm",
@@ -8,7 +8,7 @@
       "role": "dm",
       "office_name_en": "Office of District Magistrate, Farrukhabad",
       "office_name_hi": "कार्यालय जिलाधिकारी, फर्रुखाबाद",
-      "officer_name_en": "Addl.D.M.(F&amp;R)",
+      "officer_name_en": "District Majistrate",
       "phones": [
         {
           "number": "9454417623",
@@ -16,15 +16,23 @@
           "source_url": "https://farrukhabad.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "0569-2234133",
+          "type": "landline",
+          "source_url": "https://farrukhabad.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
-      "email": "admfr.fr-up@nic.in",
+      "email": "dmfar@nic.in",
       "covers": [
         "farrukhabad"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "District Magistrate, Farrukhabad"
     },
     {
       "id": "up-farrukhabad-cdo",
@@ -39,15 +47,24 @@
           "source_url": "https://farrukhabad.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "05692-234413",
+          "type": "landline",
+          "source_url": "https://farrukhabad.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "drda-far@nic.in",
       "covers": [
         "farrukhabad"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Chief Development Officer, Farrukhabad",
+      "address_en": "Vikas bhawan, Farrukhabad"
     },
     {
       "id": "up-farrukhabad-dpro",
@@ -60,7 +77,7 @@
       "covers": [
         "farrukhabad"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -83,7 +100,7 @@
       "covers": [
         "farrukhabad"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -106,7 +123,7 @@
       "covers": [
         "kaimganj"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -129,7 +146,7 @@
       "covers": [
         "amritpur"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -144,7 +161,7 @@
       "covers": [
         "barhpur"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -158,7 +175,7 @@
       "covers": [
         "barhpur"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -181,7 +198,7 @@
       "covers": [
         "kamalganj"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -195,7 +212,7 @@
       "covers": [
         "kamalganj"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -210,7 +227,7 @@
       "covers": [
         "mohammadabad"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -224,7 +241,7 @@
       "covers": [
         "mohammadabad"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -247,7 +264,7 @@
       "covers": [
         "kaimganj"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -261,7 +278,7 @@
       "covers": [
         "kaimganj"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -284,7 +301,7 @@
       "covers": [
         "nawabganj"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -298,7 +315,7 @@
       "covers": [
         "nawabganj"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -321,7 +338,7 @@
       "covers": [
         "shamsabad"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -335,7 +352,7 @@
       "covers": [
         "shamsabad"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -358,7 +375,7 @@
       "covers": [
         "rajepur"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -372,7 +389,7 @@
       "covers": [
         "rajepur"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -386,7 +403,7 @@
       "covers": [
         "ulb-farrukhabad-main"
       ],
-      "source_url": "https://farrukhabad.nic.in",
+      "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

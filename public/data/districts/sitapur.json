@@ -1,6 +1,6 @@
 {
   "district_id": "sitapur",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-sitapur-dm",
@@ -15,15 +15,24 @@
           "source_url": "https://sitapur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454417560",
+          "type": "office",
+          "source_url": "https://sitapur.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmsit@nic.in",
       "covers": [
         "sitapur"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Prathmesh Kumar",
+      "address_en": "Collectorate Sitapur, Office Phone No. :- 05862- 242996 , Awas Phone No. :- 05862-242212"
     },
     {
       "id": "up-sitapur-cdo",
@@ -36,7 +45,7 @@
       "covers": [
         "sitapur"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -51,7 +60,7 @@
       "covers": [
         "sitapur"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -66,7 +75,7 @@
       "covers": [
         "sadar"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -81,7 +90,7 @@
       "covers": [
         "biswan"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -96,7 +105,7 @@
       "covers": [
         "mahmoodabad"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -111,7 +120,7 @@
       "covers": [
         "sidhauli"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -126,7 +135,7 @@
       "covers": [
         "misrikh"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -141,7 +150,7 @@
       "covers": [
         "laharpur"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -156,7 +165,7 @@
       "covers": [
         "mahauli"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -171,7 +180,7 @@
       "covers": [
         "khairabad"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -185,7 +194,7 @@
       "covers": [
         "khairabad"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -200,7 +209,7 @@
       "covers": [
         "aliya"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -214,7 +223,7 @@
       "covers": [
         "aliya"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -229,7 +238,7 @@
       "covers": [
         "hargaon"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -243,7 +252,7 @@
       "covers": [
         "hargaon"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -258,7 +267,7 @@
       "covers": [
         "aisbgh"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -272,7 +281,7 @@
       "covers": [
         "aisbgh"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -287,7 +296,7 @@
       "covers": [
         "parsendi"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -301,7 +310,7 @@
       "covers": [
         "parsendi"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -316,7 +325,7 @@
       "covers": [
         "laharpur"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -330,7 +339,7 @@
       "covers": [
         "laharpur"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -345,7 +354,7 @@
       "covers": [
         "behta"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -359,7 +368,7 @@
       "covers": [
         "behta"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -374,7 +383,7 @@
       "covers": [
         "reusa"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -388,7 +397,7 @@
       "covers": [
         "reusa"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -403,7 +412,7 @@
       "covers": [
         "sakran"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -417,7 +426,7 @@
       "covers": [
         "sakran"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -432,7 +441,7 @@
       "covers": [
         "biswan"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -446,7 +455,7 @@
       "covers": [
         "biswan"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -461,7 +470,7 @@
       "covers": [
         "pahala"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -475,7 +484,7 @@
       "covers": [
         "pahala"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -490,7 +499,7 @@
       "covers": [
         "mahmoodabad"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -504,7 +513,7 @@
       "covers": [
         "mahmoodabad"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -519,7 +528,7 @@
       "covers": [
         "rampur-mathura"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -533,7 +542,7 @@
       "covers": [
         "rampur-mathura"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -548,7 +557,7 @@
       "covers": [
         "sidhauli"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -562,7 +571,7 @@
       "covers": [
         "sidhauli"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -577,7 +586,7 @@
       "covers": [
         "kasmanda"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -591,7 +600,7 @@
       "covers": [
         "kasmanda"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -606,7 +615,7 @@
       "covers": [
         "gondlamau"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -620,7 +629,7 @@
       "covers": [
         "gondlamau"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -635,7 +644,7 @@
       "covers": [
         "misrikh"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -649,7 +658,7 @@
       "covers": [
         "misrikh"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -664,7 +673,7 @@
       "covers": [
         "machhrehta"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -678,7 +687,7 @@
       "covers": [
         "machhrehta"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -693,7 +702,7 @@
       "covers": [
         "pisawan"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -707,7 +716,7 @@
       "covers": [
         "pisawan"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -721,7 +730,7 @@
       "covers": [
         "ulb-sitapur-main"
       ],
-      "source_url": "https://sitapur.nic.in",
+      "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

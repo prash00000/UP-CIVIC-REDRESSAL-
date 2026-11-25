@@ -1,6 +1,6 @@
 {
   "district_id": "lalitpur",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-lalitpur-dm",
@@ -12,8 +12,8 @@
         {
           "number": "05176-272200",
           "type": "office",
-          "source_url": "https://lalitpur.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://lalitpur.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -21,9 +21,11 @@
       "covers": [
         "lalitpur"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "District Magistrate",
+      "address_en": "Collectorate Campus, Civil Lines , Lalitpur"
     },
     {
       "id": "up-lalitpur-cdo",
@@ -35,8 +37,8 @@
         {
           "number": "05176-273682",
           "type": "office",
-          "source_url": "https://lalitpur.nic.in",
-          "checked_on": "2026-11-20",
+          "source_url": "https://lalitpur.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -44,9 +46,10 @@
       "covers": [
         "lalitpur"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Chief Development Officer"
     },
     {
       "id": "up-lalitpur-dpro",
@@ -59,7 +62,7 @@
       "covers": [
         "lalitpur"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -74,7 +77,7 @@
       "covers": [
         "lalitpur"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -89,7 +92,7 @@
       "covers": [
         "mahroni"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -104,7 +107,7 @@
       "covers": [
         "talbehat"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -119,7 +122,7 @@
       "covers": [
         "madawara"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -134,7 +137,7 @@
       "covers": [
         "pali"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -149,7 +152,7 @@
       "covers": [
         "birdha"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -163,7 +166,7 @@
       "covers": [
         "birdha"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -178,7 +181,7 @@
       "covers": [
         "jakhaura"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -192,7 +195,7 @@
       "covers": [
         "jakhaura"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -207,7 +210,7 @@
       "covers": [
         "talbehat"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -221,7 +224,7 @@
       "covers": [
         "talbehat"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -236,7 +239,7 @@
       "covers": [
         "bar"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -250,7 +253,7 @@
       "covers": [
         "bar"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -265,7 +268,7 @@
       "covers": [
         "mahroni"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -279,7 +282,7 @@
       "covers": [
         "mahroni"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -294,7 +297,7 @@
       "covers": [
         "madawara"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     },
@@ -308,7 +311,7 @@
       "covers": [
         "madawara"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "medium",
       "valid_as_of": "2026-11-20"
     },
@@ -322,7 +325,7 @@
       "covers": [
         "ulb-lalitpur-main"
       ],
-      "source_url": "https://lalitpur.nic.in",
+      "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
     }

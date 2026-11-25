@@ -1279,8 +1279,48 @@
     "id": "ward-gautam-buddha-nagar-ulb-gautam-buddha-nagar-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Gautam Buddha Nagar (All Wards)",
-    "name_hi": "गौतम बुद्ध नगर नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका गौतम बुद्ध नगर (सभी वार्ड)",
     "ulb_id": "ulb-gautam-buddha-nagar-main",
+    "tehsil_id": "sadar-noida",
+    "district_id": "gautam-buddha-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-gautam-buddha-nagar-ulb-greater-noida-industrial-development-authority",
+    "type": "ward",
+    "name_en": "Greater Noida Industrial Development Authority (All Wards)",
+    "name_hi": "Greater Noida Industrial Development Authority (सभी वार्ड)",
+    "ulb_id": "ulb-greater-noida-industrial-development-authority",
+    "tehsil_id": "sadar-noida",
+    "district_id": "gautam-buddha-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-gautam-buddha-nagar-ulb-new-okhla-industrial-development-authority",
+    "type": "ward",
+    "name_en": "NEW OKHLA INDUSTRIAL DEVELOPMENT AUTHORITY (All Wards)",
+    "name_hi": "NEW OKHLA INDUSTRIAL DEVELOPMENT AUTHORITY (सभी वार्ड)",
+    "ulb_id": "ulb-new-okhla-industrial-development-authority",
+    "tehsil_id": "sadar-noida",
+    "district_id": "gautam-buddha-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-gautam-buddha-nagar-ulb-gretar-noeda-audyogik-vikas-pradhikaran",
+    "type": "ward",
+    "name_en": "Gretar Noeda Audyogik Vikas Pradhikaran (All Wards)",
+    "name_hi": "ग्रेटर नोएडा औद्योगिक विकास प्राधिकरण (सभी वार्ड)",
+    "ulb_id": "ulb-gretar-noeda-audyogik-vikas-pradhikaran",
+    "tehsil_id": "sadar-noida",
+    "district_id": "gautam-buddha-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-gautam-buddha-nagar-ulb-nai-okhala-audyogik-vikas-pradhikaran",
+    "type": "ward",
+    "name_en": "Nai Okhala Audyogik Vikas Pradhikaran (All Wards)",
+    "name_hi": "नई ओखला औद्योगिक विकास प्राधिकरण (सभी वार्ड)",
+    "ulb_id": "ulb-nai-okhala-audyogik-vikas-pradhikaran",
     "tehsil_id": "sadar-noida",
     "district_id": "gautam-buddha-nagar",
     "local_body_type": "nagar_palika_parishad"
@@ -1317,7 +1357,7 @@
     "name_en": "Jewar (Urban Ward / SO)",
     "name_hi": "Jewar (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
+    "tehsil_id": "jewar",
     "district_id": "gautam-buddha-nagar",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -1342,7 +1382,7 @@
     "type": "ward",
     "name_en": "Noida (Urban Ward / SO)",
     "name_hi": "Noida (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
+    "ulb_id": "ulb-greater-noida-industrial-development-authority",
     "tehsil_id": "sadar-noida",
     "district_id": "gautam-buddha-nagar",
     "local_body_type": "nagar_palika_parishad",
@@ -1460,7 +1500,7 @@
     "name_en": "Dadri (Urban Ward / SO)",
     "name_hi": "Dadri (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
+    "tehsil_id": "dadri",
     "district_id": "gautam-buddha-nagar",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [

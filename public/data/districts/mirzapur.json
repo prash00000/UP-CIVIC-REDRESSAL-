@@ -71,14 +71,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416810",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s396da2f590cd7246bbde0051047b0d6f7/uploads/2024/09/2024092750.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.sadar.mzp-up@gov.in",
       "covers": [
         "sadar"
       ],
-      "source_url": "https://mirzapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s396da2f590cd7246bbde0051047b0d6f7/uploads/2024/09/2024092750.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Tehsil Sadar District Mirzapur"
     },
     {
       "id": "up-mirzapur-sdm-chunar",
@@ -86,14 +95,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Chunar",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Chunar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416811",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s396da2f590cd7246bbde0051047b0d6f7/uploads/2024/09/2024092750.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.chunar.mzp-up@gov.in",
       "covers": [
         "chunar"
       ],
-      "source_url": "https://mirzapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s396da2f590cd7246bbde0051047b0d6f7/uploads/2024/09/2024092750.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Tehsil Chunar District Mirzapur"
     },
     {
       "id": "up-mirzapur-sdm-lalganj",
@@ -101,14 +119,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Lalganj",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Lalganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416812",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s396da2f590cd7246bbde0051047b0d6f7/uploads/2024/09/2024092750.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.lalganj.mzp-up@gov.in",
       "covers": [
         "lalganj"
       ],
-      "source_url": "https://mirzapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s396da2f590cd7246bbde0051047b0d6f7/uploads/2024/09/2024092750.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Tehsil Lalganj District Mirzapur"
     },
     {
       "id": "up-mirzapur-sdm-marihan",
@@ -121,9 +148,10 @@
       "covers": [
         "marihan"
       ],
-      "source_url": "https://mirzapur.nic.in/whos-who/",
+      "source_url": "https://mirzapur.nic.in/public-utility-category/tehsil/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Tehsil Marihan District Mirzapur"
     },
     {
       "id": "up-mirzapur-bdo-nagar-city",
@@ -136,9 +164,10 @@
       "covers": [
         "nagar-city"
       ],
-      "source_url": "https://mirzapur.nic.in/whos-who/",
+      "source_url": "https://mirzapur.nic.in/public-utility-category/blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Block City District Mirzapur"
     },
     {
       "id": "up-mirzapur-ado-nagar-city",
@@ -166,9 +195,10 @@
       "covers": [
         "kon"
       ],
-      "source_url": "https://mirzapur.nic.in/whos-who/",
+      "source_url": "https://mirzapur.nic.in/hi/public-utility-category/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%96%e0%a4%82%e0%a4%a1/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Block Kon District Mirzapur"
     },
     {
       "id": "up-mirzapur-ado-kon",
@@ -196,9 +226,10 @@
       "covers": [
         "majhawan"
       ],
-      "source_url": "https://mirzapur.nic.in/whos-who/",
+      "source_url": "https://mirzapur.nic.in/hi/public-utility-category/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%96%e0%a4%82%e0%a4%a1/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Block Majhawan District Mirzapur"
     },
     {
       "id": "up-mirzapur-ado-majhawan",
@@ -226,9 +257,10 @@
       "covers": [
         "pahari"
       ],
-      "source_url": "https://mirzapur.nic.in/whos-who/",
+      "source_url": "https://mirzapur.nic.in/public-utility-category/blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Block Pahari District Mirzapur"
     },
     {
       "id": "up-mirzapur-ado-pahari",
@@ -316,9 +348,10 @@
       "covers": [
         "jamalpur"
       ],
-      "source_url": "https://mirzapur.nic.in/whos-who/",
+      "source_url": "https://mirzapur.nic.in/hi/public-utility-category/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%96%e0%a4%82%e0%a4%a1/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Block Jamalpur District Mirzapur"
     },
     {
       "id": "up-mirzapur-ado-jamalpur",
@@ -346,9 +379,10 @@
       "covers": [
         "lalganj"
       ],
-      "source_url": "https://mirzapur.nic.in/whos-who/",
+      "source_url": "https://mirzapur.nic.in/hi/public-utility-category/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%96%e0%a4%82%e0%a4%a1/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Block Lalganj District Mirzapur"
     },
     {
       "id": "up-mirzapur-ado-lalganj",
@@ -436,9 +470,10 @@
       "covers": [
         "rajgarh"
       ],
-      "source_url": "https://mirzapur.nic.in/whos-who/",
+      "source_url": "https://mirzapur.nic.in/public-utility-category/blocks/page/2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Block Rajgarh District Mirzapur"
     },
     {
       "id": "up-mirzapur-ado-rajgarh",
@@ -466,9 +501,10 @@
       "covers": [
         "chhanbey"
       ],
-      "source_url": "https://mirzapur.nic.in/whos-who/",
+      "source_url": "https://mirzapur.nic.in/public-utility-category/blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Block Chhanbey District Mirzapur"
     },
     {
       "id": "up-mirzapur-ado-chhanbey",
@@ -491,13 +527,116 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Mirzapur",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका मिर्जापुर",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05442-252385",
+          "type": "landline",
+          "source_url": "https://mirzapur.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05542-252308",
+          "type": "landline",
+          "source_url": "https://mirzapur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-mirzapur-main"
       ],
-      "source_url": "https://mirzapur.nic.in/whos-who/",
+      "source_url": "https://mirzapur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "email": "mirzapurnpp@gmail.com",
+      "address_en": "Ahraura Mirzapur Email : mirzapurnpp[at]gmail[dot]com Phone : 05442-252385 Website Link : http://www.mirzapurnpp.in"
+    },
+    {
+      "id": "up-mirzapur-eo-chunar",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, EO Nagar Palika Chunar",
+      "office_name_hi": "अधिशासी अधिकारी, EO नगर पालिका चुनार",
+      "phones": [
+        {
+          "number": "8189078511",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s396da2f590cd7246bbde0051047b0d6f7/uploads/2024/09/2024092750.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05442-252393",
+          "type": "landline",
+          "source_url": "https://mirzapur.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-chunar"
+      ],
+      "source_url": "https://mirzapur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "email": "mirzapurnpp@gmail.com",
+      "address_en": "Chunar Mirzapur Email : mirzapurnpp[at]gmail[dot]com Phone : 05442252393 Website Link : http://www.mirzapurnpp.in"
+    },
+    {
+      "id": "up-mirzapur-eo-aharaura",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, EO Nagar Palika Aharaura",
+      "office_name_hi": "अधिशासी अधिकारी, EO नगर पालिका अहरौरा",
+      "phones": [
+        {
+          "number": "8189078512",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s396da2f590cd7246bbde0051047b0d6f7/uploads/2024/09/2024092750.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-aharaura"
+      ],
+      "source_url": "https://mirzapur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "email": "mirzapurnpp@gmail.com",
+      "address_en": "अहरौरा मीरजापुर ईमेल : mirzapurnpp[at]gmail[dot]com फोन : 05442-252385 वेबसाइट लिंक : http://www.mirzapurnpp.in Pincode : 231001"
+    },
+    {
+      "id": "up-mirzapur-eo-kachhavan",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, EO Nagar Panchayat Kachhavan",
+      "office_name_hi": "अधिशासी अधिकारी, EO नगर पंचायत कछवां",
+      "phones": [
+        {
+          "number": "8189078513",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s396da2f590cd7246bbde0051047b0d6f7/uploads/2024/09/2024092750.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05442-252308",
+          "type": "landline",
+          "source_url": "https://mirzapur.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-kachhavan"
+      ],
+      "source_url": "https://mirzapur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "email": "mirzapurnpp@gmail.com",
+      "address_en": "Kachhwa Mirzapur Email : mirzapurnpp[at]gmail[dot]com Phone : 05442252308 Website Link : http://www.mirzapurnpp.in"
     }
   ]
 }

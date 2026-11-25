@@ -79,7 +79,8 @@
       ],
       "source_url": "https://fatehpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "जिला पंचायत राज अधिकारी (DPRO)"
     },
     {
       "id": "up-fatehpur-sdm-fatehpur",
@@ -87,14 +88,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Fatehpur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Fatehpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05180-212601",
+          "type": "landline",
+          "source_url": "https://fatehpur.nic.in/std-and-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.fatehpur.ftp-up@gov.in",
       "covers": [
         "fatehpur"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/std-and-pin-codes/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-fatehpur-sdm-bindki",
@@ -114,6 +123,13 @@
           "number": "9454417861",
           "type": "office",
           "source_url": "https://fatehpur.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05181-212635",
+          "type": "landline",
+          "source_url": "https://fatehpur.nic.in/std-and-pin-codes/",
           "checked_on": "2026-11-25",
           "status": "verified"
         }
@@ -137,6 +153,13 @@
           "number": "9454417878",
           "type": "office",
           "source_url": "https://fatehpur.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05182-212655",
+          "type": "landline",
+          "source_url": "https://fatehpur.nic.in/std-and-pin-codes/",
           "checked_on": "2026-11-25",
           "status": "verified"
         }
@@ -573,14 +596,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Vijayipur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Vijayipur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464570",
+          "type": "office",
+          "source_url": "https://fatehpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.vijayipur.ftp@gmail.com",
       "covers": [
         "vijayipur"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "खण्ड विकास अधिकारी, विजयीपुर (BDO-Vijaipur)"
     },
     {
       "id": "up-fatehpur-ado-vijayipur",
@@ -640,14 +672,189 @@
           "source_url": "https://fatehpur.nic.in/directory/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "05180-257568",
+          "type": "landline",
+          "source_url": "https://fatehpur.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "covers": [
         "ulb-fatehpur-main"
       ],
-      "source_url": "https://fatehpur.nic.in/directory/",
+      "source_url": "https://fatehpur.nic.in/public-utility-category/municipality/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "email": "nppbinki@gmail.com",
+      "address_en": "Address - Mugal Road Bindki, Fatehpur. Email : nppbinki[at]gmail[dot]com Phone : 05180257568"
+    },
+    {
+      "id": "up-fatehpur-eo-nagar-panchayat-bahua",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat, Bahua",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat, Bahua",
+      "phones": [
+        {
+          "number": "9415923614",
+          "type": "office",
+          "source_url": "https://fatehpur.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "bahuanagarpanchayat@gmail.com",
+      "covers": [
+        "ulb-nagar-panchayat-bahua"
+      ],
+      "source_url": "https://fatehpur.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Address- Nagar panchayat Bahua Fatehpur. Email : bahuanagarpanchayat[at]gmail[dot]com Phone : 9415923614"
+    },
+    {
+      "id": "up-fatehpur-eo-nagar-panchayat-hathgaon",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat, Hathgaon",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat, Hathgaon",
+      "phones": [
+        {
+          "number": "7355344429",
+          "type": "office",
+          "source_url": "https://fatehpur.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonphathgaon@gmail.com",
+      "covers": [
+        "ulb-nagar-panchayat-hathgaon"
+      ],
+      "source_url": "https://fatehpur.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Address - Nagar Panchayat, Hathgaon, Fatehpur. Email : eonphathgaon[at]gmail[dot]com Phone : 7355344429"
+    },
+    {
+      "id": "up-fatehpur-eo-nagar-panchayat-jahanabad",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat, Jahanabad",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat, Jahanabad",
+      "phones": [],
+      "email": "npjanbad@gmail.com",
+      "covers": [
+        "ulb-nagar-panchayat-jahanabad"
+      ],
+      "source_url": "https://fatehpur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%8f%e0%a4%82/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Address - Nagar Palika Parishad, Jahanabad, Fatehpur. Email : npjanbad[at]gmail[dot]com Phone : 9415923614"
+    },
+    {
+      "id": "up-fatehpur-eo-nagar-panchayat-khaga",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat, Khaga",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat, Khaga",
+      "phones": [
+        {
+          "number": "9838160888",
+          "type": "office",
+          "source_url": "https://fatehpur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%8f%e0%a4%82/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonpkhaga@gmail.com",
+      "covers": [
+        "ulb-nagar-panchayat-khaga"
+      ],
+      "source_url": "https://fatehpur.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Address - Nagar Panchayat, Khaga, Fatehpur. Email : eonpkhaga[at]gmail[dot]com Phone : 7355344429"
+    },
+    {
+      "id": "up-fatehpur-eo-kishunapur",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat, Kishunapur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत, किशुनपुर",
+      "phones": [],
+      "email": "eokishunpurftup@gmail.com",
+      "covers": [
+        "ulb-kishunapur"
+      ],
+      "source_url": "https://fatehpur.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "पता-नगर पंचायत कार्यालय किशुनपुर, तहसील-खागा, जनपद-फतेहपुर। ईमेल : eokishunpurftup[at]gmail[dot]com फोन : 9838160888"
+    },
+    {
+      "id": "up-fatehpur-eo-bindaki",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad, Bindaki",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका परिषद, बिन्दकी",
+      "phones": [
+        {
+          "number": "05181-257568",
+          "type": "landline",
+          "source_url": "https://fatehpur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%8f%e0%a4%82/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "nagarpalikafatehpur@gmail.com",
+      "covers": [
+        "ulb-bindaki"
+      ],
+      "source_url": "https://fatehpur.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Address - Mugal Road Bindki, Fatehpur. Email : nppbinki[at]gmail[dot]com Phone : 05180257568"
+    },
+    {
+      "id": "up-fatehpur-eo-kora-jahanabad",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat, Kora Jahanabad",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत, कोड़ा जहानाबाद",
+      "phones": [],
+      "email": "npjanbad@gmail.com",
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-fatehpur-eo-nagar-panchayat-bahua",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-kora-jahanabad"
+      ],
+      "source_url": "https://fatehpur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%8f%e0%a4%82/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "पता-नगर पंचायत कार्यालय कोड़ा जहानाबाद, तहसील-बिन्दकी, जनपद-फतेहपुर। ईमेल : npjanbad[at]gmail[dot]com फोन : 9415923614"
+    },
+    {
+      "id": "up-fatehpur-eo-hathaganm",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat, Hathaganm",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत, हथगांम",
+      "phones": [],
+      "email": "eonphathgaon@gmail.com",
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-fatehpur-eo-nagar-panchayat-hathgaon",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-hathaganm"
+      ],
+      "source_url": "https://fatehpur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%8f%e0%a4%82/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "पता-नगर पंचायत कार्यालय हथगाम, तहसील-खागा, जनपद-फतेहपुर। ईमेल : eonphathgaon[at]gmail[dot]com फोन : 7355344429"
     }
   ]
 }

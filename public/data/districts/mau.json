@@ -15,13 +15,27 @@
           "source_url": "https://mau.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "0547-2220233",
+          "type": "landline",
+          "source_url": "https://mau.nic.in/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be-%e0%a4%95%e0%a5%87-%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0547-2223645",
+          "type": "landline",
+          "source_url": "https://mau.nic.in/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be-%e0%a4%95%e0%a5%87-%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmmau@nic.in",
       "covers": [
         "mau"
       ],
-      "source_url": "https://mau.nic.in/en/about-district/whos-who/",
+      "source_url": "https://mau.nic.in/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be-%e0%a4%95%e0%a5%87-%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Anand Vardhan IAS",
@@ -40,13 +54,20 @@
           "source_url": "https://mau.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "0547-2221861",
+          "type": "landline",
+          "source_url": "https://mau.nic.in/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be-%e0%a4%95%e0%a5%87-%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "cdo-mau@up.nic.in",
       "covers": [
         "mau"
       ],
-      "source_url": "https://mau.nic.in/en/about-district/whos-who/",
+      "source_url": "https://mau.nic.in/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be-%e0%a4%95%e0%a5%87-%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Dhruv Khadia IAS",
@@ -73,14 +94,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mau Sadar",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mau Sadar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417988",
+          "type": "office",
+          "source_url": "https://mau.nic.in/en/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.mausadar.mau-up@gov.in",
       "covers": [
         "mau-sadar"
       ],
-      "source_url": "https://mau.nic.in/whos-who/",
+      "source_url": "https://mau.nic.in/en/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mau-sdm-madhuban",
@@ -101,9 +130,10 @@
       "covers": [
         "madhuban"
       ],
-      "source_url": "https://mau.nic.in/en/directory/",
+      "source_url": "https://mau.nic.in/en/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "उप जिलाधिकारी मधुबन"
     },
     {
       "id": "up-mau-sdm-ghosi",
@@ -124,9 +154,10 @@
       "covers": [
         "ghosi"
       ],
-      "source_url": "https://mau.nic.in/en/directory/",
+      "source_url": "https://mau.nic.in/en/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "उप जिलाधिकारी घोसी"
     },
     {
       "id": "up-mau-sdm-muhammadabad-gohna",
@@ -147,9 +178,10 @@
       "covers": [
         "muhammadabad-gohna"
       ],
-      "source_url": "https://mau.nic.in/en/directory/",
+      "source_url": "https://mau.nic.in/en/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "उप जिलाधिकारी मुहम्मदाबाद गोहना"
     },
     {
       "id": "up-mau-bdo-pardaha",
@@ -170,7 +202,7 @@
       "covers": [
         "pardaha"
       ],
-      "source_url": "https://mau.nic.in/en/directory/",
+      "source_url": "https://mau.nic.in/en/telephone-directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -238,9 +270,10 @@
       "covers": [
         "ranipur"
       ],
-      "source_url": "https://mau.nic.in/en/directory/",
+      "source_url": "https://mau.nic.in/en/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "खण्ड विकास अधिकारी रानीपुर"
     },
     {
       "id": "up-mau-ado-ranipur",
@@ -276,9 +309,10 @@
       "covers": [
         "kopaganj"
       ],
-      "source_url": "https://mau.nic.in/en/directory/",
+      "source_url": "https://mau.nic.in/en/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "खण्ड विकास अधिकारी कोपागंज"
     },
     {
       "id": "up-mau-ado-kopaganj",
@@ -314,9 +348,10 @@
       "covers": [
         "ghosi"
       ],
-      "source_url": "https://mau.nic.in/en/directory/",
+      "source_url": "https://mau.nic.in/en/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "खण्ड विकास अधिकारी घोसी"
     },
     {
       "id": "up-mau-ado-ghosi",
@@ -399,14 +434,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Doharighat",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Doharighat",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464634",
+          "type": "office",
+          "source_url": "https://mau.nic.in/%e0%a4%a6%e0%a5%82%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%b7-%e0%a4%a8%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.doharighat.mau@gmail.com",
       "covers": [
         "doharighat"
       ],
-      "source_url": "https://mau.nic.in/whos-who/",
+      "source_url": "https://mau.nic.in/en/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "खण्ड विकास अधिकारी दोहरीघाट"
     },
     {
       "id": "up-mau-ado-doharighat",
@@ -466,12 +510,227 @@
           "source_url": "https://mau.nic.in/en/directory/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "9415638974",
+          "type": "office",
+          "source_url": "https://mau.nic.in/en/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "covers": [
         "ulb-mau-main"
       ],
-      "source_url": "https://mau.nic.in/en/directory/",
+      "source_url": "https://mau.nic.in/en/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "email": "nppmau@gmail.com",
+      "address_en": "Shahi Katra, Mau Email : nppmau[at]gmail[dot]com Phone : 9415638974 Website Link : http://nppmau.com/"
+    },
+    {
+      "id": "up-mau-eo-madhuban",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Madhuban",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत मधुबन",
+      "phones": [
+        {
+          "number": "8189078483",
+          "type": "office",
+          "source_url": "https://mau.nic.in/%e0%a4%a6%e0%a5%82%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%b7-%e0%a4%a8%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-madhuban"
+      ],
+      "source_url": "https://mau.nic.in/%e0%a4%a6%e0%a5%82%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%b7-%e0%a4%a8%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "अधिशासी अधिकारी नगर पंचायत मधुबन"
+    },
+    {
+      "id": "up-mau-eo-chiraiyakot",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Panchayat Chiraiyakot",
+      "office_name_hi": "अधिशासी अधिकारी, पंचायत चिरैयाकोट",
+      "phones": [
+        {
+          "number": "8189078482",
+          "type": "office",
+          "source_url": "https://mau.nic.in/%e0%a4%a6%e0%a5%82%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%b7-%e0%a4%a8%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-chiraiyakot"
+      ],
+      "source_url": "https://mau.nic.in/%e0%a4%a6%e0%a5%82%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%b7-%e0%a4%a8%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "अधिशासी अधिकारी पंचायत चिरैयाकोट"
+    },
+    {
+      "id": "up-mau-eo-adari",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Adari",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत अदरी",
+      "phones": [
+        {
+          "number": "8189078477",
+          "type": "office",
+          "source_url": "https://mau.nic.in/%e0%a4%a6%e0%a5%82%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%b7-%e0%a4%a8%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-adari"
+      ],
+      "source_url": "https://mau.nic.in/%e0%a4%a6%e0%a5%82%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%b7-%e0%a4%a8%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "अधिशासी अधिकारी नगर पंचायत अदरी"
+    },
+    {
+      "id": "up-mau-eo-amila",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Amila",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत अमिला",
+      "phones": [
+        {
+          "number": "8189078479",
+          "type": "office",
+          "source_url": "https://mau.nic.in/%e0%a4%a6%e0%a5%82%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%b7-%e0%a4%a8%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-amila"
+      ],
+      "source_url": "https://mau.nic.in/%e0%a4%a6%e0%a5%82%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%b7-%e0%a4%a8%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "अधिशासी अधिकारी नगर पंचायत अमिला"
+    },
+    {
+      "id": "up-mau-eo-validapur",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Validapur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत वलीदपुर",
+      "phones": [
+        {
+          "number": "8189078481",
+          "type": "office",
+          "source_url": "https://mau.nic.in/%e0%a4%a6%e0%a5%82%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%b7-%e0%a4%a8%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-validapur"
+      ],
+      "source_url": "https://mau.nic.in/%e0%a4%a6%e0%a5%82%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%b7-%e0%a4%a8%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "अधिशासी अधिकारी नगर पंचायत वलीदपुर"
+    },
+    {
+      "id": "up-mau-eo-doharighat",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Doharighat",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत दोहरीघाट",
+      "officer_name_en": "अधिशासी अधिकारी नगर पंचायत दोहरीघाट",
+      "phones": [
+        {
+          "number": "8189078478",
+          "type": "office",
+          "source_url": "https://mau.nic.in/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-doharighat"
+      ],
+      "source_url": "https://mau.nic.in/en/gorakhpur-faizabad-block-teacher-electoral-roll/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-mau-eo-ghosi",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Ghosi",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत घोसी",
+      "officer_name_en": "अधिशासी अधिकारी नगर पंचायत घोसी",
+      "phones": [
+        {
+          "number": "8189078480",
+          "type": "office",
+          "source_url": "https://mau.nic.in/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-ghosi"
+      ],
+      "source_url": "https://mau.nic.in/en/gorakhpur-faizabad-block-teacher-electoral-roll/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-mau-eo-kurthijaphar-pur",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Kurthijaphar Pur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत कुर्थीजाफर पुर",
+      "officer_name_en": "अधिशासी अधिकारी नगर पंचायत कुर्थीजाफर पुर",
+      "phones": [
+        {
+          "number": "8189078484",
+          "type": "office",
+          "source_url": "https://mau.nic.in/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-kurthijaphar-pur"
+      ],
+      "source_url": "https://mau.nic.in/%e0%a4%a6%e0%a5%82%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%b7-%e0%a4%a8%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-mau-eo-muhammdabad-gohna",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NP Muhammdabad Gohna",
+      "office_name_hi": "अधिशासी अधिकारी, NP Muhammdabad Gohna",
+      "phones": [
+        {
+          "number": "8189078476",
+          "type": "office",
+          "source_url": "https://mau.nic.in/en/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-muhammdabad-gohna"
+      ],
+      "source_url": "https://mau.nic.in/en/telephone-directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     }

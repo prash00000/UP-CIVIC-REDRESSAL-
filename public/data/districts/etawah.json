@@ -463,13 +463,90 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Etawah",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका इटावा",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05688-252397",
+          "type": "landline",
+          "source_url": "https://etawah.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-etawah-main"
       ],
-      "source_url": "https://etawah.nic.in/whos-who/",
+      "source_url": "https://etawah.nic.in/public-utility-category/municipality/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "email": "etawahnagarpalika@gmail.com",
+      "address_en": "Main market, Lalpura, Etawah, U.P.206001 Email : etawahnagarpalika[at]gmail[dot]com Phone : 05688-252397 Website Link : http://nppetawah.in/"
+    },
+    {
+      "id": "up-etawah-eo-nagar-palika-parishad-bharthana",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar palika Parishad Bharthana",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar palika Parishad Bharthana",
+      "phones": [
+        {
+          "number": "05680-225221",
+          "type": "landline",
+          "source_url": "https://etawah.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eobharthana@gmail.com",
+      "covers": [
+        "ulb-nagar-palika-parishad-bharthana"
+      ],
+      "source_url": "https://etawah.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Sabji Mandi,Krishna Nagar Bharthana, U.P.206242 Email : eobharthana[at]gmail[dot]com Phone : 05680-225221 Website Link : http://www.nppbharthana.com/"
+    },
+    {
+      "id": "up-etawah-eo-nagar-palika-parishad-jaswantnagar",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar palika Parishad Jaswantnagar",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar palika Parishad Jaswantnagar",
+      "phones": [
+        {
+          "number": "05688-274208",
+          "type": "landline",
+          "source_url": "https://etawah.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "nppjaswantnagar@gmail.com",
+      "covers": [
+        "ulb-nagar-palika-parishad-jaswantnagar"
+      ],
+      "source_url": "https://etawah.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Nagar palika Parishad Jaswantnagar Etawah, U.P. 206245 Email : nppjaswantnagar[at]gmail[dot]com Phone : 05688-274208 Website Link : http://www.nppjaswantnagar.com/"
+    },
+    {
+      "id": "up-etawah-eo-lakhna",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Lakhna",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat Lakhna",
+      "phones": [],
+      "email": "nppjaswantnagar@gmail.com",
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-etawah-eo-nagar-palika-parishad-jaswantnagar",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-lakhna"
+      ],
+      "source_url": "https://etawah.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Nagar Panchayat Lakhna, Etawah U.P. 206127 Email : nppjaswantnagar[at]gmail[dot]com Phone : 05688-274208 Website Link : http://www.nagarpanchayatlakhna.com/"
     }
   ]
 }

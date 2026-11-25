@@ -15,6 +15,13 @@
           "source_url": "https://mahoba.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "05281-254901",
+          "type": "landline",
+          "source_url": "https://mahoba.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmmhb@nic.in",
@@ -267,9 +274,10 @@
       "covers": [
         "ulb-mahoba-main"
       ],
-      "source_url": "https://mahoba.nic.in/whos-who/",
+      "source_url": "https://mahoba.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Mahoba Nagar Palika Parishad"
     }
   ]
 }

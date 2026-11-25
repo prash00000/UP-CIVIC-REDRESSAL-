@@ -71,9 +71,10 @@
       "covers": [
         "jhansi"
       ],
-      "source_url": "https://jhansi.nic.in/important-contacts/",
+      "source_url": "https://jhansi.nic.in/hi/%e0%a4%ae%e0%a4%b9%e0%a4%a4%e0%a5%8d%e0%a4%b5%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3-%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "जिला पंचायत राज अधिकारी"
     },
     {
       "id": "up-jhansi-sdm-jhansi",
@@ -117,9 +118,10 @@
       "covers": [
         "mauranipur"
       ],
-      "source_url": "https://jhansi.nic.in/important-contacts/",
+      "source_url": "https://jhansi.nic.in/hi/%e0%a4%ae%e0%a4%b9%e0%a4%a4%e0%a5%8d%e0%a4%b5%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3-%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "उप जिलाधिकारी (मऊरानीपुर)"
     },
     {
       "id": "up-jhansi-sdm-garautha",
@@ -140,9 +142,10 @@
       "covers": [
         "garautha"
       ],
-      "source_url": "https://jhansi.nic.in/important-contacts/",
+      "source_url": "https://jhansi.nic.in/hi/%e0%a4%ae%e0%a4%b9%e0%a4%a4%e0%a5%8d%e0%a4%b5%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3-%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "उप जिलाधिकारी (गरौठा)"
     },
     {
       "id": "up-jhansi-sdm-moth",
@@ -173,14 +176,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Tahrauli",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Tahrauli",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416321",
+          "type": "office",
+          "source_url": "https://jhansi.nic.in/hi/%e0%a4%ae%e0%a4%b9%e0%a4%a4%e0%a5%8d%e0%a4%b5%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3-%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.tahrauli.jhs-up@gov.in",
       "covers": [
         "tahrauli"
       ],
-      "source_url": "https://jhansi.nic.in/whos-who/",
+      "source_url": "https://jhansi.nic.in/hi/%e0%a4%ae%e0%a4%b9%e0%a4%a4%e0%a5%8d%e0%a4%b5%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3-%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "उप जिलाधिकारी (टहरौली)"
     },
     {
       "id": "up-jhansi-bdo-badagaon",
@@ -340,14 +352,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Gursarai",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gursarai",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464943",
+          "type": "office",
+          "source_url": "https://jhansi.nic.in/important-contacts/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.gursarai.jhs@gmail.com",
       "covers": [
         "gursarai"
       ],
-      "source_url": "https://jhansi.nic.in/whos-who/",
+      "source_url": "https://jhansi.nic.in/important-contacts/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jhansi-ado-gursarai",
@@ -488,9 +508,11 @@
       "covers": [
         "ulb-jhansi-main"
       ],
-      "source_url": "https://jhansi.nic.in/whos-who/",
+      "source_url": "https://jhansi.nic.in/public-utility-category/nagarnigam/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "email": "nagarayukta@jnnjhansi.com",
+      "address_en": "Municipal Corporation Office Near Elite Chauraha Civil Lines Jhansi (Uttar Pradesh) Pin Code - 284003 Email : nagarayukta[at]jnnjhansi[dot]com Phone : 0510-2332097 Website Link : http://jnnjhansi.com/"
     },
     {
       "id": "up-jhansi-commissioner",
@@ -524,7 +546,7 @@
       "covers": [
         "jhansi"
       ],
-      "source_url": "https://jhansi.nic.in/important-contacts/",
+      "source_url": "https://jhansi.nic.in/hi/%e0%a4%ae%e0%a4%b9%e0%a4%a4%e0%a5%8d%e0%a4%b5%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3-%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "email": "8189077820nagarayukta@jnnjhansi.com",

@@ -23,6 +23,13 @@
           "source_url": "https://unnao.nic.in/contact-directory/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "05152-820207",
+          "type": "landline",
+          "source_url": "https://unnao.nic.in/hi/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "adm.un-up@gov.in",
@@ -31,7 +38,8 @@
       ],
       "source_url": "https://unnao.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "address_en": "कलेक्ट्रेट, उन्नाव"
     },
     {
       "id": "up-unnao-cdo",
@@ -247,14 +255,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sikandarpur Karan",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sikandarpur Karan",
-      "phones": [],
-      "email": "bdo.sikandarpurkaran.unn@gmail.com",
+      "phones": [
+        {
+          "number": "9454465455",
+          "type": "office",
+          "source_url": "https://unnao.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "bdoskar.un-up@gov.in",
       "covers": [
         "sikandarpur-karan"
       ],
-      "source_url": "https://unnao.nic.in/whos-who/",
+      "source_url": "https://unnao.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-unnao-ado-sikandarpur-karan",
@@ -286,7 +302,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.bichhiya.unn@gmail.com",
+      "email": "bdobic.un-up@gov.in",
       "covers": [
         "bichhiya"
       ],
@@ -324,7 +340,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.nawabganj.unn@gmail.com",
+      "email": "bdonaw.un-up@gov.in",
       "covers": [
         "nawabganj"
       ],
@@ -362,7 +378,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.hasanganj.unn@gmail.com",
+      "email": "bdohas.un-up@gov.in",
       "covers": [
         "hasanganj"
       ],
@@ -430,7 +446,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.auras.unn@gmail.com",
+      "email": "bdoaur.un-up@gov.in",
       "covers": [
         "auras"
       ],
@@ -468,7 +484,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.safipur.unn@gmail.com",
+      "email": "bdosaf.un-up@gov.in",
       "covers": [
         "safipur"
       ],
@@ -506,7 +522,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.fatehpurchaurasi.unn@gmail.com",
+      "email": "bdofat.un-up@gov.in",
       "covers": [
         "fatehpur-chaurasi"
       ],
@@ -544,7 +560,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.bangarmau.unn@gmail.com",
+      "email": "bdoban.un-up@gov.in",
       "covers": [
         "bangarmau"
       ],
@@ -582,7 +598,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.ganjmoradabad.unn@gmail.com",
+      "email": "bdogan.un-up@gov.in",
       "covers": [
         "ganj-moradabad"
       ],
@@ -620,7 +636,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.purwa.unn@gmail.com",
+      "email": "bdopur.un-up@gov.in",
       "covers": [
         "purwa"
       ],
@@ -658,7 +674,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.asoha.unn@gmail.com",
+      "email": "bdoaso.un-up@gov.in",
       "covers": [
         "asoha"
       ],
@@ -696,7 +712,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.hilauli.unn@gmail.com",
+      "email": "bdohil.un-up@gov.in",
       "covers": [
         "hilauli"
       ],
@@ -734,7 +750,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.bighapur.unn@gmail.com",
+      "email": "bdobig.un-up@gov.in",
       "covers": [
         "bighapur"
       ],
@@ -772,7 +788,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.sumerpur.unn@gmail.com",
+      "email": "bdosum.un-up@gov.in",
       "covers": [
         "sumerpur"
       ],
@@ -817,6 +833,374 @@
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "email": "eonppunnunn@nic.in"
+    },
+    {
+      "id": "up-unnao-eo-bangarmau",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NPP Bangarmau",
+      "office_name_hi": "अधिशासी अधिकारी, NPP Bangarmau",
+      "phones": [
+        {
+          "number": "8189078318",
+          "type": "office",
+          "source_url": "https://unnao.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonppbangarmauun-up@nic.in",
+      "covers": [
+        "ulb-bangarmau"
+      ],
+      "source_url": "https://unnao.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-unnao-eo-gangaghat",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NPP Gangaghat",
+      "office_name_hi": "अधिशासी अधिकारी, NPP Gangaghat",
+      "phones": [
+        {
+          "number": "8189078319",
+          "type": "office",
+          "source_url": "https://unnao.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonppgangaghatun-up@nic.in",
+      "covers": [
+        "ulb-gangaghat"
+      ],
+      "source_url": "https://unnao.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-unnao-eo-bhagwantnagar",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NP Bhagwantnagar",
+      "office_name_hi": "अधिशासी अधिकारी, NP Bhagwantnagar",
+      "phones": [
+        {
+          "number": "8189078322",
+          "type": "office",
+          "source_url": "https://unnao.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonpbhagwantnun-up@nic.in",
+      "covers": [
+        "ulb-bhagwantnagar"
+      ],
+      "source_url": "https://unnao.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-unnao-eo-bighapur",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NP Bighapur",
+      "office_name_hi": "अधिशासी अधिकारी, NP Bighapur",
+      "phones": [
+        {
+          "number": "8189078330",
+          "type": "office",
+          "source_url": "https://unnao.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonpbighapurun-up@nic.in",
+      "covers": [
+        "ulb-bighapur"
+      ],
+      "source_url": "https://unnao.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-unnao-eo-fatehpur-chaurasi",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NP Fatehpur Chaurasi",
+      "office_name_hi": "अधिशासी अधिकारी, NP Fatehpur Chaurasi",
+      "phones": [
+        {
+          "number": "8189078326",
+          "type": "office",
+          "source_url": "https://unnao.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonpfchaurasirun-up@nic.in",
+      "covers": [
+        "ulb-fatehpur-chaurasi"
+      ],
+      "source_url": "https://unnao.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-unnao-eo-ganj-muradabad",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NP Ganj Muradabad",
+      "office_name_hi": "अधिशासी अधिकारी, NP Ganj Muradabad",
+      "phones": [
+        {
+          "number": "8189078325",
+          "type": "office",
+          "source_url": "https://unnao.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonpganjmuradun-up@nic.in",
+      "covers": [
+        "ulb-ganj-muradabad"
+      ],
+      "source_url": "https://unnao.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-unnao-eo-haidrabad",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NP Haidrabad",
+      "office_name_hi": "अधिशासी अधिकारी, NP Haidrabad",
+      "phones": [
+        {
+          "number": "8189078331",
+          "type": "office",
+          "source_url": "https://unnao.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonphaidrabadun-up@nic.in",
+      "covers": [
+        "ulb-haidrabad"
+      ],
+      "source_url": "https://unnao.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-unnao-eo-kurshat",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NP Kurshat",
+      "office_name_hi": "अधिशासी अधिकारी, NP Kurshat",
+      "phones": [
+        {
+          "number": "8189078327",
+          "type": "office",
+          "source_url": "https://unnao.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonpkurshathun-up@nic.in",
+      "covers": [
+        "ulb-kurshat"
+      ],
+      "source_url": "https://unnao.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-unnao-eo-mohaan",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NP Mohaan",
+      "office_name_hi": "अधिशासी अधिकारी, NP Mohaan",
+      "phones": [
+        {
+          "number": "8189078333",
+          "type": "office",
+          "source_url": "https://unnao.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonpmohanun-up@nic.in",
+      "covers": [
+        "ulb-mohaan"
+      ],
+      "source_url": "https://unnao.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-unnao-eo-maurawan",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NP Maurawan",
+      "office_name_hi": "अधिशासी अधिकारी, NP Maurawan",
+      "phones": [
+        {
+          "number": "8189078321",
+          "type": "office",
+          "source_url": "https://unnao.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonpmaurawnun-up@nic.in",
+      "covers": [
+        "ulb-maurawan"
+      ],
+      "source_url": "https://unnao.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-unnao-eo-nawabganj",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NP Nawabganj",
+      "office_name_hi": "अधिशासी अधिकारी, NP Nawabganj",
+      "phones": [
+        {
+          "number": "8189078329",
+          "type": "office",
+          "source_url": "https://unnao.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonpnawabganjun-up@nic.in",
+      "covers": [
+        "ulb-nawabganj"
+      ],
+      "source_url": "https://unnao.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-unnao-eo-neyotaniya",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NP Neyotaniya",
+      "office_name_hi": "अधिशासी अधिकारी, NP Neyotaniya",
+      "phones": [
+        {
+          "number": "8189078332",
+          "type": "office",
+          "source_url": "https://unnao.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonpneyotaniyaun-up@nic.in",
+      "covers": [
+        "ulb-neyotaniya"
+      ],
+      "source_url": "https://unnao.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-unnao-eo-purwa",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NP Purwa",
+      "office_name_hi": "अधिशासी अधिकारी, NP Purwa",
+      "phones": [
+        {
+          "number": "8189078320",
+          "type": "office",
+          "source_url": "https://unnao.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonppurwaun-up@nic.in",
+      "covers": [
+        "ulb-purwa"
+      ],
+      "source_url": "https://unnao.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-unnao-eo-rasulabad",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NP Rasulabad",
+      "office_name_hi": "अधिशासी अधिकारी, NP Rasulabad",
+      "phones": [
+        {
+          "number": "8189078334",
+          "type": "office",
+          "source_url": "https://unnao.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonprasulabadun-up@nic.in",
+      "covers": [
+        "ulb-rasulabad"
+      ],
+      "source_url": "https://unnao.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-unnao-eo-safipur",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NP Safipur",
+      "office_name_hi": "अधिशासी अधिकारी, NP Safipur",
+      "phones": [
+        {
+          "number": "8189078323",
+          "type": "office",
+          "source_url": "https://unnao.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonpsafinagarun-up@nic.in",
+      "covers": [
+        "ulb-safipur"
+      ],
+      "source_url": "https://unnao.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-unnao-eo-ugu",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NP Ugu",
+      "office_name_hi": "अधिशासी अधिकारी, NP Ugu",
+      "phones": [
+        {
+          "number": "8189078324",
+          "type": "office",
+          "source_url": "https://unnao.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonpunguun-up@nic.in",
+      "covers": [
+        "ulb-ugu"
+      ],
+      "source_url": "https://unnao.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
     }
   ]
 }

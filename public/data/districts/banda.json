@@ -47,6 +47,13 @@
           "source_url": "https://banda.nic.in/contact-directory/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "9454464761",
+          "type": "office",
+          "source_url": "https://banda.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "cdo.bnd-up@gov.in",
@@ -102,14 +109,30 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Atarra",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Atarra",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05191-210201",
+          "type": "landline",
+          "source_url": "https://banda.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454415975",
+          "type": "office",
+          "source_url": "https://banda.nic.in/hi/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%b9%e0%a5%88/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.atarra.bnd-up@gov.in",
       "covers": [
         "atarra"
       ],
-      "source_url": "https://banda.nic.in/whos-who/",
+      "source_url": "https://banda.nic.in/hi/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%b9%e0%a5%88/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "उप जिलाधिकारी अतर्रा"
     },
     {
       "id": "up-banda-sdm-baberu",
@@ -216,7 +239,7 @@
       "covers": [
         "mahua"
       ],
-      "source_url": "https://banda.nic.in/contact-directory/",
+      "source_url": "https://banda.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -254,7 +277,7 @@
       "covers": [
         "tindwari"
       ],
-      "source_url": "https://banda.nic.in/contact-directory/",
+      "source_url": "https://banda.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -292,7 +315,7 @@
       "covers": [
         "baberu"
       ],
-      "source_url": "https://banda.nic.in/contact-directory/",
+      "source_url": "https://banda.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -330,7 +353,7 @@
       "covers": [
         "bisanda"
       ],
-      "source_url": "https://banda.nic.in/contact-directory/",
+      "source_url": "https://banda.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -368,7 +391,7 @@
       "covers": [
         "kamasin"
       ],
-      "source_url": "https://banda.nic.in/contact-directory/",
+      "source_url": "https://banda.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -406,7 +429,7 @@
       "covers": [
         "naraini"
       ],
-      "source_url": "https://banda.nic.in/contact-directory/",
+      "source_url": "https://banda.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -444,7 +467,7 @@
       "covers": [
         "jaspura"
       ],
-      "source_url": "https://banda.nic.in/contact-directory/",
+      "source_url": "https://banda.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -473,9 +496,10 @@
       "covers": [
         "ulb-banda-main"
       ],
-      "source_url": "https://banda.nic.in/whos-who/",
+      "source_url": "https://banda.nic.in/public-utility-category/municipality/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Nagar Palika Parishad District Council Square Banda, Uttar Pradesh Pincode : 210001"
     }
   ]
 }

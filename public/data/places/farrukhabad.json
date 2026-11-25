@@ -1732,8 +1732,18 @@
     "id": "ward-farrukhabad-ulb-farrukhabad-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Farrukhabad (All Wards)",
-    "name_hi": "फर्रुखाबाद नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका फर्रुखाबाद (सभी वार्ड)",
     "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-farrukhabad-ulb-praishad-farrukhabad",
+    "type": "ward",
+    "name_en": "Nagar Palika Praishad , Farrukhabad (All Wards)",
+    "name_hi": "Nagar Palika Praishad , Farrukhabad (सभी वार्ड)",
+    "ulb_id": "ulb-praishad-farrukhabad",
     "tehsil_id": "farrukhabad",
     "district_id": "farrukhabad",
     "local_body_type": "nagar_palika_parishad"
@@ -1991,7 +2001,7 @@
     "name_en": "Kaimganj (Urban Ward / SO)",
     "name_hi": "Kaimganj (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-farrukhabad-main",
-    "tehsil_id": "farrukhabad",
+    "tehsil_id": "kaimganj",
     "district_id": "farrukhabad",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -2082,7 +2092,7 @@
     "name_en": "Rly Road Kaimganj (Urban Ward / SO)",
     "name_hi": "Rly Road Kaimganj (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-farrukhabad-main",
-    "tehsil_id": "farrukhabad",
+    "tehsil_id": "kaimganj",
     "district_id": "farrukhabad",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [

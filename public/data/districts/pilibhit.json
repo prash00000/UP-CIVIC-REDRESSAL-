@@ -58,14 +58,23 @@
       "role": "dpro",
       "office_name_en": "District Panchayat Raj Officer (DPRO), Pilibhit",
       "office_name_hi": "जिला पंचायत राज अधिकारी, पीलीभीत",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9920731724",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a6%e0%a5%82%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%b7-%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "dpro-pil@nic.in",
       "covers": [
         "pilibhit"
       ],
-      "source_url": "https://pilibhit.nic.in/whos-who/",
+      "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a6%e0%a5%82%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%b7-%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "जिला पंचायत राज अधिकारी"
     },
     {
       "id": "up-pilibhit-sdm-pilibhit",
@@ -73,14 +82,30 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Pilibhit",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Pilibhit",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454415862",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2-2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454417258",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2-2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.pilibhit.pil-up@gov.in",
       "covers": [
         "pilibhit"
       ],
-      "source_url": "https://pilibhit.nic.in/whos-who/",
+      "source_url": "https://pilibhit.nic.in/tehsils/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "पीलीभीत"
     },
     {
       "id": "up-pilibhit-sdm-barkhera",
@@ -110,15 +135,23 @@
           "source_url": "https://pilibhit.nic.in/phone-revenue-department/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "9454415867",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2-2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdm.bisalpur.pil-up@gov.in",
       "covers": [
         "bisalpur"
       ],
-      "source_url": "https://pilibhit.nic.in/phone-revenue-department/",
+      "source_url": "https://pilibhit.nic.in/tehsils/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "बीसलपुर"
     },
     {
       "id": "up-pilibhit-sdm-puranpur",
@@ -133,15 +166,23 @@
           "source_url": "https://pilibhit.nic.in/phone-revenue-department/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "9454415875",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2-2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdm.puranpur.pil-up@gov.in",
       "covers": [
         "puranpur"
       ],
-      "source_url": "https://pilibhit.nic.in/phone-revenue-department/",
+      "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2-2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "पूरनपुर"
     },
     {
       "id": "up-pilibhit-sdm-amariya",
@@ -149,14 +190,30 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Amariya",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Amariya",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454415872",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2-2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454417261",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2-2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.amariya.pil-up@gov.in",
       "covers": [
         "amariya"
       ],
-      "source_url": "https://pilibhit.nic.in/whos-who/",
+      "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2-2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "अमरिया"
     },
     {
       "id": "up-pilibhit-sdm-kalinagar",
@@ -171,15 +228,23 @@
           "source_url": "https://pilibhit.nic.in/phone-revenue-department/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "9454415873",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2-2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdm.kalinagar.pil-up@gov.in",
       "covers": [
         "kalinagar"
       ],
-      "source_url": "https://pilibhit.nic.in/phone-revenue-department/",
+      "source_url": "https://pilibhit.nic.in/tehsils/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "कलीनगर"
     },
     {
       "id": "up-pilibhit-bdo-marori",
@@ -187,14 +252,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Marori",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Marori",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464687",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/phone-block-development-officers/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.marori.pil@gmail.com",
       "covers": [
         "marori"
       ],
-      "source_url": "https://pilibhit.nic.in/whos-who/",
+      "source_url": "https://pilibhit.nic.in/blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-pilibhit-ado-marori",
@@ -230,7 +303,7 @@
       "covers": [
         "lalaurikhera"
       ],
-      "source_url": "https://pilibhit.nic.in/phone-block-development-officers/",
+      "source_url": "https://pilibhit.nic.in/blocks/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -255,14 +328,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Amariya",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Amariya",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464686",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a6%e0%a5%82%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%b7-%e0%a4%96%e0%a4%a3%e0%a5%8d%e0%a4%a1-%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.amariya.pil@gmail.com",
       "covers": [
         "amariya"
       ],
-      "source_url": "https://pilibhit.nic.in/whos-who/",
+      "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a6%e0%a5%82%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%b7-%e0%a4%96%e0%a4%a3%e0%a5%8d%e0%a4%a1-%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "खण्ड विकास अधिकारी, अमरिया"
     },
     {
       "id": "up-pilibhit-ado-amariya",
@@ -298,7 +380,7 @@
       "covers": [
         "barkhera"
       ],
-      "source_url": "https://pilibhit.nic.in/phone-block-development-officers/",
+      "source_url": "https://pilibhit.nic.in/blocks/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -336,7 +418,7 @@
       "covers": [
         "bisalpur"
       ],
-      "source_url": "https://pilibhit.nic.in/phone-block-development-officers/",
+      "source_url": "https://pilibhit.nic.in/blocks/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -374,7 +456,7 @@
       "covers": [
         "bilsanda"
       ],
-      "source_url": "https://pilibhit.nic.in/phone-block-development-officers/",
+      "source_url": "https://pilibhit.nic.in/blocks/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -412,7 +494,7 @@
       "covers": [
         "puranpur"
       ],
-      "source_url": "https://pilibhit.nic.in/phone-block-development-officers/",
+      "source_url": "https://pilibhit.nic.in/blocks/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -437,13 +519,308 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Pilibhit",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका पीलीभीत",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8189078058",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-pilibhit-main"
       ],
-      "source_url": "https://pilibhit.nic.in/whos-who/",
+      "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "पीलीभीत नगर पालिका परिषद्"
+    },
+    {
+      "id": "up-pilibhit-eo-nyuriya-husainapur",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nyuriya Husainapur Nagar Panchayat",
+      "office_name_hi": "अधिशासी अधिकारी, न्यूरिया हुसैनपुर नगर पंचायत",
+      "officer_name_en": "न्यूरिया हुसैनपुर नगर पंचायत",
+      "phones": [
+        {
+          "number": "9455918655",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-nyuriya-husainapur"
+      ],
+      "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-pilibhit-eo-jahanabad",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Jahanabad Nagar Panchayat",
+      "office_name_hi": "अधिशासी अधिकारी, जहानाबाद नगर पंचायत",
+      "officer_name_en": "जहानाबाद नगर पंचायत",
+      "phones": [
+        {
+          "number": "8057457001",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-jahanabad"
+      ],
+      "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-pilibhit-eo-guladiya-bhindara",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Guladiya Bhindara Nagar Panchayat",
+      "office_name_hi": "अधिशासी अधिकारी, गुलाडिया भिण्डारा नगर पंचायत",
+      "officer_name_en": "गुलाडिया भिण्डारा नगर पंचायत",
+      "phones": [
+        {
+          "number": "9410468494",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-guladiya-bhindara"
+      ],
+      "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-pilibhit-eo-barakhera",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Barakhera Nagar Panchayat",
+      "office_name_hi": "अधिशासी अधिकारी, बरखेड़ा नगर पंचायत",
+      "officer_name_en": "बरखेड़ा नगर पंचायत",
+      "phones": [
+        {
+          "number": "9453087417",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-barakhera"
+      ],
+      "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-pilibhit-eo-bilasanda",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Bilasanda Nagar Panchayat",
+      "office_name_hi": "अधिशासी अधिकारी, बिलसंडा नगर पंचायत",
+      "officer_name_en": "बिलसंडा नगर पंचायत",
+      "phones": [
+        {
+          "number": "9717364490",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-bilasanda"
+      ],
+      "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-pilibhit-eo-kalinagar",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Kalinagar Nagar Panchayat",
+      "office_name_hi": "अधिशासी अधिकारी, कलीनगर नगर पंचायत",
+      "officer_name_en": "कलीनगर नगर पंचायत",
+      "phones": [
+        {
+          "number": "9458244688",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "7017414241",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/phone-supply-department/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-kalinagar"
+      ],
+      "source_url": "https://pilibhit.nic.in/phone-supply-department/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-pilibhit-eo-pakariya-naugavan",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Pakariya Naugavan Nagar Panchayat",
+      "office_name_hi": "अधिशासी अधिकारी, पकड़िया नौगवां नगर पंचायत",
+      "officer_name_en": "पकड़िया नौगवां नगर पंचायत",
+      "phones": [
+        {
+          "number": "7080747007",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-pakariya-naugavan"
+      ],
+      "source_url": "https://pilibhit.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-pilibhit-eo-pilibhit-board",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Pilibhit Municipal Board",
+      "office_name_hi": "अधिशासी अधिकारी, Pilibhit Municipal Board",
+      "officer_name_en": "Pilibhit Municipal Board",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "eo-pilibhit-main",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-pilibhit-board"
+      ],
+      "source_url": "https://pilibhit.nic.in/municipal-board/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-pilibhit-eo-bisalpur-board",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Bisalpur Municipal Board",
+      "office_name_hi": "अधिशासी अधिकारी, Bisalpur Municipal Board",
+      "officer_name_en": "Bisalpur Municipal Board",
+      "phones": [
+        {
+          "number": "9999634642",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/municipal-board/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-bisalpur-board"
+      ],
+      "source_url": "https://pilibhit.nic.in/municipal-board/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-pilibhit-eo-puranpur-board",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Puranpur Municipal Board",
+      "office_name_hi": "अधिशासी अधिकारी, Puranpur Municipal Board",
+      "officer_name_en": "Puranpur Municipal Board",
+      "phones": [
+        {
+          "number": "9450218520",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/municipal-board/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-puranpur-board"
+      ],
+      "source_url": "https://pilibhit.nic.in/municipal-board/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-pilibhit-eo-neoria-husainpur",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Neoria Husainpur Town Area",
+      "office_name_hi": "अधिशासी अधिकारी, Neoria Husainpur Town Area",
+      "officer_name_en": "Neoria Husainpur Town Area",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-pilibhit-eo-nyuriya-husainapur",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-neoria-husainpur"
+      ],
+      "source_url": "https://pilibhit.nic.in/municipal-board/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-pilibhit-eo-gularia-bhindara",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Gularia Bhindara Town Area",
+      "office_name_hi": "अधिशासी अधिकारी, Gularia Bhindara Town Area",
+      "officer_name_en": "Gularia Bhindara Town Area",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-pilibhit-eo-guladiya-bhindara",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-gularia-bhindara"
+      ],
+      "source_url": "https://pilibhit.nic.in/municipal-board/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-pilibhit-eo-pakadia-naugawan",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Pakadia Naugawan Town Area",
+      "office_name_hi": "अधिशासी अधिकारी, Pakadia Naugawan Town Area",
+      "officer_name_en": "Pakadia Naugawan Town Area",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-pilibhit-eo-pakariya-naugavan",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-pakadia-naugawan"
+      ],
+      "source_url": "https://pilibhit.nic.in/municipal-board/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
     }
   ]
 }

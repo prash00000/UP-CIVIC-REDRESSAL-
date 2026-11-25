@@ -1774,8 +1774,18 @@
     "id": "ward-hamirpur-ulb-hamirpur-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Hamirpur (All Wards)",
-    "name_hi": "हमीरपुर नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका हमीरपुर (सभी वार्ड)",
     "ulb_id": "ulb-hamirpur-main",
+    "tehsil_id": "hamirpur",
+    "district_id": "hamirpur",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-hamirpur-ulb-shri-hemraj",
+    "type": "ward",
+    "name_en": "Shri Hemraj (All Wards)",
+    "name_hi": "Shri Hemraj (सभी वार्ड)",
+    "ulb_id": "ulb-shri-hemraj",
     "tehsil_id": "hamirpur",
     "district_id": "hamirpur",
     "local_body_type": "nagar_palika_parishad"
@@ -1864,7 +1874,7 @@
     "name_en": "Kot Bazar Rath (Urban Ward / SO)",
     "name_hi": "Kot Bazar Rath (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-hamirpur-main",
-    "tehsil_id": "hamirpur",
+    "tehsil_id": "rath",
     "district_id": "hamirpur",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -1890,7 +1900,7 @@
     "name_en": "Rath (Urban Ward / SO)",
     "name_hi": "Rath (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-hamirpur-main",
-    "tehsil_id": "hamirpur",
+    "tehsil_id": "rath",
     "district_id": "hamirpur",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -1903,7 +1913,7 @@
     "name_en": "Sarila State (Urban Ward / SO)",
     "name_hi": "Sarila State (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-hamirpur-main",
-    "tehsil_id": "hamirpur",
+    "tehsil_id": "sarila",
     "district_id": "hamirpur",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [

@@ -22,7 +22,7 @@
       "covers": [
         "lucknow"
       ],
-      "source_url": "https://lucknow.nic.in/directory/",
+      "source_url": "https://lucknow.nic.in/who-is-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "DM Compound Lucknow"
@@ -73,14 +73,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416505",
+          "type": "office",
+          "source_url": "https://lucknow.nic.in/tehsil-telephone/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.sadar.luc-up@gov.in",
       "covers": [
         "sadar"
       ],
-      "source_url": "https://lucknow.nic.in/directory/",
+      "source_url": "https://lucknow.nic.in/tehsil-telephone/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-lucknow-sdm-bakshi-ka-talab",
@@ -180,14 +188,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bakshi Ka Talab",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bakshi Ka Talab",
-      "phones": [],
-      "email": "bdo.bakshikatalab.luc@gmail.com",
+      "phones": [
+        {
+          "number": "9454465466",
+          "type": "office",
+          "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "blockbkt@gmail.com",
       "covers": [
         "bakshi-ka-talab"
       ],
-      "source_url": "https://lucknow.nic.in/directory/",
+      "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-lucknow-ado-bakshi-ka-talab",
@@ -250,7 +266,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.chinhat.luc@gmail.com",
+      "email": "bdochinhatlko@gmail.com",
       "covers": [
         "chinhat"
       ],
@@ -319,7 +335,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.kakori.luc@gmail.com",
+      "email": "bdokkr@gmail.com",
       "covers": [
         "kakori"
       ],
@@ -388,13 +404,13 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.mal.luc@gmail.com",
       "covers": [
         "mal"
       ],
       "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "email": "bdomall2010@yahoo.in"
     },
     {
       "id": "up-lucknow-ado-mal",
@@ -457,7 +473,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.malihabad.luc@gmail.com",
+      "email": "bdomalihabad@gmail.com",
       "covers": [
         "malihabad"
       ],
@@ -517,14 +533,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Gosainganj",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gosainganj",
-      "phones": [],
-      "email": "bdo.gosainganj.luc@gmail.com",
+      "phones": [
+        {
+          "number": "9454465470",
+          "type": "office",
+          "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "bdogosaiganj@gmail.com",
       "covers": [
         "gosainganj"
       ],
-      "source_url": "https://lucknow.nic.in/directory/",
+      "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-lucknow-ado-gosainganj",
@@ -587,7 +611,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.mohanlalganj.luc@gmail.com",
+      "email": "bdomohanlalganj@gmail.com",
       "covers": [
         "mohanlalganj"
       ],
@@ -656,7 +680,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.sarojininagar.luc@gmail.com",
+      "email": "bdosng@gmail.com",
       "covers": [
         "sarojini-nagar"
       ],

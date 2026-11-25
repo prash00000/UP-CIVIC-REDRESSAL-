@@ -2388,11 +2388,31 @@
     "id": "ward-saharanpur-ulb-saharanpur-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Saharanpur (All Wards)",
-    "name_hi": "सहारनपुर नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका सहारनपुर (सभी वार्ड)",
     "ulb_id": "ulb-saharanpur-main",
     "tehsil_id": "saharanpur",
     "district_id": "saharanpur",
     "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-saharanpur-ulb-devaband",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Devaband (All Wards)",
+    "name_hi": "नगर पालिका परिषद देवबंद (सभी वार्ड)",
+    "ulb_id": "ulb-devaband",
+    "tehsil_id": "saharanpur",
+    "district_id": "saharanpur",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-saharanpur-ulb-sultanapur-chilakana",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Sultanapur Chilakana (All Wards)",
+    "name_hi": "नगर पंचायत सुल्तानपुर चिलकाना (सभी वार्ड)",
+    "ulb_id": "ulb-sultanapur-chilakana",
+    "tehsil_id": "saharanpur",
+    "district_id": "saharanpur",
+    "local_body_type": "nagar_panchayat"
   },
   {
     "id": "town-saharanpur-ndc-saharanpur",
@@ -2402,7 +2422,7 @@
     "ulb_id": "ulb-saharanpur-main",
     "tehsil_id": "saharanpur",
     "district_id": "saharanpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "247001"
     ]
@@ -2415,7 +2435,7 @@
     "ulb_id": "ulb-saharanpur-main",
     "tehsil_id": "saharanpur",
     "district_id": "saharanpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "247001"
     ]
@@ -2480,7 +2500,7 @@
     "ulb_id": "ulb-saharanpur-main",
     "tehsil_id": "saharanpur",
     "district_id": "saharanpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "247001"
     ]
@@ -2571,7 +2591,7 @@
     "ulb_id": "ulb-saharanpur-main",
     "tehsil_id": "saharanpur",
     "district_id": "saharanpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "247551"
     ]
@@ -2597,7 +2617,7 @@
     "ulb_id": "ulb-saharanpur-main",
     "tehsil_id": "saharanpur",
     "district_id": "saharanpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "247451"
     ]
@@ -2686,7 +2706,7 @@
     "name_en": "Nakur (Urban Ward / SO)",
     "name_hi": "Nakur (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-saharanpur-main",
-    "tehsil_id": "saharanpur",
+    "tehsil_id": "nakur",
     "district_id": "saharanpur",
     "local_body_type": "nagar_nigam",
     "pincodes": [
@@ -2727,7 +2747,7 @@
     "ulb_id": "ulb-saharanpur-main",
     "tehsil_id": "saharanpur",
     "district_id": "saharanpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "247001"
     ]
@@ -2753,7 +2773,7 @@
     "ulb_id": "ulb-saharanpur-main",
     "tehsil_id": "saharanpur",
     "district_id": "saharanpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "247121"
     ]
@@ -2842,7 +2862,7 @@
     "name_en": "Darul Uloom Deoband (Urban Ward / SO)",
     "name_hi": "Darul Uloom Deoband (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-saharanpur-main",
-    "tehsil_id": "saharanpur",
+    "tehsil_id": "deoband",
     "district_id": "saharanpur",
     "local_body_type": "nagar_nigam",
     "pincodes": [
@@ -2855,7 +2875,7 @@
     "name_en": "Bus Stand Deoband (Urban Ward / SO)",
     "name_hi": "Bus Stand Deoband (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-saharanpur-main",
-    "tehsil_id": "saharanpur",
+    "tehsil_id": "deoband",
     "district_id": "saharanpur",
     "local_body_type": "nagar_nigam",
     "pincodes": [
@@ -2868,7 +2888,7 @@
     "name_en": "Deoband (Urban Ward / SO)",
     "name_hi": "Deoband (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-saharanpur-main",
-    "tehsil_id": "saharanpur",
+    "tehsil_id": "deoband",
     "district_id": "saharanpur",
     "local_body_type": "nagar_nigam",
     "pincodes": [
@@ -2920,7 +2940,7 @@
     "name_en": "Industrial Estate Deoband (Urban Ward / SO)",
     "name_hi": "Industrial Estate Deoband (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-saharanpur-main",
-    "tehsil_id": "saharanpur",
+    "tehsil_id": "deoband",
     "district_id": "saharanpur",
     "local_body_type": "nagar_nigam",
     "pincodes": [

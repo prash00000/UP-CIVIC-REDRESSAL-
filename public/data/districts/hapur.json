@@ -130,15 +130,23 @@
           "source_url": "https://hapur.nic.in/development-department/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "9506800621",
+          "type": "office",
+          "source_url": "https://hapur.nic.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "bdo.hapur.hpr@gmail.com",
       "covers": [
         "hapur"
       ],
-      "source_url": "https://hapur.nic.in/development-department/",
+      "source_url": "https://hapur.nic.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "खण्ड विकास अधिकारी, हापुड़"
     },
     {
       "id": "up-hapur-ado-hapur",
@@ -174,9 +182,10 @@
       "covers": [
         "simbhawali"
       ],
-      "source_url": "https://hapur.nic.in/development-department/",
+      "source_url": "https://hapur.nic.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "खण्ड विकास अधिकारी, सिम्भावली"
     },
     {
       "id": "up-hapur-ado-simbhawali",
@@ -199,14 +208,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Garhmukteshwar",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Garhmukteshwar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9569625536",
+          "type": "office",
+          "source_url": "https://hapur.nic.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.garhmukteshwar.hpr@gmail.com",
       "covers": [
         "garhmukteshwar"
       ],
-      "source_url": "https://hapur.nic.in/development-department/",
+      "source_url": "https://hapur.nic.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "खण्ड विकास अधिकारी, गढ़मुक्तेश्वर"
     },
     {
       "id": "up-hapur-ado-garhmukteshwar",
@@ -242,9 +260,10 @@
       "covers": [
         "dhaulana"
       ],
-      "source_url": "https://hapur.nic.in/development-department/",
+      "source_url": "https://hapur.nic.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "खण्ड विकास अधिकारी, धौलाना"
     },
     {
       "id": "up-hapur-ado-dhaulana",
@@ -267,13 +286,114 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Hapur",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका हापुड़",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8189077903",
+          "type": "office",
+          "source_url": "https://hapur.nic.in/public-utility-category/municipalities/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-hapur-main"
       ],
-      "source_url": "https://hapur.nic.in/whos-who/",
+      "source_url": "https://hapur.nic.in/public-utility-category/municipalities/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "email": "eonpphapurhp-up@nic.in",
+      "address_en": "Lothi Gate Nagar, Atarpura Chopla, Hapur Email : eonpphapurhp-up[at]nic[dot]in Phone : 8189077903 Pincode : 245101"
+    },
+    {
+      "id": "up-hapur-eo-nagar-palika-parishad-garhmukteshwar",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar palika Parishad Garhmukteshwar",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar palika Parishad Garhmukteshwar",
+      "phones": [
+        {
+          "number": "9411688738",
+          "type": "office",
+          "source_url": "https://hapur.nic.in/public-utility-category/municipalities/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonppgarmuhp-up@nic.in",
+      "covers": [
+        "ulb-nagar-palika-parishad-garhmukteshwar"
+      ],
+      "source_url": "https://hapur.nic.in/public-utility-category/municipalities/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Garhmukteshwar Email : eonppgarmuhp-up[at]nic[dot]in Phone : 9411688738 Pincode : 245101"
+    },
+    {
+      "id": "up-hapur-eo-nagar-palika-parishad-pilkhuwa",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar palika Parishad Pilkhuwa",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar palika Parishad Pilkhuwa",
+      "phones": [
+        {
+          "number": "9454573500",
+          "type": "office",
+          "source_url": "https://hapur.nic.in/public-utility-category/municipalities/page/2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonpppilkhuhp-up@nic.in",
+      "covers": [
+        "ulb-nagar-palika-parishad-pilkhuwa"
+      ],
+      "source_url": "https://hapur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Pilkhuwa Email : eonpppilkhuhp-up[at]nic[dot]in Phone : 9454573500 Pincode : 245101"
+    },
+    {
+      "id": "up-hapur-eo-nagar-panchayat-babugarh",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Babugarh",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat Babugarh",
+      "phones": [
+        {
+          "number": "8826550942",
+          "type": "office",
+          "source_url": "https://hapur.nic.in/public-utility-category/municipalities/page/2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "eonpbabuhp-up@nic.in",
+      "covers": [
+        "ulb-nagar-panchayat-babugarh"
+      ],
+      "source_url": "https://hapur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "बाबूगढ़ ईमेल : eonpbabuhp-up[at]nic[dot]in फोन : 8826550942 Pincode : 245101"
+    },
+    {
+      "id": "up-hapur-eo-gadhamukteshvar",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Gadhamukteshvar",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका परिषद गढमुक्तेश्वर",
+      "phones": [],
+      "email": "eonppgarmuhp-up@nic.in",
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-hapur-eo-nagar-palika-parishad-garhmukteshwar",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-gadhamukteshvar"
+      ],
+      "source_url": "https://hapur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "गढमुक्तेश्वर ईमेल : eonppgarmuhp-up[at]nic[dot]in फोन : 9411688738 Pincode : 245101"
     }
   ]
 }

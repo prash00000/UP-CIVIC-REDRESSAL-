@@ -1279,8 +1279,48 @@
     "id": "ward-hapur-ulb-hapur-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Hapur (All Wards)",
-    "name_hi": "हापुड़ नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका हापुड़ (सभी वार्ड)",
     "ulb_id": "ulb-hapur-main",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-hapur-ulb-nagar-palika-parishad-garhmukteshwar",
+    "type": "ward",
+    "name_en": "Nagar palika Parishad Garhmukteshwar (All Wards)",
+    "name_hi": "Nagar palika Parishad Garhmukteshwar (सभी वार्ड)",
+    "ulb_id": "ulb-nagar-palika-parishad-garhmukteshwar",
+    "tehsil_id": "garhmukteshwar",
+    "district_id": "hapur",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-hapur-ulb-nagar-palika-parishad-pilkhuwa",
+    "type": "ward",
+    "name_en": "Nagar palika Parishad Pilkhuwa (All Wards)",
+    "name_hi": "Nagar palika Parishad Pilkhuwa (सभी वार्ड)",
+    "ulb_id": "ulb-nagar-palika-parishad-pilkhuwa",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-hapur-ulb-nagar-panchayat-babugarh",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Babugarh (All Wards)",
+    "name_hi": "Nagar Panchayat Babugarh (सभी वार्ड)",
+    "ulb_id": "ulb-nagar-panchayat-babugarh",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-hapur-ulb-gadhamukteshvar",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Gadhamukteshvar (All Wards)",
+    "name_hi": "नगर पालिका परिषद गढमुक्तेश्वर (सभी वार्ड)",
+    "ulb_id": "ulb-gadhamukteshvar",
     "tehsil_id": "hapur",
     "district_id": "hapur",
     "local_body_type": "nagar_palika_parishad"
@@ -1304,7 +1344,7 @@
     "name_en": "Dhaulana (Urban Ward / SO)",
     "name_hi": "Dhaulana (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-hapur-main",
-    "tehsil_id": "hapur",
+    "tehsil_id": "dhaulana",
     "district_id": "hapur",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -1316,7 +1356,7 @@
     "type": "ward",
     "name_en": "Pilkhuwa (Urban Ward / SO)",
     "name_hi": "Pilkhuwa (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-hapur-main",
+    "ulb_id": "ulb-nagar-palika-parishad-pilkhuwa",
     "tehsil_id": "hapur",
     "district_id": "hapur",
     "local_body_type": "nagar_palika_parishad",
@@ -1407,8 +1447,8 @@
     "type": "ward",
     "name_en": "Garhmukteshwar (Urban Ward / SO)",
     "name_hi": "Garhmukteshwar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-hapur-main",
-    "tehsil_id": "hapur",
+    "ulb_id": "ulb-nagar-palika-parishad-garhmukteshwar",
+    "tehsil_id": "garhmukteshwar",
     "district_id": "hapur",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -1433,10 +1473,10 @@
     "type": "ward",
     "name_en": "Babugarh (Urban Ward / SO)",
     "name_hi": "Babugarh (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-hapur-main",
+    "ulb_id": "ulb-nagar-panchayat-babugarh",
     "tehsil_id": "hapur",
     "district_id": "hapur",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "245201"
     ]

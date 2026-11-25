@@ -63,9 +63,9 @@
       "covers": [
         "rampur"
       ],
-      "source_url": "https://rampur.nic.in/whos-who/",
+      "source_url": "https://rampur.nic.in/hi/%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%87-%e0%a4%ae%e0%a5%87%e0%a4%b2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-rampur-sdm-sadar",
@@ -73,14 +73,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416960",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/11/17954281964844.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.sadar.rmp-up@gov.in",
       "covers": [
         "sadar"
       ],
-      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
+      "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/11/17954281964844.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Sadar Tehsil Headquarter pin-244901"
     },
     {
       "id": "up-rampur-sdm-bilaspur",
@@ -88,14 +97,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bilaspur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bilaspur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416945",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/04/17750337722810.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.bilaspur.rmp-up@gov.in",
       "covers": [
         "bilaspur"
       ],
-      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
+      "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/04/17750337722810.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Tehsil Headquarter Bilaspur Category/Type : tehsil"
     },
     {
       "id": "up-rampur-sdm-milak",
@@ -103,14 +121,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Milak",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Milak",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416944",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/04/17750337722810.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.milak.rmp-up@gov.in",
       "covers": [
         "milak"
       ],
-      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
+      "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/04/17750337722810.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Tehsil Headquarter Milak"
     },
     {
       "id": "up-rampur-sdm-shahabad",
@@ -118,14 +145,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Shahabad",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Shahabad",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416946",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/11/17954281964844.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.shahabad.rmp-up@gov.in",
       "covers": [
         "shahabad"
       ],
-      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
+      "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/11/17954281964844.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Tehsil Shahabd"
     },
     {
       "id": "up-rampur-sdm-suar",
@@ -149,13 +185,14 @@
       "office_name_en": "Block Development Officer, Block Chamraua",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chamraua",
       "phones": [],
-      "email": "bdo.chamraua.rmp@gmail.com",
+      "email": "bdocham.ra-up@gov.in",
       "covers": [
         "chamraua"
       ],
-      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
+      "source_url": "https://rampur.nic.in/public-utility-category/blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Chamraua Block"
     },
     {
       "id": "up-rampur-ado-chamraua",
@@ -179,13 +216,14 @@
       "office_name_en": "Block Development Officer, Block Saidnagar",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Saidnagar",
       "phones": [],
-      "email": "bdo.saidnagar.rmp@gmail.com",
+      "email": "bdosaid.ra-up@gov.in",
       "covers": [
         "saidnagar"
       ],
-      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
+      "source_url": "https://rampur.nic.in/public-utility-category/blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Saidnagar Block saidnagar"
     },
     {
       "id": "up-rampur-ado-saidnagar",
@@ -209,11 +247,11 @@
       "office_name_en": "Block Development Officer, Block Shahabad",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shahabad",
       "phones": [],
-      "email": "bdo.shahabad.rmp@gmail.com",
+      "email": "bdosbad.ra-up@gov.in",
       "covers": [
         "shahabad"
       ],
-      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
+      "source_url": "https://rampur.nic.in/public-utility-category/blocks/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -239,13 +277,14 @@
       "office_name_en": "Block Development Officer, Block Milak",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Milak",
       "phones": [],
-      "email": "bdo.milak.rmp@gmail.com",
+      "email": "bdomilak.ra-up@gov.in",
       "covers": [
         "milak"
       ],
-      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
+      "source_url": "https://rampur.nic.in/public-utility-category/blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Milak Block"
     },
     {
       "id": "up-rampur-ado-milak",
@@ -269,13 +308,14 @@
       "office_name_en": "Block Development Officer, Block Bilaspur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bilaspur",
       "phones": [],
-      "email": "bdo.bilaspur.rmp@gmail.com",
+      "email": "bdobilas.ra-up@gov.in",
       "covers": [
         "bilaspur"
       ],
-      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
+      "source_url": "https://rampur.nic.in/public-utility-category/blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Bilaspur Block"
     },
     {
       "id": "up-rampur-ado-bilaspur",
@@ -299,7 +339,7 @@
       "office_name_en": "Block Development Officer, Block Suar",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Suar",
       "phones": [],
-      "email": "bdo.suar.rmp@gmail.com",
+      "email": "bdosuar.ra-up@gov.in",
       "covers": [
         "suar"
       ],
@@ -328,14 +368,292 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Rampur",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका रामपुर",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05952-970051",
+          "type": "landline",
+          "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-rampur-main"
       ],
-      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
+      "source_url": "https://rampur.nic.in/hi/public-utility-category/%E0%A4%A8%E0%A4%97%E0%A4%B0-%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%BE/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "email": "bdosaid.ra-up@gov.in"
+      "email": "bdosaid.ra-up@gov.in",
+      "address_en": "Nagar Plaika Rampur-244901 Email : eonpprampra-up[at]nic[dot]in Phone : 05952970051 Website Link : http://npprampur.gov.in/ Pincode : 244901"
+    },
+    {
+      "id": "up-rampur-eo-nagar-palika-parishad-bilaspur",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Bilaspur",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Palika Parishad Bilaspur",
+      "phones": [
+        {
+          "number": "0595-2412057",
+          "type": "landline",
+          "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05952-412057",
+          "type": "landline",
+          "source_url": "https://rampur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-nagar-palika-parishad-bilaspur"
+      ],
+      "source_url": "https://rampur.nic.in/hi/public-utility-category/%E0%A4%A8%E0%A4%97%E0%A4%B0-%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%BE/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Nagar Palika Parishad Bilaspur Phone : 0595-2412057",
+      "email": "eonppbilasra-up@nic.in"
+    },
+    {
+      "id": "up-rampur-eo-nagar-palika-parishad-milak",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Milak",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Palika Parishad Milak",
+      "phones": [
+        {
+          "number": "0595-2224090",
+          "type": "landline",
+          "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05952-224090",
+          "type": "landline",
+          "source_url": "https://rampur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-nagar-palika-parishad-milak"
+      ],
+      "source_url": "https://rampur.nic.in/hi/public-utility-category/%E0%A4%A8%E0%A4%97%E0%A4%B0-%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%BE/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Nagar Palika Parishad Milak Phone : 0595-2224090",
+      "email": "eonppmilakra-up@nic.in"
+    },
+    {
+      "id": "up-rampur-eo-nagar-palika-parishad-swar",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Swar",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Palika Parishad Swar",
+      "phones": [
+        {
+          "number": "0595-2515455",
+          "type": "landline",
+          "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-nagar-palika-parishad-swar"
+      ],
+      "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Nagar Palika Parishad Swar Rampur Phone : 0595-2515455",
+      "email": "eonppswarra-up@nic.in"
+    },
+    {
+      "id": "up-rampur-eo-nagar-palika-parishad-tanda",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Parishad Tanda",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Palika Parishad Tanda",
+      "phones": [
+        {
+          "number": "0595-2535329",
+          "type": "landline",
+          "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-nagar-palika-parishad-tanda"
+      ],
+      "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Nagar Palika Parishad Tanda Phone : 0595-2535329",
+      "email": "eonpptandra-up@nic.in"
+    },
+    {
+      "id": "up-rampur-eo-nagar-panchayat-dariyal",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Dariyal",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat Dariyal",
+      "phones": [
+        {
+          "number": "9918189084",
+          "type": "office",
+          "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-nagar-panchayat-dariyal"
+      ],
+      "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Nagar Panchayat Dariyal Phone : 9918189084 Pincode : 244925"
+    },
+    {
+      "id": "up-rampur-eo-nagar-panchayat-kemri",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Kemri",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat Kemri",
+      "phones": [
+        {
+          "number": "0595-2450042",
+          "type": "landline",
+          "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-nagar-panchayat-kemri"
+      ],
+      "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Nagar Panchayat Kemri Phone : 0595-2450042",
+      "email": "eonpkamrra-up@nic.in"
+    },
+    {
+      "id": "up-rampur-eo-nagar-panchayat-maswasi",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Maswasi",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat Maswasi",
+      "phones": [
+        {
+          "number": "0595-2555541",
+          "type": "landline",
+          "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-nagar-panchayat-maswasi"
+      ],
+      "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Nagar Panchayat Maswasi Phone : 0595-2555541",
+      "email": "eonpmasra-up@nic.in"
+    },
+    {
+      "id": "up-rampur-eo-nagar-panchayat-narpatnagar",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Narpatnagar",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat Narpatnagar",
+      "phones": [
+        {
+          "number": "9451846910",
+          "type": "office",
+          "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-nagar-panchayat-narpatnagar"
+      ],
+      "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Nagar Panchayat Narpatnagar Phone : 9451846910 Pincode : 244924"
+    },
+    {
+      "id": "up-rampur-eo-nagar-panchayat-saifni",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar panchayat Saifni",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar panchayat Saifni",
+      "phones": [
+        {
+          "number": "9889554017",
+          "type": "office",
+          "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-nagar-panchayat-saifni"
+      ],
+      "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Nagar panchayat Saifni Phone : 9889554017 Pincode : 202417"
+    },
+    {
+      "id": "up-rampur-eo-nagar-panchayat-shahbad",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Shahbad",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat Shahbad",
+      "phones": [
+        {
+          "number": "0595-2264040",
+          "type": "landline",
+          "source_url": "https://rampur.nic.in/public-utility-category/municipality/page/2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-nagar-panchayat-shahbad"
+      ],
+      "source_url": "https://rampur.nic.in/public-utility-category/municipality/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Nagar Panchayat Shahbad Phone : 0595-2264040",
+      "email": "eonpshahra-up@nic.in"
+    },
+    {
+      "id": "up-rampur-eo-dadiyal",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Dadiyal",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत दडियल",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-rampur-eo-nagar-panchayat-dariyal",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-dadiyal"
+      ],
+      "source_url": "https://rampur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Nagar Panchayat Dariyal फोन : 9918189084 Pincode : 244925"
     }
   ]
 }

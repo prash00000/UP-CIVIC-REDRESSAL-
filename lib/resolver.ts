@@ -228,13 +228,28 @@ export function resolveOfficers(
     const wardOffice = ulbId ? findOffice("ward", ulbId) : undefined;
 
     const list: ResolvedOfficerItem[] = [];
+    let pushedEoFallbackId: string | undefined;
 
     if (eoOffice) {
+      const eoFallback =
+        eoOffice.phones.length === 0 && eoOffice.fallback_office_id
+          ? offices.find((o) => o.id === eoOffice.fallback_office_id)
+          : undefined;
       list.push({
         office: eoOffice,
         resolvedRole: "eo",
+        additionalChargeNote: eoOffice.post_status === "additional_charge",
         noPhone: eoOffice.phones.length === 0,
       });
+      if (eoFallback && eoFallback.phones.length > 0) {
+        pushedEoFallbackId = eoFallback.id;
+        list.push({
+          office: eoFallback,
+          resolvedRole: eoFallback.role,
+          isFallback: true,
+          noPhone: false,
+        });
+      }
     }
 
     if (chairmanOffice) {
@@ -253,7 +268,7 @@ export function resolveOfficers(
       });
     }
 
-    if (sdmOffice) {
+    if (sdmOffice && sdmOffice.id !== pushedEoFallbackId) {
       list.push({
         office: sdmOffice,
         resolvedRole: "sdm",

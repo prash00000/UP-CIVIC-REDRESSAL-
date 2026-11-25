@@ -15,13 +15,27 @@
           "source_url": "https://meerut.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "0121-2623024",
+          "type": "landline",
+          "source_url": "https://meerut.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0121-2642232",
+          "type": "landline",
+          "source_url": "https://meerut.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmmee@nic.in",
       "covers": [
         "meerut"
       ],
-      "source_url": "https://meerut.nic.in/about-district/whos-who/",
+      "source_url": "https://meerut.nic.in/contact-directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Dr. Vijay Kumar Singh",
@@ -40,6 +54,13 @@
           "source_url": "https://meerut.nic.in/contact-directory/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "0121-2663605",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3d947bf06a885db0d477d707121934ff8/uploads/2018/05/2018052484.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "cdo.mrt-up@gov.in",
@@ -56,14 +77,29 @@
       "role": "dpro",
       "office_name_en": "District Panchayat Raj Officer (DPRO), Meerut",
       "office_name_hi": "जिला पंचायत राज अधिकारी, मेरठ",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9889375535",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3d947bf06a885db0d477d707121934ff8/uploads/2018/05/2018052484.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0121-2665711",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3d947bf06a885db0d477d707121934ff8/uploads/2018/05/2018052484.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "dpro-mrt@nic.in",
       "covers": [
         "meerut"
       ],
-      "source_url": "https://meerut.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3d947bf06a885db0d477d707121934ff8/uploads/2018/05/2018052484.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-meerut-sdm-meerut",
@@ -101,13 +137,20 @@
           "source_url": "https://meerut.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "01233-274242",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3d947bf06a885db0d477d707121934ff8/uploads/2018/05/2018052484.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdm.mawana.mrt-up@gov.in",
       "covers": [
         "mawana"
       ],
-      "source_url": "https://meerut.nic.in/contact-directory/",
+      "source_url": "https://cdn.s3waas.gov.in/s3d947bf06a885db0d477d707121934ff8/uploads/2018/05/2018052484.pdf",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -124,13 +167,20 @@
           "source_url": "https://meerut.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "01237-236084",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3d947bf06a885db0d477d707121934ff8/uploads/2018/05/2018052484.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdm.sardhana.mrt-up@gov.in",
       "covers": [
         "sardhana"
       ],
-      "source_url": "https://meerut.nic.in/contact-directory/",
+      "source_url": "https://cdn.s3waas.gov.in/s3d947bf06a885db0d477d707121934ff8/uploads/2018/05/2018052484.pdf",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -512,14 +562,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Machhra",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Machhra",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465098",
+          "type": "office",
+          "source_url": "https://meerut.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.machhra.mrt@gmail.com",
       "covers": [
         "machhra"
       ],
-      "source_url": "https://meerut.nic.in/whos-who/",
+      "source_url": "https://meerut.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-meerut-ado-machhra",
@@ -572,13 +630,23 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Meerut",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका मेरठ",
-      "phones": [],
+      "phones": [
+        {
+          "number": "01237-236080",
+          "type": "landline",
+          "source_url": "https://meerut.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-meerut-main"
       ],
-      "source_url": "https://meerut.nic.in/whos-who/",
+      "source_url": "https://meerut.nic.in/public-utility-category/municipality/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "email": "nppsardhana@gmail.com",
+      "address_en": "Nagar Palika Parishad Sardhana, Near Teshil Sardhana, Meerut Email : nppsardhana[at]gmail[dot]com Phone : 01237236080 Website Link : http://www.nppsardhana.com/"
     },
     {
       "id": "up-meerut-commissioner",

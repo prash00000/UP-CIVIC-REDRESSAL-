@@ -3310,11 +3310,91 @@
     "id": "ward-fatehpur-ulb-fatehpur-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Fatehpur (All Wards)",
-    "name_hi": "फतेहपुर नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका फतेहपुर (सभी वार्ड)",
     "ulb_id": "ulb-fatehpur-main",
     "tehsil_id": "fatehpur",
     "district_id": "fatehpur",
     "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-fatehpur-ulb-nagar-panchayat-bahua",
+    "type": "ward",
+    "name_en": "Nagar Panchayat, Bahua (All Wards)",
+    "name_hi": "Nagar Panchayat, Bahua (सभी वार्ड)",
+    "ulb_id": "ulb-nagar-panchayat-bahua",
+    "tehsil_id": "fatehpur",
+    "district_id": "fatehpur",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-fatehpur-ulb-nagar-panchayat-hathgaon",
+    "type": "ward",
+    "name_en": "Nagar Panchayat, Hathgaon (All Wards)",
+    "name_hi": "Nagar Panchayat, Hathgaon (सभी वार्ड)",
+    "ulb_id": "ulb-nagar-panchayat-hathgaon",
+    "tehsil_id": "fatehpur",
+    "district_id": "fatehpur",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-fatehpur-ulb-nagar-panchayat-jahanabad",
+    "type": "ward",
+    "name_en": "Nagar Panchayat, Jahanabad (All Wards)",
+    "name_hi": "Nagar Panchayat, Jahanabad (सभी वार्ड)",
+    "ulb_id": "ulb-nagar-panchayat-jahanabad",
+    "tehsil_id": "fatehpur",
+    "district_id": "fatehpur",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-fatehpur-ulb-nagar-panchayat-khaga",
+    "type": "ward",
+    "name_en": "Nagar Panchayat, Khaga (All Wards)",
+    "name_hi": "Nagar Panchayat, Khaga (सभी वार्ड)",
+    "ulb_id": "ulb-nagar-panchayat-khaga",
+    "tehsil_id": "khaga",
+    "district_id": "fatehpur",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-fatehpur-ulb-kishunapur",
+    "type": "ward",
+    "name_en": "Nagar Panchayat, Kishunapur (All Wards)",
+    "name_hi": "नगर पंचायत, किशुनपुर (सभी वार्ड)",
+    "ulb_id": "ulb-kishunapur",
+    "tehsil_id": "fatehpur",
+    "district_id": "fatehpur",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-fatehpur-ulb-bindaki",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad, Bindaki (All Wards)",
+    "name_hi": "नगर पालिका परिषद, बिन्दकी (सभी वार्ड)",
+    "ulb_id": "ulb-bindaki",
+    "tehsil_id": "fatehpur",
+    "district_id": "fatehpur",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-fatehpur-ulb-kora-jahanabad",
+    "type": "ward",
+    "name_en": "Nagar Panchayat, Kora Jahanabad (All Wards)",
+    "name_hi": "नगर पंचायत, कोड़ा जहानाबाद (सभी वार्ड)",
+    "ulb_id": "ulb-kora-jahanabad",
+    "tehsil_id": "fatehpur",
+    "district_id": "fatehpur",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-fatehpur-ulb-hathaganm",
+    "type": "ward",
+    "name_en": "Nagar Panchayat, Hathaganm (All Wards)",
+    "name_hi": "नगर पंचायत, हथगांम (सभी वार्ड)",
+    "ulb_id": "ulb-hathaganm",
+    "tehsil_id": "fatehpur",
+    "district_id": "fatehpur",
+    "local_body_type": "nagar_panchayat"
   },
   {
     "id": "town-fatehpur-fatehpur",
@@ -3386,10 +3466,10 @@
     "type": "ward",
     "name_en": "Khaga (Urban Ward / SO)",
     "name_hi": "Khaga (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-fatehpur-main",
-    "tehsil_id": "fatehpur",
+    "ulb_id": "ulb-nagar-panchayat-khaga",
+    "tehsil_id": "khaga",
     "district_id": "fatehpur",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "212655"
     ]
@@ -3464,10 +3544,10 @@
     "type": "ward",
     "name_en": "Khaga Town (Urban Ward / SO)",
     "name_hi": "Khaga Town (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-fatehpur-main",
-    "tehsil_id": "fatehpur",
+    "ulb_id": "ulb-nagar-panchayat-khaga",
+    "tehsil_id": "khaga",
     "district_id": "fatehpur",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "212655"
     ]
@@ -3504,7 +3584,7 @@
     "name_en": "Bindki (Urban Ward / SO)",
     "name_hi": "Bindki (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-fatehpur-main",
-    "tehsil_id": "fatehpur",
+    "tehsil_id": "bindki",
     "district_id": "fatehpur",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -3542,10 +3622,10 @@
     "type": "ward",
     "name_en": "Hathgaon (Urban Ward / SO)",
     "name_hi": "Hathgaon (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-fatehpur-main",
+    "ulb_id": "ulb-nagar-panchayat-hathgaon",
     "tehsil_id": "fatehpur",
     "district_id": "fatehpur",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "212652"
     ]
@@ -3594,10 +3674,10 @@
     "type": "ward",
     "name_en": "Kora Jahanabad (Urban Ward / SO)",
     "name_hi": "Kora Jahanabad (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-fatehpur-main",
+    "ulb_id": "ulb-kora-jahanabad",
     "tehsil_id": "fatehpur",
     "district_id": "fatehpur",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "212659"
     ]
@@ -3633,10 +3713,10 @@
     "type": "ward",
     "name_en": "Bahua (Urban Ward / SO)",
     "name_hi": "Bahua (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-fatehpur-main",
+    "ulb_id": "ulb-nagar-panchayat-bahua",
     "tehsil_id": "fatehpur",
     "district_id": "fatehpur",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "212663"
     ]
@@ -3686,7 +3766,7 @@
     "name_en": "Purani Bindki (Urban Ward / SO)",
     "name_hi": "Purani Bindki (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-fatehpur-main",
-    "tehsil_id": "fatehpur",
+    "tehsil_id": "bindki",
     "district_id": "fatehpur",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [

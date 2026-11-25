@@ -16,13 +16,20 @@
           "source_url": "https://sonbhadra.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "05444-222190",
+          "type": "landline",
+          "source_url": "https://sonbhadra.nic.in/hi/e0-a4-95-e0-a5-8c-e0-a4-a8-e0-a4-95-e0-a5-8c-e0-a4-a8-e0-a4-b9-e0-a5-88/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmson@nic.in",
       "covers": [
         "sonbhadra"
       ],
-      "source_url": "https://sonbhadra.nic.in/about-district/whos-who/",
+      "source_url": "https://sonbhadra.nic.in/hi/e0-a4-95-e0-a5-8c-e0-a4-a8-e0-a4-95-e0-a5-8c-e0-a4-a8-e0-a4-b9-e0-a5-88/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "dmson[at]nic[dot]in DM Office, Lodhi, Sonbhadra, U.P."
@@ -46,7 +53,7 @@
       "covers": [
         "sonbhadra"
       ],
-      "source_url": "https://sonbhadra.nic.in/contact-directory/",
+      "source_url": "https://sonbhadra.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%ad%e0%a4%a6%e0%a5%8d/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -117,14 +124,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Duddhi",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Duddhi",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416846",
+          "type": "office",
+          "source_url": "https://sonbhadra.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%ad%e0%a4%a6%e0%a5%8d/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.duddhi.snb-up@gov.in",
       "covers": [
         "duddhi"
       ],
-      "source_url": "https://sonbhadra.nic.in/whos-who/",
+      "source_url": "https://sonbhadra.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%ad%e0%a4%a6%e0%a5%8d/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sonbhadra-sdm-obra",
@@ -399,9 +414,11 @@
       "covers": [
         "ulb-sonbhadra-main"
       ],
-      "source_url": "https://sonbhadra.nic.in/whos-who/",
+      "source_url": "https://sonbhadra.nic.in/public-utility-category/municipality/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "email": "eonpprawartganjso-up@nic.in",
+      "address_en": "Robrtsganj Nagar Palika Parishad, U.P, Pin 231216 Email : eonpprawartganjso-up[at]nic[dot]in Website Link : http://uptownplanning.gov.in/article/en/robertsgunj-ra"
     }
   ]
 }

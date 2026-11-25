@@ -22,9 +22,10 @@
       "covers": [
         "mathura"
       ],
-      "source_url": "https://mathura.nic.in/whos-who/",
+      "source_url": "https://mathura.nic.in/hi/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a5%87-%e0%a4%95%e0%a5%87-%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "जिलाधिकारी कार्यालय मथुरा"
     },
     {
       "id": "up-mathura-cdo",
@@ -70,10 +71,10 @@
       "covers": [
         "mathura"
       ],
-      "source_url": "https://mathura.nic.in/contact-directory/",
+      "source_url": "https://mathura.nic.in/hi/%E0%A4%B8%E0%A4%82%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%95-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "officer_name_en": "DPRO"
+      "officer_name_en": "डी.पी.आर.ओ"
     },
     {
       "id": "up-mathura-sdm-mathura",
@@ -128,12 +129,20 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Goverdhan",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Goverdhan",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417391",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.goverdhan.mat-up@gov.in",
       "covers": [
         "goverdhan"
       ],
-      "source_url": "https://mathura.nic.in/contact-directory/",
+      "source_url": "https://mathura.nic.in/tehsil/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "S.D.M Goverdhan"
@@ -144,12 +153,20 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mahavan",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mahavan",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417387",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.mahavan.mat-up@gov.in",
       "covers": [
         "mahavan"
       ],
-      "source_url": "https://mathura.nic.in/contact-directory/",
+      "source_url": "https://mathura.nic.in/tehsil/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "S.D.M Mahavan"
@@ -167,13 +184,20 @@
           "source_url": "https://mathura.nic.in/contact-directory/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "9454464530",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "bdo.mathura.mat@gmail.com",
       "covers": [
         "mathura"
       ],
-      "source_url": "https://mathura.nic.in/contact-directory/",
+      "source_url": "https://mathura.nic.in/subdivision-blocks/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Jyoti Sharma"
@@ -204,6 +228,20 @@
           "number": "7983318977",
           "type": "office",
           "source_url": "https://mathura.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0565-2971484",
+          "type": "landline",
+          "source_url": "https://mathura.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454464529",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/subdivision-blocks/",
           "checked_on": "2026-11-25",
           "status": "verified"
         }
@@ -245,6 +283,20 @@
           "source_url": "https://mathura.nic.in/contact-directory/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "05662-299018",
+          "type": "landline",
+          "source_url": "https://mathura.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454464524",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "bdo.chhata.mat@gmail.com",
@@ -284,13 +336,20 @@
           "source_url": "https://mathura.nic.in/contact-directory/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "9454464523",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "bdo.chaumuha.mat@gmail.com",
       "covers": [
         "chaumuha"
       ],
-      "source_url": "https://mathura.nic.in/contact-directory/",
+      "source_url": "https://mathura.nic.in/subdivision-blocks/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Rinku Singh"
@@ -316,7 +375,15 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Nandgaon",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nandgaon",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464521",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.nandgaon.mat@gmail.com",
       "covers": [
         "nandgaon"
@@ -352,6 +419,20 @@
           "number": "8384896712",
           "type": "office",
           "source_url": "https://mathura.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05663-299103",
+          "type": "landline",
+          "source_url": "https://mathura.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454464525",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/subdivision-blocks/",
           "checked_on": "2026-11-25",
           "status": "verified"
         }
@@ -391,9 +472,9 @@
       "covers": [
         "naujheel"
       ],
-      "source_url": "https://mathura.nic.in/whos-who/",
+      "source_url": "https://mathura.nic.in/subdivision-blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mathura-ado-naujheel",
@@ -421,6 +502,20 @@
           "number": "7668818223",
           "type": "office",
           "source_url": "https://mathura.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05663-299104",
+          "type": "landline",
+          "source_url": "https://mathura.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9837835576",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/subdivision-blocks/",
           "checked_on": "2026-11-25",
           "status": "verified"
         }
@@ -462,6 +557,20 @@
           "source_url": "https://mathura.nic.in/contact-directory/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "05665-2763513",
+          "type": "landline",
+          "source_url": "https://mathura.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454464522",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "bdo.farah.mat@gmail.com",
@@ -494,7 +603,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Baldeo",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Baldeo",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05661-297280",
+          "type": "landline",
+          "source_url": "https://mathura.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454464526",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.baldeo.mat@gmail.com",
       "covers": [
         "baldeo"
@@ -575,6 +699,328 @@
       "email": "8189077823nagarayuktmathura@gmail.com",
       "officer_name_en": "श्री अनुनया झा",
       "address_en": "Bhuteshwar jalkal compound, krishna Nagar, Mathura"
+    },
+    {
+      "id": "up-mathura-eo-kosi-kalan",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Kosi Kalan",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Palika Kosi Kalan",
+      "phones": [
+        {
+          "number": "8189077943",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/municipal-corporation/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-kosi-kalan"
+      ],
+      "source_url": "https://mathura.nic.in/hi/public-utility-category/%E0%A4%A8%E0%A4%97%E0%A4%B0-%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%BE/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "KOSI KALAN"
+    },
+    {
+      "id": "up-mathura-eo-baldev",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Baldev",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत बल्देव",
+      "phones": [
+        {
+          "number": "8189077945",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-baldev"
+      ],
+      "source_url": "https://mathura.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "BALDEV"
+    },
+    {
+      "id": "up-mathura-eo-barasana",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Barasana",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत बरसाना",
+      "phones": [
+        {
+          "number": "8189077952",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-barasana"
+      ],
+      "source_url": "https://mathura.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "BARSANA"
+    },
+    {
+      "id": "up-mathura-eo-chaumuha",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Chaumuha",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत चौमुहा",
+      "phones": [
+        {
+          "number": "8189077950",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-chaumuha"
+      ],
+      "source_url": "https://mathura.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "CHAUMUHA"
+    },
+    {
+      "id": "up-mathura-eo-chhata",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Chhata",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत छाता",
+      "phones": [
+        {
+          "number": "8189077953",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-chhata"
+      ],
+      "source_url": "https://mathura.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "CHHATA"
+    },
+    {
+      "id": "up-mathura-eo-farah",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Farah",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत फ़रह",
+      "phones": [
+        {
+          "number": "8189077951",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-farah"
+      ],
+      "source_url": "https://mathura.nic.in/hi/public-utility-category/%E0%A4%A8%E0%A4%97%E0%A4%B0-%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%BE/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "FARAH"
+    },
+    {
+      "id": "up-mathura-eo-goverdhan",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Goverdhan",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत गोवेर्धन",
+      "phones": [
+        {
+          "number": "8189077944",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-goverdhan"
+      ],
+      "source_url": "https://mathura.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "GOVERDHAN"
+    },
+    {
+      "id": "up-mathura-eo-mahavan",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Mahavan",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत महावन",
+      "phones": [
+        {
+          "number": "8189077947",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-mahavan"
+      ],
+      "source_url": "https://mathura.nic.in/public-utility-category/municipality/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "महावन"
+    },
+    {
+      "id": "up-mathura-eo-nand-ganv",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Nand Ganv",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत नन्द गाँव",
+      "phones": [
+        {
+          "number": "8189077948",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-nand-ganv"
+      ],
+      "source_url": "https://mathura.nic.in/public-utility-category/municipality/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "नन्द गाँव"
+    },
+    {
+      "id": "up-mathura-eo-radha-kund",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Radha Kund",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत राधा कुण्ड",
+      "phones": [
+        {
+          "number": "8189077954",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-radha-kund"
+      ],
+      "source_url": "https://mathura.nic.in/public-utility-category/municipality/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "राधा कुंड"
+    },
+    {
+      "id": "up-mathura-eo-raya",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Raya",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत राया",
+      "phones": [
+        {
+          "number": "8189077956",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-raya"
+      ],
+      "source_url": "https://mathura.nic.in/public-utility-category/municipality/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "RAYA"
+    },
+    {
+      "id": "up-mathura-eo-sonkh",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Sonkh",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत सोंख",
+      "phones": [
+        {
+          "number": "8189077955",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-sonkh"
+      ],
+      "source_url": "https://mathura.nic.in/public-utility-category/municipality/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "SONKH"
+    },
+    {
+      "id": "up-mathura-eo-bajana",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Bajana",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत बाजना",
+      "phones": [
+        {
+          "number": "8189077949",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-bajana"
+      ],
+      "source_url": "https://mathura.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "BAJNA"
+    },
+    {
+      "id": "up-mathura-eo-gokul",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Gokul",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत गोकुल",
+      "phones": [
+        {
+          "number": "8189077946",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-gokul"
+      ],
+      "source_url": "https://mathura.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "GOKUL"
     }
   ]
 }

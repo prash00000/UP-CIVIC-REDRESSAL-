@@ -2489,11 +2489,151 @@
     "id": "ward-mathura-ulb-mathura-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Mathura (All Wards)",
-    "name_hi": "मथुरा नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका मथुरा (सभी वार्ड)",
     "ulb_id": "ulb-mathura-main",
     "tehsil_id": "mathura",
     "district_id": "mathura",
     "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-mathura-ulb-kosi-kalan",
+    "type": "ward",
+    "name_en": "Nagar Palika Kosi Kalan (All Wards)",
+    "name_hi": "Nagar Palika Kosi Kalan (सभी वार्ड)",
+    "ulb_id": "ulb-kosi-kalan",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-mathura-ulb-baldev",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Baldev (All Wards)",
+    "name_hi": "नगर पंचायत बल्देव (सभी वार्ड)",
+    "ulb_id": "ulb-baldev",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mathura-ulb-barasana",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Barasana (All Wards)",
+    "name_hi": "नगर पंचायत बरसाना (सभी वार्ड)",
+    "ulb_id": "ulb-barasana",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mathura-ulb-chaumuha",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Chaumuha (All Wards)",
+    "name_hi": "नगर पंचायत चौमुहा (सभी वार्ड)",
+    "ulb_id": "ulb-chaumuha",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mathura-ulb-chhata",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Chhata (All Wards)",
+    "name_hi": "नगर पंचायत छाता (सभी वार्ड)",
+    "ulb_id": "ulb-chhata",
+    "tehsil_id": "chhata",
+    "district_id": "mathura",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mathura-ulb-farah",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Farah (All Wards)",
+    "name_hi": "नगर पंचायत फ़रह (सभी वार्ड)",
+    "ulb_id": "ulb-farah",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mathura-ulb-goverdhan",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Goverdhan (All Wards)",
+    "name_hi": "नगर पंचायत गोवेर्धन (सभी वार्ड)",
+    "ulb_id": "ulb-goverdhan",
+    "tehsil_id": "goverdhan",
+    "district_id": "mathura",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mathura-ulb-mahavan",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Mahavan (All Wards)",
+    "name_hi": "नगर पंचायत महावन (सभी वार्ड)",
+    "ulb_id": "ulb-mahavan",
+    "tehsil_id": "mahavan",
+    "district_id": "mathura",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mathura-ulb-nand-ganv",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Nand Ganv (All Wards)",
+    "name_hi": "नगर पंचायत नन्द गाँव (सभी वार्ड)",
+    "ulb_id": "ulb-nand-ganv",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mathura-ulb-radha-kund",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Radha Kund (All Wards)",
+    "name_hi": "नगर पंचायत राधा कुण्ड (सभी वार्ड)",
+    "ulb_id": "ulb-radha-kund",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mathura-ulb-raya",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Raya (All Wards)",
+    "name_hi": "नगर पंचायत राया (सभी वार्ड)",
+    "ulb_id": "ulb-raya",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mathura-ulb-sonkh",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Sonkh (All Wards)",
+    "name_hi": "नगर पंचायत सोंख (सभी वार्ड)",
+    "ulb_id": "ulb-sonkh",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mathura-ulb-bajana",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Bajana (All Wards)",
+    "name_hi": "नगर पंचायत बाजना (सभी वार्ड)",
+    "ulb_id": "ulb-bajana",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mathura-ulb-gokul",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Gokul (All Wards)",
+    "name_hi": "नगर पंचायत गोकुल (सभी वार्ड)",
+    "ulb_id": "ulb-gokul",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_panchayat"
   },
   {
     "id": "town-mathura-mathura",
@@ -2503,7 +2643,7 @@
     "ulb_id": "ulb-mathura-main",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "281001"
     ]
@@ -2516,7 +2656,7 @@
     "ulb_id": "ulb-mathura-main",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "281001"
     ]
@@ -2553,7 +2693,7 @@
     "name_en": "Mant (Urban Ward / SO)",
     "name_hi": "Mant (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-mathura-main",
-    "tehsil_id": "mathura",
+    "tehsil_id": "mant",
     "district_id": "mathura",
     "local_body_type": "nagar_nigam",
     "pincodes": [
@@ -2568,7 +2708,7 @@
     "ulb_id": "ulb-mathura-main",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "281001"
     ]
@@ -2672,7 +2812,7 @@
     "ulb_id": "ulb-mathura-main",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "281001"
     ]
@@ -2695,10 +2835,10 @@
     "type": "ward",
     "name_en": "Raya (Urban Ward / SO)",
     "name_hi": "Raya (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mathura-main",
+    "ulb_id": "ulb-raya",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "281204"
     ]
@@ -2711,7 +2851,7 @@
     "ulb_id": "ulb-mathura-main",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "281001"
     ]
@@ -2724,7 +2864,7 @@
     "ulb_id": "ulb-mathura-main",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "281206"
     ]
@@ -2734,10 +2874,10 @@
     "type": "ward",
     "name_en": "Sonkh (Urban Ward / SO)",
     "name_hi": "Sonkh (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mathura-main",
+    "ulb_id": "ulb-sonkh",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "281123"
     ]
@@ -2815,7 +2955,7 @@
     "ulb_id": "ulb-mathura-main",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "281201"
     ]
@@ -2825,10 +2965,10 @@
     "type": "ward",
     "name_en": "Chaumuhan (Urban Ward / SO)",
     "name_hi": "Chaumuhan (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mathura-main",
+    "ulb_id": "ulb-chaumuha",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "281406"
     ]
@@ -2851,10 +2991,10 @@
     "type": "ward",
     "name_en": "Farah (Urban Ward / SO)",
     "name_hi": "Farah (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mathura-main",
+    "ulb_id": "ulb-farah",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "281122"
     ]
@@ -2877,10 +3017,10 @@
     "type": "ward",
     "name_en": "Gokul (Urban Ward / SO)",
     "name_hi": "Gokul (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mathura-main",
+    "ulb_id": "ulb-gokul",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "281303"
     ]
@@ -2890,10 +3030,10 @@
     "type": "ward",
     "name_en": "Kosi Kalan (Urban Ward / SO)",
     "name_hi": "Kosi Kalan (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mathura-main",
+    "ulb_id": "ulb-kosi-kalan",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "281403"
     ]
@@ -2916,10 +3056,10 @@
     "type": "ward",
     "name_en": "Radhakund (Urban Ward / SO)",
     "name_hi": "Radhakund (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mathura-main",
+    "ulb_id": "ulb-radha-kund",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "281504"
     ]
@@ -2945,7 +3085,7 @@
     "ulb_id": "ulb-mathura-main",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "281001"
     ]
@@ -2968,10 +3108,10 @@
     "type": "ward",
     "name_en": "Chhata SO Mathura (Urban Ward / SO)",
     "name_hi": "Chhata SO Mathura (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mathura-main",
-    "tehsil_id": "mathura",
+    "ulb_id": "ulb-chhata",
+    "tehsil_id": "chhata",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "281401"
     ]
@@ -2984,7 +3124,7 @@
     "ulb_id": "ulb-mathura-main",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "281001"
     ]
@@ -3007,10 +3147,10 @@
     "type": "ward",
     "name_en": "Goverdhan (Urban Ward / SO)",
     "name_hi": "Goverdhan (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mathura-main",
-    "tehsil_id": "mathura",
+    "ulb_id": "ulb-goverdhan",
+    "tehsil_id": "goverdhan",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "281502"
     ]
@@ -3036,7 +3176,7 @@
     "ulb_id": "ulb-mathura-main",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "281004"
     ]
@@ -3049,7 +3189,7 @@
     "ulb_id": "ulb-mathura-main",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "281001"
     ]
@@ -3075,7 +3215,7 @@
     "ulb_id": "ulb-mathura-main",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "281001"
     ]
@@ -3088,7 +3228,7 @@
     "ulb_id": "ulb-mathura-main",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "281005"
     ]
@@ -3101,7 +3241,7 @@
     "ulb_id": "ulb-mathura-main",
     "tehsil_id": "mathura",
     "district_id": "mathura",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "281404"
     ]

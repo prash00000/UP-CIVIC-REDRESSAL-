@@ -1,6 +1,14 @@
 import fs from "fs";
 import path from "path";
+import { createRequire } from "module";
 import { phoneRegex } from "../lib/validate";
+import { parsePdfDirectoryText } from "./lib/pdf-directory";
+
+const requireCjs = createRequire(path.join(process.cwd(), "package.json"));
+const pdfParse: (
+  buf: Buffer,
+  opts?: { max?: number }
+) => Promise<{ text: string; numpages: number }> = requireCjs("pdf-parse");
 
 const DATA_DIR = path.join(process.cwd(), "public", "data");
 const TODAY = "2026-11-25";
@@ -48,15 +56,22 @@ function decodeHtml(str: string): string {
     .trim();
 }
 
+const VALID_EMAIL_RE =
+  /^[a-z0-9._%+-]+@[a-z0-9.-]+\.(?:gov\.in|nic\.in|ac\.in|co\.in|res\.in|ernet\.in|org\.in|com|org|net|in|edu)$/i;
+
 function normalizeEmail(raw: string): string {
   const cleaned = (raw || "")
-    .replace(/\s*\[at\]\s*|\s*\(at\)\s*/gi, "@")
-    .replace(/\s*\[dot\]\s*|\s*\(dot\)\s*/gi, ".")
-    .replace(/\s*\[hyphen\]\s*|\s*\(hyphen\)\s*|\s*\[dash\]\s*/gi, "-")
-    .replace(/\s+/g, "")
+    .replace(/\be-?mail\s*[:\-]\s*/gi, " ")
+    .replace(/\s*[\[\(\{\]]\s*at\s*[\]\)\}\[]\s*/gi, "@")
+    .replace(/\s*[\[\(\{\]]\s*dot\s*[\]\)\}\[]\s*/gi, ".")
+    .replace(/\s*[\[\(\{\]]\s*(?:hyphen|dash)\s*[\]\)\}\[]\s*/gi, "-")
+    .replace(/\s+/g, " ")
     .toLowerCase();
-  const match = cleaned.match(/[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}/);
-  return match ? match[0] : "";
+  const candidates = cleaned.match(
+    /[a-z0-9._%+-]+@[a-z0-9.-]+\.(?:gov\.in|nic\.in|ac\.in|co\.in|res\.in|ernet\.in|org\.in|com|org|net|in|edu)(?=\s|$|[,;|)<"'\]])/g
+  );
+  if (!candidates || candidates.length === 0) return "";
+  return candidates.find((e) => /\.(?:nic|gov)\.in$/.test(e)) || candidates[0];
 }
 
 function extractPhones(raw: string, stdHint?: string): string[] {
@@ -95,27 +110,154 @@ function isCleanName(name: string): boolean {
   return true;
 }
 
-function fuzzyPlaceMatch(placeSlugOrName: string, rowText: string): boolean {
-  const p = placeSlugOrName
+const HQ_TOWN_ALIASES: Record<string, string[]> = {
+  "ambedkar-nagar": ["akbarpur"],
+  "amethi": ["gauriganj", "amethi"],
+  "bhadohi": ["gyanpur", "bhadohi"],
+  "chitrakoot": ["karwi", "chitrakoot"],
+  "farrukhabad": ["fatehgarh", "farrukhabad"],
+  "gautam-buddha-nagar": ["dadri", "jewar", "dankaur", "noida"],
+  "jalaun": ["orai", "jalaun"],
+  "kanpur-dehat": ["akbarpur", "pukhrayan", "rura"],
+  "kaushambi": ["manjhanpur", "bharwari"],
+  "kushinagar": ["padrauna", "kushinagar"],
+  "lakhimpur-kheri": ["lakhimpur", "kheri"],
+  "maharajganj": ["maharajganj", "nautanwa"],
+  "sant-kabir-nagar": ["khalilabad"],
+  "shravasti": ["bhinga"],
+  "siddharthnagar": ["naugarh", "tetari", "siddharthnagar"],
+  "sonbhadra": ["robertsganj"],
+};
+
+const BLOCK_ALIASES: Record<string, string[]> = {
+  "bakshi-ka-talab": ["bkt", "bakhshikatalab"],
+  "mal": ["mall"],
+  "sarojini-nagar": ["sarojininagar", "sarojninagar"],
+  "gosainganj": ["gosaiganj"],
+  "aliya": ["ailiya", "ailya", "aeli"],
+  "madhogarh": ["nmadhogarh"],
+  "kashi-vidya-pith": ["kashividyapith", "vidyapith"],
+  "pindra": ["pindara"],
+  "hariharpur-rani": ["hariharpurrani", "hariharpur"],
+  "machhrehta": ["machharehata", "machhrehata"],
+  "mahmudabad": ["mahmoodabad"],
+  "sidhauli": ["sidhaouli", "sidholi"],
+  "kasmanda": ["kasmnda"],
+  "bhatpar-rani": ["bhatpar"],
+  "araziline": ["arajiline", "araji-line"],
+  "deoria-sadar": ["deoriasadar", "deoria"],
+  "tandiyawan": ["tadiyawan"],
+  "madhavganj": ["madhoganj"],
+  "behandar": ["behadar"],
+  "toderpur": ["tondarpur"],
+  "sarbankhera": ["sarvankheda", "sarvankhera"],
+  "ikouna": ["ikauna"],
+};
+
+const DEV_VOWELS: Record<string, string> = {
+  अ: "a", आ: "a", इ: "i", ई: "i", उ: "u", ऊ: "u",
+  ऋ: "ri", ए: "e", ऐ: "ai", ओ: "o", औ: "au", ऑ: "o", ऍ: "e",
+};
+const DEV_VOWEL_MATRAS: Record<string, string> = {
+  "ा": "a", "ि": "i", "ी": "i", "ु": "u", "ू": "u",
+  "ृ": "ri", "े": "e", "ै": "ai", "ो": "o", "ौ": "au", "ॉ": "o", "ॅ": "e",
+};
+const DEV_SIGNS: Record<string, string> = { "ं": "n", "ँ": "n", "ः": "h" };
+const DEV_CONS: Record<string, string> = {
+  क: "k", ख: "kh", ग: "g", घ: "gh", ङ: "n",
+  च: "ch", छ: "chh", ज: "j", झ: "jh", ञ: "n",
+  ट: "t", ठ: "th", ड: "d", ढ: "dh", ण: "n",
+  त: "t", थ: "th", द: "d", ध: "dh", न: "n",
+  प: "p", फ: "ph", ब: "b", भ: "bh", म: "m",
+  य: "y", र: "r", ल: "l", व: "v", श: "sh",
+  ष: "sh", स: "s", ह: "h",
+  क़: "q", ख़: "kh", ग़: "g", ज़: "z", ड़: "r", ढ़: "rh", फ़: "f",
+};
+
+function devanagariToLatin(text: string): string {
+  const clean = (text || "").replace(/\u093c/g, "");
+  let out = "";
+  for (let i = 0; i < clean.length; i++) {
+    const ch = clean[i];
+    if (ch in DEV_VOWELS) {
+      out += DEV_VOWELS[ch];
+    } else if (ch in DEV_VOWEL_MATRAS) {
+      out += DEV_VOWEL_MATRAS[ch];
+    } else if (ch in DEV_SIGNS) {
+      out += DEV_SIGNS[ch];
+    } else if (ch === "्") {
+      // Virama consumed by preceding consonant
+    } else if (ch in DEV_CONS) {
+      out += DEV_CONS[ch];
+      const next = clean[i + 1];
+      if (next === "्") {
+        i++;
+      } else if (next && next in DEV_VOWEL_MATRAS) {
+        // Explicit vowel matra supplies vowel
+      } else if (next && /[\u0900-\u097f]/.test(next)) {
+        out += "a";
+      }
+    } else {
+      out += ch;
+    }
+  }
+  return out;
+}
+
+function normalizePhonetic(latin: string): { exact: string; loose: string; skeleton: string } {
+  const clean = latin
     .toLowerCase()
-    .replace(/\b(tehsil|block|gp|nagar|palika|panchayat|parishad|municipal|corporation)\b/g, " ")
+    .replace(/\b(tehsil|block|gp|nagar|palika|panchayat|parishad|municipal|corporation|adhishasi|adhishashi|adhikari|khand|vikas|kshetra|eo|bdo|sdm|np|npp|nn)\b/g, " ")
     .replace(/[^a-z0-9]/g, "");
-  if (p.length < 3) return false;
-  const hay = rowText.toLowerCase().replace(/[^a-z0-9]/g, "");
-  if (hay.includes(p)) return true;
-  // Common UP transliteration equivalents (e.g. bakhshi vs bakshi, sarojni vs sarojini, mohanlalganj)
-  const normP = p.replace(/kh/g, "k").replace(/sh/g, "s").replace(/ee/g, "i").replace(/oo/g, "u").replace(/aa/g, "a");
-  const normH = hay.replace(/kh/g, "k").replace(/sh/g, "s").replace(/ee/g, "i").replace(/oo/g, "u").replace(/aa/g, "a");
-  return normP.length >= 4 && normH.includes(normP);
+  const loose = clean
+    .replace(/ganv|gaav/g, "gaon")
+    .replace(/z/g, "j")
+    .replace(/kh/g, "k")
+    .replace(/sh/g, "s")
+    .replace(/chh?/g, "c")
+    .replace(/ph/g, "f")
+    .replace(/v/g, "w")
+    .replace(/au|ao|ou/g, "o")
+    .replace(/ee/g, "i")
+    .replace(/oo/g, "u")
+    .replace(/aa/g, "a")
+    .replace(/m/g, "n");
+  const skeleton = loose.replace(/(?<=.)a(?=[bcdfghjklmnpqrstvwxyz])/g, "");
+  return { exact: clean, loose, skeleton };
+}
+
+function fuzzyPlaceMatch(placeSlugOrName: string, rowText: string, extraAliases: string[] = []): boolean {
+  const expandedRow = /[\u0900-\u097f]/.test(rowText) ? `${rowText} ${devanagariToLatin(rowText)}` : rowText;
+  const hay = normalizePhonetic(expandedRow);
+  const candidates = [placeSlugOrName, ...(BLOCK_ALIASES[placeSlugOrName] || []), ...extraAliases];
+
+  for (const cand of candidates) {
+    const expCand = /[\u0900-\u097f]/.test(cand) ? devanagariToLatin(cand) : cand;
+    const p = normalizePhonetic(expCand);
+    if (p.exact.length < 3) continue;
+    if (hay.exact.includes(p.exact)) return true;
+    if (p.loose.length >= 4 && hay.loose.includes(p.loose)) return true;
+    if (p.exact.length >= 5 && p.skeleton.length >= 4 && hay.skeleton.includes(p.skeleton)) return true;
+  }
+  return false;
 }
 
 function parseS3waasPage(html: string, url: string): ParsedRow[] {
   const rowsOut: ParsedRow[] = [];
   const pageStdMatch = html.match(/STD\s*(?:Code)?\s*[:\-–]?\s*(0\d{2,4})/i);
   const pageStd = pageStdMatch ? pageStdMatch[1] : undefined;
+  let decUrl = url;
+  try {
+    decUrl = decodeURIComponent(url);
+  } catch {}
 
-  const tables = html.match(/<table[\s\S]*?<\/table>/gi) || [];
-  for (const table of tables) {
+  for (const tMatch of html.matchAll(/<table[\s\S]*?<\/table>/gi)) {
+    const table = tMatch[0];
+    const tableIdx = tMatch.index ?? 0;
+    const beforeHtml = html.slice(Math.max(0, tableIdx - 600), tableIdx);
+    const headingMatch = [...beforeHtml.matchAll(/<(?:h[1-4]|caption|strong|p)[^>]*>([\s\S]*?)<\/(?:h[1-4]|caption|strong|p)>/gi)].pop();
+    const precedingHeading = headingMatch ? decodeHtml(headingMatch[1]) : "";
+
     const trs = table.match(/<tr[\s\S]*?<\/tr>/gi) || [];
     if (trs.length < 2) continue;
 
@@ -127,13 +269,21 @@ function parseS3waasPage(html: string, url: string): ParsedRow[] {
     const stdHint = tableStdMatch ? tableStdMatch[1] : pageStd;
 
     const headers = (firstTr.match(/<t[hd][\s\S]*?<\/t[hd]>/gi) || []).map((c) => decodeHtml(c).toLowerCase());
+    const phoneCols = headers
+      .map((h, idx) => (/phone|mobile|c\.?u\.?g\.?|contact|telephone|landline|मोबाइल|दूरभाष|सीयूजी/.test(h) ? idx : -1))
+      .filter((idx) => idx >= 0);
     const colIdx = {
       name: headers.findIndex((h) => /\b(officer\s*name|name)\b|नाम/.test(h) && !/district|block|tehsil|ulb|body/.test(h)),
-      desig: headers.findIndex((h) => /designation|officer|post|पद|office\b/.test(h)),
-      email: headers.findIndex((h) => /email|e-mail|ईमेल/.test(h)),
+      desig: headers.findIndex(
+        (h) =>
+          /designation|officer|post|पद|office\b/.test(h) &&
+          !/phone|mobile|c\.?u\.?g\.?|e[\s-]*mail|mail\s*id|\bid$|fax|no\.?$|number|मोबाइल|दूरभाष|ईमेल/.test(h)
+      ),
+      email: headers.findIndex((h) => /e[\s-]*mail|ईमेल/.test(h)),
       address: headers.findIndex((h) => /address|पता/.test(h)),
-      phone: headers.findIndex((h) => /phone|mobile|c\.?u\.?g\.?|contact|telephone|मोबाइल|दूरभाष/.test(h)),
     };
+
+    const headingAndHeader = `${precedingHeading} ${headerRaw}`.toLowerCase();
 
     for (let i = 1; i < trs.length; i++) {
       const cells = (trs[i].match(/<t[dh][\s\S]*?<\/t[dh]>/gi) || []).map((c) => decodeHtml(c));
@@ -145,14 +295,56 @@ function parseS3waasPage(html: string, url: string): ParsedRow[] {
       const email = normalizeEmail(
         (colIdx.email >= 0 ? cells[colIdx.email] : "") || joined
       );
-      const phoneSource = colIdx.phone >= 0 && cells[colIdx.phone] ? cells[colIdx.phone] : joined;
+      const phoneSource =
+        phoneCols.length > 0
+          ? phoneCols.map((idx) => cells[idx] || "").join(" ").trim() || joined
+          : joined;
       // Extract landline vs mobile carefully using stdHint only on phone column or explicit full numbers
-      const phones = extractPhones(phoneSource, colIdx.phone >= 0 ? stdHint : undefined);
+      const phones = extractPhones(phoneSource, phoneCols.length > 0 ? stdHint : undefined);
       const name = colIdx.name >= 0 && cells[colIdx.name] ? cells[colIdx.name] : "";
-      const designation =
+      let designation =
         colIdx.desig >= 0 && cells[colIdx.desig]
           ? cells[colIdx.desig]
-          : cells.find((c) => /magistrate|development officer|panchayat|sdm|s-d-m|bdo|cdo|dm|ayukt|commissioner|executive/i.test(c)) || "";
+          : cells.find((c) =>
+              /magistrate|development officer|panchayat|sdm|s-d-m|bdo|cdo|dm|ayukt|commissioner|executive|मजिस्ट्रेट|जिलाधिकारी|अधिकारी|आयुक्त/i.test(
+                c
+              )
+            ) || "";
+      if (
+        designation &&
+        (phoneRegex.test(designation) || /^\d{4,}$/.test(designation) || /@|\[at\]|\(at\)/i.test(designation))
+      ) {
+        designation = "";
+      }
+
+      // Infer role on structured Block / Municipality / Tehsil directory tables lacking a Designation column
+      if (!designation && (phones.length > 0 || email)) {
+        const placeCell = cells.find(
+          (c) =>
+            c.length >= 3 &&
+            c.length <= 60 &&
+            !/^\d+\.?$/.test(c) &&
+            !/^(?:mobile|mobail|number|nambar|phone|cug|email|vacant|atirikt|prabhari|मोबाइल|नंबर|दूरभाष|ईमेल|अतिरिक्त)$/i.test(c) &&
+            extractPhones(c).length === 0 &&
+            !normalizeEmail(c) &&
+            !/^https?:/i.test(c)
+        );
+        if (placeCell) {
+          if (/tehsil|tahsil|sub[\s-]*div|तहसील/i.test(headingAndHeader) && !/block|vikas|खंड|खण्ड/i.test(headingAndHeader)) {
+            designation = `Sub-Divisional Magistrate, ${placeCell}`;
+          } else if (
+            /block|vikas|खंड|खण्ड|bdo/i.test(headingAndHeader) ||
+            (/block|vikas|खंड|खण्ड/i.test(decUrl) && !/tehsil|tahsil|तहसील/i.test(headingAndHeader))
+          ) {
+            designation = `Block Development Officer, ${placeCell}`;
+          } else if (/municip|palika|panchayat|nagar|town|ulb|पालिका|पंचायत|निकाय/i.test(`${headingAndHeader} ${decUrl}`)) {
+            designation = `Executive Officer, ${placeCell}`;
+          } else if (/tehsil|tahsil|sub[\s-]*div|तहसील/i.test(decUrl)) {
+            designation = `Sub-Divisional Magistrate, ${placeCell}`;
+          }
+        }
+      }
+
       const address = colIdx.address >= 0 && cells[colIdx.address] ? cells[colIdx.address] : "";
 
       if (designation || phones.length > 0 || email) {
@@ -163,11 +355,41 @@ function parseS3waasPage(html: string, url: string): ParsedRow[] {
           email,
           address,
           phones,
-          rawText: joined,
+          rawText: `${designation} ${joined}`.trim(),
         });
       }
     }
   }
+
+  // Also parse S3WaaS Public Utility Cards (<li class="public-utlty-catg ...">...</li>)
+  const cardBlocks = html.match(/<li[^>]+class=["'][^"']*public-utlty-catg[^"']*["'][\s\S]*?<\/ul>\s*<\/li>/gi) || [];
+  for (const card of cardBlocks) {
+    const title = decodeHtml(card.match(/<h[23][^>]*>([\s\S]*?)<\/h[23]>/i)?.[1] || "");
+    const rawText = decodeHtml(card);
+    if (!rawText) continue;
+    const email = normalizeEmail(card);
+    const phones = extractPhones(rawText, pageStd);
+    let inferredDesig = title;
+    if (/municip|nagar|palika|panchayat|town|पालिका|पंचायत|निकाय/i.test(decUrl)) {
+      inferredDesig = `Executive Officer, ${title}`;
+    } else if (/block|vikas|खंड|खण्ड/i.test(decUrl)) {
+      inferredDesig = `Block Development Officer, ${title}`;
+    } else if (/tehsil|तहसील/i.test(decUrl)) {
+      inferredDesig = `Sub-Divisional Magistrate, ${title}`;
+    }
+    if (title || phones.length > 0 || email) {
+      rowsOut.push({
+        url,
+        name: "",
+        designation: inferredDesig,
+        email,
+        address: rawText.replace(title, "").trim(),
+        phones,
+        rawText: `${inferredDesig} ${rawText}`.trim(),
+      });
+    }
+  }
+
   return rowsOut;
 }
 
@@ -205,36 +427,152 @@ function classifyRowRole(row: ParsedRow): {
   if ((/\b(district panchayat raj officer|d\.?p\.?r\.?o\.?|zila panchayat raj)\b/i.test(low) || /जिला पंचायत राज अधिकारी|जिला पंचायतराज अधिकारी/.test(low)) && !/\b(addl|adpro|assistant|ado)\b/i.test(low) && !/सहायक|अपर/.test(low)) {
     return { role: "dpro", haystack: hay };
   }
+  // Executive Officer acting directly (including EO/SDM holding charge on municipality tables)
+  if (
+    (/\bexecutive officer\b/i.test(low) || /अधिशासी अधिकारी/.test(low)) &&
+    !/\b(chief executive|executive engineer|sub[\s-]*divisional|fishery|fisheries|bima|yojana|ado|ceo)\b/i.test(low) &&
+    !/अभियन्ता|मत्स्य|उप\s*जिलाधिकारी|बीमा|योजना/.test(low)
+  ) {
+    return { role: "eo", haystack: hay };
+  }
   // Sub-Divisional Magistrate
   if (/\b(sub[\s-]*divisional magistrate|s[\s.-]*d[\s.-]*m\.?|sub[\s-]*divisional officer)\b/i.test(low) || /उप\s*जिलाधिकारी|उपजिलाधिकारी|एस०?डी०?एम/.test(low)) {
     return { role: "sdm", haystack: hay };
   }
   // Block Development Officer
-  if ((/\b(block development officer|b\.?d\.?o\.?)\b/i.test(low) || /खंड विकास अधिकारी|खण्ड विकास अधिकारी|बी०?डी०?ओ/.test(low)) && !/\b(ado|assistant|asst)\b/i.test(low) && !/सहायक/.test(low)) {
+  if ((/\b(block development officer|b\.?d\.?o\.?)\b/i.test(low) || /खंड विकास अधिकारी|खण्ड विकास अधिकारी|बी०?डी०?ओ/.test(low)) && !/\b(ado|assistant|asst|beo)\b/i.test(low) && !/सहायक|शिक्षा/.test(low)) {
     return { role: "bdo", haystack: hay };
   }
-  // Executive Officer (Nagar Palika / Nagar Panchayat)
-  if (/\b(executive officer|\be\.?o\.?\b)\b/i.test(low) || /अधिशासी अधिकारी/.test(low)) {
+  // Remaining ULB E.O. shorthand
+  if (
+    /\be\.?o\.?\b/i.test(low) &&
+    !/\b(chief executive|executive engineer|fishery|fisheries|bima|yojana|ado|ceo|cdo|dpro|bdo|beo|sdo)\b/i.test(low) &&
+    !/अभियन्ता|मत्स्य|बीमा|योजना/.test(low)
+  ) {
     return { role: "eo", haystack: hay };
   }
 
   return { role: null, haystack: hay };
 }
 
-async function fetchHtml(url: string, ms = 9000): Promise<{ finalUrl: string; html: string } | null> {
+function extractDirectoryPdfs(html: string, pageUrl: string): Array<{ url: string; label: string }> {
+  const out = new Map<string, string>();
+  let decPage = pageUrl;
   try {
-    const res = await fetch(url, {
-      signal: AbortSignal.timeout(ms),
-      headers: { "User-Agent": "Mozilla/5.0 (compatible; UPCivicDirectory/2.0)" },
-      redirect: "follow",
-    });
-    if (!res.ok) return null;
-    const ct = res.headers.get("content-type") || "";
-    if (!ct.includes("html") && !ct.includes("text")) return null;
-    return { finalUrl: res.url, html: await res.text() };
-  } catch {
-    return null;
+    decPage = decodeURIComponent(pageUrl);
+  } catch {}
+
+  const addCandidate = (rawUrl: string, label: string) => {
+    let pdfUrl = "";
+    try {
+      pdfUrl = new URL(rawUrl, pageUrl).href;
+    } catch {
+      return;
+    }
+    if (!/^https:\/\//i.test(pdfUrl)) return;
+    const combo = `${decPage} ${pdfUrl} ${label}`.toLowerCase();
+    if (
+      /dir|phone|cug|contact|officer|whos|tel|number|std|bdo|sdm|eo\b|nagar[\s-]*panchayat|municip|palika|nikay|ulb|block|vikas|दूरभाष|संपर्क|अधिकारी|निर्देशिका|दिग्दर्षिका|पालिका|निकाय|ब्लॉक/.test(
+        combo
+      ) &&
+      !/ganga|intach|nmcg|calendar|advisory|faq|epds|policy|form-|audit|tender|election|electoral|roll|guideline|budget|manual|award|gazette|beneficiar|yojana|yojna|school|hospital|police|jail|census|tourism|circle|ward|gram-panchayat-list|lekhpal|लेखपाल|anganwadi/i.test(
+        combo
+      )
+    ) {
+      if (!out.has(pdfUrl) || (label && out.get(pdfUrl) === "Directory PDF")) {
+        out.set(pdfUrl, label || "Directory PDF");
+      }
+    }
+  };
+
+  for (const m of html.matchAll(/<a[^>]+href=["']([^"']+\.pdf[^"']*)["'][^>]*>([\s\S]*?)<\/a>/gi)) {
+    addCandidate(m[1], decodeHtml(m[2]));
   }
+  for (const m of html.matchAll(/<(?:iframe|embed|object)[^>]+(?:src|data)=["']([^"']+\.pdf[^"']*)["']/gi)) {
+    addCandidate(m[1], decodeHtml(decPage.split("/").filter(Boolean).pop() || ""));
+  }
+  for (const m of html.matchAll(/https:\/\/cdn\.s3waas\.gov\.in\/[^"'\s<>()]+\.pdf/gi)) {
+    addCandidate(m[0], "S3WaaS Document PDF");
+  }
+  // Reconstruct S3WaaS CDN PDF URLs from WordPress document permalink slugs (e.g. Shravasti contact-directory)
+  const slugSources = [pageUrl, ...Array.from(html.matchAll(/href=["']([^"']*https-cdn-s3waas-gov-in-[^"']+)["']/gi)).map((m) => m[1])];
+  for (const src of slugSources) {
+    const slugM = src.match(/https-cdn-s3waas-gov-in-(s3[0-9a-f]+)-uploads-(\d{4})-(\d{2})-(\d{6,16})-pdf/i);
+    if (slugM) {
+      const cdnPdf = `https://cdn.s3waas.gov.in/${slugM[1]}/uploads/${slugM[2]}/${slugM[3]}/${slugM[4]}.pdf`;
+      addCandidate(cdnPdf, decodeHtml(src));
+    }
+  }
+
+  return [...out.entries()].map(([url, label]) => ({ url, label }));
+}
+
+const BROWSER_UA =
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
+
+async function mapLimit<T>(items: T[], limit: number, worker: (item: T) => Promise<void>): Promise<void> {
+  let idx = 0;
+  const workers = Array.from({ length: Math.min(limit, items.length) }, async () => {
+    while (idx < items.length) {
+      const cur = items[idx++];
+      await worker(cur);
+    }
+  });
+  await Promise.all(workers);
+}
+
+async function fetchPdfBuffer(url: string, ms = 25000): Promise<Buffer | null> {
+  if (!/^https:\/\//i.test(url)) return null;
+  for (let attempt = 0; attempt < 2; attempt++) {
+    try {
+      const res = await fetch(url, {
+        signal: AbortSignal.timeout(ms),
+        headers: {
+          "User-Agent": BROWSER_UA,
+          Accept: "application/pdf,*/*;q=0.8",
+        },
+        redirect: "follow",
+      });
+      if (!res.ok) {
+        if (process.env.ONLY_DISTRICT) console.log(`[PDF HTTP ${res.status}]`, url);
+        return null;
+      }
+      const len = Number(res.headers.get("content-length") || 0);
+      if (len > 5_500_000) {
+        if (process.env.ONLY_DISTRICT) console.log(`[PDF TOO BIG ${len}]`, url);
+        return null;
+      }
+      const arr = await res.arrayBuffer();
+      if (arr.byteLength < 500 || arr.byteLength > 5_500_000) {
+        if (process.env.ONLY_DISTRICT) console.log(`[PDF BAD SIZE ${arr.byteLength}]`, url);
+        return null;
+      }
+      return Buffer.from(arr);
+    } catch (e: any) {
+      if (process.env.ONLY_DISTRICT) console.log(`[PDF ERR attempt=${attempt}]`, url, e?.cause?.message || e?.message || e);
+      if (attempt === 1) return null;
+    }
+  }
+  return null;
+}
+
+async function fetchHtml(url: string, ms = 10000): Promise<{ finalUrl: string; html: string } | null> {
+  for (let attempt = 0; attempt < 2; attempt++) {
+    try {
+      const res = await fetch(url, {
+        signal: AbortSignal.timeout(ms),
+        headers: { "User-Agent": BROWSER_UA },
+        redirect: "follow",
+      });
+      if (!res.ok) return null;
+      const ct = res.headers.get("content-type") || "";
+      if (!ct.includes("html") && !ct.includes("text")) return null;
+      return { finalUrl: res.url, html: await res.text() };
+    } catch {
+      if (attempt === 1) return null;
+    }
+  }
+  return null;
 }
 
 function extractNavLinks(html: string, origin: string): string[] {
@@ -251,12 +589,16 @@ function extractNavLinks(html: string, origin: string): string[] {
     }
     if (!abs.startsWith(origin)) continue;
     if (/\.(?:pdf|xlsx?|csv|png|jpe?g|gif|svg|css|js|zip)$/i.test(abs)) continue;
-    const combo = `${abs} ${linkText}`;
+    let decAbs = abs;
+    try {
+      decAbs = decodeURIComponent(abs);
+    } catch {}
+    const combo = `${decAbs} ${linkText}`;
     if (
-      /who|dir|contact|phone|telephone|cug|offic|tehsil|block|develop|municip|nagarnigam|collectrate|collectorate|panchayat|std/i.test(
+      /who|dir|contact|phone|telephone|cug|offic|tehsil|block|develop|municip|nagarnigam|collectrate|collectorate|panchayat|std|urban-local|vikas|gramya|निर्देशिका|कौन|संपर्क|अधिकारी|विकास|खण्ड|खंड|नगर|निकाय|दूरभाष|तहसील|अभिकरण/i.test(
         combo
       ) &&
-      !/eoffice|training|video|notice|tender|recruitment|anganwadi|bsa-office|aabkari|former|election|circle-rate|registration/i.test(
+      !/eoffice|training|video|notice|tender|recruitment|anganwadi|bsa-office|aabkari|former|election|circle-rate|registration|banks|hospital|school|college|postal|electricity|police-station/i.test(
         combo
       )
     ) {
@@ -364,16 +706,40 @@ async function run() {
     "/hi/who-is-who/",
     "/officers-phones/",
     "/contact-directory/",
-    "/directory/",
-    "/hi/directory/",
+    "/contact-directory-2/",
+    "/contact-details/",
+    "/contact-numbers/",
+    "/phone-directory/",
+    "/important-numbers/",
+    "/important-phone-numbers/",
+    "/cug-numbers/",
+    "/telephone_directory/",
     "/telephone-dir-eng/",
     "/telephone-directory/",
+    "/imp-phone-number/",
+    "/directory/",
+    "/hi/directory/",
     "/telephone/",
     "/contact-us/",
     "/tehsil/",
+    "/subdivision-blocks/",
+    "/block-details/",
     "/development-block/",
+    "/development-blocks/",
+    "/drda/",
     "/block/",
+    "/blocks/",
+    "/public-utility-category/blocks/",
+    "/public-utility-category/block/",
     "/public-utility-category/municipality/",
+    "/public-utility-category/municipalities/",
+    "/public-utility-category/nagar-palika/",
+    "/public-utility-category/nagar-panchayat/",
+    "/urban-local-bodies/",
+    "/local-bodies/",
+    "/municipalities/",
+    "/nagar-palika-parishad/",
+    "/municipality/",
   ];
 
   const metrics = {
@@ -385,10 +751,12 @@ async function run() {
     commissionersAdded: 0,
   };
 
-  // Process districts in batches of 6
-  const batchSize = 6;
-  for (let i = 0; i < districtsIndex.length; i += batchSize) {
-    const batch = districtsIndex.slice(i, i + batchSize);
+  // Process districts in batches of 5 with bounded per-district concurrency to avoid NIC/S3WaaS throttling
+  const onlyDist = process.env.ONLY_DISTRICT?.trim();
+  const targetDistricts = onlyDist ? districtsIndex.filter((d: any) => d.id === onlyDist) : districtsIndex;
+  const batchSize = 5;
+  for (let i = 0; i < targetDistricts.length; i += batchSize) {
+    const batch = targetDistricts.slice(i, i + batchSize);
     await Promise.all(
       batch.map(async (dEntry: any) => {
         const dId: string = dEntry.id;
@@ -400,52 +768,135 @@ async function run() {
         const normName = dEntry.name_en.toLowerCase().replace(/[^a-z]/g, "");
         const baseUrl = MANUAL_URL_MAP[dId] || s3Urls.get(normId) || s3Urls.get(normName) || `https://${normId}.nic.in`;
 
-        // Depth 1: homepage -> discover nav links
+        // Depth 1: fetch both EN and HI homepages so bilingual S3WaaS menus are discovered
         const visited = new Set<string>();
-        const queue = new Set<string>(commonPaths.map((p) => baseUrl + p));
-        const home = await fetchHtml(baseUrl + "/", 9000);
+        const homeLinks = new Set<string>();
+        const [home, homeHi] = await Promise.all([fetchHtml(baseUrl + "/", 9000), fetchHtml(baseUrl + "/hi/", 8000)]);
+        const effOrigin = home ? new URL(home.finalUrl).origin : baseUrl;
         if (home) {
-          const origin = new URL(home.finalUrl).origin;
-          for (const u of extractNavLinks(home.html, origin)) queue.add(u);
-          for (const p of commonPaths) queue.add(origin + p);
+          for (const u of extractNavLinks(home.html, effOrigin)) homeLinks.add(u);
+        }
+        if (homeHi) {
+          const hiOrigin = new URL(homeHi.finalUrl).origin;
+          for (const u of extractNavLinks(homeHi.html, hiOrigin)) homeLinks.add(u);
         }
 
+        // Prioritize core directory/block/ULB paths & matching homepage links ahead of generic menu links
+        const queue = new Set<string>();
+        for (const u of homeLinks) {
+          if (/who|dir|contact|telephone|block|municip|ulb|local-bodies|drda|निर्देशिका|कौन|संपर्क|विकास|नगर|पालिका/i.test(decodeURIComponent(u))) {
+            queue.add(u);
+          }
+        }
+        for (const p of commonPaths) queue.add(effOrigin + p);
+        for (const u of homeLinks) queue.add(u);
+
         const allRows: ParsedRow[] = [];
-        // Depth 1.5 + 2 crawl (limit 24 pages per district including bilingual /hi/ directory pages)
-        const toVisit = [...queue].slice(0, 24);
+        const pdfCandidates = new Map<string, string>();
+        const collectPdfs = (html: string, pageUrl: string) => {
+          for (const pdf of extractDirectoryPdfs(html, pageUrl)) {
+            if (!pdfCandidates.has(pdf.url)) pdfCandidates.set(pdf.url, pdf.label);
+          }
+        };
+        if (home) collectPdfs(home.html, home.finalUrl);
+        if (homeHi) collectPdfs(homeHi.html, homeHi.finalUrl);
+
+        // Depth 1.5 + 2 crawl (115 initial + 45 depth2 / pagination pages)
+        const toVisit = [...queue].slice(0, 115);
         const depth2 = new Set<string>();
 
-        await Promise.all(
-          toVisit.map(async (u) => {
-            if (visited.has(u)) return;
-            visited.add(u);
-            const page = await fetchHtml(u, 8500);
-            if (!page) return;
-            metrics.pagesScanned++;
-            const parsed = parseS3waasPage(page.html, page.finalUrl);
-            allRows.push(...parsed);
+        await mapLimit(toVisit, 10, async (u) => {
+          if (visited.has(u)) return;
+          visited.add(u);
+          const page = await fetchHtml(u, 10000);
+          if (!page) return;
+          metrics.pagesScanned++;
+          const parsed = parseS3waasPage(page.html, page.finalUrl);
+          allRows.push(...parsed);
+          collectPdfs(page.html, page.finalUrl);
 
-            // If directory/telephone hub page, queue sublinks
-            if (/directory|telephone-dir|officers|contact/i.test(u)) {
-              const origin = new URL(page.finalUrl).origin;
-              for (const sub of extractNavLinks(page.html, origin)) {
-                if (!visited.has(sub)) depth2.add(sub);
-              }
+          // Follow sublinks on directory/telephone/document hub pages + pagination on public-utility-category pages
+          let decU = u;
+          try {
+            decU = decodeURIComponent(u);
+          } catch {}
+          if (/directory|telephone|officers|contact|public-utility-category|document-category|municip|block|nikay|palika|निर्देशिका|निकाय|विकास|पालिका/i.test(decU)) {
+            const origin = new URL(page.finalUrl).origin;
+            for (const sub of extractNavLinks(page.html, origin)) {
+              if (!visited.has(sub)) depth2.add(sub);
             }
-          })
-        );
+            for (const pgM of page.html.matchAll(/href=["']([^"']*\/page\/[2-8]\/?)["']/gi)) {
+              try {
+                const nextPg = new URL(pgM[1], page.finalUrl).href;
+                if (!visited.has(nextPg)) depth2.add(nextPg);
+              } catch {}
+            }
+          }
+        });
 
-        const d2List = [...depth2].slice(0, 8);
-        await Promise.all(
-          d2List.map(async (u) => {
-            if (visited.has(u)) return;
-            visited.add(u);
-            const page = await fetchHtml(u, 8500);
-            if (!page) return;
-            metrics.pagesScanned++;
-            allRows.push(...parseS3waasPage(page.html, page.finalUrl));
-          })
-        );
+        const d2List = [...depth2].slice(0, 45);
+        await mapLimit(d2List, 10, async (u) => {
+          if (visited.has(u)) return;
+          visited.add(u);
+          const page = await fetchHtml(u, 10000);
+          if (!page) return;
+          metrics.pagesScanned++;
+          allRows.push(...parseS3waasPage(page.html, page.finalUrl));
+          collectPdfs(page.html, page.finalUrl);
+        });
+
+        // Depth 2.5: parse up to 8 prioritized verified district directory PDFs (Unicode or Kruti Dev 010)
+        const scorePdf = (url: string, label: string) => {
+          const t = `${url} ${label}`.toLowerCase();
+          let s = 0;
+          if (/muni|ulb|palika|nikay|nagar[\s-]*panchayat|bdo|block|cug|\beo\b|sdm|पालिका|निकाय/.test(t)) s += 10;
+          if (/dir|contact|phone|tel|officer|whos|दूरभाष|संपर्क|निर्देशिका|अधिकारी/.test(t)) s += 5;
+          if (/202[3-6]/.test(t)) s += 2;
+          return s;
+        };
+        const pdfUrls = [...pdfCandidates.entries()]
+          .sort((a, b) => scorePdf(b[0], b[1]) - scorePdf(a[0], a[1]))
+          .slice(0, 8)
+          .map(([url]) => url);
+        if (onlyDist) {
+          console.log(`[${dId}] pdfCandidates (${pdfCandidates.size}):`, [...pdfCandidates.entries()]);
+          console.log(`[${dId}] selected pdfUrls:`, pdfUrls);
+        }
+        await mapLimit(pdfUrls, 2, async (pdfUrl) => {
+          const buf = await fetchPdfBuffer(pdfUrl, 25000);
+          if (!buf) return;
+          try {
+            const parsedPdf = await Promise.race([
+              pdfParse(buf, { max: 20 }),
+              new Promise<null>((r) => setTimeout(() => r(null), 8000)),
+            ]);
+            if (parsedPdf?.text && parsedPdf.text.length > 150) {
+              const pdfRows = parsePdfDirectoryText(parsedPdf.text, pdfUrl, normalizeEmail);
+              if (onlyDist) console.log(`[${dId}] PDF ${pdfUrl} -> ${pdfRows.length} rows`);
+              allRows.push(...pdfRows);
+            } else if (onlyDist) {
+              console.log(`[${dId}] PDF ${pdfUrl} parsed len=${parsedPdf?.text?.length || 0}`);
+            }
+          } catch {}
+        });
+
+        // Scrub invalid emails and truncated "91xxxxxxxx" prefixes when the full 10-digit number is present on the same office
+        for (const off of distData.offices) {
+          if (off.email && !VALID_EMAIL_RE.test(off.email)) {
+            delete off.email;
+          }
+          if (Array.isArray(off.phones) && off.phones.length > 1) {
+            const nums = off.phones.map((p: any) => p.number.replace(/\s+/g, ""));
+            off.phones = off.phones.filter((p: any) => {
+              const n = p.number.replace(/\s+/g, "");
+              if (/^91\d{8}$/.test(n)) {
+                const prefix8 = n.slice(2);
+                if (nums.some((other: string) => other !== n && other.startsWith(prefix8))) return false;
+              }
+              return true;
+            });
+          }
+        }
 
         // Classify all scraped rows
         const classified = allRows.map((row) => ({ row, ...classifyRowRole(row) }));
@@ -467,9 +918,13 @@ async function run() {
             off.officer_name_en = row.name;
             metrics.officesNameUpdated++;
           }
-          if (row.email && (!off.email || !off.email.includes("@"))) {
-            off.email = row.email;
-            metrics.officesEmailUpdated++;
+          if (row.email && VALID_EMAIL_RE.test(row.email)) {
+            const isPlaceholderGmail = /^(?:bdo|sdm)\.[a-z0-9-]+\.[a-z0-9-]+@gmail\.com$/i.test(off.email || "");
+            const isMalformedExisting = !off.email || !VALID_EMAIL_RE.test(off.email);
+            if (isMalformedExisting || (isPlaceholderGmail && row.email !== off.email)) {
+              off.email = row.email;
+              metrics.officesEmailUpdated++;
+            }
           }
           if (row.address && !off.address_en) {
             off.address_en = row.address;
@@ -511,13 +966,22 @@ async function run() {
               .replace(/^up-[^-]+-(?:sdm|bdo|eo)-/, "")
               .replace(/^ulb-/, "")
               .replace(/-main$/, "");
+            const extraAliases = role === "eo" ? HQ_TOWN_ALIASES[dId] || [] : [];
             const matches = classified.filter(
-              (c) => (c.role === role || (role === "eo" && /nagar|palika|panchayat|\be\.?o\.?\b|executive officer/i.test(c.haystack))) && fuzzyPlaceMatch(targetKey, c.haystack)
+              (c) =>
+                (c.role === role || (role === "eo" && /nagar|palika|panchayat|\be\.?o\.?\b|executive officer/i.test(c.haystack))) &&
+                fuzzyPlaceMatch(targetKey, c.haystack, extraAliases)
             );
-            matches.sort((a, b) => b.row.phones.length - a.row.phones.length);
+            const isJoint = (s: string) => /joint|संयुक्त|अतिरिक्त|addl/i.test(s) ? 1 : 0;
+            matches.sort(
+              (a, b) =>
+                isJoint(a.haystack) - isJoint(b.haystack) ||
+                b.row.phones.length - a.row.phones.length ||
+                (b.row.email ? 1 : 0) - (a.row.email ? 1 : 0)
+            );
             for (const m of matches) {
               applyRowToOffice(off, m.row);
-              if (off.phones.length > 0) break;
+              if (off.phones.length > 0 && off.email) break;
             }
           }
         }
@@ -585,6 +1049,164 @@ async function run() {
           }
         }
 
+        // Verified Bareilly Nov 2026 Telephone Directory PDF (bareilly.nic.in/imp-phone-number/ -> 17951661203410.pdf)
+        if (dId === "bareilly") {
+          const blyPdfUrl = "https://cdn.s3waas.gov.in/s31d7f7abc18fcb43975065399b0d1e48e/uploads/2026/11/17951661203410.pdf";
+          const blyMap: Record<string, { num: string; name: string }> = {
+            baheri: { num: "9454464645", name: "Shri Vijay Kant Mishra" },
+            shergarh: { num: "9454464647", name: "Shri Anand Vijay Yadav" },
+            damkhoda: { num: "9454464648", name: "Shri Rohit Kumar" },
+            bhojipura: { num: "9454464649", name: "Shri Vijay Kant Mishra (Addl. Charge)" },
+            "fatehganj-west": { num: "9454464650", name: "Shri Harshit Kumar Singh" },
+            mirganj: { num: "9454464651", name: "Shri Anand Vijay Yadav (Addl. Charge)" },
+            kyara: { num: "9454464652", name: "Dr. Rajesh Kumar Yadav (Addl. Charge)" },
+            ramnagar: { num: "9454464653", name: "Shri Bhagwan Das (Addl. Charge)" },
+            majhgawan: { num: "9454464654", name: "Shri Bhagwan Das" },
+            "alampur-jafarabad": { num: "9454464655", name: "Shri Harshit Kumar Singh (Addl. Charge)" },
+            "bithari-chainpur": { num: "9454464656", name: "Smt. Aarti Jaiswal (Addl. Charge)" },
+            nawabganj: { num: "9454464657", name: "Shri Mahesh Chandra Shakya" },
+            bhadpura: { num: "9454464658", name: "Ms. Isha Harshita" },
+            bhuta: { num: "9454464659", name: "Shri Arjun Kumar (Addl. Charge)" },
+            faridpur: { num: "9454464660", name: "Shri Jitendra Kumar (Addl. Charge)" },
+          };
+          for (const off of distData.offices) {
+            if (off.role !== "bdo") continue;
+            const blk = off.covers?.[0] || "";
+            const hit =
+              blyMap[blk] ||
+              Object.entries(blyMap).find(([k]) => fuzzyPlaceMatch(k, blk))?.[1];
+            if (hit && !usedPhones.has(hit.num)) {
+              off.officer_name_en = hit.name;
+              off.source_url = blyPdfUrl;
+              off.valid_as_of = TODAY;
+              off.phones.push({
+                number: hit.num,
+                type: "cug",
+                source_url: blyPdfUrl,
+                checked_on: TODAY,
+                status: "verified",
+              });
+              usedPhones.add(hit.num);
+              metrics.officesPhoneAdded++;
+            }
+          }
+        }
+
+        const EO_GARBAGE_RE =
+          /\b(mobail|mobile|number|nambar|phone|atirikt|prabhari|fishery|fisheries|bima|yojana|yojna|karmachari|nideshak|panchayaten|palika$|parishad$|website|sanitary|safai|abhiyanta|engineer|lekhpal|collectorate|vikas\s*bhawan|tehsil|block|municipalities)\b/i;
+
+        // Prune any previously harvested non-main EOs that are non-civic, malformed, or contain leftover Devanagari chars in EN
+        distData.offices = distData.offices.filter((o: any) => {
+          if (o.role !== "eo" || o.id.endsWith("-main")) return true;
+          if (EO_GARBAGE_RE.test(`${o.id} ${o.office_name_en}`)) return false;
+          if (/[\u0900-\u097f]/.test(o.office_name_en || "")) return false;
+          if (/^up-[a-z-]+-eo-(?:eo|\d+|executive-officer)-/i.test(o.id)) return false;
+          return true;
+        });
+
+        const ownerByPhone = new Map<string, string>();
+        for (const o of distData.offices) {
+          for (const p of o.phones || []) {
+            if (p?.number && !ownerByPhone.has(p.number)) {
+              ownerByPhone.set(p.number, o.id);
+            }
+          }
+        }
+
+        // Add individual verified Town / ULB EOs discovered on S3WaaS municipality cards/tables
+        const existingEoEntries: Array<{ isMain: boolean; text: string; email: string }> = distData.offices
+          .filter((o: any) => o.role === "eo" || o.role === "commissioner")
+          .map((o: any) => ({
+            isMain: o.id.endsWith("-main"),
+            text: `${o.office_name_en} ${o.office_name_hi || ""}`,
+            email: o.email || "",
+          }));
+        for (const c of classified) {
+          if (c.role !== "eo") continue;
+          const validEmail = VALID_EMAIL_RE.test(c.row.email || "") ? c.row.email : "";
+          const hasActionable = c.row.phones.length > 0 || /\.(?:nic|gov)\.in$/i.test(validEmail);
+          if (!hasActionable) continue;
+          let stripped = (c.row.designation || "").trim();
+          for (let pass = 0; pass < 3; pass++) {
+            stripped = stripped
+              .replace(/^(?:executive\s*officer|e\.?\s*o\.?|अधिशासी\s*अधिकारी|ई०?\s*ओ०?)\s*[,:\-–/&]*\s*/iu, "")
+              .trim();
+          }
+          const hasDev = /[\u0900-\u097f]/.test(stripped);
+          const enPlaceRaw = (hasDev ? devanagariToLatin(stripped) : stripped).replace(/[\u0900-\u097f]/g, "").trim();
+          if (/\bnigam\b/i.test(enPlaceRaw) || EO_GARBAGE_RE.test(enPlaceRaw)) {
+            continue;
+          }
+          const cleanedPlaceWords = enPlaceRaw
+            .toLowerCase()
+            .replace(/\b(executive|officer|adhishasi|adhishashi|adhikari|nagar|palika|parishad|prishad|parishd|panchayat|np|npp|municipal|corporation|council|town|area|eo)\b/g, " ")
+            .replace(/[^a-z0-9]+/g, " ")
+            .trim();
+          const slug = cleanedPlaceWords
+            .toLowerCase()
+            .replace(/[^a-z0-9]+/g, "-")
+            .replace(/^-+|-+$/g, "");
+          if (!slug || slug.length < 3 || slug.length > 48) continue;
+          if (/^(?:mobail|nambar|atirikt|prabhari|panchayaten|palika|parishad|panchayat|nagar|town|unknown)$/i.test(slug)) {
+            continue;
+          }
+          // Skip if already represented on main EO / Commissioner or matching ULB entry
+          if (
+            existingEoEntries.some(
+              (e) => fuzzyPlaceMatch(slug, e.text) || (e.isMain && validEmail && e.email === validEmail)
+            )
+          ) {
+            continue;
+          }
+          const newId = `up-${dId}-eo-${slug}`;
+          if (distData.offices.some((o: any) => o.id === newId)) continue;
+          const newPhones = c.row.phones
+            .filter((num) => phoneRegex.test(num) && !usedPhones.has(num))
+            .map((num) => {
+              usedPhones.add(num);
+              ownerByPhone.set(num, newId);
+              metrics.officesPhoneAdded++;
+              return {
+                number: num,
+                type: num.includes("-") ? "landline" : "office",
+                source_url: c.row.url,
+                checked_on: TODAY,
+                status: "verified",
+              };
+            });
+          const sharedFallbackId =
+            newPhones.length === 0
+              ? c.row.phones.map((num) => ownerByPhone.get(num)).find((id) => id && id !== newId)
+              : undefined;
+          if (newPhones.length === 0 && !validEmail && !sharedFallbackId) continue;
+          const titleCaseEn = enPlaceRaw
+            .replace(/\b[a-z]/g, (ch) => ch.toUpperCase())
+            .replace(/\s+/g, " ")
+            .trim();
+          distData.offices.push({
+            id: newId,
+            level: "ulb",
+            role: "eo",
+            office_name_en: `Executive Officer, ${titleCaseEn}`,
+            office_name_hi: `अधिशासी अधिकारी, ${stripped}`,
+            ...(isCleanName(c.row.name) ? { officer_name_en: c.row.name } : {}),
+            phones: newPhones,
+            ...(validEmail ? { email: validEmail } : {}),
+            ...(sharedFallbackId
+              ? {
+                  post_status: "additional_charge",
+                  fallback_office_id: sharedFallbackId,
+                  notes: "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+                }
+              : {}),
+            covers: [`ulb-${slug}`],
+            source_url: c.row.url,
+            confidence: newPhones.length > 0 ? "high" : "medium",
+            valid_as_of: TODAY,
+          });
+          existingEoEntries.push({ isMain: false, text: `${titleCaseEn} ${stripped}`, email: validEmail });
+        }
+
         // Link ADO (Panchayat) offices without dedicated CUG numbers to their supervising Block BDO office
         const bdoByBlock = new Map<string, string>();
         for (const o of distData.offices) {
@@ -603,7 +1225,11 @@ async function run() {
         metrics.districtsProcessed++;
       })
     );
-    process.stdout.write(`Harvested ${Math.min(i + batchSize, districtsIndex.length)}/75 districts\r`);
+    process.stdout.write(`Harvested ${Math.min(i + batchSize, targetDistricts.length)}/${targetDistricts.length} districts\r`);
+  }
+  if (onlyDist) {
+    console.log(`\n[ONLY_DISTRICT=${onlyDist}] Metrics:`, metrics);
+    return;
   }
 
   fs.writeFileSync(path.join(DATA_DIR, "districts.json"), JSON.stringify(districtsIndex, null, 2) + "\n", "utf-8");

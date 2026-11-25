@@ -22,9 +22,10 @@
       "covers": [
         "etah"
       ],
-      "source_url": "https://etah.nic.in/whos-who/",
+      "source_url": "https://etah.nic.in/hi/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88-2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "कलेक्ट्रेट, एटा"
     },
     {
       "id": "up-etah-cdo",
@@ -45,7 +46,7 @@
       "covers": [
         "etah"
       ],
-      "source_url": "https://etah.nic.in/whos-who/",
+      "source_url": "https://etah.nic.in/hi/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88-2/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Rajendra Prasad Mishra",
@@ -113,14 +114,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Aliganj",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Aliganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "7905205916",
+          "type": "office",
+          "source_url": "https://etah.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.aliganj.eth-up@gov.in",
       "covers": [
         "aliganj"
       ],
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "श्री अनवर राशिद फारुकी"
     },
     {
       "id": "up-etah-sdm-jalesar",
@@ -128,14 +138,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Jalesar",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Jalesar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8932827431",
+          "type": "office",
+          "source_url": "https://etah.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.jalesar.eth-up@gov.in",
       "covers": [
         "jalesar"
       ],
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Rajkumar morya"
     },
     {
       "id": "up-etah-bdo-sheetalpur",
@@ -290,14 +309,24 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Awagarh",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Awagarh",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05745-224424",
+          "type": "landline",
+          "source_url": "https://etah.nic.in/hi/%e0%a4%89%e0%a4%aa%e0%a4%96%e0%a4%82%e0%a4%a1-%e0%a4%94%e0%a4%b0-%e0%a4%ac%e0%a5%8d%e0%a4%b2%e0%a5%89%e0%a4%95/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.awagarh.eth@gmail.com",
       "covers": [
         "awagarh"
       ],
-      "source_url": "https://etah.nic.in/whos-who/",
+      "source_url": "https://etah.nic.in/hi/%e0%a4%89%e0%a4%aa%e0%a4%96%e0%a4%82%e0%a4%a1-%e0%a4%94%e0%a4%b0-%e0%a4%ac%e0%a5%8d%e0%a4%b2%e0%a5%89%e0%a4%95/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "अवागढ़",
+      "address_en": "कार्यालय खंड विकास अधिकारी अवागढ़"
     },
     {
       "id": "up-etah-ado-awagarh",
@@ -398,14 +427,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Jaithara",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jaithara",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9540769691",
+          "type": "office",
+          "source_url": "https://etah.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.jaithara.eth@gmail.com",
       "covers": [
         "jaithara"
       ],
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Ajeet singh"
     },
     {
       "id": "up-etah-ado-jaithara",
@@ -444,7 +482,168 @@
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Nihal Singh",
-      "address_en": "Nagar Palika Parishad,G.T. Road Etah"
+      "address_en": "Nagar Palika Parishad,G.T. Road Etah",
+      "email": "eonppeataet-up@nic.in"
+    },
+    {
+      "id": "up-etah-eo-a-d-e-o-panchayat",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, A.D.E.O Panchayat",
+      "office_name_hi": "अधिशासी अधिकारी, A.D.E.O Panchayat",
+      "officer_name_en": "Shri Surendra Kumar",
+      "phones": [
+        {
+          "number": "9411238104",
+          "type": "office",
+          "source_url": "https://etah.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454418025",
+          "type": "office",
+          "source_url": "https://etah.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-a-d-e-o-panchayat"
+      ],
+      "source_url": "https://etah.nic.in/whos-who/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-etah-eo-e-o-n-p-awagarh-mirehchi",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, E.O.N.P Awagarh/Mirehchi",
+      "office_name_hi": "अधिशासी अधिकारी, E.O.N.P Awagarh/Mirehchi",
+      "officer_name_en": "Shri Swadesh Arya",
+      "phones": [
+        {
+          "number": "9456272607",
+          "type": "office",
+          "source_url": "https://etah.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-e-o-n-p-awagarh-mirehchi"
+      ],
+      "source_url": "https://etah.nic.in/whos-who/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-etah-eo-e-o-n-p-p-aliganj-jaithra-raja-rampur",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, E.O.N.P.P Aliganj/Jaithra/Raja Rampur",
+      "office_name_hi": "अधिशासी अधिकारी, E.O.N.P.P Aliganj/Jaithra/Raja Rampur",
+      "officer_name_en": "Shri Krishan Partap Saral",
+      "phones": [
+        {
+          "number": "9565897740",
+          "type": "office",
+          "source_url": "https://etah.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-e-o-n-p-p-aliganj-jaithra-raja-rampur"
+      ],
+      "source_url": "https://etah.nic.in/whos-who/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-etah-eo-e-o-n-p-p-marehra",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, E.O.N.P.P Marehra",
+      "office_name_hi": "अधिशासी अधिकारी, E.O.N.P.P Marehra",
+      "officer_name_en": "Shri Shweta Singh",
+      "phones": [
+        {
+          "number": "7355952983",
+          "type": "office",
+          "source_url": "https://etah.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-e-o-n-p-p-marehra"
+      ],
+      "source_url": "https://etah.nic.in/whos-who/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-etah-eo-e-o-n-p-p-jalesar",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, E.O.N.P.P Jalesar",
+      "office_name_hi": "अधिशासी अधिकारी, E.O.N.P.P Jalesar",
+      "officer_name_en": "Shri Praduman Kumar",
+      "phones": [
+        {
+          "number": "8756069773",
+          "type": "office",
+          "source_url": "https://etah.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-e-o-n-p-p-jalesar"
+      ],
+      "source_url": "https://etah.nic.in/whos-who/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-etah-eo-n-p-p-etah",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, N.P.P Etah",
+      "office_name_hi": "अधिशासी अधिकारी, N.P.P Etah",
+      "officer_name_en": "Shri Nihal Singh",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "eo-etah-main",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-n-p-p-etah"
+      ],
+      "source_url": "https://etah.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Nagar Palika Parishad,G.T. Road Etah",
+      "email": "eonppeataet-up@nic.in"
+    },
+    {
+      "id": "up-etah-eo-n-p-sakit",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, N.P Sakit",
+      "office_name_hi": "अधिशासी अधिकारी, N.P Sakit",
+      "officer_name_en": "Shri Piyus Rawat",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-etah-sdm-etah",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-n-p-sakit"
+      ],
+      "source_url": "https://etah.nic.in/whos-who/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
     }
   ]
 }

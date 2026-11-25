@@ -73,14 +73,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bulandshahr",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bulandshahr",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05732-203001",
+          "type": "landline",
+          "source_url": "https://bulandshahar.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.bulandshahr.bul-up@gov.in",
       "covers": [
         "bulandshahr"
       ],
-      "source_url": "https://bulandshahar.nic.in/whos-who/",
+      "source_url": "https://bulandshahar.nic.in/std-pin-codes/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bulandshahr-sdm-anupshahr",
@@ -88,14 +96,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Anupshahr",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Anupshahr",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05734-203390",
+          "type": "landline",
+          "source_url": "https://bulandshahar.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.anupshahr.bul-up@gov.in",
       "covers": [
         "anupshahr"
       ],
-      "source_url": "https://bulandshahar.nic.in/whos-who/",
+      "source_url": "https://bulandshahar.nic.in/std-pin-codes/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bulandshahr-sdm-debai",
@@ -118,14 +134,29 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Khurja",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Khurja",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05738-203131",
+          "type": "landline",
+          "source_url": "https://bulandshahar.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454416728",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.khurja.bul-up@gov.in",
       "covers": [
         "khurja"
       ],
-      "source_url": "https://bulandshahar.nic.in/whos-who/",
+      "source_url": "https://bulandshahar.nic.in/telephone_directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bulandshahr-sdm-shikarpur",
@@ -133,14 +164,29 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Shikarpur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Shikarpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05732-203395",
+          "type": "landline",
+          "source_url": "https://bulandshahar.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454416730",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.shikarpur.bul-up@gov.in",
       "covers": [
         "shikarpur"
       ],
-      "source_url": "https://bulandshahar.nic.in/whos-who/",
+      "source_url": "https://bulandshahar.nic.in/telephone_directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bulandshahr-sdm-siana",
@@ -163,14 +209,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Syana",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Syana",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416733",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.syana.bul-up@gov.in",
       "covers": [
         "syana"
       ],
-      "source_url": "https://bulandshahar.nic.in/whos-who/",
+      "source_url": "https://bulandshahar.nic.in/telephone_directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bulandshahr-bdo-bulandshahr",
@@ -688,13 +742,365 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Bulandshahr",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका बुलंदशहर",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8189077913",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-bulandshahr-main"
       ],
-      "source_url": "https://bulandshahar.nic.in/whos-who/",
+      "source_url": "https://bulandshahar.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%93%e0%a4%82/page/2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Bulandshahr"
+    },
+    {
+      "id": "up-bulandshahr-eo-sikandrabad",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Sikandrabad",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका सिकन्द्राबाद",
+      "phones": [
+        {
+          "number": "8189077915",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-sikandrabad"
+      ],
+      "source_url": "https://bulandshahar.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%93%e0%a4%82/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Sikandrabad"
+    },
+    {
+      "id": "up-bulandshahr-eo-syana",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Syana",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका स्याना",
+      "phones": [
+        {
+          "number": "8189077917",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-syana"
+      ],
+      "source_url": "https://bulandshahar.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%93%e0%a4%82/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "स्याना"
+    },
+    {
+      "id": "up-bulandshahr-eo-dibai",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Dibai",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका डिबाई",
+      "phones": [
+        {
+          "number": "8189077920",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-dibai"
+      ],
+      "source_url": "https://bulandshahar.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%93%e0%a4%82/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Dibai"
+    },
+    {
+      "id": "up-bulandshahr-eo-aurangabad",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Aurangabad",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत औरंगाबाद",
+      "phones": [
+        {
+          "number": "8189077923",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-aurangabad"
+      ],
+      "source_url": "https://bulandshahar.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%93%e0%a4%82/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "औरंगाबाद"
+    },
+    {
+      "id": "up-bulandshahr-eo-bugarasi",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Bugarasi",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत बुगरासी",
+      "phones": [
+        {
+          "number": "8189077925",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-bugarasi"
+      ],
+      "source_url": "https://bulandshahar.nic.in/public-utility-category/municipality/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "बुगरासी"
+    },
+    {
+      "id": "up-bulandshahr-eo-anupashahar",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Anupashahar",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका अनूपशहर",
+      "phones": [
+        {
+          "number": "8189077916",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-anupashahar"
+      ],
+      "source_url": "https://bulandshahar.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%93%e0%a4%82/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "अनूपशहर"
+    },
+    {
+      "id": "up-bulandshahr-eo-khurja",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Khurja",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका खुर्जा",
+      "phones": [
+        {
+          "number": "8189077914",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-khurja"
+      ],
+      "source_url": "https://bulandshahar.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%93%e0%a4%82/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "खुर्जा"
+    },
+    {
+      "id": "up-bulandshahr-eo-shikarapur",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Shikarapur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका शिकारपुर",
+      "phones": [
+        {
+          "number": "8189077919",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-shikarapur"
+      ],
+      "source_url": "https://bulandshahar.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%93%e0%a4%82/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Sikarpur"
+    },
+    {
+      "id": "up-bulandshahr-eo-kakor",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Kakor",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत ककोड़",
+      "phones": [
+        {
+          "number": "8189077922",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-kakor"
+      ],
+      "source_url": "https://bulandshahar.nic.in/public-utility-category/municipality/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "ककोड़"
+    },
+    {
+      "id": "up-bulandshahr-eo-naraura",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Naraura",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत नरौरा",
+      "phones": [
+        {
+          "number": "8189077927",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-naraura"
+      ],
+      "source_url": "https://bulandshahar.nic.in/public-utility-category/municipality/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "नरोरा"
+    },
+    {
+      "id": "up-bulandshahr-eo-pahasu",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Pahasu",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत पहासू",
+      "phones": [
+        {
+          "number": "8189077928",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-pahasu"
+      ],
+      "source_url": "https://bulandshahar.nic.in/public-utility-category/municipality/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "पहासू"
+    },
+    {
+      "id": "up-bulandshahr-eo-chhatari",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Chhatari",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत छतारी",
+      "phones": [
+        {
+          "number": "8189077929",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-chhatari"
+      ],
+      "source_url": "https://bulandshahar.nic.in/public-utility-category/municipality/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "छतारी"
+    },
+    {
+      "id": "up-bulandshahr-eo-khanapur",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Khanapur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत खानपुर",
+      "phones": [
+        {
+          "number": "8189077924",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-khanapur"
+      ],
+      "source_url": "https://bulandshahar.nic.in/public-utility-category/municipality/page/2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "खानपुर"
+    },
+    {
+      "id": "up-bulandshahr-eo-bi0bi0nagar",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Bi0bi0nagar",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत बी0बी0नगर",
+      "phones": [
+        {
+          "number": "8189077926",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-bi0bi0nagar"
+      ],
+      "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-bulandshahr-eo-jahogirabad",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Jahogirabad",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका जहॉगीराबाद",
+      "phones": [
+        {
+          "number": "8189077918",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-jahogirabad"
+      ],
+      "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
     }
   ]
 }

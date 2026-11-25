@@ -35,13 +35,6 @@
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), आजमगढ़",
       "phones": [
         {
-          "number": "9194544645",
-          "type": "office",
-          "source_url": "https://azamgarh.nic.in",
-          "checked_on": "2026-11-20",
-          "status": "verified"
-        },
-        {
           "number": "9454464584",
           "type": "office",
           "source_url": "https://azamgarh.nic.in/whos-who/",
@@ -80,14 +73,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417925",
+          "type": "office",
+          "source_url": "https://azamgarh.nic.in/public-utility-category/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.sadar.azm-up@gov.in",
       "covers": [
         "sadar"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/hi/public-utility-category/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "SDM / Dy Collector,Sadar Azamgarh Phone : 9454417925"
     },
     {
       "id": "up-azamgarh-sdm-sagri",
@@ -95,14 +97,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sagri",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sagri",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417924",
+          "type": "office",
+          "source_url": "https://azamgarh.nic.in/public-utility-category/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.sagri.azm-up@gov.in",
       "covers": [
         "sagri"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/hi/public-utility-category/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "SDM / Dy Collector,Tehsil Sagri Azamgarh Phone : 9454417924"
     },
     {
       "id": "up-azamgarh-sdm-mehnagar",
@@ -110,14 +121,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mehnagar",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mehnagar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417927",
+          "type": "office",
+          "source_url": "https://azamgarh.nic.in/public-utility-category/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.mehnagar.azm-up@gov.in",
       "covers": [
         "mehnagar"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/hi/public-utility-category/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Tehsil Mehnagar Azamgarh Phone : 9454417927"
     },
     {
       "id": "up-azamgarh-sdm-lalganj",
@@ -125,14 +145,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Lalganj",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Lalganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417929",
+          "type": "office",
+          "source_url": "https://azamgarh.nic.in/public-utility-category/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.lalganj.azm-up@gov.in",
       "covers": [
         "lalganj"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/hi/public-utility-category/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Tehsil Lalganj Azamgarh Phone : 9454417929"
     },
     {
       "id": "up-azamgarh-sdm-burhanpur",
@@ -140,14 +169,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Burhanpur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Burhanpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417930",
+          "type": "office",
+          "source_url": "https://azamgarh.nic.in/hi/public-utility-category/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.burhanpur.azm-up@gov.in",
       "covers": [
         "burhanpur"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/hi/public-utility-category/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "एसडीएम / उपजिलाधिकारी, बुढ़नपुर आजमगढ़ फोन : 9454417930"
     },
     {
       "id": "up-azamgarh-sdm-phoolpur",
@@ -155,14 +193,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Phoolpur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Phoolpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417926",
+          "type": "office",
+          "source_url": "https://azamgarh.nic.in/public-utility-category/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.phoolpur.azm-up@gov.in",
       "covers": [
         "phoolpur"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/hi/public-utility-category/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Tehsil Phoolpur Azamgarh Phone : 9454417926"
     },
     {
       "id": "up-azamgarh-sdm-nizamabad",
@@ -170,14 +217,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Nizamabad",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Nizamabad",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417928",
+          "type": "office",
+          "source_url": "https://azamgarh.nic.in/public-utility-category/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.nizamabad.azm-up@gov.in",
       "covers": [
         "nizamabad"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/hi/public-utility-category/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Tehsil Nizamabad Azamgarh Phone : 9454417928"
     },
     {
       "id": "up-azamgarh-sdm-martinganj",
@@ -185,14 +241,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Martinganj",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Martinganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417931",
+          "type": "office",
+          "source_url": "https://azamgarh.nic.in/public-utility-category/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.martinganj.azm-up@gov.in",
       "covers": [
         "martinganj"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/hi/public-utility-category/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "SDM / Dy Collector,Tehsil Martinganj Azamgarh Phone : 9454417931"
     },
     {
       "id": "up-azamgarh-bdo-palhani",
@@ -200,14 +265,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Palhani",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Palhani",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464596",
+          "type": "office",
+          "source_url": "https://azamgarh.nic.in/public-utility-category/blocks/page/2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.palhani.azm@gmail.com",
       "covers": [
         "palhani"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/hi/public-utility-category/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%96%e0%a4%a3%e0%a5%8d%e0%a4%a1/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Vikas Khand Palhani Azamgarh Phone : 9454464596"
     },
     {
       "id": "up-azamgarh-ado-palhani",
@@ -230,14 +304,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Rani Ki Sarai",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rani Ki Sarai",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464595",
+          "type": "office",
+          "source_url": "https://azamgarh.nic.in/public-utility-category/blocks/page/2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.ranikisarai.azm@gmail.com",
       "covers": [
         "rani-ki-sarai"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/public-utility-category/blocks/page/2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Vikas Khnad Rani Ki Sarai Azamgarh Phone : 9454464595"
     },
     {
       "id": "up-azamgarh-ado-rani-ki-sarai",
@@ -290,14 +373,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Jahanaganj",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jahanaganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464598",
+          "type": "office",
+          "source_url": "https://azamgarh.nic.in/public-utility-category/blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.jahanaganj.azm@gmail.com",
       "covers": [
         "jahanaganj"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/public-utility-category/blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Vikas Khand Jahanaganj Azamgarh Phone : 9454464598"
     },
     {
       "id": "up-azamgarh-ado-jahanaganj",
@@ -325,9 +417,10 @@
       "covers": [
         "tahbarpur"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/public-utility-category/blocks/page/2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Vikas Khand Tahbarpur Azamgarh"
     },
     {
       "id": "up-azamgarh-ado-tahbarpur",
@@ -415,9 +508,10 @@
       "covers": [
         "ahiraula"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/hi/public-utility-category/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%96%e0%a4%a3%e0%a5%8d%e0%a4%a1/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Vikas khand Ahiraula Azamgarh"
     },
     {
       "id": "up-azamgarh-ado-ahiraula",
@@ -445,9 +539,10 @@
       "covers": [
         "phoolpur"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/public-utility-category/blocks/page/2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Vikas Khand Phoolpur Azamgarh"
     },
     {
       "id": "up-azamgarh-ado-phoolpur",
@@ -505,9 +600,10 @@
       "covers": [
         "martinganj"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/hi/public-utility-category/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8-%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1/page/2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Vikas Khand Martinganj Azamgarh"
     },
     {
       "id": "up-azamgarh-ado-martinganj",
@@ -565,9 +661,10 @@
       "covers": [
         "lalganj"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/hi/public-utility-category/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8-%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1/page/2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Vikas Khand Lalganj Azamgarh"
     },
     {
       "id": "up-azamgarh-ado-lalganj",
@@ -620,14 +717,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mehnagar",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mehnagar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464609",
+          "type": "office",
+          "source_url": "https://azamgarh.nic.in/public-utility-category/blocks/page/2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.mehnagar.azm@gmail.com",
       "covers": [
         "mehnagar"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/hi/public-utility-category/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8-%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1/page/2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Vikas Khand Mehnagar Azamgarh Phone : 9454464609"
     },
     {
       "id": "up-azamgarh-ado-mehnagar",
@@ -655,9 +761,10 @@
       "covers": [
         "bilariyaganj"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/hi/public-utility-category/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8-%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1/page/2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Vikas khan Bilariyaganj Azamgarh"
     },
     {
       "id": "up-azamgarh-ado-bilariyaganj",
@@ -685,9 +792,10 @@
       "covers": [
         "maharajganj"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/hi/public-utility-category/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8-%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1/page/2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Vikas Khand Maharajganj Azamgarh"
     },
     {
       "id": "up-azamgarh-ado-maharajganj",
@@ -715,9 +823,10 @@
       "covers": [
         "haraiya"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/public-utility-category/blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Vikas Khand Haraiya Azamgarh"
     },
     {
       "id": "up-azamgarh-ado-haraiya",
@@ -745,9 +854,10 @@
       "covers": [
         "mirzapur"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/public-utility-category/blocks/page/2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Vikas Khand Mirzapur Azamgarh"
     },
     {
       "id": "up-azamgarh-ado-mirzapur",
@@ -774,9 +884,11 @@
       "covers": [
         "ulb-azamgarh-main"
       ],
-      "source_url": "https://azamgarh.nic.in/whos-who/",
+      "source_url": "https://azamgarh.nic.in/public-utility-category/municipalities/page/2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Tehsil Mehnagar Azamgarh Phone : 9454417927",
+      "email": "eonppazamgarhaz-up@nic.in"
     }
   ]
 }

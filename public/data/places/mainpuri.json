@@ -2342,11 +2342,121 @@
     "id": "ward-mainpuri-ulb-mainpuri-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Mainpuri (All Wards)",
-    "name_hi": "मैनपुरी नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका मैनपुरी (सभी वार्ड)",
     "ulb_id": "ulb-mainpuri-main",
     "tehsil_id": "mainpuri",
     "district_id": "mainpuri",
     "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-mainpuri-ulb-nagar-panchayat-bewar",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Bewar (All Wards)",
+    "name_hi": "Nagar Panchayat Bewar (सभी वार्ड)",
+    "ulb_id": "ulb-nagar-panchayat-bewar",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mainpuri-ulb-nagar-panchayat-bhongaon",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Bhongaon (All Wards)",
+    "name_hi": "Nagar Panchayat Bhongaon (सभी वार्ड)",
+    "ulb_id": "ulb-nagar-panchayat-bhongaon",
+    "tehsil_id": "bhongaon",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mainpuri-ulb-nagar-panchayat-ghiror",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Ghiror (All Wards)",
+    "name_hi": "Nagar Panchayat Ghiror (सभी वार्ड)",
+    "ulb_id": "ulb-nagar-panchayat-ghiror",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mainpuri-ulb-nagar-panchayat-jyoti-khudia",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Jyoti Khudia (All Wards)",
+    "name_hi": "Nagar Panchayat Jyoti Khudia (सभी वार्ड)",
+    "ulb_id": "ulb-nagar-panchayat-jyoti-khudia",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mainpuri-ulb-nagar-panchayat-karhal",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Karhal (All Wards)",
+    "name_hi": "Nagar Panchayat Karhal (सभी वार्ड)",
+    "ulb_id": "ulb-nagar-panchayat-karhal",
+    "tehsil_id": "karhal",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mainpuri-ulb-nagar-panchayat-kurawali",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Kurawali (All Wards)",
+    "name_hi": "Nagar Panchayat Kurawali (सभी वार्ड)",
+    "ulb_id": "ulb-nagar-panchayat-kurawali",
+    "tehsil_id": "kurawali",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mainpuri-ulb-karahal",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Karahal (All Wards)",
+    "name_hi": "नगर पंचायत करहल (सभी वार्ड)",
+    "ulb_id": "ulb-karahal",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mainpuri-ulb-kusamara",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Kusamara (All Wards)",
+    "name_hi": "नगर पंचायत कुसमरा (सभी वार्ड)",
+    "ulb_id": "ulb-kusamara",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mainpuri-ulb-bhonganv",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Bhonganv (All Wards)",
+    "name_hi": "नगर पंचायत भोंगांव (सभी वार्ड)",
+    "ulb_id": "ulb-bhonganv",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mainpuri-ulb-kishani",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Kishani (All Wards)",
+    "name_hi": "नगर पंचायत किशनी (सभी वार्ड)",
+    "ulb_id": "ulb-kishani",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mainpuri-ulb-jyonti-khuriya",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Jyonti Khuriya (All Wards)",
+    "name_hi": "नगर पंचायत ज्योंति खुड़िया (सभी वार्ड)",
+    "ulb_id": "ulb-jyonti-khuriya",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_panchayat"
   },
   {
     "id": "town-mainpuri-mainpuri",
@@ -2380,7 +2490,7 @@
     "name_en": "Kishni (Urban Ward / SO)",
     "name_hi": "Kishni (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-mainpuri-main",
-    "tehsil_id": "mainpuri",
+    "tehsil_id": "kishni",
     "district_id": "mainpuri",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -2444,10 +2554,10 @@
     "type": "ward",
     "name_en": "Naya Bazar Bhongaon (Urban Ward / SO)",
     "name_hi": "Naya Bazar Bhongaon (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mainpuri-main",
-    "tehsil_id": "mainpuri",
+    "ulb_id": "ulb-nagar-panchayat-bhongaon",
+    "tehsil_id": "bhongaon",
     "district_id": "mainpuri",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "205262"
     ]
@@ -2470,10 +2580,10 @@
     "type": "ward",
     "name_en": "Bewar SO Mainpuri (Urban Ward / SO)",
     "name_hi": "Bewar SO Mainpuri (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mainpuri-main",
+    "ulb_id": "ulb-nagar-panchayat-bewar",
     "tehsil_id": "mainpuri",
     "district_id": "mainpuri",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "205301"
     ]
@@ -2509,10 +2619,10 @@
     "type": "ward",
     "name_en": "Galla Mandi Kurawali (Urban Ward / SO)",
     "name_hi": "Galla Mandi Kurawali (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mainpuri-main",
-    "tehsil_id": "mainpuri",
+    "ulb_id": "ulb-nagar-panchayat-kurawali",
+    "tehsil_id": "kurawali",
     "district_id": "mainpuri",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "205265"
     ]
@@ -2535,10 +2645,10 @@
     "type": "ward",
     "name_en": "Karhal SO Mainpuri (Urban Ward / SO)",
     "name_hi": "Karhal SO Mainpuri (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mainpuri-main",
-    "tehsil_id": "mainpuri",
+    "ulb_id": "ulb-nagar-panchayat-karhal",
+    "tehsil_id": "karhal",
     "district_id": "mainpuri",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "205264"
     ]
@@ -2548,10 +2658,10 @@
     "type": "ward",
     "name_en": "Ghiror (Urban Ward / SO)",
     "name_hi": "Ghiror (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mainpuri-main",
+    "ulb_id": "ulb-nagar-panchayat-ghiror",
     "tehsil_id": "mainpuri",
     "district_id": "mainpuri",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "205121"
     ]
@@ -2574,10 +2684,10 @@
     "type": "ward",
     "name_en": "Bewar Bazar (Urban Ward / SO)",
     "name_hi": "Bewar Bazar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mainpuri-main",
+    "ulb_id": "ulb-nagar-panchayat-bewar",
     "tehsil_id": "mainpuri",
     "district_id": "mainpuri",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "205301"
     ]
@@ -2587,10 +2697,10 @@
     "type": "ward",
     "name_en": "Bhongaon (Urban Ward / SO)",
     "name_hi": "Bhongaon (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mainpuri-main",
-    "tehsil_id": "mainpuri",
+    "ulb_id": "ulb-nagar-panchayat-bhongaon",
+    "tehsil_id": "bhongaon",
     "district_id": "mainpuri",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "205262"
     ]

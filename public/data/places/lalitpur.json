@@ -2001,8 +2001,18 @@
     "id": "ward-lalitpur-ulb-lalitpur-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Lalitpur (All Wards)",
-    "name_hi": "ललितपुर नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका ललितपुर (सभी वार्ड)",
     "ulb_id": "ulb-lalitpur-main",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-lalitpur-ulb-mrs-rajni-sahu-chairman-npp-lalitpur",
+    "type": "ward",
+    "name_en": "Mrs Rajni Sahu Chairman NPP Lalitpur (All Wards)",
+    "name_hi": "Mrs Rajni Sahu Chairman NPP Lalitpur (सभी वार्ड)",
+    "ulb_id": "ulb-mrs-rajni-sahu-chairman-npp-lalitpur",
     "tehsil_id": "lalitpur",
     "district_id": "lalitpur",
     "local_body_type": "nagar_palika_parishad"
@@ -2039,7 +2049,7 @@
     "name_en": "Mahroni (Urban Ward / SO)",
     "name_hi": "Mahroni (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-lalitpur-main",
-    "tehsil_id": "lalitpur",
+    "tehsil_id": "mahroni",
     "district_id": "lalitpur",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -2091,7 +2101,7 @@
     "name_en": "Talbehat (Urban Ward / SO)",
     "name_hi": "Talbehat (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-lalitpur-main",
-    "tehsil_id": "lalitpur",
+    "tehsil_id": "talbehat",
     "district_id": "lalitpur",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [

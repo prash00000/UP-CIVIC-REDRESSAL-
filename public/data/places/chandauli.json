@@ -2328,11 +2328,41 @@
     "id": "ward-chandauli-ulb-chandauli-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Chandauli (All Wards)",
-    "name_hi": "चंदौली नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका चंदौली (सभी वार्ड)",
     "ulb_id": "ulb-chandauli-main",
     "tehsil_id": "chandauli",
     "district_id": "chandauli",
     "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-chandauli-ulb-pan0di0d0nagar",
+    "type": "ward",
+    "name_en": "Nagar Palika, Pan0di0d0nagar (All Wards)",
+    "name_hi": "नगर पालिका, पं0दी0द0नगर (सभी वार्ड)",
+    "ulb_id": "ulb-pan0di0d0nagar",
+    "tehsil_id": "chandauli",
+    "district_id": "chandauli",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-chandauli-ulb-chakiya",
+    "type": "ward",
+    "name_en": "Nagar Panchayat, Chakiya (All Wards)",
+    "name_hi": "नगर पंचायत, चकिया (सभी वार्ड)",
+    "ulb_id": "ulb-chakiya",
+    "tehsil_id": "chandauli",
+    "district_id": "chandauli",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-chandauli-ulb-saiyadaraja",
+    "type": "ward",
+    "name_en": "Nagar Panchayat, Saiyadaraja (All Wards)",
+    "name_hi": "नगर पंचायत, सैयदराजा (सभी वार्ड)",
+    "ulb_id": "ulb-saiyadaraja",
+    "tehsil_id": "chandauli",
+    "district_id": "chandauli",
+    "local_body_type": "nagar_panchayat"
   },
   {
     "id": "town-chandauli-chakia",
@@ -2340,7 +2370,7 @@
     "name_en": "Chakia (Urban Ward / SO)",
     "name_hi": "Chakia (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-chandauli-main",
-    "tehsil_id": "chandauli",
+    "tehsil_id": "chakia",
     "district_id": "chandauli",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -2418,7 +2448,7 @@
     "name_en": "Sakaldiha Bazar (Urban Ward / SO)",
     "name_hi": "Sakaldiha Bazar (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-chandauli-main",
-    "tehsil_id": "chandauli",
+    "tehsil_id": "sakaldiha",
     "district_id": "chandauli",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -2522,7 +2552,7 @@
     "name_en": "Sakaldiha (Urban Ward / SO)",
     "name_hi": "Sakaldiha (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-chandauli-main",
-    "tehsil_id": "chandauli",
+    "tehsil_id": "sakaldiha",
     "district_id": "chandauli",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [

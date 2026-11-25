@@ -100,9 +100,10 @@
       "covers": [
         "sadar"
       ],
-      "source_url": "https://gorakhpur.nic.in/directory/",
+      "source_url": "https://gorakhpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "उप जिलाधिकारी सदर"
     },
     {
       "id": "up-gorakhpur-sdm-sahjanwa",
@@ -153,9 +154,10 @@
       "covers": [
         "chauri-chaura"
       ],
-      "source_url": "https://gorakhpur.nic.in/directory/",
+      "source_url": "https://gorakhpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "उप जिलाधिकारी चौरीचौरा"
     },
     {
       "id": "up-gorakhpur-sdm-bansgaon",
@@ -183,9 +185,10 @@
       "covers": [
         "bansgaon"
       ],
-      "source_url": "https://gorakhpur.nic.in/directory/",
+      "source_url": "https://gorakhpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "उप जिलाधिकारी बांसगांव"
     },
     {
       "id": "up-gorakhpur-sdm-khajni",
@@ -213,9 +216,10 @@
       "covers": [
         "khajni"
       ],
-      "source_url": "https://gorakhpur.nic.in/directory/",
+      "source_url": "https://gorakhpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "उप जिलाधिकारी खजनी"
     },
     {
       "id": "up-gorakhpur-sdm-campierganj",
@@ -243,9 +247,10 @@
       "covers": [
         "campierganj"
       ],
-      "source_url": "https://gorakhpur.nic.in/directory/",
+      "source_url": "https://gorakhpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "उप जिलाधिकारी कैम्पियरगंज"
     },
     {
       "id": "up-gorakhpur-sdm-gola",
@@ -273,9 +278,10 @@
       "covers": [
         "gola"
       ],
-      "source_url": "https://gorakhpur.nic.in/directory/",
+      "source_url": "https://gorakhpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "उप जिलाधिकारी गोला"
     },
     {
       "id": "up-gorakhpur-bdo-chargawan",
@@ -313,14 +319,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Pipraich",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pipraich",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9792623333",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.pipraich.gkp@gmail.com",
       "covers": [
         "pipraich"
       ],
-      "source_url": "https://gorakhpur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-gorakhpur-ado-pipraich",
@@ -373,14 +387,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bhathat",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhathat",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9415849578",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.bhathat.gkp@gmail.com",
       "covers": [
         "bhathat"
       ],
-      "source_url": "https://gorakhpur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-gorakhpur-ado-bhathat",
@@ -433,14 +455,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Pali",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pali",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9450477584",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.pali.gkp@gmail.com",
       "covers": [
         "pali"
       ],
-      "source_url": "https://gorakhpur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-gorakhpur-ado-pali",
@@ -463,14 +493,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Khorabar",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khorabar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9918425392",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.khorabar.gkp@gmail.com",
       "covers": [
         "khorabar"
       ],
-      "source_url": "https://gorakhpur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-gorakhpur-ado-khorabar",
@@ -493,14 +531,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Piprauli",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Piprauli",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9450305828",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.piprauli.gkp@gmail.com",
       "covers": [
         "piprauli"
       ],
-      "source_url": "https://gorakhpur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-gorakhpur-ado-piprauli",
@@ -523,14 +569,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sardar Nagar",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sardar Nagar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8808666688",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.sardarnagar.gkp@gmail.com",
       "covers": [
         "sardar-nagar"
       ],
-      "source_url": "https://gorakhpur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-gorakhpur-ado-sardar-nagar",
@@ -553,14 +607,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Brahmpur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Brahmpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8840317498",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.brahmpur.gkp@gmail.com",
       "covers": [
         "brahmpur"
       ],
-      "source_url": "https://gorakhpur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-gorakhpur-ado-brahmpur",
@@ -583,14 +645,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bansgaon",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bansgaon",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05521-230004",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.bansgaon.gkp@gmail.com",
       "covers": [
         "bansgaon"
       ],
-      "source_url": "https://gorakhpur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-gorakhpur-ado-bansgaon",
@@ -673,14 +743,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Gola",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gola",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05525-231251",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.gola.gkp@gmail.com",
       "covers": [
         "gola"
       ],
-      "source_url": "https://gorakhpur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-gorakhpur-ado-gola",
@@ -733,14 +811,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Gagaha",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gagaha",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05525-237326",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.gagaha.gkp@gmail.com",
       "covers": [
         "gagaha"
       ],
-      "source_url": "https://gorakhpur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-gorakhpur-ado-gagaha",
@@ -763,14 +849,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Khajni",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khajni",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05521-251418",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.khajni.gkp@gmail.com",
       "covers": [
         "khajni"
       ],
-      "source_url": "https://gorakhpur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-gorakhpur-ado-khajni",
@@ -793,14 +887,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Belghat",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Belghat",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05521-247165",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.belghat.gkp@gmail.com",
       "covers": [
         "belghat"
       ],
-      "source_url": "https://gorakhpur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-gorakhpur-ado-belghat",
@@ -857,9 +959,11 @@
       "covers": [
         "ulb-gorakhpur-main"
       ],
-      "source_url": "https://gorakhpur.nic.in/whos-who/",
+      "source_url": "https://gorakhpur.nic.in/public-utility-category/municipality/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "email": "eonpbansgawngr-up@nic.in",
+      "address_en": "Tehsil Bansgaon Gorakhpur Email : eonpbansgawngr-up[at]nic[dot]in"
     },
     {
       "id": "up-gorakhpur-commissioner",
@@ -881,16 +985,162 @@
           "source_url": "https://localbodies.up.nic.in/listnn.htm",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "7607003677",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "covers": [
         "gorakhpur"
       ],
-      "source_url": "https://localbodies.up.nic.in/listnn.htm",
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "email": "8189077819nagarnigamgkp@gmail.com",
       "officer_name_en": "श्री गौरव सिंह सोगरवाल"
+    },
+    {
+      "id": "up-gorakhpur-eo-sahajanavaoshri-avadhesh-kumar-varma",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Sahajanavaoshri Avadhesh Kumar Varma",
+      "office_name_hi": "अधिशासी अधिकारी, सहजनवाॉश्री अवधेश कुमार वर्मा",
+      "phones": [
+        {
+          "number": "8115494029",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-sahajanavaoshri-avadhesh-kumar-varma"
+      ],
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-gorakhpur-eo-basaganvashri-avadhesh-kumar-varma",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Basaganvashri Avadhesh Kumar Varma",
+      "office_name_hi": "अधिशासी अधिकारी, बासगांवश्री अवधेश कुमार वर्मा",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-gorakhpur-eo-sahajanavaoshri-avadhesh-kumar-varma",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-basaganvashri-avadhesh-kumar-varma"
+      ],
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-gorakhpur-eo-badahalaganjashri-avadhesh-kumar-varma",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Badahalaganjashri Avadhesh Kumar Varma",
+      "office_name_hi": "अधिशासी अधिकारी, बड़हलगंजश्री अवधेश कुमार वर्मा",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-gorakhpur-eo-sahajanavaoshri-avadhesh-kumar-varma",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-badahalaganjashri-avadhesh-kumar-varma"
+      ],
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-gorakhpur-eo-golashri-a-n-yadav",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Golashri A:N Yadav",
+      "office_name_hi": "अधिशासी अधिकारी, गोलाश्री अ:ण यादव",
+      "phones": [
+        {
+          "number": "9455471477",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-golashri-a-n-yadav"
+      ],
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-gorakhpur-eo-piparaichasushri-puja-sinh-parihar",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Piparaichasushri Puja Sinh Parihar",
+      "office_name_hi": "अधिशासी अधिकारी, पिपराईचसुश्री पूजा सिंह परिहार",
+      "phones": [
+        {
+          "number": "7905316522",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-piparaichasushri-puja-sinh-parihar"
+      ],
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-gorakhpur-eo-mundera-bajarasushri-puja-sinh-parihar",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Mundera Bajarasushri Puja Sinh Parihar",
+      "office_name_hi": "अधिशासी अधिकारी, मुण्डेरा बाजारसुश्री पूजा सिंह परिहार",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-gorakhpur-eo-piparaichasushri-puja-sinh-parihar",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-mundera-bajarasushri-puja-sinh-parihar"
+      ],
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-gorakhpur-eo-pipiganjashri-sanjay-jayasaval",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Pipiganjashri Sanjay Jayasaval",
+      "office_name_hi": "अधिशासी अधिकारी, पीपीगंजश्री संजय जायसवाल",
+      "phones": [
+        {
+          "number": "9415807106",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-pipiganjashri-sanjay-jayasaval"
+      ],
+      "source_url": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2018/05/2018050498.pdf",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
     }
   ]
 }

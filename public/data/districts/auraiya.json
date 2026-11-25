@@ -16,6 +16,13 @@
           "source_url": "https://auraiya.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454417550",
+          "type": "office",
+          "source_url": "https://auraiya.nic.in/hi/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a5%87-%e0%a4%95%e0%a5%87-%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmaur@nic.in",
@@ -40,13 +47,20 @@
           "source_url": "https://auraiya.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "05863-249684",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3f718499c1c8cef6730f9fd03c8125cab/uploads/2019/01/2019013026.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "drda-aur@nic.in",
       "covers": [
         "auraiya"
       ],
-      "source_url": "https://auraiya.nic.in/about-district/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3f718499c1c8cef6730f9fd03c8125cab/uploads/2019/01/2019013026.pdf",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Ram Kripal Chaudhari",
@@ -86,9 +100,11 @@
       "covers": [
         "auraiya"
       ],
-      "source_url": "https://auraiya.nic.in/tehsil/",
+      "source_url": "https://auraiya.nic.in/hi/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a5%87-%e0%a4%95%e0%a5%87-%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "श्री ब्रह्मानंद",
+      "address_en": "तहसील औरय्या (सदर) औरैया"
     },
     {
       "id": "up-auraiya-sdm-bidhuna",
@@ -109,9 +125,11 @@
       "covers": [
         "bidhuna"
       ],
-      "source_url": "https://auraiya.nic.in/tehsil/",
+      "source_url": "https://auraiya.nic.in/hi/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a5%87-%e0%a4%95%e0%a5%87-%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "श्री कमल कुमार सिंह",
+      "address_en": "तहसील बिधूना, जनपद-औरैया"
     },
     {
       "id": "up-auraiya-sdm-ajitmal",
@@ -151,7 +169,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.auraiya.aur@gmail.com",
+      "email": "bdoaur@gmail.com",
       "covers": [
         "auraiya"
       ],
@@ -189,7 +207,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.ajitmal.aur@gmail.com",
+      "email": "bdoaji@gmail.com",
       "covers": [
         "ajitmal"
       ],
@@ -218,14 +236,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bhagyanagar",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhagyanagar",
-      "phones": [],
-      "email": "bdo.bhagyanagar.aur@gmail.com",
+      "phones": [
+        {
+          "number": "9719735181",
+          "type": "office",
+          "source_url": "https://auraiya.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "bdobha@gmail.com",
       "covers": [
         "bhagyanagar"
       ],
-      "source_url": "https://auraiya.nic.in/whos-who/",
+      "source_url": "https://auraiya.nic.in/subdivision-blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-auraiya-ado-bhagyanagar",
@@ -248,14 +274,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bidhuna",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bidhuna",
-      "phones": [],
-      "email": "bdo.bidhuna.aur@gmail.com",
+      "phones": [
+        {
+          "number": "9415647680",
+          "type": "office",
+          "source_url": "https://auraiya.nic.in/hi/%e0%a4%89%e0%a4%aa%e0%a4%96%e0%a4%82%e0%a4%a1-%e0%a4%94%e0%a4%b0-%e0%a4%ac%e0%a5%8d%e0%a4%b2%e0%a5%89%e0%a4%95/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "bdobid@gmail.com",
       "covers": [
         "bidhuna"
       ],
-      "source_url": "https://auraiya.nic.in/whos-who/",
+      "source_url": "https://auraiya.nic.in/hi/%e0%a4%89%e0%a4%aa%e0%a4%96%e0%a4%82%e0%a4%a1-%e0%a4%94%e0%a4%b0-%e0%a4%ac%e0%a5%8d%e0%a4%b2%e0%a5%89%e0%a4%95/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-auraiya-ado-bidhuna",
@@ -278,14 +312,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Achhalda",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Achhalda",
-      "phones": [],
-      "email": "bdo.achhalda.aur@gmail.com",
+      "phones": [
+        {
+          "number": "9761550640",
+          "type": "office",
+          "source_url": "https://auraiya.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "bdoacha@gmail.com",
       "covers": [
         "achhalda"
       ],
-      "source_url": "https://auraiya.nic.in/whos-who/",
+      "source_url": "https://auraiya.nic.in/subdivision-blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-auraiya-ado-achhalda",
@@ -317,7 +359,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.sahar.aur@gmail.com",
+      "email": "bdoshar@gmail.com",
       "covers": [
         "sahar"
       ],
@@ -347,13 +389,13 @@
       "office_name_en": "Block Development Officer, Block Erwa Katra",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Erwa Katra",
       "phones": [],
-      "email": "bdo.erwakatra.aur@gmail.com",
+      "email": "bdoerw@gmail.com",
       "covers": [
         "erwa-katra"
       ],
-      "source_url": "https://auraiya.nic.in/whos-who/",
+      "source_url": "https://auraiya.nic.in/hi/%e0%a4%89%e0%a4%aa%e0%a4%96%e0%a4%82%e0%a4%a1-%e0%a4%94%e0%a4%b0-%e0%a4%ac%e0%a5%8d%e0%a4%b2%e0%a5%89%e0%a4%95/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-auraiya-ado-erwa-katra",
@@ -376,13 +418,126 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Auraiya",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका औरैया",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9839642805",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3f718499c1c8cef6730f9fd03c8125cab/uploads/2019/01/2019013026.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-auraiya-main"
       ],
-      "source_url": "https://auraiya.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3f718499c1c8cef6730f9fd03c8125cab/uploads/2019/01/2019013026.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-auraiya-eo-achhlada",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Achhlada",
+      "office_name_hi": "अधिशासी अधिकारी, Achhlada",
+      "phones": [
+        {
+          "number": "9455473724",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3f718499c1c8cef6730f9fd03c8125cab/uploads/2019/01/2019013026.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-achhlada"
+      ],
+      "source_url": "https://cdn.s3waas.gov.in/s3f718499c1c8cef6730f9fd03c8125cab/uploads/2019/01/2019013026.pdf",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-auraiya-eo-ajitmal",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Ajitmal",
+      "office_name_hi": "अधिशासी अधिकारी, Ajitmal",
+      "phones": [
+        {
+          "number": "9450245917",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3f718499c1c8cef6730f9fd03c8125cab/uploads/2019/01/2019013026.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-ajitmal"
+      ],
+      "source_url": "https://cdn.s3waas.gov.in/s3f718499c1c8cef6730f9fd03c8125cab/uploads/2019/01/2019013026.pdf",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-auraiya-eo-bidhuna",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Bidhuna",
+      "office_name_hi": "अधिशासी अधिकारी, Bidhuna",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-auraiya-eo-achhlada",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-bidhuna"
+      ],
+      "source_url": "https://cdn.s3waas.gov.in/s3f718499c1c8cef6730f9fd03c8125cab/uploads/2019/01/2019013026.pdf",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-auraiya-eo-dibiyapur",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Dibiyapur",
+      "office_name_hi": "अधिशासी अधिकारी, Dibiyapur",
+      "phones": [
+        {
+          "number": "8858881500",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3f718499c1c8cef6730f9fd03c8125cab/uploads/2019/01/2019013026.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-dibiyapur"
+      ],
+      "source_url": "https://cdn.s3waas.gov.in/s3f718499c1c8cef6730f9fd03c8125cab/uploads/2019/01/2019013026.pdf",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-auraiya-eo-phaphund",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Phaphund",
+      "office_name_hi": "अधिशासी अधिकारी, Phaphund",
+      "phones": [
+        {
+          "number": "9369433909",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3f718499c1c8cef6730f9fd03c8125cab/uploads/2019/01/2019013026.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-phaphund"
+      ],
+      "source_url": "https://cdn.s3waas.gov.in/s3f718499c1c8cef6730f9fd03c8125cab/uploads/2019/01/2019013026.pdf",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
     }
   ]
 }

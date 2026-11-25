@@ -11,13 +11,6 @@
       "officer_name_en": "Gyanendra Singh, IAS",
       "phones": [
         {
-          "number": "9194544175",
-          "type": "office",
-          "source_url": "https://ballia.nic.in",
-          "checked_on": "2026-11-20",
-          "status": "verified"
-        },
-        {
           "number": "9454417522",
           "type": "office",
           "source_url": "https://ballia.nic.in/whos-who/",
@@ -90,7 +83,8 @@
       ],
       "source_url": "https://ballia.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "मुख्य विकास अधिकारी(सीडीओ)"
     },
     {
       "id": "up-ballia-dpro",
@@ -271,14 +265,30 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Belthara Road",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Belthara Road",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417960",
+          "type": "office",
+          "source_url": "https://ballia.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be-2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05491-297912",
+          "type": "landline",
+          "source_url": "https://ballia.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be-2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.belthararoad.bal-up@gov.in",
       "covers": [
         "belthara-road"
       ],
-      "source_url": "https://ballia.nic.in/whos-who/",
+      "source_url": "https://ballia.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be-2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "उप जिलाधिकारी, बेल्थरारोड"
     },
     {
       "id": "up-ballia-bdo-dubhad",
@@ -286,14 +296,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Dubhad",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dubhad",
-      "phones": [],
-      "email": "bdo.dubhad.bal@gmail.com",
+      "phones": [
+        {
+          "number": "9454464624",
+          "type": "office",
+          "source_url": "https://ballia.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "dubharbal@rediffmail.com",
       "covers": [
         "dubhad"
       ],
-      "source_url": "https://ballia.nic.in/whos-who/",
+      "source_url": "https://ballia.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-ballia-ado-dubhad",
@@ -317,13 +335,14 @@
       "office_name_en": "Block Development Officer, Block Hanumanganj",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hanumanganj",
       "phones": [],
-      "email": "bdo.hanumanganj.bal@gmail.com",
+      "email": "hanumanganjbal@rediffmail.com",
       "covers": [
         "hanumanganj"
       ],
-      "source_url": "https://ballia.nic.in/contact-directory/",
+      "source_url": "https://ballia.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be-2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "बीडीओ हनुमानगंज"
     },
     {
       "id": "up-ballia-ado-hanumanganj",
@@ -355,7 +374,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.garwar.bal@gmail.com",
+      "email": "garwarbal@rediffmail.com",
       "covers": [
         "garwar"
       ],
@@ -393,7 +412,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.bansdih.bal@gmail.com",
+      "email": "bansdihbal@rediffmail.com",
       "covers": [
         "bansdih"
       ],
@@ -431,7 +450,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.beruarbari.bal@gmail.com",
+      "email": "beruarbaribal@rediffmail.com",
       "covers": [
         "beruarbari"
       ],
@@ -469,7 +488,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.reoti.bal@gmail.com",
+      "email": "reotibal@rediffmail.com",
       "covers": [
         "reoti"
       ],
@@ -507,7 +526,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.bairia.bal@gmail.com",
+      "email": "bairiabal@rediffmail.com",
       "covers": [
         "bairia"
       ],
@@ -536,14 +555,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Muralichhapra",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Muralichhapra",
-      "phones": [],
-      "email": "bdo.muralichhapra.bal@gmail.com",
+      "phones": [
+        {
+          "number": "8756226377",
+          "type": "office",
+          "source_url": "https://ballia.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "bairiabal@rediffmail.com",
       "covers": [
         "muralichhapra"
       ],
-      "source_url": "https://ballia.nic.in/whos-who/",
+      "source_url": "https://ballia.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-ballia-ado-muralichhapra",
@@ -605,7 +632,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.pandah.bal@gmail.com",
+      "email": "pandahbal@rediffmail.com",
       "covers": [
         "pandah"
       ],
@@ -634,14 +661,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Maniyar",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Maniyar",
-      "phones": [],
-      "email": "bdo.maniyar.bal@gmail.com",
+      "phones": [
+        {
+          "number": "9454464618",
+          "type": "office",
+          "source_url": "https://ballia.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be-2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "maniarbal@rediffmail.com",
       "covers": [
         "maniyar"
       ],
-      "source_url": "https://ballia.nic.in/whos-who/",
+      "source_url": "https://ballia.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be-2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "बीडीओ मनियार"
     },
     {
       "id": "up-ballia-ado-maniyar",
@@ -664,14 +700,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Nawanagar",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nawanagar",
-      "phones": [],
-      "email": "bdo.nawanagar.bal@gmail.com",
+      "phones": [
+        {
+          "number": "7275554518",
+          "type": "office",
+          "source_url": "https://ballia.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "navanagarbal@rediffmail.com",
       "covers": [
         "nawanagar"
       ],
-      "source_url": "https://ballia.nic.in/whos-who/",
+      "source_url": "https://ballia.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-ballia-ado-nawanagar",
@@ -703,7 +747,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.rasra.bal@gmail.com",
+      "email": "rasrabal@rediffmail.com",
       "covers": [
         "rasra"
       ],
@@ -741,7 +785,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.chilkahar.bal@gmail.com",
+      "email": "chilkaharbal@rediffmail.com",
       "covers": [
         "chilkahar"
       ],
@@ -809,7 +853,7 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.nagra.bal@gmail.com",
+      "email": "nagrabal@rediffmail.com",
       "covers": [
         "nagra"
       ],
@@ -875,12 +919,274 @@
           "source_url": "https://ballia.nic.in/contact-directory/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "7985423553",
+          "type": "office",
+          "source_url": "https://ballia.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9450963747",
+          "type": "office",
+          "source_url": "https://ballia.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "8189078463",
+          "type": "office",
+          "source_url": "https://ballia.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "covers": [
         "ulb-ballia-main"
       ],
       "source_url": "https://ballia.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "email": "nppballia@gmail.com",
+      "address_en": "Ballia Nagar Palika Parishad, Near BSNL Office, Ballia, U.P, Pin 277001 Email : nppballia[at]gmail[dot]com Website Link : http://nppballia.in"
+    },
+    {
+      "id": "up-ballia-eo-rasra",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika Prishad, Rasra",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Palika Prishad, Rasra",
+      "phones": [
+        {
+          "number": "9838071188",
+          "type": "office",
+          "source_url": "https://ballia.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-rasra"
+      ],
+      "source_url": "https://ballia.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-ballia-eo-chitbadagaon",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat, Chitbadagaon,",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat, Chitbadagaon,",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-ballia-eo-rasra",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-chitbadagaon"
+      ],
+      "source_url": "https://ballia.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be-2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "अधिशासी अधिकारी नगर पंचायत, चितबड़ागांव,"
+    },
+    {
+      "id": "up-ballia-eo-ratsar-kala",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat,Ratsar Kala",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat,Ratsar Kala",
+      "phones": [
+        {
+          "number": "9452570809",
+          "type": "office",
+          "source_url": "https://ballia.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-ratsar-kala"
+      ],
+      "source_url": "https://ballia.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-ballia-eo-bairia",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat, Bairia",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat, Bairia",
+      "phones": [
+        {
+          "number": "9818368959",
+          "type": "office",
+          "source_url": "https://ballia.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-bairia"
+      ],
+      "source_url": "https://ballia.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-ballia-eo-rewati",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat, Rewati",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat, Rewati",
+      "phones": [
+        {
+          "number": "9819368959",
+          "type": "office",
+          "source_url": "https://ballia.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-rewati"
+      ],
+      "source_url": "https://ballia.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-ballia-eo-sikendarpur",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat, Sikendarpur",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat, Sikendarpur",
+      "phones": [
+        {
+          "number": "7897038667",
+          "type": "office",
+          "source_url": "https://ballia.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-sikendarpur"
+      ],
+      "source_url": "https://ballia.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-ballia-eo-belthra-road",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat, Belthra Road",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat, Belthra road",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-ballia-eo-sikendarpur",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-belthra-road"
+      ],
+      "source_url": "https://ballia.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be-2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "अधिशासी अधिकारी नगर पंचायत, बेल्थरा रोड"
+    },
+    {
+      "id": "up-ballia-eo-nagara",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat,Nagara",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat,Nagara",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-ballia-eo-sikendarpur",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-nagara"
+      ],
+      "source_url": "https://ballia.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-ballia-eo-bansdih",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat,Bansdih",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat,Bansdih",
+      "phones": [
+        {
+          "number": "9454773444",
+          "type": "office",
+          "source_url": "https://ballia.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-bansdih"
+      ],
+      "source_url": "https://ballia.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be-2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "अधिशासी अधिकारी नगर पंचायत,बांसडीह"
+    },
+    {
+      "id": "up-ballia-eo-maniyar",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat, Maniyar",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat, Maniyar",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-ballia-eo-bansdih",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-maniyar"
+      ],
+      "source_url": "https://ballia.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-ballia-eo-sahatwar",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat,Sahatwar",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat,Sahatwar",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-ballia-eo-bansdih",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-sahatwar"
+      ],
+      "source_url": "https://ballia.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be-2/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "अधिशासी अधिकारी नगर पंचायत, सहतवार"
+    },
+    {
+      "id": "up-ballia-eo-sikandarapur",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat, Sikandarapur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत, सिकंदरपुर",
+      "officer_name_en": "अधिशासी अधिकारी नगर पंचायत, सिकंदरपुर",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-ballia-eo-sikendarpur",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-sikandarapur"
+      ],
+      "source_url": "https://ballia.nic.in/hi/%e0%a4%b8%e0%a4%82%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be-2/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     }

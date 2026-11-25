@@ -16,13 +16,20 @@
           "source_url": "https://varanasi.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "0542-2502754",
+          "type": "landline",
+          "source_url": "https://varanasi.nic.in/hi/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a5%87-%e0%a4%95%e0%a5%87-%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmvar@nic.in",
       "covers": [
         "varanasi"
       ],
-      "source_url": "https://varanasi.nic.in/about-district/whos-who/",
+      "source_url": "https://varanasi.nic.in/hi/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a5%87-%e0%a4%95%e0%a5%87-%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Collectorate Katchehry Varanasi - 221002"
@@ -33,14 +40,22 @@
       "role": "cdo",
       "office_name_en": "Chief Development Officer (CDO), Varanasi",
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), वाराणसी",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465283",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s36da37dd3139aa4d9aa55b8d237ec5d4a/uploads/2024/08/2024083154.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "cdo.var-up@gov.in",
       "covers": [
         "varanasi"
       ],
-      "source_url": "https://varanasi.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s36da37dd3139aa4d9aa55b8d237ec5d4a/uploads/2024/08/2024083154.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-varanasi-dpro",
@@ -98,7 +113,7 @@
       "covers": [
         "pindra"
       ],
-      "source_url": "https://varanasi.nic.in/collectrate/",
+      "source_url": "https://varanasi.nic.in/tehsil/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -128,7 +143,7 @@
       "covers": [
         "raja-talab"
       ],
-      "source_url": "https://varanasi.nic.in/collectrate/",
+      "source_url": "https://varanasi.nic.in/tehsil/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -138,14 +153,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kashi Vidyapeeth",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kashi Vidyapeeth",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465292",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s36da37dd3139aa4d9aa55b8d237ec5d4a/uploads/2024/08/2024083154.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.kashividyapeeth.var@gmail.com",
       "covers": [
         "kashi-vidyapeeth"
       ],
-      "source_url": "https://varanasi.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s36da37dd3139aa4d9aa55b8d237ec5d4a/uploads/2024/08/2024083154.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-varanasi-ado-kashi-vidyapeeth",
@@ -199,14 +222,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Harhua",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Harhua",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465289",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s36da37dd3139aa4d9aa55b8d237ec5d4a/uploads/2024/08/2024083154.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.harhua.var@gmail.com",
       "covers": [
         "harhua"
       ],
-      "source_url": "https://varanasi.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s36da37dd3139aa4d9aa55b8d237ec5d4a/uploads/2024/08/2024083154.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-varanasi-ado-harhua",
@@ -260,14 +291,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Pindra",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pindra",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465287",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s36da37dd3139aa4d9aa55b8d237ec5d4a/uploads/2024/08/2024083154.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.pindra.var@gmail.com",
       "covers": [
         "pindra"
       ],
-      "source_url": "https://varanasi.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s36da37dd3139aa4d9aa55b8d237ec5d4a/uploads/2024/08/2024083154.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-varanasi-ado-pindra",
@@ -321,14 +360,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Baragaon",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Baragaon",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465286",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s36da37dd3139aa4d9aa55b8d237ec5d4a/uploads/2024/08/2024083154.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.baragaon.var@gmail.com",
       "covers": [
         "baragaon"
       ],
-      "source_url": "https://varanasi.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s36da37dd3139aa4d9aa55b8d237ec5d4a/uploads/2024/08/2024083154.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-varanasi-ado-baragaon",
@@ -382,14 +429,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Araziline",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Araziline",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465291",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s36da37dd3139aa4d9aa55b8d237ec5d4a/uploads/2024/08/2024083154.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.araziline.var@gmail.com",
       "covers": [
         "araziline"
       ],
-      "source_url": "https://varanasi.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s36da37dd3139aa4d9aa55b8d237ec5d4a/uploads/2024/08/2024083154.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-varanasi-ado-araziline",
@@ -443,14 +498,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sewapuri",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sewapuri",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465290",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s36da37dd3139aa4d9aa55b8d237ec5d4a/uploads/2024/08/2024083154.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.sewapuri.var@gmail.com",
       "covers": [
         "sewapuri"
       ],
-      "source_url": "https://varanasi.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s36da37dd3139aa4d9aa55b8d237ec5d4a/uploads/2024/08/2024083154.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-varanasi-ado-sewapuri",
@@ -504,14 +567,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Cholapur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Cholapur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465288",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s36da37dd3139aa4d9aa55b8d237ec5d4a/uploads/2024/08/2024083154.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.cholapur.var@gmail.com",
       "covers": [
         "cholapur"
       ],
-      "source_url": "https://varanasi.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s36da37dd3139aa4d9aa55b8d237ec5d4a/uploads/2024/08/2024083154.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-varanasi-ado-cholapur",
@@ -565,14 +636,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Chiraigaon",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chiraigaon",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465293",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s36da37dd3139aa4d9aa55b8d237ec5d4a/uploads/2024/08/2024083154.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.chiraigaon.var@gmail.com",
       "covers": [
         "chiraigaon"
       ],
-      "source_url": "https://varanasi.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s36da37dd3139aa4d9aa55b8d237ec5d4a/uploads/2024/08/2024083154.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-varanasi-ado-chiraigaon",

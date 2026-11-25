@@ -79,8 +79,32 @@ async function run() {
     const distData = JSON.parse(fs.readFileSync(dFile, "utf8"));
     const offices: any[] = distData.offices || [];
 
+    const normPlace = (s: string) =>
+      s
+        .toLowerCase()
+        .replace(/[^a-z0-9]/g, "")
+        .replace(/au|ao|ou/g, "o")
+        .replace(/aa/g, "a")
+        .replace(/ee/g, "i")
+        .replace(/oo/g, "u");
+
     const tehsils = offices.filter((o) => o.role === "sdm").map((o) => o.covers?.[0]).filter(Boolean);
+    const tehsilNorms = tehsils
+      .map((t: string) => ({
+        id: t,
+        norm: normPlace(t),
+      }))
+      .sort((a: { norm: string }, b: { norm: string }) => b.norm.length - a.norm.length);
     const defaultTehsil = tehsils[0] || "sadar";
+    const matchTehsil = (norm: string): string => {
+      const n = normPlace(norm);
+      if (!n || n.length < 3) return defaultTehsil;
+      return (
+        tehsilNorms.find((t: { norm: string }) => t.norm === n)?.id ||
+        tehsilNorms.find((t: { norm: string }) => t.norm.length >= 4 && (n.includes(t.norm) || t.norm.includes(n)))?.id ||
+        defaultTehsil
+      );
+    };
 
     const bdos = offices.filter((o) => o.role === "bdo");
     const eos = offices.filter((o) => o.role === "eo");
@@ -166,21 +190,51 @@ async function run() {
       });
     }
 
+    const eoMatchers: Array<{
+      ulbId: string;
+      tehsilId: string;
+      localBodyType: "nagar_panchayat" | "nagar_palika_parishad";
+      isMain: boolean;
+      tokens: string[];
+    }> = [];
+
     for (const eo of eos) {
-      const ulbId = eo.covers?.[0] || `ulb-${dId}-main`;
-      const rawName = eo.office_name_en.replace(/^Executive Officer,\s*/i, "").trim() || `${d.name_en} ULB`;
-      const isNp = /nagar panchayat/i.test(rawName);
+      const ulbId: string = eo.covers?.[0] || `ulb-${dId}-main`;
+      const isMain = eo.id.endsWith("-main");
+      const rawName = (eo.office_name_en || "").replace(/^Executive Officer,\s*/i, "").trim() || `${d.name_en} ULB`;
+      const rawNameHi = (eo.office_name_hi || "").replace(/^अधिशासी अधिकारी\s*[,:\-–]?\s*/u, "").trim();
+      const isNp = /nagar\s*panchayat|नगर\s*पंचायत/i.test(`${rawName} ${rawNameHi}`);
+      const localBodyType: "nagar_panchayat" | "nagar_palika_parishad" = isNp
+        ? "nagar_panchayat"
+        : "nagar_palika_parishad";
+
+      const cleanTownNorm = rawName
+        .toLowerCase()
+        .replace(/\b(executive|officer|nagar|palika|parishad|prishad|parishd|panchayat|town|municipal|council|area|np|npp)\b/g, " ")
+        .replace(/[^a-z0-9]/g, "");
+      const ulbSlugNorm = ulbId.replace(/^ulb-/, "").replace(/-main$/, "").replace(/[^a-z0-9]/g, "");
+      const tehsilId = matchTehsil(ulbSlugNorm) !== defaultTehsil ? matchTehsil(ulbSlugNorm) : matchTehsil(cleanTownNorm);
+
       pushPlace({
         id: `ward-${dId}-${ulbId}`,
         type: "ward",
         name_en: `${rawName} (All Wards)`,
-        name_hi: `${d.name_hi} नगरीय निकाय (सभी वार्ड)`,
+        name_hi: rawNameHi ? `${rawNameHi} (सभी वार्ड)` : `${d.name_hi} नगरीय निकाय (सभी वार्ड)`,
         ulb_id: ulbId,
-        tehsil_id: defaultTehsil,
+        tehsil_id: tehsilId,
         district_id: dId,
-        local_body_type: isNp ? "nagar_panchayat" : "nagar_palika_parishad",
+        local_body_type: localBodyType,
       });
+
+      const tokens = [ulbSlugNorm, cleanTownNorm].filter((t) => t.length >= 4 && t !== "main");
+      eoMatchers.push({ ulbId, tehsilId, localBodyType, isMain, tokens });
     }
+
+    // Prioritize specific Town EOs over -main fallback and longer town names over shorter prefixes (e.g. sandila over sandi)
+    const maxTokLen = (m: { tokens: string[] }) => Math.max(0, ...m.tokens.map((t) => t.length));
+    const orderedEoMatchers = [...eoMatchers].sort(
+      (a, b) => Number(a.isMain) - Number(b.isMain) || maxTokLen(b) - maxTokLen(a)
+    );
 
     // Also add non-BO Sub Post Office towns in district if ULB exists
     const defaultUlb = eos[0]?.covers?.[0] || comm?.covers?.[0] || `ulb-${dId}-main`;
@@ -193,15 +247,26 @@ async function run() {
       seenUrban.add(poNorm);
       const slug = po.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
       if (!slug) continue;
+
+      const poPhon = normPlace(poNorm);
+      const matchedEo =
+        orderedEoMatchers.find((m) => m.tokens.some((tok) => normPlace(tok) === poPhon)) ||
+        orderedEoMatchers.find((m) =>
+          m.tokens.some((tok) => {
+            const pt = normPlace(tok);
+            return pt.length >= 4 && (poPhon.includes(pt) || pt.includes(poPhon));
+          })
+        );
+
       pushPlace({
         id: `town-${dId}-${slug}`,
         type: "ward",
         name_en: `${po.name} (Urban Ward / SO)`,
         name_hi: `${po.name} (शहरी वार्ड क्षेत्र)`,
-        ulb_id: defaultUlb,
-        tehsil_id: defaultTehsil,
+        ulb_id: matchedEo ? matchedEo.ulbId : defaultUlb,
+        tehsil_id: matchedEo ? matchedEo.tehsilId : matchTehsil(poNorm),
         district_id: dId,
-        local_body_type: defaultUlbType,
+        local_body_type: matchedEo ? matchedEo.localBodyType : defaultUlbType,
         pincodes: [po.pin],
       });
     }

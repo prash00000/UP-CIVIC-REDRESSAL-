@@ -444,13 +444,22 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Moradabad",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका मुरादाबाद",
-      "phones": [],
+      "phones": [
+        {
+          "number": "0591-2424200",
+          "type": "landline",
+          "source_url": "https://moradabad.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-moradabad-main"
       ],
-      "source_url": "https://moradabad.nic.in/whos-who/",
+      "source_url": "https://moradabad.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Phone : 0591-2424200 Website Link : http://www.nagarnigammoradabad.in/"
     },
     {
       "id": "up-moradabad-commissioner",

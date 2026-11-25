@@ -141,14 +141,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Ramsanehighat",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Ramsanehighat",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416146",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.ramsanehighat.bbk-up@gov.in",
       "covers": [
         "ramsanehighat"
       ],
-      "source_url": "https://barabanki.nic.in/whos-who/",
+      "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "उपजिलाधिकारी - रामसनेही घाट"
     },
     {
       "id": "up-barabanki-sdm-haidergarh",
@@ -763,13 +772,371 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Barabanki",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका बाराबंकी",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05248-222228",
+          "type": "landline",
+          "source_url": "https://barabanki.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-barabanki-main"
       ],
-      "source_url": "https://barabanki.nic.in/whos-who/",
+      "source_url": "https://barabanki.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "email": "nppnawabganjbbk@gmail.com",
+      "address_en": "Nagar Palika Parishad, Station Road, Barabanki - 225001 (UP) Email : nppnawabganjbbk[at]gmail[dot]com Phone : 05248-222228 Website Link : http://nppnawabganj.in Category/Type : Nagar Palika Parishad"
+    },
+    {
+      "id": "up-barabanki-eo-nagarapalika-navabaganj",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagarapalika Parishad - Navabaganj",
+      "office_name_hi": "अधिशासी अधिकारी, नगरपालिका परिषद - नवाबगंज",
+      "officer_name_en": "श्रीमती संगीता कुमारी",
+      "phones": [
+        {
+          "number": "9839453598",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-nagarapalika-navabaganj"
+      ],
+      "source_url": "https://barabanki.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "email": "nppnawabganjbbk@gmail.com",
+      "address_en": "नगरपालिका परिषद, स्टेशन रोड, बाराबंकी - 225001 (उ.प्र.) ईमेल : nppnawabganjbbk[at]gmail[dot]com फोन : 05248-222228 वेबसाइट लिंक : http://nppnawabganj.in श्रेणी / प्रकार : नगर पालिका परिषद"
+    },
+    {
+      "id": "up-barabanki-eo-dariyabad",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat - Dariyabad",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत - दरियाबाद",
+      "officer_name_en": "सुश्री शालिनी त्रिपाठी",
+      "phones": [
+        {
+          "number": "9540090362",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9453469486",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-dariyabad"
+      ],
+      "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-barabanki-eo-phatehapur",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat - Phatehapur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत - फतेहपुर",
+      "officer_name_en": "श्री योगेश प्रताप मिश्रा",
+      "phones": [
+        {
+          "number": "9473840028",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9451291389",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-phatehapur"
+      ],
+      "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-barabanki-eo-haidaragarh",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat - Haidaragarh",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत - हैदरगढ़",
+      "officer_name_en": "श्री राजेश कुमार",
+      "phones": [
+        {
+          "number": "8005423857",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9721213395",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-haidaragarh"
+      ],
+      "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-barabanki-eo-ramanagar",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat - Ramanagar",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत - रामनगर",
+      "officer_name_en": "श्री देव कुमार",
+      "phones": [
+        {
+          "number": "9792465133",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454401388",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/telephone-numbers-of-district-officials/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9415099184",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/telephone-numbers-of-district-officials/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9453932494",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-ramanagar"
+      ],
+      "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-barabanki-eo-satarikh",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat - Satarikh",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत - सतरिख",
+      "officer_name_en": "श्रीमती विजेता गुप्ता",
+      "phones": [
+        {
+          "number": "9839449904",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9450208901",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-satarikh"
+      ],
+      "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-barabanki-eo-siddhaur",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat - Siddhaur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत - सिद्धौर",
+      "officer_name_en": "श्री प्रेमनाथ",
+      "phones": [
+        {
+          "number": "9452948983",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9956727577",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-siddhaur"
+      ],
+      "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-barabanki-eo-tikaitanagar",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat - Tikaitanagar",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत - टिकैतनगर",
+      "officer_name_en": "सुश्री कीर्ति सिंह",
+      "phones": [
+        {
+          "number": "9151703082",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9450191547",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-tikaitanagar"
+      ],
+      "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-barabanki-eo-jaidapur",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat - Jaidapur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत - जैदपुर",
+      "officer_name_en": "श्री मनोज गोस्वामी",
+      "phones": [
+        {
+          "number": "9452966438",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-jaidapur"
+      ],
+      "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-barabanki-eo-belahara",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat - Belahara",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत - बेलहरा",
+      "officer_name_en": "श्रीमती संध्या मिश्रा",
+      "phones": [
+        {
+          "number": "9450800877",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-belahara"
+      ],
+      "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-barabanki-eo-subeha",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat - Subeha",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत - सुबेहा",
+      "officer_name_en": "श्री सतीश श्रीवास्तव (लिपिक)",
+      "phones": [
+        {
+          "number": "9559876786",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-subeha"
+      ],
+      "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-barabanki-eo-devo",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat - Devo",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत - देवॉ",
+      "officer_name_en": "श्री ओंकार नाथ सैनी (लिपिक)",
+      "phones": [
+        {
+          "number": "9450192318",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9984377799",
+          "type": "office",
+          "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-devo"
+      ],
+      "source_url": "https://barabanki.nic.in/hi/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0/%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
     }
   ]
 }

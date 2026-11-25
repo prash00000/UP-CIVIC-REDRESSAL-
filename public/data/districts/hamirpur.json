@@ -78,7 +78,7 @@
       "covers": [
         "hamirpur"
       ],
-      "source_url": "https://hamirpur.nic.in/whos-who/",
+      "source_url": "https://hamirpur.nic.in/directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Miss Subodh Joshi",
@@ -97,13 +97,20 @@
           "source_url": "https://hamirpur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454418016",
+          "type": "office",
+          "source_url": "https://hamirpur.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdmhm-up@nic.in",
       "covers": [
         "hamirpur"
       ],
-      "source_url": "https://hamirpur.nic.in/directory/",
+      "source_url": "https://hamirpur.nic.in/tehsil/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Abhishek Kumar"
@@ -121,13 +128,20 @@
           "source_url": "https://hamirpur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454416008",
+          "type": "office",
+          "source_url": "https://hamirpur.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdm-rath.hm@up.gov.in",
       "covers": [
         "rath"
       ],
-      "source_url": "https://hamirpur.nic.in/directory/",
+      "source_url": "https://hamirpur.nic.in/tehsil/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Smt. Chitra Nirwal"
@@ -145,13 +159,20 @@
           "source_url": "https://hamirpur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454416010",
+          "type": "office",
+          "source_url": "https://hamirpur.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdmmaudaha.hm-up@gov.in",
       "covers": [
         "maudaha"
       ],
-      "source_url": "https://hamirpur.nic.in/directory/",
+      "source_url": "https://hamirpur.nic.in/tehsil/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Karan Veer Singh"
@@ -169,13 +190,20 @@
           "source_url": "https://hamirpur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454416009",
+          "type": "office",
+          "source_url": "https://hamirpur.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdm-sarila.hm@up.gov.in",
       "covers": [
         "sarila"
       ],
-      "source_url": "https://hamirpur.nic.in/directory/",
+      "source_url": "https://hamirpur.nic.in/tehsil/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Vikas Kumar Yadav"
@@ -526,6 +554,24 @@
       "officer_name_en": "Miss Subodh Joshi",
       "email": "dprohm-up@nic.in",
       "address_en": "Vikas Bhavan, Kuchhechha Hamirpur"
+    },
+    {
+      "id": "up-hamirpur-eo-shri-hemraj",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Shri Hemraj",
+      "office_name_hi": "अधिशासी अधिकारी, Shri Hemraj",
+      "officer_name_en": "Shri Hemraj",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "eo-hamirpur-main",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-shri-hemraj"
+      ],
+      "source_url": "https://hamirpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
     }
   ]
 }

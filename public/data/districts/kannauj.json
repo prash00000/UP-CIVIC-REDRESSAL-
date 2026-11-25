@@ -16,13 +16,27 @@
           "source_url": "https://kannauj.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9936335474",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s37eabe3a1649ffa2b3ff8c02ebfd5659f/uploads/2024/04/2024041439.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "8738825119",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s37eabe3a1649ffa2b3ff8c02ebfd5659f/uploads/2024/04/2024041439.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmknj@nic.in",
       "covers": [
         "kannauj"
       ],
-      "source_url": "https://kannauj.nic.in/collectorate/",
+      "source_url": "https://cdn.s3waas.gov.in/s37eabe3a1649ffa2b3ff8c02ebfd5659f/uploads/2024/04/2024041439.pdf",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -32,14 +46,22 @@
       "role": "cdo",
       "office_name_en": "Chief Development Officer (CDO), Kannauj",
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), कन्नौज",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464991",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s37eabe3a1649ffa2b3ff8c02ebfd5659f/uploads/2026/07/17831447805900.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "cdo.knj-up@gov.in",
       "covers": [
         "kannauj"
       ],
-      "source_url": "https://kannauj.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s37eabe3a1649ffa2b3ff8c02ebfd5659f/uploads/2024/04/2024041439.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kannauj-dpro",
@@ -47,14 +69,22 @@
       "role": "dpro",
       "office_name_en": "District Panchayat Raj Officer (DPRO), Kannauj",
       "office_name_hi": "जिला पंचायत राज अधिकारी, कन्नौज",
-      "phones": [],
+      "phones": [
+        {
+          "number": "7007722946",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s37eabe3a1649ffa2b3ff8c02ebfd5659f/uploads/2026/07/17831447805900.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "dpro-knj@nic.in",
       "covers": [
         "kannauj"
       ],
-      "source_url": "https://kannauj.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s37eabe3a1649ffa2b3ff8c02ebfd5659f/uploads/2024/04/2024041439.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kannauj-sdm-kannauj",
@@ -134,14 +164,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kannauj",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kannauj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9335014378",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s37eabe3a1649ffa2b3ff8c02ebfd5659f/uploads/2024/04/2024041439.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.kannauj.knj@gmail.com",
       "covers": [
         "kannauj"
       ],
-      "source_url": "https://kannauj.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s37eabe3a1649ffa2b3ff8c02ebfd5659f/uploads/2024/04/2024041439.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Block Chibramau, District Kannauj"
     },
     {
       "id": "up-kannauj-ado-kannauj",
@@ -169,9 +208,10 @@
       "covers": [
         "jalalabad"
       ],
-      "source_url": "https://kannauj.nic.in/whos-who/",
+      "source_url": "https://kannauj.nic.in/hi/public-utility-category/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%96%e0%a4%82%e0%a4%a1/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Block Jalalabad, District Kannauj"
     },
     {
       "id": "up-kannauj-ado-jalalabad",
@@ -229,9 +269,10 @@
       "covers": [
         "talgram"
       ],
-      "source_url": "https://kannauj.nic.in/whos-who/",
+      "source_url": "https://kannauj.nic.in/hi/public-utility-category/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%96%e0%a4%82%e0%a4%a1/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Block Talgram, District Kannauj"
     },
     {
       "id": "up-kannauj-ado-talgram",
@@ -259,9 +300,10 @@
       "covers": [
         "chhibramau"
       ],
-      "source_url": "https://kannauj.nic.in/whos-who/",
+      "source_url": "https://kannauj.nic.in/hi/public-utility-category/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%96%e0%a4%82%e0%a4%a1/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Block Chibramau, District Kannauj"
     },
     {
       "id": "up-kannauj-ado-chhibramau",
@@ -289,9 +331,10 @@
       "covers": [
         "saurikh"
       ],
-      "source_url": "https://kannauj.nic.in/whos-who/",
+      "source_url": "https://kannauj.nic.in/hi/public-utility-category/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%96%e0%a4%82%e0%a4%a1/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Block Saurikh, District Kannauj"
     },
     {
       "id": "up-kannauj-ado-saurikh",
@@ -349,9 +392,10 @@
       "covers": [
         "haseran"
       ],
-      "source_url": "https://kannauj.nic.in/whos-who/",
+      "source_url": "https://kannauj.nic.in/hi/public-utility-category/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%96%e0%a4%82%e0%a4%a1/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Block Haseran, District Kannauj"
     },
     {
       "id": "up-kannauj-ado-haseran",
@@ -378,9 +422,10 @@
       "covers": [
         "ulb-kannauj-main"
       ],
-      "source_url": "https://kannauj.nic.in/whos-who/",
+      "source_url": "https://kannauj.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Nagar Palika Parishad, Chhibramau, district Kannauj Website Link : http://localbodies.up.nic.in/"
     }
   ]
 }

@@ -63,7 +63,15 @@ export default function OfficerCard({ item }: OfficerCardProps) {
           )}
 
           {additionalChargeNote && (
-            <Banner status="info" container="card" title={t("results.additionalCharge")} />
+            <Banner
+              status="info"
+              container="card"
+              title={
+                resolvedRole === "eo"
+                  ? t("results.eoAdditionalCharge")
+                  : t("results.additionalCharge")
+              }
+            />
           )}
 
           <Divider />

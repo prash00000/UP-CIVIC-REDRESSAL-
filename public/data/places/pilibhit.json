@@ -2124,8 +2124,138 @@
     "id": "ward-pilibhit-ulb-pilibhit-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Pilibhit (All Wards)",
-    "name_hi": "पीलीभीत नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका पीलीभीत (सभी वार्ड)",
     "ulb_id": "ulb-pilibhit-main",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-pilibhit-ulb-nyuriya-husainapur",
+    "type": "ward",
+    "name_en": "Nyuriya Husainapur Nagar Panchayat (All Wards)",
+    "name_hi": "न्यूरिया हुसैनपुर नगर पंचायत (सभी वार्ड)",
+    "ulb_id": "ulb-nyuriya-husainapur",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-pilibhit-ulb-jahanabad",
+    "type": "ward",
+    "name_en": "Jahanabad Nagar Panchayat (All Wards)",
+    "name_hi": "जहानाबाद नगर पंचायत (सभी वार्ड)",
+    "ulb_id": "ulb-jahanabad",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-pilibhit-ulb-guladiya-bhindara",
+    "type": "ward",
+    "name_en": "Guladiya Bhindara Nagar Panchayat (All Wards)",
+    "name_hi": "गुलाडिया भिण्डारा नगर पंचायत (सभी वार्ड)",
+    "ulb_id": "ulb-guladiya-bhindara",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-pilibhit-ulb-barakhera",
+    "type": "ward",
+    "name_en": "Barakhera Nagar Panchayat (All Wards)",
+    "name_hi": "बरखेड़ा नगर पंचायत (सभी वार्ड)",
+    "ulb_id": "ulb-barakhera",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-pilibhit-ulb-bilasanda",
+    "type": "ward",
+    "name_en": "Bilasanda Nagar Panchayat (All Wards)",
+    "name_hi": "बिलसंडा नगर पंचायत (सभी वार्ड)",
+    "ulb_id": "ulb-bilasanda",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-pilibhit-ulb-kalinagar",
+    "type": "ward",
+    "name_en": "Kalinagar Nagar Panchayat (All Wards)",
+    "name_hi": "कलीनगर नगर पंचायत (सभी वार्ड)",
+    "ulb_id": "ulb-kalinagar",
+    "tehsil_id": "kalinagar",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-pilibhit-ulb-pakariya-naugavan",
+    "type": "ward",
+    "name_en": "Pakariya Naugavan Nagar Panchayat (All Wards)",
+    "name_hi": "पकड़िया नौगवां नगर पंचायत (सभी वार्ड)",
+    "ulb_id": "ulb-pakariya-naugavan",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-pilibhit-ulb-pilibhit-board",
+    "type": "ward",
+    "name_en": "Pilibhit Municipal Board (All Wards)",
+    "name_hi": "Pilibhit Municipal Board (सभी वार्ड)",
+    "ulb_id": "ulb-pilibhit-board",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-pilibhit-ulb-bisalpur-board",
+    "type": "ward",
+    "name_en": "Bisalpur Municipal Board (All Wards)",
+    "name_hi": "Bisalpur Municipal Board (सभी वार्ड)",
+    "ulb_id": "ulb-bisalpur-board",
+    "tehsil_id": "bisalpur",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-pilibhit-ulb-puranpur-board",
+    "type": "ward",
+    "name_en": "Puranpur Municipal Board (All Wards)",
+    "name_hi": "Puranpur Municipal Board (सभी वार्ड)",
+    "ulb_id": "ulb-puranpur-board",
+    "tehsil_id": "puranpur",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-pilibhit-ulb-neoria-husainpur",
+    "type": "ward",
+    "name_en": "Neoria Husainpur Town Area (All Wards)",
+    "name_hi": "Neoria Husainpur Town Area (सभी वार्ड)",
+    "ulb_id": "ulb-neoria-husainpur",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-pilibhit-ulb-gularia-bhindara",
+    "type": "ward",
+    "name_en": "Gularia Bhindara Town Area (All Wards)",
+    "name_hi": "Gularia Bhindara Town Area (सभी वार्ड)",
+    "ulb_id": "ulb-gularia-bhindara",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-pilibhit-ulb-pakadia-naugawan",
+    "type": "ward",
+    "name_en": "Pakadia Naugawan Town Area (All Wards)",
+    "name_hi": "Pakadia Naugawan Town Area (सभी वार्ड)",
+    "ulb_id": "ulb-pakadia-naugawan",
     "tehsil_id": "pilibhit",
     "district_id": "pilibhit",
     "local_body_type": "nagar_palika_parishad"
@@ -2161,10 +2291,10 @@
     "type": "ward",
     "name_en": "Kali Nagar (Urban Ward / SO)",
     "name_hi": "Kali Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-pilibhit-main",
-    "tehsil_id": "pilibhit",
+    "ulb_id": "ulb-kalinagar",
+    "tehsil_id": "kalinagar",
     "district_id": "pilibhit",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "262124"
     ]
@@ -2213,7 +2343,7 @@
     "type": "ward",
     "name_en": "Neoria (Urban Ward / SO)",
     "name_hi": "Neoria (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-pilibhit-main",
+    "ulb_id": "ulb-neoria-husainpur",
     "tehsil_id": "pilibhit",
     "district_id": "pilibhit",
     "local_body_type": "nagar_palika_parishad",
@@ -2266,7 +2396,7 @@
     "name_en": "Barkhera (Urban Ward / SO)",
     "name_hi": "Barkhera (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-pilibhit-main",
-    "tehsil_id": "pilibhit",
+    "tehsil_id": "barkhera",
     "district_id": "pilibhit",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -2278,8 +2408,8 @@
     "type": "ward",
     "name_en": "Bisalpur (Urban Ward / SO)",
     "name_hi": "Bisalpur (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-pilibhit-main",
-    "tehsil_id": "pilibhit",
+    "ulb_id": "ulb-bisalpur-board",
+    "tehsil_id": "bisalpur",
     "district_id": "pilibhit",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -2317,8 +2447,8 @@
     "type": "ward",
     "name_en": "Pooranpur (Urban Ward / SO)",
     "name_hi": "Pooranpur (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-pilibhit-main",
-    "tehsil_id": "pilibhit",
+    "ulb_id": "ulb-puranpur-board",
+    "tehsil_id": "puranpur",
     "district_id": "pilibhit",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [

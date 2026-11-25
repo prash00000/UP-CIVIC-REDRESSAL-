@@ -3928,8 +3928,158 @@
     "id": "ward-bulandshahr-ulb-bulandshahr-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Bulandshahr (All Wards)",
-    "name_hi": "बुलंदशहर नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका बुलंदशहर (सभी वार्ड)",
     "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-bulandshahr-ulb-sikandrabad",
+    "type": "ward",
+    "name_en": "Nagar Palika Sikandrabad (All Wards)",
+    "name_hi": "नगर पालिका सिकन्द्राबाद (सभी वार्ड)",
+    "ulb_id": "ulb-sikandrabad",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-bulandshahr-ulb-syana",
+    "type": "ward",
+    "name_en": "Nagar Palika Syana (All Wards)",
+    "name_hi": "नगर पालिका स्याना (सभी वार्ड)",
+    "ulb_id": "ulb-syana",
+    "tehsil_id": "syana",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-bulandshahr-ulb-dibai",
+    "type": "ward",
+    "name_en": "Nagar Palika Dibai (All Wards)",
+    "name_hi": "नगर पालिका डिबाई (सभी वार्ड)",
+    "ulb_id": "ulb-dibai",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-bulandshahr-ulb-aurangabad",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Aurangabad (All Wards)",
+    "name_hi": "नगर पंचायत औरंगाबाद (सभी वार्ड)",
+    "ulb_id": "ulb-aurangabad",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-bulandshahr-ulb-bugarasi",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Bugarasi (All Wards)",
+    "name_hi": "नगर पंचायत बुगरासी (सभी वार्ड)",
+    "ulb_id": "ulb-bugarasi",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-bulandshahr-ulb-anupashahar",
+    "type": "ward",
+    "name_en": "Nagar Palika Anupashahar (All Wards)",
+    "name_hi": "नगर पालिका अनूपशहर (सभी वार्ड)",
+    "ulb_id": "ulb-anupashahar",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-bulandshahr-ulb-khurja",
+    "type": "ward",
+    "name_en": "Nagar Palika Khurja (All Wards)",
+    "name_hi": "नगर पालिका खुर्जा (सभी वार्ड)",
+    "ulb_id": "ulb-khurja",
+    "tehsil_id": "khurja",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-bulandshahr-ulb-shikarapur",
+    "type": "ward",
+    "name_en": "Nagar Palika Shikarapur (All Wards)",
+    "name_hi": "नगर पालिका शिकारपुर (सभी वार्ड)",
+    "ulb_id": "ulb-shikarapur",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-bulandshahr-ulb-kakor",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Kakor (All Wards)",
+    "name_hi": "नगर पंचायत ककोड़ (सभी वार्ड)",
+    "ulb_id": "ulb-kakor",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-bulandshahr-ulb-naraura",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Naraura (All Wards)",
+    "name_hi": "नगर पंचायत नरौरा (सभी वार्ड)",
+    "ulb_id": "ulb-naraura",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-bulandshahr-ulb-pahasu",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Pahasu (All Wards)",
+    "name_hi": "नगर पंचायत पहासू (सभी वार्ड)",
+    "ulb_id": "ulb-pahasu",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-bulandshahr-ulb-chhatari",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Chhatari (All Wards)",
+    "name_hi": "नगर पंचायत छतारी (सभी वार्ड)",
+    "ulb_id": "ulb-chhatari",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-bulandshahr-ulb-khanapur",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Khanapur (All Wards)",
+    "name_hi": "नगर पंचायत खानपुर (सभी वार्ड)",
+    "ulb_id": "ulb-khanapur",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-bulandshahr-ulb-bi0bi0nagar",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Bi0bi0nagar (All Wards)",
+    "name_hi": "नगर पंचायत बी0बी0नगर (सभी वार्ड)",
+    "ulb_id": "ulb-bi0bi0nagar",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-bulandshahr-ulb-jahogirabad",
+    "type": "ward",
+    "name_en": "Nagar Palika Jahogirabad (All Wards)",
+    "name_hi": "नगर पालिका जहॉगीराबाद (सभी वार्ड)",
+    "ulb_id": "ulb-jahogirabad",
     "tehsil_id": "bulandshahr",
     "district_id": "bulandshahr",
     "local_body_type": "nagar_palika_parishad"
@@ -3966,7 +4116,7 @@
     "name_en": "Anupshahr (Urban Ward / SO)",
     "name_hi": "Anupshahr (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-bulandshahr-main",
-    "tehsil_id": "bulandshahr",
+    "tehsil_id": "anupshahr",
     "district_id": "bulandshahr",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -4056,8 +4206,8 @@
     "type": "ward",
     "name_en": "Khurja  Jn  RS (Urban Ward / SO)",
     "name_hi": "Khurja  Jn  RS (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-bulandshahr-main",
-    "tehsil_id": "bulandshahr",
+    "ulb_id": "ulb-khurja",
+    "tehsil_id": "khurja",
     "district_id": "bulandshahr",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -4095,7 +4245,7 @@
     "type": "ward",
     "name_en": "Industrial Estate Sikandrabad (Urban Ward / SO)",
     "name_hi": "Industrial Estate Sikandrabad (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-bulandshahr-main",
+    "ulb_id": "ulb-sikandrabad",
     "tehsil_id": "bulandshahr",
     "district_id": "bulandshahr",
     "local_body_type": "nagar_palika_parishad",
@@ -4226,7 +4376,7 @@
     "name_en": "Debai  Bazar (Urban Ward / SO)",
     "name_hi": "Debai  Bazar (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-bulandshahr-main",
-    "tehsil_id": "bulandshahr",
+    "tehsil_id": "debai",
     "district_id": "bulandshahr",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -4239,7 +4389,7 @@
     "name_en": "Debai (Urban Ward / SO)",
     "name_hi": "Debai (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-bulandshahr-main",
-    "tehsil_id": "bulandshahr",
+    "tehsil_id": "debai",
     "district_id": "bulandshahr",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -4264,8 +4414,8 @@
     "type": "ward",
     "name_en": "Khurja  Chowk (Urban Ward / SO)",
     "name_hi": "Khurja  Chowk (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-bulandshahr-main",
-    "tehsil_id": "bulandshahr",
+    "ulb_id": "ulb-khurja",
+    "tehsil_id": "khurja",
     "district_id": "bulandshahr",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -4277,10 +4427,10 @@
     "type": "ward",
     "name_en": "Narora (Urban Ward / SO)",
     "name_hi": "Narora (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-bulandshahr-main",
+    "ulb_id": "ulb-naraura",
     "tehsil_id": "bulandshahr",
     "district_id": "bulandshahr",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "203389"
     ]
@@ -4290,8 +4440,8 @@
     "type": "ward",
     "name_en": "Subhash  Road  Khurja (Urban Ward / SO)",
     "name_hi": "Subhash  Road  Khurja (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-bulandshahr-main",
-    "tehsil_id": "bulandshahr",
+    "ulb_id": "ulb-khurja",
+    "tehsil_id": "khurja",
     "district_id": "bulandshahr",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -4303,10 +4453,10 @@
     "type": "ward",
     "name_en": "Aurangabad SO Bulandshahr (Urban Ward / SO)",
     "name_hi": "Aurangabad SO Bulandshahr (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-bulandshahr-main",
+    "ulb_id": "ulb-aurangabad",
     "tehsil_id": "bulandshahr",
     "district_id": "bulandshahr",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "203401"
     ]
@@ -4368,7 +4518,7 @@
     "type": "ward",
     "name_en": "Kayasthwara  Sikandrabad (Urban Ward / SO)",
     "name_hi": "Kayasthwara  Sikandrabad (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-bulandshahr-main",
+    "ulb_id": "ulb-sikandrabad",
     "tehsil_id": "bulandshahr",
     "district_id": "bulandshahr",
     "local_body_type": "nagar_palika_parishad",
@@ -4407,8 +4557,8 @@
     "type": "ward",
     "name_en": "Gt Road  Khurja (Urban Ward / SO)",
     "name_hi": "Gt Road  Khurja (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-bulandshahr-main",
-    "tehsil_id": "bulandshahr",
+    "ulb_id": "ulb-khurja",
+    "tehsil_id": "khurja",
     "district_id": "bulandshahr",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -4420,8 +4570,8 @@
     "type": "ward",
     "name_en": "Khurja (Urban Ward / SO)",
     "name_hi": "Khurja (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-bulandshahr-main",
-    "tehsil_id": "bulandshahr",
+    "ulb_id": "ulb-khurja",
+    "tehsil_id": "khurja",
     "district_id": "bulandshahr",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -4460,7 +4610,7 @@
     "name_en": "KSC Mill  Anupshahr (Urban Ward / SO)",
     "name_hi": "KSC Mill  Anupshahr (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-bulandshahr-main",
-    "tehsil_id": "bulandshahr",
+    "tehsil_id": "anupshahr",
     "district_id": "bulandshahr",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -4485,7 +4635,7 @@
     "type": "ward",
     "name_en": "Sikandrabad SO Bulandshahr (Urban Ward / SO)",
     "name_hi": "Sikandrabad SO Bulandshahr (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-bulandshahr-main",
+    "ulb_id": "ulb-sikandrabad",
     "tehsil_id": "bulandshahr",
     "district_id": "bulandshahr",
     "local_body_type": "nagar_palika_parishad",
@@ -4498,10 +4648,10 @@
     "type": "ward",
     "name_en": "Pahasu (Urban Ward / SO)",
     "name_hi": "Pahasu (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-bulandshahr-main",
+    "ulb_id": "ulb-pahasu",
     "tehsil_id": "bulandshahr",
     "district_id": "bulandshahr",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "203396"
     ]

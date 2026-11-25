@@ -2473,11 +2473,41 @@
     "id": "ward-mirzapur-ulb-mirzapur-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Mirzapur (All Wards)",
-    "name_hi": "मिर्जापुर नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका मिर्जापुर (सभी वार्ड)",
     "ulb_id": "ulb-mirzapur-main",
     "tehsil_id": "sadar",
     "district_id": "mirzapur",
     "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-mirzapur-ulb-chunar",
+    "type": "ward",
+    "name_en": "EO Nagar Palika Chunar (All Wards)",
+    "name_hi": "EO नगर पालिका चुनार (सभी वार्ड)",
+    "ulb_id": "ulb-chunar",
+    "tehsil_id": "chunar",
+    "district_id": "mirzapur",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-mirzapur-ulb-aharaura",
+    "type": "ward",
+    "name_en": "EO Nagar Palika Aharaura (All Wards)",
+    "name_hi": "EO नगर पालिका अहरौरा (सभी वार्ड)",
+    "ulb_id": "ulb-aharaura",
+    "tehsil_id": "sadar",
+    "district_id": "mirzapur",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-mirzapur-ulb-kachhavan",
+    "type": "ward",
+    "name_en": "EO Nagar Panchayat Kachhavan (All Wards)",
+    "name_hi": "EO नगर पंचायत कछवां (सभी वार्ड)",
+    "ulb_id": "ulb-kachhavan",
+    "tehsil_id": "sadar",
+    "district_id": "mirzapur",
+    "local_body_type": "nagar_panchayat"
   },
   {
     "id": "town-mirzapur-mirzapur",
@@ -2679,8 +2709,8 @@
     "type": "ward",
     "name_en": "Chunar Cement Factory (Urban Ward / SO)",
     "name_hi": "Chunar Cement Factory (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mirzapur-main",
-    "tehsil_id": "sadar",
+    "ulb_id": "ulb-chunar",
+    "tehsil_id": "chunar",
     "district_id": "mirzapur",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -2705,8 +2735,8 @@
     "type": "ward",
     "name_en": "Chunar Tehsil (Urban Ward / SO)",
     "name_hi": "Chunar Tehsil (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mirzapur-main",
-    "tehsil_id": "sadar",
+    "ulb_id": "ulb-chunar",
+    "tehsil_id": "chunar",
     "district_id": "mirzapur",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -2744,8 +2774,8 @@
     "type": "ward",
     "name_en": "Chunar (Urban Ward / SO)",
     "name_hi": "Chunar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mirzapur-main",
-    "tehsil_id": "sadar",
+    "ulb_id": "ulb-chunar",
+    "tehsil_id": "chunar",
     "district_id": "mirzapur",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [

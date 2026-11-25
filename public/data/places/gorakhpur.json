@@ -5010,8 +5010,78 @@
     "id": "ward-gorakhpur-ulb-gorakhpur-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Gorakhpur (All Wards)",
-    "name_hi": "गोरखपुर नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका गोरखपुर (सभी वार्ड)",
     "ulb_id": "ulb-gorakhpur-main",
+    "tehsil_id": "sadar",
+    "district_id": "gorakhpur",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-gorakhpur-ulb-sahajanavaoshri-avadhesh-kumar-varma",
+    "type": "ward",
+    "name_en": "Sahajanavaoshri Avadhesh Kumar Varma (All Wards)",
+    "name_hi": "सहजनवाॉश्री अवधेश कुमार वर्मा (सभी वार्ड)",
+    "ulb_id": "ulb-sahajanavaoshri-avadhesh-kumar-varma",
+    "tehsil_id": "sadar",
+    "district_id": "gorakhpur",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-gorakhpur-ulb-basaganvashri-avadhesh-kumar-varma",
+    "type": "ward",
+    "name_en": "Basaganvashri Avadhesh Kumar Varma (All Wards)",
+    "name_hi": "बासगांवश्री अवधेश कुमार वर्मा (सभी वार्ड)",
+    "ulb_id": "ulb-basaganvashri-avadhesh-kumar-varma",
+    "tehsil_id": "sadar",
+    "district_id": "gorakhpur",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-gorakhpur-ulb-badahalaganjashri-avadhesh-kumar-varma",
+    "type": "ward",
+    "name_en": "Badahalaganjashri Avadhesh Kumar Varma (All Wards)",
+    "name_hi": "बड़हलगंजश्री अवधेश कुमार वर्मा (सभी वार्ड)",
+    "ulb_id": "ulb-badahalaganjashri-avadhesh-kumar-varma",
+    "tehsil_id": "sadar",
+    "district_id": "gorakhpur",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-gorakhpur-ulb-golashri-a-n-yadav",
+    "type": "ward",
+    "name_en": "Golashri A:N Yadav (All Wards)",
+    "name_hi": "गोलाश्री अ:ण यादव (सभी वार्ड)",
+    "ulb_id": "ulb-golashri-a-n-yadav",
+    "tehsil_id": "gola",
+    "district_id": "gorakhpur",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-gorakhpur-ulb-piparaichasushri-puja-sinh-parihar",
+    "type": "ward",
+    "name_en": "Piparaichasushri Puja Sinh Parihar (All Wards)",
+    "name_hi": "पिपराईचसुश्री पूजा सिंह परिहार (सभी वार्ड)",
+    "ulb_id": "ulb-piparaichasushri-puja-sinh-parihar",
+    "tehsil_id": "sadar",
+    "district_id": "gorakhpur",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-gorakhpur-ulb-mundera-bajarasushri-puja-sinh-parihar",
+    "type": "ward",
+    "name_en": "Mundera Bajarasushri Puja Sinh Parihar (All Wards)",
+    "name_hi": "मुण्डेरा बाजारसुश्री पूजा सिंह परिहार (सभी वार्ड)",
+    "ulb_id": "ulb-mundera-bajarasushri-puja-sinh-parihar",
+    "tehsil_id": "sadar",
+    "district_id": "gorakhpur",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-gorakhpur-ulb-pipiganjashri-sanjay-jayasaval",
+    "type": "ward",
+    "name_en": "Pipiganjashri Sanjay Jayasaval (All Wards)",
+    "name_hi": "पीपीगंजश्री संजय जायसवाल (सभी वार्ड)",
+    "ulb_id": "ulb-pipiganjashri-sanjay-jayasaval",
     "tehsil_id": "sadar",
     "district_id": "gorakhpur",
     "local_body_type": "nagar_palika_parishad"
@@ -5024,7 +5094,7 @@
     "ulb_id": "ulb-gorakhpur-main",
     "tehsil_id": "sadar",
     "district_id": "gorakhpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "273001"
     ]
@@ -5037,7 +5107,7 @@
     "ulb_id": "ulb-gorakhpur-main",
     "tehsil_id": "sadar",
     "district_id": "gorakhpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "273001"
     ]
@@ -5074,7 +5144,7 @@
     "name_en": "Campierganj (Urban Ward / SO)",
     "name_hi": "Campierganj (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-gorakhpur-main",
-    "tehsil_id": "sadar",
+    "tehsil_id": "campierganj",
     "district_id": "gorakhpur",
     "local_body_type": "nagar_nigam",
     "pincodes": [
@@ -5089,7 +5159,7 @@
     "ulb_id": "ulb-gorakhpur-main",
     "tehsil_id": "sadar",
     "district_id": "gorakhpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "273203"
     ]
@@ -5100,7 +5170,7 @@
     "name_en": "Chauri Chaura (Urban Ward / SO)",
     "name_hi": "Chauri Chaura (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-gorakhpur-main",
-    "tehsil_id": "sadar",
+    "tehsil_id": "chauri-chaura",
     "district_id": "gorakhpur",
     "local_body_type": "nagar_nigam",
     "pincodes": [
@@ -5154,7 +5224,7 @@
     "ulb_id": "ulb-gorakhpur-main",
     "tehsil_id": "sadar",
     "district_id": "gorakhpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "273403"
     ]
@@ -5193,7 +5263,7 @@
     "ulb_id": "ulb-gorakhpur-main",
     "tehsil_id": "sadar",
     "district_id": "gorakhpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "273001"
     ]
@@ -5258,7 +5328,7 @@
     "ulb_id": "ulb-gorakhpur-main",
     "tehsil_id": "sadar",
     "district_id": "gorakhpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "273001"
     ]
@@ -5271,7 +5341,7 @@
     "ulb_id": "ulb-gorakhpur-main",
     "tehsil_id": "sadar",
     "district_id": "gorakhpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "273009"
     ]
@@ -5310,7 +5380,7 @@
     "ulb_id": "ulb-gorakhpur-main",
     "tehsil_id": "sadar",
     "district_id": "gorakhpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "273412"
     ]
@@ -5440,7 +5510,7 @@
     "ulb_id": "ulb-gorakhpur-main",
     "tehsil_id": "sadar",
     "district_id": "gorakhpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "273405"
     ]
@@ -5466,7 +5536,7 @@
     "ulb_id": "ulb-gorakhpur-main",
     "tehsil_id": "sadar",
     "district_id": "gorakhpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "273004"
     ]
@@ -5555,7 +5625,7 @@
     "name_en": "Khajni (Urban Ward / SO)",
     "name_hi": "Khajni (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-gorakhpur-main",
-    "tehsil_id": "sadar",
+    "tehsil_id": "khajni",
     "district_id": "gorakhpur",
     "local_body_type": "nagar_nigam",
     "pincodes": [
@@ -5570,7 +5640,7 @@
     "ulb_id": "ulb-gorakhpur-main",
     "tehsil_id": "sadar",
     "district_id": "gorakhpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "273012"
     ]
@@ -5635,7 +5705,7 @@
     "ulb_id": "ulb-gorakhpur-main",
     "tehsil_id": "sadar",
     "district_id": "gorakhpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "273008"
     ]
@@ -5674,7 +5744,7 @@
     "ulb_id": "ulb-gorakhpur-main",
     "tehsil_id": "sadar",
     "district_id": "gorakhpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "273001"
     ]
@@ -5739,7 +5809,7 @@
     "ulb_id": "ulb-gorakhpur-main",
     "tehsil_id": "sadar",
     "district_id": "gorakhpur",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "273408"
     ]

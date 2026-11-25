@@ -447,17 +447,90 @@
           "source_url": "https://muzaffarnagar.nic.in/about-district/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "0131-251001",
+          "type": "landline",
+          "source_url": "https://muzaffarnagar.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "covers": [
         "ulb-muzaffarnagar-main"
       ],
-      "source_url": "https://muzaffarnagar.nic.in/about-district/whos-who/",
+      "source_url": "https://muzaffarnagar.nic.in/std-pin-codes/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Sunil Kumar Singh District Magistrate",
       "email": "shrisunilkumarsinghdistrictmagistratedmmuz@nic.in",
       "address_en": "DM Office, Collectate, Muzaffar Nagar"
+    },
+    {
+      "id": "up-muzaffarnagar-eo-budhana",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Budhana",
+      "office_name_hi": "अधिशासी अधिकारी, Budhana",
+      "phones": [
+        {
+          "number": "01392-251309",
+          "type": "landline",
+          "source_url": "https://muzaffarnagar.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-budhana"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in/std-pin-codes/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-muzaffarnagar-eo-khatauli",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Khatauli",
+      "office_name_hi": "अधिशासी अधिकारी, Khatauli",
+      "phones": [
+        {
+          "number": "01396-251201",
+          "type": "landline",
+          "source_url": "https://muzaffarnagar.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-khatauli"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in/std-pin-codes/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-muzaffarnagar-eo-jansath",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Jansath",
+      "office_name_hi": "अधिशासी अधिकारी, Jansath",
+      "phones": [
+        {
+          "number": "01396-251314",
+          "type": "landline",
+          "source_url": "https://muzaffarnagar.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-jansath"
+      ],
+      "source_url": "https://muzaffarnagar.nic.in/std-pin-codes/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
     }
   ]
 }

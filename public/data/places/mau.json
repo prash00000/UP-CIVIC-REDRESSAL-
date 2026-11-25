@@ -2482,8 +2482,98 @@
     "id": "ward-mau-ulb-mau-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Mau (All Wards)",
-    "name_hi": "मऊ नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका मऊ (सभी वार्ड)",
     "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-mau-ulb-madhuban",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Madhuban (All Wards)",
+    "name_hi": "नगर पंचायत मधुबन (सभी वार्ड)",
+    "ulb_id": "ulb-madhuban",
+    "tehsil_id": "madhuban",
+    "district_id": "mau",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mau-ulb-chiraiyakot",
+    "type": "ward",
+    "name_en": "Panchayat Chiraiyakot (All Wards)",
+    "name_hi": "पंचायत चिरैयाकोट (सभी वार्ड)",
+    "ulb_id": "ulb-chiraiyakot",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-mau-ulb-adari",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Adari (All Wards)",
+    "name_hi": "नगर पंचायत अदरी (सभी वार्ड)",
+    "ulb_id": "ulb-adari",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mau-ulb-amila",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Amila (All Wards)",
+    "name_hi": "नगर पंचायत अमिला (सभी वार्ड)",
+    "ulb_id": "ulb-amila",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mau-ulb-validapur",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Validapur (All Wards)",
+    "name_hi": "नगर पंचायत वलीदपुर (सभी वार्ड)",
+    "ulb_id": "ulb-validapur",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mau-ulb-doharighat",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Doharighat (All Wards)",
+    "name_hi": "नगर पंचायत दोहरीघाट (सभी वार्ड)",
+    "ulb_id": "ulb-doharighat",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mau-ulb-ghosi",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Ghosi (All Wards)",
+    "name_hi": "नगर पंचायत घोसी (सभी वार्ड)",
+    "ulb_id": "ulb-ghosi",
+    "tehsil_id": "ghosi",
+    "district_id": "mau",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mau-ulb-kurthijaphar-pur",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Kurthijaphar Pur (All Wards)",
+    "name_hi": "नगर पंचायत कुर्थीजाफर पुर (सभी वार्ड)",
+    "ulb_id": "ulb-kurthijaphar-pur",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-mau-ulb-muhammdabad-gohna",
+    "type": "ward",
+    "name_en": "NP Muhammdabad Gohna (All Wards)",
+    "name_hi": "NP Muhammdabad Gohna (सभी वार्ड)",
+    "ulb_id": "ulb-muhammdabad-gohna",
     "tehsil_id": "mau-sadar",
     "district_id": "mau",
     "local_body_type": "nagar_palika_parishad"
@@ -2571,10 +2661,10 @@
     "type": "ward",
     "name_en": "GHOSI (Urban Ward / SO)",
     "name_hi": "GHOSI (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mau-main",
-    "tehsil_id": "mau-sadar",
+    "ulb_id": "ulb-ghosi",
+    "tehsil_id": "ghosi",
     "district_id": "mau",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "275304"
     ]
@@ -2701,10 +2791,10 @@
     "type": "ward",
     "name_en": "Amila (Urban Ward / SO)",
     "name_hi": "Amila (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mau-main",
+    "ulb_id": "ulb-amila",
     "tehsil_id": "mau-sadar",
     "district_id": "mau",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "275301"
     ]
@@ -2714,10 +2804,10 @@
     "type": "ward",
     "name_en": "Dohari  Ghat (Urban Ward / SO)",
     "name_hi": "Dohari  Ghat (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mau-main",
+    "ulb_id": "ulb-doharighat",
     "tehsil_id": "mau-sadar",
     "district_id": "mau",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "275303"
     ]
@@ -2753,10 +2843,10 @@
     "type": "ward",
     "name_en": "Madhu Ban (Urban Ward / SO)",
     "name_hi": "Madhu Ban (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-mau-main",
-    "tehsil_id": "mau-sadar",
+    "ulb_id": "ulb-madhuban",
+    "tehsil_id": "madhuban",
     "district_id": "mau",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "221603"
     ]

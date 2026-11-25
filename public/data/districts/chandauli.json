@@ -15,13 +15,27 @@
           "source_url": "https://chandauli.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "8577811768",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3555d6702c950ecb729a966504af0a635/uploads/2023/01/2023011692.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454417066",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3555d6702c950ecb729a966504af0a635/uploads/2023/01/2023011692.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmchn@nic.in",
       "covers": [
         "chandauli"
       ],
-      "source_url": "https://chandauli.nic.in/about-district/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3555d6702c950ecb729a966504af0a635/uploads/2023/01/2023011692.pdf",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "District Magistrate (DM)",
@@ -40,13 +54,20 @@
           "source_url": "https://chandauli.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "7355673232",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3555d6702c950ecb729a966504af0a635/uploads/2023/01/2023011692.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "cdocd-up@nic.in",
       "covers": [
         "chandauli"
       ],
-      "source_url": "https://chandauli.nic.in/about-district/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3555d6702c950ecb729a966504af0a635/uploads/2023/01/2023011692.pdf",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Chief Development Officer (CDO)",
@@ -58,14 +79,29 @@
       "role": "dpro",
       "office_name_en": "District Panchayat Raj Officer (DPRO), Chandauli",
       "office_name_hi": "जिला पंचायत राज अधिकारी, चंदौली",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9250073552",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3555d6702c950ecb729a966504af0a635/uploads/2026/08/17871325826054.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "7905001335",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3555d6702c950ecb729a966504af0a635/uploads/2023/01/2023011692.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "dpro-chn@nic.in",
       "covers": [
         "chandauli"
       ],
-      "source_url": "https://chandauli.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3555d6702c950ecb729a966504af0a635/uploads/2023/01/2023011692.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-chandauli-sdm-chandauli",
@@ -80,13 +116,20 @@
           "source_url": "https://chandauli.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454417065",
+          "type": "office",
+          "source_url": "https://chandauli.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdmcd-up@nic.in",
       "covers": [
         "chandauli"
       ],
-      "source_url": "https://chandauli.nic.in/directory/",
+      "source_url": "https://chandauli.nic.in/tehsil/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -103,13 +146,20 @@
           "source_url": "https://chandauli.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454417064",
+          "type": "office",
+          "source_url": "https://chandauli.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdmsakalcd-up@nic.in",
       "covers": [
         "sakaldiha"
       ],
-      "source_url": "https://chandauli.nic.in/directory/",
+      "source_url": "https://chandauli.nic.in/tehsil/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -126,13 +176,20 @@
           "source_url": "https://chandauli.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454417069",
+          "type": "office",
+          "source_url": "https://chandauli.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdmchakiacd-up@nic.in",
       "covers": [
         "chakia"
       ],
-      "source_url": "https://chandauli.nic.in/directory/",
+      "source_url": "https://chandauli.nic.in/tehsil/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -164,13 +221,20 @@
           "source_url": "https://chandauli.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "8668388761",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3555d6702c950ecb729a966504af0a635/uploads/2023/01/2023011692.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "bdo.chandauli.chn@gmail.com",
       "covers": [
         "chandauli"
       ],
-      "source_url": "https://chandauli.nic.in/directory/",
+      "source_url": "https://cdn.s3waas.gov.in/s3555d6702c950ecb729a966504af0a635/uploads/2023/01/2023011692.pdf",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -331,14 +395,29 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Barhani",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Barhani",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465236",
+          "type": "office",
+          "source_url": "https://chandauli.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9628012909",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3555d6702c950ecb729a966504af0a635/uploads/2023/01/2023011692.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.barhani.chn@gmail.com",
       "covers": [
         "barhani"
       ],
-      "source_url": "https://chandauli.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3555d6702c950ecb729a966504af0a635/uploads/2023/01/2023011692.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-chandauli-ado-barhani",
@@ -399,7 +478,15 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sahabganj",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sahabganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465238",
+          "type": "office",
+          "source_url": "https://chandauli.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.sahabganj.chn@gmail.com",
       "covers": [
         "sahabganj"
@@ -467,12 +554,84 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Chandauli",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका चंदौली",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05412-256296",
+          "type": "landline",
+          "source_url": "https://chandauli.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-chandauli-main"
       ],
-      "source_url": "https://chandauli.nic.in/municipal-bodies/",
+      "source_url": "https://chandauli.nic.in/public-utility-category/municipality/",
       "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "email": "nppmgs@gmail.com",
+      "address_en": "Dindayal Upadhyay Nagar Chandauli Email : nppmgs[at]gmail[dot]com Phone : 05412-256296 Pincode : 232101"
+    },
+    {
+      "id": "up-chandauli-eo-pan0di0d0nagar",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Palika, Pan0di0d0nagar",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका, पं0दी0द0नगर",
+      "phones": [
+        {
+          "number": "9454083549",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3555d6702c950ecb729a966504af0a635/uploads/2026/08/17871325826054.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-pan0di0d0nagar"
+      ],
+      "source_url": "https://cdn.s3waas.gov.in/s3555d6702c950ecb729a966504af0a635/uploads/2026/08/17871325826054.pdf",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-chandauli-eo-chakiya",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat, Chakiya",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत, चकिया",
+      "officer_name_en": "प्र0",
+      "phones": [
+        {
+          "number": "6307906247",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3555d6702c950ecb729a966504af0a635/uploads/2026/08/17871325826054.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-chakiya"
+      ],
+      "source_url": "https://cdn.s3waas.gov.in/s3555d6702c950ecb729a966504af0a635/uploads/2026/08/17871325826054.pdf",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-chandauli-eo-saiyadaraja",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat, Saiyadaraja",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत, सैयदराजा",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-chandauli-eo-chakiya",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-saiyadaraja"
+      ],
+      "source_url": "https://cdn.s3waas.gov.in/s3555d6702c950ecb729a966504af0a635/uploads/2026/08/17871325826054.pdf",
+      "confidence": "medium",
       "valid_as_of": "2026-11-25"
     }
   ]

@@ -34,13 +34,6 @@
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), गौतम बुद्ध नगर",
       "phones": [
         {
-          "number": "9197599712",
-          "type": "office",
-          "source_url": "https://gautam-buddha-nagar.nic.in",
-          "checked_on": "2026-11-20",
-          "status": "verified"
-        },
-        {
           "number": "9759971223",
           "type": "office",
           "source_url": "https://gbnagar.nic.in/whos-who/",
@@ -261,13 +254,109 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Gautam Buddha Nagar",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका गौतम बुद्ध नगर",
-      "phones": [],
+      "phones": [
+        {
+          "number": "01203-256550",
+          "type": "landline",
+          "source_url": "https://gbnagar.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-gautam-buddha-nagar-main"
       ],
-      "source_url": "https://gbnagar.nic.in/whos-who/",
+      "source_url": "https://gbnagar.nic.in/public-utility-category/municipality/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "email": "eo@nppdadri.co.in",
+      "address_en": "Email : eo[at]nppdadri[dot]co[dot]in Phone : 01203256550"
+    },
+    {
+      "id": "up-gautam-buddha-nagar-eo-greater-noida-industrial-development-authority",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Greater Noida Industrial Development Authority",
+      "office_name_hi": "अधिशासी अधिकारी, Greater Noida Industrial Development Authority",
+      "phones": [
+        {
+          "number": "01202-336030",
+          "type": "landline",
+          "source_url": "https://gbnagar.nic.in/public-utility-category/authority/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "authority@gnida.in",
+      "covers": [
+        "ulb-greater-noida-industrial-development-authority"
+      ],
+      "source_url": "https://gbnagar.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "plot no.1,knowledge park-04,greater noida,Gautam Buddh nagar,U.P. Email : authority[at]gnida[dot]in Phone : 01202336030 Website Link : http://www.greaternoidaauthority.in/"
+    },
+    {
+      "id": "up-gautam-buddha-nagar-eo-new-okhla-industrial-development-authority",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NEW OKHLA INDUSTRIAL DEVELOPMENT AUTHORITY",
+      "office_name_hi": "अधिशासी अधिकारी, NEW OKHLA INDUSTRIAL DEVELOPMENT AUTHORITY",
+      "phones": [
+        {
+          "number": "01202-425025",
+          "type": "landline",
+          "source_url": "https://gbnagar.nic.in/public-utility-category/authority/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "noida@noidaauthorityonline.com",
+      "covers": [
+        "ulb-new-okhla-industrial-development-authority"
+      ],
+      "source_url": "https://gbnagar.nic.in/public-utility-category/municipality/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "plot no.1,knowledge park-04,greater noida,Gautam Buddh nagar,U.P. Email : authority[at]gnida[dot]in Phone : 01202336030 Website Link : http://www.greaternoidaauthority.in/"
+    },
+    {
+      "id": "up-gautam-buddha-nagar-eo-gretar-noeda-audyogik-vikas-pradhikaran",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Gretar Noeda Audyogik Vikas Pradhikaran",
+      "office_name_hi": "अधिशासी अधिकारी, ग्रेटर नोएडा औद्योगिक विकास प्राधिकरण",
+      "phones": [],
+      "email": "authority@gnida.in",
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-gautam-buddha-nagar-eo-greater-noida-industrial-development-authority",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-gretar-noeda-audyogik-vikas-pradhikaran"
+      ],
+      "source_url": "https://gbnagar.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Email : eo[at]nppdadri[dot]co[dot]in Phone : 01203256550"
+    },
+    {
+      "id": "up-gautam-buddha-nagar-eo-nai-okhala-audyogik-vikas-pradhikaran",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nai Okhala Audyogik Vikas Pradhikaran",
+      "office_name_hi": "अधिशासी अधिकारी, नई ओखला औद्योगिक विकास प्राधिकरण",
+      "phones": [],
+      "email": "noida@noidaauthorityonline.com",
+      "post_status": "additional_charge",
+      "fallback_office_id": "up-gautam-buddha-nagar-eo-new-okhla-industrial-development-authority",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-nai-okhala-audyogik-vikas-pradhikaran"
+      ],
+      "source_url": "https://gbnagar.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Email : eo[at]nppdadri[dot]co[dot]in Phone : 01203256550"
     }
   ]
 }

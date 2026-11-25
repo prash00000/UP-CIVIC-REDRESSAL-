@@ -3212,8 +3212,48 @@
     "id": "ward-amethi-ulb-amethi-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Amethi (All Wards)",
-    "name_hi": "अमेठी नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका अमेठी (सभी वार्ड)",
     "ulb_id": "ulb-amethi-main",
+    "tehsil_id": "amethi",
+    "district_id": "amethi",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-amethi-ulb-gauriganj",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad (Gauriganj) (All Wards)",
+    "name_hi": "Nagar Palika Parishad (Gauriganj) (सभी वार्ड)",
+    "ulb_id": "ulb-gauriganj",
+    "tehsil_id": "gauriganj",
+    "district_id": "amethi",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-amethi-ulb-jais",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad (Jais) (All Wards)",
+    "name_hi": "Nagar Palika Parishad (Jais) (सभी वार्ड)",
+    "ulb_id": "ulb-jais",
+    "tehsil_id": "gauriganj",
+    "district_id": "amethi",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-amethi-ulb-musafirkhana",
+    "type": "ward",
+    "name_en": "Nagar Panchayat (Musafirkhana) (All Wards)",
+    "name_hi": "Nagar Panchayat (Musafirkhana) (सभी वार्ड)",
+    "ulb_id": "ulb-musafirkhana",
+    "tehsil_id": "musafirkhana",
+    "district_id": "amethi",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-amethi-ulb-jayas",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad (Jayas) (All Wards)",
+    "name_hi": "नगर पालिका परिषद् (जायस) (सभी वार्ड)",
+    "ulb_id": "ulb-jayas",
     "tehsil_id": "gauriganj",
     "district_id": "amethi",
     "local_body_type": "nagar_palika_parishad"
@@ -3224,7 +3264,7 @@
     "name_en": "Amethi (Urban Ward / SO)",
     "name_hi": "Amethi (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-amethi-main",
-    "tehsil_id": "gauriganj",
+    "tehsil_id": "amethi",
     "district_id": "amethi",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -3262,10 +3302,10 @@
     "type": "ward",
     "name_en": "Musafirkhana (Urban Ward / SO)",
     "name_hi": "Musafirkhana (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-amethi-main",
-    "tehsil_id": "gauriganj",
+    "ulb_id": "ulb-musafirkhana",
+    "tehsil_id": "musafirkhana",
     "district_id": "amethi",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "227813"
     ]
@@ -3288,7 +3328,7 @@
     "type": "ward",
     "name_en": "Gauriganj (Urban Ward / SO)",
     "name_hi": "Gauriganj (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-amethi-main",
+    "ulb_id": "ulb-gauriganj",
     "tehsil_id": "gauriganj",
     "district_id": "amethi",
     "local_body_type": "nagar_palika_parishad",
@@ -3432,7 +3472,7 @@
     "name_en": "Tiloi (Urban Ward / SO)",
     "name_hi": "Tiloi (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-amethi-main",
-    "tehsil_id": "gauriganj",
+    "tehsil_id": "tiloi",
     "district_id": "amethi",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -3522,7 +3562,7 @@
     "type": "ward",
     "name_en": "Jais (Urban Ward / SO)",
     "name_hi": "Jais (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-amethi-main",
+    "ulb_id": "ulb-jais",
     "tehsil_id": "gauriganj",
     "district_id": "amethi",
     "local_body_type": "nagar_palika_parishad",

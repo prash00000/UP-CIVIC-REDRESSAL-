@@ -22,13 +22,20 @@
           "source_url": "https://sitapur.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "05862-242996",
+          "type": "landline",
+          "source_url": "https://sitapur.nic.in/hi/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmsit@nic.in",
       "covers": [
         "sitapur"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://sitapur.nic.in/hi/%E0%A4%95%E0%A5%8C%E0%A4%A8-%E0%A4%95%E0%A5%8C%E0%A4%A8-%E0%A4%B9%E0%A5%88/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Prathmesh Kumar",
@@ -95,14 +102,29 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Biswan",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Biswan",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416537",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05863-233277",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.biswan.sit-up@gov.in",
       "covers": [
         "biswan"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-sdm-mahmoodabad",
@@ -110,14 +132,36 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mahmoodabad",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mahmoodabad",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416536",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05864-253776",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05864-252266",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.mahmoodabad.sit-up@gov.in",
       "covers": [
         "mahmoodabad"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-sdm-sidhauli",
@@ -125,14 +169,36 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sidhauli",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sidhauli",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416535",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05864-272333",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05864-273254",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.sidhauli.sit-up@gov.in",
       "covers": [
         "sidhauli"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-sdm-misrikh",
@@ -140,14 +206,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Misrikh",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Misrikh",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416539",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.misrikh.sit-up@gov.in",
       "covers": [
         "misrikh"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-sdm-laharpur",
@@ -155,14 +229,29 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Laharpur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Laharpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416538",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05862-254652",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.laharpur.sit-up@gov.in",
       "covers": [
         "laharpur"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-sdm-mahauli",
@@ -170,14 +259,29 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mahauli",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mahauli",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416546",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05861-235035",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.mahauli.sit-up@gov.in",
       "covers": [
         "mahauli"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-bdo-khairabad",
@@ -185,14 +289,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Khairabad",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khairabad",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465430",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.khairabad.sit@gmail.com",
       "covers": [
         "khairabad"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-ado-khairabad",
@@ -215,14 +327,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Aliya",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Aliya",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465427",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.aliya.sit@gmail.com",
       "covers": [
         "aliya"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-ado-aliya",
@@ -245,14 +365,29 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Hargaon",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hargaon",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465428",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05862-256240",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.hargaon.sit@gmail.com",
       "covers": [
         "hargaon"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-ado-hargaon",
@@ -305,14 +440,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Parsendi",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Parsendi",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465429",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.parsendi.sit@gmail.com",
       "covers": [
         "parsendi"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-ado-parsendi",
@@ -335,14 +478,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Laharpur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Laharpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465431",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.laharpur.sit@gmail.com",
       "covers": [
         "laharpur"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-ado-laharpur",
@@ -365,14 +516,29 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Behta",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Behta",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465432",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05863-257288",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.behta.sit@gmail.com",
       "covers": [
         "behta"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-ado-behta",
@@ -395,14 +561,29 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Reusa",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Reusa",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465433",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05863-224203",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.reusa.sit@gmail.com",
       "covers": [
         "reusa"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-ado-reusa",
@@ -425,14 +606,29 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sakran",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sakran",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465434",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05863-235215",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.sakran.sit@gmail.com",
       "covers": [
         "sakran"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-ado-sakran",
@@ -455,14 +651,29 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Biswan",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Biswan",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465435",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05863-233209",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.biswan.sit@gmail.com",
       "covers": [
         "biswan"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-ado-biswan",
@@ -485,14 +696,29 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Pahala",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pahala",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465436",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05864-257249",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.pahala.sit@gmail.com",
       "covers": [
         "pahala"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-ado-pahala",
@@ -515,14 +741,29 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mahmoodabad",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mahmoodabad",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465437",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05864-252212",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.mahmoodabad.sit@gmail.com",
       "covers": [
         "mahmoodabad"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-ado-mahmoodabad",
@@ -545,14 +786,29 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Rampur Mathura",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rampur Mathura",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465438",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05864-246631",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.rampurmathura.sit@gmail.com",
       "covers": [
         "rampur-mathura"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-ado-rampur-mathura",
@@ -575,14 +831,29 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sidhauli",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sidhauli",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465440",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05864-273270",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.sidhauli.sit@gmail.com",
       "covers": [
         "sidhauli"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-ado-sidhauli",
@@ -605,14 +876,29 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kasmanda",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kasmanda",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465439",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05864-232223",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.kasmanda.sit@gmail.com",
       "covers": [
         "kasmanda"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-ado-kasmanda",
@@ -635,14 +921,29 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Gondlamau",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gondlamau",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465426",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05865-233322",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.gondlamau.sit@gmail.com",
       "covers": [
         "gondlamau"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-ado-gondlamau",
@@ -665,14 +966,29 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Misrikh",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Misrikh",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465424",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05865-222249",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.misrikh.sit@gmail.com",
       "covers": [
         "misrikh"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-ado-misrikh",
@@ -695,14 +1011,29 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Machhrehta",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Machhrehta",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465425",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05865-265511",
+          "type": "landline",
+          "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.machhrehta.sit@gmail.com",
       "covers": [
         "machhrehta"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-ado-machhrehta",
@@ -730,9 +1061,9 @@
       "covers": [
         "pisawan"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://cdn.s3waas.gov.in/s3cfecdb276f634854f3ef915e2e980c31/uploads/2018/05/2018050185.pdf",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sitapur-ado-pisawan",
@@ -759,9 +1090,10 @@
       "covers": [
         "ulb-sitapur-main"
       ],
-      "source_url": "https://sitapur.nic.in/whos-who/",
+      "source_url": "https://sitapur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/page/2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Tehsil sitapur Pincode : 261001"
     }
   ]
 }

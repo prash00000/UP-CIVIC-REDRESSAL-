@@ -139,4 +139,63 @@ describe("Officer Resolver Unit Tests (Official UP Pilot Data)", () => {
     expect(roles).toContain("dm");
     expect(result.stateHelpline.number).toBe("1076");
   });
+
+  it("should attach supervising fallback office when Town EO is under additional_charge without direct phone", () => {
+    const syntheticDistrict: DistrictData = {
+      ...jaunpur,
+      offices: [
+        ...jaunpur.offices,
+        {
+          id: "up-jaunpur-eo-primary",
+          level: "ulb",
+          role: "eo",
+          office_name_en: "Executive Officer, Town Primary",
+          office_name_hi: "अधिशासी अधिकारी, मुख्य नगर",
+          phones: [
+            {
+              number: "9450001111",
+              type: "cug",
+              source_url: "https://jaunpur.nic.in",
+              checked_on: "2026-11-25",
+              status: "verified",
+            },
+          ],
+          covers: ["ulb-primary"],
+          source_url: "https://jaunpur.nic.in",
+          confidence: "high",
+          valid_as_of: "2026-11-25",
+        },
+        {
+          id: "up-jaunpur-eo-joint",
+          level: "ulb",
+          role: "eo",
+          office_name_en: "Executive Officer, Town Joint",
+          office_name_hi: "अधिशासी अधिकारी, संयुक्त नगर",
+          phones: [],
+          post_status: "additional_charge",
+          fallback_office_id: "up-jaunpur-eo-primary",
+          covers: ["ulb-joint"],
+          source_url: "https://jaunpur.nic.in",
+          confidence: "medium",
+          valid_as_of: "2026-11-25",
+        },
+      ],
+    };
+    const jointPlace: Place = {
+      id: "ward-joint",
+      type: "ward",
+      name_en: "Town Joint (All Wards)",
+      name_hi: "संयुक्त नगर (सभी वार्ड)",
+      ulb_id: "ulb-joint",
+      tehsil_id: jaunpur.offices.find((o) => o.role === "sdm")?.covers[0] || "sadar",
+      district_id: "jaunpur",
+      local_body_type: "nagar_panchayat",
+    };
+    const result = resolveOfficers("nagar_panchayat", "jaunpur", jointPlace.id, syntheticDistrict, [jointPlace], state);
+    expect(result.officers[0].office.id).toBe("up-jaunpur-eo-joint");
+    expect(result.officers[0].additionalChargeNote).toBe(true);
+    expect(result.officers[1].office.id).toBe("up-jaunpur-eo-primary");
+    expect(result.officers[1].isFallback).toBe(true);
+    expect(result.officers[1].noPhone).toBe(false);
+  });
 });

@@ -2191,11 +2191,41 @@
     "id": "ward-etawah-ulb-etawah-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Etawah (All Wards)",
-    "name_hi": "इटावा नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका इटावा (सभी वार्ड)",
     "ulb_id": "ulb-etawah-main",
     "tehsil_id": "etawah",
     "district_id": "etawah",
     "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-etawah-ulb-nagar-palika-parishad-bharthana",
+    "type": "ward",
+    "name_en": "Nagar palika Parishad Bharthana (All Wards)",
+    "name_hi": "Nagar palika Parishad Bharthana (सभी वार्ड)",
+    "ulb_id": "ulb-nagar-palika-parishad-bharthana",
+    "tehsil_id": "bharthana",
+    "district_id": "etawah",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-etawah-ulb-nagar-palika-parishad-jaswantnagar",
+    "type": "ward",
+    "name_en": "Nagar palika Parishad Jaswantnagar (All Wards)",
+    "name_hi": "Nagar palika Parishad Jaswantnagar (सभी वार्ड)",
+    "ulb_id": "ulb-nagar-palika-parishad-jaswantnagar",
+    "tehsil_id": "jaswantnagar",
+    "district_id": "etawah",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-etawah-ulb-lakhna",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Lakhna (All Wards)",
+    "name_hi": "Nagar Panchayat Lakhna (सभी वार्ड)",
+    "ulb_id": "ulb-lakhna",
+    "tehsil_id": "etawah",
+    "district_id": "etawah",
+    "local_body_type": "nagar_panchayat"
   },
   {
     "id": "town-etawah-etawah",
@@ -2254,8 +2284,8 @@
     "type": "ward",
     "name_en": "Bharthana (Urban Ward / SO)",
     "name_hi": "Bharthana (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-etawah-main",
-    "tehsil_id": "etawah",
+    "ulb_id": "ulb-nagar-palika-parishad-bharthana",
+    "tehsil_id": "bharthana",
     "district_id": "etawah",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -2280,8 +2310,8 @@
     "type": "ward",
     "name_en": "Jaswant Nagar (Urban Ward / SO)",
     "name_hi": "Jaswant Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-etawah-main",
-    "tehsil_id": "etawah",
+    "ulb_id": "ulb-nagar-palika-parishad-jaswantnagar",
+    "tehsil_id": "jaswantnagar",
     "district_id": "etawah",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -2346,7 +2376,7 @@
     "name_en": "Chakar Nagar (Urban Ward / SO)",
     "name_hi": "Chakar Nagar (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-etawah-main",
-    "tehsil_id": "etawah",
+    "tehsil_id": "chakarnagar",
     "district_id": "etawah",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -2501,8 +2531,8 @@
     "type": "ward",
     "name_en": "Jaswant Nagar Bazar (Urban Ward / SO)",
     "name_hi": "Jaswant Nagar Bazar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-etawah-main",
-    "tehsil_id": "etawah",
+    "ulb_id": "ulb-nagar-palika-parishad-jaswantnagar",
+    "tehsil_id": "jaswantnagar",
     "district_id": "etawah",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -2515,7 +2545,7 @@
     "name_en": "Saifai (Urban Ward / SO)",
     "name_hi": "Saifai (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-etawah-main",
-    "tehsil_id": "etawah",
+    "tehsil_id": "saifai",
     "district_id": "etawah",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [

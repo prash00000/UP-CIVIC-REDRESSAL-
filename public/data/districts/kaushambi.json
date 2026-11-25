@@ -22,7 +22,7 @@
       "covers": [
         "kaushambi"
       ],
-      "source_url": "https://kaushambi.nic.in/collectrate/",
+      "source_url": "https://kaushambi.nic.in/hi/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a5%87-%e0%a4%95%e0%a5%87-%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -45,9 +45,10 @@
       "covers": [
         "kaushambi"
       ],
-      "source_url": "https://kaushambi.nic.in/whos-who/",
+      "source_url": "https://kaushambi.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "मुख्य विकास अधिकारी"
     },
     {
       "id": "up-kaushambi-dpro",
@@ -105,7 +106,7 @@
       "covers": [
         "manjhanpur"
       ],
-      "source_url": "https://kaushambi.nic.in/whos-who/",
+      "source_url": "https://kaushambi.nic.in/directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -135,7 +136,7 @@
       "covers": [
         "chail"
       ],
-      "source_url": "https://kaushambi.nic.in/whos-who/",
+      "source_url": "https://kaushambi.nic.in/directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -165,7 +166,7 @@
       "covers": [
         "sirathu"
       ],
-      "source_url": "https://kaushambi.nic.in/whos-who/",
+      "source_url": "https://kaushambi.nic.in/directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -175,14 +176,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Manjhanpur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Manjhanpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464578",
+          "type": "office",
+          "source_url": "https://kaushambi.nic.in/public-utility-category/block/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.manjhanpur.ksb@gmail.com",
       "covers": [
         "manjhanpur"
       ],
-      "source_url": "https://kaushambi.nic.in/whos-who/",
+      "source_url": "https://kaushambi.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Vikas Khand- Manjhanpur , Kaushambi Phone : 9454464578"
     },
     {
       "id": "up-kaushambi-ado-manjhanpur",
@@ -218,7 +228,7 @@
       "covers": [
         "sarsawan"
       ],
-      "source_url": "https://kaushambi.nic.in/whos-who/",
+      "source_url": "https://kaushambi.nic.in/directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -256,7 +266,7 @@
       "covers": [
         "kaushambi"
       ],
-      "source_url": "https://kaushambi.nic.in/whos-who/",
+      "source_url": "https://kaushambi.nic.in/directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -294,7 +304,7 @@
       "covers": [
         "chail"
       ],
-      "source_url": "https://kaushambi.nic.in/whos-who/",
+      "source_url": "https://kaushambi.nic.in/directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -319,14 +329,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Nevada",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nevada",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464581",
+          "type": "office",
+          "source_url": "https://kaushambi.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.nevada.ksb@gmail.com",
       "covers": [
         "nevada"
       ],
-      "source_url": "https://kaushambi.nic.in/whos-who/",
+      "source_url": "https://kaushambi.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kaushambi-ado-nevada",
@@ -362,7 +380,7 @@
       "covers": [
         "muratganj"
       ],
-      "source_url": "https://kaushambi.nic.in/whos-who/",
+      "source_url": "https://kaushambi.nic.in/directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -400,7 +418,7 @@
       "covers": [
         "sirathu"
       ],
-      "source_url": "https://kaushambi.nic.in/whos-who/",
+      "source_url": "https://kaushambi.nic.in/directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -425,14 +443,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kara",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kara",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464575",
+          "type": "office",
+          "source_url": "https://kaushambi.nic.in/hi/public-utility-category/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%96%e0%a4%82%e0%a4%a1/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.kara.ksb@gmail.com",
       "covers": [
         "kara"
       ],
-      "source_url": "https://kaushambi.nic.in/whos-who/",
+      "source_url": "https://kaushambi.nic.in/hi/public-utility-category/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%96%e0%a4%82%e0%a4%a1/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "कार्यालय विकास खंड कड़ा जनपद कौशाम्बी फोन : 9454464575"
     },
     {
       "id": "up-kaushambi-ado-kara",
@@ -455,13 +482,40 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Kaushambi",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका कौशाम्बी",
-      "phones": [],
+      "phones": [
+        {
+          "number": "7388368852",
+          "type": "office",
+          "source_url": "https://kaushambi.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-kaushambi-main"
       ],
-      "source_url": "https://kaushambi.nic.in/whos-who/",
+      "source_url": "https://kaushambi.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Near Railway Station, NPP BHARWARI, KAUSHAMBI Phone : 7388368852"
+    },
+    {
+      "id": "up-kaushambi-eo-bharwari",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, NAGAR PALIKA PARISHAD BHARWARI",
+      "office_name_hi": "अधिशासी अधिकारी, NAGAR PALIKA PARISHAD BHARWARI",
+      "phones": [],
+      "post_status": "additional_charge",
+      "fallback_office_id": "eo-kaushambi-main",
+      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
+      "covers": [
+        "ulb-bharwari"
+      ],
+      "source_url": "https://kaushambi.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Near Railway Station, NPP BHARWARI, KAUSHAMBI Phone : 7388368852"
     }
   ]
 }

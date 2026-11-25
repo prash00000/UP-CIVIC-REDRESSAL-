@@ -88,14 +88,24 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Etmadpur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Etmadpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417667",
+          "type": "office",
+          "source_url": "https://agra.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.etmadpur.agr-up@gov.in",
       "covers": [
         "etmadpur"
       ],
-      "source_url": "https://agra.nic.in/whos-who/",
+      "source_url": "https://agra.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Sub Division Magistrate Etamdpur",
+      "address_en": "Tehsil Etamdpur"
     },
     {
       "id": "up-agra-sdm-fatehabad",

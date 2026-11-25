@@ -61,13 +61,20 @@
           "source_url": "https://bhadohi.nic.in/about-district/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "05414-298122",
+          "type": "landline",
+          "source_url": "https://bhadohi.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "cdo.bhd-up@gov.in",
       "covers": [
         "bhadohi"
       ],
-      "source_url": "https://bhadohi.nic.in/about-district/whos-who/",
+      "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Bal Govind Shukla",
@@ -132,7 +139,8 @@
       ],
       "source_url": "https://bhadohi.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "उप जिलाधिकारी भदोही"
     },
     {
       "id": "up-bhadohi-sdm-aurai",
@@ -155,7 +163,8 @@
       ],
       "source_url": "https://bhadohi.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "उप जिलाधिकारी औराई"
     },
     {
       "id": "up-bhadohi-bdo-gyanpur",
@@ -347,9 +356,11 @@
       "covers": [
         "ulb-bhadohi-main"
       ],
-      "source_url": "https://bhadohi.nic.in/whos-who/",
+      "source_url": "https://bhadohi.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "email": "eo@nppbhadohi.co.in",
+      "address_en": "Bhadohi Email : eo[at]nppbhadohi[dot]co[dot]in Website Link : http://nppbhadohi.in/population.aspx"
     }
   ]
 }

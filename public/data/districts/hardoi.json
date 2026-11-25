@@ -80,14 +80,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Hardoi",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Hardoi",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05852-241001",
+          "type": "landline",
+          "source_url": "https://hardoi.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.hardoi.har-up@gov.in",
       "covers": [
         "hardoi"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/std-pin-codes/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-sdm-shahabad",
@@ -102,13 +110,27 @@
           "source_url": "https://hardoi.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454416600",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/hi/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454416605",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/hi/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdm.shahabad.har-up@gov.in",
       "covers": [
         "shahabad"
       ],
-      "source_url": "https://hardoi.nic.in/directory/",
+      "source_url": "https://hardoi.nic.in/tehsil/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Ankit Tiwari"
@@ -126,13 +148,27 @@
           "source_url": "https://hardoi.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454416602",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/hi/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454416623",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/hi/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdm.bilgram.har-up@gov.in",
       "covers": [
         "bilgram"
       ],
-      "source_url": "https://hardoi.nic.in/directory/",
+      "source_url": "https://hardoi.nic.in/tehsil/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Nanheram"
@@ -150,15 +186,30 @@
           "source_url": "https://hardoi.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454416601",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/hi/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454416624",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/hi/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdm.sandila.har-up@gov.in",
       "covers": [
         "sandila"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/tehsil/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "संडीला"
     },
     {
       "id": "up-hardoi-sdm-sawayajpur",
@@ -166,14 +217,30 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sawayajpur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sawayajpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416603",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/hi/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454416608",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/hi/%e0%a4%a4%e0%a4%b9%e0%a4%b8%e0%a5%80%e0%a4%b2/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.sawayajpur.har-up@gov.in",
       "covers": [
         "sawayajpur"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/tehsil/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "सवायजपुर"
     },
     {
       "id": "up-hardoi-bdo-sursa",
@@ -181,14 +248,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sursa",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sursa",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465372",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.sursa.har@gmail.com",
       "covers": [
         "sursa"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-sursa",
@@ -211,14 +286,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bawan",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bawan",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465366",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.bawan.har@gmail.com",
       "covers": [
         "bawan"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-bawan",
@@ -241,14 +324,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Ahirori",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ahirori",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465373",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.ahirori.har@gmail.com",
       "covers": [
         "ahirori"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-ahirori",
@@ -271,14 +362,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Tandiyawan",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tandiyawan",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465371",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.tandiyawan.har@gmail.com",
       "covers": [
         "tandiyawan"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-tandiyawan",
@@ -301,14 +400,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Harpalpur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Harpalpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465367",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.harpalpur.har@gmail.com",
       "covers": [
         "harpalpur"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-harpalpur",
@@ -331,14 +438,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sandi",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sandi",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465368",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.sandi.har@gmail.com",
       "covers": [
         "sandi"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-sandi",
@@ -361,14 +476,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bilgram",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bilgram",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465369",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.bilgram.har@gmail.com",
       "covers": [
         "bilgram"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-bilgram",
@@ -391,14 +514,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Madhavganj",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Madhavganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465374",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.madhavganj.har@gmail.com",
       "covers": [
         "madhavganj"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-madhavganj",
@@ -421,14 +552,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mallawan",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mallawan",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465375",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.mallawan.har@gmail.com",
       "covers": [
         "mallawan"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-mallawan",
@@ -451,14 +590,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kachhauna",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kachhauna",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465377",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.kachhauna.har@gmail.com",
       "covers": [
         "kachhauna"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-kachhauna",
@@ -481,14 +628,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sandila",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sandila",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465379",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.sandila.har@gmail.com",
       "covers": [
         "sandila"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-sandila",
@@ -511,14 +666,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Behandar",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Behandar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465378",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.behandar.har@gmail.com",
       "covers": [
         "behandar"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-behandar",
@@ -541,14 +704,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bharawan",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bharawan",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465380",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.bharawan.har@gmail.com",
       "covers": [
         "bharawan"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-bharawan",
@@ -571,14 +742,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kothawan",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kothawan",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465376",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.kothawan.har@gmail.com",
       "covers": [
         "kothawan"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-kothawan",
@@ -601,14 +780,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Pihani",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pihani",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465364",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.pihani.har@gmail.com",
       "covers": [
         "pihani"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-pihani",
@@ -631,14 +818,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Shahabad",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shahabad",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465362",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.shahabad.har@gmail.com",
       "covers": [
         "shahabad"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-shahabad",
@@ -661,14 +856,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bharkhani",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bharkhani",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465365",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.bharkhani.har@gmail.com",
       "covers": [
         "bharkhani"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-bharkhani",
@@ -691,14 +894,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Hariyawan",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hariyawan",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465370",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.hariyawan.har@gmail.com",
       "covers": [
         "hariyawan"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-hariyawan",
@@ -721,14 +932,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Toderpur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Toderpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465363",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/block-details/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.toderpur.har@gmail.com",
       "covers": [
         "toderpur"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/block-details/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hardoi-ado-toderpur",
@@ -751,13 +970,285 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Hardoi",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका हरदोई",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8189078273",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-hardoi-main"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-hardoi-eo-bilgram",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Bilgram",
+      "office_name_hi": "अधिशासी अधिकारी, Bilgram",
+      "phones": [
+        {
+          "number": "8189078278",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-bilgram"
+      ],
+      "source_url": "https://hardoi.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-hardoi-eo-mallawan",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Mallawan",
+      "office_name_hi": "अधिशासी अधिकारी, Mallawan",
+      "phones": [
+        {
+          "number": "8189078279",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-mallawan"
+      ],
+      "source_url": "https://hardoi.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-hardoi-eo-sandi",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Sandi",
+      "office_name_hi": "अधिशासी अधिकारी, Sandi",
+      "phones": [
+        {
+          "number": "8189078276",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-sandi"
+      ],
+      "source_url": "https://hardoi.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-hardoi-eo-shahabad",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Shahabad",
+      "office_name_hi": "अधिशासी अधिकारी, Shahabad",
+      "phones": [
+        {
+          "number": "8189078274",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-shahabad"
+      ],
+      "source_url": "https://hardoi.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-hardoi-eo-pihani",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Pihani",
+      "office_name_hi": "अधिशासी अधिकारी, Pihani",
+      "phones": [
+        {
+          "number": "8189078277",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-pihani"
+      ],
+      "source_url": "https://hardoi.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-hardoi-eo-sandila",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Sandila",
+      "office_name_hi": "अधिशासी अधिकारी, Sandila",
+      "phones": [
+        {
+          "number": "8189078275",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-sandila"
+      ],
+      "source_url": "https://hardoi.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-hardoi-eo-pali",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Pali",
+      "office_name_hi": "अधिशासी अधिकारी, Pali",
+      "phones": [
+        {
+          "number": "8189078281",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-pali"
+      ],
+      "source_url": "https://hardoi.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-hardoi-eo-madhoganj",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Madhoganj",
+      "office_name_hi": "अधिशासी अधिकारी, Madhoganj",
+      "phones": [
+        {
+          "number": "8189078285",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-madhoganj"
+      ],
+      "source_url": "https://hardoi.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-hardoi-eo-kursath",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Kursath",
+      "office_name_hi": "अधिशासी अधिकारी, Kursath",
+      "phones": [
+        {
+          "number": "8189078284",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-kursath"
+      ],
+      "source_url": "https://hardoi.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-hardoi-eo-kachauna-patsaini",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Kachauna Patsaini",
+      "office_name_hi": "अधिशासी अधिकारी, Kachauna Patsaini",
+      "phones": [
+        {
+          "number": "8189078283",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-kachauna-patsaini"
+      ],
+      "source_url": "https://hardoi.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-hardoi-eo-gopamau",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Gopamau",
+      "office_name_hi": "अधिशासी अधिकारी, Gopamau",
+      "phones": [
+        {
+          "number": "8189078280",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-gopamau"
+      ],
+      "source_url": "https://hardoi.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-hardoi-eo-beniganj",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Beniganj",
+      "office_name_hi": "अधिशासी अधिकारी, Beniganj",
+      "phones": [
+        {
+          "number": "8189078282",
+          "type": "office",
+          "source_url": "https://hardoi.nic.in/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-beniganj"
+      ],
+      "source_url": "https://hardoi.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
     }
   ]
 }

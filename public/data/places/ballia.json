@@ -4390,11 +4390,131 @@
     "id": "ward-ballia-ulb-ballia-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Ballia (All Wards)",
-    "name_hi": "बलिया नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका बलिया (सभी वार्ड)",
     "ulb_id": "ulb-ballia-main",
     "tehsil_id": "sadar",
     "district_id": "ballia",
     "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-ballia-ulb-rasra",
+    "type": "ward",
+    "name_en": "Nagar Palika Prishad, Rasra (All Wards)",
+    "name_hi": "Nagar Palika Prishad, Rasra (सभी वार्ड)",
+    "ulb_id": "ulb-rasra",
+    "tehsil_id": "rasra",
+    "district_id": "ballia",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-ballia-ulb-chitbadagaon",
+    "type": "ward",
+    "name_en": "Nagar Panchayat, Chitbadagaon, (All Wards)",
+    "name_hi": "Nagar Panchayat, Chitbadagaon, (सभी वार्ड)",
+    "ulb_id": "ulb-chitbadagaon",
+    "tehsil_id": "sadar",
+    "district_id": "ballia",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-ballia-ulb-ratsar-kala",
+    "type": "ward",
+    "name_en": "Nagar Panchayat,Ratsar Kala (All Wards)",
+    "name_hi": "Nagar Panchayat,Ratsar Kala (सभी वार्ड)",
+    "ulb_id": "ulb-ratsar-kala",
+    "tehsil_id": "sadar",
+    "district_id": "ballia",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-ballia-ulb-bairia",
+    "type": "ward",
+    "name_en": "Nagar Panchayat, Bairia (All Wards)",
+    "name_hi": "Nagar Panchayat, Bairia (सभी वार्ड)",
+    "ulb_id": "ulb-bairia",
+    "tehsil_id": "bairia",
+    "district_id": "ballia",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-ballia-ulb-rewati",
+    "type": "ward",
+    "name_en": "Nagar Panchayat, Rewati (All Wards)",
+    "name_hi": "Nagar Panchayat, Rewati (सभी वार्ड)",
+    "ulb_id": "ulb-rewati",
+    "tehsil_id": "sadar",
+    "district_id": "ballia",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-ballia-ulb-sikendarpur",
+    "type": "ward",
+    "name_en": "Nagar Panchayat, Sikendarpur (All Wards)",
+    "name_hi": "Nagar Panchayat, Sikendarpur (सभी वार्ड)",
+    "ulb_id": "ulb-sikendarpur",
+    "tehsil_id": "sadar",
+    "district_id": "ballia",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-ballia-ulb-belthra-road",
+    "type": "ward",
+    "name_en": "Nagar Panchayat, Belthra Road (All Wards)",
+    "name_hi": "Nagar Panchayat, Belthra road (सभी वार्ड)",
+    "ulb_id": "ulb-belthra-road",
+    "tehsil_id": "sadar",
+    "district_id": "ballia",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-ballia-ulb-nagara",
+    "type": "ward",
+    "name_en": "Nagar Panchayat,Nagara (All Wards)",
+    "name_hi": "Nagar Panchayat,Nagara (सभी वार्ड)",
+    "ulb_id": "ulb-nagara",
+    "tehsil_id": "sadar",
+    "district_id": "ballia",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-ballia-ulb-bansdih",
+    "type": "ward",
+    "name_en": "Nagar Panchayat,Bansdih (All Wards)",
+    "name_hi": "Nagar Panchayat,Bansdih (सभी वार्ड)",
+    "ulb_id": "ulb-bansdih",
+    "tehsil_id": "bansdih",
+    "district_id": "ballia",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-ballia-ulb-maniyar",
+    "type": "ward",
+    "name_en": "Nagar Panchayat, Maniyar (All Wards)",
+    "name_hi": "Nagar Panchayat, Maniyar (सभी वार्ड)",
+    "ulb_id": "ulb-maniyar",
+    "tehsil_id": "sadar",
+    "district_id": "ballia",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-ballia-ulb-sahatwar",
+    "type": "ward",
+    "name_en": "Nagar Panchayat,Sahatwar (All Wards)",
+    "name_hi": "Nagar Panchayat,Sahatwar (सभी वार्ड)",
+    "ulb_id": "ulb-sahatwar",
+    "tehsil_id": "sadar",
+    "district_id": "ballia",
+    "local_body_type": "nagar_panchayat"
+  },
+  {
+    "id": "ward-ballia-ulb-sikandarapur",
+    "type": "ward",
+    "name_en": "Nagar Panchayat, Sikandarapur (All Wards)",
+    "name_hi": "नगर पंचायत, सिकंदरपुर (सभी वार्ड)",
+    "ulb_id": "ulb-sikandarapur",
+    "tehsil_id": "sadar",
+    "district_id": "ballia",
+    "local_body_type": "nagar_panchayat"
   },
   {
     "id": "town-ballia-ballia",
@@ -4414,8 +4534,8 @@
     "type": "ward",
     "name_en": "RASRA (Urban Ward / SO)",
     "name_hi": "RASRA (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ballia-main",
-    "tehsil_id": "sadar",
+    "ulb_id": "ulb-rasra",
+    "tehsil_id": "rasra",
     "district_id": "ballia",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -4519,7 +4639,7 @@
     "name_en": "Sikanderpur Bus Stand (Urban Ward / SO)",
     "name_hi": "Sikanderpur Bus Stand (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-ballia-main",
-    "tehsil_id": "sadar",
+    "tehsil_id": "sikanderpur",
     "district_id": "ballia",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -4583,10 +4703,10 @@
     "type": "ward",
     "name_en": "Bansdih Road (Urban Ward / SO)",
     "name_hi": "Bansdih Road (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ballia-main",
-    "tehsil_id": "sadar",
+    "ulb_id": "ulb-bansdih",
+    "tehsil_id": "bansdih",
     "district_id": "ballia",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "277203"
     ]
@@ -4687,8 +4807,8 @@
     "type": "ward",
     "name_en": "Rasra Town (Urban Ward / SO)",
     "name_hi": "Rasra Town (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ballia-main",
-    "tehsil_id": "sadar",
+    "ulb_id": "ulb-rasra",
+    "tehsil_id": "rasra",
     "district_id": "ballia",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -4817,10 +4937,10 @@
     "type": "ward",
     "name_en": "RATSAR (Urban Ward / SO)",
     "name_hi": "RATSAR (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ballia-main",
+    "ulb_id": "ulb-ratsar-kala",
     "tehsil_id": "sadar",
     "district_id": "ballia",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "277123"
     ]
@@ -4830,10 +4950,10 @@
     "type": "ward",
     "name_en": "Sahatwar (Urban Ward / SO)",
     "name_hi": "Sahatwar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ballia-main",
+    "ulb_id": "ulb-sahatwar",
     "tehsil_id": "sadar",
     "district_id": "ballia",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "277211"
     ]
@@ -4844,7 +4964,7 @@
     "name_en": "SIKANDERPUR (Urban Ward / SO)",
     "name_hi": "SIKANDERPUR (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-ballia-main",
-    "tehsil_id": "sadar",
+    "tehsil_id": "sikanderpur",
     "district_id": "ballia",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [
@@ -4895,10 +5015,10 @@
     "type": "ward",
     "name_en": "Bairia SO Ballia (Urban Ward / SO)",
     "name_hi": "Bairia SO Ballia (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ballia-main",
-    "tehsil_id": "sadar",
+    "ulb_id": "ulb-bairia",
+    "tehsil_id": "bairia",
     "district_id": "ballia",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "277201"
     ]
@@ -4908,10 +5028,10 @@
     "type": "ward",
     "name_en": "Bansdih (Urban Ward / SO)",
     "name_hi": "Bansdih (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ballia-main",
-    "tehsil_id": "sadar",
+    "ulb_id": "ulb-bansdih",
+    "tehsil_id": "bansdih",
     "district_id": "ballia",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "277202"
     ]

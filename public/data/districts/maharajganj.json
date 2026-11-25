@@ -23,13 +23,27 @@
           "source_url": "https://maharajganj.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "05523-222044",
+          "type": "landline",
+          "source_url": "https://maharajganj.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05523-222206",
+          "type": "landline",
+          "source_url": "https://maharajganj.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmmah@nic.in",
       "covers": [
         "maharajganj"
       ],
-      "source_url": "https://maharajganj.nic.in/whos-who/",
+      "source_url": "https://maharajganj.nic.in/directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Collectorate Campus, Maharajganj"
@@ -54,13 +68,20 @@
           "source_url": "https://maharajganj.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "05523-222212",
+          "type": "landline",
+          "source_url": "https://maharajganj.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "cdo.mg-up@gov.in",
       "covers": [
         "maharajganj"
       ],
-      "source_url": "https://maharajganj.nic.in/whos-who/",
+      "source_url": "https://maharajganj.nic.in/directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Mr. Mahendra Kumar Singh",
@@ -87,7 +108,8 @@
       ],
       "source_url": "https://maharajganj.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "जिला पंचायत राज अधिकारी"
     },
     {
       "id": "up-maharajganj-sdm-sadar",
@@ -132,6 +154,13 @@
           "source_url": "https://maharajganj.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454416302",
+          "type": "office",
+          "source_url": "https://maharajganj.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdm.nautanwa.mrg-up@gov.in",
@@ -155,6 +184,13 @@
           "source_url": "https://maharajganj.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454416301",
+          "type": "office",
+          "source_url": "https://maharajganj.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdm.nichlaul.mrg-up@gov.in",
@@ -177,6 +213,13 @@
           "type": "cug",
           "source_url": "https://maharajganj.nic.in",
           "checked_on": "2026-11-20",
+          "status": "verified"
+        },
+        {
+          "number": "9454416300",
+          "type": "office",
+          "source_url": "https://maharajganj.nic.in/directory/",
+          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -558,9 +601,10 @@
       "covers": [
         "ulb-maharajganj-main"
       ],
-      "source_url": "https://maharajganj.nic.in/whos-who/",
+      "source_url": "https://maharajganj.nic.in/public-utility-category/municipality/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "BESMIL NAGAR WARD, MAHARAJGANJ, UTTAR PRADESH - 273303 Pincode : 273303"
     }
   ]
 }

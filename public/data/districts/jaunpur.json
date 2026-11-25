@@ -15,13 +15,20 @@
           "source_url": "https://jaunpur.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "05452-260230",
+          "type": "landline",
+          "source_url": "https://jaunpur.nic.in/hi/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a5%87-%e0%a4%95%e0%a5%87-%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmjau@nic.in",
       "covers": [
         "jaunpur"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a5%87-%e0%a4%95%e0%a5%87-%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Umesh Mishra",
@@ -84,7 +91,7 @@
       "covers": [
         "sadar"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -107,7 +114,7 @@
       "covers": [
         "shahganj"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -117,14 +124,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Machhlishahr",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Machhlishahr",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417110",
+          "type": "office",
+          "source_url": "https://jaunpur.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.machhlishahr.jnp-up@gov.in",
       "covers": [
         "machhlishahr"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-sdm-badlapur",
@@ -145,7 +160,7 @@
       "covers": [
         "badlapur"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "SDM Badlapur",
@@ -185,7 +200,7 @@
       "covers": [
         "kerakat"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -269,7 +284,7 @@
       "covers": [
         "dharmapur"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -338,7 +353,7 @@
       "covers": [
         "sikrara"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -407,7 +422,7 @@
       "covers": [
         "baksha"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -476,7 +491,7 @@
       "covers": [
         "sirkoni"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -545,7 +560,7 @@
       "covers": [
         "jalalpur"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -614,7 +629,7 @@
       "covers": [
         "muftiganj"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -683,7 +698,7 @@
       "covers": [
         "kerakat"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -752,7 +767,7 @@
       "covers": [
         "dobhi"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -882,7 +897,7 @@
       "covers": [
         "barsathi"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -951,7 +966,7 @@
       "covers": [
         "rampur"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -1007,14 +1022,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Machhlishahr",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Machhlishahr",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465270",
+          "type": "office",
+          "source_url": "https://jaunpur.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.machhlishahr.jnp@gmail.com",
       "covers": [
         "machhlishahr"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-ado-machhlishahr",
@@ -1142,7 +1165,7 @@
       "covers": [
         "sujanganj"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -1211,7 +1234,7 @@
       "covers": [
         "maharajganj"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -1280,7 +1303,7 @@
       "covers": [
         "badlapur"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -1410,7 +1433,7 @@
       "covers": [
         "shahganj"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -1527,14 +1550,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Khutahan",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khutahan",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465264",
+          "type": "office",
+          "source_url": "https://jaunpur.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.khutahan.jnp@gmail.com",
       "covers": [
         "khutahan"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-ado-khutahan",
@@ -1592,11 +1623,35 @@
       "covers": [
         "ulb-jaunpur-main"
       ],
-      "source_url": "https://jaunpur.nic.in/directory/",
+      "source_url": "https://jaunpur.nic.in/hi/public-utility-category/%E0%A4%A8%E0%A4%97%E0%A4%B0-%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%BE/page/2/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "BDO Ramnagar",
       "address_en": "Ramnagar, Jaunpur"
+    },
+    {
+      "id": "up-jaunpur-eo-nagar-panchayat-kerakat",
+      "level": "ulb",
+      "role": "eo",
+      "office_name_en": "Executive Officer, Nagar Panchayat Kerakat",
+      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat Kerakat",
+      "phones": [
+        {
+          "number": "05450-242002",
+          "type": "landline",
+          "source_url": "https://jaunpur.nic.in/public-utility-category/municipality/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ulb-nagar-panchayat-kerakat"
+      ],
+      "source_url": "https://jaunpur.nic.in/village-panchayats/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "address_en": "Mohalla- Golaward, Kerakat Phone : 05450-242002",
+      "officer_name_en": "Abahadpur"
     }
   ]
 }

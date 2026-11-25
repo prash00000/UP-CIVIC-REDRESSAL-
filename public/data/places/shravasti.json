@@ -1374,11 +1374,31 @@
     "id": "ward-shravasti-ulb-shravasti-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Shravasti (All Wards)",
-    "name_hi": "श्रावस्ती नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका श्रावस्ती (सभी वार्ड)",
     "ulb_id": "ulb-shravasti-main",
     "tehsil_id": "bhinga",
     "district_id": "shravasti",
     "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-shravasti-ulb-bhinaga",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad, Bhinaga (All Wards)",
+    "name_hi": "नगर पालिका परिषद, भिनगा (सभी वार्ड)",
+    "ulb_id": "ulb-bhinaga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-shravasti-ulb-ikauna",
+    "type": "ward",
+    "name_en": "Nagar Panchayat Ikauna (All Wards)",
+    "name_hi": "नगर पंचायत इकौना (सभी वार्ड)",
+    "ulb_id": "ulb-ikauna",
+    "tehsil_id": "ikouna",
+    "district_id": "shravasti",
+    "local_body_type": "nagar_panchayat"
   },
   {
     "id": "town-shravasti-gilaula",
@@ -1398,10 +1418,10 @@
     "type": "ward",
     "name_en": "Ikauna (Urban Ward / SO)",
     "name_hi": "Ikauna (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-shravasti-main",
-    "tehsil_id": "bhinga",
+    "ulb_id": "ulb-ikauna",
+    "tehsil_id": "ikouna",
     "district_id": "shravasti",
-    "local_body_type": "nagar_palika_parishad",
+    "local_body_type": "nagar_panchayat",
     "pincodes": [
       "271845"
     ]

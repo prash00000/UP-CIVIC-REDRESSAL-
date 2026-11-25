@@ -2573,8 +2573,338 @@
     "id": "ward-kanpur-nagar-ulb-kanpur-nagar-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Kanpur Nagar (All Wards)",
-    "name_hi": "कानपुर नगर नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका कानपुर नगर (सभी वार्ड)",
     "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-kanpur-municipality-corporation",
+    "type": "ward",
+    "name_en": "Kanpur Municipality Corporation (All Wards)",
+    "name_hi": "Kanpur Municipality Corporation (सभी वार्ड)",
+    "ulb_id": "ulb-kanpur-municipality-corporation",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-kampani-rajistrar",
+    "type": "ward",
+    "name_en": "Kampani Rajistrar (All Wards)",
+    "name_hi": "कम्पनी रजिस्ट्रार (सभी वार्ड)",
+    "ulb_id": "ulb-kampani-rajistrar",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-kshetriy-lekha-karyalay",
+    "type": "ward",
+    "name_en": "Kshetriy Lekha Karyalay (All Wards)",
+    "name_hi": "क्षेत्रीय लेखा कार्यालय (सभी वार्ड)",
+    "ulb_id": "ulb-kshetriy-lekha-karyalay",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-kshetriy-shram-sansthan-sarvoday",
+    "type": "ward",
+    "name_en": "Kshetriy Shram Sansthan Sarvoday Nagar (All Wards)",
+    "name_hi": "क्षेत्रीय श्रम संस्थान सर्वोदय नगर (सभी वार्ड)",
+    "ulb_id": "ulb-kshetriy-shram-sansthan-sarvoday",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-rashtriy-kaushal-prashikshan-sansthan",
+    "type": "ward",
+    "name_en": "Rashtriy Kaushal Prashikshan Sansthan (All Wards)",
+    "name_hi": "राष्ट्रीय कौशल प्रशिक्षण संस्थान (सभी वार्ड)",
+    "ulb_id": "ulb-rashtriy-kaushal-prashikshan-sansthan",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-sthaniy-lekhapariksha-karyalay",
+    "type": "ward",
+    "name_en": "Sthaniy Lekhapariksha Karyalay (All Wards)",
+    "name_hi": "स्थानीय लेखापरीक्षा कार्यालय (सभी वार्ड)",
+    "ulb_id": "ulb-sthaniy-lekhapariksha-karyalay",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-tahasiladar-sadar",
+    "type": "ward",
+    "name_en": "Tahasiladar Sadar (All Wards)",
+    "name_hi": "तहसीलदार सदर (सभी वार्ड)",
+    "ulb_id": "ulb-tahasiladar-sadar",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-tahasiladar-bilhaur",
+    "type": "ward",
+    "name_en": "Tahasiladar Bilhaur (All Wards)",
+    "name_hi": "तहसीलदार बिल्हौर (सभी वार्ड)",
+    "ulb_id": "ulb-tahasiladar-bilhaur",
+    "tehsil_id": "bilhaur",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-tahasiladar-ghatamapur",
+    "type": "ward",
+    "name_en": "Tahasiladar Ghatamapur (All Wards)",
+    "name_hi": "तहसीलदार घाटमपुर (सभी वार्ड)",
+    "ulb_id": "ulb-tahasiladar-ghatamapur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-naib-tahasiladar-sanchendi",
+    "type": "ward",
+    "name_en": "Naib Tahasiladar Sanchendi (All Wards)",
+    "name_hi": "नाइब तहसीलदार संचेन्दी (सभी वार्ड)",
+    "ulb_id": "ulb-naib-tahasiladar-sanchendi",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-naib-tahasiladar-pali",
+    "type": "ward",
+    "name_en": "Naib Tahasiladar Pali (All Wards)",
+    "name_hi": "नाइब तहसीलदार पाली (सभी वार्ड)",
+    "ulb_id": "ulb-naib-tahasiladar-pali",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-naib-tahasiladar-naraval",
+    "type": "ward",
+    "name_en": "Naib Tahasiladar Naraval (All Wards)",
+    "name_hi": "नाइब तहसीलदार नरवल (सभी वार्ड)",
+    "ulb_id": "ulb-naib-tahasiladar-naraval",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-naib-tahasiladar-maharajapur",
+    "type": "ward",
+    "name_en": "Naib Tahasiladar Maharajapur (All Wards)",
+    "name_hi": "नाइब तहसीलदार महाराजपुर (सभी वार्ड)",
+    "ulb_id": "ulb-naib-tahasiladar-maharajapur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-naib-tahasiladar-bilhaur",
+    "type": "ward",
+    "name_en": "Naib Tahasiladar Bilhaur (All Wards)",
+    "name_hi": "नाइब तहसीलदार बिल्हौर (सभी वार्ड)",
+    "ulb_id": "ulb-naib-tahasiladar-bilhaur",
+    "tehsil_id": "bilhaur",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-naib-tahasiladar-bilhaur-shivarajapur",
+    "type": "ward",
+    "name_en": "Naib Tahasiladar Bilhaur Shivarajapur (All Wards)",
+    "name_hi": "नाइब तहसीलदार बिल्हौर शिवराजपुर (सभी वार्ड)",
+    "ulb_id": "ulb-naib-tahasiladar-bilhaur-shivarajapur",
+    "tehsil_id": "bilhaur",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-naib-tahasiladar-ghatamapur-puravi",
+    "type": "ward",
+    "name_en": "Naib Tahasiladar Ghatamapur Puravi (All Wards)",
+    "name_hi": "नाइब तहसीलदार घाटमपुर पुरवी (सभी वार्ड)",
+    "ulb_id": "ulb-naib-tahasiladar-ghatamapur-puravi",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-naib-tahasiladar-ghatamapur-pashchim",
+    "type": "ward",
+    "name_en": "Naib Tahasiladar Ghatamapur Pashchim (All Wards)",
+    "name_hi": "नाइब तहसीलदार घाटमपुर पश्चिम (सभी वार्ड)",
+    "ulb_id": "ulb-naib-tahasiladar-ghatamapur-pashchim",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-project-director-drda",
+    "type": "ward",
+    "name_en": "Project Director , DRDA (All Wards)",
+    "name_hi": "Project Director , DRDA (सभी वार्ड)",
+    "ulb_id": "ulb-project-director-drda",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-ema-esa-ema-i-vikas-karyalay",
+    "type": "ward",
+    "name_en": "Ema Esa Ema I Vikas Karyalay (All Wards)",
+    "name_hi": "एम० एस० एम० ई० विकास कार्यालय (सभी वार्ड)",
+    "ulb_id": "ulb-ema-esa-ema-i-vikas-karyalay",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-tehsildar-sadar",
+    "type": "ward",
+    "name_en": "Tehsildar Sadar (All Wards)",
+    "name_hi": "Tehsildar Sadar (सभी वार्ड)",
+    "ulb_id": "ulb-tehsildar-sadar",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-tehsildar-bilhaur",
+    "type": "ward",
+    "name_en": "Tehsildar Bilhaur (All Wards)",
+    "name_hi": "Tehsildar Bilhaur (सभी वार्ड)",
+    "ulb_id": "ulb-tehsildar-bilhaur",
+    "tehsil_id": "bilhaur",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-tehsildar-ghatampur",
+    "type": "ward",
+    "name_en": "Tehsildar Ghatampur (All Wards)",
+    "name_hi": "Tehsildar Ghatampur (सभी वार्ड)",
+    "ulb_id": "ulb-tehsildar-ghatampur",
+    "tehsil_id": "ghatampur",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-naib-tehsildar-sanchendi",
+    "type": "ward",
+    "name_en": "Naib Tehsildar Sanchendi (All Wards)",
+    "name_hi": "Naib Tehsildar Sanchendi (सभी वार्ड)",
+    "ulb_id": "ulb-naib-tehsildar-sanchendi",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-naib-tehsildar-pali",
+    "type": "ward",
+    "name_en": "Naib Tehsildar Pali (All Wards)",
+    "name_hi": "Naib Tehsildar Pali (सभी वार्ड)",
+    "ulb_id": "ulb-naib-tehsildar-pali",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-naib-tehsildar-narwal",
+    "type": "ward",
+    "name_en": "Naib Tehsildar Narwal (All Wards)",
+    "name_hi": "Naib Tehsildar Narwal (सभी वार्ड)",
+    "ulb_id": "ulb-naib-tehsildar-narwal",
+    "tehsil_id": "narwal",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-naib-tehsildar-maharajpur",
+    "type": "ward",
+    "name_en": "Naib Tehsildar Maharajpur (All Wards)",
+    "name_hi": "Naib Tehsildar Maharajpur (सभी वार्ड)",
+    "ulb_id": "ulb-naib-tehsildar-maharajpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-naib-tehsildar-bilhaur",
+    "type": "ward",
+    "name_en": "Naib Tehsildar Bilhaur (All Wards)",
+    "name_hi": "Naib Tehsildar Bilhaur (सभी वार्ड)",
+    "ulb_id": "ulb-naib-tehsildar-bilhaur",
+    "tehsil_id": "bilhaur",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-naib-tehsildar-bilhaur-shivrajpur",
+    "type": "ward",
+    "name_en": "Naib Tehsildar Bilhaur Shivrajpur (All Wards)",
+    "name_hi": "Naib Tehsildar Bilhaur Shivrajpur (सभी वार्ड)",
+    "ulb_id": "ulb-naib-tehsildar-bilhaur-shivrajpur",
+    "tehsil_id": "bilhaur",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-naib-tehsildar-ghatampur-purvi",
+    "type": "ward",
+    "name_en": "Naib Tehsildar Ghatampur Purvi (All Wards)",
+    "name_hi": "Naib Tehsildar Ghatampur Purvi (सभी वार्ड)",
+    "ulb_id": "ulb-naib-tehsildar-ghatampur-purvi",
+    "tehsil_id": "ghatampur",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-naib-tehsildar-ghatampur-pashchmi",
+    "type": "ward",
+    "name_en": "Naib Tehsildar Ghatampur Pashchmi (All Wards)",
+    "name_hi": "Naib Tehsildar Ghatampur Pashchmi (सभी वार्ड)",
+    "ulb_id": "ulb-naib-tehsildar-ghatampur-pashchmi",
+    "tehsil_id": "ghatampur",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-esadiem-sadar",
+    "type": "ward",
+    "name_en": "Esadiem Sadar (All Wards)",
+    "name_hi": "एसडीएम सदर (सभी वार्ड)",
+    "ulb_id": "ulb-esadiem-sadar",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-esadiem-bilhaur",
+    "type": "ward",
+    "name_en": "Esadiem Bilhaur (All Wards)",
+    "name_hi": "एसडीएम बिल्हौर (सभी वार्ड)",
+    "ulb_id": "ulb-esadiem-bilhaur",
+    "tehsil_id": "bilhaur",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-esadiem-ghatamapur",
+    "type": "ward",
+    "name_en": "Esadiem Ghatamapur (All Wards)",
+    "name_hi": "एसडीएम घाटमपुर (सभी वार्ड)",
+    "ulb_id": "ulb-esadiem-ghatamapur",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
     "local_body_type": "nagar_palika_parishad"
@@ -2587,7 +2917,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208001"
     ]
@@ -2600,7 +2930,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208004"
     ]
@@ -2626,7 +2956,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208001"
     ]
@@ -2652,7 +2982,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208013"
     ]
@@ -2782,7 +3112,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208013"
     ]
@@ -2795,7 +3125,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208001"
     ]
@@ -2870,10 +3200,10 @@
     "type": "ward",
     "name_en": "BILHAUR (Urban Ward / SO)",
     "name_hi": "BILHAUR (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-kanpur-nagar-main",
-    "tehsil_id": "sadar",
+    "ulb_id": "ulb-naib-tahasiladar-bilhaur-shivarajapur",
+    "tehsil_id": "bilhaur",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "209202"
     ]
@@ -2883,10 +3213,10 @@
     "type": "ward",
     "name_en": "Ghatampur (Urban Ward / SO)",
     "name_hi": "Ghatampur (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-kanpur-nagar-main",
-    "tehsil_id": "sadar",
+    "ulb_id": "ulb-naib-tehsildar-ghatampur-pashchmi",
+    "tehsil_id": "ghatampur",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "209206"
     ]
@@ -2925,7 +3255,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208012"
     ]
@@ -2938,7 +3268,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208012"
     ]
@@ -3068,7 +3398,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208001"
     ]
@@ -3081,7 +3411,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208017"
     ]
@@ -3146,7 +3476,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208026"
     ]
@@ -3159,7 +3489,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208017"
     ]
@@ -3185,7 +3515,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208002"
     ]
@@ -3198,7 +3528,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208011"
     ]
@@ -3250,7 +3580,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208006"
     ]
@@ -3263,7 +3593,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208007"
     ]
@@ -3419,7 +3749,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208001"
     ]
@@ -3471,7 +3801,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208020"
     ]
@@ -3484,7 +3814,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208012"
     ]
@@ -3510,7 +3840,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208005"
     ]
@@ -3523,7 +3853,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208011"
     ]
@@ -3624,10 +3954,10 @@
     "type": "ward",
     "name_en": "Narwal (Urban Ward / SO)",
     "name_hi": "Narwal (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-kanpur-nagar-main",
-    "tehsil_id": "sadar",
+    "ulb_id": "ulb-naib-tehsildar-narwal",
+    "tehsil_id": "narwal",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "209401"
     ]
@@ -3731,7 +4061,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208005"
     ]
@@ -3744,7 +4074,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208001"
     ]
@@ -3770,7 +4100,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208002"
     ]
@@ -3809,7 +4139,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208002"
     ]
@@ -3861,7 +4191,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208012"
     ]
@@ -3926,7 +4256,7 @@
     "ulb_id": "ulb-kanpur-nagar-main",
     "tehsil_id": "sadar",
     "district_id": "kanpur-nagar",
-    "local_body_type": "nagar_nigam",
+    "local_body_type": "nagar_palika_parishad",
     "pincodes": [
       "208022"
     ]

@@ -1631,8 +1631,18 @@
     "id": "ward-kaushambi-ulb-kaushambi-main",
     "type": "ward",
     "name_en": "Nagar Palika Parishad Kaushambi (All Wards)",
-    "name_hi": "कौशाम्बी नगरीय निकाय (सभी वार्ड)",
+    "name_hi": "नगर पालिका कौशाम्बी (सभी वार्ड)",
     "ulb_id": "ulb-kaushambi-main",
+    "tehsil_id": "manjhanpur",
+    "district_id": "kaushambi",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "ward-kaushambi-ulb-bharwari",
+    "type": "ward",
+    "name_en": "NAGAR PALIKA PARISHAD BHARWARI (All Wards)",
+    "name_hi": "NAGAR PALIKA PARISHAD BHARWARI (सभी वार्ड)",
+    "ulb_id": "ulb-bharwari",
     "tehsil_id": "manjhanpur",
     "district_id": "kaushambi",
     "local_body_type": "nagar_palika_parishad"
@@ -1655,7 +1665,7 @@
     "type": "ward",
     "name_en": "Bharwari SO Kaushambi (Urban Ward / SO)",
     "name_hi": "Bharwari SO Kaushambi (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-kaushambi-main",
+    "ulb_id": "ulb-bharwari",
     "tehsil_id": "manjhanpur",
     "district_id": "kaushambi",
     "local_body_type": "nagar_palika_parishad",
@@ -1721,7 +1731,7 @@
     "name_en": "Sirathu (Urban Ward / SO)",
     "name_hi": "Sirathu (शहरी वार्ड क्षेत्र)",
     "ulb_id": "ulb-kaushambi-main",
-    "tehsil_id": "manjhanpur",
+    "tehsil_id": "sirathu",
     "district_id": "kaushambi",
     "local_body_type": "nagar_palika_parishad",
     "pincodes": [

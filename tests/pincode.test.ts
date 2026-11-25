@@ -2,33 +2,43 @@ import { describe, it, expect } from "vitest";
 import pincodesData from "../public/data/pincodes.json";
 import districtsData from "../public/data/districts.json";
 import { PincodeMap } from "../lib/types";
-import { resolvePincode } from "../lib/pincode";
+import { resolvePincode, normalizeUpDistrictSlug } from "../lib/pincode";
 
 describe("Pincode Search & Directory Parity Tests", () => {
   const pincodes = pincodesData as unknown as PincodeMap;
   const validDistrictIds = new Set(districtsData.map((d: any) => d.id));
 
-  it("should have comprehensive statewide coverage of 700+ UP pincodes", () => {
+  it("should have complete official India Post coverage of 1,500+ UP pincodes across all 75 districts", () => {
     const totalPins = Object.keys(pincodes).length;
-    expect(totalPins).toBeGreaterThanOrEqual(700);
+    expect(totalPins).toBeGreaterThanOrEqual(1500);
+
+    const covered = new Set<string>();
+    for (const entries of Object.values(pincodes)) {
+      for (const e of entries) covered.add(e.district_id);
+    }
+    expect(covered.size).toBe(75);
   });
 
-  it("should resolve single district PIN codes properly", () => {
-    // Lucknow
-    expect(pincodes["226001"]).toBeDefined();
-    expect(pincodes["226001"][0].district_id).toBe("lucknow");
+  it("should resolve real UP PIN codes directly (including formerly missed districts & cross-circle PINs)", () => {
+    // Lucknow (Aliganj - 226024 & GPO - 226001)
+    expect(resolvePincode("226001", pincodes).kind).toBe("exact");
+    expect(resolvePincode("226024", pincodes).kind).toBe("exact");
+    expect(resolvePincode("226024", pincodes).matches[0].district_id).toBe("lucknow");
 
-    // Jaunpur
-    expect(pincodes["222001"]).toBeDefined();
-    expect(pincodes["222001"][0].district_id).toBe("jaunpur");
+    // Kanpur Nagar
+    const kanpur = resolvePincode("208005", pincodes);
+    expect(kanpur.kind).toBe("exact");
+    expect(kanpur.matches[0].district_id).toBe("kanpur-nagar");
 
-    // Varanasi
-    expect(pincodes["221001"]).toBeDefined();
-    expect(pincodes["221001"][0].district_id).toBe("varanasi");
+    // Azamgarh (223xxx prefix previously missing)
+    const azamgarh = resolvePincode("223221", pincodes);
+    expect(azamgarh.kind).toBe("exact");
+    expect(azamgarh.matches[0].district_id).toBe("azamgarh");
 
-    // Agra
-    expect(pincodes["282001"]).toBeDefined();
-    expect(pincodes["282001"][0].district_id).toBe("agra");
+    // Cross-circle border UP PIN (Sheopur Diar, Ballia -> 802131)
+    const balliaBorder = resolvePincode("802131", pincodes);
+    expect(balliaBorder.kind).toBe("exact");
+    expect(balliaBorder.matches[0].district_id).toBe("ballia");
   });
 
   it("should support multi-district border PIN codes (e.g. 201001)", () => {
@@ -52,23 +62,21 @@ describe("Pincode Search & Directory Parity Tests", () => {
     }
   });
 
-  it("should resolve exact PINs and 3-digit postal prefixes for any UP PIN", () => {
-    const exactLucknow = resolvePincode("226001", pincodes);
-    expect(exactLucknow.kind).toBe("exact");
-    expect(exactLucknow.matches[0].district_id).toBe("lucknow");
-
-    // Prefix fallback when exact 6-digit PIN is not sampled (e.g. 226024, 208005)
-    const prefixLucknow = resolvePincode("226024", pincodes);
+  it("should fall back to 3-digit postal prefix for unlisted UP suffixes and reject out-of-state prefixes", () => {
+    const prefixLucknow = resolvePincode("226099", pincodes);
     expect(prefixLucknow.kind).toBe("prefix");
     expect(prefixLucknow.matches.map((m) => m.district_id)).toContain("lucknow");
 
-    const prefixKanpur = resolvePincode("208005", pincodes);
-    expect(prefixKanpur.kind).toBe("prefix");
-    expect(prefixKanpur.matches[0].district_id).toBe("kanpur-nagar");
-
-    // Out-of-state PIN rejected
     const delhiPin = resolvePincode("110001", pincodes);
     expect(delhiPin.kind).toBe("invalid_prefix");
     expect(delhiPin.matches).toEqual([]);
+  });
+
+  it("should normalize historical and India Post UP district aliases accurately", () => {
+    expect(normalizeUpDistrictSlug("Allahabad")).toBe("prayagraj");
+    expect(normalizeUpDistrictSlug("Faizabad")).toBe("ayodhya");
+    expect(normalizeUpDistrictSlug("KHERI")).toBe("lakhimpur-kheri");
+    expect(normalizeUpDistrictSlug("MAHRAJGANJ")).toBe("maharajganj");
+    expect(normalizeUpDistrictSlug("SANT KABEER NAGAR")).toBe("sant-kabir-nagar");
   });
 });

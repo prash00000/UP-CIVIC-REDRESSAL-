@@ -12,7 +12,7 @@ import { Divider } from "@astryxdesign/core/Divider";
 import { useT, useLang, getLocalized } from "@/lib/i18n";
 import { loadDistrictsIndex, loadPincodes } from "@/lib/data";
 import { DistrictIndexEntry, PincodeMap } from "@/lib/types";
-import { resolvePincode } from "@/lib/pincode";
+import { usePincodeLookup } from "@/lib/usePincodeLookup";
 
 const ISSUES: { slug: string; titleKey: string; icon: React.ReactNode }[] = [
   {
@@ -99,10 +99,7 @@ export default function HomePage() {
     loadPincodes().then(setPincodesMap);
   }, []);
 
-  const pinResolution = useMemo(() => {
-    if (homePin.length !== 6) return null;
-    return resolvePincode(homePin, pincodesMap);
-  }, [homePin, pincodesMap]);
+  const pinState = usePincodeLookup(homePin, pincodesMap);
 
   const getDistrictName = (id: string) => {
     const found = districts.find((d) => d.id === id);
@@ -113,10 +110,10 @@ export default function HomePage() {
     e.preventDefault();
     const clean = homePin.replace(/\D/g, "");
     if (clean.length !== 6) return;
-    if (pinResolution && pinResolution.matches.length === 1) {
+    if (pinState.matches.length === 1) {
       router.push(
         `/find/?pincode=${clean}&district=${encodeURIComponent(
-          pinResolution.matches[0].district_id
+          pinState.matches[0].district_id
         )}`
       );
     } else {
@@ -196,29 +193,39 @@ export default function HomePage() {
                 </button>
               </div>
 
-              {/* Live District Feedback right on Homepage */}
-              {pinResolution && pinResolution.matches.length === 1 && (
+              {/* Live District + Locality Feedback right on Homepage */}
+              {pinState.matches.length === 1 && (
                 <Banner
                   status="success"
                   container="card"
                   title={t(
-                    pinResolution.kind === "exact"
+                    pinState.kind === "exact" || pinState.kind === "live"
                       ? "flow.pincodeDetected"
                       : "flow.pincodePrefixDetected",
-                    { district: getDistrictName(pinResolution.matches[0].district_id) }
+                    { district: getDistrictName(pinState.matches[0].district_id) }
                   )}
+                  description={
+                    pinState.localitySummary
+                      ? t("flow.pincodeAreaHint", { area: pinState.localitySummary })
+                      : undefined
+                  }
                 />
               )}
 
-              {pinResolution && pinResolution.matches.length > 1 && (
+              {pinState.matches.length > 1 && (
                 <Banner
                   status="info"
                   container="card"
                   collapsible={false}
                   title={t("flow.pincodeMulti")}
+                  description={
+                    pinState.localitySummary
+                      ? t("flow.pincodeAreaHint", { area: pinState.localitySummary })
+                      : undefined
+                  }
                 >
                   <div className="flex flex-wrap gap-2 pt-1">
-                    {pinResolution.matches.map((m) => (
+                    {pinState.matches.map((m) => (
                       <Button
                         key={m.district_id}
                         type="button"
@@ -238,11 +245,29 @@ export default function HomePage() {
                 </Banner>
               )}
 
-              {pinResolution &&
-                (pinResolution.kind === "invalid_prefix" ||
-                  pinResolution.kind === "not_found") && (
-                  <Banner status="warning" container="card" title={t("flow.pincodeNotFound")} />
-                )}
+              {pinState.kind === "out_of_state" && pinState.outOfStateInfo && (
+                <Banner
+                  status="warning"
+                  container="card"
+                  title={t("flow.pincodeOutOfState", {
+                    pin: homePin,
+                    district: pinState.outOfStateInfo.district,
+                    state: pinState.outOfStateInfo.state,
+                  })}
+                />
+              )}
+
+              {pinState.kind === "not_found" && (
+                <Banner
+                  status={pinState.isCheckingLive ? "info" : "warning"}
+                  container="card"
+                  title={
+                    pinState.isCheckingLive
+                      ? t("flow.pincodeCheckingLive")
+                      : t("flow.pincodeNotFound")
+                  }
+                />
+              )}
             </form>
           </Card>
         </div>

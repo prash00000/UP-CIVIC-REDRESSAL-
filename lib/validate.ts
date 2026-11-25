@@ -160,6 +160,7 @@ export const pincodesSchema = z.record(
     z.object({
       district_id: z.string(),
       tehsil_id: z.string().optional(),
+      locality_en: z.string().optional(),
     })
   )
 );

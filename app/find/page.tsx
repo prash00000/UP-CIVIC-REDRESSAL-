@@ -17,7 +17,8 @@ import {
   PincodeMap,
   StateData,
 } from "@/lib/types";
-import { resolvePincode, PincodeMatch } from "@/lib/pincode";
+import { resolvePincode } from "@/lib/pincode";
+import { usePincodeLookup } from "@/lib/usePincodeLookup";
 import {
   loadDistrictsIndex,
   loadDistrictData,
@@ -58,13 +59,12 @@ function WizardContent() {
   const [pinCandidateDistrict, setPinCandidateDistrict] = useState<string | null>(null);
   const [selectedPlace, setSelectedPlace] = useState<string | null>(placeParam);
   const [pincodeInput, setPincodeInput] = useState(pincodeParam || "");
-  const [pincodeMatches, setPincodeMatches] = useState<PincodeMatch[] | null>(null);
-  const [pincodeKind, setPincodeKind] = useState<"exact" | "prefix" | null>(null);
-  const [pincodeNotFound, setPincodeNotFound] = useState(false);
   const [unknownChoice, setUnknownChoice] = useState<"village" | "town" | null>(null);
 
   // Prevents URL sync or Back/Change click from immediately re-auto-applying PIN over user's intent
   const userClearedDistrictRef = useRef(false);
+
+  const pinState = usePincodeLookup(pincodeInput, pincodesMap);
 
   useEffect(() => {
     loadDistrictsIndex().then(setDistricts);
@@ -83,27 +83,30 @@ function WizardContent() {
     setSelectedPlace(placeParam);
   }, [typeParam, districtParam, placeParam, pincodeParam]);
 
-  // Resolve initial or updated URL ?pincode= cleanly using exact + 3-digit prefix lookup
+  // Keep pincodeInput synced when URL ?pincode= changes
   useEffect(() => {
-    if (!pincodeParam || Object.keys(pincodesMap).length === 0) return;
+    if (!pincodeParam) return;
     const clean = pincodeParam.replace(/\D/g, "").slice(0, 6);
-    if (clean.length !== 6) return;
+    if (clean.length === 6) setPincodeInput(clean);
+  }, [pincodeParam]);
 
-    setPincodeInput(clean);
-    const res = resolvePincode(clean, pincodesMap);
-    if (res.matches.length > 0) {
-      setPincodeMatches(res.matches);
-      setPincodeKind(res.kind === "exact" ? "exact" : "prefix");
-      setPincodeNotFound(false);
-      if (res.matches.length === 1 && !districtParam && !userClearedDistrictRef.current) {
-        setSelectedDistrict(res.matches[0].district_id);
+  // Apply PIN resolution cleanly for Step 1 auto-detect & Step 2 confirmation
+  useEffect(() => {
+    if (pincodeInput.length !== 6) {
+      setPinCandidateDistrict(null);
+      return;
+    }
+    if (pinState.matches.length === 1 && !userClearedDistrictRef.current) {
+      const matchDist = pinState.matches[0].district_id;
+      if (!selectedType) {
+        setSelectedDistrict(matchDist);
+      } else if (!selectedDistrict) {
+        setPinCandidateDistrict(matchDist);
       }
     } else {
-      setPincodeMatches(null);
-      setPincodeKind(null);
-      setPincodeNotFound(true);
+      setPinCandidateDistrict(null);
     }
-  }, [pincodeParam, districtParam, pincodesMap]);
+  }, [pincodeInput, pinState.matches, selectedType, selectedDistrict]);
 
   useEffect(() => {
     if (selectedDistrict) {
@@ -158,45 +161,11 @@ function WizardContent() {
     const cleanPin = pin.replace(/\D/g, "").slice(0, 6);
     setPincodeInput(cleanPin);
     userClearedDistrictRef.current = false;
-
-    if (cleanPin.length === 6) {
-      const res = resolvePincode(cleanPin, pincodesMap);
-      if (res.matches.length > 0) {
-        setPincodeMatches(res.matches);
-        setPincodeKind(res.kind === "exact" ? "exact" : "prefix");
-        setPincodeNotFound(false);
-        if (res.matches.length === 1) {
-          const match = res.matches[0];
-          // On Step 1, preselect district so picking a ballot skips Step 2;
-          // On Step 2, stage in pinCandidateDistrict so user sees confirmation & clicks Continue
-          if (!selectedType) {
-            setSelectedDistrict(match.district_id);
-          } else {
-            setPinCandidateDistrict(match.district_id);
-          }
-        } else {
-          setPinCandidateDistrict(null);
-        }
-      } else {
-        setPincodeMatches(null);
-        setPincodeKind(null);
-        setPincodeNotFound(true);
-        setPinCandidateDistrict(null);
-      }
-    } else {
-      setPincodeMatches(null);
-      setPincodeKind(null);
-      setPincodeNotFound(false);
-      setPinCandidateDistrict(null);
-    }
   };
 
   const handleClearPincode = () => {
     userClearedDistrictRef.current = true;
     setPincodeInput("");
-    setPincodeMatches(null);
-    setPincodeKind(null);
-    setPincodeNotFound(false);
     setPinCandidateDistrict(null);
     setSelectedDistrict(null);
     updateUrl(selectedType, null, null, null);
@@ -272,7 +241,10 @@ function WizardContent() {
   const selectBallotAndProceed = (ballot: LocalBodyType | "unknown" | "other") => {
     setSelectedType(ballot);
     let effDistrict = selectedDistrict;
-    if (!effDistrict && pincodeInput.length === 6) {
+    if (!effDistrict && pinState.matches.length === 1) {
+      effDistrict = pinState.matches[0].district_id;
+      setSelectedDistrict(effDistrict);
+    } else if (!effDistrict && pincodeInput.length === 6) {
       const res = resolvePincode(pincodeInput, pincodesMap);
       if (res.matches.length === 1) {
         effDistrict = res.matches[0].district_id;
@@ -310,10 +282,17 @@ function WizardContent() {
       {/* Selected District Context Banner (visible on Steps 1 & 3 so PIN auto-detection is always transparent) */}
       {selectedDistrict && (step === 1 || step === 3) && (
         <div className="mb-5 p-3.5 rounded-[4px] bg-[#EBF1F6] border border-[#154273]/30 flex flex-wrap items-center justify-between gap-2 text-[14px]">
-          <span className="font-semibold text-[#154273]">
-            ✓ {t("flow.pincodeSelectedBar", { district: getDistrictName(selectedDistrict) })}
-            {pincodeInput.length === 6 && ` (PIN ${pincodeInput})`}
-          </span>
+          <div className="space-y-0.5">
+            <span className="font-semibold text-[#154273] block">
+              ✓ {t("flow.pincodeSelectedBar", { district: getDistrictName(selectedDistrict) })}
+              {pincodeInput.length === 6 && ` (PIN ${pincodeInput})`}
+            </span>
+            {pinState.localitySummary && (
+              <span className="text-[12px] text-muted block">
+                {t("flow.pincodeAreaHint", { area: pinState.localitySummary })}
+              </span>
+            )}
+          </div>
           <button
             type="button"
             onClick={() => {
@@ -362,7 +341,7 @@ function WizardContent() {
                     placeholder="226001"
                     className="w-36 min-h-[42px] px-3 py-1.5 bg-bg text-text text-[15px] tabular-nums border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none"
                   />
-                  {pincodeMatches && pincodeMatches.length === 1 && selectedDistrict && (
+                  {pinState.matches.length === 1 && selectedDistrict && (
                     <Badge
                       variant="success"
                       label={getDistrictName(selectedDistrict)}
@@ -381,15 +360,20 @@ function WizardContent() {
                 </div>
               </div>
 
-              {pincodeMatches && pincodeMatches.length > 1 && (
+              {pinState.matches.length > 1 && (
                 <Banner
                   status="info"
                   container="card"
                   collapsible={false}
                   title={t("flow.pincodeMulti")}
+                  description={
+                    pinState.localitySummary
+                      ? t("flow.pincodeAreaHint", { area: pinState.localitySummary })
+                      : undefined
+                  }
                 >
                   <div className="flex flex-wrap gap-2 pt-1">
-                    {pincodeMatches.map((m) => (
+                    {pinState.matches.map((m) => (
                       <Button
                         key={m.district_id}
                         type="button"
@@ -406,8 +390,28 @@ function WizardContent() {
                 </Banner>
               )}
 
-              {pincodeNotFound && (
-                <Banner status="warning" container="card" title={t("flow.pincodeNotFound")} />
+              {pinState.kind === "out_of_state" && pinState.outOfStateInfo && (
+                <Banner
+                  status="warning"
+                  container="card"
+                  title={t("flow.pincodeOutOfState", {
+                    pin: pincodeInput,
+                    district: pinState.outOfStateInfo.district,
+                    state: pinState.outOfStateInfo.state,
+                  })}
+                />
+              )}
+
+              {pinState.kind === "not_found" && (
+                <Banner
+                  status={pinState.isCheckingLive ? "info" : "warning"}
+                  container="card"
+                  title={
+                    pinState.isCheckingLive
+                      ? t("flow.pincodeCheckingLive")
+                      : t("flow.pincodeNotFound")
+                  }
+                />
               )}
             </div>
           </Card>
@@ -488,17 +492,22 @@ function WizardContent() {
                 className="w-full min-h-btn px-4 py-2.5 bg-bg text-text text-[17px] font-medium tabular-nums border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none"
               />
 
-              {pincodeMatches && pincodeMatches.length === 1 && (pinCandidateDistrict || selectedDistrict) && (
+              {pinState.matches.length === 1 && (pinCandidateDistrict || selectedDistrict) && (
                 <Banner
                   status="success"
                   container="card"
                   collapsible={false}
                   title={t(
-                    pincodeKind === "exact"
+                    pinState.kind === "exact" || pinState.kind === "live"
                       ? "flow.pincodeDetected"
                       : "flow.pincodePrefixDetected",
                     { district: getDistrictName((pinCandidateDistrict || selectedDistrict)!) }
                   )}
+                  description={
+                    pinState.localitySummary
+                      ? t("flow.pincodeAreaHint", { area: pinState.localitySummary })
+                      : undefined
+                  }
                 >
                   <div className="pt-2">
                     <Button
@@ -518,15 +527,20 @@ function WizardContent() {
                 </Banner>
               )}
 
-              {pincodeMatches && pincodeMatches.length > 1 && (
+              {pinState.matches.length > 1 && (
                 <Banner
                   status="info"
                   container="card"
                   collapsible={false}
                   title={t("flow.pincodeMulti")}
+                  description={
+                    pinState.localitySummary
+                      ? t("flow.pincodeAreaHint", { area: pinState.localitySummary })
+                      : undefined
+                  }
                 >
                   <div className="flex flex-wrap gap-2 pt-1">
-                    {pincodeMatches.map((m) => {
+                    {pinState.matches.map((m) => {
                       const dName = getDistrictName(m.district_id);
                       const isChosen = selectedDistrict === m.district_id;
                       return (
@@ -547,8 +561,28 @@ function WizardContent() {
                 </Banner>
               )}
 
-              {pincodeNotFound && (
-                <Banner status="warning" container="card" title={t("flow.pincodeNotFound")} />
+              {pinState.kind === "out_of_state" && pinState.outOfStateInfo && (
+                <Banner
+                  status="warning"
+                  container="card"
+                  title={t("flow.pincodeOutOfState", {
+                    pin: pincodeInput,
+                    district: pinState.outOfStateInfo.district,
+                    state: pinState.outOfStateInfo.state,
+                  })}
+                />
+              )}
+
+              {pinState.kind === "not_found" && (
+                <Banner
+                  status={pinState.isCheckingLive ? "info" : "warning"}
+                  container="card"
+                  title={
+                    pinState.isCheckingLive
+                      ? t("flow.pincodeCheckingLive")
+                      : t("flow.pincodeNotFound")
+                  }
+                />
               )}
             </div>
           </Card>

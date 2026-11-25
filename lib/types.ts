@@ -125,7 +125,10 @@ export type DistrictData = {
   offices: Office[];
 };
 
-export type PincodeMap = Record<string, { district_id: string; tehsil_id?: string }[]>;
+export type PincodeMap = Record<
+  string,
+  { district_id: string; tehsil_id?: string; locality_en?: string }[]
+>;
 
 export type StateData = {
   cm_helpline: {

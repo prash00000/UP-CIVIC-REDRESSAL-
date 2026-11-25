@@ -34,3 +34,8 @@ This log records architectural choices and resolutions to unspecified or edge-ca
 ## 7. RTI Fees & Time Limits
 - **Decision:** In accordance with Section 7.6, no hardcoded fee is displayed. UI explicitly displays: *"Check the fee and format on the official site"*, noting `[VERIFY: UP RTI Rules]` in source comments.
 - **Time Limits:** Time limits are only rendered if supported by an explicit official `time_limit_source_url`.
+
+## 8. Modern Classic Netherlands Civic Aesthetic & Astryx Design System
+- **Decision:** Upgraded to Next.js 15 + React 19 to adopt `@astryxdesign/core` (`<Theme>`, `<Button>`, `<ButtonGroup>`, `<Card>`, `<Badge>`, `<Banner>`, `<Breadcrumbs>`, `<Heading>`, `<Text>`, `<Divider>`) with a custom compiled Astryx theme (`themes/nl-classic/nlClassicTheme.ts` built via `astryx theme build`).
+- **Color & Typography:** Warm archival parchment ground (`#F7F6F2`), porcelain white structured cards with `1px` warm stone borders (`#D8D4CA`), Rijksoverheid Delft Civic Navy (`#154273`), and restrained Dutch Terracotta (`#C84B16`) accents. Headings use self-hosted `Source Serif 4` and `Noto Serif Devanagari`; body and tabular numerals use `Inter` and `Noto Sans Devanagari`.
+- **Cascade Layering:** Declared `@layer reset, tw-preflight, astryx-base, astryx-theme;` in `app/layers.css` imported before `app/globals.css` so Astryx component styles and Tailwind v3 utilities coexist cleanly.

@@ -1,26 +1,39 @@
 @import "@fontsource/inter/400.css";
+@import "@fontsource/inter/500.css";
 @import "@fontsource/inter/600.css";
 @import "@fontsource/inter/700.css";
+@import "@fontsource/source-serif-4/400.css";
+@import "@fontsource/source-serif-4/600.css";
+@import "@fontsource/source-serif-4/700.css";
 @import "@fontsource/noto-sans-devanagari/400.css";
 @import "@fontsource/noto-sans-devanagari/600.css";
 @import "@fontsource/noto-sans-devanagari/700.css";
+@import "@fontsource/noto-serif-devanagari/400.css";
+@import "@fontsource/noto-serif-devanagari/600.css";
+@import "@fontsource/noto-serif-devanagari/700.css";
 
-@tailwind base;
+@import "@astryxdesign/core/reset.css";
+@import "@astryxdesign/core/astryx.css";
+@import "../themes/nl-classic/nl-classic.css";
+
+@layer tw-preflight {
+  @tailwind base;
+}
 @tailwind components;
 @tailwind utilities;
 
 :root {
-  --color-bg: #FFFFFF;
-  --color-surface: #F8FAFC;
-  --color-border: #E2E8F0;
-  --color-text: #0F172A;
-  --color-muted: #475569;
-  --color-primary: #1D4ED8;
-  --color-primary-hover: #1E40AF;
-  --color-accent: #F59E0B;
-  --color-success: #15803D;
-  --color-warning: #B45309;
-  --color-danger: #B91C1C;
+  --color-bg: #F7F6F2;
+  --color-surface: #FFFFFF;
+  --color-border: #D8D4CA;
+  --color-text: #161B22;
+  --color-muted: #4A515B;
+  --color-primary: #154273;
+  --color-primary-hover: #0F3156;
+  --color-accent: #C84B16;
+  --color-success: #245937;
+  --color-warning: #8A5300;
+  --color-danger: #A31C1C;
 }
 
 html {
@@ -43,11 +56,21 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  background-color: var(--color-background-body, #F7F6F2);
+  color: var(--color-text-primary, #161B22);
 }
 
-/* Accessible focus ring */
+.font-editorial {
+  font-family: "Source Serif 4", "Noto Serif Devanagari", Georgia, serif;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Accessible Delft Navy focus ring */
 *:focus-visible {
-  outline: 2px solid #1D4ED8;
+  outline: 2px solid #154273;
   outline-offset: 2px;
 }
 

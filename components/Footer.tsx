@@ -8,37 +8,77 @@ export default function Footer() {
   const t = useT();
 
   return (
-    <footer className="mt-auto bg-[#0F172A] text-[#94A3B8] border-t border-[#1E293B] py-8 px-4 no-print">
-      <div className="max-w-[1040px] mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
-        <div className="text-center md:text-left">
-          <p className="font-semibold text-white text-[16px] mb-1">
-            Uttar Pradesh Civic Grievance Redressal Initiative
+    <footer className="mt-auto bg-[#102338] text-[#C5D1DE] border-t-[3px] border-[#C84B16] py-10 px-4 sm:px-6 no-print">
+      <div className="max-w-[1120px] mx-auto grid grid-cols-1 md:grid-cols-12 gap-8 items-start">
+        <div className="md:col-span-7 space-y-2.5">
+          <p className="font-editorial font-bold text-white text-[19px] tracking-[-0.01em]">
+            Uttar Pradesh Civic Grievance Redressal Portal
           </p>
-          <p className="text-[14px] max-w-[640px] text-[#94A3B8] leading-relaxed">
+          <p className="text-[14px] max-w-[600px] text-[#B0C0D0] leading-relaxed">
             {t("footer.disclaimer")}
+          </p>
+          <p className="text-[12px] uppercase tracking-[0.08em] text-[#8FA4BA] pt-1">
+            UP Janhit Guarantee Act, 2011 · RTI Act, 2005
           </p>
         </div>
 
-        <div className="flex flex-wrap items-center justify-center gap-5 text-[14px]">
-          <Link href="/about/" className="text-[#E2E8F0] hover:text-white transition-colors underline-offset-4 hover:underline">
-            {t("nav.about")}
-          </Link>
-          <Link href="/report/" className="text-[#E2E8F0] hover:text-white transition-colors underline-offset-4 hover:underline">
-            {t("results.reportError")}
-          </Link>
-          <a
-            href="https://jansunwai.up.nic.in"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-[#F59E0B] hover:text-[#FBBF24] font-medium transition-colors inline-flex items-center gap-1"
-          >
-            <span>Jansunwai Portal</span>
-            <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
-              <polyline points="15 3 21 3 21 9" />
-              <line x1="10" y1="14" x2="21" y2="3" />
-            </svg>
-          </a>
+        <div className="md:col-span-5 grid grid-cols-2 gap-4 text-[14px]">
+          <div className="space-y-2">
+            <p className="text-[11px] uppercase tracking-[0.08em] text-[#8FA4BA] font-semibold">
+              {t("nav.directory")}
+            </p>
+            <ul className="space-y-1.5 list-none p-0 m-0">
+              <li>
+                <Link href="/find/" className="text-[#E6EDF5] hover:text-white underline-offset-4 hover:underline">
+                  {t("nav.find")}
+                </Link>
+              </li>
+              <li>
+                <Link href="/directory/" className="text-[#E6EDF5] hover:text-white underline-offset-4 hover:underline">
+                  {t("nav.directory")}
+                </Link>
+              </li>
+              <li>
+                <Link href="/letter/" className="text-[#E6EDF5] hover:text-white underline-offset-4 hover:underline">
+                  {t("nav.letter")}
+                </Link>
+              </li>
+              <li>
+                <Link href="/rti/" className="text-[#E6EDF5] hover:text-white underline-offset-4 hover:underline">
+                  {t("nav.rti")}
+                </Link>
+              </li>
+            </ul>
+          </div>
+
+          <div className="space-y-2">
+            <p className="text-[11px] uppercase tracking-[0.08em] text-[#8FA4BA] font-semibold">
+              {t("nav.about")}
+            </p>
+            <ul className="space-y-1.5 list-none p-0 m-0">
+              <li>
+                <Link href="/about/" className="text-[#E6EDF5] hover:text-white underline-offset-4 hover:underline">
+                  {t("nav.about")}
+                </Link>
+              </li>
+              <li>
+                <Link href="/report/" className="text-[#E6EDF5] hover:text-white underline-offset-4 hover:underline">
+                  {t("results.reportError")}
+                </Link>
+              </li>
+              <li>
+                <a
+                  href="https://jansunwai.up.nic.in"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-[#F39C72] hover:text-[#FFBA99] font-medium inline-flex items-center gap-1 underline-offset-4 hover:underline"
+                >
+                  <span>Jansunwai Portal</span>
+                  <span aria-hidden="true">↗</span>
+                </a>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </footer>

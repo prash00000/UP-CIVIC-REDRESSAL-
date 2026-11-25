@@ -32,11 +32,11 @@ export default function DirectoryPage() {
 
   return (
     <div className="space-y-8">
-      <div>
-        <h1 className="text-[28px] sm:text-[36px] font-extrabold text-text">
+      <div className="space-y-1.5 border-b border-border pb-5">
+        <h1 className="font-editorial text-[30px] sm:text-[38px] font-bold text-text">
           {t("directory.title")}
         </h1>
-        <p className="text-[16px] text-muted leading-relaxed mt-1">
+        <p className="text-[16px] text-muted leading-relaxed">
           {t("directory.subtitle")}
         </p>
       </div>
@@ -48,7 +48,7 @@ export default function DirectoryPage() {
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder={t("directory.searchPlaceholder")}
-          className="w-full min-h-btn px-4 py-2.5 text-[16px] sm:text-[17px] border-2 border-border rounded-btn bg-bg focus:border-primary focus-visible:outline-none"
+          className="w-full min-h-btn px-4 py-2.5 text-[16px] border border-borderStrong rounded-[4px] bg-surface focus:border-[#154273] focus-visible:outline-none"
         />
       </div>
 
@@ -65,14 +65,12 @@ export default function DirectoryPage() {
               <Link
                 key={d.id}
                 href={`/directory/${d.id}/`}
-                className="p-5 rounded-card border-2 border-border bg-bg hover:border-primary hover:bg-surface transition-all flex flex-col justify-between shadow-sm group"
+                className="p-5 rounded-[6px] border border-border bg-surface hover:border-[#154273] transition-colors flex flex-col justify-between group"
               >
                 <div>
-                  <div className="flex items-start justify-between gap-2 mb-2">
-                    <h3 className="font-bold text-[20px] text-text group-hover:text-primary transition-colors">
-                      {districtName}
-                    </h3>
-                  </div>
+                  <h3 className="font-editorial font-bold text-[20px] text-text group-hover:text-[#154273] transition-colors mb-1">
+                    {districtName}
+                  </h3>
                   <p className="text-[14px] text-muted mb-4">
                     {t("directory.division", { division: divisionName })}
                   </p>
@@ -80,11 +78,9 @@ export default function DirectoryPage() {
 
                 <div className="pt-3 border-t border-border flex items-center justify-between gap-2">
                   <CoverageBadge coverage={d.coverage} />
-                  <span className="text-[14px] font-semibold text-primary inline-flex items-center gap-1">
+                  <span className="text-[14px] font-semibold text-[#154273] inline-flex items-center gap-1">
                     <span>{t("directory.viewOffices")}</span>
-                    <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
-                      <polyline points="9 18 15 12 9 6" />
-                    </svg>
+                    <span aria-hidden="true" className="group-hover:translate-x-0.5 transition-transform">→</span>
                   </span>
                 </div>
               </Link>

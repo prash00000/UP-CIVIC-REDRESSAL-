@@ -2,29 +2,45 @@
 
 import React, { useState } from "react";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { useT } from "@/lib/i18n";
 import LanguageToggle from "./LanguageToggle";
 
+const NAV_ITEMS = [
+  { href: "/", key: "nav.home" },
+  { href: "/find/", key: "nav.find" },
+  { href: "/letter/", key: "nav.letter" },
+  { href: "/rti/", key: "nav.rti" },
+  { href: "/directory/", key: "nav.directory" },
+  { href: "/about/", key: "nav.about" },
+];
+
 export default function Header() {
   const t = useT();
+  const pathname = usePathname() || "/";
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
+  const isActive = (href: string) => {
+    if (href === "/") return pathname === "/";
+    return pathname.startsWith(href.replace(/\/$/, ""));
+  };
+
   return (
-    <header className="bg-bg border-b border-border no-print">
-      <div className="max-w-[1040px] mx-auto px-4 h-18 py-3 flex items-center justify-between gap-4">
-        {/* Brand / Logo */}
+    <header className="bg-surface border-b border-border no-print">
+      <div className="max-w-[1120px] mx-auto px-4 sm:px-6 py-3.5 flex items-center justify-between gap-4">
+        {/* Dutch Civic Editorial Masthead */}
         <Link
           href="/"
-          className="flex items-center gap-2.5 text-text no-underline hover:opacity-90 focus-visible:outline-primary"
+          className="flex items-center gap-3 text-text no-underline hover:opacity-90 focus-visible:outline-primary group"
         >
-          {/* Government / Pillar SVG Icon */}
-          <div className="w-10 h-10 rounded-btn bg-primary/10 text-primary flex items-center justify-center flex-shrink-0">
+          {/* Architectural Civic Colonnade Mark */}
+          <div className="w-10 h-10 rounded-[4px] bg-[#154273] text-white flex items-center justify-center flex-shrink-0 border border-[#0F3156]">
             <svg
-              className="w-6 h-6"
+              className="w-5 h-5"
               viewBox="0 0 24 24"
               fill="none"
               stroke="currentColor"
-              strokeWidth="2"
+              strokeWidth="1.9"
               strokeLinecap="round"
               strokeLinejoin="round"
               aria-hidden="true"
@@ -37,70 +53,50 @@ export default function Header() {
               <polygon points="12 3 2 10 22 10 12 3" />
             </svg>
           </div>
-          <div>
-            <span className="block font-bold text-[18px] sm:text-[20px] leading-tight text-text">
+          <div className="border-l border-border pl-3">
+            <span className="block font-editorial font-bold text-[18px] sm:text-[20px] leading-tight text-text tracking-[-0.01em]">
               UP Civic Grievance
             </span>
-            <span className="block text-[12px] sm:text-[13px] font-medium text-muted leading-tight">
+            <span className="block text-[12px] sm:text-[13px] font-medium text-muted leading-tight mt-0.5">
               उत्तर प्रदेश जनहित समाधान
             </span>
           </div>
         </Link>
 
-        {/* Desktop Nav */}
-        <nav aria-label="Main Navigation" className="hidden md:flex items-center gap-6">
-          <Link
-            href="/"
-            className="text-[16px] font-medium text-muted hover:text-primary transition-colors py-1"
-          >
-            {t("nav.home")}
-          </Link>
-          <Link
-            href="/find/"
-            className="text-[16px] font-medium text-muted hover:text-primary transition-colors py-1"
-          >
-            {t("nav.find")}
-          </Link>
-          <Link
-            href="/letter/"
-            className="text-[16px] font-medium text-muted hover:text-primary transition-colors py-1"
-          >
-            {t("nav.letter")}
-          </Link>
-          <Link
-            href="/rti/"
-            className="text-[16px] font-medium text-muted hover:text-primary transition-colors py-1"
-          >
-            {t("nav.rti")}
-          </Link>
-          <Link
-            href="/directory/"
-            className="text-[16px] font-medium text-muted hover:text-primary transition-colors py-1"
-          >
-            {t("nav.directory")}
-          </Link>
-          <Link
-            href="/about/"
-            className="text-[16px] font-medium text-muted hover:text-primary transition-colors py-1"
-          >
-            {t("nav.about")}
-          </Link>
+        {/* Desktop Nav — classic Rijksoverheid underline indicator */}
+        <nav aria-label="Main Navigation" className="hidden lg:flex items-center gap-6">
+          {NAV_ITEMS.map((item) => {
+            const active = isActive(item.href);
+            return (
+              <Link
+                key={item.href}
+                href={item.href}
+                className={`text-[15px] font-medium py-1.5 border-b-2 transition-colors ${
+                  active
+                    ? "text-[#154273] border-[#154273] font-semibold"
+                    : "text-muted border-transparent hover:text-text hover:border-borderStrong"
+                }`}
+              >
+                {t(item.key)}
+              </Link>
+            );
+          })}
         </nav>
 
-        {/* Right Section: Language Toggle + Mobile Menu Button */}
+        {/* Right Controls */}
         <div className="flex items-center gap-3">
           <LanguageToggle />
 
-          {/* Mobile Menu Hamburger */}
+          {/* Mobile Menu Toggle */}
           <button
             type="button"
             onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-            className="md:hidden p-2 text-muted hover:text-text focus-visible:outline-primary rounded-btn"
+            className="lg:hidden min-h-touch min-w-[44px] inline-flex items-center justify-center p-2 text-text hover:bg-mutedSurface border border-border rounded-[4px]"
             aria-expanded={mobileMenuOpen}
             aria-label="Toggle navigation menu"
           >
             <svg
-              className="w-6 h-6"
+              className="w-5 h-5"
               fill="none"
               stroke="currentColor"
               viewBox="0 0 24 24"
@@ -120,50 +116,24 @@ export default function Header() {
       {mobileMenuOpen && (
         <nav
           aria-label="Mobile Navigation"
-          className="md:hidden border-t border-border bg-surface px-4 py-3 flex flex-col gap-2"
+          className="lg:hidden border-t border-border bg-bg px-4 py-3 flex flex-col divide-y divide-border"
         >
-          <Link
-            href="/"
-            onClick={() => setMobileMenuOpen(false)}
-            className="min-h-[44px] flex items-center text-[16px] font-medium text-text hover:text-primary px-2"
-          >
-            {t("nav.home")}
-          </Link>
-          <Link
-            href="/find/"
-            onClick={() => setMobileMenuOpen(false)}
-            className="min-h-[44px] flex items-center text-[16px] font-medium text-text hover:text-primary px-2"
-          >
-            {t("nav.find")}
-          </Link>
-          <Link
-            href="/letter/"
-            onClick={() => setMobileMenuOpen(false)}
-            className="min-h-[44px] flex items-center text-[16px] font-medium text-text hover:text-primary px-2"
-          >
-            {t("nav.letter")}
-          </Link>
-          <Link
-            href="/rti/"
-            onClick={() => setMobileMenuOpen(false)}
-            className="min-h-[44px] flex items-center text-[16px] font-medium text-text hover:text-primary px-2"
-          >
-            {t("nav.rti")}
-          </Link>
-          <Link
-            href="/directory/"
-            onClick={() => setMobileMenuOpen(false)}
-            className="min-h-[44px] flex items-center text-[16px] font-medium text-text hover:text-primary px-2"
-          >
-            {t("nav.directory")}
-          </Link>
-          <Link
-            href="/about/"
-            onClick={() => setMobileMenuOpen(false)}
-            className="min-h-[44px] flex items-center text-[16px] font-medium text-text hover:text-primary px-2"
-          >
-            {t("nav.about")}
-          </Link>
+          {NAV_ITEMS.map((item) => {
+            const active = isActive(item.href);
+            return (
+              <Link
+                key={item.href}
+                href={item.href}
+                onClick={() => setMobileMenuOpen(false)}
+                className={`min-h-[44px] flex items-center justify-between text-[16px] py-2 px-2 ${
+                  active ? "font-bold text-[#154273]" : "font-medium text-text hover:text-[#154273]"
+                }`}
+              >
+                <span>{t(item.key)}</span>
+                {active && <span className="w-1.5 h-1.5 rounded-full bg-[#154273]" />}
+              </Link>
+            );
+          })}
         </nav>
       )}
     </header>

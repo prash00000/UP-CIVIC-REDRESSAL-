@@ -3,6 +3,11 @@
 import React, { useState, useEffect, Suspense, useMemo } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
+import { Card } from "@astryxdesign/core/Card";
+import { Banner } from "@astryxdesign/core/Banner";
+import { Badge } from "@astryxdesign/core/Badge";
+import { Button } from "@astryxdesign/core/Button";
+import { Divider } from "@astryxdesign/core/Divider";
 import { useT, useLang, getLocalized } from "@/lib/i18n";
 import {
   LocalBodyType,
@@ -32,13 +37,11 @@ function WizardContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
 
-  // URL state
   const typeParam = searchParams.get("type") as LocalBodyType | "unknown" | "other" | null;
   const districtParam = searchParams.get("district");
   const placeParam = searchParams.get("place");
   const pincodeParam = searchParams.get("pincode");
 
-  // Loaded data
   const [districts, setDistricts] = useState<DistrictIndexEntry[]>([]);
   const [pincodesMap, setPincodesMap] = useState<PincodeMap>({});
   const [stateInfo, setStateInfo] = useState<StateData | null>(null);
@@ -47,7 +50,6 @@ function WizardContent() {
   const [currentPlaces, setCurrentPlaces] = useState<Place[]>([]);
   const [loadingPlaces, setLoadingPlaces] = useState(false);
 
-  // Form step state
   const [selectedType, setSelectedType] = useState<LocalBodyType | "unknown" | "other" | null>(
     typeParam
   );
@@ -58,21 +60,18 @@ function WizardContent() {
   const [pincodeNotFound, setPincodeNotFound] = useState(false);
   const [unknownChoice, setUnknownChoice] = useState<"village" | "town" | null>(null);
 
-  // Load static index datasets once on mount
   useEffect(() => {
     loadDistrictsIndex().then(setDistricts);
     loadPincodes().then(setPincodesMap);
     loadStateData().then(setStateInfo);
   }, []);
 
-  // Sync state if URL changes (e.g. direct link or back button)
   useEffect(() => {
     setSelectedType(typeParam);
     setSelectedDistrict(districtParam);
     setSelectedPlace(placeParam);
   }, [typeParam, districtParam, placeParam]);
 
-  // Initial pincode lookup when pincodesMap loads and pincodeParam exists
   useEffect(() => {
     if (pincodeParam && pincodesMap[pincodeParam.trim()]) {
       const clean = pincodeParam.trim();
@@ -85,7 +84,6 @@ function WizardContent() {
     }
   }, [pincodeParam, pincodesMap, selectedDistrict]);
 
-  // Load district-specific data when district is selected
   useEffect(() => {
     if (selectedDistrict) {
       setLoadingPlaces(true);
@@ -103,7 +101,6 @@ function WizardContent() {
     }
   }, [selectedDistrict]);
 
-  // Update URL helper without history spam
   const updateUrl = (
     newType: string | null,
     newDistrict: string | null,
@@ -119,7 +116,6 @@ function WizardContent() {
     router.replace(`/find/?${params.toString()}`);
   };
 
-  // Determine current wizard step: 1: ballot, 2: district, 3: place, 4: results
   let step = 1;
   if (selectedType) {
     if (selectedType === "other") {
@@ -131,7 +127,6 @@ function WizardContent() {
     }
   }
 
-  // Handle Pincode entry
   const handlePincodeChange = (pin: string) => {
     const cleanPin = pin.replace(/\D/g, "").slice(0, 6);
     setPincodeInput(cleanPin);
@@ -162,7 +157,6 @@ function WizardContent() {
     setPincodeNotFound(false);
   };
 
-  // Options for District Search
   const districtOptions: SearchOption[] = useMemo(() => {
     return districts.map((d) => ({
       id: d.id,
@@ -172,7 +166,6 @@ function WizardContent() {
     }));
   }, [districts, lang, t]);
 
-  // Options for Place Search
   const placeOptions: SearchOption[] = useMemo(() => {
     if (!currentPlaces.length) return [];
     return currentPlaces.map((p) => {
@@ -192,7 +185,6 @@ function WizardContent() {
     });
   }, [currentPlaces, lang]);
 
-  // Resolved result if on result step
   const resolution: ResolutionResult | null = useMemo(() => {
     if (step !== 4 || !selectedDistrict || !currentDistrictData) return null;
     return resolveOfficers(
@@ -205,7 +197,6 @@ function WizardContent() {
     );
   }, [step, selectedType, selectedDistrict, selectedPlace, currentDistrictData, currentPlaces, stateInfo]);
 
-  // Back button handler
   const handleBack = () => {
     if (step === 4) {
       if (selectedType === "other") {
@@ -237,52 +228,57 @@ function WizardContent() {
 
       {/* STEP 1: Ballot Choice */}
       {step === 1 && (
-        <section aria-labelledby="q1-heading" className="space-y-4">
-          <h1 id="q1-heading" className="text-[26px] sm:text-[32px] font-bold text-text leading-tight mb-2">
-            {t("flow.q1")}
-          </h1>
-          <p className="text-[16px] sm:text-[17px] text-muted mb-4 leading-relaxed">
-            {t("home.step1Desc")}
-          </p>
-
-          {/* Quick PIN Code Search on Step 1 */}
-          <div className="p-4 rounded-card bg-surface border border-border flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-4">
-            <div>
-              <span className="font-semibold text-[15px] text-text block">
-                📮 {t("flow.quickPincode")}
-              </span>
-              <span className="text-[13px] text-muted block">
-                {t("flow.pincodePlaceholder")}
-              </span>
-            </div>
-            <div className="flex items-center gap-2">
-              <input
-                type="text"
-                inputMode="numeric"
-                maxLength={6}
-                value={pincodeInput}
-                onChange={(e) => handlePincodeChange(e.target.value)}
-                placeholder="e.g. 226001"
-                className="w-36 min-h-[42px] px-3 py-1.5 bg-bg text-text text-[15px] border-2 border-border rounded-btn focus:border-primary focus-visible:outline-none"
-              />
-              {pincodeMatches && pincodeMatches.length > 0 && selectedDistrict && (
-                <span className="text-[13px] font-bold text-success bg-success/10 border border-success/30 px-2.5 py-1.5 rounded-btn whitespace-nowrap">
-                  ✓ {getLocalized(districts.find((d) => d.id === selectedDistrict), "name", lang)}
-                </span>
-              )}
-              {pincodeInput && (
-                <button
-                  type="button"
-                  onClick={handleClearPincode}
-                  className="text-[13px] text-muted hover:text-danger px-1"
-                >
-                  ✕
-                </button>
-              )}
-            </div>
+        <section aria-labelledby="q1-heading" className="space-y-5">
+          <div>
+            <h1 id="q1-heading" className="font-editorial text-[28px] sm:text-[34px] font-bold text-text leading-tight mb-2">
+              {t("flow.q1")}
+            </h1>
+            <p className="text-[16px] text-muted leading-relaxed">
+              {t("home.step1Desc")}
+            </p>
           </div>
 
-          <div className="space-y-3">
+          <Card padding={4} variant="default" elevation="none">
+            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+              <div>
+                <span className="font-semibold text-[15px] text-text block">
+                  {t("flow.quickPincode")}
+                </span>
+                <span className="text-[13px] text-muted block">
+                  {t("flow.pincodePlaceholder")}
+                </span>
+              </div>
+              <div className="flex items-center gap-2">
+                <input
+                  type="text"
+                  inputMode="numeric"
+                  maxLength={6}
+                  value={pincodeInput}
+                  onChange={(e) => handlePincodeChange(e.target.value)}
+                  placeholder="226001"
+                  className="w-36 min-h-[42px] px-3 py-1.5 bg-bg text-text text-[15px] tabular-nums border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none"
+                />
+                {pincodeMatches && pincodeMatches.length > 0 && selectedDistrict && (
+                  <Badge
+                    variant="success"
+                    label={getLocalized(districts.find((d) => d.id === selectedDistrict), "name", lang)}
+                  />
+                )}
+                {pincodeInput && (
+                  <button
+                    type="button"
+                    onClick={handleClearPincode}
+                    aria-label={t("flow.pincodeClear")}
+                    className="text-[13px] text-muted hover:text-danger px-2 py-1"
+                  >
+                    ✕
+                  </button>
+                )}
+              </div>
+            </div>
+          </Card>
+
+          <div className="space-y-2.5">
             <ChoiceButton
               title={t("flow.q1.pradhan")}
               subtitle="Rural Village / Gram Panchayat"
@@ -344,28 +340,27 @@ function WizardContent() {
       {/* STEP 2: District & Pincode */}
       {step === 2 && (
         <section aria-labelledby="q2-heading" className="space-y-5">
-          <h1 id="q2-heading" className="text-[26px] sm:text-[32px] font-bold text-text leading-tight mb-2">
+          <h1 id="q2-heading" className="font-editorial text-[28px] sm:text-[34px] font-bold text-text leading-tight">
             {t("flow.q2")}
           </h1>
 
-          {/* Pincode Helper */}
-          <div className="p-5 rounded-card bg-surface border-2 border-border space-y-3">
-            <div className="flex items-center justify-between">
-              <label htmlFor="pincode-input" className="block text-label font-bold text-text">
-                📮 {t("flow.pincode")}
-              </label>
-              {pincodeInput && (
-                <button
-                  type="button"
-                  onClick={handleClearPincode}
-                  className="text-[13px] text-muted hover:text-danger font-medium underline"
-                >
-                  {t("flow.pincodeClear")}
-                </button>
-              )}
-            </div>
+          <Card padding={4} variant="default" elevation="none">
+            <div className="space-y-3">
+              <div className="flex items-center justify-between">
+                <label htmlFor="pincode-input" className="block text-[13px] font-bold uppercase tracking-[0.06em] text-muted">
+                  {t("flow.pincode")}
+                </label>
+                {pincodeInput && (
+                  <button
+                    type="button"
+                    onClick={handleClearPincode}
+                    className="text-[13px] text-muted hover:text-danger font-medium underline"
+                  >
+                    {t("flow.pincodeClear")}
+                  </button>
+                )}
+              </div>
 
-            <div className="relative">
               <input
                 id="pincode-input"
                 type="text"
@@ -374,15 +369,14 @@ function WizardContent() {
                 value={pincodeInput}
                 onChange={(e) => handlePincodeChange(e.target.value)}
                 placeholder={t("flow.pincodePlaceholder")}
-                className="w-full min-h-btn px-4 py-2.5 bg-bg text-text text-[17px] font-medium border-2 border-border rounded-btn focus:border-primary focus-visible:outline-none"
+                className="w-full min-h-btn px-4 py-2.5 bg-bg text-text text-[17px] font-medium tabular-nums border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none"
               />
-            </div>
 
-            {/* If single district detected */}
-            {pincodeMatches && pincodeMatches.length === 1 && selectedDistrict && (
-              <div className="p-3 rounded-btn bg-success/10 border border-success/30 text-success text-[15px] font-semibold flex items-center justify-between">
-                <span>
-                  ✓ {t("flow.pincodeDetected", {
+              {pincodeMatches && pincodeMatches.length === 1 && selectedDistrict && (
+                <Banner
+                  status="success"
+                  container="card"
+                  title={t("flow.pincodeDetected", {
                     district:
                       getLocalized(
                         districts.find((d) => d.id === selectedDistrict),
@@ -390,53 +384,45 @@ function WizardContent() {
                         lang
                       ) || selectedDistrict,
                   })}
-                </span>
-                <span className="text-[13px] bg-success text-white px-2 py-0.5 rounded">
-                  Selected
-                </span>
-              </div>
-            )}
+                />
+              )}
 
-            {/* If multi-district border PIN detected */}
-            {pincodeMatches && pincodeMatches.length > 1 && (
-              <div className="p-3.5 rounded-btn bg-blue-50 border border-blue-200 text-blue-900 space-y-2 text-[14px]">
-                <p className="font-semibold">{t("flow.pincodeMulti")}</p>
-                <div className="flex flex-wrap gap-2">
-                  {pincodeMatches.map((m) => {
-                    const dEntry = districts.find((d) => d.id === m.district_id);
-                    const dName = dEntry ? getLocalized(dEntry, "name", lang) : m.district_id;
-                    const isChosen = selectedDistrict === m.district_id;
-                    return (
-                      <button
-                        key={m.district_id}
-                        type="button"
-                        onClick={() => {
-                          setSelectedDistrict(m.district_id);
-                          updateUrl(selectedType, m.district_id, null, pincodeInput);
-                        }}
-                        className={`px-3 py-1.5 rounded-btn font-bold text-[14px] border transition-all ${
-                          isChosen
-                            ? "bg-primary text-white border-primary shadow-sm"
-                            : "bg-white text-text border-slate-300 hover:border-primary"
-                        }`}
-                      >
-                        {dName}
-                      </button>
-                    );
-                  })}
-                </div>
-              </div>
-            )}
+              {pincodeMatches && pincodeMatches.length > 1 && (
+                <Banner
+                  status="info"
+                  container="card"
+                  collapsible={false}
+                  title={t("flow.pincodeMulti")}
+                >
+                  <div className="flex flex-wrap gap-2 pt-1">
+                    {pincodeMatches.map((m) => {
+                      const dEntry = districts.find((d) => d.id === m.district_id);
+                      const dName = dEntry ? getLocalized(dEntry, "name", lang) : m.district_id;
+                      const isChosen = selectedDistrict === m.district_id;
+                      return (
+                        <Button
+                          key={m.district_id}
+                          type="button"
+                          size="sm"
+                          variant={isChosen ? "primary" : "secondary"}
+                          label={dName}
+                          onClick={() => {
+                            setSelectedDistrict(m.district_id);
+                            updateUrl(selectedType, m.district_id, null, pincodeInput);
+                          }}
+                        />
+                      );
+                    })}
+                  </div>
+                </Banner>
+              )}
 
-            {/* If not found */}
-            {pincodeNotFound && (
-              <div className="p-3 rounded-btn bg-amber-50 border border-amber-300 text-amber-900 text-[14px] leading-relaxed">
-                {t("flow.pincodeNotFound")}
-              </div>
-            )}
-          </div>
+              {pincodeNotFound && (
+                <Banner status="warning" container="card" title={t("flow.pincodeNotFound")} />
+              )}
+            </div>
+          </Card>
 
-          {/* District Select */}
           <SearchSelect
             label={t("flow.selectDistrict")}
             options={districtOptions}
@@ -452,29 +438,28 @@ function WizardContent() {
       {/* STEP 3: Place (Village / Ward) */}
       {step === 3 && (
         <section aria-labelledby="q3-heading" className="space-y-5">
-          <h1 id="q3-heading" className="text-[26px] sm:text-[32px] font-bold text-text leading-tight mb-2">
+          <h1 id="q3-heading" className="font-editorial text-[28px] sm:text-[34px] font-bold text-text leading-tight">
             {selectedType === "gram_panchayat" ? t("flow.q3.village") : t("flow.q3.ward")}
           </h1>
 
-          {/* If unknown, ask Village or Town first */}
           {selectedType === "unknown" && !unknownChoice && (
             <div className="space-y-3 mb-4">
               <h3 className="font-semibold text-[18px] text-text">{t("flow.villageOrTown")}</h3>
               <div className="grid grid-cols-2 gap-3">
-                <button
+                <Button
                   type="button"
+                  variant="secondary"
+                  size="lg"
+                  label={t("flow.village")}
                   onClick={() => setUnknownChoice("village")}
-                  className="min-h-btn px-4 py-3 rounded-btn border-2 border-border font-bold text-[16px] hover:border-primary hover:bg-primary/5"
-                >
-                  {t("flow.village")}
-                </button>
-                <button
+                />
+                <Button
                   type="button"
+                  variant="secondary"
+                  size="lg"
+                  label={t("flow.town")}
                   onClick={() => setUnknownChoice("town")}
-                  className="min-h-btn px-4 py-3 rounded-btn border-2 border-border font-bold text-[16px] hover:border-primary hover:bg-primary/5"
-                >
-                  {t("flow.town")}
-                </button>
+                />
               </div>
             </div>
           )}
@@ -504,32 +489,36 @@ function WizardContent() {
       {/* STEP 4: Results "Your officers" */}
       {step === 4 && resolution && (
         <section aria-labelledby="results-heading" className="space-y-6">
-          <div className="flex items-center justify-between gap-3 mb-2">
-            <button
+          <div className="flex items-center justify-between gap-3">
+            <Button
               type="button"
+              variant="secondary"
+              size="sm"
+              label={t("flow.back")}
               onClick={handleBack}
-              className="inline-flex items-center gap-1.5 px-3 py-1.5 text-muted hover:text-text font-medium text-[15px] rounded-btn border border-border hover:bg-surface"
-            >
-              <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
-                <polyline points="15 18 9 12 15 6" />
-              </svg>
-              <span>{t("flow.back")}</span>
-            </button>
-            <span className="text-[14px] font-semibold text-success bg-success/10 px-3 py-1 rounded-full">
-              {resolution.place
-                ? getLocalized(resolution.place, "name", lang)
-                : selectedDistrict}
-            </span>
+              icon={
+                <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2">
+                  <polyline points="15 18 9 12 15 6" />
+                </svg>
+              }
+            />
+            <Badge
+              variant="success"
+              label={
+                resolution.place
+                  ? getLocalized(resolution.place, "name", lang)
+                  : selectedDistrict || ""
+              }
+            />
           </div>
 
-          <h1 id="results-heading" className="text-[28px] sm:text-[34px] font-bold text-text leading-tight">
+          <h1 id="results-heading" className="font-editorial text-[30px] sm:text-[36px] font-bold text-text leading-tight">
             {t("results.title")}
           </h1>
 
-          {/* Place Summary Header */}
           {resolution.place && (
-            <div className="p-4 rounded-card bg-surface border border-border text-[15px] sm:text-[16px] text-text font-medium">
-              📍 {getLocalized(resolution.place, "name", lang)}
+            <div className="p-4 rounded-[6px] bg-surface border border-border border-l-4 border-l-[#154273] text-[15px] text-text font-medium">
+              {getLocalized(resolution.place, "name", lang)}
               {resolution.place.gp_id && ` · GP: ${resolution.place.gp_id}`}
               {resolution.place.block_id && ` · Block: ${resolution.place.block_id}`}
               {resolution.place.tehsil_id && ` · Tehsil: ${resolution.place.tehsil_id}`}
@@ -537,45 +526,38 @@ function WizardContent() {
             </div>
           )}
 
-          {/* Coverage Gap Warning if block data missing */}
           {resolution.hasCoverageGap && <CoverageBanner />}
 
-          {/* Cantonment / Authority Area Notice */}
           {resolution.isCantonmentOrOther && (
-            <div className="p-5 rounded-card bg-blue-50 border-2 border-blue-200 text-blue-950 mb-6">
-              <h3 className="font-bold text-[18px] text-blue-900 mb-1">
-                {t("results.cantonmentTitle")}
-              </h3>
-              <p className="text-[15px] leading-relaxed text-blue-800">
-                {t("results.cantonmentDesc")}
-              </p>
-            </div>
+            <Banner
+              status="info"
+              container="card"
+              title={t("results.cantonmentTitle")}
+              description={t("results.cantonmentDesc")}
+            />
           )}
 
-          {/* Officer Cards List */}
           <div className="space-y-4" aria-live="polite">
             {resolution.officers.map((item) => (
               <OfficerCard key={`${item.office.id}-${item.resolvedRole}`} item={item} />
             ))}
 
-            {/* State Helpline & Jansunwai Card */}
-            <article className="p-5 sm:p-6 bg-gradient-to-br from-slate-900 to-slate-800 text-white rounded-card shadow-md">
-              <div className="flex items-center gap-2 mb-2">
-                <span className="px-2.5 py-1 rounded text-[12px] font-bold uppercase tracking-wider bg-amber-400 text-slate-900">
-                  {t("results.stateOfficeTitle")}
-                </span>
-              </div>
-              <h3 className="font-bold text-[20px] sm:text-[22px] text-white">
+            {/* State Escalation Panel — Classic Royal Delft Navy */}
+            <article className="p-6 bg-[#154273] text-white rounded-[6px] border-t-4 border-[#C84B16]">
+              <p className="text-[11px] font-bold uppercase tracking-[0.1em] text-[#F39C72] mb-1.5">
+                {t("results.stateOfficeTitle")}
+              </p>
+              <h3 className="font-editorial font-bold text-[22px] text-white">
                 {t("helpline.bar")}
               </h3>
-              <p className="text-[14px] sm:text-[15px] text-slate-300 mt-1 mb-4 leading-relaxed">
+              <p className="text-[15px] text-[#DCE6F2] mt-1.5 mb-5 leading-relaxed">
                 {t("results.stateOfficeDesc")}
               </p>
 
-              <div className="flex flex-wrap items-center gap-3 pt-2">
+              <div className="flex flex-wrap items-center gap-3">
                 <a
                   href={`tel:${resolution.stateHelpline.number}`}
-                  className="inline-flex items-center gap-2 px-5 py-2.5 bg-amber-400 hover:bg-amber-500 text-slate-900 font-bold rounded-btn transition-colors"
+                  className="inline-flex items-center gap-2 px-5 py-2.5 bg-[#C84B16] hover:bg-[#AD3E0F] text-white font-semibold rounded-[4px] transition-colors tabular-nums"
                 >
                   <span>{t("helpline.call")}</span>
                 </a>
@@ -583,22 +565,19 @@ function WizardContent() {
                   href={resolution.stateHelpline.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1.5 px-4 py-2.5 bg-white/10 hover:bg-white/20 text-white font-medium rounded-btn transition-colors text-[15px]"
+                  className="inline-flex items-center gap-1.5 px-4 py-2.5 border border-white/30 hover:bg-white/10 text-white font-medium rounded-[4px] transition-colors text-[15px]"
                 >
                   <span>{t("results.jansunwaiLinkText")}</span>
-                  <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                    <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
-                    <polyline points="15 3 21 3 21 9" />
-                    <line x1="10" y1="14" x2="21" y2="3" />
-                  </svg>
+                  <span aria-hidden="true">↗</span>
                 </a>
               </div>
             </article>
           </div>
 
-          {/* NEXT STEPS ROW */}
-          <div className="mt-8 pt-6 border-t-2 border-border">
-            <h3 className="font-bold text-[20px] text-text mb-4">
+          <Divider />
+
+          <div className="pt-2">
+            <h3 className="font-editorial font-bold text-[22px] text-text mb-4">
               {t("results.nextStepTitle")}
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
@@ -606,7 +585,7 @@ function WizardContent() {
                 href={`/issue/street-light/?district=${encodeURIComponent(
                   selectedDistrict || ""
                 )}&place=${encodeURIComponent(selectedPlace || "")}`}
-                className="p-4 rounded-btn border-2 border-primary bg-primary/5 hover:bg-primary/10 text-primary font-bold text-center text-[15px] transition-colors"
+                className="p-4 rounded-[4px] border border-[#154273] bg-[#EBF1F6]/60 hover:bg-[#EBF1F6] text-[#154273] font-semibold text-center text-[15px] transition-colors"
               >
                 {t("results.ladderBtn")}
               </Link>
@@ -614,7 +593,7 @@ function WizardContent() {
                 href={`/letter/?district=${encodeURIComponent(
                   selectedDistrict || ""
                 )}&place=${encodeURIComponent(selectedPlace || "")}`}
-                className="p-4 rounded-btn border-2 border-border hover:border-primary hover:bg-surface text-text font-bold text-center text-[15px] transition-colors"
+                className="p-4 rounded-[4px] border border-borderStrong hover:border-[#154273] bg-surface text-text font-semibold text-center text-[15px] transition-colors"
               >
                 {t("results.letterBtn")}
               </Link>
@@ -622,7 +601,7 @@ function WizardContent() {
                 href={`/rti/?district=${encodeURIComponent(
                   selectedDistrict || ""
                 )}&place=${encodeURIComponent(selectedPlace || "")}`}
-                className="p-4 rounded-btn border-2 border-border hover:border-primary hover:bg-surface text-text font-bold text-center text-[15px] transition-colors"
+                className="p-4 rounded-[4px] border border-borderStrong hover:border-[#154273] bg-surface text-text font-semibold text-center text-[15px] transition-colors"
               >
                 {t("results.rtiBtn")}
               </Link>

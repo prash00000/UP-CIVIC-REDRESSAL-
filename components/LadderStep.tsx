@@ -1,6 +1,9 @@
 "use client";
 
 import React from "react";
+import { Badge } from "@astryxdesign/core/Badge";
+import { Heading } from "@astryxdesign/core/Heading";
+import { Text } from "@astryxdesign/core/Text";
 import { useT, useLang } from "@/lib/i18n";
 import { IssueStep } from "@/lib/types";
 
@@ -16,59 +19,55 @@ export default function LadderStep({ step, officerName, isLast = false }: Ladder
 
   const roleName = t(`role.${step.role}`);
   const howText = lang === "hi" ? step.how_hi : step.how_en;
+  const formattedOrder = String(step.order).padStart(2, "0");
 
   return (
     <div className="relative flex gap-4 pb-8 last:pb-2">
-      {/* Step line */}
+      {/* Vertical hairline connector */}
       {!isLast && (
-        <div className="absolute top-10 left-5 bottom-0 w-0.5 bg-border -translate-x-1/2" />
+        <div className="absolute top-10 left-[19px] bottom-0 w-px bg-border" />
       )}
 
-      {/* Step Number Circle */}
-      <div className="w-10 h-10 rounded-full bg-primary text-white font-bold flex items-center justify-center flex-shrink-0 z-10 text-[16px] shadow-sm">
-        {step.order}
+      {/* Architectural Step Index Square */}
+      <div className="w-10 h-10 rounded-[4px] bg-[#154273] text-white font-bold flex items-center justify-center flex-shrink-0 z-10 text-[15px] tabular-nums border border-[#0F3156]">
+        {formattedOrder}
       </div>
 
       {/* Step Content */}
-      <div className="flex-1 pt-1">
-        <div className="flex flex-wrap items-baseline gap-2 mb-1">
-          <h4 className="font-bold text-[18px] text-text">
-            {roleName}
-          </h4>
+      <div className="flex-1 pt-0.5 space-y-2">
+        <div className="flex flex-wrap items-center gap-2">
+          <Heading level={4}>{roleName}</Heading>
           {officerName && (
-            <span className="text-[14px] font-semibold text-primary bg-primary/10 px-2 py-0.5 rounded">
-              {officerName}
-            </span>
+            <Badge variant="info" label={officerName} />
           )}
         </div>
 
-        <p className="text-[15px] sm:text-[16px] text-slate-800 leading-relaxed mb-2">
+        <Text as="p" type="body">
           {howText}
-        </p>
+        </Text>
 
         {/* Time Limit */}
         <div className="text-[13px] sm:text-[14px]">
           {step.time_limit_days !== null && step.time_limit_source_url ? (
-            <div className="inline-flex items-center gap-1.5 font-semibold text-success bg-success/10 px-2.5 py-1 rounded">
-              <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
-                <circle cx="12" cy="12" r="10" />
-                <polyline points="12 6 12 12 16 14" />
-              </svg>
-              <span>{t("ladder.timeLimit", { days: step.time_limit_days })}</span>
+            <div className="inline-flex flex-wrap items-center gap-2">
+              <Badge
+                variant="success"
+                label={t("ladder.timeLimit", { days: step.time_limit_days })}
+              />
               <a
                 href={step.time_limit_source_url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="underline hover:text-success text-[12px] ml-1"
+                className="underline text-[#154273] hover:text-[#0F3156] text-[13px] font-medium"
                 title="Official Source"
               >
-                (स्रोत / Source)
+                (स्रोत / Source) ↗
               </a>
             </div>
           ) : (
-            <span className="text-muted italic">
+            <Text type="supporting" color="secondary">
               {t("ladder.noTimeLimit")}
-            </span>
+            </Text>
           )}
         </div>
       </div>

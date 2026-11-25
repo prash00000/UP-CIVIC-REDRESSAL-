@@ -22,45 +22,47 @@ export default function ChoiceButton({
       type="button"
       onClick={onClick}
       aria-pressed={selected}
-      className={`w-full min-h-btn text-left p-4 rounded-card border-2 transition-all flex items-center justify-between gap-4 focus-visible:outline-primary ${
+      className={`w-full min-h-btn text-left p-4 rounded-[6px] border transition-colors flex items-center justify-between gap-4 focus-visible:outline-primary ${
         selected
-          ? "border-primary bg-primary/5 shadow-sm"
-          : "border-border bg-bg hover:border-slate-300 hover:bg-surface"
+          ? "border-[#154273] border-l-4 bg-[#EBF1F6]/60"
+          : "border-border bg-surface hover:border-borderStrong hover:bg-mutedSurface/40"
       }`}
     >
-      <div className="flex items-center gap-3.5">
+      <div className="flex items-center gap-3.5 min-w-0">
         {icon && (
           <div
-            className={`w-10 h-10 rounded-full flex items-center justify-center flex-shrink-0 ${
-              selected ? "bg-primary text-white" : "bg-surface text-muted"
+            className={`w-9 h-9 rounded-[4px] border flex items-center justify-center flex-shrink-0 ${
+              selected
+                ? "bg-[#154273] border-[#154273] text-white"
+                : "bg-bg border-border text-muted"
             }`}
           >
             {icon}
           </div>
         )}
-        <div>
-          <span className="block font-semibold text-[17px] sm:text-[18px] text-text leading-snug">
+        <div className="min-w-0">
+          <span className="block font-semibold text-[16px] sm:text-[17px] text-text leading-snug">
             {title}
           </span>
           {subtitle && (
-            <span className="block text-[14px] sm:text-[15px] text-muted mt-0.5 leading-normal">
+            <span className="block text-[14px] text-muted mt-0.5 leading-normal">
               {subtitle}
             </span>
           )}
         </div>
       </div>
 
-      {/* Check Icon if selected */}
+      {/* Architectural square check indicator */}
       <div
-        className={`w-6 h-6 rounded-full border-2 flex items-center justify-center flex-shrink-0 transition-colors ${
+        className={`w-5 h-5 rounded-[3px] border flex items-center justify-center flex-shrink-0 transition-colors ${
           selected
-            ? "border-primary bg-primary text-white"
-            : "border-slate-300 bg-white"
+            ? "border-[#154273] bg-[#154273] text-white"
+            : "border-borderStrong bg-surface"
         }`}
         aria-hidden="true"
       >
         {selected && (
-          <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3">
+          <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3">
             <polyline points="20 6 9 17 4 12" />
           </svg>
         )}

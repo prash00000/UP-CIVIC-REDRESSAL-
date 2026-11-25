@@ -2,6 +2,9 @@
 
 import React, { useState, useEffect, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
+import { Card } from "@astryxdesign/core/Card";
+import { Banner } from "@astryxdesign/core/Banner";
+import { Button } from "@astryxdesign/core/Button";
 import { useT, useLang, getLocalized, formatDate } from "@/lib/i18n";
 import { DistrictData, Place } from "@/lib/types";
 import { loadDistrictData, loadPlacesData } from "@/lib/data";
@@ -73,8 +76,8 @@ function RtiContent() {
   return (
     <div className="max-w-[840px] mx-auto space-y-8">
       {/* Page Title (hidden on print) */}
-      <div className="no-print space-y-2">
-        <h1 className="text-[28px] sm:text-[34px] font-extrabold text-text">
+      <div className="no-print space-y-2 border-b border-border pb-5">
+        <h1 className="font-editorial text-[30px] sm:text-[36px] font-bold text-text">
           {t("rti.title")}
         </h1>
         <p className="text-[16px] text-muted leading-relaxed">
@@ -83,7 +86,9 @@ function RtiContent() {
       </div>
 
       {/* FORM INPUTS (hidden on print) */}
-      <section aria-label="RTI Form" className="no-print p-6 rounded-card bg-surface border border-border space-y-4">
+      <section aria-label="RTI Form" className="no-print">
+        <Card padding={5} variant="default" elevation="none">
+          <div className="space-y-4">
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div>
             <label className="block text-label font-semibold text-text mb-1">
@@ -153,29 +158,26 @@ function RtiContent() {
         </div>
 
         {/* Official Fee Notice Alert (Mandatory rule: no hardcoded fee!) */}
-        <div className="p-3.5 rounded-btn bg-amber-50 border border-amber-300 text-amber-900 text-[14px] flex items-center gap-2">
-          <svg className="w-5 h-5 flex-shrink-0 text-warning" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-            <circle cx="12" cy="12" r="10" />
-            <line x1="12" y1="8" x2="12" y2="12" />
-            <line x1="12" y1="16" x2="12.01" y2="16" />
-          </svg>
-          <span className="font-semibold">{t("rti.feeNotice")}</span>
-        </div>
+        <Banner status="warning" container="card" title={t("rti.feeNotice")} />
 
         <div className="pt-2 flex justify-end">
-          <button
+          <Button
             type="button"
+            variant="primary"
+            size="md"
+            label={t("rti.print")}
             onClick={handlePrint}
-            className="min-h-btn px-6 py-2.5 bg-primary hover:bg-primary-hover text-white font-bold rounded-btn transition-colors flex items-center gap-2"
-          >
-            <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-              <polyline points="6 9 6 2 18 2 18 9" />
-              <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2" />
-              <rect x="6" y="14" width="12" height="8" />
-            </svg>
-            <span>{t("rti.print")}</span>
-          </button>
+            icon={
+              <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                <polyline points="6 9 6 2 18 2 18 9" />
+                <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2" />
+                <rect x="6" y="14" width="12" height="8" />
+              </svg>
+            }
+          />
         </div>
+          </div>
+        </Card>
       </section>
 
       {/* RENDERED RTI DRAFT (FORM - A) */}

@@ -1,0 +1,482 @@
+{
+  "schemaVersion": 1,
+  "recipe": "astryx-oklch-v1",
+  "generatorVersion": "palette-generator-v1",
+  "candidateFormatVersion": "palette-typescript-v1",
+  "candidateSha256": "73d40b3612b08b38fb7c788cd653428aa92daa5806e67a56bc03184c7a6f380a",
+  "request": {
+    "recipe": "astryx-oklch-v1",
+    "vibrancy": 14,
+    "neutralProfile": "neutral-v1",
+    "modeStrategy": "light-and-dark",
+    "stops": [
+      0,
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40,
+      45,
+      50,
+      55,
+      60,
+      65,
+      70,
+      75,
+      80,
+      85,
+      90,
+      95,
+      100
+    ],
+    "families": [
+      {
+        "id": "neutral",
+        "name": "Dutch Archival Neutral",
+        "seed": "#736f66",
+        "kind": "chromatic",
+        "anchors": [
+          {
+            "mode": "light",
+            "stop": 10,
+            "color": "#161b22",
+            "policy": "exact"
+          },
+          {
+            "mode": "light",
+            "stop": 35,
+            "color": "#4a515b",
+            "policy": "exact"
+          },
+          {
+            "mode": "light",
+            "stop": 85,
+            "color": "#d8d4ca",
+            "policy": "exact"
+          },
+          {
+            "mode": "light",
+            "stop": 90,
+            "color": "#efece6",
+            "policy": "exact"
+          },
+          {
+            "mode": "light",
+            "stop": 95,
+            "color": "#f7f6f2",
+            "policy": "exact"
+          }
+        ]
+      },
+      {
+        "id": "blue",
+        "name": "Delft Civic Navy",
+        "seed": "#154273",
+        "kind": "chromatic",
+        "anchors": [
+          {
+            "mode": "light",
+            "stop": 30,
+            "color": "#154273",
+            "policy": "exact"
+          },
+          {
+            "mode": "light",
+            "stop": 90,
+            "color": "#ebf1f6",
+            "policy": "exact"
+          }
+        ]
+      },
+      {
+        "id": "orange",
+        "name": "Dutch Terracotta",
+        "seed": "#c84b16",
+        "kind": "chromatic",
+        "anchors": [
+          {
+            "mode": "light",
+            "stop": 45,
+            "color": "#c84b16",
+            "policy": "exact"
+          },
+          {
+            "mode": "light",
+            "stop": 90,
+            "color": "#fbefe9",
+            "policy": "exact"
+          }
+        ]
+      },
+      {
+        "id": "green",
+        "name": "Staatsgroen",
+        "seed": "#245937",
+        "kind": "chromatic",
+        "anchors": [
+          {
+            "mode": "light",
+            "stop": 35,
+            "color": "#245937",
+            "policy": "exact"
+          },
+          {
+            "mode": "light",
+            "stop": 90,
+            "color": "#ecf3ee",
+            "policy": "exact"
+          }
+        ]
+      },
+      {
+        "id": "yellow",
+        "name": "Archival Ochre",
+        "seed": "#8a5300",
+        "kind": "chromatic",
+        "anchors": [
+          {
+            "mode": "light",
+            "stop": 40,
+            "color": "#8a5300",
+            "policy": "exact"
+          },
+          {
+            "mode": "light",
+            "stop": 90,
+            "color": "#fdf4e3",
+            "policy": "exact"
+          }
+        ]
+      },
+      {
+        "id": "red",
+        "name": "Dutch Carmine",
+        "seed": "#a31c1c",
+        "kind": "chromatic",
+        "anchors": [
+          {
+            "mode": "light",
+            "stop": 40,
+            "color": "#a31c1c",
+            "policy": "exact"
+          },
+          {
+            "mode": "light",
+            "stop": 90,
+            "color": "#fbecec",
+            "policy": "exact"
+          }
+        ]
+      }
+    ]
+  },
+  "diagnostics": {
+    "families": {
+      "neutral": {
+        "light": {
+          "monotonic": true,
+          "minimumAdjacentDeltaE": 2.772939478084877,
+          "maximumAdjacentDeltaE": 17.667320405456728,
+          "maximumHueDrift": 173.38417684092957,
+          "hueIdentityRisk": null,
+          "gamutMappedStops": [
+            100
+          ],
+          "anchors": [
+            {
+              "mode": "light",
+              "stop": 10,
+              "color": "#161b22",
+              "policy": "exact",
+              "generatedColor": "#161b22",
+              "deltaE": 0
+            },
+            {
+              "mode": "light",
+              "stop": 35,
+              "color": "#4a515b",
+              "policy": "exact",
+              "generatedColor": "#4a515b",
+              "deltaE": 0
+            },
+            {
+              "mode": "light",
+              "stop": 85,
+              "color": "#d8d4ca",
+              "policy": "exact",
+              "generatedColor": "#d8d4ca",
+              "deltaE": 0
+            },
+            {
+              "mode": "light",
+              "stop": 90,
+              "color": "#efece6",
+              "policy": "exact",
+              "generatedColor": "#efece6",
+              "deltaE": 0
+            },
+            {
+              "mode": "light",
+              "stop": 95,
+              "color": "#f7f6f2",
+              "policy": "exact",
+              "generatedColor": "#f7f6f2",
+              "deltaE": 0
+            }
+          ]
+        },
+        "dark": {
+          "monotonic": true,
+          "minimumAdjacentDeltaE": 4.1098407986094365,
+          "maximumAdjacentDeltaE": 17.74009557327942,
+          "maximumHueDrift": 4.644140253827459,
+          "hueIdentityRisk": null,
+          "gamutMappedStops": [
+            100
+          ],
+          "anchors": []
+        }
+      },
+      "blue": {
+        "light": {
+          "monotonic": true,
+          "minimumAdjacentDeltaE": 2.2930949346598832,
+          "maximumAdjacentDeltaE": 17.81841922447386,
+          "maximumHueDrift": 9.382589632995632,
+          "hueIdentityRisk": null,
+          "gamutMappedStops": [
+            95,
+            100
+          ],
+          "anchors": [
+            {
+              "mode": "light",
+              "stop": 30,
+              "color": "#154273",
+              "policy": "exact",
+              "generatedColor": "#154273",
+              "deltaE": 0
+            },
+            {
+              "mode": "light",
+              "stop": 90,
+              "color": "#ebf1f6",
+              "policy": "exact",
+              "generatedColor": "#ebf1f6",
+              "deltaE": 0
+            }
+          ]
+        },
+        "dark": {
+          "monotonic": true,
+          "minimumAdjacentDeltaE": 4.157849837624168,
+          "maximumAdjacentDeltaE": 17.76797533894901,
+          "maximumHueDrift": 2.841820657523158,
+          "hueIdentityRisk": null,
+          "gamutMappedStops": [
+            95,
+            100
+          ],
+          "anchors": []
+        }
+      },
+      "orange": {
+        "light": {
+          "monotonic": true,
+          "minimumAdjacentDeltaE": 2.1557503831186287,
+          "maximumAdjacentDeltaE": 18.109385154724126,
+          "maximumHueDrift": 8.331329780743204,
+          "hueIdentityRisk": null,
+          "gamutMappedStops": [
+            95,
+            100
+          ],
+          "anchors": [
+            {
+              "mode": "light",
+              "stop": 45,
+              "color": "#c84b16",
+              "policy": "exact",
+              "generatedColor": "#c84b16",
+              "deltaE": 0
+            },
+            {
+              "mode": "light",
+              "stop": 90,
+              "color": "#fbefe9",
+              "policy": "exact",
+              "generatedColor": "#fbefe9",
+              "deltaE": 0
+            }
+          ]
+        },
+        "dark": {
+          "monotonic": true,
+          "minimumAdjacentDeltaE": 4.119111562467212,
+          "maximumAdjacentDeltaE": 17.932196181373712,
+          "maximumHueDrift": 1.2840739478564274,
+          "hueIdentityRisk": null,
+          "gamutMappedStops": [
+            95,
+            100
+          ],
+          "anchors": []
+        }
+      },
+      "green": {
+        "light": {
+          "monotonic": true,
+          "minimumAdjacentDeltaE": 2.2053305761979405,
+          "maximumAdjacentDeltaE": 17.90297967620775,
+          "maximumHueDrift": 3.4380649323953776,
+          "hueIdentityRisk": null,
+          "gamutMappedStops": [
+            100
+          ],
+          "anchors": [
+            {
+              "mode": "light",
+              "stop": 35,
+              "color": "#245937",
+              "policy": "exact",
+              "generatedColor": "#245937",
+              "deltaE": 0
+            },
+            {
+              "mode": "light",
+              "stop": 90,
+              "color": "#ecf3ee",
+              "policy": "exact",
+              "generatedColor": "#ecf3ee",
+              "deltaE": 0
+            }
+          ]
+        },
+        "dark": {
+          "monotonic": true,
+          "minimumAdjacentDeltaE": 4.200594219193162,
+          "maximumAdjacentDeltaE": 17.630659855859125,
+          "maximumHueDrift": 2.249755084471758,
+          "hueIdentityRisk": null,
+          "gamutMappedStops": [
+            100
+          ],
+          "anchors": []
+        }
+      },
+      "yellow": {
+        "light": {
+          "monotonic": true,
+          "minimumAdjacentDeltaE": 1.9475571236631442,
+          "maximumAdjacentDeltaE": 17.922176238458015,
+          "maximumHueDrift": 16.513957927930505,
+          "hueIdentityRisk": null,
+          "gamutMappedStops": [
+            100
+          ],
+          "anchors": [
+            {
+              "mode": "light",
+              "stop": 40,
+              "color": "#8a5300",
+              "policy": "exact",
+              "generatedColor": "#8a5300",
+              "deltaE": 0
+            },
+            {
+              "mode": "light",
+              "stop": 90,
+              "color": "#fdf4e3",
+              "policy": "exact",
+              "generatedColor": "#fdf4e3",
+              "deltaE": 0
+            }
+          ]
+        },
+        "dark": {
+          "monotonic": true,
+          "minimumAdjacentDeltaE": 4.207354661665984,
+          "maximumAdjacentDeltaE": 17.990828217014066,
+          "maximumHueDrift": 9.523211427507647,
+          "hueIdentityRisk": null,
+          "gamutMappedStops": [
+            100
+          ],
+          "anchors": []
+        }
+      },
+      "red": {
+        "light": {
+          "monotonic": true,
+          "minimumAdjacentDeltaE": 2.1254831029564656,
+          "maximumAdjacentDeltaE": 17.977699430307613,
+          "maximumHueDrift": 10.167106022758503,
+          "hueIdentityRisk": null,
+          "gamutMappedStops": [
+            95,
+            100
+          ],
+          "anchors": [
+            {
+              "mode": "light",
+              "stop": 40,
+              "color": "#a31c1c",
+              "policy": "exact",
+              "generatedColor": "#a31c1c",
+              "deltaE": 0
+            },
+            {
+              "mode": "light",
+              "stop": 90,
+              "color": "#fbecec",
+              "policy": "exact",
+              "generatedColor": "#fbecec",
+              "deltaE": 0
+            }
+          ]
+        },
+        "dark": {
+          "monotonic": true,
+          "minimumAdjacentDeltaE": 4.123190416580708,
+          "maximumAdjacentDeltaE": 17.97520638343134,
+          "maximumHueDrift": 1.5826840736837653,
+          "hueIdentityRisk": null,
+          "gamutMappedStops": [
+            95,
+            100
+          ],
+          "anchors": []
+        }
+      }
+    },
+    "coordination": [
+      {
+        "mode": "light",
+        "stop": 50,
+        "closestFamilies": [
+          "Dutch Archival Neutral",
+          "Staatsgroen"
+        ],
+        "minimumFamilyDeltaE": 4.683333211548002,
+        "strongestFamily": "Dutch Terracotta",
+        "weakestFamily": "Dutch Archival Neutral",
+        "chromaRatio": 5.195408925991463
+      },
+      {
+        "mode": "dark",
+        "stop": 50,
+        "closestFamilies": [
+          "Dutch Terracotta",
+          "Dutch Carmine"
+        ],
+        "minimumFamilyDeltaE": 1.302053902191158,
+        "strongestFamily": "Dutch Terracotta",
+        "weakestFamily": "Dutch Archival Neutral",
+        "chromaRatio": 1.5688765707349337
+      }
+    ]
+  }
+}

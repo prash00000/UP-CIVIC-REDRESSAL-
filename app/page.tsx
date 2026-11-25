@@ -3,15 +3,83 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
+import { Card } from "@astryxdesign/core/Card";
+import { Button } from "@astryxdesign/core/Button";
+import { Heading } from "@astryxdesign/core/Heading";
+import { Text } from "@astryxdesign/core/Text";
+import { Divider } from "@astryxdesign/core/Divider";
 import { useT } from "@/lib/i18n";
 
-const ISSUES = [
-  { slug: "street-light", icon: "💡", titleKey: "issue.street-light" },
-  { slug: "drain", icon: "🌊", titleKey: "issue.drain" },
-  { slug: "road", icon: "🛣️", titleKey: "issue.road" },
-  { slug: "handpump-water", icon: "🚰", titleKey: "issue.handpump-water" },
-  { slug: "mgnrega", icon: "💼", titleKey: "issue.mgnrega" },
-  { slug: "garbage", icon: "🗑️", titleKey: "issue.garbage" },
+const ISSUES: { slug: string; titleKey: string; icon: React.ReactNode }[] = [
+  {
+    slug: "street-light",
+    titleKey: "issue.street-light",
+    icon: (
+      <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9">
+        <path d="M9 18h6" />
+        <path d="M10 22h4" />
+        <path d="M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0 0 18 8 6 6 0 0 0 6 8c0 1 .23 2.23 1.5 3.5A4.61 4.61 0 0 1 8.91 14" />
+      </svg>
+    ),
+  },
+  {
+    slug: "drain",
+    titleKey: "issue.drain",
+    icon: (
+      <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9">
+        <path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z" />
+      </svg>
+    ),
+  },
+  {
+    slug: "road",
+    titleKey: "issue.road",
+    icon: (
+      <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9">
+        <path d="M4 19L8 5" />
+        <path d="M20 19L16 5" />
+        <line x1="12" y1="6" x2="12" y2="9" />
+        <line x1="12" y1="12" x2="12" y2="15" />
+        <line x1="12" y1="18" x2="12" y2="20" />
+      </svg>
+    ),
+  },
+  {
+    slug: "handpump-water",
+    titleKey: "issue.handpump-water",
+    icon: (
+      <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9">
+        <path d="M6 12h12" />
+        <path d="M8 12v8" />
+        <path d="M16 12v4a2 2 0 0 1-2 2h-1" />
+        <path d="M12 12V6l4-2" />
+      </svg>
+    ),
+  },
+  {
+    slug: "mgnrega",
+    titleKey: "issue.mgnrega",
+    icon: (
+      <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9">
+        <rect x="3" y="4" width="18" height="16" rx="2" />
+        <line x1="7" y1="9" x2="17" y2="9" />
+        <line x1="7" y1="13" x2="17" y2="13" />
+        <line x1="7" y1="17" x2="12" y2="17" />
+      </svg>
+    ),
+  },
+  {
+    slug: "garbage",
+    titleKey: "issue.garbage",
+    icon: (
+      <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9">
+        <polyline points="3 6 5 6 21 6" />
+        <path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6" />
+        <path d="M10 11v6" />
+        <path d="M14 11v6" />
+      </svg>
+    ),
+  },
 ];
 
 export default function HomePage() {
@@ -21,114 +89,147 @@ export default function HomePage() {
 
   return (
     <div className="space-y-12 md:space-y-16">
-      {/* HERO SECTION */}
-      <section className="text-center max-w-[760px] mx-auto pt-4 md:pt-8">
-        <h1 className="text-[34px] sm:text-[44px] md:text-[48px] font-extrabold text-text tracking-tight leading-tight mb-4">
-          {t("home.title")}
-        </h1>
-        <p className="text-[17px] sm:text-[19px] text-muted leading-relaxed mb-8 max-w-[660px] mx-auto">
-          {t("home.sub")}
-        </p>
+      {/* DUTCH EDITORIAL HERO: Asymmetric 7 + 5 Split */}
+      <section className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-10 items-start pt-2 md:pt-4">
+        <div className="lg:col-span-7 space-y-5">
+          <p className="text-[12px] font-bold uppercase tracking-[0.1em] text-[#154273]">
+            {t("home.eyebrow")}
+          </p>
 
-        <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-          <Link
-            href="/find/"
-            className="w-full sm:w-auto inline-flex items-center justify-center min-h-btn px-8 py-3.5 bg-primary hover:bg-primary-hover text-white text-[18px] font-bold rounded-btn transition-colors shadow-md focus-visible:outline-primary"
-          >
-            {t("home.cta")}
-          </Link>
-          <Link
-            href="/directory/"
-            className="w-full sm:w-auto inline-flex items-center justify-center min-h-btn px-6 py-3.5 border-2 border-border hover:border-slate-400 bg-surface text-text text-[17px] font-semibold rounded-btn transition-colors"
-          >
-            {t("nav.directory")}
-          </Link>
+          <h1 className="font-editorial text-[36px] sm:text-[46px] md:text-[52px] font-bold text-text tracking-[-0.02em] leading-[1.14]">
+            {t("home.title")}
+          </h1>
+
+          <p className="text-[17px] sm:text-[19px] text-muted leading-relaxed max-w-[600px]">
+            {t("home.sub")}
+          </p>
+
+          <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3 pt-2">
+            <Link
+              href="/find/"
+              className="inline-flex items-center justify-center min-h-btn px-7 py-3 bg-[#154273] hover:bg-[#0F3156] text-white text-[16px] font-semibold rounded-[4px] transition-colors focus-visible:outline-primary"
+            >
+              {t("home.cta")}
+            </Link>
+            <Link
+              href="/directory/"
+              className="inline-flex items-center justify-center min-h-btn px-6 py-3 border border-borderStrong hover:border-[#154273] bg-surface text-text text-[16px] font-semibold rounded-[4px] transition-colors"
+            >
+              {t("nav.directory")}
+            </Link>
+          </div>
+
+          <p className="text-[13px] font-medium text-muted pt-2 border-t border-border tabular-nums">
+            {t("home.statsStrip")}
+          </p>
         </div>
 
-        {/* Quick PIN Code Form */}
-        <form
-          onSubmit={(e) => {
-            e.preventDefault();
-            const clean = homePin.replace(/\D/g, "");
-            if (clean.length === 6) {
-              router.push(`/find/?pincode=${clean}`);
-            }
-          }}
-          className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-2 max-w-[420px] mx-auto"
-        >
-          <input
-            type="text"
-            inputMode="numeric"
-            maxLength={6}
-            value={homePin}
-            onChange={(e) => setHomePin(e.target.value.replace(/\D/g, "").slice(0, 6))}
-            placeholder={t("flow.pincodePlaceholder")}
-            aria-label="Pincode search"
-            className="w-full sm:w-60 min-h-btn px-4 py-2.5 text-center text-[16px] font-medium border-2 border-border rounded-btn bg-surface focus:border-primary focus-visible:outline-none"
-          />
-          <button
-            type="submit"
-            disabled={homePin.length !== 6}
-            className="w-full sm:w-auto min-h-btn px-5 py-2.5 bg-primary disabled:opacity-50 hover:bg-primary-hover text-white font-bold rounded-btn transition-colors text-[16px]"
-          >
-            {t("flow.next")}
-          </button>
-        </form>
+        {/* Framed Quick PIN Lookup Panel */}
+        <div className="lg:col-span-5">
+          <Card padding={5} variant="default" elevation="none">
+            <div className="border-l-[3px] border-[#C84B16] pl-4 mb-4">
+              <p className="text-[11px] font-bold uppercase tracking-[0.08em] text-[#C84B16]">
+                {t("flow.quickPincode")}
+              </p>
+              <Heading level={3}>{t("home.pincodeCta")}</Heading>
+            </div>
+
+            <Text as="p" type="supporting" color="secondary">
+              {t("home.pinHint")}
+            </Text>
+
+            <form
+              onSubmit={(e) => {
+                e.preventDefault();
+                const clean = homePin.replace(/\D/g, "");
+                if (clean.length === 6) {
+                  router.push(`/find/?pincode=${clean}`);
+                }
+              }}
+              className="mt-4 flex flex-col sm:flex-row gap-2.5"
+            >
+              <input
+                type="text"
+                inputMode="numeric"
+                maxLength={6}
+                value={homePin}
+                onChange={(e) => setHomePin(e.target.value.replace(/\D/g, "").slice(0, 6))}
+                placeholder={t("flow.pincodePlaceholder")}
+                aria-label="Pincode search"
+                className="flex-1 min-h-btn px-3.5 py-2 text-[16px] font-medium tabular-nums border border-borderStrong rounded-[4px] bg-bg focus:border-[#154273] focus-visible:outline-none"
+              />
+              <Button
+                type="submit"
+                variant="primary"
+                size="md"
+                label={t("flow.next")}
+                isDisabled={homePin.length !== 6}
+              />
+            </form>
+          </Card>
+        </div>
       </section>
 
-      {/* HOW IT WORKS (3 Steps) */}
-      <section aria-labelledby="how-heading" className="p-6 md:p-8 rounded-card bg-surface border border-border">
-        <h2 id="how-heading" className="text-[22px] sm:text-[26px] font-bold text-text text-center mb-8">
-          {t("home.howItWorks")}
-        </h2>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-          <div className="flex flex-col items-center text-center p-4">
-            <div className="w-12 h-12 rounded-full bg-primary/10 text-primary font-extrabold text-[20px] flex items-center justify-center mb-3">
-              1
-            </div>
-            <h3 className="font-bold text-[18px] text-text mb-1">
-              {t("home.step1Title")}
-            </h3>
-            <p className="text-[15px] text-muted leading-relaxed">
-              {t("home.step1Desc")}
-            </p>
-          </div>
+      <Divider />
 
-          <div className="flex flex-col items-center text-center p-4">
-            <div className="w-12 h-12 rounded-full bg-primary/10 text-primary font-extrabold text-[20px] flex items-center justify-center mb-3">
-              2
-            </div>
-            <h3 className="font-bold text-[18px] text-text mb-1">
-              {t("home.step2Title")}
-            </h3>
-            <p className="text-[15px] text-muted leading-relaxed">
-              {t("home.step2Desc")}
-            </p>
-          </div>
-
-          <div className="flex flex-col items-center text-center p-4">
-            <div className="w-12 h-12 rounded-full bg-primary/10 text-primary font-extrabold text-[20px] flex items-center justify-center mb-3">
-              3
-            </div>
-            <h3 className="font-bold text-[18px] text-text mb-1">
-              {t("home.step3Title")}
-            </h3>
-            <p className="text-[15px] text-muted leading-relaxed">
-              {t("home.step3Desc")}
-            </p>
-          </div>
+      {/* HOW IT WORKS: Numbered Dutch Editorial 3-Column Strip */}
+      <section aria-labelledby="how-heading" className="space-y-6">
+        <div className="flex flex-col sm:flex-row sm:items-baseline justify-between gap-2">
+          <h2
+            id="how-heading"
+            className="font-editorial text-[26px] sm:text-[30px] font-bold text-text tracking-[-0.01em]"
+          >
+            {t("home.howItWorks")}
+          </h2>
         </div>
+
+        <Card padding={0} variant="default" elevation="none">
+          <div className="grid grid-cols-1 md:grid-cols-3 divide-y md:divide-y-0 md:divide-x divide-border">
+            <div className="p-6 space-y-2">
+              <span className="font-editorial text-[28px] font-bold text-[#154273] tabular-nums block">
+                01
+              </span>
+              <Heading level={3}>{t("home.step1Title")}</Heading>
+              <Text as="p" type="body" color="secondary">
+                {t("home.step1Desc")}
+              </Text>
+            </div>
+
+            <div className="p-6 space-y-2">
+              <span className="font-editorial text-[28px] font-bold text-[#154273] tabular-nums block">
+                02
+              </span>
+              <Heading level={3}>{t("home.step2Title")}</Heading>
+              <Text as="p" type="body" color="secondary">
+                {t("home.step2Desc")}
+              </Text>
+            </div>
+
+            <div className="p-6 space-y-2">
+              <span className="font-editorial text-[28px] font-bold text-[#154273] tabular-nums block">
+                03
+              </span>
+              <Heading level={3}>{t("home.step3Title")}</Heading>
+              <Text as="p" type="body" color="secondary">
+                {t("home.step3Desc")}
+              </Text>
+            </div>
+          </div>
+        </Card>
       </section>
 
       {/* ISSUE GRID */}
-      <section aria-labelledby="issues-heading">
-        <div className="text-center max-w-[600px] mx-auto mb-8">
-          <h2 id="issues-heading" className="text-[26px] sm:text-[30px] font-bold text-text mb-2">
+      <section aria-labelledby="issues-heading" className="space-y-6">
+        <div className="max-w-[660px] space-y-1.5">
+          <h2
+            id="issues-heading"
+            className="font-editorial text-[26px] sm:text-[30px] font-bold text-text tracking-[-0.01em]"
+          >
             {t("home.issuesTitle")}
           </h2>
-          <p className="text-[16px] text-muted">
+          <Text as="p" type="body" color="secondary">
             {t("issue.subtitle")}
-          </p>
+          </Text>
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -136,26 +237,20 @@ export default function HomePage() {
             <Link
               key={issue.slug}
               href={`/issue/${issue.slug}/`}
-              className="p-5 rounded-card border-2 border-border bg-bg hover:border-primary hover:bg-surface transition-all flex items-start gap-4 shadow-sm group"
+              className="p-5 rounded-[6px] border border-border bg-surface hover:border-[#154273] transition-colors flex items-start gap-4 group"
             >
-              <div className="w-10 h-10 rounded-full bg-primary/10 text-primary text-[20px] flex items-center justify-center flex-shrink-0 group-hover:scale-110 transition-transform">
-                <svg className="w-5 h-5 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2">
-                  <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
-                  <polyline points="14 2 14 8 20 8" />
-                  <line x1="16" y1="13" x2="8" y2="13" />
-                  <line x1="16" y1="17" x2="8" y2="17" />
-                  <polyline points="10 9 9 9 8 9" />
-                </svg>
+              <div className="w-10 h-10 rounded-[4px] bg-[#EBF1F6] text-[#154273] flex items-center justify-center flex-shrink-0 border border-[#D9E3EC]">
+                {issue.icon}
               </div>
-              <div>
-                <h3 className="font-bold text-[18px] text-text group-hover:text-primary transition-colors leading-snug">
+              <div className="min-w-0 flex-1">
+                <h3 className="font-semibold text-[17px] text-text group-hover:text-[#154273] transition-colors leading-snug">
                   {t(issue.titleKey)}
                 </h3>
-                <span className="inline-flex items-center gap-1 text-[13px] font-semibold text-primary mt-2">
+                <span className="inline-flex items-center gap-1.5 text-[13px] font-semibold text-[#154273] mt-2">
                   <span>{t("results.ladderBtn")}</span>
-                  <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
-                    <polyline points="9 18 15 12 9 6" />
-                  </svg>
+                  <span aria-hidden="true" className="group-hover:translate-x-0.5 transition-transform">
+                    →
+                  </span>
                 </span>
               </div>
             </Link>

@@ -1,0 +1,69 @@
+{
+  "recipe": "astryx-oklch-v1",
+  "vibrancy": 14,
+  "neutralProfile": "neutral-v1",
+  "modeStrategy": "light-and-dark",
+  "stops": [
+    0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90,
+    95, 100
+  ],
+  "families": [
+    {
+      "id": "neutral",
+      "name": "Dutch Archival Neutral",
+      "seed": "#736F66",
+      "anchors": [
+        { "mode": "light", "stop": 10, "color": "#161B22", "policy": "exact" },
+        { "mode": "light", "stop": 35, "color": "#4A515B", "policy": "exact" },
+        { "mode": "light", "stop": 85, "color": "#D8D4CA", "policy": "exact" },
+        { "mode": "light", "stop": 90, "color": "#EFECE6", "policy": "exact" },
+        { "mode": "light", "stop": 95, "color": "#F7F6F2", "policy": "exact" }
+      ]
+    },
+    {
+      "id": "blue",
+      "name": "Delft Civic Navy",
+      "seed": "#154273",
+      "anchors": [
+        { "mode": "light", "stop": 30, "color": "#154273", "policy": "exact" },
+        { "mode": "light", "stop": 90, "color": "#EBF1F6", "policy": "exact" }
+      ]
+    },
+    {
+      "id": "orange",
+      "name": "Dutch Terracotta",
+      "seed": "#C84B16",
+      "anchors": [
+        { "mode": "light", "stop": 45, "color": "#C84B16", "policy": "exact" },
+        { "mode": "light", "stop": 90, "color": "#FBEFE9", "policy": "exact" }
+      ]
+    },
+    {
+      "id": "green",
+      "name": "Staatsgroen",
+      "seed": "#245937",
+      "anchors": [
+        { "mode": "light", "stop": 35, "color": "#245937", "policy": "exact" },
+        { "mode": "light", "stop": 90, "color": "#ECF3EE", "policy": "exact" }
+      ]
+    },
+    {
+      "id": "yellow",
+      "name": "Archival Ochre",
+      "seed": "#8A5300",
+      "anchors": [
+        { "mode": "light", "stop": 40, "color": "#8A5300", "policy": "exact" },
+        { "mode": "light", "stop": 90, "color": "#FDF4E3", "policy": "exact" }
+      ]
+    },
+    {
+      "id": "red",
+      "name": "Dutch Carmine",
+      "seed": "#A31C1C",
+      "anchors": [
+        { "mode": "light", "stop": 40, "color": "#A31C1C", "policy": "exact" },
+        { "mode": "light", "stop": 90, "color": "#FBECEC", "policy": "exact" }
+      ]
+    }
+  ]
+}

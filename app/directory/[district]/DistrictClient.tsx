@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useEffect, useMemo } from "react";
-import Link from "next/link";
+import { Breadcrumbs, BreadcrumbItem } from "@astryxdesign/core/Breadcrumbs";
 import { useT, useLang, getLocalized, formatDate } from "@/lib/i18n";
 import { DistrictIndexEntry, DistrictData, OfficeLevel } from "@/lib/types";
 import { loadDistrictData, loadDistrictsIndex } from "@/lib/data";
@@ -51,12 +51,13 @@ export default function DistrictClient({
     }
   }, [districtId, initialMeta, initialData]);
 
-  // Group offices by administrative level
   const groupedOffices = useMemo(() => {
     if (!data?.offices) return {};
     const map: Partial<Record<OfficeLevel, typeof data.offices>> = {};
     for (const off of data.offices) {
-      if (!map[off.level]) map[off.level] = [];
+      if (!map[off.role ? off.level : "district"]) {
+        map[off.level] = [];
+      }
       map[off.level]!.push(off);
     }
     return map;
@@ -65,21 +66,19 @@ export default function DistrictClient({
   const districtName = meta ? getLocalized(meta, "name", lang) : districtId;
   const divisionName = meta ? getLocalized(meta, "division", lang) : "";
 
+  let sectionCounter = 0;
+
   return (
-    <div className="space-y-8 max-w-[840px] mx-auto">
-      {/* Breadcrumb & Header */}
-      <div>
-        <div className="flex items-center gap-2 mb-2 text-[14px] text-muted">
-          <Link href="/directory/" className="hover:text-primary transition-colors">
-            {t("nav.directory")}
-          </Link>
-          <span>/</span>
-          <span className="font-semibold text-text">{districtName}</span>
-        </div>
+    <div className="space-y-8 max-w-[880px] mx-auto">
+      <div className="space-y-3 border-b border-border pb-5">
+        <Breadcrumbs variant="supporting">
+          <BreadcrumbItem href="/directory/">{t("nav.directory")}</BreadcrumbItem>
+          <BreadcrumbItem isCurrent>{districtName}</BreadcrumbItem>
+        </Breadcrumbs>
 
         <div className="flex flex-wrap items-baseline justify-between gap-4">
           <div>
-            <h1 className="text-[28px] sm:text-[36px] font-extrabold text-text">
+            <h1 className="font-editorial text-[30px] sm:text-[38px] font-bold text-text">
               {districtName}
             </h1>
             {divisionName && (
@@ -93,13 +92,12 @@ export default function DistrictClient({
         </div>
 
         {data?.verified_on && (
-          <p className="text-[14px] text-slate-500 mt-2">
+          <p className="text-[14px] text-muted tabular-nums">
             {t("results.verifiedOn", { date: formatDate(data.verified_on, lang) })}
           </p>
         )}
       </div>
 
-      {/* Offices list by level */}
       {loading ? (
         <div className="py-12 text-center text-muted">{t("common.loading")}</div>
       ) : (
@@ -107,15 +105,21 @@ export default function DistrictClient({
           {LEVEL_ORDER.map((lvl) => {
             const officesInLevel = groupedOffices[lvl];
             if (!officesInLevel || officesInLevel.length === 0) return null;
+            sectionCounter += 1;
 
             return (
               <section key={lvl} aria-labelledby={`lvl-${lvl}`}>
-                <h2
-                  id={`lvl-${lvl}`}
-                  className="text-[20px] sm:text-[22px] font-bold text-text uppercase tracking-wide border-b-2 border-border pb-2 mb-4"
-                >
-                  {lvl.replace("_", " ")} level administration
-                </h2>
+                <div className="flex items-baseline gap-3 border-b border-border pb-2 mb-4">
+                  <span className="font-editorial text-[16px] font-bold text-[#154273] tabular-nums">
+                    {String(sectionCounter).padStart(2, "0")}
+                  </span>
+                  <h2
+                    id={`lvl-${lvl}`}
+                    className="text-[16px] font-bold text-text uppercase tracking-[0.06em]"
+                  >
+                    {lvl.replace("_", " ")} level administration
+                  </h2>
+                </div>
                 <div className="space-y-4">
                   {officesInLevel.map((off) => (
                     <OfficerCard

@@ -10,14 +10,15 @@ export async function generateStaticParams() {
   }));
 }
 
-export default function IssuePage({ params }: { params: { slug: string } }) {
+export default async function IssuePage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
   const issuesDir = path.join(process.cwd(), "public", "data", "issues");
-  const filePath = path.join(issuesDir, `${params.slug}.json`);
+  const filePath = path.join(issuesDir, `${slug}.json`);
   let initialIssue = null;
 
   if (fs.existsSync(filePath)) {
     initialIssue = JSON.parse(fs.readFileSync(filePath, "utf-8"));
   }
 
-  return <IssueClient slug={params.slug} initialIssue={initialIssue} />;
+  return <IssueClient slug={slug} initialIssue={initialIssue} />;
 }

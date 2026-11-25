@@ -14,6 +14,8 @@ function makeMockEvent(method: string, body: any, ip: string = "192.168.1.100"):
       "content-type": "application/json",
     },
     multiValueHeaders: {},
+    queryStringParameters: null,
+    multiValueQueryStringParameters: null,
     isBase64Encoded: false,
     body: JSON.stringify(body),
   };

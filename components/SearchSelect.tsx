@@ -35,7 +35,6 @@ export default function SearchSelect({
   const containerRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
 
-  // Sync selected label into query if value changes externally
   useEffect(() => {
     if (value) {
       const selected = options.find((o) => o.id === value);
@@ -45,7 +44,6 @@ export default function SearchSelect({
     }
   }, [value, options]);
 
-  // Plain filter on lowercase startsWith then includes. Max 8 matches.
   const filtered = React.useMemo(() => {
     if (!query.trim()) {
       return options.slice(0, 8);
@@ -67,7 +65,6 @@ export default function SearchSelect({
     return [...startsWithMatches, ...includesMatches].slice(0, 8);
   }, [options, query]);
 
-  // Click outside listener
   useEffect(() => {
     function handleClickOutside(event: MouseEvent) {
       if (containerRef.current && !containerRef.current.contains(event.target as Node)) {
@@ -105,7 +102,7 @@ export default function SearchSelect({
 
   return (
     <div ref={containerRef} className="relative w-full">
-      <label className="block text-label font-semibold text-text mb-1.5">
+      <label className="block text-[13px] font-bold uppercase tracking-[0.06em] text-muted mb-2">
         {label}
       </label>
       <div className="relative">
@@ -126,26 +123,24 @@ export default function SearchSelect({
           }}
           onFocus={() => setIsOpen(true)}
           onKeyDown={handleKeyDown}
-          className="w-full min-h-btn px-4 py-2.5 bg-bg text-text text-[16px] sm:text-[17px] border-2 border-border rounded-btn focus:border-primary focus-visible:outline-none transition-colors"
+          className="w-full min-h-btn px-4 py-2.5 pr-10 bg-surface text-text text-[16px] border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none transition-colors"
         />
-        {/* Search icon */}
         <div className="absolute right-3.5 top-1/2 -translate-y-1/2 text-muted pointer-events-none">
-          <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+          <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
             <circle cx="11" cy="11" r="8" />
             <line x1="21" y1="21" x2="16.65" y2="16.65" />
           </svg>
         </div>
       </div>
 
-      {/* Dropdown Options */}
       {isOpen && (
         <ul
           id={listboxId}
           role="listbox"
-          className="absolute z-40 w-full mt-1.5 bg-bg border-2 border-border rounded-btn shadow-lg max-h-64 overflow-y-auto py-1"
+          className="absolute z-40 w-full mt-1 bg-surface border border-borderStrong rounded-[4px] shadow-md max-h-64 overflow-y-auto divide-y divide-border"
         >
           {filtered.length === 0 ? (
-            <li className="p-3 text-[15px] text-muted text-center">
+            <li className="p-3.5 text-[15px] text-muted text-center">
               {t("flow.noMatch")}
             </li>
           ) : (
@@ -165,8 +160,8 @@ export default function SearchSelect({
                   }}
                   onMouseEnter={() => setHighlightedIndex(idx)}
                   className={`px-4 py-2.5 cursor-pointer text-left transition-colors ${
-                    isHighlighted ? "bg-surface text-primary font-medium" : "text-text"
-                  } ${isSelected ? "border-l-4 border-primary pl-3 bg-primary/5" : ""}`}
+                    isHighlighted ? "bg-[#EBF1F6] text-[#154273] font-medium" : "text-text"
+                  } ${isSelected ? "border-l-4 border-[#154273] pl-3 bg-[#EBF1F6]/60" : ""}`}
                 >
                   <div className="text-[16px] font-medium leading-snug">{item.label}</div>
                   {item.sublabel && (

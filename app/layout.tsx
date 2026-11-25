@@ -1,5 +1,8 @@
-import type { Metadata, Viewport } from "next";
+import "./layers.css";
 import "./globals.css";
+import type { Metadata, Viewport } from "next";
+import { Theme } from "@astryxdesign/core/theme";
+import { nlClassicTheme } from "../themes/nl-classic/nl-classic";
 import { I18nProvider } from "@/lib/i18n";
 import HelplineBar from "@/components/HelplineBar";
 import Header from "@/components/Header";
@@ -23,16 +26,18 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
+    <html lang="en" data-theme="light">
       <body className="min-h-screen bg-bg text-text antialiased flex flex-col">
-        <I18nProvider>
-          <HelplineBar />
-          <Header />
-          <main className="flex-1 w-full max-w-content mx-auto px-4 py-6 md:py-10">
-            {children}
-          </main>
-          <Footer />
-        </I18nProvider>
+        <Theme theme={nlClassicTheme} mode="light">
+          <I18nProvider>
+            <HelplineBar />
+            <Header />
+            <main className="flex-1 w-full max-w-[1120px] mx-auto px-4 sm:px-6 py-8 md:py-12">
+              {children}
+            </main>
+            <Footer />
+          </I18nProvider>
+        </Theme>
       </body>
     </html>
   );

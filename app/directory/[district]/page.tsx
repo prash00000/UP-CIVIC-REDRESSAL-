@@ -11,18 +11,19 @@ export async function generateStaticParams() {
   }));
 }
 
-export default function DistrictDirectoryPage({
+export default async function DistrictDirectoryPage({
   params,
 }: {
-  params: { district: string };
+  params: Promise<{ district: string }>;
 }) {
+  const { district } = await params;
   const districtsPath = path.join(process.cwd(), "public", "data", "districts.json");
   const districtDataPath = path.join(
     process.cwd(),
     "public",
     "data",
     "districts",
-    `${params.district}.json`
+    `${district}.json`
   );
 
   let initialMeta = null;
@@ -30,7 +31,7 @@ export default function DistrictDirectoryPage({
 
   if (fs.existsSync(districtsPath)) {
     const list = JSON.parse(fs.readFileSync(districtsPath, "utf-8"));
-    initialMeta = list.find((d: { id: string }) => d.id === params.district) || null;
+    initialMeta = list.find((d: { id: string }) => d.id === district) || null;
   }
 
   if (fs.existsSync(districtDataPath)) {
@@ -39,7 +40,7 @@ export default function DistrictDirectoryPage({
 
   return (
     <DistrictClient
-      districtId={params.district}
+      districtId={district}
       initialMeta={initialMeta}
       initialData={initialDistrictData}
     />

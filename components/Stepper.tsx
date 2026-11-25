@@ -1,6 +1,8 @@
 "use client";
 
 import React from "react";
+import { Button } from "@astryxdesign/core/Button";
+import { Badge } from "@astryxdesign/core/Badge";
 import { useT } from "@/lib/i18n";
 
 interface StepperProps {
@@ -17,28 +19,42 @@ export default function Stepper({
   canBack = true,
 }: StepperProps) {
   const t = useT();
+  const pct = Math.min(100, Math.round((currentStep / totalSteps) * 100));
 
   return (
-    <div className="flex items-center justify-between gap-3 mb-6 no-print">
-      {canBack && onBack ? (
-        <button
-          type="button"
-          onClick={onBack}
-          className="min-h-touch inline-flex items-center gap-1.5 px-3 py-1.5 text-muted hover:text-text font-medium text-[15px] rounded-btn border border-border hover:bg-surface transition-colors focus-visible:outline-primary"
-        >
-          <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
-            <polyline points="15 18 9 12 15 6" />
-          </svg>
-          <span>{t("flow.back")}</span>
-        </button>
-      ) : (
-        <div />
-      )}
+    <div className="mb-7 space-y-3 no-print">
+      <div className="flex items-center justify-between gap-3">
+        {canBack && onBack ? (
+          <Button
+            type="button"
+            variant="secondary"
+            size="sm"
+            label={t("flow.back")}
+            onClick={onBack}
+            icon={
+              <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2">
+                <polyline points="15 18 9 12 15 6" />
+              </svg>
+            }
+          />
+        ) : (
+          <div />
+        )}
 
-      <div className="text-right">
-        <span className="text-[14px] sm:text-[15px] font-semibold text-primary bg-primary/10 px-3 py-1 rounded-full">
-          {t("flow.step", { step: currentStep, total: totalSteps })}
-        </span>
+        <div className="tabular-nums">
+          <Badge
+            variant="info"
+            label={t("flow.step", { step: currentStep, total: totalSteps })}
+          />
+        </div>
+      </div>
+
+      {/* Crisp architectural hairline progress rule */}
+      <div className="w-full h-[2px] bg-border overflow-hidden">
+        <div
+          className="h-full bg-[#154273] transition-all duration-200"
+          style={{ width: `${pct}%` }}
+        />
       </div>
     </div>
   );

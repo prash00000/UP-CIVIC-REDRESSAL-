@@ -177,4 +177,17 @@ export const stateDataSchema = z.object({
     name_hi: z.string(),
     otp_required: z.boolean(),
   }),
+  official_portals: z
+    .array(
+      z.object({
+        id: z.string(),
+        name_en: z.string(),
+        name_hi: z.string(),
+        url: z.string().url(),
+        helpline: z.string().nullable().optional(),
+        scope_en: z.string(),
+        scope_hi: z.string(),
+      })
+    )
+    .optional(),
 });

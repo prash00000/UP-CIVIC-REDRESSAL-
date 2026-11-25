@@ -157,8 +157,26 @@ function RtiContent() {
           />
         </div>
 
-        {/* Official Fee Notice Alert (Mandatory rule: no hardcoded fee!) */}
-        <Banner status="warning" container="card" title={t("rti.feeNotice")} />
+        {/* Official UP RTI Rules 2015 Fee Schedule & Online Portal */}
+        <Banner
+          status="info"
+          container="card"
+          collapsible={false}
+          title={t("rti.feeNotice")}
+          description={t("rti.feeScheduleDetails")}
+        >
+          <div className="pt-2">
+            <a
+              href="https://rtionline.up.gov.in"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 text-[14px] font-semibold text-[#154273] underline underline-offset-4 hover:text-[#0F3156]"
+            >
+              <span>{t("rti.officialPortalLink")}</span>
+              <span aria-hidden="true">↗</span>
+            </a>
+          </div>
+        </Banner>
 
         <div className="pt-2 flex justify-end">
           <Button

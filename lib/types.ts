@@ -140,4 +140,13 @@ export type StateData = {
     name_hi: string;
     otp_required: boolean;
   };
+  official_portals?: {
+    id: string;
+    name_en: string;
+    name_hi: string;
+    url: string;
+    helpline?: string | null;
+    scope_en: string;
+    scope_hi: string;
+  }[];
 };

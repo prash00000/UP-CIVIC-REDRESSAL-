@@ -708,6 +708,26 @@ function WizardContent() {
                   <span aria-hidden="true">↗</span>
                 </a>
               </div>
+
+              <div className="mt-4 pt-4 border-t border-white/20 flex flex-wrap gap-3 text-[13px] text-[#DCE6F2]">
+                <a
+                  href="https://e-nagarsewaup.gov.in"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-white underline underline-offset-4 tabular-nums"
+                >
+                  {t("results.urbanHelpline")} ↗
+                </a>
+                <span aria-hidden="true">·</span>
+                <a
+                  href="https://www.jalsamadhan.in"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-white underline underline-offset-4 tabular-nums"
+                >
+                  {t("results.ruralWaterHelpline")} ↗
+                </a>
+              </div>
             </article>
           </div>
 

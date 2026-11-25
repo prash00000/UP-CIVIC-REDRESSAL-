@@ -1,15 +1,23 @@
 "use client";
 
-import React from "react";
+import React, { useEffect, useState } from "react";
 import Link from "next/link";
 import { Card } from "@astryxdesign/core/Card";
 import { Badge } from "@astryxdesign/core/Badge";
 import { Banner } from "@astryxdesign/core/Banner";
 import { Divider } from "@astryxdesign/core/Divider";
-import { useT } from "@/lib/i18n";
+import { useT, useLang } from "@/lib/i18n";
+import { loadStateData } from "@/lib/data";
+import { StateData } from "@/lib/types";
 
 export default function AboutPage() {
   const t = useT();
+  const { lang } = useLang();
+  const [stateData, setStateData] = useState<StateData | null>(null);
+
+  useEffect(() => {
+    loadStateData().then(setStateData);
+  }, []);
 
   return (
     <div className="max-w-form mx-auto space-y-10">
@@ -39,6 +47,50 @@ export default function AboutPage() {
           {t("about.missionText")}
         </p>
       </section>
+
+      {/* Official Government Portals & Helplines */}
+      {stateData?.official_portals && stateData.official_portals.length > 0 && (
+        <section aria-labelledby="portals-heading" className="space-y-4">
+          <div>
+            <h2 id="portals-heading" className="font-editorial text-[24px] font-bold text-text">
+              {t("about.portalsTitle")}
+            </h2>
+            <p className="text-[15px] text-muted mt-1">
+              {t("about.portalsSubtitle")}
+            </p>
+          </div>
+          <Card padding={0} variant="default" elevation="none">
+            <ul className="divide-y divide-border list-none p-0 m-0">
+              {stateData.official_portals.map((portal) => (
+                <li key={portal.id} className="p-4 sm:p-5 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+                  <div className="space-y-1">
+                    <a
+                      href={portal.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="font-semibold text-[16px] text-[#154273] hover:text-[#0F3156] underline underline-offset-4 inline-flex items-center gap-1"
+                    >
+                      <span>{lang === "hi" ? portal.name_hi : portal.name_en}</span>
+                      <span aria-hidden="true">↗</span>
+                    </a>
+                    <p className="text-[14px] text-muted leading-snug">
+                      {lang === "hi" ? portal.scope_hi : portal.scope_en}
+                    </p>
+                  </div>
+                  {portal.helpline && (
+                    <a
+                      href={`tel:${portal.helpline.replace(/\s+/g, "")}`}
+                      className="inline-flex items-center justify-center px-3 py-1.5 rounded-[4px] border border-borderStrong bg-bg hover:border-[#154273] text-[14px] font-semibold text-text tabular-nums whitespace-nowrap self-start sm:self-center"
+                    >
+                      {t("results.call")} {portal.helpline}
+                    </a>
+                  )}
+                </li>
+              ))}
+            </ul>
+          </Card>
+        </section>
+      )}
 
       <Card padding={5} variant="default" elevation="none">
         <section aria-labelledby="verify-heading" className="space-y-4">
@@ -99,7 +151,7 @@ export default function AboutPage() {
           {t("footer.disclaimer")}
         </p>
         <p className="text-[14px]">
-          Legal Basis: UP Janhit Guarantee Act, 2011; UP Panchayati Raj Act, 1947; UP Municipalities Act, 1916; UP Municipal Corporation Act, 1959.
+          Legal Basis: UP Janhit Guarantee Act, 2011; UP Panchayati Raj Act, 1947; UP Municipalities Act, 1916; UP Municipal Corporation Act, 1959; UP RTI Rules, 2015.
         </p>
       </section>
     </div>

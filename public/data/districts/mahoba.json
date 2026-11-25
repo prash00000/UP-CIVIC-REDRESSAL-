@@ -21,7 +21,7 @@
       "covers": [
         "mahoba"
       ],
-      "source_url": "https://mahoba.nic.in/whos-who/",
+      "source_url": "https://mahoba.nic.in/contact-directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Prabhash Kumar"
@@ -45,7 +45,7 @@
       "covers": [
         "mahoba"
       ],
-      "source_url": "https://mahoba.nic.in/whos-who/",
+      "source_url": "https://mahoba.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Balram Kumar"
@@ -71,14 +71,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mahoba",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mahoba",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416012",
+          "type": "office",
+          "source_url": "https://mahoba.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.mahoba.mhb-up@gov.in",
       "covers": [
         "mahoba"
       ],
-      "source_url": "https://mahoba.nic.in/whos-who/",
+      "source_url": "https://mahoba.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Mahoba"
     },
     {
       "id": "up-mahoba-sdm-charkhari",
@@ -86,14 +95,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Charkhari",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Charkhari",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416013",
+          "type": "office",
+          "source_url": "https://mahoba.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.charkhari.mhb-up@gov.in",
       "covers": [
         "charkhari"
       ],
-      "source_url": "https://mahoba.nic.in/whos-who/",
+      "source_url": "https://mahoba.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Charkhari"
     },
     {
       "id": "up-mahoba-sdm-kulpahar",
@@ -101,14 +119,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kulpahar",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kulpahar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416014",
+          "type": "office",
+          "source_url": "https://mahoba.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.kulpahar.mhb-up@gov.in",
       "covers": [
         "kulpahar"
       ],
-      "source_url": "https://mahoba.nic.in/whos-who/",
+      "source_url": "https://mahoba.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Kulpahar"
     },
     {
       "id": "up-mahoba-bdo-kabrai",
@@ -137,7 +164,8 @@
       ],
       "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mahoba-bdo-kabrai"
     },
     {
       "id": "up-mahoba-bdo-charkhari",
@@ -166,7 +194,8 @@
       ],
       "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mahoba-bdo-charkhari"
     },
     {
       "id": "up-mahoba-bdo-jaitpur",
@@ -195,7 +224,8 @@
       ],
       "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mahoba-bdo-jaitpur"
     },
     {
       "id": "up-mahoba-bdo-panwari",
@@ -224,7 +254,8 @@
       ],
       "source_url": "https://mahoba.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mahoba-bdo-panwari"
     },
     {
       "id": "eo-mahoba-main",

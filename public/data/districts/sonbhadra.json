@@ -22,7 +22,7 @@
       "covers": [
         "sonbhadra"
       ],
-      "source_url": "https://sonbhadra.nic.in/whos-who/",
+      "source_url": "https://sonbhadra.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "dmson[at]nic[dot]in DM Office, Lodhi, Sonbhadra, U.P."
@@ -33,14 +33,22 @@
       "role": "cdo",
       "office_name_en": "Chief Development Officer (CDO), Sonbhadra",
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), सोनभद्र",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465131",
+          "type": "office",
+          "source_url": "https://sonbhadra.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "cdo.snb-up@gov.in",
       "covers": [
         "sonbhadra"
       ],
-      "source_url": "https://sonbhadra.nic.in/whos-who/",
+      "source_url": "https://sonbhadra.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sonbhadra-dpro",
@@ -63,14 +71,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Robertsganj",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Robertsganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416845",
+          "type": "office",
+          "source_url": "https://sonbhadra.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.robertsganj.snb-up@gov.in",
       "covers": [
         "robertsganj"
       ],
-      "source_url": "https://sonbhadra.nic.in/whos-who/",
+      "source_url": "https://sonbhadra.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sonbhadra-sdm-ghorawal",
@@ -78,14 +94,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Ghorawal",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Ghorawal",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416847",
+          "type": "office",
+          "source_url": "https://sonbhadra.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.ghorawal.snb-up@gov.in",
       "covers": [
         "ghorawal"
       ],
-      "source_url": "https://sonbhadra.nic.in/whos-who/",
+      "source_url": "https://sonbhadra.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sonbhadra-sdm-duddhi",
@@ -108,14 +132,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Obra",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Obra",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416853",
+          "type": "office",
+          "source_url": "https://sonbhadra.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.obra.snb-up@gov.in",
       "covers": [
         "obra"
       ],
-      "source_url": "https://sonbhadra.nic.in/whos-who/",
+      "source_url": "https://sonbhadra.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sonbhadra-bdo-robertsganj",
@@ -144,7 +176,8 @@
       ],
       "source_url": "https://sonbhadra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sonbhadra-bdo-robertsganj"
     },
     {
       "id": "up-sonbhadra-bdo-ghorawal",
@@ -173,7 +206,8 @@
       ],
       "source_url": "https://sonbhadra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sonbhadra-bdo-ghorawal"
     },
     {
       "id": "up-sonbhadra-bdo-chatra",
@@ -202,7 +236,8 @@
       ],
       "source_url": "https://sonbhadra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sonbhadra-bdo-chatra"
     },
     {
       "id": "up-sonbhadra-bdo-nagwa",
@@ -231,7 +266,8 @@
       ],
       "source_url": "https://sonbhadra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sonbhadra-bdo-nagwa"
     },
     {
       "id": "up-sonbhadra-bdo-chopan",
@@ -260,7 +296,8 @@
       ],
       "source_url": "https://sonbhadra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sonbhadra-bdo-chopan"
     },
     {
       "id": "up-sonbhadra-bdo-duddhi",
@@ -289,7 +326,8 @@
       ],
       "source_url": "https://sonbhadra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sonbhadra-bdo-duddhi"
     },
     {
       "id": "up-sonbhadra-bdo-babhani",
@@ -318,7 +356,8 @@
       ],
       "source_url": "https://sonbhadra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sonbhadra-bdo-babhani"
     },
     {
       "id": "up-sonbhadra-bdo-myorpur",
@@ -347,7 +386,8 @@
       ],
       "source_url": "https://sonbhadra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sonbhadra-bdo-myorpur"
     },
     {
       "id": "eo-sonbhadra-main",

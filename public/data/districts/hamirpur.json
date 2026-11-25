@@ -22,7 +22,7 @@
       "covers": [
         "hamirpur"
       ],
-      "source_url": "https://hamirpur.nic.in/whos-who/",
+      "source_url": "https://hamirpur.nic.in/directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Collectorate, Hamirpur"
@@ -46,7 +46,7 @@
       "covers": [
         "hamirpur"
       ],
-      "source_url": "https://hamirpur.nic.in/whos-who/",
+      "source_url": "https://hamirpur.nic.in/directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Arun Kumar Singh",
@@ -103,9 +103,10 @@
       "covers": [
         "hamirpur"
       ],
-      "source_url": "https://hamirpur.nic.in/whos-who/",
+      "source_url": "https://hamirpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Abhishek Kumar"
     },
     {
       "id": "up-hamirpur-sdm-rath",
@@ -126,9 +127,10 @@
       "covers": [
         "rath"
       ],
-      "source_url": "https://hamirpur.nic.in/whos-who/",
+      "source_url": "https://hamirpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Smt. Chitra Nirwal"
     },
     {
       "id": "up-hamirpur-sdm-maudaha",
@@ -149,9 +151,10 @@
       "covers": [
         "maudaha"
       ],
-      "source_url": "https://hamirpur.nic.in/whos-who/",
+      "source_url": "https://hamirpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Karan Veer Singh"
     },
     {
       "id": "up-hamirpur-sdm-sarila",
@@ -172,9 +175,10 @@
       "covers": [
         "sarila"
       ],
-      "source_url": "https://hamirpur.nic.in/whos-who/",
+      "source_url": "https://hamirpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Vikas Kumar Yadav"
     },
     {
       "id": "up-hamirpur-bdo-kurara",
@@ -189,15 +193,23 @@
           "source_url": "https://hamirpur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9451806983",
+          "type": "office",
+          "source_url": "https://hamirpur.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "bdokurhm-up@nic.in",
       "covers": [
         "kurara"
       ],
-      "source_url": "https://hamirpur.nic.in/whos-who/",
+      "source_url": "https://hamirpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Gyan Prakash (Incharge)"
     },
     {
       "id": "up-hamirpur-ado-kurara",
@@ -211,7 +223,8 @@
       ],
       "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hamirpur-bdo-kurara"
     },
     {
       "id": "up-hamirpur-bdo-sumerpur",
@@ -226,15 +239,23 @@
           "source_url": "https://hamirpur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454464785",
+          "type": "office",
+          "source_url": "https://hamirpur.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "bdo.sumerpur0@gmail.com",
       "covers": [
         "sumerpur"
       ],
-      "source_url": "https://hamirpur.nic.in/whos-who/",
+      "source_url": "https://hamirpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Vikas Yadav"
     },
     {
       "id": "up-hamirpur-ado-sumerpur",
@@ -248,7 +269,8 @@
       ],
       "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hamirpur-bdo-sumerpur"
     },
     {
       "id": "up-hamirpur-bdo-maudaha",
@@ -263,15 +285,23 @@
           "source_url": "https://hamirpur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454464791",
+          "type": "office",
+          "source_url": "https://hamirpur.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "bdomauhm-up@nic.in",
       "covers": [
         "maudaha"
       ],
-      "source_url": "https://hamirpur.nic.in/whos-who/",
+      "source_url": "https://hamirpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Raghvendra Singh"
     },
     {
       "id": "up-hamirpur-ado-maudaha",
@@ -285,7 +315,8 @@
       ],
       "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hamirpur-bdo-maudaha"
     },
     {
       "id": "up-hamirpur-bdo-muskara",
@@ -300,15 +331,23 @@
           "source_url": "https://hamirpur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454464790",
+          "type": "office",
+          "source_url": "https://hamirpur.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "bdomuskara022@gmail.com",
       "covers": [
         "muskara"
       ],
-      "source_url": "https://hamirpur.nic.in/whos-who/",
+      "source_url": "https://hamirpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Rajeev Kumar Singh"
     },
     {
       "id": "up-hamirpur-ado-muskara",
@@ -322,7 +361,8 @@
       ],
       "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hamirpur-bdo-muskara"
     },
     {
       "id": "up-hamirpur-bdo-rath",
@@ -337,15 +377,23 @@
           "source_url": "https://hamirpur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "7007677261",
+          "type": "office",
+          "source_url": "https://hamirpur.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "bdorath023@gmail.com",
       "covers": [
         "rath"
       ],
-      "source_url": "https://hamirpur.nic.in/whos-who/",
+      "source_url": "https://hamirpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Manoj Gupta"
     },
     {
       "id": "up-hamirpur-ado-rath",
@@ -359,7 +407,8 @@
       ],
       "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hamirpur-bdo-rath"
     },
     {
       "id": "up-hamirpur-bdo-gohand",
@@ -374,15 +423,23 @@
           "source_url": "https://hamirpur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454464788",
+          "type": "office",
+          "source_url": "https://hamirpur.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "bdogohand06@gmail.com",
       "covers": [
         "gohand"
       ],
-      "source_url": "https://hamirpur.nic.in/whos-who/",
+      "source_url": "https://hamirpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Vinod Kumar Pandey"
     },
     {
       "id": "up-hamirpur-ado-gohand",
@@ -396,7 +453,8 @@
       ],
       "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hamirpur-bdo-gohand"
     },
     {
       "id": "up-hamirpur-bdo-sarila",
@@ -411,15 +469,23 @@
           "source_url": "https://hamirpur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454464787",
+          "type": "office",
+          "source_url": "https://hamirpur.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "bdosarhm-up@nic.in",
       "covers": [
         "sarila"
       ],
-      "source_url": "https://hamirpur.nic.in/whos-who/",
+      "source_url": "https://hamirpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Naveen Kumar Gupta"
     },
     {
       "id": "up-hamirpur-ado-sarila",
@@ -433,7 +499,8 @@
       ],
       "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hamirpur-bdo-sarila"
     },
     {
       "id": "eo-hamirpur-main",
@@ -441,13 +508,24 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Hamirpur",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका हमीरपुर",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8449825812",
+          "type": "office",
+          "source_url": "https://hamirpur.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-hamirpur-main"
       ],
       "source_url": "https://hamirpur.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Miss Subodh Joshi",
+      "email": "dprohm-up@nic.in",
+      "address_en": "Vikas Bhavan, Kuchhechha Hamirpur"
     }
   ]
 }

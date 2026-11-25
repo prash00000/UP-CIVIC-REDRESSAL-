@@ -28,7 +28,7 @@
       "covers": [
         "bareilly"
       ],
-      "source_url": "https://bareilly.nic.in/whos-who/",
+      "source_url": "https://bareilly.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Sh Avinash Singh",
@@ -53,7 +53,7 @@
       "covers": [
         "bareilly"
       ],
-      "source_url": "https://bareilly.nic.in/whos-who/",
+      "source_url": "https://bareilly.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Miss Devyani Yadav",
@@ -191,7 +191,8 @@
       ],
       "source_url": "https://bareilly.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bareilly-bdo-bhojipura"
     },
     {
       "id": "up-bareilly-bdo-bithri-chainpur",
@@ -220,7 +221,8 @@
       ],
       "source_url": "https://bareilly.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bareilly-bdo-bithri-chainpur"
     },
     {
       "id": "up-bareilly-bdo-fatehganj-paschim",
@@ -249,7 +251,8 @@
       ],
       "source_url": "https://bareilly.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bareilly-bdo-fatehganj-paschim"
     },
     {
       "id": "up-bareilly-bdo-kyara",
@@ -278,7 +281,8 @@
       ],
       "source_url": "https://bareilly.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bareilly-bdo-kyara"
     },
     {
       "id": "up-bareilly-bdo-baheri",
@@ -307,7 +311,8 @@
       ],
       "source_url": "https://bareilly.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bareilly-bdo-baheri"
     },
     {
       "id": "up-bareilly-bdo-damkhoda",
@@ -336,7 +341,8 @@
       ],
       "source_url": "https://bareilly.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bareilly-bdo-damkhoda"
     },
     {
       "id": "up-bareilly-bdo-shergarh",
@@ -365,7 +371,8 @@
       ],
       "source_url": "https://bareilly.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bareilly-bdo-shergarh"
     },
     {
       "id": "up-bareilly-bdo-richha",
@@ -394,7 +401,8 @@
       ],
       "source_url": "https://bareilly.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bareilly-bdo-richha"
     },
     {
       "id": "up-bareilly-bdo-mirganj",
@@ -423,7 +431,8 @@
       ],
       "source_url": "https://bareilly.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bareilly-bdo-mirganj"
     },
     {
       "id": "up-bareilly-bdo-fatehganj-purvi",
@@ -452,7 +461,8 @@
       ],
       "source_url": "https://bareilly.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bareilly-bdo-fatehganj-purvi"
     },
     {
       "id": "up-bareilly-bdo-faridpur",
@@ -481,7 +491,8 @@
       ],
       "source_url": "https://bareilly.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bareilly-bdo-faridpur"
     },
     {
       "id": "up-bareilly-bdo-bhuta",
@@ -510,7 +521,8 @@
       ],
       "source_url": "https://bareilly.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bareilly-bdo-bhuta"
     },
     {
       "id": "up-bareilly-bdo-aonla",
@@ -539,7 +551,8 @@
       ],
       "source_url": "https://bareilly.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bareilly-bdo-aonla"
     },
     {
       "id": "up-bareilly-bdo-alampur-jafrabad",
@@ -568,7 +581,8 @@
       ],
       "source_url": "https://bareilly.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bareilly-bdo-alampur-jafrabad"
     },
     {
       "id": "up-bareilly-bdo-majhgawan",
@@ -597,7 +611,8 @@
       ],
       "source_url": "https://bareilly.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bareilly-bdo-majhgawan"
     },
     {
       "id": "up-bareilly-bdo-ramnagar",
@@ -626,7 +641,8 @@
       ],
       "source_url": "https://bareilly.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bareilly-bdo-ramnagar"
     },
     {
       "id": "eo-bareilly-main",
@@ -641,6 +657,37 @@
       "source_url": "https://bareilly.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-bareilly-commissioner",
+      "level": "ulb",
+      "role": "commissioner",
+      "office_name_en": "Municipal Commissioner, Bareilly Nagar Nigam",
+      "office_name_hi": "नगर आयुक्त, बरेली नगर निगम",
+      "phones": [
+        {
+          "number": "8189077816",
+          "type": "cug",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0581-2550074",
+          "type": "landline",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "bareilly"
+      ],
+      "source_url": "https://localbodies.up.nic.in/listnn.htm",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "email": "8189077816nagarayukt.bareilly@gmail.com",
+      "officer_name_en": "श्रीमती निधि गुप्ता वत्स"
     }
   ]
 }

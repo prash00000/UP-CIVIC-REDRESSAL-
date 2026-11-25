@@ -1,0 +1,2382 @@
+[
+  {
+    "id": "v-firozabad-firozabad",
+    "type": "village",
+    "name_en": "Firozabad Block (Gram Panchayats)",
+    "name_hi": "Firozabad विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-firozabad-narkhi",
+    "type": "village",
+    "name_en": "Narkhi Block (Gram Panchayats)",
+    "name_hi": "Narkhi विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-narkhi",
+    "block_id": "narkhi",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-firozabad-tundla",
+    "type": "village",
+    "name_en": "Tundla Block (Gram Panchayats)",
+    "name_hi": "Tundla विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-tundla",
+    "block_id": "tundla",
+    "tehsil_id": "tundla",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-firozabad-shikohabad",
+    "type": "village",
+    "name_en": "Shikohabad Block (Gram Panchayats)",
+    "name_hi": "Shikohabad विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-shikohabad",
+    "block_id": "shikohabad",
+    "tehsil_id": "shikohabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-firozabad-madanpur",
+    "type": "village",
+    "name_en": "Madanpur Block (Gram Panchayats)",
+    "name_hi": "Madanpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-madanpur",
+    "block_id": "madanpur",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-firozabad-jasrana",
+    "type": "village",
+    "name_en": "Jasrana Block (Gram Panchayats)",
+    "name_hi": "Jasrana विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-jasrana",
+    "block_id": "jasrana",
+    "tehsil_id": "jasrana",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-firozabad-eka",
+    "type": "village",
+    "name_en": "Eka Block (Gram Panchayats)",
+    "name_hi": "Eka विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-eka",
+    "block_id": "eka",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-firozabad-hathwant",
+    "type": "village",
+    "name_en": "Hathwant Block (Gram Panchayats)",
+    "name_hi": "Hathwant विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hathwant",
+    "block_id": "hathwant",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-firozabad-araon",
+    "type": "village",
+    "name_en": "Araon Block (Gram Panchayats)",
+    "name_hi": "Araon विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-araon",
+    "block_id": "araon",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-firozabad-gangauli",
+    "type": "village",
+    "name_en": "Gangauli (Gram Panchayat Area)",
+    "name_hi": "Gangauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224172"
+    ]
+  },
+  {
+    "id": "po-firozabad-jagdishpur",
+    "type": "village",
+    "name_en": "Jagdishpur (Gram Panchayat Area)",
+    "name_hi": "Jagdishpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224172"
+    ]
+  },
+  {
+    "id": "po-firozabad-kumbhiya",
+    "type": "village",
+    "name_en": "Kumbhiya (Gram Panchayat Area)",
+    "name_hi": "Kumbhiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224172"
+    ]
+  },
+  {
+    "id": "po-firozabad-punhad",
+    "type": "village",
+    "name_en": "Punhad (Gram Panchayat Area)",
+    "name_hi": "Punhad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224172"
+    ]
+  },
+  {
+    "id": "po-firozabad-anjana",
+    "type": "village",
+    "name_en": "Anjana (Gram Panchayat Area)",
+    "name_hi": "Anjana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224172"
+    ]
+  },
+  {
+    "id": "po-firozabad-bhadauli",
+    "type": "village",
+    "name_en": "Bhadauli (Gram Panchayat Area)",
+    "name_hi": "Bhadauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224172"
+    ]
+  },
+  {
+    "id": "po-firozabad-sihoriya",
+    "type": "village",
+    "name_en": "Sihoriya (Gram Panchayat Area)",
+    "name_hi": "Sihoriya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224172"
+    ]
+  },
+  {
+    "id": "po-firozabad-akalabad-hasanpur",
+    "type": "village",
+    "name_en": "Akalabad Hasanpur (Gram Panchayat Area)",
+    "name_hi": "Akalabad Hasanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-alhadadpur",
+    "type": "village",
+    "name_en": "Alhadadpur (Gram Panchayat Area)",
+    "name_hi": "Alhadadpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-dolupura",
+    "type": "village",
+    "name_en": "Dolupura (Gram Panchayat Area)",
+    "name_hi": "Dolupura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-basai-mohammadpur",
+    "type": "village",
+    "name_en": "Basai Mohammadpur (Gram Panchayat Area)",
+    "name_hi": "Basai Mohammadpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-gudaun",
+    "type": "village",
+    "name_en": "Gudaun (Gram Panchayat Area)",
+    "name_hi": "Gudaun (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-pendat",
+    "type": "village",
+    "name_en": "Pendat (Gram Panchayat Area)",
+    "name_hi": "Pendat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283152"
+    ]
+  },
+  {
+    "id": "po-firozabad-suraya",
+    "type": "village",
+    "name_en": "Suraya (Gram Panchayat Area)",
+    "name_hi": "Suraya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283152"
+    ]
+  },
+  {
+    "id": "po-firozabad-jatau",
+    "type": "village",
+    "name_en": "Jatau (Gram Panchayat Area)",
+    "name_hi": "Jatau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283206"
+    ]
+  },
+  {
+    "id": "po-firozabad-narkhi",
+    "type": "village",
+    "name_en": "Narkhi (Gram Panchayat Area)",
+    "name_hi": "Narkhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-narkhi",
+    "block_id": "narkhi",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283206"
+    ]
+  },
+  {
+    "id": "po-firozabad-okhra",
+    "type": "village",
+    "name_en": "Okhra (Gram Panchayat Area)",
+    "name_hi": "Okhra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283206"
+    ]
+  },
+  {
+    "id": "po-firozabad-sekhupur-hatwant",
+    "type": "village",
+    "name_en": "Sekhupur  Hatwant (Gram Panchayat Area)",
+    "name_hi": "Sekhupur  Hatwant (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283145"
+    ]
+  },
+  {
+    "id": "po-firozabad-viltigarh",
+    "type": "village",
+    "name_en": "Viltigarh (Gram Panchayat Area)",
+    "name_hi": "Viltigarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283145"
+    ]
+  },
+  {
+    "id": "po-firozabad-husainpur",
+    "type": "village",
+    "name_en": "Husainpur (Gram Panchayat Area)",
+    "name_hi": "Husainpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283103"
+    ]
+  },
+  {
+    "id": "po-firozabad-jarakhi",
+    "type": "village",
+    "name_en": "Jarakhi (Gram Panchayat Area)",
+    "name_hi": "Jarakhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283103"
+    ]
+  },
+  {
+    "id": "po-firozabad-usneedha",
+    "type": "village",
+    "name_en": "Usneedha (Gram Panchayat Area)",
+    "name_hi": "Usneedha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283130"
+    ]
+  },
+  {
+    "id": "po-firozabad-bachhela-bachheli",
+    "type": "village",
+    "name_en": "Bachhela Bachheli (Gram Panchayat Area)",
+    "name_hi": "Bachhela Bachheli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283142"
+    ]
+  },
+  {
+    "id": "po-firozabad-mustfabad",
+    "type": "village",
+    "name_en": "Mustfabad (Gram Panchayat Area)",
+    "name_hi": "Mustfabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283207"
+    ]
+  },
+  {
+    "id": "po-firozabad-pilakhatar",
+    "type": "village",
+    "name_en": "Pilakhatar (Gram Panchayat Area)",
+    "name_hi": "Pilakhatar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283207"
+    ]
+  },
+  {
+    "id": "po-firozabad-kaitha",
+    "type": "village",
+    "name_en": "Kaitha (Gram Panchayat Area)",
+    "name_hi": "Kaitha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283207"
+    ]
+  },
+  {
+    "id": "po-firozabad-harha",
+    "type": "village",
+    "name_en": "Harha (Gram Panchayat Area)",
+    "name_hi": "Harha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283141"
+    ]
+  },
+  {
+    "id": "po-firozabad-i-l-c-shikohabad",
+    "type": "village",
+    "name_en": "I L C Shikohabad (Gram Panchayat Area)",
+    "name_hi": "I L C Shikohabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-shikohabad",
+    "block_id": "shikohabad",
+    "tehsil_id": "shikohabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283141"
+    ]
+  },
+  {
+    "id": "po-firozabad-keshari",
+    "type": "village",
+    "name_en": "Keshari (Gram Panchayat Area)",
+    "name_hi": "Keshari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283141"
+    ]
+  },
+  {
+    "id": "po-firozabad-madhoganj",
+    "type": "village",
+    "name_en": "Madhoganj (Gram Panchayat Area)",
+    "name_hi": "Madhoganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283141"
+    ]
+  },
+  {
+    "id": "po-firozabad-jaymai",
+    "type": "village",
+    "name_en": "Jaymai (Gram Panchayat Area)",
+    "name_hi": "Jaymai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283151"
+    ]
+  },
+  {
+    "id": "po-firozabad-madanpur",
+    "type": "village",
+    "name_en": "Madanpur (Gram Panchayat Area)",
+    "name_hi": "Madanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-madanpur",
+    "block_id": "madanpur",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283151"
+    ]
+  },
+  {
+    "id": "po-firozabad-paigu",
+    "type": "village",
+    "name_en": "Paigu (Gram Panchayat Area)",
+    "name_hi": "Paigu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283151"
+    ]
+  },
+  {
+    "id": "po-firozabad-saray-murlidhar",
+    "type": "village",
+    "name_en": "Saray Murlidhar (Gram Panchayat Area)",
+    "name_hi": "Saray Murlidhar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283151"
+    ]
+  },
+  {
+    "id": "po-firozabad-bachhagaon",
+    "type": "village",
+    "name_en": "Bachhagaon (Gram Panchayat Area)",
+    "name_hi": "Bachhagaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-dheerpura",
+    "type": "village",
+    "name_en": "Dheerpura (Gram Panchayat Area)",
+    "name_hi": "Dheerpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-nagla-beech",
+    "type": "village",
+    "name_en": "Nagla Beech (Gram Panchayat Area)",
+    "name_hi": "Nagla Beech (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-nepai",
+    "type": "village",
+    "name_en": "Nepai (Gram Panchayat Area)",
+    "name_hi": "Nepai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-firozabad-bazar",
+    "type": "village",
+    "name_en": "Firozabad Bazar (Gram Panchayat Area)",
+    "name_hi": "Firozabad Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-gazipur",
+    "type": "village",
+    "name_en": "Gazipur (Gram Panchayat Area)",
+    "name_hi": "Gazipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-mainpuri-gate-firozabad",
+    "type": "village",
+    "name_en": "Mainpuri Gate  Firozabad (Gram Panchayat Area)",
+    "name_hi": "Mainpuri Gate  Firozabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-asan",
+    "type": "village",
+    "name_en": "Asan (Gram Panchayat Area)",
+    "name_hi": "Asan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-chandwar",
+    "type": "village",
+    "name_en": "Chandwar (Gram Panchayat Area)",
+    "name_hi": "Chandwar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-bhadana",
+    "type": "village",
+    "name_en": "Bhadana (Gram Panchayat Area)",
+    "name_hi": "Bhadana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283152"
+    ]
+  },
+  {
+    "id": "po-firozabad-bhagner",
+    "type": "village",
+    "name_en": "Bhagner (Gram Panchayat Area)",
+    "name_hi": "Bhagner (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283152"
+    ]
+  },
+  {
+    "id": "po-firozabad-nagla-nahar",
+    "type": "village",
+    "name_en": "Nagla Nahar (Gram Panchayat Area)",
+    "name_hi": "Nagla Nahar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283152"
+    ]
+  },
+  {
+    "id": "po-firozabad-bahat",
+    "type": "village",
+    "name_en": "Bahat (Gram Panchayat Area)",
+    "name_hi": "Bahat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283136"
+    ]
+  },
+  {
+    "id": "po-firozabad-banbara",
+    "type": "village",
+    "name_en": "Banbara (Gram Panchayat Area)",
+    "name_hi": "Banbara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283136"
+    ]
+  },
+  {
+    "id": "po-firozabad-jhapara",
+    "type": "village",
+    "name_en": "Jhapara (Gram Panchayat Area)",
+    "name_hi": "Jhapara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283136"
+    ]
+  },
+  {
+    "id": "po-firozabad-kaurara-bujurga",
+    "type": "village",
+    "name_en": "Kaurara Bujurga (Gram Panchayat Area)",
+    "name_hi": "Kaurara Bujurga (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283136"
+    ]
+  },
+  {
+    "id": "po-firozabad-bartara",
+    "type": "village",
+    "name_en": "Bartara (Gram Panchayat Area)",
+    "name_hi": "Bartara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283206"
+    ]
+  },
+  {
+    "id": "po-firozabad-kanwara",
+    "type": "village",
+    "name_en": "Kanwara (Gram Panchayat Area)",
+    "name_hi": "Kanwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283145"
+    ]
+  },
+  {
+    "id": "po-firozabad-kurri-kuppa",
+    "type": "village",
+    "name_en": "Kurri Kuppa (Gram Panchayat Area)",
+    "name_hi": "Kurri Kuppa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283103"
+    ]
+  },
+  {
+    "id": "po-firozabad-nagla-dheer",
+    "type": "village",
+    "name_en": "Nagla Dheer (Gram Panchayat Area)",
+    "name_hi": "Nagla Dheer (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283130"
+    ]
+  },
+  {
+    "id": "po-firozabad-nagla-kanchan",
+    "type": "village",
+    "name_en": "Nagla Kanchan (Gram Panchayat Area)",
+    "name_hi": "Nagla Kanchan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283130"
+    ]
+  },
+  {
+    "id": "po-firozabad-kharaua",
+    "type": "village",
+    "name_en": "Kharaua (Gram Panchayat Area)",
+    "name_hi": "Kharaua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283142"
+    ]
+  },
+  {
+    "id": "po-firozabad-keshpura",
+    "type": "village",
+    "name_en": "Keshpura (Gram Panchayat Area)",
+    "name_hi": "Keshpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283207"
+    ]
+  },
+  {
+    "id": "po-firozabad-asua",
+    "type": "village",
+    "name_en": "Asua (Gram Panchayat Area)",
+    "name_hi": "Asua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283141"
+    ]
+  },
+  {
+    "id": "po-firozabad-gurha",
+    "type": "village",
+    "name_en": "Gurha (Gram Panchayat Area)",
+    "name_hi": "Gurha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283141"
+    ]
+  },
+  {
+    "id": "po-firozabad-nagla-bajdar",
+    "type": "village",
+    "name_en": "Nagla Bajdar (Gram Panchayat Area)",
+    "name_hi": "Nagla Bajdar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283141"
+    ]
+  },
+  {
+    "id": "po-firozabad-dakhinara",
+    "type": "village",
+    "name_en": "Dakhinara (Gram Panchayat Area)",
+    "name_hi": "Dakhinara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283135"
+    ]
+  },
+  {
+    "id": "po-firozabad-a-g-m-bhawali",
+    "type": "village",
+    "name_en": "A G M Bhawali (Gram Panchayat Area)",
+    "name_hi": "A G M Bhawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283151"
+    ]
+  },
+  {
+    "id": "po-firozabad-chulhawali",
+    "type": "village",
+    "name_en": "Chulhawali (Gram Panchayat Area)",
+    "name_hi": "Chulhawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-himmatpur",
+    "type": "village",
+    "name_en": "Himmatpur (Gram Panchayat Area)",
+    "name_hi": "Himmatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-mersena",
+    "type": "village",
+    "name_en": "Mersena (Gram Panchayat Area)",
+    "name_hi": "Mersena (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-bhondela",
+    "type": "village",
+    "name_en": "Bhondela (Gram Panchayat Area)",
+    "name_hi": "Bhondela (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-mohammdabad",
+    "type": "village",
+    "name_en": "Mohammdabad (Gram Panchayat Area)",
+    "name_hi": "Mohammdabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-ali-nagar-kenjra",
+    "type": "village",
+    "name_en": "Ali Nagar Kenjra (Gram Panchayat Area)",
+    "name_hi": "Ali Nagar Kenjra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-bilhena",
+    "type": "village",
+    "name_en": "Bilhena (Gram Panchayat Area)",
+    "name_hi": "Bilhena (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-gonchh",
+    "type": "village",
+    "name_en": "Gonchh (Gram Panchayat Area)",
+    "name_hi": "Gonchh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-pachwan",
+    "type": "village",
+    "name_en": "Pachwan (Gram Panchayat Area)",
+    "name_hi": "Pachwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-jarauli-kalan",
+    "type": "village",
+    "name_en": "Jarauli Kalan (Gram Panchayat Area)",
+    "name_hi": "Jarauli Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-dokeli",
+    "type": "village",
+    "name_en": "Dokeli (Gram Panchayat Area)",
+    "name_hi": "Dokeli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-sarhamai",
+    "type": "village",
+    "name_en": "Sarhamai (Gram Panchayat Area)",
+    "name_hi": "Sarhamai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-farida",
+    "type": "village",
+    "name_en": "Farida (Gram Panchayat Area)",
+    "name_hi": "Farida (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283152"
+    ]
+  },
+  {
+    "id": "po-firozabad-katana",
+    "type": "village",
+    "name_en": "Katana (Gram Panchayat Area)",
+    "name_hi": "Katana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283152"
+    ]
+  },
+  {
+    "id": "po-firozabad-gopalpur",
+    "type": "village",
+    "name_en": "Gopalpur (Gram Panchayat Area)",
+    "name_hi": "Gopalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283152"
+    ]
+  },
+  {
+    "id": "po-firozabad-akbarpur-kutukpur",
+    "type": "village",
+    "name_en": "Akbarpur Kutukpur (Gram Panchayat Area)",
+    "name_hi": "Akbarpur Kutukpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283136"
+    ]
+  },
+  {
+    "id": "po-firozabad-kushiyari",
+    "type": "village",
+    "name_en": "Kushiyari (Gram Panchayat Area)",
+    "name_hi": "Kushiyari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283136"
+    ]
+  },
+  {
+    "id": "po-firozabad-patti",
+    "type": "village",
+    "name_en": "Patti (Gram Panchayat Area)",
+    "name_hi": "Patti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283136"
+    ]
+  },
+  {
+    "id": "po-firozabad-gangni",
+    "type": "village",
+    "name_en": "Gangni (Gram Panchayat Area)",
+    "name_hi": "Gangni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283206"
+    ]
+  },
+  {
+    "id": "po-firozabad-jajumai",
+    "type": "village",
+    "name_en": "Jajumai (Gram Panchayat Area)",
+    "name_hi": "Jajumai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283145"
+    ]
+  },
+  {
+    "id": "po-firozabad-khairgarh",
+    "type": "village",
+    "name_en": "Khairgarh (Gram Panchayat Area)",
+    "name_hi": "Khairgarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283145"
+    ]
+  },
+  {
+    "id": "po-firozabad-sarhupur",
+    "type": "village",
+    "name_en": "Sarhupur (Gram Panchayat Area)",
+    "name_hi": "Sarhupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283145"
+    ]
+  },
+  {
+    "id": "po-firozabad-baghai",
+    "type": "village",
+    "name_en": "Baghai (Gram Panchayat Area)",
+    "name_hi": "Baghai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283103"
+    ]
+  },
+  {
+    "id": "po-firozabad-kotaki",
+    "type": "village",
+    "name_en": "Kotaki (Gram Panchayat Area)",
+    "name_hi": "Kotaki (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283103"
+    ]
+  },
+  {
+    "id": "po-firozabad-usayani",
+    "type": "village",
+    "name_en": "Usayani (Gram Panchayat Area)",
+    "name_hi": "Usayani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283103"
+    ]
+  },
+  {
+    "id": "po-firozabad-kadipur",
+    "type": "village",
+    "name_en": "Kadipur (Gram Panchayat Area)",
+    "name_hi": "Kadipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283130"
+    ]
+  },
+  {
+    "id": "po-firozabad-kharit",
+    "type": "village",
+    "name_en": "Kharit (Gram Panchayat Area)",
+    "name_hi": "Kharit (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283130"
+    ]
+  },
+  {
+    "id": "po-firozabad-bhadan",
+    "type": "village",
+    "name_en": "Bhadan (Gram Panchayat Area)",
+    "name_hi": "Bhadan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283142"
+    ]
+  },
+  {
+    "id": "po-firozabad-kaurari-kherha",
+    "type": "village",
+    "name_en": "Kaurari Kherha (Gram Panchayat Area)",
+    "name_hi": "Kaurari Kherha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283142"
+    ]
+  },
+  {
+    "id": "po-firozabad-nagla-gulal",
+    "type": "village",
+    "name_en": "Nagla Gulal (Gram Panchayat Area)",
+    "name_hi": "Nagla Gulal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283142"
+    ]
+  },
+  {
+    "id": "po-firozabad-ruchan-manikpur",
+    "type": "village",
+    "name_en": "Ruchan  Manikpur (Gram Panchayat Area)",
+    "name_hi": "Ruchan  Manikpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283142"
+    ]
+  },
+  {
+    "id": "po-firozabad-dhatari",
+    "type": "village",
+    "name_en": "Dhatari (Gram Panchayat Area)",
+    "name_hi": "Dhatari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283135"
+    ]
+  },
+  {
+    "id": "po-firozabad-mandai",
+    "type": "village",
+    "name_en": "Mandai (Gram Panchayat Area)",
+    "name_hi": "Mandai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283135"
+    ]
+  },
+  {
+    "id": "po-firozabad-thanumai",
+    "type": "village",
+    "name_en": "Thanumai (Gram Panchayat Area)",
+    "name_hi": "Thanumai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283135"
+    ]
+  },
+  {
+    "id": "po-firozabad-urmura",
+    "type": "village",
+    "name_en": "Urmura (Gram Panchayat Area)",
+    "name_hi": "Urmura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283135"
+    ]
+  },
+  {
+    "id": "po-firozabad-jaundhary",
+    "type": "village",
+    "name_en": "Jaundhary (Gram Panchayat Area)",
+    "name_hi": "Jaundhary (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-katki",
+    "type": "village",
+    "name_en": "Katki (Gram Panchayat Area)",
+    "name_hi": "Katki (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-nagla-dutt",
+    "type": "village",
+    "name_en": "Nagla Dutt (Gram Panchayat Area)",
+    "name_hi": "Nagla Dutt (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-nagla-sikander",
+    "type": "village",
+    "name_en": "Nagla Sikander (Gram Panchayat Area)",
+    "name_hi": "Nagla Sikander (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-pachokhara",
+    "type": "village",
+    "name_en": "Pachokhara (Gram Panchayat Area)",
+    "name_hi": "Pachokhara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-rasoolabad",
+    "type": "village",
+    "name_en": "Rasoolabad (Gram Panchayat Area)",
+    "name_hi": "Rasoolabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-salempur",
+    "type": "village",
+    "name_en": "Salempur (Gram Panchayat Area)",
+    "name_hi": "Salempur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-tikari",
+    "type": "village",
+    "name_en": "Tikari (Gram Panchayat Area)",
+    "name_hi": "Tikari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-ummargarh",
+    "type": "village",
+    "name_en": "Ummargarh (Gram Panchayat Area)",
+    "name_hi": "Ummargarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-rupaspur",
+    "type": "village",
+    "name_en": "Rupaspur (Gram Panchayat Area)",
+    "name_hi": "Rupaspur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-asafabad",
+    "type": "village",
+    "name_en": "Asafabad (Gram Panchayat Area)",
+    "name_hi": "Asafabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-matsena",
+    "type": "village",
+    "name_en": "Matsena (Gram Panchayat Area)",
+    "name_hi": "Matsena (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-jakhai",
+    "type": "village",
+    "name_en": "Jakhai (Gram Panchayat Area)",
+    "name_hi": "Jakhai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-raipura",
+    "type": "village",
+    "name_en": "Raipura (Gram Panchayat Area)",
+    "name_hi": "Raipura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-datawali",
+    "type": "village",
+    "name_en": "Datawali (Gram Panchayat Area)",
+    "name_hi": "Datawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-jalalpur",
+    "type": "village",
+    "name_en": "JALALPUR (Gram Panchayat Area)",
+    "name_hi": "JALALPUR (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-moinudinpur",
+    "type": "village",
+    "name_en": "MOINUDINPUR (Gram Panchayat Area)",
+    "name_hi": "MOINUDINPUR (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "po-firozabad-kailai",
+    "type": "village",
+    "name_en": "Kailai (Gram Panchayat Area)",
+    "name_hi": "Kailai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283152"
+    ]
+  },
+  {
+    "id": "po-firozabad-uresar",
+    "type": "village",
+    "name_en": "Uresar (Gram Panchayat Area)",
+    "name_hi": "Uresar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283152"
+    ]
+  },
+  {
+    "id": "po-firozabad-milawali",
+    "type": "village",
+    "name_en": "Milawali (Gram Panchayat Area)",
+    "name_hi": "Milawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283136"
+    ]
+  },
+  {
+    "id": "po-firozabad-dorsa",
+    "type": "village",
+    "name_en": "Dorsa (Gram Panchayat Area)",
+    "name_hi": "Dorsa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283206"
+    ]
+  },
+  {
+    "id": "po-firozabad-ketana-harsha",
+    "type": "village",
+    "name_en": "Ketana Harsha (Gram Panchayat Area)",
+    "name_hi": "Ketana Harsha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283145"
+    ]
+  },
+  {
+    "id": "po-firozabad-pratappur",
+    "type": "village",
+    "name_en": "Pratappur (Gram Panchayat Area)",
+    "name_hi": "Pratappur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283145"
+    ]
+  },
+  {
+    "id": "po-firozabad-hirangaon",
+    "type": "village",
+    "name_en": "Hirangaon (Gram Panchayat Area)",
+    "name_hi": "Hirangaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283103"
+    ]
+  },
+  {
+    "id": "po-firozabad-bara-gaon",
+    "type": "village",
+    "name_en": "Bara Gaon (Gram Panchayat Area)",
+    "name_hi": "Bara Gaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283130"
+    ]
+  },
+  {
+    "id": "po-firozabad-kheria-patikara",
+    "type": "village",
+    "name_en": "Kheria Patikara (Gram Panchayat Area)",
+    "name_hi": "Kheria Patikara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283130"
+    ]
+  },
+  {
+    "id": "po-firozabad-balipur",
+    "type": "village",
+    "name_en": "Balipur (Gram Panchayat Area)",
+    "name_hi": "Balipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283142"
+    ]
+  },
+  {
+    "id": "po-firozabad-garhsan",
+    "type": "village",
+    "name_en": "Garhsan (Gram Panchayat Area)",
+    "name_hi": "Garhsan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283142"
+    ]
+  },
+  {
+    "id": "po-firozabad-ukhrend",
+    "type": "village",
+    "name_en": "Ukhrend (Gram Panchayat Area)",
+    "name_hi": "Ukhrend (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283142"
+    ]
+  },
+  {
+    "id": "po-firozabad-urawarhastref",
+    "type": "village",
+    "name_en": "Urawarhastref (Gram Panchayat Area)",
+    "name_hi": "Urawarhastref (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283142"
+    ]
+  },
+  {
+    "id": "po-firozabad-konder",
+    "type": "village",
+    "name_en": "Konder (Gram Panchayat Area)",
+    "name_hi": "Konder (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283207"
+    ]
+  },
+  {
+    "id": "po-firozabad-ghaghau",
+    "type": "village",
+    "name_en": "Ghaghau (Gram Panchayat Area)",
+    "name_hi": "Ghaghau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283141"
+    ]
+  },
+  {
+    "id": "po-firozabad-nasirpur",
+    "type": "village",
+    "name_en": "Nasirpur (Gram Panchayat Area)",
+    "name_hi": "Nasirpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283141"
+    ]
+  },
+  {
+    "id": "po-firozabad-amaur-nagla-jeevan",
+    "type": "village",
+    "name_en": "Amaur Nagla Jeevan (Gram Panchayat Area)",
+    "name_hi": "Amaur Nagla Jeevan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283151"
+    ]
+  },
+  {
+    "id": "po-firozabad-karhara",
+    "type": "village",
+    "name_en": "Karhara (Gram Panchayat Area)",
+    "name_hi": "Karhara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283151"
+    ]
+  },
+  {
+    "id": "po-firozabad-saray-bhartara",
+    "type": "village",
+    "name_en": "Saray Bhartara (Gram Panchayat Area)",
+    "name_hi": "Saray Bhartara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283151"
+    ]
+  },
+  {
+    "id": "po-firozabad-sothara",
+    "type": "village",
+    "name_en": "Sothara (Gram Panchayat Area)",
+    "name_hi": "Sothara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283151"
+    ]
+  },
+  {
+    "id": "po-firozabad-tilyani",
+    "type": "village",
+    "name_en": "Tilyani (Gram Panchayat Area)",
+    "name_hi": "Tilyani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283151"
+    ]
+  },
+  {
+    "id": "po-firozabad-dev-kherha",
+    "type": "village",
+    "name_en": "Dev Kherha (Gram Panchayat Area)",
+    "name_hi": "Dev Kherha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-gondai",
+    "type": "village",
+    "name_en": "Gondai (Gram Panchayat Area)",
+    "name_hi": "Gondai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-gwari-nagla-singhi",
+    "type": "village",
+    "name_en": "Gwari Nagla Singhi (Gram Panchayat Area)",
+    "name_hi": "Gwari Nagla Singhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-mohammadi",
+    "type": "village",
+    "name_en": "Mohammadi (Gram Panchayat Area)",
+    "name_hi": "Mohammadi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-pamari",
+    "type": "village",
+    "name_en": "Pamari (Gram Panchayat Area)",
+    "name_hi": "Pamari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-rajawali",
+    "type": "village",
+    "name_en": "Rajawali (Gram Panchayat Area)",
+    "name_hi": "Rajawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "po-firozabad-rajmal",
+    "type": "village",
+    "name_en": "Rajmal (Gram Panchayat Area)",
+    "name_hi": "Rajmal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-firozabad",
+    "block_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "ward-firozabad-nigam",
+    "type": "ward",
+    "name_en": "Firozabad Municipal Corporation (All Wards)",
+    "name_hi": "फिरोजाबाद नगर निगम (सभी वार्ड)",
+    "ulb_id": "firozabad",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam"
+  },
+  {
+    "id": "ward-firozabad-ulb-firozabad-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Firozabad (All Wards)",
+    "name_hi": "फिरोजाबाद नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-firozabad-firozabad",
+    "type": "ward",
+    "name_en": "Firozabad (Urban Ward / SO)",
+    "name_hi": "Firozabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "town-firozabad-makkhanpur",
+    "type": "ward",
+    "name_en": "Makkhanpur (Urban Ward / SO)",
+    "name_hi": "Makkhanpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283145"
+    ]
+  },
+  {
+    "id": "town-firozabad-oef-firozabad",
+    "type": "ward",
+    "name_en": "Oef  Firozabad (Urban Ward / SO)",
+    "name_hi": "Oef  Firozabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283103"
+    ]
+  },
+  {
+    "id": "town-firozabad-sirsaganj",
+    "type": "ward",
+    "name_en": "Sirsaganj (Urban Ward / SO)",
+    "name_hi": "Sirsaganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283151"
+    ]
+  },
+  {
+    "id": "town-firozabad-bara-bazar-shikohabad",
+    "type": "ward",
+    "name_en": "Bara Bazar Shikohabad (Urban Ward / SO)",
+    "name_hi": "Bara Bazar Shikohabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283135"
+    ]
+  },
+  {
+    "id": "town-firozabad-jasrana",
+    "type": "ward",
+    "name_en": "Jasrana (Urban Ward / SO)",
+    "name_hi": "Jasrana (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283136"
+    ]
+  },
+  {
+    "id": "town-firozabad-parham",
+    "type": "ward",
+    "name_en": "Parham (Urban Ward / SO)",
+    "name_hi": "Parham (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283130"
+    ]
+  },
+  {
+    "id": "town-firozabad-pariyar",
+    "type": "ward",
+    "name_en": "Pariyar (Urban Ward / SO)",
+    "name_hi": "Pariyar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283142"
+    ]
+  },
+  {
+    "id": "town-firozabad-shikohabad-rs",
+    "type": "ward",
+    "name_en": "Shikohabad RS (Urban Ward / SO)",
+    "name_hi": "Shikohabad RS (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283141"
+    ]
+  },
+  {
+    "id": "town-firozabad-tundla",
+    "type": "ward",
+    "name_en": "Tundla (Urban Ward / SO)",
+    "name_hi": "Tundla (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "town-firozabad-tundla-chauraha",
+    "type": "ward",
+    "name_en": "Tundla Chauraha (Urban Ward / SO)",
+    "name_hi": "Tundla Chauraha (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283204"
+    ]
+  },
+  {
+    "id": "town-firozabad-collectorate-firozabad",
+    "type": "ward",
+    "name_en": "Collectorate firozabad (Urban Ward / SO)",
+    "name_hi": "Collectorate firozabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283205"
+    ]
+  },
+  {
+    "id": "town-firozabad-eka",
+    "type": "ward",
+    "name_en": "Eka (Urban Ward / SO)",
+    "name_hi": "Eka (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283152"
+    ]
+  },
+  {
+    "id": "town-firozabad-labour-collony-firozabad",
+    "type": "ward",
+    "name_en": "Labour Collony  Firozabad (Urban Ward / SO)",
+    "name_hi": "Labour Collony  Firozabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "town-firozabad-phariha",
+    "type": "ward",
+    "name_en": "Phariha (Urban Ward / SO)",
+    "name_hi": "Phariha (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283207"
+    ]
+  },
+  {
+    "id": "town-firozabad-railway-road-firozabad",
+    "type": "ward",
+    "name_en": "Railway Road Firozabad (Urban Ward / SO)",
+    "name_hi": "Railway Road Firozabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "town-firozabad-narayan-nagar",
+    "type": "ward",
+    "name_en": "Narayan Nagar (Urban Ward / SO)",
+    "name_hi": "Narayan Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "town-firozabad-rasulabad",
+    "type": "ward",
+    "name_en": "Rasulabad (Urban Ward / SO)",
+    "name_hi": "Rasulabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224172"
+    ]
+  },
+  {
+    "id": "town-firozabad-kotla-so-firozabad",
+    "type": "ward",
+    "name_en": "Kotla SO Firozabad (Urban Ward / SO)",
+    "name_hi": "Kotla SO Firozabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283206"
+    ]
+  },
+  {
+    "id": "town-firozabad-s-n-h-road-firozabad",
+    "type": "ward",
+    "name_en": "S N H Road Firozabad (Urban Ward / SO)",
+    "name_hi": "S N H Road Firozabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283203"
+    ]
+  },
+  {
+    "id": "town-firozabad-shikohabad",
+    "type": "ward",
+    "name_en": "Shikohabad (Urban Ward / SO)",
+    "name_hi": "Shikohabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-firozabad-main",
+    "tehsil_id": "firozabad",
+    "district_id": "firozabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "283135"
+    ]
+  }
+]

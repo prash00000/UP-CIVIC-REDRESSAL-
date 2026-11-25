@@ -21,7 +21,7 @@
       "covers": [
         "mau"
       ],
-      "source_url": "https://mau.nic.in/whos-who/",
+      "source_url": "https://mau.nic.in/en/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Anand Vardhan IAS",
@@ -46,7 +46,7 @@
       "covers": [
         "mau"
       ],
-      "source_url": "https://mau.nic.in/whos-who/",
+      "source_url": "https://mau.nic.in/en/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Dhruv Khadia IAS",
@@ -101,9 +101,9 @@
       "covers": [
         "madhuban"
       ],
-      "source_url": "https://mau.nic.in/whos-who/",
+      "source_url": "https://mau.nic.in/en/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mau-sdm-ghosi",
@@ -124,9 +124,9 @@
       "covers": [
         "ghosi"
       ],
-      "source_url": "https://mau.nic.in/whos-who/",
+      "source_url": "https://mau.nic.in/en/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mau-sdm-muhammadabad-gohna",
@@ -147,9 +147,9 @@
       "covers": [
         "muhammadabad-gohna"
       ],
-      "source_url": "https://mau.nic.in/whos-who/",
+      "source_url": "https://mau.nic.in/en/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mau-bdo-pardaha",
@@ -157,14 +157,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Pardaha",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pardaha",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464639",
+          "type": "office",
+          "source_url": "https://mau.nic.in/en/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.pardaha.mau@gmail.com",
       "covers": [
         "pardaha"
       ],
-      "source_url": "https://mau.nic.in/whos-who/",
+      "source_url": "https://mau.nic.in/en/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mau-ado-pardaha",
@@ -178,7 +186,8 @@
       ],
       "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mau-bdo-pardaha"
     },
     {
       "id": "up-mau-bdo-ratanpura",
@@ -207,7 +216,8 @@
       ],
       "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mau-bdo-ratanpura"
     },
     {
       "id": "up-mau-bdo-ranipur",
@@ -215,14 +225,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Ranipur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ranipur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465572",
+          "type": "office",
+          "source_url": "https://mau.nic.in/en/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.ranipur.mau@gmail.com",
       "covers": [
         "ranipur"
       ],
-      "source_url": "https://mau.nic.in/whos-who/",
+      "source_url": "https://mau.nic.in/en/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mau-ado-ranipur",
@@ -236,7 +254,8 @@
       ],
       "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mau-bdo-ranipur"
     },
     {
       "id": "up-mau-bdo-kopaganj",
@@ -244,14 +263,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kopaganj",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kopaganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464638",
+          "type": "office",
+          "source_url": "https://mau.nic.in/en/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.kopaganj.mau@gmail.com",
       "covers": [
         "kopaganj"
       ],
-      "source_url": "https://mau.nic.in/whos-who/",
+      "source_url": "https://mau.nic.in/en/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mau-ado-kopaganj",
@@ -265,7 +292,8 @@
       ],
       "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mau-bdo-kopaganj"
     },
     {
       "id": "up-mau-bdo-ghosi",
@@ -273,14 +301,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Ghosi",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ghosi",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464635",
+          "type": "office",
+          "source_url": "https://mau.nic.in/en/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.ghosi.mau@gmail.com",
       "covers": [
         "ghosi"
       ],
-      "source_url": "https://mau.nic.in/whos-who/",
+      "source_url": "https://mau.nic.in/en/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mau-ado-ghosi",
@@ -294,7 +330,8 @@
       ],
       "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mau-bdo-ghosi"
     },
     {
       "id": "up-mau-bdo-badraon",
@@ -323,7 +360,8 @@
       ],
       "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mau-bdo-badraon"
     },
     {
       "id": "up-mau-bdo-fatehpur-madaun",
@@ -352,7 +390,8 @@
       ],
       "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mau-bdo-fatehpur-madaun"
     },
     {
       "id": "up-mau-bdo-doharighat",
@@ -381,7 +420,8 @@
       ],
       "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mau-bdo-doharighat"
     },
     {
       "id": "up-mau-bdo-muhammadabad-gohna",
@@ -410,7 +450,8 @@
       ],
       "source_url": "https://mau.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mau-bdo-muhammadabad-gohna"
     },
     {
       "id": "eo-mau-main",
@@ -418,13 +459,21 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Mau",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका मऊ",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8189078474",
+          "type": "office",
+          "source_url": "https://mau.nic.in/en/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-mau-main"
       ],
-      "source_url": "https://mau.nic.in/whos-who/",
+      "source_url": "https://mau.nic.in/en/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     }
   ]
 }

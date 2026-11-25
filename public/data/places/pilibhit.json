@@ -1,0 +1,2341 @@
+[
+  {
+    "id": "v-pilibhit-marori",
+    "type": "village",
+    "name_en": "Marori Block (Gram Panchayats)",
+    "name_hi": "Marori विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-pilibhit-lalaurikhera",
+    "type": "village",
+    "name_en": "Lalaurikhera Block (Gram Panchayats)",
+    "name_hi": "Lalaurikhera विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-lalaurikhera",
+    "block_id": "lalaurikhera",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-pilibhit-amariya",
+    "type": "village",
+    "name_en": "Amariya Block (Gram Panchayats)",
+    "name_hi": "Amariya विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amariya",
+    "block_id": "amariya",
+    "tehsil_id": "amariya",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-pilibhit-barkhera",
+    "type": "village",
+    "name_en": "Barkhera Block (Gram Panchayats)",
+    "name_hi": "Barkhera विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barkhera",
+    "block_id": "barkhera",
+    "tehsil_id": "barkhera",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-pilibhit-bisalpur",
+    "type": "village",
+    "name_en": "Bisalpur Block (Gram Panchayats)",
+    "name_hi": "Bisalpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bisalpur",
+    "block_id": "bisalpur",
+    "tehsil_id": "bisalpur",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-pilibhit-bilsanda",
+    "type": "village",
+    "name_en": "Bilsanda Block (Gram Panchayats)",
+    "name_hi": "Bilsanda विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bilsanda",
+    "block_id": "bilsanda",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-pilibhit-puranpur",
+    "type": "village",
+    "name_en": "Puranpur Block (Gram Panchayats)",
+    "name_hi": "Puranpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-puranpur",
+    "block_id": "puranpur",
+    "tehsil_id": "puranpur",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-pilibhit-goradhanenega",
+    "type": "village",
+    "name_en": "Goradhanenega (Gram Panchayat Area)",
+    "name_hi": "Goradhanenega (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262123"
+    ]
+  },
+  {
+    "id": "po-pilibhit-haripur",
+    "type": "village",
+    "name_en": "Haripur (Gram Panchayat Area)",
+    "name_hi": "Haripur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262123"
+    ]
+  },
+  {
+    "id": "po-pilibhit-sondha",
+    "type": "village",
+    "name_en": "Sondha (Gram Panchayat Area)",
+    "name_hi": "Sondha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262123"
+    ]
+  },
+  {
+    "id": "po-pilibhit-seramau-north",
+    "type": "village",
+    "name_en": "Seramau North (Gram Panchayat Area)",
+    "name_hi": "Seramau North (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262123"
+    ]
+  },
+  {
+    "id": "po-pilibhit-sultanpur",
+    "type": "village",
+    "name_en": "Sultanpur (Gram Panchayat Area)",
+    "name_hi": "Sultanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262123"
+    ]
+  },
+  {
+    "id": "po-pilibhit-mahuagundey",
+    "type": "village",
+    "name_en": "Mahuagundey (Gram Panchayat Area)",
+    "name_hi": "Mahuagundey (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262123"
+    ]
+  },
+  {
+    "id": "po-pilibhit-kajriniranjanpur",
+    "type": "village",
+    "name_en": "Kajriniranjanpur (Gram Panchayat Area)",
+    "name_hi": "Kajriniranjanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262123"
+    ]
+  },
+  {
+    "id": "po-pilibhit-shahi",
+    "type": "village",
+    "name_en": "Shahi (Gram Panchayat Area)",
+    "name_hi": "Shahi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-chandia-hajara",
+    "type": "village",
+    "name_en": "Chandia Hajara (Gram Panchayat Area)",
+    "name_hi": "Chandia Hajara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262904"
+    ]
+  },
+  {
+    "id": "po-pilibhit-kabir-ganj",
+    "type": "village",
+    "name_en": "Kabir Ganj (Gram Panchayat Area)",
+    "name_hi": "Kabir Ganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262904"
+    ]
+  },
+  {
+    "id": "po-pilibhit-shardapuri",
+    "type": "village",
+    "name_en": "Shardapuri (Gram Panchayat Area)",
+    "name_hi": "Shardapuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262904"
+    ]
+  },
+  {
+    "id": "po-pilibhit-ram-nagar",
+    "type": "village",
+    "name_en": "Ram Nagar (Gram Panchayat Area)",
+    "name_hi": "Ram Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262904"
+    ]
+  },
+  {
+    "id": "po-pilibhit-ashok-nagar",
+    "type": "village",
+    "name_en": "Ashok Nagar (Gram Panchayat Area)",
+    "name_hi": "Ashok Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262904"
+    ]
+  },
+  {
+    "id": "po-pilibhit-jatpura",
+    "type": "village",
+    "name_en": "Jatpura (Gram Panchayat Area)",
+    "name_hi": "Jatpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-lalpur",
+    "type": "village",
+    "name_en": "Lalpur (Gram Panchayat Area)",
+    "name_hi": "Lalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-morania-gandhi-nagar",
+    "type": "village",
+    "name_en": "Morania Gandhi Nagar (Gram Panchayat Area)",
+    "name_hi": "Morania Gandhi Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262904"
+    ]
+  },
+  {
+    "id": "po-pilibhit-hardaspur",
+    "type": "village",
+    "name_en": "Hardaspur (Gram Panchayat Area)",
+    "name_hi": "Hardaspur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262302"
+    ]
+  },
+  {
+    "id": "po-pilibhit-kanakore",
+    "type": "village",
+    "name_en": "Kanakore (Gram Panchayat Area)",
+    "name_hi": "Kanakore (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-kalyanpur-khas",
+    "type": "village",
+    "name_en": "Kalyanpur Khas (Gram Panchayat Area)",
+    "name_hi": "Kalyanpur Khas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-gahluia",
+    "type": "village",
+    "name_en": "Gahluia (Gram Panchayat Area)",
+    "name_hi": "Gahluia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-jaitpur",
+    "type": "village",
+    "name_en": "Jaitpur (Gram Panchayat Area)",
+    "name_hi": "Jaitpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-amkhera",
+    "type": "village",
+    "name_en": "Amkhera (Gram Panchayat Area)",
+    "name_hi": "Amkhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-bahadurpur",
+    "type": "village",
+    "name_en": "Bahadurpur (Gram Panchayat Area)",
+    "name_hi": "Bahadurpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-ram-nagar-jagatpur",
+    "type": "village",
+    "name_en": "Ram Nagar Jagatpur (Gram Panchayat Area)",
+    "name_hi": "Ram Nagar Jagatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-sehpura",
+    "type": "village",
+    "name_en": "Sehpura (Gram Panchayat Area)",
+    "name_hi": "Sehpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-simra-akbar-ganj",
+    "type": "village",
+    "name_en": "Simra Akbar Ganj (Gram Panchayat Area)",
+    "name_hi": "Simra Akbar Ganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-bhaden-kanja",
+    "type": "village",
+    "name_en": "Bhaden Kanja (Gram Panchayat Area)",
+    "name_hi": "Bhaden Kanja (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262202"
+    ]
+  },
+  {
+    "id": "po-pilibhit-kareli",
+    "type": "village",
+    "name_en": "Kareli (Gram Panchayat Area)",
+    "name_hi": "Kareli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262202"
+    ]
+  },
+  {
+    "id": "po-pilibhit-meerpur-hamupura",
+    "type": "village",
+    "name_en": "Meerpur Hamupura (Gram Panchayat Area)",
+    "name_hi": "Meerpur Hamupura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262202"
+    ]
+  },
+  {
+    "id": "po-pilibhit-amrita",
+    "type": "village",
+    "name_en": "Amrita (Gram Panchayat Area)",
+    "name_hi": "Amrita (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-azampur-barkhera",
+    "type": "village",
+    "name_en": "Azampur Barkhera (Gram Panchayat Area)",
+    "name_hi": "Azampur Barkhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barkhera",
+    "block_id": "barkhera",
+    "tehsil_id": "barkhera",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-badhera",
+    "type": "village",
+    "name_en": "Badhera (Gram Panchayat Area)",
+    "name_hi": "Badhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-churra",
+    "type": "village",
+    "name_en": "Churra (Gram Panchayat Area)",
+    "name_hi": "Churra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-dhakia-ranjeet",
+    "type": "village",
+    "name_en": "Dhakia Ranjeet (Gram Panchayat Area)",
+    "name_hi": "Dhakia Ranjeet (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-imalia-gangi",
+    "type": "village",
+    "name_en": "Imalia Gangi (Gram Panchayat Area)",
+    "name_hi": "Imalia Gangi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-intgoan",
+    "type": "village",
+    "name_en": "Intgoan (Gram Panchayat Area)",
+    "name_hi": "Intgoan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-khandepur",
+    "type": "village",
+    "name_en": "Khandepur (Gram Panchayat Area)",
+    "name_hi": "Khandepur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-kishni",
+    "type": "village",
+    "name_en": "Kishni (Gram Panchayat Area)",
+    "name_hi": "Kishni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-neoria-mobile",
+    "type": "village",
+    "name_en": "Neoria Mobile (Gram Panchayat Area)",
+    "name_hi": "Neoria Mobile (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262305"
+    ]
+  },
+  {
+    "id": "po-pilibhit-pandari",
+    "type": "village",
+    "name_en": "Pandari (Gram Panchayat Area)",
+    "name_hi": "Pandari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262305"
+    ]
+  },
+  {
+    "id": "po-pilibhit-chandia-hazara",
+    "type": "village",
+    "name_en": "Chandia Hazara (Gram Panchayat Area)",
+    "name_hi": "Chandia Hazara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-dhuria-palia",
+    "type": "village",
+    "name_en": "Dhuria Palia (Gram Panchayat Area)",
+    "name_hi": "Dhuria Palia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-dudhia-khurd",
+    "type": "village",
+    "name_en": "Dudhia Khurd (Gram Panchayat Area)",
+    "name_hi": "Dudhia Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-gobhia-sarai",
+    "type": "village",
+    "name_en": "Gobhia Sarai (Gram Panchayat Area)",
+    "name_hi": "Gobhia Sarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-bithora-kalan",
+    "type": "village",
+    "name_en": "Bithora Kalan (Gram Panchayat Area)",
+    "name_hi": "Bithora Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-dalelganj",
+    "type": "village",
+    "name_en": "Dalelganj (Gram Panchayat Area)",
+    "name_hi": "Dalelganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-lalauri-khera",
+    "type": "village",
+    "name_en": "Lalauri Khera (Gram Panchayat Area)",
+    "name_hi": "Lalauri Khera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-lalaurikhera",
+    "block_id": "lalaurikhera",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-mala-colony",
+    "type": "village",
+    "name_en": "Mala Colony (Gram Panchayat Area)",
+    "name_hi": "Mala Colony (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-gajraula-kalan",
+    "type": "village",
+    "name_en": "Gajraula Kalan (Gram Panchayat Area)",
+    "name_hi": "Gajraula Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-khamaria-pull",
+    "type": "village",
+    "name_en": "Khamaria Pull (Gram Panchayat Area)",
+    "name_hi": "Khamaria Pull (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-piparia-agroo",
+    "type": "village",
+    "name_en": "Piparia Agroo (Gram Panchayat Area)",
+    "name_hi": "Piparia Agroo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-khundara",
+    "type": "village",
+    "name_en": "Khundara (Gram Panchayat Area)",
+    "name_hi": "Khundara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-baratbhoj",
+    "type": "village",
+    "name_en": "Baratbhoj (Gram Panchayat Area)",
+    "name_hi": "Baratbhoj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-barehpura",
+    "type": "village",
+    "name_en": "Barehpura (Gram Panchayat Area)",
+    "name_hi": "Barehpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262121"
+    ]
+  },
+  {
+    "id": "po-pilibhit-harraipur",
+    "type": "village",
+    "name_en": "Harraipur (Gram Panchayat Area)",
+    "name_hi": "Harraipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262121"
+    ]
+  },
+  {
+    "id": "po-pilibhit-kargaina",
+    "type": "village",
+    "name_en": "Kargaina (Gram Panchayat Area)",
+    "name_hi": "Kargaina (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262121"
+    ]
+  },
+  {
+    "id": "po-pilibhit-parewa-vaish",
+    "type": "village",
+    "name_en": "Parewa Vaish (Gram Panchayat Area)",
+    "name_hi": "Parewa Vaish (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262121"
+    ]
+  },
+  {
+    "id": "po-pilibhit-chathiya",
+    "type": "village",
+    "name_en": "Chathiya (Gram Panchayat Area)",
+    "name_hi": "Chathiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262121"
+    ]
+  },
+  {
+    "id": "po-pilibhit-jeorah-kalyanpur",
+    "type": "village",
+    "name_en": "Jeorah Kalyanpur (Gram Panchayat Area)",
+    "name_hi": "Jeorah Kalyanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-karunapur-karoor",
+    "type": "village",
+    "name_en": "Karunapur Karoor (Gram Panchayat Area)",
+    "name_hi": "Karunapur Karoor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-khajuria-pachpera",
+    "type": "village",
+    "name_en": "Khajuria Pachpera (Gram Panchayat Area)",
+    "name_hi": "Khajuria Pachpera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-madhupuri",
+    "type": "village",
+    "name_en": "Madhupuri (Gram Panchayat Area)",
+    "name_hi": "Madhupuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-mudia-hulas",
+    "type": "village",
+    "name_en": "Mudia Hulas (Gram Panchayat Area)",
+    "name_hi": "Mudia Hulas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-narainpur",
+    "type": "village",
+    "name_en": "Narainpur (Gram Panchayat Area)",
+    "name_hi": "Narainpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-pania-ramkishan",
+    "type": "village",
+    "name_en": "Pania Ramkishan (Gram Panchayat Area)",
+    "name_hi": "Pania Ramkishan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-amra-karoor",
+    "type": "village",
+    "name_en": "Amra Karoor (Gram Panchayat Area)",
+    "name_hi": "Amra Karoor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-bauni",
+    "type": "village",
+    "name_en": "Bauni (Gram Panchayat Area)",
+    "name_hi": "Bauni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-mohammadpur-bhanja",
+    "type": "village",
+    "name_en": "Mohammadpur Bhanja (Gram Panchayat Area)",
+    "name_hi": "Mohammadpur Bhanja (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-naugawan-santosh",
+    "type": "village",
+    "name_en": "Naugawan Santosh (Gram Panchayat Area)",
+    "name_hi": "Naugawan Santosh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-chandupur",
+    "type": "village",
+    "name_en": "Chandupur (Gram Panchayat Area)",
+    "name_hi": "Chandupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262124"
+    ]
+  },
+  {
+    "id": "po-pilibhit-ghatampur",
+    "type": "village",
+    "name_en": "Ghatampur (Gram Panchayat Area)",
+    "name_hi": "Ghatampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-madhotanda",
+    "type": "village",
+    "name_en": "Madhotanda (Gram Panchayat Area)",
+    "name_hi": "Madhotanda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-naujalia-nakatia",
+    "type": "village",
+    "name_en": "Naujalia Nakatia (Gram Panchayat Area)",
+    "name_hi": "Naujalia Nakatia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-piperia-dulai",
+    "type": "village",
+    "name_en": "Piperia Dulai (Gram Panchayat Area)",
+    "name_hi": "Piperia Dulai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-ramnagra-colony",
+    "type": "village",
+    "name_en": "Ramnagra Colony (Gram Panchayat Area)",
+    "name_hi": "Ramnagra Colony (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-roodpur",
+    "type": "village",
+    "name_en": "Roodpur (Gram Panchayat Area)",
+    "name_hi": "Roodpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-shahgarh",
+    "type": "village",
+    "name_en": "Shahgarh (Gram Panchayat Area)",
+    "name_hi": "Shahgarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-sherpur",
+    "type": "village",
+    "name_en": "Sherpur (Gram Panchayat Area)",
+    "name_hi": "Sherpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-shivnagar",
+    "type": "village",
+    "name_en": "Shivnagar (Gram Panchayat Area)",
+    "name_hi": "Shivnagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-udaikaranpur",
+    "type": "village",
+    "name_en": "Udaikaranpur (Gram Panchayat Area)",
+    "name_hi": "Udaikaranpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-guladiya-bhoopsingh",
+    "type": "village",
+    "name_en": "Guladiya Bhoopsingh (Gram Panchayat Area)",
+    "name_hi": "Guladiya Bhoopsingh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-jitauriya",
+    "type": "village",
+    "name_en": "Jitauriya (Gram Panchayat Area)",
+    "name_hi": "Jitauriya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-sardar-nagar",
+    "type": "village",
+    "name_en": "Sardar Nagar (Gram Panchayat Area)",
+    "name_hi": "Sardar Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-bahanpur",
+    "type": "village",
+    "name_en": "Bahanpur (Gram Panchayat Area)",
+    "name_hi": "Bahanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-roopur-kamaloo",
+    "type": "village",
+    "name_en": "Roopur Kamaloo (Gram Panchayat Area)",
+    "name_hi": "Roopur Kamaloo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-dang",
+    "type": "village",
+    "name_en": "Dang (Gram Panchayat Area)",
+    "name_hi": "Dang (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-richhaula",
+    "type": "village",
+    "name_en": "Richhaula (Gram Panchayat Area)",
+    "name_hi": "Richhaula (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-sakhaula",
+    "type": "village",
+    "name_en": "Sakhaula (Gram Panchayat Area)",
+    "name_hi": "Sakhaula (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-tirkunia",
+    "type": "village",
+    "name_en": "Tirkunia (Gram Panchayat Area)",
+    "name_hi": "Tirkunia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262121"
+    ]
+  },
+  {
+    "id": "po-pilibhit-bhopatpura",
+    "type": "village",
+    "name_en": "Bhopatpura (Gram Panchayat Area)",
+    "name_hi": "Bhopatpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-parasi-ramkishan",
+    "type": "village",
+    "name_en": "Parasi Ramkishan (Gram Panchayat Area)",
+    "name_hi": "Parasi Ramkishan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-pauta-kalan",
+    "type": "village",
+    "name_en": "Pauta Kalan (Gram Panchayat Area)",
+    "name_hi": "Pauta Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-bakania",
+    "type": "village",
+    "name_en": "Bakania (Gram Panchayat Area)",
+    "name_hi": "Bakania (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262202"
+    ]
+  },
+  {
+    "id": "po-pilibhit-behti",
+    "type": "village",
+    "name_en": "Behti (Gram Panchayat Area)",
+    "name_hi": "Behti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262202"
+    ]
+  },
+  {
+    "id": "po-pilibhit-chandoi",
+    "type": "village",
+    "name_en": "Chandoi (Gram Panchayat Area)",
+    "name_hi": "Chandoi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-sarauri",
+    "type": "village",
+    "name_en": "Sarauri (Gram Panchayat Area)",
+    "name_hi": "Sarauri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-suhas",
+    "type": "village",
+    "name_en": "Suhas (Gram Panchayat Area)",
+    "name_hi": "Suhas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-nizamdandi",
+    "type": "village",
+    "name_en": "Nizamdandi (Gram Panchayat Area)",
+    "name_hi": "Nizamdandi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-bhikaripur",
+    "type": "village",
+    "name_en": "Bhikaripur (Gram Panchayat Area)",
+    "name_hi": "Bhikaripur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-maktul",
+    "type": "village",
+    "name_en": "Maktul (Gram Panchayat Area)",
+    "name_hi": "Maktul (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-pilibhit-chowk-ndedso",
+    "type": "village",
+    "name_en": "Pilibhit Chowk Ndedso (Gram Panchayat Area)",
+    "name_hi": "Pilibhit Chowk Ndedso (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "po-pilibhit-banskhera",
+    "type": "village",
+    "name_en": "Banskhera (Gram Panchayat Area)",
+    "name_hi": "Banskhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262121"
+    ]
+  },
+  {
+    "id": "po-pilibhit-bhadsara",
+    "type": "village",
+    "name_en": "Bhadsara (Gram Panchayat Area)",
+    "name_hi": "Bhadsara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262121"
+    ]
+  },
+  {
+    "id": "po-pilibhit-mundalia",
+    "type": "village",
+    "name_en": "Mundalia (Gram Panchayat Area)",
+    "name_hi": "Mundalia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262121"
+    ]
+  },
+  {
+    "id": "po-pilibhit-pipalia",
+    "type": "village",
+    "name_en": "Pipalia (Gram Panchayat Area)",
+    "name_hi": "Pipalia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262121"
+    ]
+  },
+  {
+    "id": "po-pilibhit-daulatpur",
+    "type": "village",
+    "name_en": "Daulatpur (Gram Panchayat Area)",
+    "name_hi": "Daulatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-jogither",
+    "type": "village",
+    "name_en": "Jogither (Gram Panchayat Area)",
+    "name_hi": "Jogither (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-parsia",
+    "type": "village",
+    "name_en": "Parsia (Gram Panchayat Area)",
+    "name_hi": "Parsia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-piperia-mundan",
+    "type": "village",
+    "name_en": "Piperia Mundan (Gram Panchayat Area)",
+    "name_hi": "Piperia Mundan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "po-pilibhit-bamrauli",
+    "type": "village",
+    "name_en": "Bamrauli (Gram Panchayat Area)",
+    "name_hi": "Bamrauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262202"
+    ]
+  },
+  {
+    "id": "po-pilibhit-sindhaura-kharagpur",
+    "type": "village",
+    "name_en": "SINDHAURA KHARAGPUR (Gram Panchayat Area)",
+    "name_hi": "SINDHAURA KHARAGPUR (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262202"
+    ]
+  },
+  {
+    "id": "po-pilibhit-ahirwara",
+    "type": "village",
+    "name_en": "Ahirwara (Gram Panchayat Area)",
+    "name_hi": "Ahirwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-deoria-kalan",
+    "type": "village",
+    "name_en": "Deoria Kalan (Gram Panchayat Area)",
+    "name_hi": "Deoria Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-jallapur",
+    "type": "village",
+    "name_en": "Jallapur (Gram Panchayat Area)",
+    "name_hi": "Jallapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-luhicha",
+    "type": "village",
+    "name_en": "Luhicha (Gram Panchayat Area)",
+    "name_hi": "Luhicha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-meerpur-bahanpur",
+    "type": "village",
+    "name_en": "Meerpur Bahanpur (Gram Panchayat Area)",
+    "name_hi": "Meerpur Bahanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-paharganj",
+    "type": "village",
+    "name_en": "Paharganj (Gram Panchayat Area)",
+    "name_hi": "Paharganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-rohania",
+    "type": "village",
+    "name_en": "Rohania (Gram Panchayat Area)",
+    "name_hi": "Rohania (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-harrai",
+    "type": "village",
+    "name_en": "Harrai (Gram Panchayat Area)",
+    "name_hi": "Harrai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-biharipur-hira",
+    "type": "village",
+    "name_en": "Biharipur Hira (Gram Panchayat Area)",
+    "name_hi": "Biharipur Hira (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-jamunia",
+    "type": "village",
+    "name_en": "Jamunia (Gram Panchayat Area)",
+    "name_hi": "Jamunia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262124"
+    ]
+  },
+  {
+    "id": "po-pilibhit-mathana-japti",
+    "type": "village",
+    "name_en": "MATHANA  JAPTI (Gram Panchayat Area)",
+    "name_hi": "MATHANA  JAPTI (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262124"
+    ]
+  },
+  {
+    "id": "po-pilibhit-sunpahar",
+    "type": "village",
+    "name_en": "Sunpahar (Gram Panchayat Area)",
+    "name_hi": "Sunpahar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262302"
+    ]
+  },
+  {
+    "id": "po-pilibhit-bhagwantapur",
+    "type": "village",
+    "name_en": "Bhagwantapur (Gram Panchayat Area)",
+    "name_hi": "Bhagwantapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-ghungchai",
+    "type": "village",
+    "name_en": "Ghungchai (Gram Panchayat Area)",
+    "name_hi": "Ghungchai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-kadherchaura",
+    "type": "village",
+    "name_en": "Kadherchaura (Gram Panchayat Area)",
+    "name_hi": "Kadherchaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-kasganja",
+    "type": "village",
+    "name_en": "Kasganja (Gram Panchayat Area)",
+    "name_hi": "Kasganja (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-rampura-fakire",
+    "type": "village",
+    "name_en": "Rampura Fakire (Gram Panchayat Area)",
+    "name_hi": "Rampura Fakire (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-sabalpur",
+    "type": "village",
+    "name_en": "Sabalpur (Gram Panchayat Area)",
+    "name_hi": "Sabalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-pachpeda-taluke-maharajpur",
+    "type": "village",
+    "name_en": "Pachpeda Taluke Maharajpur (Gram Panchayat Area)",
+    "name_hi": "Pachpeda Taluke Maharajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-ranth",
+    "type": "village",
+    "name_en": "Ranth (Gram Panchayat Area)",
+    "name_hi": "Ranth (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262202"
+    ]
+  },
+  {
+    "id": "po-pilibhit-barkhera-chaturaha",
+    "type": "village",
+    "name_en": "Barkhera Chaturaha (Gram Panchayat Area)",
+    "name_hi": "Barkhera Chaturaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barkhera",
+    "block_id": "barkhera",
+    "tehsil_id": "barkhera",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-chandpura",
+    "type": "village",
+    "name_en": "Chandpura (Gram Panchayat Area)",
+    "name_hi": "Chandpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-deohana",
+    "type": "village",
+    "name_en": "Deohana (Gram Panchayat Area)",
+    "name_hi": "Deohana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-ghajhera",
+    "type": "village",
+    "name_en": "Ghajhera (Gram Panchayat Area)",
+    "name_hi": "Ghajhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-karrkhera",
+    "type": "village",
+    "name_en": "Karrkhera (Gram Panchayat Area)",
+    "name_hi": "Karrkhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-kumirkha",
+    "type": "village",
+    "name_en": "Kumirkha (Gram Panchayat Area)",
+    "name_hi": "Kumirkha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-madhopur",
+    "type": "village",
+    "name_en": "Madhopur (Gram Panchayat Area)",
+    "name_hi": "Madhopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-rasiayankhanpur",
+    "type": "village",
+    "name_en": "Rasiayankhanpur (Gram Panchayat Area)",
+    "name_hi": "Rasiayankhanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "po-pilibhit-piperia-santosh",
+    "type": "village",
+    "name_en": "Piperia Santosh (Gram Panchayat Area)",
+    "name_hi": "Piperia Santosh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262124"
+    ]
+  },
+  {
+    "id": "po-pilibhit-dunidam",
+    "type": "village",
+    "name_en": "Dunidam (Gram Panchayat Area)",
+    "name_hi": "Dunidam (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262302"
+    ]
+  },
+  {
+    "id": "po-pilibhit-abhaipur",
+    "type": "village",
+    "name_en": "Abhaipur (Gram Panchayat Area)",
+    "name_hi": "Abhaipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-bhairo-kalan",
+    "type": "village",
+    "name_en": "Bhairo Kalan (Gram Panchayat Area)",
+    "name_hi": "Bhairo Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-gulabtanda",
+    "type": "village",
+    "name_en": "Gulabtanda (Gram Panchayat Area)",
+    "name_hi": "Gulabtanda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-karnapur",
+    "type": "village",
+    "name_en": "Karnapur (Gram Panchayat Area)",
+    "name_hi": "Karnapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "po-pilibhit-jahanabad",
+    "type": "village",
+    "name_en": "Jahanabad (Gram Panchayat Area)",
+    "name_hi": "Jahanabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marori",
+    "block_id": "marori",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "ward-pilibhit-ulb-pilibhit-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Pilibhit (All Wards)",
+    "name_hi": "पीलीभीत नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-pilibhit-main",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-pilibhit-pilibhit",
+    "type": "ward",
+    "name_en": "Pilibhit (Urban Ward / SO)",
+    "name_hi": "Pilibhit (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-pilibhit-main",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "town-pilibhit-ganesh-ganj-so-pilibhit",
+    "type": "ward",
+    "name_en": "Ganesh Ganj SO Pilibhit (Urban Ward / SO)",
+    "name_hi": "Ganesh Ganj SO Pilibhit (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-pilibhit-main",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "town-pilibhit-kali-nagar",
+    "type": "ward",
+    "name_en": "Kali Nagar (Urban Ward / SO)",
+    "name_hi": "Kali Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-pilibhit-main",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "262124"
+    ]
+  },
+  {
+    "id": "town-pilibhit-amaria",
+    "type": "ward",
+    "name_en": "Amaria (Urban Ward / SO)",
+    "name_hi": "Amaria (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-pilibhit-main",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "262121"
+    ]
+  },
+  {
+    "id": "town-pilibhit-bilsanda",
+    "type": "ward",
+    "name_en": "Bilsanda (Urban Ward / SO)",
+    "name_hi": "Bilsanda (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-pilibhit-main",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "262202"
+    ]
+  },
+  {
+    "id": "town-pilibhit-katra-bazar-so-pilibhit",
+    "type": "ward",
+    "name_en": "Katra Bazar SO Pilibhit (Urban Ward / SO)",
+    "name_hi": "Katra Bazar SO Pilibhit (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-pilibhit-main",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "town-pilibhit-neoria",
+    "type": "ward",
+    "name_en": "Neoria (Urban Ward / SO)",
+    "name_hi": "Neoria (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-pilibhit-main",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "262305"
+    ]
+  },
+  {
+    "id": "town-pilibhit-jograjpur",
+    "type": "ward",
+    "name_en": "Jograjpur (Urban Ward / SO)",
+    "name_hi": "Jograjpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-pilibhit-main",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "262123"
+    ]
+  },
+  {
+    "id": "town-pilibhit-khakra",
+    "type": "ward",
+    "name_en": "Khakra (Urban Ward / SO)",
+    "name_hi": "Khakra (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-pilibhit-main",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "town-pilibhit-pilibhit-city",
+    "type": "ward",
+    "name_en": "Pilibhit City (Urban Ward / SO)",
+    "name_hi": "Pilibhit City (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-pilibhit-main",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "town-pilibhit-barkhera",
+    "type": "ward",
+    "name_en": "Barkhera (Urban Ward / SO)",
+    "name_hi": "Barkhera (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-pilibhit-main",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "262203"
+    ]
+  },
+  {
+    "id": "town-pilibhit-bisalpur",
+    "type": "ward",
+    "name_en": "Bisalpur (Urban Ward / SO)",
+    "name_hi": "Bisalpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-pilibhit-main",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "262201"
+    ]
+  },
+  {
+    "id": "town-pilibhit-majhola-so-bareilly",
+    "type": "ward",
+    "name_en": "Majhola SO Bareilly (Urban Ward / SO)",
+    "name_hi": "Majhola SO Bareilly (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-pilibhit-main",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "262302"
+    ]
+  },
+  {
+    "id": "town-pilibhit-pilibhit-kutchery",
+    "type": "ward",
+    "name_en": "Pilibhit Kutchery (Urban Ward / SO)",
+    "name_hi": "Pilibhit Kutchery (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-pilibhit-main",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "262001"
+    ]
+  },
+  {
+    "id": "town-pilibhit-pooranpur",
+    "type": "ward",
+    "name_en": "Pooranpur (Urban Ward / SO)",
+    "name_hi": "Pooranpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-pilibhit-main",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "262122"
+    ]
+  },
+  {
+    "id": "town-pilibhit-station-road-pilibhit",
+    "type": "ward",
+    "name_en": "Station Road Pilibhit (Urban Ward / SO)",
+    "name_hi": "Station Road Pilibhit (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-pilibhit-main",
+    "tehsil_id": "pilibhit",
+    "district_id": "pilibhit",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "262001"
+    ]
+  }
+]

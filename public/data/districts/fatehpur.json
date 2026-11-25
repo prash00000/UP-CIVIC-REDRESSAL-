@@ -16,15 +16,22 @@
           "source_url": "https://fatehpur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454417518",
+          "type": "office",
+          "source_url": "https://fatehpur.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmftp@nic.in",
       "covers": [
         "fatehpur"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-fatehpur-cdo",
@@ -45,7 +52,7 @@
       "covers": [
         "fatehpur"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Pawan Kumar Meena",
@@ -70,9 +77,9 @@
       "covers": [
         "fatehpur"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-fatehpur-sdm-fatehpur",
@@ -102,15 +109,22 @@
           "source_url": "https://fatehpur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454417861",
+          "type": "office",
+          "source_url": "https://fatehpur.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdm.bindki.ftp-up@gov.in",
       "covers": [
         "bindki"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-fatehpur-sdm-khaga",
@@ -118,14 +132,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Khaga",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Khaga",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417878",
+          "type": "office",
+          "source_url": "https://fatehpur.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.khaga.ftp-up@gov.in",
       "covers": [
         "khaga"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-fatehpur-bdo-bhitaura",
@@ -146,9 +168,9 @@
       "covers": [
         "bhitaura"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-fatehpur-ado-bhitaura",
@@ -162,7 +184,8 @@
       ],
       "source_url": "https://fatehpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-fatehpur-bdo-bhitaura"
     },
     {
       "id": "up-fatehpur-bdo-haswa",
@@ -183,9 +206,9 @@
       "covers": [
         "haswa"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-fatehpur-ado-haswa",
@@ -199,7 +222,8 @@
       ],
       "source_url": "https://fatehpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-fatehpur-bdo-haswa"
     },
     {
       "id": "up-fatehpur-bdo-asothar",
@@ -220,9 +244,9 @@
       "covers": [
         "asothar"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-fatehpur-ado-asothar",
@@ -236,7 +260,8 @@
       ],
       "source_url": "https://fatehpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-fatehpur-bdo-asothar"
     },
     {
       "id": "up-fatehpur-bdo-teliyani",
@@ -257,9 +282,9 @@
       "covers": [
         "teliyani"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-fatehpur-ado-teliyani",
@@ -273,7 +298,8 @@
       ],
       "source_url": "https://fatehpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-fatehpur-bdo-teliyani"
     },
     {
       "id": "up-fatehpur-bdo-bahua",
@@ -294,9 +320,9 @@
       "covers": [
         "bahua"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-fatehpur-ado-bahua",
@@ -310,7 +336,8 @@
       ],
       "source_url": "https://fatehpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-fatehpur-bdo-bahua"
     },
     {
       "id": "up-fatehpur-bdo-malwan",
@@ -331,9 +358,9 @@
       "covers": [
         "malwan"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-fatehpur-ado-malwan",
@@ -347,7 +374,8 @@
       ],
       "source_url": "https://fatehpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-fatehpur-bdo-malwan"
     },
     {
       "id": "up-fatehpur-bdo-khajuha",
@@ -368,9 +396,9 @@
       "covers": [
         "khajuha"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-fatehpur-ado-khajuha",
@@ -384,7 +412,8 @@
       ],
       "source_url": "https://fatehpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-fatehpur-bdo-khajuha"
     },
     {
       "id": "up-fatehpur-bdo-amauli",
@@ -405,9 +434,9 @@
       "covers": [
         "amauli"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-fatehpur-ado-amauli",
@@ -421,7 +450,8 @@
       ],
       "source_url": "https://fatehpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-fatehpur-bdo-amauli"
     },
     {
       "id": "up-fatehpur-bdo-devmai",
@@ -442,9 +472,9 @@
       "covers": [
         "devmai"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-fatehpur-ado-devmai",
@@ -458,7 +488,8 @@
       ],
       "source_url": "https://fatehpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-fatehpur-bdo-devmai"
     },
     {
       "id": "up-fatehpur-bdo-airayan",
@@ -479,9 +510,9 @@
       "covers": [
         "airayan"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-fatehpur-ado-airayan",
@@ -495,7 +526,8 @@
       ],
       "source_url": "https://fatehpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-fatehpur-bdo-airayan"
     },
     {
       "id": "up-fatehpur-bdo-dhata",
@@ -516,9 +548,9 @@
       "covers": [
         "dhata"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-fatehpur-ado-dhata",
@@ -532,7 +564,8 @@
       ],
       "source_url": "https://fatehpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-fatehpur-bdo-dhata"
     },
     {
       "id": "up-fatehpur-bdo-vijayipur",
@@ -561,7 +594,8 @@
       ],
       "source_url": "https://fatehpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-fatehpur-bdo-vijayipur"
     },
     {
       "id": "up-fatehpur-bdo-hathgaon",
@@ -590,7 +624,8 @@
       ],
       "source_url": "https://fatehpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-fatehpur-bdo-hathgaon"
     },
     {
       "id": "eo-fatehpur-main",
@@ -598,13 +633,21 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Fatehpur",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका फतेहपुर",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8189078235",
+          "type": "office",
+          "source_url": "https://fatehpur.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-fatehpur-main"
       ],
-      "source_url": "https://fatehpur.nic.in/whos-who/",
+      "source_url": "https://fatehpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     }
   ]
 }

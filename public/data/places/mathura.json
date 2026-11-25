@@ -1,0 +1,3135 @@
+[
+  {
+    "id": "v-mathura-mathura",
+    "type": "village",
+    "name_en": "Mathura Block (Gram Panchayats)",
+    "name_hi": "Mathura विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mathura-goverdhan",
+    "type": "village",
+    "name_en": "Goverdhan Block (Gram Panchayats)",
+    "name_hi": "Goverdhan विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-goverdhan",
+    "block_id": "goverdhan",
+    "tehsil_id": "goverdhan",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mathura-chhata",
+    "type": "village",
+    "name_en": "Chhata Block (Gram Panchayats)",
+    "name_hi": "Chhata विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-chhata",
+    "block_id": "chhata",
+    "tehsil_id": "chhata",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mathura-chaumuha",
+    "type": "village",
+    "name_en": "Chaumuha Block (Gram Panchayats)",
+    "name_hi": "Chaumuha विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-chaumuha",
+    "block_id": "chaumuha",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mathura-nandgaon",
+    "type": "village",
+    "name_en": "Nandgaon Block (Gram Panchayats)",
+    "name_hi": "Nandgaon विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-nandgaon",
+    "block_id": "nandgaon",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mathura-mant",
+    "type": "village",
+    "name_en": "Mant Block (Gram Panchayats)",
+    "name_hi": "Mant विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mant",
+    "block_id": "mant",
+    "tehsil_id": "mant",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mathura-naujheel",
+    "type": "village",
+    "name_en": "Naujheel Block (Gram Panchayats)",
+    "name_hi": "Naujheel विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-naujheel",
+    "block_id": "naujheel",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mathura-raya",
+    "type": "village",
+    "name_en": "Raya Block (Gram Panchayats)",
+    "name_hi": "Raya विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-raya",
+    "block_id": "raya",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mathura-farah",
+    "type": "village",
+    "name_en": "Farah Block (Gram Panchayats)",
+    "name_hi": "Farah विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-farah",
+    "block_id": "farah",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mathura-baldeo",
+    "type": "village",
+    "name_en": "Baldeo Block (Gram Panchayats)",
+    "name_hi": "Baldeo विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-baldeo",
+    "block_id": "baldeo",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-mathura-udhar",
+    "type": "village",
+    "name_en": "Udhar (Gram Panchayat Area)",
+    "name_hi": "Udhar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281204"
+    ]
+  },
+  {
+    "id": "po-mathura-bachagaon",
+    "type": "village",
+    "name_en": "Bachagaon (Gram Panchayat Area)",
+    "name_hi": "Bachagaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281123"
+    ]
+  },
+  {
+    "id": "po-mathura-kaunthra",
+    "type": "village",
+    "name_en": "Kaunthra (Gram Panchayat Area)",
+    "name_hi": "Kaunthra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281123"
+    ]
+  },
+  {
+    "id": "po-mathura-nainu-patti",
+    "type": "village",
+    "name_en": "Nainu Patti (Gram Panchayat Area)",
+    "name_hi": "Nainu Patti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281123"
+    ]
+  },
+  {
+    "id": "po-mathura-jarara",
+    "type": "village",
+    "name_en": "Jarara (Gram Panchayat Area)",
+    "name_hi": "Jarara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281205"
+    ]
+  },
+  {
+    "id": "po-mathura-panigaon",
+    "type": "village",
+    "name_en": "Panigaon (Gram Panchayat Area)",
+    "name_hi": "Panigaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281204"
+    ]
+  },
+  {
+    "id": "po-mathura-siriya-ki-nagaria",
+    "type": "village",
+    "name_en": "Siriya Ki Nagaria (Gram Panchayat Area)",
+    "name_hi": "Siriya Ki Nagaria (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281204"
+    ]
+  },
+  {
+    "id": "po-mathura-agaryala",
+    "type": "village",
+    "name_en": "Agaryala (Gram Panchayat Area)",
+    "name_hi": "Agaryala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281404"
+    ]
+  },
+  {
+    "id": "po-mathura-naugaon",
+    "type": "village",
+    "name_en": "Naugaon (Gram Panchayat Area)",
+    "name_hi": "Naugaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281404"
+    ]
+  },
+  {
+    "id": "po-mathura-gajoo",
+    "type": "village",
+    "name_en": "Gajoo (Gram Panchayat Area)",
+    "name_hi": "Gajoo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281206"
+    ]
+  },
+  {
+    "id": "po-mathura-dalauta",
+    "type": "village",
+    "name_en": "Dalauta (Gram Panchayat Area)",
+    "name_hi": "Dalauta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281404"
+    ]
+  },
+  {
+    "id": "po-mathura-fonder",
+    "type": "village",
+    "name_en": "Fonder (Gram Panchayat Area)",
+    "name_hi": "Fonder (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281123"
+    ]
+  },
+  {
+    "id": "po-mathura-son",
+    "type": "village",
+    "name_en": "Son (Gram Panchayat Area)",
+    "name_hi": "Son (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281123"
+    ]
+  },
+  {
+    "id": "po-mathura-bhidoni",
+    "type": "village",
+    "name_en": "Bhidoni (Gram Panchayat Area)",
+    "name_hi": "Bhidoni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281205"
+    ]
+  },
+  {
+    "id": "po-mathura-karahari",
+    "type": "village",
+    "name_en": "Karahari (Gram Panchayat Area)",
+    "name_hi": "Karahari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281205"
+    ]
+  },
+  {
+    "id": "po-mathura-lohai",
+    "type": "village",
+    "name_en": "Lohai (Gram Panchayat Area)",
+    "name_hi": "Lohai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281205"
+    ]
+  },
+  {
+    "id": "po-mathura-meerpur",
+    "type": "village",
+    "name_en": "Meerpur (Gram Panchayat Area)",
+    "name_hi": "Meerpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281205"
+    ]
+  },
+  {
+    "id": "po-mathura-sikanderpur",
+    "type": "village",
+    "name_en": "Sikanderpur (Gram Panchayat Area)",
+    "name_hi": "Sikanderpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281205"
+    ]
+  },
+  {
+    "id": "po-mathura-bhadanwara",
+    "type": "village",
+    "name_en": "Bhadanwara (Gram Panchayat Area)",
+    "name_hi": "Bhadanwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281205"
+    ]
+  },
+  {
+    "id": "po-mathura-bhalai",
+    "type": "village",
+    "name_en": "Bhalai (Gram Panchayat Area)",
+    "name_hi": "Bhalai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281205"
+    ]
+  },
+  {
+    "id": "po-mathura-khaira-kothi",
+    "type": "village",
+    "name_en": "Khaira Kothi (Gram Panchayat Area)",
+    "name_hi": "Khaira Kothi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281205"
+    ]
+  },
+  {
+    "id": "po-mathura-nawali",
+    "type": "village",
+    "name_en": "Nawali (Gram Panchayat Area)",
+    "name_hi": "Nawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281205"
+    ]
+  },
+  {
+    "id": "po-mathura-rajagarhi-khawal",
+    "type": "village",
+    "name_en": "Rajagarhi Khawal (Gram Panchayat Area)",
+    "name_hi": "Rajagarhi Khawal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281205"
+    ]
+  },
+  {
+    "id": "po-mathura-manav-sewa-sangh",
+    "type": "village",
+    "name_en": "Manav Sewa Sangh (Gram Panchayat Area)",
+    "name_hi": "Manav Sewa Sangh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281121"
+    ]
+  },
+  {
+    "id": "po-mathura-sardargarh",
+    "type": "village",
+    "name_en": "Sardargarh (Gram Panchayat Area)",
+    "name_hi": "Sardargarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281204"
+    ]
+  },
+  {
+    "id": "po-mathura-adooki",
+    "type": "village",
+    "name_en": "Adooki (Gram Panchayat Area)",
+    "name_hi": "Adooki (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281006"
+    ]
+  },
+  {
+    "id": "po-mathura-aurangabad",
+    "type": "village",
+    "name_en": "Aurangabad (Gram Panchayat Area)",
+    "name_hi": "Aurangabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281006"
+    ]
+  },
+  {
+    "id": "po-mathura-bad",
+    "type": "village",
+    "name_en": "Bad (Gram Panchayat Area)",
+    "name_hi": "Bad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281006"
+    ]
+  },
+  {
+    "id": "po-mathura-jatwari",
+    "type": "village",
+    "name_en": "Jatwari (Gram Panchayat Area)",
+    "name_hi": "Jatwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281404"
+    ]
+  },
+  {
+    "id": "po-mathura-ranhera",
+    "type": "village",
+    "name_en": "Ranhera (Gram Panchayat Area)",
+    "name_hi": "Ranhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281404"
+    ]
+  },
+  {
+    "id": "po-mathura-senwa",
+    "type": "village",
+    "name_en": "Senwa (Gram Panchayat Area)",
+    "name_hi": "Senwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281404"
+    ]
+  },
+  {
+    "id": "po-mathura-gudera",
+    "type": "village",
+    "name_en": "Gudera (Gram Panchayat Area)",
+    "name_hi": "Gudera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281206"
+    ]
+  },
+  {
+    "id": "po-mathura-kumhan",
+    "type": "village",
+    "name_en": "Kumhan (Gram Panchayat Area)",
+    "name_hi": "Kumhan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281206"
+    ]
+  },
+  {
+    "id": "po-mathura-bhooreka",
+    "type": "village",
+    "name_en": "Bhooreka (Gram Panchayat Area)",
+    "name_hi": "Bhooreka (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281205"
+    ]
+  },
+  {
+    "id": "po-mathura-hasanpur",
+    "type": "village",
+    "name_en": "Hasanpur (Gram Panchayat Area)",
+    "name_hi": "Hasanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281205"
+    ]
+  },
+  {
+    "id": "po-mathura-maholi",
+    "type": "village",
+    "name_en": "Maholi (Gram Panchayat Area)",
+    "name_hi": "Maholi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "po-mathura-kishanpur",
+    "type": "village",
+    "name_en": "Kishanpur (Gram Panchayat Area)",
+    "name_hi": "Kishanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281305"
+    ]
+  },
+  {
+    "id": "po-mathura-sihora",
+    "type": "village",
+    "name_en": "Sihora (Gram Panchayat Area)",
+    "name_hi": "Sihora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281305"
+    ]
+  },
+  {
+    "id": "po-mathura-rawal-banger",
+    "type": "village",
+    "name_en": "Rawal Banger (Gram Panchayat Area)",
+    "name_hi": "Rawal Banger (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281305"
+    ]
+  },
+  {
+    "id": "po-mathura-bakla",
+    "type": "village",
+    "name_en": "Bakla (Gram Panchayat Area)",
+    "name_hi": "Bakla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281204"
+    ]
+  },
+  {
+    "id": "po-mathura-barhaun",
+    "type": "village",
+    "name_en": "Barhaun (Gram Panchayat Area)",
+    "name_hi": "Barhaun (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281204"
+    ]
+  },
+  {
+    "id": "po-mathura-bisawali",
+    "type": "village",
+    "name_en": "Bisawali (Gram Panchayat Area)",
+    "name_hi": "Bisawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281204"
+    ]
+  },
+  {
+    "id": "po-mathura-bhadraban",
+    "type": "village",
+    "name_en": "Bhadraban (Gram Panchayat Area)",
+    "name_hi": "Bhadraban (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281202"
+    ]
+  },
+  {
+    "id": "po-mathura-bhainsa",
+    "type": "village",
+    "name_en": "Bhainsa (Gram Panchayat Area)",
+    "name_hi": "Bhainsa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281005"
+    ]
+  },
+  {
+    "id": "po-mathura-kosi-khurd",
+    "type": "village",
+    "name_en": "Kosi Khurd (Gram Panchayat Area)",
+    "name_hi": "Kosi Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281005"
+    ]
+  },
+  {
+    "id": "po-mathura-musmuna",
+    "type": "village",
+    "name_en": "Musmuna (Gram Panchayat Area)",
+    "name_hi": "Musmuna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281203"
+    ]
+  },
+  {
+    "id": "po-mathura-raipur",
+    "type": "village",
+    "name_en": "Raipur (Gram Panchayat Area)",
+    "name_hi": "Raipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209863"
+    ]
+  },
+  {
+    "id": "po-mathura-madem",
+    "type": "village",
+    "name_en": "Madem (Gram Panchayat Area)",
+    "name_hi": "Madem (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281204"
+    ]
+  },
+  {
+    "id": "po-mathura-manina-balu",
+    "type": "village",
+    "name_en": "Manina Balu (Gram Panchayat Area)",
+    "name_hi": "Manina Balu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281204"
+    ]
+  },
+  {
+    "id": "po-mathura-harnaul",
+    "type": "village",
+    "name_en": "Harnaul (Gram Panchayat Area)",
+    "name_hi": "Harnaul (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281202"
+    ]
+  },
+  {
+    "id": "po-mathura-jabra",
+    "type": "village",
+    "name_en": "Jabra (Gram Panchayat Area)",
+    "name_hi": "Jabra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281202"
+    ]
+  },
+  {
+    "id": "po-mathura-naseeti",
+    "type": "village",
+    "name_en": "Naseeti (Gram Panchayat Area)",
+    "name_hi": "Naseeti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281202"
+    ]
+  },
+  {
+    "id": "po-mathura-tentigaon",
+    "type": "village",
+    "name_en": "Tentigaon (Gram Panchayat Area)",
+    "name_hi": "Tentigaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281202"
+    ]
+  },
+  {
+    "id": "po-mathura-sersa",
+    "type": "village",
+    "name_en": "Sersa (Gram Panchayat Area)",
+    "name_hi": "Sersa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281005"
+    ]
+  },
+  {
+    "id": "po-mathura-badhauta",
+    "type": "village",
+    "name_en": "Badhauta (Gram Panchayat Area)",
+    "name_hi": "Badhauta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281504"
+    ]
+  },
+  {
+    "id": "po-mathura-pelkhu",
+    "type": "village",
+    "name_en": "Pelkhu (Gram Panchayat Area)",
+    "name_hi": "Pelkhu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281504"
+    ]
+  },
+  {
+    "id": "po-mathura-karab",
+    "type": "village",
+    "name_en": "Karab (Gram Panchayat Area)",
+    "name_hi": "Karab (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281204"
+    ]
+  },
+  {
+    "id": "po-mathura-khirari",
+    "type": "village",
+    "name_en": "Khirari (Gram Panchayat Area)",
+    "name_hi": "Khirari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281204"
+    ]
+  },
+  {
+    "id": "po-mathura-lohban",
+    "type": "village",
+    "name_en": "Lohban (Gram Panchayat Area)",
+    "name_hi": "Lohban (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281204"
+    ]
+  },
+  {
+    "id": "po-mathura-nagaura",
+    "type": "village",
+    "name_en": "Nagaura (Gram Panchayat Area)",
+    "name_hi": "Nagaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281204"
+    ]
+  },
+  {
+    "id": "po-mathura-hayatpur",
+    "type": "village",
+    "name_en": "Hayatpur (Gram Panchayat Area)",
+    "name_hi": "Hayatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281305"
+    ]
+  },
+  {
+    "id": "po-mathura-arrua",
+    "type": "village",
+    "name_en": "Arrua (Gram Panchayat Area)",
+    "name_hi": "Arrua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281202"
+    ]
+  },
+  {
+    "id": "po-mathura-dangoli-banger",
+    "type": "village",
+    "name_en": "Dangoli Banger (Gram Panchayat Area)",
+    "name_hi": "Dangoli Banger (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281202"
+    ]
+  },
+  {
+    "id": "po-mathura-barari",
+    "type": "village",
+    "name_en": "Barari (Gram Panchayat Area)",
+    "name_hi": "Barari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281005"
+    ]
+  },
+  {
+    "id": "po-mathura-dhangaon",
+    "type": "village",
+    "name_en": "Dhangaon (Gram Panchayat Area)",
+    "name_hi": "Dhangaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281005"
+    ]
+  },
+  {
+    "id": "po-mathura-chhinparai",
+    "type": "village",
+    "name_en": "Chhinparai (Gram Panchayat Area)",
+    "name_hi": "Chhinparai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281203"
+    ]
+  },
+  {
+    "id": "po-mathura-ral",
+    "type": "village",
+    "name_en": "Ral (Gram Panchayat Area)",
+    "name_hi": "Ral (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281504"
+    ]
+  },
+  {
+    "id": "po-mathura-airakhera",
+    "type": "village",
+    "name_en": "Airakhera (Gram Panchayat Area)",
+    "name_hi": "Airakhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281204"
+    ]
+  },
+  {
+    "id": "po-mathura-neemgaon",
+    "type": "village",
+    "name_en": "Neemgaon (Gram Panchayat Area)",
+    "name_hi": "Neemgaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281204"
+    ]
+  },
+  {
+    "id": "po-mathura-bandi",
+    "type": "village",
+    "name_en": "Bandi (Gram Panchayat Area)",
+    "name_hi": "Bandi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281301"
+    ]
+  },
+  {
+    "id": "po-mathura-barauli",
+    "type": "village",
+    "name_en": "Barauli (Gram Panchayat Area)",
+    "name_hi": "Barauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281301"
+    ]
+  },
+  {
+    "id": "po-mathura-daulatpur",
+    "type": "village",
+    "name_en": "Daulatpur (Gram Panchayat Area)",
+    "name_hi": "Daulatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281301"
+    ]
+  },
+  {
+    "id": "po-mathura-jharautha",
+    "type": "village",
+    "name_en": "Jharautha (Gram Panchayat Area)",
+    "name_hi": "Jharautha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281301"
+    ]
+  },
+  {
+    "id": "po-mathura-parkham-gujar",
+    "type": "village",
+    "name_en": "Parkham Gujar (Gram Panchayat Area)",
+    "name_hi": "Parkham Gujar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281406"
+    ]
+  },
+  {
+    "id": "po-mathura-sakatpur",
+    "type": "village",
+    "name_en": "Sakatpur (Gram Panchayat Area)",
+    "name_hi": "Sakatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "241001"
+    ]
+  },
+  {
+    "id": "po-mathura-kamai",
+    "type": "village",
+    "name_en": "Kamai (Gram Panchayat Area)",
+    "name_hi": "Kamai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281405"
+    ]
+  },
+  {
+    "id": "po-mathura-ajhai-kurd",
+    "type": "village",
+    "name_en": "Ajhai Kurd (Gram Panchayat Area)",
+    "name_hi": "Ajhai Kurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281406"
+    ]
+  },
+  {
+    "id": "po-mathura-akbarpur",
+    "type": "village",
+    "name_en": "Akbarpur (Gram Panchayat Area)",
+    "name_hi": "Akbarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281406"
+    ]
+  },
+  {
+    "id": "po-mathura-atas-bangar",
+    "type": "village",
+    "name_en": "Atas Bangar (Gram Panchayat Area)",
+    "name_hi": "Atas Bangar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281406"
+    ]
+  },
+  {
+    "id": "po-mathura-dhansinga",
+    "type": "village",
+    "name_en": "Dhansinga (Gram Panchayat Area)",
+    "name_hi": "Dhansinga (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281401"
+    ]
+  },
+  {
+    "id": "po-mathura-khaira",
+    "type": "village",
+    "name_en": "Khaira (Gram Panchayat Area)",
+    "name_hi": "Khaira (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "272153"
+    ]
+  },
+  {
+    "id": "po-mathura-gadhya-latipur",
+    "type": "village",
+    "name_en": "Gadhya Latipur (Gram Panchayat Area)",
+    "name_hi": "Gadhya Latipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281122"
+    ]
+  },
+  {
+    "id": "po-mathura-jhudawai",
+    "type": "village",
+    "name_en": "Jhudawai (Gram Panchayat Area)",
+    "name_hi": "Jhudawai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281122"
+    ]
+  },
+  {
+    "id": "po-mathura-ole",
+    "type": "village",
+    "name_en": "Ole (Gram Panchayat Area)",
+    "name_hi": "Ole (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281122"
+    ]
+  },
+  {
+    "id": "po-mathura-prem-nagar",
+    "type": "village",
+    "name_en": "Prem Nagar (Gram Panchayat Area)",
+    "name_hi": "Prem Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281003"
+    ]
+  },
+  {
+    "id": "po-mathura-anyor",
+    "type": "village",
+    "name_en": "Anyor (Gram Panchayat Area)",
+    "name_hi": "Anyor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281502"
+    ]
+  },
+  {
+    "id": "po-mathura-sahar",
+    "type": "village",
+    "name_en": "Sahar (Gram Panchayat Area)",
+    "name_hi": "Sahar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281502"
+    ]
+  },
+  {
+    "id": "po-mathura-siwal",
+    "type": "village",
+    "name_en": "Siwal (Gram Panchayat Area)",
+    "name_hi": "Siwal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281502"
+    ]
+  },
+  {
+    "id": "po-mathura-jab",
+    "type": "village",
+    "name_en": "Jab (Gram Panchayat Area)",
+    "name_hi": "Jab (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281403"
+    ]
+  },
+  {
+    "id": "po-mathura-kamar",
+    "type": "village",
+    "name_en": "Kamar (Gram Panchayat Area)",
+    "name_hi": "Kamar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281403"
+    ]
+  },
+  {
+    "id": "po-mathura-kharoth",
+    "type": "village",
+    "name_en": "Kharoth (Gram Panchayat Area)",
+    "name_hi": "Kharoth (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281403"
+    ]
+  },
+  {
+    "id": "po-mathura-lalpur",
+    "type": "village",
+    "name_en": "Lalpur (Gram Panchayat Area)",
+    "name_hi": "Lalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281403"
+    ]
+  },
+  {
+    "id": "po-mathura-roop-nagar",
+    "type": "village",
+    "name_en": "Roop Nagar (Gram Panchayat Area)",
+    "name_hi": "Roop Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281403"
+    ]
+  },
+  {
+    "id": "po-mathura-tarauli",
+    "type": "village",
+    "name_en": "Tarauli (Gram Panchayat Area)",
+    "name_hi": "Tarauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281406"
+    ]
+  },
+  {
+    "id": "po-mathura-beri",
+    "type": "village",
+    "name_en": "Beri (Gram Panchayat Area)",
+    "name_hi": "Beri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281122"
+    ]
+  },
+  {
+    "id": "po-mathura-mahrauli",
+    "type": "village",
+    "name_en": "Mahrauli (Gram Panchayat Area)",
+    "name_hi": "Mahrauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281502"
+    ]
+  },
+  {
+    "id": "po-mathura-mudseras",
+    "type": "village",
+    "name_en": "Mudseras (Gram Panchayat Area)",
+    "name_hi": "Mudseras (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281502"
+    ]
+  },
+  {
+    "id": "po-mathura-paintha",
+    "type": "village",
+    "name_en": "Paintha (Gram Panchayat Area)",
+    "name_hi": "Paintha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281502"
+    ]
+  },
+  {
+    "id": "po-mathura-byonhi",
+    "type": "village",
+    "name_en": "Byonhi (Gram Panchayat Area)",
+    "name_hi": "Byonhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281308"
+    ]
+  },
+  {
+    "id": "po-mathura-daghenta",
+    "type": "village",
+    "name_en": "Daghenta (Gram Panchayat Area)",
+    "name_hi": "Daghenta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281308"
+    ]
+  },
+  {
+    "id": "po-mathura-karsaura",
+    "type": "village",
+    "name_en": "Karsaura (Gram Panchayat Area)",
+    "name_hi": "Karsaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281308"
+    ]
+  },
+  {
+    "id": "po-mathura-nasirpur",
+    "type": "village",
+    "name_en": "Nasirpur (Gram Panchayat Area)",
+    "name_hi": "Nasirpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281308"
+    ]
+  },
+  {
+    "id": "po-mathura-barchawali",
+    "type": "village",
+    "name_en": "Barchawali (Gram Panchayat Area)",
+    "name_hi": "Barchawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281403"
+    ]
+  },
+  {
+    "id": "po-mathura-bathain-kalan",
+    "type": "village",
+    "name_en": "Bathain Kalan (Gram Panchayat Area)",
+    "name_hi": "Bathain Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281403"
+    ]
+  },
+  {
+    "id": "po-mathura-dahgaon",
+    "type": "village",
+    "name_en": "Dahgaon (Gram Panchayat Area)",
+    "name_hi": "Dahgaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281403"
+    ]
+  },
+  {
+    "id": "po-mathura-satoha",
+    "type": "village",
+    "name_en": "Satoha (Gram Panchayat Area)",
+    "name_hi": "Satoha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281004"
+    ]
+  },
+  {
+    "id": "po-mathura-usfar",
+    "type": "village",
+    "name_en": "Usfar (Gram Panchayat Area)",
+    "name_hi": "Usfar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281004"
+    ]
+  },
+  {
+    "id": "po-mathura-magna",
+    "type": "village",
+    "name_en": "Magna (Gram Panchayat Area)",
+    "name_hi": "Magna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281301"
+    ]
+  },
+  {
+    "id": "po-mathura-nera",
+    "type": "village",
+    "name_en": "Nera (Gram Panchayat Area)",
+    "name_hi": "Nera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281301"
+    ]
+  },
+  {
+    "id": "po-mathura-patlauni",
+    "type": "village",
+    "name_en": "Patlauni (Gram Panchayat Area)",
+    "name_hi": "Patlauni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281301"
+    ]
+  },
+  {
+    "id": "po-mathura-hathia",
+    "type": "village",
+    "name_en": "Hathia (Gram Panchayat Area)",
+    "name_hi": "Hathia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281405"
+    ]
+  },
+  {
+    "id": "po-mathura-sehi",
+    "type": "village",
+    "name_en": "Sehi (Gram Panchayat Area)",
+    "name_hi": "Sehi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281406"
+    ]
+  },
+  {
+    "id": "po-mathura-bishambhara",
+    "type": "village",
+    "name_en": "Bishambhara (Gram Panchayat Area)",
+    "name_hi": "Bishambhara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281401"
+    ]
+  },
+  {
+    "id": "po-mathura-ladhpur",
+    "type": "village",
+    "name_en": "Ladhpur (Gram Panchayat Area)",
+    "name_hi": "Ladhpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281401"
+    ]
+  },
+  {
+    "id": "po-mathura-ranwari",
+    "type": "village",
+    "name_en": "Ranwari (Gram Panchayat Area)",
+    "name_hi": "Ranwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281401"
+    ]
+  },
+  {
+    "id": "po-mathura-dhanajeewana",
+    "type": "village",
+    "name_en": "Dhanajeewana (Gram Panchayat Area)",
+    "name_hi": "Dhanajeewana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281122"
+    ]
+  },
+  {
+    "id": "po-mathura-pilua",
+    "type": "village",
+    "name_en": "Pilua (Gram Panchayat Area)",
+    "name_hi": "Pilua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281122"
+    ]
+  },
+  {
+    "id": "po-mathura-bharana-kalan",
+    "type": "village",
+    "name_en": "Bharana Kalan (Gram Panchayat Area)",
+    "name_hi": "Bharana Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281502"
+    ]
+  },
+  {
+    "id": "po-mathura-mahmadpur-parasoli",
+    "type": "village",
+    "name_en": "Mahmadpur Parasoli (Gram Panchayat Area)",
+    "name_hi": "Mahmadpur Parasoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281502"
+    ]
+  },
+  {
+    "id": "po-mathura-anora",
+    "type": "village",
+    "name_en": "Anora (Gram Panchayat Area)",
+    "name_hi": "Anora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281308"
+    ]
+  },
+  {
+    "id": "po-mathura-sarai-daud",
+    "type": "village",
+    "name_en": "Sarai Daud (Gram Panchayat Area)",
+    "name_hi": "Sarai Daud (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281308"
+    ]
+  },
+  {
+    "id": "po-mathura-bukharari",
+    "type": "village",
+    "name_en": "Bukharari (Gram Panchayat Area)",
+    "name_hi": "Bukharari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281403"
+    ]
+  },
+  {
+    "id": "po-mathura-gidoh",
+    "type": "village",
+    "name_en": "Gidoh (Gram Panchayat Area)",
+    "name_hi": "Gidoh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281403"
+    ]
+  },
+  {
+    "id": "po-mathura-nandgaon",
+    "type": "village",
+    "name_en": "Nandgaon (Gram Panchayat Area)",
+    "name_hi": "Nandgaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-nandgaon",
+    "block_id": "nandgaon",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281403"
+    ]
+  },
+  {
+    "id": "po-mathura-bati",
+    "type": "village",
+    "name_en": "Bati (Gram Panchayat Area)",
+    "name_hi": "Bati (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281004"
+    ]
+  },
+  {
+    "id": "po-mathura-akosh",
+    "type": "village",
+    "name_en": "Akosh (Gram Panchayat Area)",
+    "name_hi": "Akosh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281301"
+    ]
+  },
+  {
+    "id": "po-mathura-madaura",
+    "type": "village",
+    "name_en": "Madaura (Gram Panchayat Area)",
+    "name_hi": "Madaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281301"
+    ]
+  },
+  {
+    "id": "po-mathura-nagla-bali",
+    "type": "village",
+    "name_en": "Nagla Bali (Gram Panchayat Area)",
+    "name_hi": "Nagla Bali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281301"
+    ]
+  },
+  {
+    "id": "po-mathura-avairani",
+    "type": "village",
+    "name_en": "Avairani (Gram Panchayat Area)",
+    "name_hi": "Avairani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281301"
+    ]
+  },
+  {
+    "id": "po-mathura-maharana",
+    "type": "village",
+    "name_en": "Maharana (Gram Panchayat Area)",
+    "name_hi": "Maharana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281405"
+    ]
+  },
+  {
+    "id": "po-mathura-dautana",
+    "type": "village",
+    "name_en": "Dautana (Gram Panchayat Area)",
+    "name_hi": "Dautana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281401"
+    ]
+  },
+  {
+    "id": "po-mathura-nari",
+    "type": "village",
+    "name_en": "Nari (Gram Panchayat Area)",
+    "name_hi": "Nari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281401"
+    ]
+  },
+  {
+    "id": "po-mathura-paigaon",
+    "type": "village",
+    "name_en": "Paigaon (Gram Panchayat Area)",
+    "name_hi": "Paigaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281401"
+    ]
+  },
+  {
+    "id": "po-mathura-bhaderua",
+    "type": "village",
+    "name_en": "Bhaderua (Gram Panchayat Area)",
+    "name_hi": "Bhaderua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281122"
+    ]
+  },
+  {
+    "id": "po-mathura-parkham",
+    "type": "village",
+    "name_en": "Parkham (Gram Panchayat Area)",
+    "name_hi": "Parkham (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281122"
+    ]
+  },
+  {
+    "id": "po-mathura-pingari",
+    "type": "village",
+    "name_en": "Pingari (Gram Panchayat Area)",
+    "name_hi": "Pingari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281122"
+    ]
+  },
+  {
+    "id": "po-mathura-raipura-jat",
+    "type": "village",
+    "name_en": "Raipura Jat (Gram Panchayat Area)",
+    "name_hi": "Raipura Jat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281122"
+    ]
+  },
+  {
+    "id": "po-mathura-bhagosa",
+    "type": "village",
+    "name_en": "Bhagosa (Gram Panchayat Area)",
+    "name_hi": "Bhagosa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281502"
+    ]
+  },
+  {
+    "id": "po-mathura-deoseras",
+    "type": "village",
+    "name_en": "Deoseras (Gram Panchayat Area)",
+    "name_hi": "Deoseras (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281502"
+    ]
+  },
+  {
+    "id": "po-mathura-palson",
+    "type": "village",
+    "name_en": "Palson (Gram Panchayat Area)",
+    "name_hi": "Palson (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281502"
+    ]
+  },
+  {
+    "id": "po-mathura-baltikari",
+    "type": "village",
+    "name_en": "Baltikari (Gram Panchayat Area)",
+    "name_hi": "Baltikari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281308"
+    ]
+  },
+  {
+    "id": "po-mathura-pachawar",
+    "type": "village",
+    "name_en": "Pachawar (Gram Panchayat Area)",
+    "name_hi": "Pachawar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281308"
+    ]
+  },
+  {
+    "id": "po-mathura-sonkh-khera",
+    "type": "village",
+    "name_en": "Sonkh Khera (Gram Panchayat Area)",
+    "name_hi": "Sonkh Khera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281308"
+    ]
+  },
+  {
+    "id": "po-mathura-hatana",
+    "type": "village",
+    "name_en": "Hatana (Gram Panchayat Area)",
+    "name_hi": "Hatana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281403"
+    ]
+  },
+  {
+    "id": "po-mathura-kadauna",
+    "type": "village",
+    "name_en": "Kadauna (Gram Panchayat Area)",
+    "name_hi": "Kadauna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281403"
+    ]
+  },
+  {
+    "id": "po-mathura-kotban",
+    "type": "village",
+    "name_en": "Kotban (Gram Panchayat Area)",
+    "name_hi": "Kotban (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281403"
+    ]
+  },
+  {
+    "id": "po-mathura-phalen",
+    "type": "village",
+    "name_en": "Phalen (Gram Panchayat Area)",
+    "name_hi": "Phalen (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281403"
+    ]
+  },
+  {
+    "id": "po-mathura-sahpur",
+    "type": "village",
+    "name_en": "Sahpur (Gram Panchayat Area)",
+    "name_hi": "Sahpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281403"
+    ]
+  },
+  {
+    "id": "po-mathura-chhatikara",
+    "type": "village",
+    "name_en": "Chhatikara (Gram Panchayat Area)",
+    "name_hi": "Chhatikara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281003"
+    ]
+  },
+  {
+    "id": "po-mathura-edalgarhi",
+    "type": "village",
+    "name_en": "Edalgarhi (Gram Panchayat Area)",
+    "name_hi": "Edalgarhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281201"
+    ]
+  },
+  {
+    "id": "po-mathura-managarhi",
+    "type": "village",
+    "name_en": "Managarhi (Gram Panchayat Area)",
+    "name_hi": "Managarhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281201"
+    ]
+  },
+  {
+    "id": "po-mathura-gb-jatipura",
+    "type": "village",
+    "name_en": "GB Jatipura (Gram Panchayat Area)",
+    "name_hi": "GB Jatipura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281502"
+    ]
+  },
+  {
+    "id": "po-mathura-gurukul",
+    "type": "village",
+    "name_en": "Gurukul (Gram Panchayat Area)",
+    "name_hi": "Gurukul (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281121"
+    ]
+  },
+  {
+    "id": "po-mathura-mitholi",
+    "type": "village",
+    "name_en": "Mitholi (Gram Panchayat Area)",
+    "name_hi": "Mitholi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281201"
+    ]
+  },
+  {
+    "id": "po-mathura-parsoli",
+    "type": "village",
+    "name_en": "Parsoli (Gram Panchayat Area)",
+    "name_hi": "Parsoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281201"
+    ]
+  },
+  {
+    "id": "po-mathura-magorra",
+    "type": "village",
+    "name_en": "Magorra (Gram Panchayat Area)",
+    "name_hi": "Magorra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281123"
+    ]
+  },
+  {
+    "id": "po-mathura-jait",
+    "type": "village",
+    "name_en": "Jait (Gram Panchayat Area)",
+    "name_hi": "Jait (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281406"
+    ]
+  },
+  {
+    "id": "po-mathura-jikhangaon",
+    "type": "village",
+    "name_en": "Jikhangaon (Gram Panchayat Area)",
+    "name_hi": "Jikhangaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281501"
+    ]
+  },
+  {
+    "id": "po-mathura-chandpur-kalan",
+    "type": "village",
+    "name_en": "Chandpur Kalan (Gram Panchayat Area)",
+    "name_hi": "Chandpur Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281201"
+    ]
+  },
+  {
+    "id": "po-mathura-kolahar",
+    "type": "village",
+    "name_en": "Kolahar (Gram Panchayat Area)",
+    "name_hi": "Kolahar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281201"
+    ]
+  },
+  {
+    "id": "po-mathura-pachahara",
+    "type": "village",
+    "name_en": "Pachahara (Gram Panchayat Area)",
+    "name_hi": "Pachahara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281201"
+    ]
+  },
+  {
+    "id": "po-mathura-laxmi-nagar",
+    "type": "village",
+    "name_en": "Laxmi Nagar (Gram Panchayat Area)",
+    "name_hi": "Laxmi Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281204"
+    ]
+  },
+  {
+    "id": "po-mathura-brij-academy",
+    "type": "village",
+    "name_en": "Brij Academy (Gram Panchayat Area)",
+    "name_hi": "Brij Academy (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281121"
+    ]
+  },
+  {
+    "id": "po-mathura-junsuti",
+    "type": "village",
+    "name_en": "Junsuti (Gram Panchayat Area)",
+    "name_hi": "Junsuti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281501"
+    ]
+  },
+  {
+    "id": "po-mathura-khamni",
+    "type": "village",
+    "name_en": "Khamni (Gram Panchayat Area)",
+    "name_hi": "Khamni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281501"
+    ]
+  },
+  {
+    "id": "po-mathura-ahamadpur",
+    "type": "village",
+    "name_en": "Ahamadpur (Gram Panchayat Area)",
+    "name_hi": "Ahamadpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281201"
+    ]
+  },
+  {
+    "id": "po-mathura-awakhera",
+    "type": "village",
+    "name_en": "Awakhera (Gram Panchayat Area)",
+    "name_hi": "Awakhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281201"
+    ]
+  },
+  {
+    "id": "po-mathura-barauth",
+    "type": "village",
+    "name_en": "Barauth (Gram Panchayat Area)",
+    "name_hi": "Barauth (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281201"
+    ]
+  },
+  {
+    "id": "po-mathura-shall",
+    "type": "village",
+    "name_en": "Shall (Gram Panchayat Area)",
+    "name_hi": "Shall (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mathura",
+    "block_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281201"
+    ]
+  },
+  {
+    "id": "ward-mathura-nigam",
+    "type": "ward",
+    "name_en": "Mathura Municipal Corporation (All Wards)",
+    "name_hi": "मथुरा नगर निगम (सभी वार्ड)",
+    "ulb_id": "mathura",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam"
+  },
+  {
+    "id": "ward-mathura-ulb-mathura-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Mathura (All Wards)",
+    "name_hi": "मथुरा नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-mathura-mathura",
+    "type": "ward",
+    "name_en": "Mathura (Urban Ward / SO)",
+    "name_hi": "Mathura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281001"
+    ]
+  },
+  {
+    "id": "town-mathura-chatta-bazar-so-mathura",
+    "type": "ward",
+    "name_en": "Chatta Bazar SO Mathura (Urban Ward / SO)",
+    "name_hi": "Chatta Bazar SO Mathura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281001"
+    ]
+  },
+  {
+    "id": "town-mathura-krishna-puri",
+    "type": "ward",
+    "name_en": "Krishna Puri (Urban Ward / SO)",
+    "name_hi": "Krishna Puri (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281001"
+    ]
+  },
+  {
+    "id": "town-mathura-mahaban",
+    "type": "ward",
+    "name_en": "Mahaban (Urban Ward / SO)",
+    "name_hi": "Mahaban (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281305"
+    ]
+  },
+  {
+    "id": "town-mathura-mant",
+    "type": "ward",
+    "name_en": "Mant (Urban Ward / SO)",
+    "name_hi": "Mant (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281202"
+    ]
+  },
+  {
+    "id": "town-mathura-mathura-city",
+    "type": "ward",
+    "name_en": "Mathura City (Urban Ward / SO)",
+    "name_hi": "Mathura City (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281001"
+    ]
+  },
+  {
+    "id": "town-mathura-sankat-mochan",
+    "type": "ward",
+    "name_en": "Sankat Mochan (Urban Ward / SO)",
+    "name_hi": "Sankat Mochan (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281001"
+    ]
+  },
+  {
+    "id": "town-mathura-sri-bankey-bihari-ji",
+    "type": "ward",
+    "name_en": "Sri Bankey Bihari Ji (Urban Ward / SO)",
+    "name_hi": "Sri Bankey Bihari Ji (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281121"
+    ]
+  },
+  {
+    "id": "town-mathura-vrindaban",
+    "type": "ward",
+    "name_en": "Vrindaban (Urban Ward / SO)",
+    "name_hi": "Vrindaban (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281121"
+    ]
+  },
+  {
+    "id": "town-mathura-chandanban",
+    "type": "ward",
+    "name_en": "Chandanban (Urban Ward / SO)",
+    "name_hi": "Chandanban (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281001"
+    ]
+  },
+  {
+    "id": "town-mathura-barsana",
+    "type": "ward",
+    "name_en": "Barsana (Urban Ward / SO)",
+    "name_hi": "Barsana (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281405"
+    ]
+  },
+  {
+    "id": "town-mathura-bharatpur-darwaza",
+    "type": "ward",
+    "name_en": "Bharatpur Darwaza (Urban Ward / SO)",
+    "name_hi": "Bharatpur Darwaza (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281001"
+    ]
+  },
+  {
+    "id": "town-mathura-leela-dham",
+    "type": "ward",
+    "name_en": "Leela Dham (Urban Ward / SO)",
+    "name_hi": "Leela Dham (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281121"
+    ]
+  },
+  {
+    "id": "town-mathura-mathura-chawk",
+    "type": "ward",
+    "name_en": "Mathura Chawk (Urban Ward / SO)",
+    "name_hi": "Mathura Chawk (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281001"
+    ]
+  },
+  {
+    "id": "town-mathura-raman-reti",
+    "type": "ward",
+    "name_en": "Raman Reti (Urban Ward / SO)",
+    "name_hi": "Raman Reti (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281121"
+    ]
+  },
+  {
+    "id": "town-mathura-raya",
+    "type": "ward",
+    "name_en": "Raya (Urban Ward / SO)",
+    "name_hi": "Raya (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281204"
+    ]
+  },
+  {
+    "id": "town-mathura-sadar-bazar-so-mathura",
+    "type": "ward",
+    "name_en": "Sadar Bazar SO Mathura (Urban Ward / SO)",
+    "name_hi": "Sadar Bazar SO Mathura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281001"
+    ]
+  },
+  {
+    "id": "town-mathura-sonai-so-mathura",
+    "type": "ward",
+    "name_en": "Sonai SO Mathura (Urban Ward / SO)",
+    "name_hi": "Sonai SO Mathura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281206"
+    ]
+  },
+  {
+    "id": "town-mathura-sonkh",
+    "type": "ward",
+    "name_en": "Sonkh (Urban Ward / SO)",
+    "name_hi": "Sonkh (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281123"
+    ]
+  },
+  {
+    "id": "town-mathura-sukh-sancharak",
+    "type": "ward",
+    "name_en": "Sukh Sancharak (Urban Ward / SO)",
+    "name_hi": "Sukh Sancharak (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281001"
+    ]
+  },
+  {
+    "id": "town-mathura-surir",
+    "type": "ward",
+    "name_en": "Surir (Urban Ward / SO)",
+    "name_hi": "Surir (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281205"
+    ]
+  },
+  {
+    "id": "town-mathura-maholi-road",
+    "type": "ward",
+    "name_en": "Maholi Road (Urban Ward / SO)",
+    "name_hi": "Maholi Road (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281004"
+    ]
+  },
+  {
+    "id": "town-mathura-aring",
+    "type": "ward",
+    "name_en": "Aring (Urban Ward / SO)",
+    "name_hi": "Aring (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281501"
+    ]
+  },
+  {
+    "id": "town-mathura-arya-samaj-road",
+    "type": "ward",
+    "name_en": "Arya Samaj Road (Urban Ward / SO)",
+    "name_hi": "Arya Samaj Road (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281001"
+    ]
+  },
+  {
+    "id": "town-mathura-bajna-so-mathura",
+    "type": "ward",
+    "name_en": "Bajna SO Mathura (Urban Ward / SO)",
+    "name_hi": "Bajna SO Mathura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281201"
+    ]
+  },
+  {
+    "id": "town-mathura-chaumuhan",
+    "type": "ward",
+    "name_en": "Chaumuhan (Urban Ward / SO)",
+    "name_hi": "Chaumuhan (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281406"
+    ]
+  },
+  {
+    "id": "town-mathura-deeg-gate",
+    "type": "ward",
+    "name_en": "Deeg Gate (Urban Ward / SO)",
+    "name_hi": "Deeg Gate (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281001"
+    ]
+  },
+  {
+    "id": "town-mathura-farah",
+    "type": "ward",
+    "name_en": "Farah (Urban Ward / SO)",
+    "name_hi": "Farah (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281122"
+    ]
+  },
+  {
+    "id": "town-mathura-gn-bazar",
+    "type": "ward",
+    "name_en": "GN Bazar (Urban Ward / SO)",
+    "name_hi": "GN Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281121"
+    ]
+  },
+  {
+    "id": "town-mathura-gokul",
+    "type": "ward",
+    "name_en": "Gokul (Urban Ward / SO)",
+    "name_hi": "Gokul (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281303"
+    ]
+  },
+  {
+    "id": "town-mathura-kosi-kalan",
+    "type": "ward",
+    "name_en": "Kosi Kalan (Urban Ward / SO)",
+    "name_hi": "Kosi Kalan (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281403"
+    ]
+  },
+  {
+    "id": "town-mathura-nauhjhil",
+    "type": "ward",
+    "name_en": "Nauhjhil (Urban Ward / SO)",
+    "name_hi": "Nauhjhil (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281203"
+    ]
+  },
+  {
+    "id": "town-mathura-radhakund",
+    "type": "ward",
+    "name_en": "Radhakund (Urban Ward / SO)",
+    "name_hi": "Radhakund (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281504"
+    ]
+  },
+  {
+    "id": "town-mathura-refinery-nagar",
+    "type": "ward",
+    "name_en": "Refinery Nagar (Urban Ward / SO)",
+    "name_hi": "Refinery Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281006"
+    ]
+  },
+  {
+    "id": "town-mathura-roberts-line-so-mathura",
+    "type": "ward",
+    "name_en": "Roberts Line SO Mathura (Urban Ward / SO)",
+    "name_hi": "Roberts Line SO Mathura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281001"
+    ]
+  },
+  {
+    "id": "town-mathura-baldeo",
+    "type": "ward",
+    "name_en": "Baldeo (Urban Ward / SO)",
+    "name_hi": "Baldeo (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281301"
+    ]
+  },
+  {
+    "id": "town-mathura-chhata-so-mathura",
+    "type": "ward",
+    "name_en": "Chhata SO Mathura (Urban Ward / SO)",
+    "name_hi": "Chhata SO Mathura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281401"
+    ]
+  },
+  {
+    "id": "town-mathura-civil-court-so-mathura",
+    "type": "ward",
+    "name_en": "Civil Court SO Mathura (Urban Ward / SO)",
+    "name_hi": "Civil Court SO Mathura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281001"
+    ]
+  },
+  {
+    "id": "town-mathura-gayatri-tapo-bhoomi",
+    "type": "ward",
+    "name_en": "Gayatri Tapo Bhoomi (Urban Ward / SO)",
+    "name_hi": "Gayatri Tapo Bhoomi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281003"
+    ]
+  },
+  {
+    "id": "town-mathura-goverdhan",
+    "type": "ward",
+    "name_en": "Goverdhan (Urban Ward / SO)",
+    "name_hi": "Goverdhan (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281502"
+    ]
+  },
+  {
+    "id": "town-mathura-jugasana",
+    "type": "ward",
+    "name_en": "Jugasana (Urban Ward / SO)",
+    "name_hi": "Jugasana (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281308"
+    ]
+  },
+  {
+    "id": "town-mathura-krishna-nagar-so-mathura",
+    "type": "ward",
+    "name_en": "Krishna Nagar SO Mathura (Urban Ward / SO)",
+    "name_hi": "Krishna Nagar SO Mathura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281004"
+    ]
+  },
+  {
+    "id": "town-mathura-lal-darwaza-so-mathura",
+    "type": "ward",
+    "name_en": "Lal Darwaza SO Mathura (Urban Ward / SO)",
+    "name_hi": "Lal Darwaza SO Mathura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281001"
+    ]
+  },
+  {
+    "id": "town-mathura-loi-bazar",
+    "type": "ward",
+    "name_en": "Loi Bazar (Urban Ward / SO)",
+    "name_hi": "Loi Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281121"
+    ]
+  },
+  {
+    "id": "town-mathura-mathura-jn-rs",
+    "type": "ward",
+    "name_en": "Mathura Jn RS (Urban Ward / SO)",
+    "name_hi": "Mathura Jn RS (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281001"
+    ]
+  },
+  {
+    "id": "town-mathura-mathura-refinery",
+    "type": "ward",
+    "name_en": "Mathura Refinery (Urban Ward / SO)",
+    "name_hi": "Mathura Refinery (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281005"
+    ]
+  },
+  {
+    "id": "town-mathura-shergarh-so-mathura",
+    "type": "ward",
+    "name_en": "Shergarh SO Mathura (Urban Ward / SO)",
+    "name_hi": "Shergarh SO Mathura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281404"
+    ]
+  },
+  {
+    "id": "town-mathura-sri-krishna-janam-sthan",
+    "type": "ward",
+    "name_en": "Sri Krishna Janam Sthan (Urban Ward / SO)",
+    "name_hi": "Sri Krishna Janam Sthan (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281001"
+    ]
+  },
+  {
+    "id": "town-mathura-veterinary-college",
+    "type": "ward",
+    "name_en": "Veterinary College (Urban Ward / SO)",
+    "name_hi": "Veterinary College (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mathura-main",
+    "tehsil_id": "mathura",
+    "district_id": "mathura",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "281001"
+    ]
+  }
+]

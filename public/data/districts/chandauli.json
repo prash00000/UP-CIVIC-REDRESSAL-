@@ -21,7 +21,7 @@
       "covers": [
         "chandauli"
       ],
-      "source_url": "https://chandauli.nic.in/whos-who/",
+      "source_url": "https://chandauli.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "District Magistrate (DM)",
@@ -46,7 +46,7 @@
       "covers": [
         "chandauli"
       ],
-      "source_url": "https://chandauli.nic.in/whos-who/",
+      "source_url": "https://chandauli.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Chief Development Officer (CDO)",
@@ -86,9 +86,9 @@
       "covers": [
         "chandauli"
       ],
-      "source_url": "https://chandauli.nic.in/whos-who/",
+      "source_url": "https://chandauli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-chandauli-sdm-sakaldiha",
@@ -109,9 +109,9 @@
       "covers": [
         "sakaldiha"
       ],
-      "source_url": "https://chandauli.nic.in/whos-who/",
+      "source_url": "https://chandauli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-chandauli-sdm-chakia",
@@ -132,9 +132,9 @@
       "covers": [
         "chakia"
       ],
-      "source_url": "https://chandauli.nic.in/whos-who/",
+      "source_url": "https://chandauli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-chandauli-sdm-pandeypur",
@@ -170,9 +170,9 @@
       "covers": [
         "chandauli"
       ],
-      "source_url": "https://chandauli.nic.in/whos-who/",
+      "source_url": "https://chandauli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-chandauli-ado-chandauli",
@@ -186,7 +186,8 @@
       ],
       "source_url": "https://chandauli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-chandauli-bdo-chandauli"
     },
     {
       "id": "up-chandauli-bdo-niamatabad",
@@ -215,7 +216,8 @@
       ],
       "source_url": "https://chandauli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-chandauli-bdo-niamatabad"
     },
     {
       "id": "up-chandauli-bdo-chahania",
@@ -244,7 +246,8 @@
       ],
       "source_url": "https://chandauli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-chandauli-bdo-chahania"
     },
     {
       "id": "up-chandauli-bdo-sakaldiha",
@@ -265,9 +268,9 @@
       "covers": [
         "sakaldiha"
       ],
-      "source_url": "https://chandauli.nic.in/whos-who/",
+      "source_url": "https://chandauli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-chandauli-ado-sakaldiha",
@@ -281,7 +284,8 @@
       ],
       "source_url": "https://chandauli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-chandauli-bdo-sakaldiha"
     },
     {
       "id": "up-chandauli-bdo-dhanapur",
@@ -302,9 +306,9 @@
       "covers": [
         "dhanapur"
       ],
-      "source_url": "https://chandauli.nic.in/whos-who/",
+      "source_url": "https://chandauli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-chandauli-ado-dhanapur",
@@ -318,7 +322,8 @@
       ],
       "source_url": "https://chandauli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-chandauli-bdo-dhanapur"
     },
     {
       "id": "up-chandauli-bdo-barhani",
@@ -347,7 +352,8 @@
       ],
       "source_url": "https://chandauli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-chandauli-bdo-barhani"
     },
     {
       "id": "up-chandauli-bdo-chakia",
@@ -368,9 +374,9 @@
       "covers": [
         "chakia"
       ],
-      "source_url": "https://chandauli.nic.in/whos-who/",
+      "source_url": "https://chandauli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-chandauli-ado-chakia",
@@ -384,7 +390,8 @@
       ],
       "source_url": "https://chandauli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-chandauli-bdo-chakia"
     },
     {
       "id": "up-chandauli-bdo-sahabganj",
@@ -397,9 +404,9 @@
       "covers": [
         "sahabganj"
       ],
-      "source_url": "https://chandauli.nic.in/whos-who/",
+      "source_url": "https://chandauli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-chandauli-ado-sahabganj",
@@ -413,7 +420,8 @@
       ],
       "source_url": "https://chandauli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-chandauli-bdo-sahabganj"
     },
     {
       "id": "up-chandauli-bdo-naugarh",
@@ -434,9 +442,9 @@
       "covers": [
         "naugarh"
       ],
-      "source_url": "https://chandauli.nic.in/whos-who/",
+      "source_url": "https://chandauli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-chandauli-ado-naugarh",
@@ -450,7 +458,8 @@
       ],
       "source_url": "https://chandauli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-chandauli-bdo-naugarh"
     },
     {
       "id": "eo-chandauli-main",
@@ -462,9 +471,9 @@
       "covers": [
         "ulb-chandauli-main"
       ],
-      "source_url": "https://chandauli.nic.in/whos-who/",
+      "source_url": "https://chandauli.nic.in/municipal-bodies/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     }
   ]
 }

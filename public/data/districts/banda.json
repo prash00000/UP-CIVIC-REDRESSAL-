@@ -40,14 +40,22 @@
       "role": "cdo",
       "office_name_en": "Chief Development Officer (CDO), Banda",
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), बांदा",
-      "phones": [],
+      "phones": [
+        {
+          "number": "7275554565",
+          "type": "office",
+          "source_url": "https://banda.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "cdo.bnd-up@gov.in",
       "covers": [
         "banda"
       ],
-      "source_url": "https://banda.nic.in/whos-who/",
+      "source_url": "https://banda.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-banda-dpro",
@@ -157,14 +165,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Badokhar Khurd",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Badokhar Khurd",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464766",
+          "type": "office",
+          "source_url": "https://banda.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.badokharkhurd.bnd@gmail.com",
       "covers": [
         "badokhar-khurd"
       ],
-      "source_url": "https://banda.nic.in/whos-who/",
+      "source_url": "https://banda.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-banda-ado-badokhar-khurd",
@@ -178,7 +194,8 @@
       ],
       "source_url": "https://banda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-banda-bdo-badokhar-khurd"
     },
     {
       "id": "up-banda-bdo-mahua",
@@ -186,14 +203,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mahua",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mahua",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464770",
+          "type": "office",
+          "source_url": "https://banda.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.mahua.bnd@gmail.com",
       "covers": [
         "mahua"
       ],
-      "source_url": "https://banda.nic.in/whos-who/",
+      "source_url": "https://banda.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-banda-ado-mahua",
@@ -207,7 +232,8 @@
       ],
       "source_url": "https://banda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-banda-bdo-mahua"
     },
     {
       "id": "up-banda-bdo-tindwari",
@@ -215,14 +241,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Tindwari",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tindwari",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464765",
+          "type": "office",
+          "source_url": "https://banda.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.tindwari.bnd@gmail.com",
       "covers": [
         "tindwari"
       ],
-      "source_url": "https://banda.nic.in/whos-who/",
+      "source_url": "https://banda.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-banda-ado-tindwari",
@@ -236,7 +270,8 @@
       ],
       "source_url": "https://banda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-banda-bdo-tindwari"
     },
     {
       "id": "up-banda-bdo-baberu",
@@ -244,14 +279,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Baberu",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Baberu",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464767",
+          "type": "office",
+          "source_url": "https://banda.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.baberu.bnd@gmail.com",
       "covers": [
         "baberu"
       ],
-      "source_url": "https://banda.nic.in/whos-who/",
+      "source_url": "https://banda.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-banda-ado-baberu",
@@ -265,7 +308,8 @@
       ],
       "source_url": "https://banda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-banda-bdo-baberu"
     },
     {
       "id": "up-banda-bdo-bisanda",
@@ -273,14 +317,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bisanda",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bisanda",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464769",
+          "type": "office",
+          "source_url": "https://banda.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.bisanda.bnd@gmail.com",
       "covers": [
         "bisanda"
       ],
-      "source_url": "https://banda.nic.in/whos-who/",
+      "source_url": "https://banda.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-banda-ado-bisanda",
@@ -294,7 +346,8 @@
       ],
       "source_url": "https://banda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-banda-bdo-bisanda"
     },
     {
       "id": "up-banda-bdo-kamasin",
@@ -302,14 +355,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kamasin",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kamasin",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464768",
+          "type": "office",
+          "source_url": "https://banda.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.kamasin.bnd@gmail.com",
       "covers": [
         "kamasin"
       ],
-      "source_url": "https://banda.nic.in/whos-who/",
+      "source_url": "https://banda.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-banda-ado-kamasin",
@@ -323,7 +384,8 @@
       ],
       "source_url": "https://banda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-banda-bdo-kamasin"
     },
     {
       "id": "up-banda-bdo-naraini",
@@ -331,14 +393,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Naraini",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Naraini",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464771",
+          "type": "office",
+          "source_url": "https://banda.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.naraini.bnd@gmail.com",
       "covers": [
         "naraini"
       ],
-      "source_url": "https://banda.nic.in/whos-who/",
+      "source_url": "https://banda.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-banda-ado-naraini",
@@ -352,7 +422,8 @@
       ],
       "source_url": "https://banda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-banda-bdo-naraini"
     },
     {
       "id": "up-banda-bdo-jaspura",
@@ -360,14 +431,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Jaspura",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jaspura",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464764",
+          "type": "office",
+          "source_url": "https://banda.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.jaspura.bnd@gmail.com",
       "covers": [
         "jaspura"
       ],
-      "source_url": "https://banda.nic.in/whos-who/",
+      "source_url": "https://banda.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-banda-ado-jaspura",
@@ -381,7 +460,8 @@
       ],
       "source_url": "https://banda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-banda-bdo-jaspura"
     },
     {
       "id": "eo-banda-main",

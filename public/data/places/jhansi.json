@@ -1,0 +1,3082 @@
+[
+  {
+    "id": "v-jhansi-badagaon",
+    "type": "village",
+    "name_en": "Badagaon Block (Gram Panchayats)",
+    "name_hi": "Badagaon विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-jhansi-babina",
+    "type": "village",
+    "name_en": "Babina Block (Gram Panchayats)",
+    "name_hi": "Babina विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-babina",
+    "block_id": "babina",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-jhansi-mauranipur",
+    "type": "village",
+    "name_en": "Mauranipur Block (Gram Panchayats)",
+    "name_hi": "Mauranipur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mauranipur",
+    "block_id": "mauranipur",
+    "tehsil_id": "mauranipur",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-jhansi-bangra",
+    "type": "village",
+    "name_en": "Bangra Block (Gram Panchayats)",
+    "name_hi": "Bangra विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bangra",
+    "block_id": "bangra",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-jhansi-gursarai",
+    "type": "village",
+    "name_en": "Gursarai Block (Gram Panchayats)",
+    "name_hi": "Gursarai विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gursarai",
+    "block_id": "gursarai",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-jhansi-bamaur",
+    "type": "village",
+    "name_en": "Bamaur Block (Gram Panchayats)",
+    "name_hi": "Bamaur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bamaur",
+    "block_id": "bamaur",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-jhansi-moth",
+    "type": "village",
+    "name_en": "Moth Block (Gram Panchayats)",
+    "name_hi": "Moth विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moth",
+    "block_id": "moth",
+    "tehsil_id": "moth",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-jhansi-chirgaon",
+    "type": "village",
+    "name_en": "Chirgaon Block (Gram Panchayats)",
+    "name_hi": "Chirgaon विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-chirgaon",
+    "block_id": "chirgaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-jhansi-amrokh",
+    "type": "village",
+    "name_en": "Amrokh (Gram Panchayat Area)",
+    "name_hi": "Amrokh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-bharosa",
+    "type": "village",
+    "name_en": "Bharosa (Gram Panchayat Area)",
+    "name_hi": "Bharosa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-chelra",
+    "type": "village",
+    "name_en": "Chelra (Gram Panchayat Area)",
+    "name_hi": "Chelra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-kharauwa",
+    "type": "village",
+    "name_en": "Kharauwa (Gram Panchayat Area)",
+    "name_hi": "Kharauwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-kumhrar",
+    "type": "village",
+    "name_en": "Kumhrar (Gram Panchayat Area)",
+    "name_hi": "Kumhrar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-patti-kumharra",
+    "type": "village",
+    "name_en": "Patti Kumharra (Gram Panchayat Area)",
+    "name_hi": "Patti Kumharra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-amgaon",
+    "type": "village",
+    "name_en": "Amgaon (Gram Panchayat Area)",
+    "name_hi": "Amgaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284306"
+    ]
+  },
+  {
+    "id": "po-jhansi-pali-pahari",
+    "type": "village",
+    "name_en": "Pali Pahari (Gram Panchayat Area)",
+    "name_hi": "Pali Pahari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284419"
+    ]
+  },
+  {
+    "id": "po-jhansi-rajapur",
+    "type": "village",
+    "name_en": "Rajapur (Gram Panchayat Area)",
+    "name_hi": "Rajapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284419"
+    ]
+  },
+  {
+    "id": "po-jhansi-bangra",
+    "type": "village",
+    "name_en": "Bangra (Gram Panchayat Area)",
+    "name_hi": "Bangra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bangra",
+    "block_id": "bangra",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "po-jhansi-gairaha",
+    "type": "village",
+    "name_en": "Gairaha (Gram Panchayat Area)",
+    "name_hi": "Gairaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "po-jhansi-kachneo",
+    "type": "village",
+    "name_en": "Kachneo (Gram Panchayat Area)",
+    "name_hi": "Kachneo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "po-jhansi-magarpur",
+    "type": "village",
+    "name_en": "Magarpur (Gram Panchayat Area)",
+    "name_hi": "Magarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "po-jhansi-palra",
+    "type": "village",
+    "name_en": "Palra (Gram Panchayat Area)",
+    "name_hi": "Palra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "po-jhansi-uldan",
+    "type": "village",
+    "name_en": "Uldan (Gram Panchayat Area)",
+    "name_hi": "Uldan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "po-jhansi-lahar-gird",
+    "type": "village",
+    "name_en": "Lahar Gird (Gram Panchayat Area)",
+    "name_hi": "Lahar Gird (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284003"
+    ]
+  },
+  {
+    "id": "po-jhansi-bijna",
+    "type": "village",
+    "name_en": "Bijna (Gram Panchayat Area)",
+    "name_hi": "Bijna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284206"
+    ]
+  },
+  {
+    "id": "po-jhansi-pandwaha",
+    "type": "village",
+    "name_en": "Pandwaha (Gram Panchayat Area)",
+    "name_hi": "Pandwaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284206"
+    ]
+  },
+  {
+    "id": "po-jhansi-old-mau",
+    "type": "village",
+    "name_en": "Old Mau (Gram Panchayat Area)",
+    "name_hi": "Old Mau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-ladawra",
+    "type": "village",
+    "name_en": "Ladawra (Gram Panchayat Area)",
+    "name_hi": "Ladawra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-lawan",
+    "type": "village",
+    "name_en": "Lawan (Gram Panchayat Area)",
+    "name_hi": "Lawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-nandkhas",
+    "type": "village",
+    "name_en": "Nandkhas (Gram Panchayat Area)",
+    "name_hi": "Nandkhas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-pandori",
+    "type": "village",
+    "name_en": "Pandori (Gram Panchayat Area)",
+    "name_hi": "Pandori (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-ambabai",
+    "type": "village",
+    "name_en": "Ambabai (Gram Panchayat Area)",
+    "name_hi": "Ambabai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284419"
+    ]
+  },
+  {
+    "id": "po-jhansi-khisni-buzurg",
+    "type": "village",
+    "name_en": "Khisni Buzurg (Gram Panchayat Area)",
+    "name_hi": "Khisni Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "po-jhansi-luhari",
+    "type": "village",
+    "name_en": "Luhari (Gram Panchayat Area)",
+    "name_hi": "Luhari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "po-jhansi-padra",
+    "type": "village",
+    "name_en": "Padra (Gram Panchayat Area)",
+    "name_hi": "Padra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "po-jhansi-chheonta",
+    "type": "village",
+    "name_en": "Chheonta (Gram Panchayat Area)",
+    "name_hi": "Chheonta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284304"
+    ]
+  },
+  {
+    "id": "po-jhansi-chirgaon-khurd",
+    "type": "village",
+    "name_en": "Chirgaon Khurd (Gram Panchayat Area)",
+    "name_hi": "Chirgaon Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-chirgaon",
+    "block_id": "chirgaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284304"
+    ]
+  },
+  {
+    "id": "po-jhansi-garhiagaon",
+    "type": "village",
+    "name_en": "Garhiagaon (Gram Panchayat Area)",
+    "name_hi": "Garhiagaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284003"
+    ]
+  },
+  {
+    "id": "po-jhansi-barhwar",
+    "type": "village",
+    "name_en": "Barhwar (Gram Panchayat Area)",
+    "name_hi": "Barhwar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284206"
+    ]
+  },
+  {
+    "id": "po-jhansi-dhurwai",
+    "type": "village",
+    "name_en": "Dhurwai (Gram Panchayat Area)",
+    "name_hi": "Dhurwai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284206"
+    ]
+  },
+  {
+    "id": "po-jhansi-pasaura",
+    "type": "village",
+    "name_en": "Pasaura (Gram Panchayat Area)",
+    "name_hi": "Pasaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284206"
+    ]
+  },
+  {
+    "id": "po-jhansi-rora-bhatpura",
+    "type": "village",
+    "name_en": "Rora Bhatpura (Gram Panchayat Area)",
+    "name_hi": "Rora Bhatpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-rupa-dhamna",
+    "type": "village",
+    "name_en": "Rupa Dhamna (Gram Panchayat Area)",
+    "name_hi": "Rupa Dhamna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-saipura",
+    "type": "village",
+    "name_en": "Saipura (Gram Panchayat Area)",
+    "name_hi": "Saipura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-siaori",
+    "type": "village",
+    "name_en": "Siaori (Gram Panchayat Area)",
+    "name_hi": "Siaori (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-sijari-buzurg",
+    "type": "village",
+    "name_en": "Sijari Buzurg (Gram Panchayat Area)",
+    "name_hi": "Sijari Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-kochha-bhanwar",
+    "type": "village",
+    "name_en": "Kochha Bhanwar (Gram Panchayat Area)",
+    "name_hi": "Kochha Bhanwar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284128"
+    ]
+  },
+  {
+    "id": "po-jhansi-atariya",
+    "type": "village",
+    "name_en": "Atariya (Gram Panchayat Area)",
+    "name_hi": "Atariya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-bakwan",
+    "type": "village",
+    "name_en": "Bakwan (Gram Panchayat Area)",
+    "name_hi": "Bakwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-basobai",
+    "type": "village",
+    "name_en": "Basobai (Gram Panchayat Area)",
+    "name_hi": "Basobai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-belma-kalan",
+    "type": "village",
+    "name_en": "Belma Kalan (Gram Panchayat Area)",
+    "name_hi": "Belma Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-jaunra",
+    "type": "village",
+    "name_en": "Jaunra (Gram Panchayat Area)",
+    "name_hi": "Jaunra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-pulia",
+    "type": "village",
+    "name_en": "Pulia (Gram Panchayat Area)",
+    "name_hi": "Pulia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-semri",
+    "type": "village",
+    "name_en": "Semri (Gram Panchayat Area)",
+    "name_hi": "Semri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-shahjahanpur",
+    "type": "village",
+    "name_en": "Shahjahanpur (Gram Panchayat Area)",
+    "name_hi": "Shahjahanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-talaud",
+    "type": "village",
+    "name_en": "Talaud (Gram Panchayat Area)",
+    "name_hi": "Talaud (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-nari",
+    "type": "village",
+    "name_en": "Nari (Gram Panchayat Area)",
+    "name_hi": "Nari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284306"
+    ]
+  },
+  {
+    "id": "po-jhansi-pahargaon",
+    "type": "village",
+    "name_en": "Pahargaon (Gram Panchayat Area)",
+    "name_hi": "Pahargaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284306"
+    ]
+  },
+  {
+    "id": "po-jhansi-sersa",
+    "type": "village",
+    "name_en": "Sersa (Gram Panchayat Area)",
+    "name_hi": "Sersa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284306"
+    ]
+  },
+  {
+    "id": "po-jhansi-sesha",
+    "type": "village",
+    "name_en": "Sesha (Gram Panchayat Area)",
+    "name_hi": "Sesha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284306"
+    ]
+  },
+  {
+    "id": "po-jhansi-ratausa",
+    "type": "village",
+    "name_en": "Ratausa (Gram Panchayat Area)",
+    "name_hi": "Ratausa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "po-jhansi-sakrar",
+    "type": "village",
+    "name_en": "Sakrar (Gram Panchayat Area)",
+    "name_hi": "Sakrar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "po-jhansi-badokhari",
+    "type": "village",
+    "name_en": "Badokhari (Gram Panchayat Area)",
+    "name_hi": "Badokhari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284304"
+    ]
+  },
+  {
+    "id": "po-jhansi-roni-baragaon",
+    "type": "village",
+    "name_en": "Roni Baragaon (Gram Panchayat Area)",
+    "name_hi": "Roni Baragaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-amra",
+    "type": "village",
+    "name_en": "Amra (Gram Panchayat Area)",
+    "name_hi": "Amra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-bheonraghat",
+    "type": "village",
+    "name_en": "Bheonraghat (Gram Panchayat Area)",
+    "name_hi": "Bheonraghat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-karkos",
+    "type": "village",
+    "name_en": "Karkos (Gram Panchayat Area)",
+    "name_hi": "Karkos (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-kumhariya",
+    "type": "village",
+    "name_en": "Kumhariya (Gram Panchayat Area)",
+    "name_hi": "Kumhariya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-reo",
+    "type": "village",
+    "name_en": "Reo (Gram Panchayat Area)",
+    "name_hi": "Reo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-simiriya",
+    "type": "village",
+    "name_en": "Simiriya (Gram Panchayat Area)",
+    "name_hi": "Simiriya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-tori",
+    "type": "village",
+    "name_en": "Tori (Gram Panchayat Area)",
+    "name_hi": "Tori (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "po-jhansi-khilli",
+    "type": "village",
+    "name_en": "Khilli (Gram Panchayat Area)",
+    "name_hi": "Khilli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284306"
+    ]
+  },
+  {
+    "id": "po-jhansi-dangarwaha",
+    "type": "village",
+    "name_en": "Dangarwaha (Gram Panchayat Area)",
+    "name_hi": "Dangarwaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284419"
+    ]
+  },
+  {
+    "id": "po-jhansi-punaoli-kalan",
+    "type": "village",
+    "name_en": "Punaoli Kalan (Gram Panchayat Area)",
+    "name_hi": "Punaoli Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284419"
+    ]
+  },
+  {
+    "id": "po-jhansi-amanpurawar",
+    "type": "village",
+    "name_en": "Amanpurawar (Gram Panchayat Area)",
+    "name_hi": "Amanpurawar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "po-jhansi-deori-singhpura",
+    "type": "village",
+    "name_en": "Deori Singhpura (Gram Panchayat Area)",
+    "name_hi": "Deori Singhpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "po-jhansi-ghurat",
+    "type": "village",
+    "name_en": "Ghurat (Gram Panchayat Area)",
+    "name_hi": "Ghurat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "po-jhansi-katera",
+    "type": "village",
+    "name_en": "Katera (Gram Panchayat Area)",
+    "name_hi": "Katera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "po-jhansi-pathguwan",
+    "type": "village",
+    "name_en": "Pathguwan (Gram Panchayat Area)",
+    "name_hi": "Pathguwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "po-jhansi-siaoni-khurd",
+    "type": "village",
+    "name_en": "Siaoni Khurd (Gram Panchayat Area)",
+    "name_hi": "Siaoni Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "po-jhansi-vijay-garh",
+    "type": "village",
+    "name_en": "Vijay Garh (Gram Panchayat Area)",
+    "name_hi": "Vijay Garh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "po-jhansi-sakin",
+    "type": "village",
+    "name_en": "Sakin (Gram Panchayat Area)",
+    "name_hi": "Sakin (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284304"
+    ]
+  },
+  {
+    "id": "po-jhansi-karari",
+    "type": "village",
+    "name_en": "Karari (Gram Panchayat Area)",
+    "name_hi": "Karari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284003"
+    ]
+  },
+  {
+    "id": "po-jhansi-lohagarh",
+    "type": "village",
+    "name_en": "Lohagarh (Gram Panchayat Area)",
+    "name_hi": "Lohagarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jhansi-haiwatpura",
+    "type": "village",
+    "name_en": "Haiwatpura (Gram Panchayat Area)",
+    "name_hi": "Haiwatpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-kakwara",
+    "type": "village",
+    "name_en": "Kakwara (Gram Panchayat Area)",
+    "name_hi": "Kakwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-kureecha",
+    "type": "village",
+    "name_en": "Kureecha (Gram Panchayat Area)",
+    "name_hi": "Kureecha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-mahewa",
+    "type": "village",
+    "name_en": "Mahewa (Gram Panchayat Area)",
+    "name_hi": "Mahewa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-dhamna-payak",
+    "type": "village",
+    "name_en": "Dhamna Payak (Gram Panchayat Area)",
+    "name_hi": "Dhamna Payak (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-dhawakar",
+    "type": "village",
+    "name_en": "Dhawakar (Gram Panchayat Area)",
+    "name_hi": "Dhawakar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-ghat-lehchura",
+    "type": "village",
+    "name_en": "Ghat Lehchura (Gram Panchayat Area)",
+    "name_hi": "Ghat Lehchura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-markuan",
+    "type": "village",
+    "name_en": "Markuan (Gram Panchayat Area)",
+    "name_hi": "Markuan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-rewan",
+    "type": "village",
+    "name_en": "Rewan (Gram Panchayat Area)",
+    "name_hi": "Rewan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-dhamnakhurd",
+    "type": "village",
+    "name_en": "Dhamnakhurd (Gram Panchayat Area)",
+    "name_hi": "Dhamnakhurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284121"
+    ]
+  },
+  {
+    "id": "po-jhansi-garhmau",
+    "type": "village",
+    "name_en": "Garhmau (Gram Panchayat Area)",
+    "name_hi": "Garhmau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284121"
+    ]
+  },
+  {
+    "id": "po-jhansi-jonri-buzurg",
+    "type": "village",
+    "name_en": "Jonri Buzurg (Gram Panchayat Area)",
+    "name_hi": "Jonri Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284121"
+    ]
+  },
+  {
+    "id": "po-jhansi-palar",
+    "type": "village",
+    "name_en": "Palar (Gram Panchayat Area)",
+    "name_hi": "Palar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284121"
+    ]
+  },
+  {
+    "id": "po-jhansi-ghughuwa",
+    "type": "village",
+    "name_en": "Ghughuwa (Gram Panchayat Area)",
+    "name_hi": "Ghughuwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284201"
+    ]
+  },
+  {
+    "id": "po-jhansi-taindol",
+    "type": "village",
+    "name_en": "Taindol (Gram Panchayat Area)",
+    "name_hi": "Taindol (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284201"
+    ]
+  },
+  {
+    "id": "po-jhansi-bhagwantpura",
+    "type": "village",
+    "name_en": "Bhagwantpura (Gram Panchayat Area)",
+    "name_hi": "Bhagwantpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284127"
+    ]
+  },
+  {
+    "id": "po-jhansi-khajraha-buzurg",
+    "type": "village",
+    "name_en": "Khajraha Buzurg (Gram Panchayat Area)",
+    "name_hi": "Khajraha Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284120"
+    ]
+  },
+  {
+    "id": "po-jhansi-khajraha-khurd",
+    "type": "village",
+    "name_en": "Khajraha Khurd (Gram Panchayat Area)",
+    "name_hi": "Khajraha Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284120"
+    ]
+  },
+  {
+    "id": "po-jhansi-mathurapura",
+    "type": "village",
+    "name_en": "Mathurapura (Gram Panchayat Area)",
+    "name_hi": "Mathurapura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284120"
+    ]
+  },
+  {
+    "id": "po-jhansi-ram-nagar",
+    "type": "village",
+    "name_en": "Ram Nagar (Gram Panchayat Area)",
+    "name_hi": "Ram Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284301"
+    ]
+  },
+  {
+    "id": "po-jhansi-siya",
+    "type": "village",
+    "name_en": "Siya (Gram Panchayat Area)",
+    "name_hi": "Siya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284301"
+    ]
+  },
+  {
+    "id": "po-jhansi-asta",
+    "type": "village",
+    "name_en": "Asta (Gram Panchayat Area)",
+    "name_hi": "Asta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "po-jhansi-sarsenda",
+    "type": "village",
+    "name_en": "Sarsenda (Gram Panchayat Area)",
+    "name_hi": "Sarsenda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "po-jhansi-sutta",
+    "type": "village",
+    "name_en": "Sutta (Gram Panchayat Area)",
+    "name_hi": "Sutta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "po-jhansi-tehrauli",
+    "type": "village",
+    "name_en": "Tehrauli (Gram Panchayat Area)",
+    "name_hi": "Tehrauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "po-jhansi-bhojala",
+    "type": "village",
+    "name_en": "Bhojala (Gram Panchayat Area)",
+    "name_hi": "Bhojala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284002"
+    ]
+  },
+  {
+    "id": "po-jhansi-banka-pahari",
+    "type": "village",
+    "name_en": "Banka Pahari (Gram Panchayat Area)",
+    "name_hi": "Banka Pahari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-barauri",
+    "type": "village",
+    "name_en": "Barauri (Gram Panchayat Area)",
+    "name_hi": "Barauri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-berwai",
+    "type": "village",
+    "name_en": "Berwai (Gram Panchayat Area)",
+    "name_hi": "Berwai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-bhadarwara",
+    "type": "village",
+    "name_en": "Bhadarwara (Gram Panchayat Area)",
+    "name_hi": "Bhadarwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-bijaura",
+    "type": "village",
+    "name_en": "Bijaura (Gram Panchayat Area)",
+    "name_hi": "Bijaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-bonda",
+    "type": "village",
+    "name_en": "Bonda (Gram Panchayat Area)",
+    "name_hi": "Bonda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-churara",
+    "type": "village",
+    "name_en": "Churara (Gram Panchayat Area)",
+    "name_hi": "Churara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-bijauli",
+    "type": "village",
+    "name_en": "Bijauli (Gram Panchayat Area)",
+    "name_hi": "Bijauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284135"
+    ]
+  },
+  {
+    "id": "po-jhansi-ghisauli",
+    "type": "village",
+    "name_en": "Ghisauli (Gram Panchayat Area)",
+    "name_hi": "Ghisauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284401"
+    ]
+  },
+  {
+    "id": "po-jhansi-manpura",
+    "type": "village",
+    "name_en": "Manpura (Gram Panchayat Area)",
+    "name_hi": "Manpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284401"
+    ]
+  },
+  {
+    "id": "po-jhansi-nayakhera",
+    "type": "village",
+    "name_en": "Nayakhera (Gram Panchayat Area)",
+    "name_hi": "Nayakhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284401"
+    ]
+  },
+  {
+    "id": "po-jhansi-aupara",
+    "type": "village",
+    "name_en": "Aupara (Gram Panchayat Area)",
+    "name_hi": "Aupara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284301"
+    ]
+  },
+  {
+    "id": "po-jhansi-bajhera",
+    "type": "village",
+    "name_en": "Bajhera (Gram Panchayat Area)",
+    "name_hi": "Bajhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284301"
+    ]
+  },
+  {
+    "id": "po-jhansi-jaryai",
+    "type": "village",
+    "name_en": "Jaryai (Gram Panchayat Area)",
+    "name_hi": "Jaryai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284301"
+    ]
+  },
+  {
+    "id": "po-jhansi-iskil",
+    "type": "village",
+    "name_en": "Iskil (Gram Panchayat Area)",
+    "name_hi": "Iskil (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284302"
+    ]
+  },
+  {
+    "id": "po-jhansi-labhera",
+    "type": "village",
+    "name_en": "Labhera (Gram Panchayat Area)",
+    "name_hi": "Labhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284302"
+    ]
+  },
+  {
+    "id": "po-jhansi-patha",
+    "type": "village",
+    "name_en": "Patha (Gram Panchayat Area)",
+    "name_hi": "Patha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284302"
+    ]
+  },
+  {
+    "id": "po-jhansi-kachir",
+    "type": "village",
+    "name_en": "Kachir (Gram Panchayat Area)",
+    "name_hi": "Kachir (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284203"
+    ]
+  },
+  {
+    "id": "po-jhansi-kakarwai",
+    "type": "village",
+    "name_en": "Kakarwai (Gram Panchayat Area)",
+    "name_hi": "Kakarwai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284203"
+    ]
+  },
+  {
+    "id": "po-jhansi-khadaura",
+    "type": "village",
+    "name_en": "Khadaura (Gram Panchayat Area)",
+    "name_hi": "Khadaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284203"
+    ]
+  },
+  {
+    "id": "po-jhansi-moti-katra",
+    "type": "village",
+    "name_en": "Moti Katra (Gram Panchayat Area)",
+    "name_hi": "Moti Katra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284203"
+    ]
+  },
+  {
+    "id": "po-jhansi-rampura",
+    "type": "village",
+    "name_en": "Rampura (Gram Panchayat Area)",
+    "name_hi": "Rampura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284203"
+    ]
+  },
+  {
+    "id": "po-jhansi-bangrabangri",
+    "type": "village",
+    "name_en": "BangraBangri (Gram Panchayat Area)",
+    "name_hi": "BangraBangri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bangra",
+    "block_id": "bangra",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "po-jhansi-dhawari",
+    "type": "village",
+    "name_en": "Dhawari (Gram Panchayat Area)",
+    "name_hi": "Dhawari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "po-jhansi-garhwai",
+    "type": "village",
+    "name_en": "Garhwai (Gram Panchayat Area)",
+    "name_hi": "Garhwai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "po-jhansi-jakhaura",
+    "type": "village",
+    "name_en": "Jakhaura (Gram Panchayat Area)",
+    "name_hi": "Jakhaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "po-jhansi-karguwan-khurd",
+    "type": "village",
+    "name_en": "Karguwan Khurd (Gram Panchayat Area)",
+    "name_hi": "Karguwan Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "po-jhansi-boodha",
+    "type": "village",
+    "name_en": "Boodha (Gram Panchayat Area)",
+    "name_hi": "Boodha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284002"
+    ]
+  },
+  {
+    "id": "po-jhansi-sainyargate",
+    "type": "village",
+    "name_en": "Sainyargate (Gram Panchayat Area)",
+    "name_hi": "Sainyargate (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284002"
+    ]
+  },
+  {
+    "id": "po-jhansi-aivani",
+    "type": "village",
+    "name_en": "Aivani (Gram Panchayat Area)",
+    "name_hi": "Aivani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-dhaurra",
+    "type": "village",
+    "name_en": "Dhaurra (Gram Panchayat Area)",
+    "name_hi": "Dhaurra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-ghat-kotra",
+    "type": "village",
+    "name_en": "Ghat Kotra (Gram Panchayat Area)",
+    "name_hi": "Ghat Kotra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-itayal",
+    "type": "village",
+    "name_en": "Itayal (Gram Panchayat Area)",
+    "name_hi": "Itayal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-patha-dhakarwara",
+    "type": "village",
+    "name_en": "Patha Dhakarwara (Gram Panchayat Area)",
+    "name_hi": "Patha Dhakarwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-hasari",
+    "type": "village",
+    "name_en": "Hasari (Gram Panchayat Area)",
+    "name_hi": "Hasari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284135"
+    ]
+  },
+  {
+    "id": "po-jhansi-burhpura",
+    "type": "village",
+    "name_en": "Burhpura (Gram Panchayat Area)",
+    "name_hi": "Burhpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284401"
+    ]
+  },
+  {
+    "id": "po-jhansi-birguwan",
+    "type": "village",
+    "name_en": "Birguwan (Gram Panchayat Area)",
+    "name_hi": "Birguwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284121"
+    ]
+  },
+  {
+    "id": "po-jhansi-ranguwan",
+    "type": "village",
+    "name_en": "Ranguwan (Gram Panchayat Area)",
+    "name_hi": "Ranguwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284121"
+    ]
+  },
+  {
+    "id": "po-jhansi-ujyan",
+    "type": "village",
+    "name_en": "Ujyan (Gram Panchayat Area)",
+    "name_hi": "Ujyan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284121"
+    ]
+  },
+  {
+    "id": "po-jhansi-khailar",
+    "type": "village",
+    "name_en": "Khailar (Gram Panchayat Area)",
+    "name_hi": "Khailar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284120"
+    ]
+  },
+  {
+    "id": "po-jhansi-baral",
+    "type": "village",
+    "name_en": "Baral (Gram Panchayat Area)",
+    "name_hi": "Baral (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284301"
+    ]
+  },
+  {
+    "id": "po-jhansi-karguwan",
+    "type": "village",
+    "name_en": "Karguwan (Gram Panchayat Area)",
+    "name_hi": "Karguwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284301"
+    ]
+  },
+  {
+    "id": "po-jhansi-ahiraura",
+    "type": "village",
+    "name_en": "Ahiraura (Gram Panchayat Area)",
+    "name_hi": "Ahiraura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284302"
+    ]
+  },
+  {
+    "id": "po-jhansi-gonti",
+    "type": "village",
+    "name_en": "Gonti (Gram Panchayat Area)",
+    "name_hi": "Gonti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284302"
+    ]
+  },
+  {
+    "id": "po-jhansi-simardha",
+    "type": "village",
+    "name_en": "Simardha (Gram Panchayat Area)",
+    "name_hi": "Simardha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284203"
+    ]
+  },
+  {
+    "id": "po-jhansi-bamaur",
+    "type": "village",
+    "name_en": "Bamaur (Gram Panchayat Area)",
+    "name_hi": "Bamaur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bamaur",
+    "block_id": "bamaur",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "po-jhansi-dhanaura",
+    "type": "village",
+    "name_en": "Dhanaura (Gram Panchayat Area)",
+    "name_hi": "Dhanaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "po-jhansi-ghuraiya",
+    "type": "village",
+    "name_en": "Ghuraiya (Gram Panchayat Area)",
+    "name_hi": "Ghuraiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "po-jhansi-kuretha",
+    "type": "village",
+    "name_en": "Kuretha (Gram Panchayat Area)",
+    "name_hi": "Kuretha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "po-jhansi-nauta",
+    "type": "village",
+    "name_en": "Nauta (Gram Panchayat Area)",
+    "name_hi": "Nauta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "po-jhansi-isagarh",
+    "type": "village",
+    "name_en": "Isagarh (Gram Panchayat Area)",
+    "name_hi": "Isagarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284002"
+    ]
+  },
+  {
+    "id": "po-jhansi-nandanpura",
+    "type": "village",
+    "name_en": "Nandanpura (Gram Panchayat Area)",
+    "name_hi": "Nandanpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284003"
+    ]
+  },
+  {
+    "id": "po-jhansi-orchha-gate",
+    "type": "village",
+    "name_en": "Orchha Gate (Gram Panchayat Area)",
+    "name_hi": "Orchha Gate (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284002"
+    ]
+  },
+  {
+    "id": "po-jhansi-akseo",
+    "type": "village",
+    "name_en": "Akseo (Gram Panchayat Area)",
+    "name_hi": "Akseo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-bhandra-khilara",
+    "type": "village",
+    "name_en": "Bhandra Khilara (Gram Panchayat Area)",
+    "name_hi": "Bhandra Khilara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-lalkurti-bazar",
+    "type": "village",
+    "name_en": "Lalkurti Bazar (Gram Panchayat Area)",
+    "name_hi": "Lalkurti Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284003"
+    ]
+  },
+  {
+    "id": "po-jhansi-baidora",
+    "type": "village",
+    "name_en": "Baidora (Gram Panchayat Area)",
+    "name_hi": "Baidora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284401"
+    ]
+  },
+  {
+    "id": "po-jhansi-chanaoni",
+    "type": "village",
+    "name_en": "Chanaoni (Gram Panchayat Area)",
+    "name_hi": "Chanaoni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284401"
+    ]
+  },
+  {
+    "id": "po-jhansi-baratakalan",
+    "type": "village",
+    "name_en": "Baratakalan (Gram Panchayat Area)",
+    "name_hi": "Baratakalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284121"
+    ]
+  },
+  {
+    "id": "po-jhansi-sarol",
+    "type": "village",
+    "name_en": "Sarol (Gram Panchayat Area)",
+    "name_hi": "Sarol (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284121"
+    ]
+  },
+  {
+    "id": "po-jhansi-simraha",
+    "type": "village",
+    "name_en": "Simraha (Gram Panchayat Area)",
+    "name_hi": "Simraha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284127"
+    ]
+  },
+  {
+    "id": "po-jhansi-chamrauwa",
+    "type": "village",
+    "name_en": "Chamrauwa (Gram Panchayat Area)",
+    "name_hi": "Chamrauwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284120"
+    ]
+  },
+  {
+    "id": "po-jhansi-pahari-buzurg",
+    "type": "village",
+    "name_en": "Pahari Buzurg (Gram Panchayat Area)",
+    "name_hi": "Pahari Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284301"
+    ]
+  },
+  {
+    "id": "po-jhansi-simthari",
+    "type": "village",
+    "name_en": "Simthari (Gram Panchayat Area)",
+    "name_hi": "Simthari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284301"
+    ]
+  },
+  {
+    "id": "po-jhansi-bilati-karke",
+    "type": "village",
+    "name_en": "Bilati Karke (Gram Panchayat Area)",
+    "name_hi": "Bilati Karke (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284302"
+    ]
+  },
+  {
+    "id": "po-jhansi-dumrai",
+    "type": "village",
+    "name_en": "Dumrai (Gram Panchayat Area)",
+    "name_hi": "Dumrai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284203"
+    ]
+  },
+  {
+    "id": "po-jhansi-siya-kharka",
+    "type": "village",
+    "name_en": "Siya Kharka (Gram Panchayat Area)",
+    "name_hi": "Siya Kharka (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284203"
+    ]
+  },
+  {
+    "id": "po-jhansi-baghaira",
+    "type": "village",
+    "name_en": "Baghaira (Gram Panchayat Area)",
+    "name_hi": "Baghaira (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "po-jhansi-gokul",
+    "type": "village",
+    "name_en": "Gokul (Gram Panchayat Area)",
+    "name_hi": "Gokul (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "po-jhansi-kudri",
+    "type": "village",
+    "name_en": "Kudri (Gram Panchayat Area)",
+    "name_hi": "Kudri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "po-jhansi-nagra",
+    "type": "village",
+    "name_en": "Nagra (Gram Panchayat Area)",
+    "name_hi": "Nagra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "po-jhansi-khushipura",
+    "type": "village",
+    "name_en": "Khushipura (Gram Panchayat Area)",
+    "name_hi": "Khushipura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284002"
+    ]
+  },
+  {
+    "id": "po-jhansi-bamhori",
+    "type": "village",
+    "name_en": "Bamhori (Gram Panchayat Area)",
+    "name_hi": "Bamhori (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-bhadarwara-khurd",
+    "type": "village",
+    "name_en": "Bhadarwara Khurd (Gram Panchayat Area)",
+    "name_hi": "Bhadarwara Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "po-jhansi-bhasneh",
+    "type": "village",
+    "name_en": "Bhasneh (Gram Panchayat Area)",
+    "name_hi": "Bhasneh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badagaon",
+    "block_id": "badagaon",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "ward-jhansi-nigam",
+    "type": "ward",
+    "name_en": "Jhansi Municipal Corporation (All Wards)",
+    "name_hi": "झांसी नगर निगम (सभी वार्ड)",
+    "ulb_id": "jhansi",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam"
+  },
+  {
+    "id": "ward-jhansi-ulb-jhansi-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Jhansi (All Wards)",
+    "name_hi": "झांसी नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-jhansi-ndc-jhansi",
+    "type": "ward",
+    "name_en": "NDC Jhansi (Urban Ward / SO)",
+    "name_hi": "NDC Jhansi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284001"
+    ]
+  },
+  {
+    "id": "town-jhansi-jhansi",
+    "type": "ward",
+    "name_en": "JHANSI (Urban Ward / SO)",
+    "name_hi": "JHANSI (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284001"
+    ]
+  },
+  {
+    "id": "town-jhansi-babina-cantt",
+    "type": "ward",
+    "name_en": "Babina Cantt (Urban Ward / SO)",
+    "name_hi": "Babina Cantt (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284401"
+    ]
+  },
+  {
+    "id": "town-jhansi-barwasagar",
+    "type": "ward",
+    "name_en": "Barwasagar (Urban Ward / SO)",
+    "name_hi": "Barwasagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284201"
+    ]
+  },
+  {
+    "id": "town-jhansi-c-w-workshop",
+    "type": "ward",
+    "name_en": "C  W Workshop (Urban Ward / SO)",
+    "name_hi": "C  W Workshop (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284003"
+    ]
+  },
+  {
+    "id": "town-jhansi-chirgaon-so-jhansi",
+    "type": "ward",
+    "name_en": "Chirgaon SO Jhansi (Urban Ward / SO)",
+    "name_hi": "Chirgaon SO Jhansi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284301"
+    ]
+  },
+  {
+    "id": "town-jhansi-mauranipur",
+    "type": "ward",
+    "name_en": "Mauranipur (Urban Ward / SO)",
+    "name_hi": "Mauranipur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "town-jhansi-poonchh",
+    "type": "ward",
+    "name_en": "Poonchh (Urban Ward / SO)",
+    "name_hi": "Poonchh (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284306"
+    ]
+  },
+  {
+    "id": "town-jhansi-samthar",
+    "type": "ward",
+    "name_en": "Samthar (Urban Ward / SO)",
+    "name_hi": "Samthar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284304"
+    ]
+  },
+  {
+    "id": "town-jhansi-abbotganj",
+    "type": "ward",
+    "name_en": "Abbotganj (Urban Ward / SO)",
+    "name_hi": "Abbotganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284003"
+    ]
+  },
+  {
+    "id": "town-jhansi-babina-town",
+    "type": "ward",
+    "name_en": "Babina Town (Urban Ward / SO)",
+    "name_hi": "Babina Town (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284401"
+    ]
+  },
+  {
+    "id": "town-jhansi-bhattagaon",
+    "type": "ward",
+    "name_en": "Bhattagaon (Urban Ward / SO)",
+    "name_hi": "Bhattagaon (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284127"
+    ]
+  },
+  {
+    "id": "town-jhansi-mlb-medical-college",
+    "type": "ward",
+    "name_en": "Mlb Medical College (Urban Ward / SO)",
+    "name_hi": "Mlb Medical College (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284128"
+    ]
+  },
+  {
+    "id": "town-jhansi-moth",
+    "type": "ward",
+    "name_en": "Moth (Urban Ward / SO)",
+    "name_hi": "Moth (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284303"
+    ]
+  },
+  {
+    "id": "town-jhansi-raksa",
+    "type": "ward",
+    "name_en": "Raksa (Urban Ward / SO)",
+    "name_hi": "Raksa (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284419"
+    ]
+  },
+  {
+    "id": "town-jhansi-ranipur-so-jhansi",
+    "type": "ward",
+    "name_en": "Ranipur SO Jhansi (Urban Ward / SO)",
+    "name_hi": "Ranipur SO Jhansi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284205"
+    ]
+  },
+  {
+    "id": "town-jhansi-subhashganj",
+    "type": "ward",
+    "name_en": "Subhashganj (Urban Ward / SO)",
+    "name_hi": "Subhashganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284002"
+    ]
+  },
+  {
+    "id": "town-jhansi-33-bn-pac-jhansi",
+    "type": "ward",
+    "name_en": "33 Bn Pac Jhansi (Urban Ward / SO)",
+    "name_hi": "33 Bn Pac Jhansi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284135"
+    ]
+  },
+  {
+    "id": "town-jhansi-bhel-so-jhansi",
+    "type": "ward",
+    "name_en": "BHEL SO Jhansi (Urban Ward / SO)",
+    "name_hi": "BHEL SO Jhansi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284120"
+    ]
+  },
+  {
+    "id": "town-jhansi-ayurvedic-university",
+    "type": "ward",
+    "name_en": "Ayurvedic University (Urban Ward / SO)",
+    "name_hi": "Ayurvedic University (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284003"
+    ]
+  },
+  {
+    "id": "town-jhansi-bara-bazar-so-jhansi",
+    "type": "ward",
+    "name_en": "Bara Bazar SO Jhansi (Urban Ward / SO)",
+    "name_hi": "Bara Bazar SO Jhansi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284002"
+    ]
+  },
+  {
+    "id": "town-jhansi-baragaon-so-jhansi",
+    "type": "ward",
+    "name_en": "Baragaon SO Jhansi (Urban Ward / SO)",
+    "name_hi": "Baragaon SO Jhansi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284121"
+    ]
+  },
+  {
+    "id": "town-jhansi-erich",
+    "type": "ward",
+    "name_en": "Erich (Urban Ward / SO)",
+    "name_hi": "Erich (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284302"
+    ]
+  },
+  {
+    "id": "town-jhansi-gursarai",
+    "type": "ward",
+    "name_en": "Gursarai (Urban Ward / SO)",
+    "name_hi": "Gursarai (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284202"
+    ]
+  },
+  {
+    "id": "town-jhansi-jhansi-cantt",
+    "type": "ward",
+    "name_en": "Jhansi Cantt (Urban Ward / SO)",
+    "name_hi": "Jhansi Cantt (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284001"
+    ]
+  },
+  {
+    "id": "town-jhansi-jhansi-city",
+    "type": "ward",
+    "name_en": "Jhansi City (Urban Ward / SO)",
+    "name_hi": "Jhansi City (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284002"
+    ]
+  },
+  {
+    "id": "town-jhansi-jhansi-railway-station",
+    "type": "ward",
+    "name_en": "Jhansi Railway Station (Urban Ward / SO)",
+    "name_hi": "Jhansi Railway Station (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284003"
+    ]
+  },
+  {
+    "id": "town-jhansi-mauranipur-bus-stand",
+    "type": "ward",
+    "name_en": "Mauranipur Bus Stand (Urban Ward / SO)",
+    "name_hi": "Mauranipur Bus Stand (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284204"
+    ]
+  },
+  {
+    "id": "town-jhansi-naria-bazar",
+    "type": "ward",
+    "name_en": "Naria Bazar (Urban Ward / SO)",
+    "name_hi": "Naria Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284002"
+    ]
+  },
+  {
+    "id": "town-jhansi-parichha-thermal-power-project",
+    "type": "ward",
+    "name_en": "Parichha Thermal Power Project (Urban Ward / SO)",
+    "name_hi": "Parichha Thermal Power Project (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284305"
+    ]
+  },
+  {
+    "id": "town-jhansi-premnagar-so-jhansi",
+    "type": "ward",
+    "name_en": "Premnagar SO Jhansi (Urban Ward / SO)",
+    "name_hi": "Premnagar SO Jhansi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284003"
+    ]
+  },
+  {
+    "id": "town-jhansi-sipri-bazar",
+    "type": "ward",
+    "name_en": "Sipri Bazar (Urban Ward / SO)",
+    "name_hi": "Sipri Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284003"
+    ]
+  },
+  {
+    "id": "town-jhansi-tori-fatehpur",
+    "type": "ward",
+    "name_en": "Tori Fatehpur (Urban Ward / SO)",
+    "name_hi": "Tori Fatehpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284206"
+    ]
+  },
+  {
+    "id": "town-jhansi-bundelkhand-university",
+    "type": "ward",
+    "name_en": "Bundelkhand University (Urban Ward / SO)",
+    "name_hi": "Bundelkhand University (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284128"
+    ]
+  },
+  {
+    "id": "town-jhansi-chauraha-municipal-board",
+    "type": "ward",
+    "name_en": "Chauraha Municipal Board (Urban Ward / SO)",
+    "name_hi": "Chauraha Municipal Board (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284001"
+    ]
+  },
+  {
+    "id": "town-jhansi-garautha",
+    "type": "ward",
+    "name_en": "Garautha (Urban Ward / SO)",
+    "name_hi": "Garautha (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284203"
+    ]
+  },
+  {
+    "id": "town-jhansi-jhansi-kutchery",
+    "type": "ward",
+    "name_en": "Jhansi Kutchery (Urban Ward / SO)",
+    "name_hi": "Jhansi Kutchery (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284001"
+    ]
+  },
+  {
+    "id": "town-jhansi-jhansi-sadar-bazar",
+    "type": "ward",
+    "name_en": "Jhansi Sadar Bazar (Urban Ward / SO)",
+    "name_hi": "Jhansi Sadar Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jhansi-main",
+    "tehsil_id": "jhansi",
+    "district_id": "jhansi",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "284001"
+    ]
+  }
+]

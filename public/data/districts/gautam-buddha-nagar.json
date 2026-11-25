@@ -22,7 +22,7 @@
       "covers": [
         "gautam-buddha-nagar"
       ],
-      "source_url": "https://gbnagar.nic.in/whos-who/",
+      "source_url": "https://gbnagar.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -52,7 +52,7 @@
       "covers": [
         "gautam-buddha-nagar"
       ],
-      "source_url": "https://gbnagar.nic.in/whos-who/",
+      "source_url": "https://gbnagar.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Mr. Bhal Chandra Tripathi"
@@ -106,7 +106,7 @@
       "covers": [
         "dadri"
       ],
-      "source_url": "https://gbnagar.nic.in/whos-who/",
+      "source_url": "https://gbnagar.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Mr. Arun Kumar"
@@ -130,7 +130,7 @@
       "covers": [
         "jewar"
       ],
-      "source_url": "https://gbnagar.nic.in/whos-who/",
+      "source_url": "https://gbnagar.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Mr. Durgesh Singh"
@@ -162,7 +162,8 @@
       ],
       "source_url": "https://gbnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gautam-buddha-nagar-bdo-bisrakh"
     },
     {
       "id": "up-gautam-buddha-nagar-bdo-dadri",
@@ -191,7 +192,8 @@
       ],
       "source_url": "https://gbnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gautam-buddha-nagar-bdo-dadri"
     },
     {
       "id": "up-gautam-buddha-nagar-bdo-dankaur",
@@ -220,7 +222,8 @@
       ],
       "source_url": "https://gbnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gautam-buddha-nagar-bdo-dankaur"
     },
     {
       "id": "up-gautam-buddha-nagar-bdo-jewar",
@@ -249,7 +252,8 @@
       ],
       "source_url": "https://gbnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gautam-buddha-nagar-bdo-jewar"
     },
     {
       "id": "eo-gautam-buddha-nagar-main",

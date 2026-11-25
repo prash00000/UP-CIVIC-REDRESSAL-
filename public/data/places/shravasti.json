@@ -1,0 +1,1474 @@
+[
+  {
+    "id": "v-shravasti-bhinga",
+    "type": "village",
+    "name_en": "Bhinga Block (Gram Panchayats)",
+    "name_hi": "Bhinga विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-shravasti-hariharpur-rani",
+    "type": "village",
+    "name_en": "Hariharpur Rani Block (Gram Panchayats)",
+    "name_hi": "Hariharpur Rani विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hariharpur-rani",
+    "block_id": "hariharpur-rani",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-shravasti-ikouna",
+    "type": "village",
+    "name_en": "Ikouna Block (Gram Panchayats)",
+    "name_hi": "Ikouna विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-ikouna",
+    "block_id": "ikouna",
+    "tehsil_id": "ikouna",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-shravasti-gilaula",
+    "type": "village",
+    "name_en": "Gilaula Block (Gram Panchayats)",
+    "name_hi": "Gilaula विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gilaula",
+    "block_id": "gilaula",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-shravasti-jamunaha",
+    "type": "village",
+    "name_en": "Jamunaha Block (Gram Panchayats)",
+    "name_hi": "Jamunaha विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-jamunaha",
+    "block_id": "jamunaha",
+    "tehsil_id": "jamunaha",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-shravasti-chahalwa",
+    "type": "village",
+    "name_en": "Chahalwa (Gram Panchayat Area)",
+    "name_hi": "Chahalwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-dudhwania",
+    "type": "village",
+    "name_en": "Dudhwania (Gram Panchayat Area)",
+    "name_hi": "Dudhwania (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-ekgharwa",
+    "type": "village",
+    "name_en": "Ekgharwa (Gram Panchayat Area)",
+    "name_hi": "Ekgharwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-gothwa",
+    "type": "village",
+    "name_en": "Gothwa (Gram Panchayat Area)",
+    "name_hi": "Gothwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-hariharpur-rani",
+    "type": "village",
+    "name_en": "Hariharpur Rani (Gram Panchayat Area)",
+    "name_hi": "Hariharpur Rani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hariharpur-rani",
+    "block_id": "hariharpur-rani",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-pure-gokul-singh",
+    "type": "village",
+    "name_en": "Pure Gokul Singh (Gram Panchayat Area)",
+    "name_hi": "Pure Gokul Singh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-ramgarhi",
+    "type": "village",
+    "name_en": "Ramgarhi (Gram Panchayat Area)",
+    "name_hi": "Ramgarhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-samari-chak-pihani",
+    "type": "village",
+    "name_en": "Samari Chak Pihani (Gram Panchayat Area)",
+    "name_hi": "Samari Chak Pihani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-bairagijot",
+    "type": "village",
+    "name_en": "Bairagijot (Gram Panchayat Area)",
+    "name_hi": "Bairagijot (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-bhangha",
+    "type": "village",
+    "name_en": "Bhangha (Gram Panchayat Area)",
+    "name_hi": "Bhangha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-janki-nagar",
+    "type": "village",
+    "name_en": "Janki Nagar (Gram Panchayat Area)",
+    "name_hi": "Janki Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-jokhwa-bazar",
+    "type": "village",
+    "name_en": "Jokhwa Bazar (Gram Panchayat Area)",
+    "name_hi": "Jokhwa Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-mujehna",
+    "type": "village",
+    "name_en": "Mujehna (Gram Panchayat Area)",
+    "name_hi": "Mujehna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-parsa-deharia",
+    "type": "village",
+    "name_en": "Parsa Deharia (Gram Panchayat Area)",
+    "name_hi": "Parsa Deharia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-aggapur",
+    "type": "village",
+    "name_en": "Aggapur (Gram Panchayat Area)",
+    "name_hi": "Aggapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-akbarapur-semra",
+    "type": "village",
+    "name_en": "Akbarapur Semra (Gram Panchayat Area)",
+    "name_hi": "Akbarapur Semra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-kishun-pur-chand-bhari",
+    "type": "village",
+    "name_en": "Kishun Pur Chand Bhari (Gram Panchayat Area)",
+    "name_hi": "Kishun Pur Chand Bhari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-kotwa",
+    "type": "village",
+    "name_en": "Kotwa (Gram Panchayat Area)",
+    "name_hi": "Kotwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-laxmanpur-bazar",
+    "type": "village",
+    "name_en": "Laxmanpur Bazar (Gram Panchayat Area)",
+    "name_hi": "Laxmanpur Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-machhrihwa",
+    "type": "village",
+    "name_en": "Machhrihwa (Gram Panchayat Area)",
+    "name_hi": "Machhrihwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-naubasta",
+    "type": "village",
+    "name_en": "Naubasta (Gram Panchayat Area)",
+    "name_hi": "Naubasta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-parasrampur",
+    "type": "village",
+    "name_en": "Parasrampur (Gram Panchayat Area)",
+    "name_hi": "Parasrampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-bachkahwa",
+    "type": "village",
+    "name_en": "Bachkahwa (Gram Panchayat Area)",
+    "name_hi": "Bachkahwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-badal-pur",
+    "type": "village",
+    "name_en": "Badal Pur (Gram Panchayat Area)",
+    "name_hi": "Badal Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-beerpur",
+    "type": "village",
+    "name_en": "Beerpur (Gram Panchayat Area)",
+    "name_hi": "Beerpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-bhartha-rosan-garh",
+    "type": "village",
+    "name_en": "Bhartha Rosan Garh (Gram Panchayat Area)",
+    "name_hi": "Bhartha Rosan Garh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-gabbapur",
+    "type": "village",
+    "name_en": "Gabbapur (Gram Panchayat Area)",
+    "name_hi": "Gabbapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-bishunapur",
+    "type": "village",
+    "name_en": "Bishunapur (Gram Panchayat Area)",
+    "name_hi": "Bishunapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-gulara",
+    "type": "village",
+    "name_en": "Gulara (Gram Panchayat Area)",
+    "name_hi": "Gulara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-amwa",
+    "type": "village",
+    "name_en": "Amwa (Gram Panchayat Area)",
+    "name_hi": "Amwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-banthihwa",
+    "type": "village",
+    "name_en": "Banthihwa (Gram Panchayat Area)",
+    "name_hi": "Banthihwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-jogin-bharia",
+    "type": "village",
+    "name_en": "Jogin Bharia (Gram Panchayat Area)",
+    "name_hi": "Jogin Bharia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-patna-khargaura",
+    "type": "village",
+    "name_en": "Patna Khargaura (Gram Panchayat Area)",
+    "name_hi": "Patna Khargaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "po-shravasti-kathara-bazar",
+    "type": "village",
+    "name_en": "Kathara Bazar (Gram Panchayat Area)",
+    "name_hi": "Kathara Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271803"
+    ]
+  },
+  {
+    "id": "po-shravasti-shahpur-bara",
+    "type": "village",
+    "name_en": "Shahpur Bara (Gram Panchayat Area)",
+    "name_hi": "Shahpur Bara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271835"
+    ]
+  },
+  {
+    "id": "po-shravasti-siswara",
+    "type": "village",
+    "name_en": "Siswara (Gram Panchayat Area)",
+    "name_hi": "Siswara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271835"
+    ]
+  },
+  {
+    "id": "po-shravasti-takiya",
+    "type": "village",
+    "name_en": "Takiya (Gram Panchayat Area)",
+    "name_hi": "Takiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271845"
+    ]
+  },
+  {
+    "id": "po-shravasti-tendwa-mahanth",
+    "type": "village",
+    "name_en": "Tendwa Mahanth (Gram Panchayat Area)",
+    "name_hi": "Tendwa Mahanth (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271845"
+    ]
+  },
+  {
+    "id": "po-shravasti-dikuali",
+    "type": "village",
+    "name_en": "Dikuali (Gram Panchayat Area)",
+    "name_hi": "Dikuali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271804"
+    ]
+  },
+  {
+    "id": "po-shravasti-doobkalan",
+    "type": "village",
+    "name_en": "Doobkalan (Gram Panchayat Area)",
+    "name_hi": "Doobkalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271804"
+    ]
+  },
+  {
+    "id": "po-shravasti-hasnapur",
+    "type": "village",
+    "name_en": "Hasnapur (Gram Panchayat Area)",
+    "name_hi": "Hasnapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271804"
+    ]
+  },
+  {
+    "id": "po-shravasti-laxmanpur-semrahniya",
+    "type": "village",
+    "name_en": "Laxmanpur Semrahniya (Gram Panchayat Area)",
+    "name_hi": "Laxmanpur Semrahniya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271804"
+    ]
+  },
+  {
+    "id": "po-shravasti-bhagwanpur-bhaisahi",
+    "type": "village",
+    "name_en": "Bhagwanpur Bhaisahi (Gram Panchayat Area)",
+    "name_hi": "Bhagwanpur Bhaisahi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271803"
+    ]
+  },
+  {
+    "id": "po-shravasti-gopala-sarai",
+    "type": "village",
+    "name_en": "Gopala Sarai (Gram Panchayat Area)",
+    "name_hi": "Gopala Sarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271803"
+    ]
+  },
+  {
+    "id": "po-shravasti-jamunaha-heera-singh",
+    "type": "village",
+    "name_en": "Jamunaha Heera Singh (Gram Panchayat Area)",
+    "name_hi": "Jamunaha Heera Singh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-jamunaha",
+    "block_id": "jamunaha",
+    "tehsil_id": "jamunaha",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271803"
+    ]
+  },
+  {
+    "id": "po-shravasti-maharu-murtiha",
+    "type": "village",
+    "name_en": "Maharu Murtiha (Gram Panchayat Area)",
+    "name_hi": "Maharu Murtiha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271803"
+    ]
+  },
+  {
+    "id": "po-shravasti-shikari-chanda",
+    "type": "village",
+    "name_en": "Shikari Chanda (Gram Panchayat Area)",
+    "name_hi": "Shikari Chanda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271803"
+    ]
+  },
+  {
+    "id": "po-shravasti-sitkahana",
+    "type": "village",
+    "name_en": "Sitkahana (Gram Panchayat Area)",
+    "name_hi": "Sitkahana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271803"
+    ]
+  },
+  {
+    "id": "po-shravasti-babhni",
+    "type": "village",
+    "name_en": "Babhni (Gram Panchayat Area)",
+    "name_hi": "Babhni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-chetia-murar",
+    "type": "village",
+    "name_en": "Chetia Murar (Gram Panchayat Area)",
+    "name_hi": "Chetia Murar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271835"
+    ]
+  },
+  {
+    "id": "po-shravasti-dharsawan",
+    "type": "village",
+    "name_en": "Dharsawan (Gram Panchayat Area)",
+    "name_hi": "Dharsawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271835"
+    ]
+  },
+  {
+    "id": "po-shravasti-jaichandpur",
+    "type": "village",
+    "name_en": "Jaichandpur (Gram Panchayat Area)",
+    "name_hi": "Jaichandpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271835"
+    ]
+  },
+  {
+    "id": "po-shravasti-balapur",
+    "type": "village",
+    "name_en": "Balapur (Gram Panchayat Area)",
+    "name_hi": "Balapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271845"
+    ]
+  },
+  {
+    "id": "po-shravasti-bhutaha",
+    "type": "village",
+    "name_en": "Bhutaha (Gram Panchayat Area)",
+    "name_hi": "Bhutaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271845"
+    ]
+  },
+  {
+    "id": "po-shravasti-dhanuhi",
+    "type": "village",
+    "name_en": "Dhanuhi (Gram Panchayat Area)",
+    "name_hi": "Dhanuhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271845"
+    ]
+  },
+  {
+    "id": "po-shravasti-ganeshpur",
+    "type": "village",
+    "name_en": "Ganeshpur (Gram Panchayat Area)",
+    "name_hi": "Ganeshpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271845"
+    ]
+  },
+  {
+    "id": "po-shravasti-amrahwa",
+    "type": "village",
+    "name_en": "Amrahwa (Gram Panchayat Area)",
+    "name_hi": "Amrahwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271803"
+    ]
+  },
+  {
+    "id": "po-shravasti-jamdan",
+    "type": "village",
+    "name_en": "Jamdan (Gram Panchayat Area)",
+    "name_hi": "Jamdan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271803"
+    ]
+  },
+  {
+    "id": "po-shravasti-kalkalwa",
+    "type": "village",
+    "name_en": "Kalkalwa (Gram Panchayat Area)",
+    "name_hi": "Kalkalwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271803"
+    ]
+  },
+  {
+    "id": "po-shravasti-mahdeiya",
+    "type": "village",
+    "name_en": "Mahdeiya (Gram Panchayat Area)",
+    "name_hi": "Mahdeiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271805"
+    ]
+  },
+  {
+    "id": "po-shravasti-beer-pur-khairaniya",
+    "type": "village",
+    "name_en": "Beer Pur Khairaniya (Gram Panchayat Area)",
+    "name_hi": "Beer Pur Khairaniya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271201"
+    ]
+  },
+  {
+    "id": "po-shravasti-bhatpurwa-kala",
+    "type": "village",
+    "name_en": "Bhatpurwa Kala (Gram Panchayat Area)",
+    "name_hi": "Bhatpurwa Kala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271201"
+    ]
+  },
+  {
+    "id": "po-shravasti-kanibojhi",
+    "type": "village",
+    "name_en": "Kanibojhi (Gram Panchayat Area)",
+    "name_hi": "Kanibojhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271803"
+    ]
+  },
+  {
+    "id": "po-shravasti-laxmanpur-kothi",
+    "type": "village",
+    "name_en": "Laxmanpur Kothi (Gram Panchayat Area)",
+    "name_hi": "Laxmanpur Kothi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271803"
+    ]
+  },
+  {
+    "id": "po-shravasti-puredeen-namgarh",
+    "type": "village",
+    "name_en": "Puredeen Namgarh (Gram Panchayat Area)",
+    "name_hi": "Puredeen Namgarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271805"
+    ]
+  },
+  {
+    "id": "po-shravasti-katha",
+    "type": "village",
+    "name_en": "Katha (Gram Panchayat Area)",
+    "name_hi": "Katha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271835"
+    ]
+  },
+  {
+    "id": "po-shravasti-rampur-painda",
+    "type": "village",
+    "name_en": "Rampur Painda (Gram Panchayat Area)",
+    "name_hi": "Rampur Painda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271835"
+    ]
+  },
+  {
+    "id": "po-shravasti-vijaypur-sisawan",
+    "type": "village",
+    "name_en": "Vijaypur Sisawan (Gram Panchayat Area)",
+    "name_hi": "Vijaypur Sisawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271835"
+    ]
+  },
+  {
+    "id": "po-shravasti-khargaura-janoob",
+    "type": "village",
+    "name_en": "Khargaura Janoob (Gram Panchayat Area)",
+    "name_hi": "Khargaura Janoob (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271845"
+    ]
+  },
+  {
+    "id": "po-shravasti-manoharapur",
+    "type": "village",
+    "name_en": "Manoharapur (Gram Panchayat Area)",
+    "name_hi": "Manoharapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271845"
+    ]
+  },
+  {
+    "id": "po-shravasti-bhausawan",
+    "type": "village",
+    "name_en": "Bhausawan (Gram Panchayat Area)",
+    "name_hi": "Bhausawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271804"
+    ]
+  },
+  {
+    "id": "po-shravasti-ramnagra",
+    "type": "village",
+    "name_en": "Ramnagra (Gram Panchayat Area)",
+    "name_hi": "Ramnagra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271804"
+    ]
+  },
+  {
+    "id": "po-shravasti-sonwan",
+    "type": "village",
+    "name_en": "Sonwan (Gram Panchayat Area)",
+    "name_hi": "Sonwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271804"
+    ]
+  },
+  {
+    "id": "po-shravasti-raideeh",
+    "type": "village",
+    "name_en": "Raideeh (Gram Panchayat Area)",
+    "name_hi": "Raideeh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271835"
+    ]
+  },
+  {
+    "id": "po-shravasti-semgarha",
+    "type": "village",
+    "name_en": "Semgarha (Gram Panchayat Area)",
+    "name_hi": "Semgarha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271835"
+    ]
+  },
+  {
+    "id": "po-shravasti-khajurar",
+    "type": "village",
+    "name_en": "Khajurar (Gram Panchayat Area)",
+    "name_hi": "Khajurar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271845"
+    ]
+  },
+  {
+    "id": "po-shravasti-madara",
+    "type": "village",
+    "name_en": "Madara (Gram Panchayat Area)",
+    "name_hi": "Madara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271845"
+    ]
+  },
+  {
+    "id": "po-shravasti-sonrai",
+    "type": "village",
+    "name_en": "Sonrai (Gram Panchayat Area)",
+    "name_hi": "Sonrai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271845"
+    ]
+  },
+  {
+    "id": "po-shravasti-nasirganj",
+    "type": "village",
+    "name_en": "Nasirganj (Gram Panchayat Area)",
+    "name_hi": "Nasirganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271804"
+    ]
+  },
+  {
+    "id": "po-shravasti-shahpur-kathotia",
+    "type": "village",
+    "name_en": "Shahpur Kathotia (Gram Panchayat Area)",
+    "name_hi": "Shahpur Kathotia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271804"
+    ]
+  },
+  {
+    "id": "po-shravasti-hempur",
+    "type": "village",
+    "name_en": "Hempur (Gram Panchayat Area)",
+    "name_hi": "Hempur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-shankarpur",
+    "type": "village",
+    "name_en": "Shankarpur (Gram Panchayat Area)",
+    "name_hi": "Shankarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-taal-baghaura",
+    "type": "village",
+    "name_en": "Taal Baghaura (Gram Panchayat Area)",
+    "name_hi": "Taal Baghaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-pure-wale",
+    "type": "village",
+    "name_en": "Pure Wale (Gram Panchayat Area)",
+    "name_hi": "Pure Wale (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-shahpur-bargadwa",
+    "type": "village",
+    "name_en": "Shahpur Bargadwa (Gram Panchayat Area)",
+    "name_hi": "Shahpur Bargadwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-katkuiya",
+    "type": "village",
+    "name_en": "Katkuiya (Gram Panchayat Area)",
+    "name_hi": "Katkuiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-madhwapur",
+    "type": "village",
+    "name_en": "Madhwapur (Gram Panchayat Area)",
+    "name_hi": "Madhwapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-medikiya",
+    "type": "village",
+    "name_en": "Medikiya (Gram Panchayat Area)",
+    "name_hi": "Medikiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-motipur",
+    "type": "village",
+    "name_en": "Motipur (Gram Panchayat Area)",
+    "name_hi": "Motipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-jabdi",
+    "type": "village",
+    "name_en": "Jabdi (Gram Panchayat Area)",
+    "name_hi": "Jabdi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-pure-prasad",
+    "type": "village",
+    "name_en": "Pure Prasad (Gram Panchayat Area)",
+    "name_hi": "Pure Prasad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-ranipur",
+    "type": "village",
+    "name_en": "Ranipur (Gram Panchayat Area)",
+    "name_hi": "Ranipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-sonbarsa",
+    "type": "village",
+    "name_en": "Sonbarsa (Gram Panchayat Area)",
+    "name_hi": "Sonbarsa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "po-shravasti-titiharia",
+    "type": "village",
+    "name_en": "Titiharia (Gram Panchayat Area)",
+    "name_hi": "Titiharia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhinga",
+    "block_id": "bhinga",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "271840"
+    ]
+  },
+  {
+    "id": "ward-shravasti-ulb-shravasti-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Shravasti (All Wards)",
+    "name_hi": "श्रावस्ती नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-shravasti-main",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-shravasti-gilaula",
+    "type": "ward",
+    "name_en": "Gilaula (Urban Ward / SO)",
+    "name_hi": "Gilaula (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-shravasti-main",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "271835"
+    ]
+  },
+  {
+    "id": "town-shravasti-ikauna",
+    "type": "ward",
+    "name_en": "Ikauna (Urban Ward / SO)",
+    "name_hi": "Ikauna (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-shravasti-main",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "271845"
+    ]
+  },
+  {
+    "id": "town-shravasti-laxman-nagar-bazar",
+    "type": "ward",
+    "name_en": "Laxman Nagar Bazar (Urban Ward / SO)",
+    "name_hi": "Laxman Nagar Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-shravasti-main",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "271804"
+    ]
+  },
+  {
+    "id": "town-shravasti-patna-malhipur",
+    "type": "ward",
+    "name_en": "Patna Malhipur (Urban Ward / SO)",
+    "name_hi": "Patna Malhipur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-shravasti-main",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "271803"
+    ]
+  },
+  {
+    "id": "town-shravasti-bhinga",
+    "type": "ward",
+    "name_en": "Bhinga (Urban Ward / SO)",
+    "name_hi": "Bhinga (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-shravasti-main",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "271831"
+    ]
+  },
+  {
+    "id": "town-shravasti-shravasti",
+    "type": "ward",
+    "name_en": "Shravasti (Urban Ward / SO)",
+    "name_hi": "Shravasti (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-shravasti-main",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "271805"
+    ]
+  },
+  {
+    "id": "town-shravasti-sirsia",
+    "type": "ward",
+    "name_en": "Sirsia (Urban Ward / SO)",
+    "name_hi": "Sirsia (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-shravasti-main",
+    "tehsil_id": "bhinga",
+    "district_id": "shravasti",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "271840"
+    ]
+  }
+]

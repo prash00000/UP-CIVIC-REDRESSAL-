@@ -29,7 +29,7 @@
       "covers": [
         "jalaun"
       ],
-      "source_url": "https://jalaun.nic.in/whos-who/",
+      "source_url": "https://jalaun.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "District Magistrate Office Jalaun at Orai"
@@ -53,7 +53,7 @@
       "covers": [
         "jalaun"
       ],
-      "source_url": "https://jalaun.nic.in/whos-who/",
+      "source_url": "https://jalaun.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Mr. Kumudendra Kalakar Singh",
@@ -93,9 +93,9 @@
       "covers": [
         "orai"
       ],
-      "source_url": "https://jalaun.nic.in/whos-who/",
+      "source_url": "https://jalaun.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jalaun-sdm-jalaun",
@@ -116,9 +116,9 @@
       "covers": [
         "jalaun"
       ],
-      "source_url": "https://jalaun.nic.in/whos-who/",
+      "source_url": "https://jalaun.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jalaun-sdm-konch",
@@ -139,9 +139,9 @@
       "covers": [
         "konch"
       ],
-      "source_url": "https://jalaun.nic.in/whos-who/",
+      "source_url": "https://jalaun.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jalaun-sdm-kalpi",
@@ -162,9 +162,9 @@
       "covers": [
         "kalpi"
       ],
-      "source_url": "https://jalaun.nic.in/whos-who/",
+      "source_url": "https://jalaun.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jalaun-sdm-madhogarh",
@@ -185,9 +185,9 @@
       "covers": [
         "madhogarh"
       ],
-      "source_url": "https://jalaun.nic.in/whos-who/",
+      "source_url": "https://jalaun.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jalaun-bdo-dakore",
@@ -216,7 +216,8 @@
       ],
       "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jalaun-bdo-dakore"
     },
     {
       "id": "up-jalaun-bdo-jalaun",
@@ -245,7 +246,8 @@
       ],
       "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jalaun-bdo-jalaun"
     },
     {
       "id": "up-jalaun-bdo-konch",
@@ -274,7 +276,8 @@
       ],
       "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jalaun-bdo-konch"
     },
     {
       "id": "up-jalaun-bdo-nadi-gaon",
@@ -303,7 +306,8 @@
       ],
       "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jalaun-bdo-nadi-gaon"
     },
     {
       "id": "up-jalaun-bdo-kalpi",
@@ -332,7 +336,8 @@
       ],
       "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jalaun-bdo-kalpi"
     },
     {
       "id": "up-jalaun-bdo-maheva",
@@ -361,7 +366,8 @@
       ],
       "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jalaun-bdo-maheva"
     },
     {
       "id": "up-jalaun-bdo-madhogarh",
@@ -390,7 +396,8 @@
       ],
       "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jalaun-bdo-madhogarh"
     },
     {
       "id": "up-jalaun-bdo-rampura",
@@ -419,7 +426,8 @@
       ],
       "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jalaun-bdo-rampura"
     },
     {
       "id": "up-jalaun-bdo-kadaura",
@@ -448,7 +456,8 @@
       ],
       "source_url": "https://jalaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jalaun-bdo-kadaura"
     },
     {
       "id": "eo-jalaun-main",

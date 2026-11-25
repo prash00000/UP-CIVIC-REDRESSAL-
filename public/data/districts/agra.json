@@ -22,7 +22,7 @@
       "covers": [
         "agra"
       ],
-      "source_url": "https://agra.nic.in/whos-who/",
+      "source_url": "https://agra.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "District Magistrate Collectorate Agra"
@@ -76,7 +76,7 @@
       "covers": [
         "sadar"
       ],
-      "source_url": "https://agra.nic.in/whos-who/",
+      "source_url": "https://agra.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Sub Division Magistrate Sadar",
@@ -116,7 +116,7 @@
       "covers": [
         "fatehabad"
       ],
-      "source_url": "https://agra.nic.in/whos-who/",
+      "source_url": "https://agra.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Sub District Magistrate Fatehabad",
@@ -141,7 +141,7 @@
       "covers": [
         "kheragarh"
       ],
-      "source_url": "https://agra.nic.in/whos-who/",
+      "source_url": "https://agra.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Sub District Magistrate Kheragarh",
@@ -166,7 +166,7 @@
       "covers": [
         "bah"
       ],
-      "source_url": "https://agra.nic.in/whos-who/",
+      "source_url": "https://agra.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Sub District Magistrate Bah",
@@ -214,7 +214,8 @@
       ],
       "source_url": "https://agra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-agra-bdo-achhnera"
     },
     {
       "id": "sec-achhnera-1",
@@ -274,7 +275,8 @@
       ],
       "source_url": "https://agra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-agra-bdo-akola"
     },
     {
       "id": "sec-akola-1",
@@ -334,7 +336,8 @@
       ],
       "source_url": "https://agra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-agra-bdo-bah"
     },
     {
       "id": "sec-bah-1",
@@ -394,7 +397,8 @@
       ],
       "source_url": "https://agra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-agra-bdo-barauli-ahir"
     },
     {
       "id": "sec-barauli-ahir-1",
@@ -454,7 +458,8 @@
       ],
       "source_url": "https://agra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-agra-bdo-bichpuri"
     },
     {
       "id": "sec-bichpuri-1",
@@ -514,7 +519,8 @@
       ],
       "source_url": "https://agra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-agra-bdo-etmadpur"
     },
     {
       "id": "sec-etmadpur-1",
@@ -574,7 +580,8 @@
       ],
       "source_url": "https://agra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-agra-bdo-fatehabad"
     },
     {
       "id": "sec-fatehabad-1",
@@ -634,7 +641,8 @@
       ],
       "source_url": "https://agra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-agra-bdo-fatehpur-sikri"
     },
     {
       "id": "sec-fatehpur-sikri-1",
@@ -694,7 +702,8 @@
       ],
       "source_url": "https://agra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-agra-bdo-jagner"
     },
     {
       "id": "sec-jagner-1",
@@ -754,7 +763,8 @@
       ],
       "source_url": "https://agra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-agra-bdo-khandauli"
     },
     {
       "id": "sec-khandauli-1",
@@ -814,7 +824,8 @@
       ],
       "source_url": "https://agra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-agra-bdo-kheragarh"
     },
     {
       "id": "sec-kheragarh-1",
@@ -874,7 +885,8 @@
       ],
       "source_url": "https://agra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-agra-bdo-pinahat"
     },
     {
       "id": "sec-pinahat-1",
@@ -934,7 +946,8 @@
       ],
       "source_url": "https://agra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-agra-bdo-saiyan"
     },
     {
       "id": "sec-saiyan-1",
@@ -994,7 +1007,8 @@
       ],
       "source_url": "https://agra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-agra-bdo-samsabad"
     },
     {
       "id": "sec-samsabad-1",
@@ -1054,7 +1068,8 @@
       ],
       "source_url": "https://agra.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-agra-bdo-jaitpur-kalan"
     },
     {
       "id": "sec-jaitpur-kalan-1",
@@ -1093,13 +1108,30 @@
       "role": "commissioner",
       "office_name_en": "Municipal Commissioner, Nagar Nigam Agra",
       "office_name_hi": "नगर आयुक्त, नगर निगम आगरा",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8189077813",
+          "type": "cug",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0562-2850499",
+          "type": "landline",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-agra-main"
       ],
       "source_url": "https://agra.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "email": "8189077813amcagra@yahoo.com",
+      "officer_name_en": "श्री अंकित खण्डेलवाल"
     }
   ]
 }

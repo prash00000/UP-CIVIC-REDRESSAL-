@@ -1,0 +1,1250 @@
+[
+  {
+    "id": "v-chitrakoot-karwi",
+    "type": "village",
+    "name_en": "Karwi Block (Gram Panchayats)",
+    "name_hi": "Karwi विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-chitrakoot-pahari",
+    "type": "village",
+    "name_en": "Pahari Block (Gram Panchayats)",
+    "name_hi": "Pahari विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pahari",
+    "block_id": "pahari",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-chitrakoot-manikpur",
+    "type": "village",
+    "name_en": "Manikpur Block (Gram Panchayats)",
+    "name_hi": "Manikpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-manikpur",
+    "block_id": "manikpur",
+    "tehsil_id": "manikpur",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-chitrakoot-mau",
+    "type": "village",
+    "name_en": "Mau Block (Gram Panchayats)",
+    "name_hi": "Mau विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mau",
+    "block_id": "mau",
+    "tehsil_id": "mau",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-chitrakoot-ramnagar",
+    "type": "village",
+    "name_en": "Ramnagar Block (Gram Panchayats)",
+    "name_hi": "Ramnagar विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-ramnagar",
+    "block_id": "ramnagar",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-chitrakoot-chandramara",
+    "type": "village",
+    "name_en": "Chandramara (Gram Panchayat Area)",
+    "name_hi": "Chandramara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-itwan",
+    "type": "village",
+    "name_en": "Itwan (Gram Panchayat Area)",
+    "name_hi": "Itwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-lodhwara",
+    "type": "village",
+    "name_en": "Lodhwara (Gram Panchayat Area)",
+    "name_hi": "Lodhwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-sigwan",
+    "type": "village",
+    "name_en": "Sigwan (Gram Panchayat Area)",
+    "name_hi": "Sigwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210208"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-unchadih",
+    "type": "village",
+    "name_en": "Unchadih (Gram Panchayat Area)",
+    "name_hi": "Unchadih (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210208"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-manka",
+    "type": "village",
+    "name_en": "Manka (Gram Panchayat Area)",
+    "name_hi": "Manka (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210208"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-hanna-vinaika",
+    "type": "village",
+    "name_en": "Hanna Vinaika (Gram Panchayat Area)",
+    "name_hi": "Hanna Vinaika (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210209"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-khandeho",
+    "type": "village",
+    "name_en": "Khandeho (Gram Panchayat Area)",
+    "name_hi": "Khandeho (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210209"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-khaptiha",
+    "type": "village",
+    "name_en": "Khaptiha (Gram Panchayat Area)",
+    "name_hi": "Khaptiha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210209"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-agarahunda",
+    "type": "village",
+    "name_en": "Agarahunda (Gram Panchayat Area)",
+    "name_hi": "Agarahunda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-ainchwara",
+    "type": "village",
+    "name_en": "Ainchwara (Gram Panchayat Area)",
+    "name_hi": "Ainchwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-ragauli",
+    "type": "village",
+    "name_en": "Ragauli (Gram Panchayat Area)",
+    "name_hi": "Ragauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-raipura",
+    "type": "village",
+    "name_en": "Raipura (Gram Panchayat Area)",
+    "name_hi": "Raipura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-rukma-khurd",
+    "type": "village",
+    "name_en": "Rukma khurd (Gram Panchayat Area)",
+    "name_hi": "Rukma khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-bharatkoop",
+    "type": "village",
+    "name_en": "Bharatkoop (Gram Panchayat Area)",
+    "name_hi": "Bharatkoop (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-chakla",
+    "type": "village",
+    "name_en": "Chakla (Gram Panchayat Area)",
+    "name_hi": "Chakla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-nai-bazar-karwi",
+    "type": "village",
+    "name_en": "Nai Bazar Karwi (Gram Panchayat Area)",
+    "name_hi": "Nai Bazar Karwi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-sheorampur",
+    "type": "village",
+    "name_en": "Sheorampur (Gram Panchayat Area)",
+    "name_hi": "Sheorampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-goiya-kalan",
+    "type": "village",
+    "name_en": "Goiya Kalan (Gram Panchayat Area)",
+    "name_hi": "Goiya Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210208"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-itwan-dundela",
+    "type": "village",
+    "name_en": "Itwan Dundela (Gram Panchayat Area)",
+    "name_hi": "Itwan Dundela (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210208"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-saraiya",
+    "type": "village",
+    "name_en": "Saraiya (Gram Panchayat Area)",
+    "name_hi": "Saraiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210208"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-chhibon",
+    "type": "village",
+    "name_en": "Chhibon (Gram Panchayat Area)",
+    "name_hi": "Chhibon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210209"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-hatwa",
+    "type": "village",
+    "name_en": "Hatwa (Gram Panchayat Area)",
+    "name_hi": "Hatwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210209"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-mandaur",
+    "type": "village",
+    "name_en": "Mandaur (Gram Panchayat Area)",
+    "name_hi": "Mandaur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210209"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-pardawan",
+    "type": "village",
+    "name_en": "Pardawan (Gram Panchayat Area)",
+    "name_hi": "Pardawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210209"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-semardaha",
+    "type": "village",
+    "name_en": "Semardaha (Gram Panchayat Area)",
+    "name_hi": "Semardaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-bargarh",
+    "type": "village",
+    "name_en": "Bargarh (Gram Panchayat Area)",
+    "name_hi": "Bargarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210208"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-markundi",
+    "type": "village",
+    "name_en": "Markundi (Gram Panchayat Area)",
+    "name_hi": "Markundi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210208"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-murka",
+    "type": "village",
+    "name_en": "Murka (Gram Panchayat Area)",
+    "name_hi": "Murka (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210208"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-barha-kotra",
+    "type": "village",
+    "name_en": "Barha Kotra (Gram Panchayat Area)",
+    "name_hi": "Barha Kotra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210209"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-barua",
+    "type": "village",
+    "name_en": "Barua (Gram Panchayat Area)",
+    "name_hi": "Barua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210209"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-purab-patai",
+    "type": "village",
+    "name_en": "Purab Patai (Gram Panchayat Area)",
+    "name_hi": "Purab Patai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210209"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-ram-nagar",
+    "type": "village",
+    "name_en": "Ram Nagar (Gram Panchayat Area)",
+    "name_hi": "Ram Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-ramnagar",
+    "block_id": "ramnagar",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210209"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-sirwawal",
+    "type": "village",
+    "name_en": "Sirwawal (Gram Panchayat Area)",
+    "name_hi": "Sirwawal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210209"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-rauli-kalyanpur",
+    "type": "village",
+    "name_en": "Rauli Kalyanpur (Gram Panchayat Area)",
+    "name_hi": "Rauli Kalyanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210202"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-khohi",
+    "type": "village",
+    "name_en": "Khohi (Gram Panchayat Area)",
+    "name_hi": "Khohi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210204"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-semaria-jagannath-basi",
+    "type": "village",
+    "name_en": "Semaria Jagannath basi (Gram Panchayat Area)",
+    "name_hi": "Semaria Jagannath basi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210204"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-ghuretanpur",
+    "type": "village",
+    "name_en": "Ghuretanpur (Gram Panchayat Area)",
+    "name_hi": "Ghuretanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210202"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-titihara",
+    "type": "village",
+    "name_en": "Titihara (Gram Panchayat Area)",
+    "name_hi": "Titihara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210202"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-bhaisaundha",
+    "type": "village",
+    "name_en": "Bhaisaundha (Gram Panchayat Area)",
+    "name_hi": "Bhaisaundha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210204"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-audaha",
+    "type": "village",
+    "name_en": "Audaha (Gram Panchayat Area)",
+    "name_hi": "Audaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210206"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-basila",
+    "type": "village",
+    "name_en": "Basila (Gram Panchayat Area)",
+    "name_hi": "Basila (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-bhauri",
+    "type": "village",
+    "name_en": "Bhauri (Gram Panchayat Area)",
+    "name_hi": "Bhauri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-purwa-tarauha",
+    "type": "village",
+    "name_en": "Purwa Tarauha (Gram Panchayat Area)",
+    "name_hi": "Purwa Tarauha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-semaria-charandasi",
+    "type": "village",
+    "name_en": "Semaria Charandasi (Gram Panchayat Area)",
+    "name_hi": "Semaria Charandasi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-sidhpur",
+    "type": "village",
+    "name_en": "Sidhpur (Gram Panchayat Area)",
+    "name_hi": "Sidhpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-garchappa",
+    "type": "village",
+    "name_en": "Garchappa (Gram Panchayat Area)",
+    "name_hi": "Garchappa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210208"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-kaubra",
+    "type": "village",
+    "name_en": "Kaubra (Gram Panchayat Area)",
+    "name_hi": "Kaubra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210208"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-baria",
+    "type": "village",
+    "name_en": "Baria (Gram Panchayat Area)",
+    "name_hi": "Baria (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210209"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-biyawal",
+    "type": "village",
+    "name_en": "Biyawal (Gram Panchayat Area)",
+    "name_hi": "Biyawal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210209"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-lauri",
+    "type": "village",
+    "name_en": "Lauri (Gram Panchayat Area)",
+    "name_hi": "Lauri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210209"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-nibi",
+    "type": "village",
+    "name_en": "Nibi (Gram Panchayat Area)",
+    "name_hi": "Nibi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210209"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-asoh",
+    "type": "village",
+    "name_en": "Asoh (Gram Panchayat Area)",
+    "name_hi": "Asoh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210206"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-bachharan",
+    "type": "village",
+    "name_en": "Bachharan (Gram Panchayat Area)",
+    "name_hi": "Bachharan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210206"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-rasin",
+    "type": "village",
+    "name_en": "Rasin (Gram Panchayat Area)",
+    "name_hi": "Rasin (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210202"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-jankikund",
+    "type": "village",
+    "name_en": "Jankikund (Gram Panchayat Area)",
+    "name_hi": "Jankikund (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210204"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-baramafi",
+    "type": "village",
+    "name_en": "Baramafi (Gram Panchayat Area)",
+    "name_hi": "Baramafi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210206"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-hardoli",
+    "type": "village",
+    "name_en": "Hardoli (Gram Panchayat Area)",
+    "name_hi": "Hardoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210206"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-nadintaura",
+    "type": "village",
+    "name_en": "Nadintaura (Gram Panchayat Area)",
+    "name_hi": "Nadintaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210206"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-parsaunja",
+    "type": "village",
+    "name_en": "Parsaunja (Gram Panchayat Area)",
+    "name_hi": "Parsaunja (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210206"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-kalwalia",
+    "type": "village",
+    "name_en": "Kalwalia (Gram Panchayat Area)",
+    "name_hi": "Kalwalia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210207"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-beohara",
+    "type": "village",
+    "name_en": "Beohara (Gram Panchayat Area)",
+    "name_hi": "Beohara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210206"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-chaura",
+    "type": "village",
+    "name_en": "Chaura (Gram Panchayat Area)",
+    "name_hi": "Chaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210206"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-darsenda",
+    "type": "village",
+    "name_en": "Darsenda (Gram Panchayat Area)",
+    "name_hi": "Darsenda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210206"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-ganiwa-parsidhpur",
+    "type": "village",
+    "name_en": "Ganiwa Parsidhpur (Gram Panchayat Area)",
+    "name_hi": "Ganiwa Parsidhpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210206"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-bardwara",
+    "type": "village",
+    "name_en": "Bardwara (Gram Panchayat Area)",
+    "name_hi": "Bardwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210207"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-bhadedu",
+    "type": "village",
+    "name_en": "Bhadedu (Gram Panchayat Area)",
+    "name_hi": "Bhadedu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210207"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-kapna-itaura",
+    "type": "village",
+    "name_en": "Kapna Itaura (Gram Panchayat Area)",
+    "name_hi": "Kapna Itaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210206"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-karwara-bujurg",
+    "type": "village",
+    "name_en": "Karwara Bujurg (Gram Panchayat Area)",
+    "name_hi": "Karwara Bujurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210206"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-lohda",
+    "type": "village",
+    "name_en": "Lohda (Gram Panchayat Area)",
+    "name_hi": "Lohda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210206"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-biharwan",
+    "type": "village",
+    "name_en": "Biharwan (Gram Panchayat Area)",
+    "name_hi": "Biharwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210207"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-mamsi-bujurg",
+    "type": "village",
+    "name_en": "Mamsi Bujurg (Gram Panchayat Area)",
+    "name_hi": "Mamsi Bujurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210207"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-nandin-kurmiyan",
+    "type": "village",
+    "name_en": "Nandin Kurmiyan (Gram Panchayat Area)",
+    "name_hi": "Nandin Kurmiyan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210207"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-sardhuwa",
+    "type": "village",
+    "name_en": "Sardhuwa (Gram Panchayat Area)",
+    "name_hi": "Sardhuwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210207"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-ora",
+    "type": "village",
+    "name_en": "Ora (Gram Panchayat Area)",
+    "name_hi": "Ora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210206"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-chillimal",
+    "type": "village",
+    "name_en": "Chillimal (Gram Panchayat Area)",
+    "name_hi": "Chillimal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210207"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-karaundi-kalan",
+    "type": "village",
+    "name_en": "Karaundi Kalan (Gram Panchayat Area)",
+    "name_hi": "Karaundi Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210207"
+    ]
+  },
+  {
+    "id": "po-chitrakoot-khatwara",
+    "type": "village",
+    "name_en": "Khatwara (Gram Panchayat Area)",
+    "name_hi": "Khatwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karwi",
+    "block_id": "karwi",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210207"
+    ]
+  },
+  {
+    "id": "ward-chitrakoot-ulb-chitrakoot-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Chitrakoot (All Wards)",
+    "name_hi": "चित्रकूट नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-chitrakoot-main",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-chitrakoot-karwi-mdg",
+    "type": "ward",
+    "name_en": "Karwi MDG (Urban Ward / SO)",
+    "name_hi": "Karwi MDG (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-chitrakoot-main",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "town-chitrakoot-chitrakot",
+    "type": "ward",
+    "name_en": "Chitrakot (Urban Ward / SO)",
+    "name_hi": "Chitrakot (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-chitrakoot-main",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "210204"
+    ]
+  },
+  {
+    "id": "town-chitrakoot-manikpur-so-chitrakoot",
+    "type": "ward",
+    "name_en": "Manikpur SO Chitrakoot (Urban Ward / SO)",
+    "name_hi": "Manikpur SO Chitrakoot (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-chitrakoot-main",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "210208"
+    ]
+  },
+  {
+    "id": "town-chitrakoot-mauchhibu",
+    "type": "ward",
+    "name_en": "Mauchhibu (Urban Ward / SO)",
+    "name_hi": "Mauchhibu (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-chitrakoot-main",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "210209"
+    ]
+  },
+  {
+    "id": "town-chitrakoot-pahari-so-chitrakoot",
+    "type": "ward",
+    "name_en": "Pahari SO Chitrakoot (Urban Ward / SO)",
+    "name_hi": "Pahari SO Chitrakoot (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-chitrakoot-main",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "210206"
+    ]
+  },
+  {
+    "id": "town-chitrakoot-karwi-rs",
+    "type": "ward",
+    "name_en": "Karwi RS (Urban Ward / SO)",
+    "name_hi": "Karwi RS (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-chitrakoot-main",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "210205"
+    ]
+  },
+  {
+    "id": "town-chitrakoot-rajapur-so-chitrakoot",
+    "type": "ward",
+    "name_en": "Rajapur SO Chitrakoot (Urban Ward / SO)",
+    "name_hi": "Rajapur SO Chitrakoot (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-chitrakoot-main",
+    "tehsil_id": "karwi",
+    "district_id": "chitrakoot",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "210207"
+    ]
+  }
+]

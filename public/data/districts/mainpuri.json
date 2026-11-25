@@ -21,9 +21,9 @@
       "covers": [
         "mainpuri"
       ],
-      "source_url": "https://mainpuri.nic.in/whos-who/",
+      "source_url": "https://mainpuri.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mainpuri-cdo",
@@ -44,7 +44,7 @@
       "covers": [
         "mainpuri"
       ],
-      "source_url": "https://mainpuri.nic.in/whos-who/",
+      "source_url": "https://mainpuri.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri. Santosh Bahadur Singh",
@@ -61,9 +61,9 @@
       "covers": [
         "mainpuri"
       ],
-      "source_url": "https://mainpuri.nic.in/whos-who/",
+      "source_url": "https://mainpuri.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mainpuri-sdm-mainpuri",
@@ -76,9 +76,11 @@
       "covers": [
         "mainpuri"
       ],
-      "source_url": "https://mainpuri.nic.in/whos-who/",
+      "source_url": "https://mainpuri.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Dr. Indramani Tripathi, I.A.S.",
+      "address_en": "Collectorate Campus Mainpuri- 205001 (UP)"
     },
     {
       "id": "up-mainpuri-sdm-bhongaon",
@@ -91,9 +93,9 @@
       "covers": [
         "bhongaon"
       ],
-      "source_url": "https://mainpuri.nic.in/whos-who/",
+      "source_url": "https://mainpuri.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mainpuri-sdm-karhal",
@@ -106,9 +108,9 @@
       "covers": [
         "karhal"
       ],
-      "source_url": "https://mainpuri.nic.in/whos-who/",
+      "source_url": "https://mainpuri.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mainpuri-sdm-kishni",
@@ -121,9 +123,9 @@
       "covers": [
         "kishni"
       ],
-      "source_url": "https://mainpuri.nic.in/whos-who/",
+      "source_url": "https://mainpuri.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mainpuri-sdm-kurawali",
@@ -136,9 +138,9 @@
       "covers": [
         "kurawali"
       ],
-      "source_url": "https://mainpuri.nic.in/whos-who/",
+      "source_url": "https://mainpuri.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mainpuri-bdo-mainpuri",
@@ -151,9 +153,9 @@
       "covers": [
         "mainpuri"
       ],
-      "source_url": "https://mainpuri.nic.in/whos-who/",
+      "source_url": "https://mainpuri.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mainpuri-ado-mainpuri",
@@ -167,7 +169,8 @@
       ],
       "source_url": "https://mainpuri.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mainpuri-bdo-mainpuri"
     },
     {
       "id": "up-mainpuri-bdo-ghiror",
@@ -180,9 +183,9 @@
       "covers": [
         "ghiror"
       ],
-      "source_url": "https://mainpuri.nic.in/whos-who/",
+      "source_url": "https://mainpuri.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mainpuri-ado-ghiror",
@@ -196,7 +199,8 @@
       ],
       "source_url": "https://mainpuri.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mainpuri-bdo-ghiror"
     },
     {
       "id": "up-mainpuri-bdo-kuraoli",
@@ -225,7 +229,8 @@
       ],
       "source_url": "https://mainpuri.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mainpuri-bdo-kuraoli"
     },
     {
       "id": "up-mainpuri-bdo-kishni",
@@ -238,9 +243,9 @@
       "covers": [
         "kishni"
       ],
-      "source_url": "https://mainpuri.nic.in/whos-who/",
+      "source_url": "https://mainpuri.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mainpuri-ado-kishni",
@@ -254,7 +259,8 @@
       ],
       "source_url": "https://mainpuri.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mainpuri-bdo-kishni"
     },
     {
       "id": "up-mainpuri-bdo-karhal",
@@ -267,9 +273,9 @@
       "covers": [
         "karhal"
       ],
-      "source_url": "https://mainpuri.nic.in/whos-who/",
+      "source_url": "https://mainpuri.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mainpuri-ado-karhal",
@@ -283,7 +289,8 @@
       ],
       "source_url": "https://mainpuri.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mainpuri-bdo-karhal"
     },
     {
       "id": "up-mainpuri-bdo-barnahal",
@@ -296,9 +303,9 @@
       "covers": [
         "barnahal"
       ],
-      "source_url": "https://mainpuri.nic.in/whos-who/",
+      "source_url": "https://mainpuri.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mainpuri-ado-barnahal",
@@ -312,7 +319,8 @@
       ],
       "source_url": "https://mainpuri.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mainpuri-bdo-barnahal"
     },
     {
       "id": "up-mainpuri-bdo-bewar",
@@ -341,7 +349,8 @@
       ],
       "source_url": "https://mainpuri.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mainpuri-bdo-bewar"
     },
     {
       "id": "up-mainpuri-bdo-bhongaon",
@@ -370,7 +379,8 @@
       ],
       "source_url": "https://mainpuri.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mainpuri-bdo-bhongaon"
     },
     {
       "id": "up-mainpuri-bdo-sultanganj",
@@ -383,9 +393,9 @@
       "covers": [
         "sultanganj"
       ],
-      "source_url": "https://mainpuri.nic.in/whos-who/",
+      "source_url": "https://mainpuri.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-mainpuri-ado-sultanganj",
@@ -399,7 +409,8 @@
       ],
       "source_url": "https://mainpuri.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mainpuri-bdo-sultanganj"
     },
     {
       "id": "eo-mainpuri-main",
@@ -411,9 +422,9 @@
       "covers": [
         "ulb-mainpuri-main"
       ],
-      "source_url": "https://mainpuri.nic.in/whos-who/",
+      "source_url": "https://mainpuri.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     }
   ]
 }

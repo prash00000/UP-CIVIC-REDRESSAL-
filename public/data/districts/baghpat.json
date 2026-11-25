@@ -73,14 +73,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Baghpat",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Baghpat",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416713",
+          "type": "office",
+          "source_url": "https://bagpat.nic.in/other-contact/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.baghpat.bgp-up@gov.in",
       "covers": [
         "baghpat"
       ],
-      "source_url": "https://bagpat.nic.in/whos-who/",
+      "source_url": "https://bagpat.nic.in/other-contact/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Baghpat"
     },
     {
       "id": "up-baghpat-sdm-baraut",
@@ -88,14 +97,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Baraut",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Baraut",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416714",
+          "type": "office",
+          "source_url": "https://bagpat.nic.in/other-contact/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.baraut.bgp-up@gov.in",
       "covers": [
         "baraut"
       ],
-      "source_url": "https://bagpat.nic.in/whos-who/",
+      "source_url": "https://bagpat.nic.in/other-contact/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Baraut"
     },
     {
       "id": "up-baghpat-sdm-khekra",
@@ -103,14 +121,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Khekra",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Khekra",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416715",
+          "type": "office",
+          "source_url": "https://bagpat.nic.in/other-contact/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.khekra.bgp-up@gov.in",
       "covers": [
         "khekra"
       ],
-      "source_url": "https://bagpat.nic.in/whos-who/",
+      "source_url": "https://bagpat.nic.in/other-contact/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Khekra"
     },
     {
       "id": "up-baghpat-bdo-baghpat",
@@ -139,7 +166,8 @@
       ],
       "source_url": "https://bagpat.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-baghpat-bdo-baghpat"
     },
     {
       "id": "up-baghpat-bdo-baraut",
@@ -168,7 +196,8 @@
       ],
       "source_url": "https://bagpat.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-baghpat-bdo-baraut"
     },
     {
       "id": "up-baghpat-bdo-binauli",
@@ -197,7 +226,8 @@
       ],
       "source_url": "https://bagpat.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-baghpat-bdo-binauli"
     },
     {
       "id": "up-baghpat-bdo-chhaprauli",
@@ -226,7 +256,8 @@
       ],
       "source_url": "https://bagpat.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-baghpat-bdo-chhaprauli"
     },
     {
       "id": "up-baghpat-bdo-khekra",
@@ -255,7 +286,8 @@
       ],
       "source_url": "https://bagpat.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-baghpat-bdo-khekra"
     },
     {
       "id": "up-baghpat-bdo-pilana",
@@ -284,7 +316,8 @@
       ],
       "source_url": "https://bagpat.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-baghpat-bdo-pilana"
     },
     {
       "id": "eo-baghpat-main",
@@ -292,13 +325,24 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Baghpat",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका बागपत",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9639007531",
+          "type": "office",
+          "source_url": "https://bagpat.nic.in/other-important-contact/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-baghpat-main"
       ],
-      "source_url": "https://bagpat.nic.in/whos-who/",
+      "source_url": "https://bagpat.nic.in/other-important-contact/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Khand Shiksha Adhikari Nagar Palika Parishad Baghpat",
+      "email": "brcbaghpat@gmail.com",
+      "address_en": "Khand Shiksha Adhikari Nagar Palika Parishad Baghpat"
     }
   ]
 }

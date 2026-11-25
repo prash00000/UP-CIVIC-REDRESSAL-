@@ -21,7 +21,7 @@
       "covers": [
         "jaunpur"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Umesh Mishra",
@@ -46,9 +46,9 @@
       "covers": [
         "jaunpur"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-dpro",
@@ -61,9 +61,9 @@
       "covers": [
         "jaunpur"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-sdm-sadar",
@@ -84,9 +84,9 @@
       "covers": [
         "sadar"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-sdm-shahganj",
@@ -107,9 +107,9 @@
       "covers": [
         "shahganj"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-sdm-machhlishahr",
@@ -145,7 +145,7 @@
       "covers": [
         "badlapur"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "SDM Badlapur",
@@ -185,9 +185,9 @@
       "covers": [
         "kerakat"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-bdo-karanjit",
@@ -216,7 +216,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-karanjit"
     },
     {
       "id": "sec-karanjit-1",
@@ -268,9 +269,9 @@
       "covers": [
         "dharmapur"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-ado-dharmapur",
@@ -284,7 +285,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-dharmapur"
     },
     {
       "id": "sec-dharmapur-1",
@@ -336,9 +338,9 @@
       "covers": [
         "sikrara"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-ado-sikrara",
@@ -352,7 +354,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-sikrara"
     },
     {
       "id": "sec-sikrara-1",
@@ -404,9 +407,9 @@
       "covers": [
         "baksha"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-ado-baksha",
@@ -420,7 +423,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-baksha"
     },
     {
       "id": "sec-baksha-1",
@@ -472,9 +476,9 @@
       "covers": [
         "sirkoni"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-ado-sirkoni",
@@ -488,7 +492,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-sirkoni"
     },
     {
       "id": "sec-sirkoni-1",
@@ -540,9 +545,9 @@
       "covers": [
         "jalalpur"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-ado-jalalpur",
@@ -556,7 +561,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-jalalpur"
     },
     {
       "id": "sec-jalalpur-1",
@@ -608,9 +614,9 @@
       "covers": [
         "muftiganj"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-ado-muftiganj",
@@ -624,7 +630,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-muftiganj"
     },
     {
       "id": "sec-muftiganj-1",
@@ -676,9 +683,9 @@
       "covers": [
         "kerakat"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-ado-kerakat",
@@ -692,7 +699,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-kerakat"
     },
     {
       "id": "sec-kerakat-1",
@@ -744,9 +752,9 @@
       "covers": [
         "dobhi"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-ado-dobhi",
@@ -760,7 +768,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-dobhi"
     },
     {
       "id": "sec-dobhi-1",
@@ -820,7 +829,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-mariahu"
     },
     {
       "id": "sec-mariahu-1",
@@ -872,9 +882,9 @@
       "covers": [
         "barsathi"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-ado-barsathi",
@@ -888,7 +898,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-barsathi"
     },
     {
       "id": "sec-barsathi-1",
@@ -940,9 +951,9 @@
       "covers": [
         "rampur"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-ado-rampur",
@@ -956,7 +967,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-rampur"
     },
     {
       "id": "sec-rampur-1",
@@ -1016,7 +1028,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-machhlishahr"
     },
     {
       "id": "sec-machhlishahr-1",
@@ -1076,7 +1089,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-mogara-badshahpur"
     },
     {
       "id": "sec-mogara-badshahpur-1",
@@ -1128,9 +1142,9 @@
       "covers": [
         "sujanganj"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-ado-sujanganj",
@@ -1144,7 +1158,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-sujanganj"
     },
     {
       "id": "sec-sujanganj-1",
@@ -1196,9 +1211,9 @@
       "covers": [
         "maharajganj"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-ado-maharajganj",
@@ -1212,7 +1227,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-maharajganj"
     },
     {
       "id": "sec-maharajganj-1",
@@ -1264,9 +1280,9 @@
       "covers": [
         "badlapur"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-ado-badlapur",
@@ -1280,7 +1296,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-badlapur"
     },
     {
       "id": "sec-badlapur-1",
@@ -1340,7 +1357,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-baksha-18"
     },
     {
       "id": "sec-baksha-18-1",
@@ -1392,9 +1410,9 @@
       "covers": [
         "shahganj"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jaunpur-ado-shahganj",
@@ -1408,7 +1426,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-shahganj"
     },
     {
       "id": "sec-shahganj-1",
@@ -1468,7 +1487,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-sondhi"
     },
     {
       "id": "sec-sondhi-1",
@@ -1528,7 +1548,8 @@
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jaunpur-bdo-khutahan"
     },
     {
       "id": "sec-khutahan-1",
@@ -1571,9 +1592,11 @@
       "covers": [
         "ulb-jaunpur-main"
       ],
-      "source_url": "https://jaunpur.nic.in/whos-who/",
+      "source_url": "https://jaunpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "BDO Ramnagar",
+      "address_en": "Ramnagar, Jaunpur"
     }
   ]
 }

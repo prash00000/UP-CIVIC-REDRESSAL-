@@ -55,7 +55,7 @@ export function usePincodeLookup(
     let cancelled = false;
     setCheckingPin(cleanPin);
 
-    fetch(`/api/pincode?pin=${encodeURIComponent(cleanPin)}`)
+    fetch(`/api/pincode/?pin=${encodeURIComponent(cleanPin)}`)
       .then((res) => (res.ok ? res.json() : null))
       .then((data) => {
         if (!cancelled && data && data.pin === cleanPin) {

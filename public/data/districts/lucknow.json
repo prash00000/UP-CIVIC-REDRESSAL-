@@ -8,7 +8,7 @@
       "role": "dm",
       "office_name_en": "Office of District Magistrate, Lucknow",
       "office_name_hi": "कार्यालय जिलाधिकारी, लखनऊ",
-      "officer_name_en": "DM Lucknow",
+      "officer_name_en": "Shri. Vishak G, IAS",
       "phones": [
         {
           "number": "9415005000",
@@ -33,14 +33,24 @@
       "role": "cdo",
       "office_name_en": "Chief Development Officer (CDO), Lucknow",
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), लखनऊ",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465461",
+          "type": "office",
+          "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "cdo.luc-up@gov.in",
       "covers": [
         "lucknow"
       ],
-      "source_url": "https://lucknow.nic.in/directory/",
+      "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Prafull Kumar Sharma, IAS",
+      "address_en": "Vikas Bhawan, Liberty Colony Park, Sarvodaya Nagar, Indira Nagar, Lucknow, Uttar Pradesh 226016"
     },
     {
       "id": "up-lucknow-dpro",
@@ -78,14 +88,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bakshi Ka Talab",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bakshi Ka Talab",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416493",
+          "type": "office",
+          "source_url": "https://lucknow.nic.in/tehsil-telephone/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.bakshikatalab.luc-up@gov.in",
       "covers": [
         "bakshi-ka-talab"
       ],
-      "source_url": "https://lucknow.nic.in/directory/",
+      "source_url": "https://lucknow.nic.in/tehsil-telephone/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-lucknow-sdm-malihabad",
@@ -93,14 +111,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Malihabad",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Malihabad",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416492",
+          "type": "office",
+          "source_url": "https://lucknow.nic.in/tehsil-telephone/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.malihabad.luc-up@gov.in",
       "covers": [
         "malihabad"
       ],
-      "source_url": "https://lucknow.nic.in/directory/",
+      "source_url": "https://lucknow.nic.in/tehsil-telephone/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-lucknow-sdm-mohanlalganj",
@@ -108,14 +134,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mohanlalganj",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mohanlalganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416491",
+          "type": "office",
+          "source_url": "https://lucknow.nic.in/tehsil-telephone/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.mohanlalganj.luc-up@gov.in",
       "covers": [
         "mohanlalganj"
       ],
-      "source_url": "https://lucknow.nic.in/directory/",
+      "source_url": "https://lucknow.nic.in/tehsil-telephone/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-lucknow-sdm-sarojini-nagar",
@@ -123,14 +157,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sarojini Nagar",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sarojini Nagar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416511",
+          "type": "office",
+          "source_url": "https://lucknow.nic.in/tehsil-telephone/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.sarojininagar.luc-up@gov.in",
       "covers": [
         "sarojini-nagar"
       ],
-      "source_url": "https://lucknow.nic.in/directory/",
+      "source_url": "https://lucknow.nic.in/tehsil-telephone/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-lucknow-bdo-bakshi-ka-talab",
@@ -159,7 +201,8 @@
       ],
       "source_url": "https://lucknow.nic.in/directory/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-lucknow-bdo-bakshi-ka-talab"
     },
     {
       "id": "sec-bakshi-ka-talab-1",
@@ -198,14 +241,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Chinhat",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chinhat",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465467",
+          "type": "office",
+          "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.chinhat.luc@gmail.com",
       "covers": [
         "chinhat"
       ],
-      "source_url": "https://lucknow.nic.in/directory/",
+      "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-lucknow-ado-chinhat",
@@ -219,7 +270,8 @@
       ],
       "source_url": "https://lucknow.nic.in/directory/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-lucknow-bdo-chinhat"
     },
     {
       "id": "sec-chinhat-1",
@@ -258,14 +310,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kakori",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kakori",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465468",
+          "type": "office",
+          "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.kakori.luc@gmail.com",
       "covers": [
         "kakori"
       ],
-      "source_url": "https://lucknow.nic.in/directory/",
+      "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-lucknow-ado-kakori",
@@ -279,7 +339,8 @@
       ],
       "source_url": "https://lucknow.nic.in/directory/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-lucknow-bdo-kakori"
     },
     {
       "id": "sec-kakori-1",
@@ -318,14 +379,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mal",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mal",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465464",
+          "type": "office",
+          "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.mal.luc@gmail.com",
       "covers": [
         "mal"
       ],
-      "source_url": "https://lucknow.nic.in/directory/",
+      "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-lucknow-ado-mal",
@@ -339,7 +408,8 @@
       ],
       "source_url": "https://lucknow.nic.in/directory/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-lucknow-bdo-mal"
     },
     {
       "id": "sec-mal-1",
@@ -378,14 +448,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Malihabad",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Malihabad",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465465",
+          "type": "office",
+          "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.malihabad.luc@gmail.com",
       "covers": [
         "malihabad"
       ],
-      "source_url": "https://lucknow.nic.in/directory/",
+      "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-lucknow-ado-malihabad",
@@ -399,7 +477,8 @@
       ],
       "source_url": "https://lucknow.nic.in/directory/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-lucknow-bdo-malihabad"
     },
     {
       "id": "sec-malihabad-1",
@@ -459,7 +538,8 @@
       ],
       "source_url": "https://lucknow.nic.in/directory/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-lucknow-bdo-gosainganj"
     },
     {
       "id": "sec-gosainganj-1",
@@ -498,14 +578,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mohanlalganj",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mohanlalganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465471",
+          "type": "office",
+          "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.mohanlalganj.luc@gmail.com",
       "covers": [
         "mohanlalganj"
       ],
-      "source_url": "https://lucknow.nic.in/directory/",
+      "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-lucknow-ado-mohanlalganj",
@@ -519,7 +607,8 @@
       ],
       "source_url": "https://lucknow.nic.in/directory/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-lucknow-bdo-mohanlalganj"
     },
     {
       "id": "sec-mohanlalganj-1",
@@ -558,14 +647,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sarojini Nagar",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sarojini Nagar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465469",
+          "type": "office",
+          "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.sarojininagar.luc@gmail.com",
       "covers": [
         "sarojini-nagar"
       ],
-      "source_url": "https://lucknow.nic.in/directory/",
+      "source_url": "https://lucknow.nic.in/details-of-officers-posted-in-district-development-block/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-lucknow-ado-sarojini-nagar",
@@ -579,7 +676,8 @@
       ],
       "source_url": "https://lucknow.nic.in/directory/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-lucknow-bdo-sarojini-nagar"
     },
     {
       "id": "sec-sarojini-nagar-1",
@@ -618,13 +716,31 @@
       "role": "commissioner",
       "office_name_en": "Municipal Commissioner, Nagar Nigam Lucknow",
       "office_name_hi": "नगर आयुक्त, नगर निगम लखनऊ",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8189077822",
+          "type": "office",
+          "source_url": "https://lucknow.nic.in/who-is-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0522-2202570",
+          "type": "landline",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-lucknow-main"
       ],
-      "source_url": "https://lucknow.nic.in/directory/",
+      "source_url": "https://lucknow.nic.in/who-is-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri. Gaurav Kumar, IAS",
+      "address_en": "Nagar Nigam H.Q, Lalbagh, Lucknow, Uttar Pradesh",
+      "email": "8189077822nnlko@up.nic.in"
     }
   ]
 }

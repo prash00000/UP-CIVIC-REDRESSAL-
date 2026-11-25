@@ -22,7 +22,7 @@
       "covers": [
         "jhansi"
       ],
-      "source_url": "https://jhansi.nic.in/whos-who/",
+      "source_url": "https://jhansi.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Collectorate Jhansi"
@@ -46,7 +46,7 @@
       "covers": [
         "jhansi"
       ],
-      "source_url": "https://jhansi.nic.in/whos-who/",
+      "source_url": "https://jhansi.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Rameshwar Sudhakar Sabbanwad",
@@ -58,14 +58,22 @@
       "role": "dpro",
       "office_name_en": "District Panchayat Raj Officer (DPRO), Jhansi",
       "office_name_hi": "जिला पंचायत राज अधिकारी, झांसी",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9716146797",
+          "type": "office",
+          "source_url": "https://jhansi.nic.in/important-contacts/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "dpro-jhs@nic.in",
       "covers": [
         "jhansi"
       ],
-      "source_url": "https://jhansi.nic.in/whos-who/",
+      "source_url": "https://jhansi.nic.in/important-contacts/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jhansi-sdm-jhansi",
@@ -73,14 +81,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Jhansi",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Jhansi",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416319",
+          "type": "office",
+          "source_url": "https://jhansi.nic.in/important-contacts/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.jhansi.jhs-up@gov.in",
       "covers": [
         "jhansi"
       ],
-      "source_url": "https://jhansi.nic.in/whos-who/",
+      "source_url": "https://jhansi.nic.in/important-contacts/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jhansi-sdm-mauranipur",
@@ -88,14 +104,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mauranipur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mauranipur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416322",
+          "type": "office",
+          "source_url": "https://jhansi.nic.in/important-contacts/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.mauranipur.jhs-up@gov.in",
       "covers": [
         "mauranipur"
       ],
-      "source_url": "https://jhansi.nic.in/whos-who/",
+      "source_url": "https://jhansi.nic.in/important-contacts/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jhansi-sdm-garautha",
@@ -103,14 +127,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Garautha",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Garautha",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416323",
+          "type": "office",
+          "source_url": "https://jhansi.nic.in/important-contacts/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.garautha.jhs-up@gov.in",
       "covers": [
         "garautha"
       ],
-      "source_url": "https://jhansi.nic.in/whos-who/",
+      "source_url": "https://jhansi.nic.in/important-contacts/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jhansi-sdm-moth",
@@ -118,14 +150,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Moth",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Moth",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416320",
+          "type": "office",
+          "source_url": "https://jhansi.nic.in/important-contacts/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.moth.jhs-up@gov.in",
       "covers": [
         "moth"
       ],
-      "source_url": "https://jhansi.nic.in/whos-who/",
+      "source_url": "https://jhansi.nic.in/important-contacts/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jhansi-sdm-tahrauli",
@@ -148,14 +188,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Badagaon",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Badagaon",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464947",
+          "type": "office",
+          "source_url": "https://jhansi.nic.in/important-contacts/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.badagaon.jhs@gmail.com",
       "covers": [
         "badagaon"
       ],
-      "source_url": "https://jhansi.nic.in/whos-who/",
+      "source_url": "https://jhansi.nic.in/important-contacts/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jhansi-ado-badagaon",
@@ -169,7 +217,8 @@
       ],
       "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jhansi-bdo-badagaon"
     },
     {
       "id": "up-jhansi-bdo-babina",
@@ -177,14 +226,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Babina",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Babina",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464946",
+          "type": "office",
+          "source_url": "https://jhansi.nic.in/important-contacts/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.babina.jhs@gmail.com",
       "covers": [
         "babina"
       ],
-      "source_url": "https://jhansi.nic.in/whos-who/",
+      "source_url": "https://jhansi.nic.in/important-contacts/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jhansi-ado-babina",
@@ -198,7 +255,8 @@
       ],
       "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jhansi-bdo-babina"
     },
     {
       "id": "up-jhansi-bdo-mauranipur",
@@ -206,14 +264,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mauranipur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mauranipur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464945",
+          "type": "office",
+          "source_url": "https://jhansi.nic.in/important-contacts/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.mauranipur.jhs@gmail.com",
       "covers": [
         "mauranipur"
       ],
-      "source_url": "https://jhansi.nic.in/whos-who/",
+      "source_url": "https://jhansi.nic.in/important-contacts/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jhansi-ado-mauranipur",
@@ -227,7 +293,8 @@
       ],
       "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jhansi-bdo-mauranipur"
     },
     {
       "id": "up-jhansi-bdo-bangra",
@@ -235,14 +302,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bangra",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bangra",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464944",
+          "type": "office",
+          "source_url": "https://jhansi.nic.in/important-contacts/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.bangra.jhs@gmail.com",
       "covers": [
         "bangra"
       ],
-      "source_url": "https://jhansi.nic.in/whos-who/",
+      "source_url": "https://jhansi.nic.in/important-contacts/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jhansi-ado-bangra",
@@ -256,7 +331,8 @@
       ],
       "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jhansi-bdo-bangra"
     },
     {
       "id": "up-jhansi-bdo-gursarai",
@@ -285,7 +361,8 @@
       ],
       "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jhansi-bdo-gursarai"
     },
     {
       "id": "up-jhansi-bdo-bamaur",
@@ -293,14 +370,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bamaur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bamaur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464942",
+          "type": "office",
+          "source_url": "https://jhansi.nic.in/important-contacts/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.bamaur.jhs@gmail.com",
       "covers": [
         "bamaur"
       ],
-      "source_url": "https://jhansi.nic.in/whos-who/",
+      "source_url": "https://jhansi.nic.in/important-contacts/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jhansi-ado-bamaur",
@@ -314,7 +399,8 @@
       ],
       "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jhansi-bdo-bamaur"
     },
     {
       "id": "up-jhansi-bdo-moth",
@@ -322,14 +408,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Moth",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Moth",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464940",
+          "type": "office",
+          "source_url": "https://jhansi.nic.in/important-contacts/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.moth.jhs@gmail.com",
       "covers": [
         "moth"
       ],
-      "source_url": "https://jhansi.nic.in/whos-who/",
+      "source_url": "https://jhansi.nic.in/important-contacts/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jhansi-ado-moth",
@@ -343,7 +437,8 @@
       ],
       "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jhansi-bdo-moth"
     },
     {
       "id": "up-jhansi-bdo-chirgaon",
@@ -351,14 +446,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Chirgaon",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chirgaon",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464941",
+          "type": "office",
+          "source_url": "https://jhansi.nic.in/important-contacts/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.chirgaon.jhs@gmail.com",
       "covers": [
         "chirgaon"
       ],
-      "source_url": "https://jhansi.nic.in/whos-who/",
+      "source_url": "https://jhansi.nic.in/important-contacts/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-jhansi-ado-chirgaon",
@@ -372,7 +475,8 @@
       ],
       "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-jhansi-bdo-chirgaon"
     },
     {
       "id": "eo-jhansi-main",
@@ -387,6 +491,44 @@
       "source_url": "https://jhansi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-jhansi-commissioner",
+      "level": "ulb",
+      "role": "commissioner",
+      "office_name_en": "Municipal Commissioner, Jhansi Nagar Nigam",
+      "office_name_hi": "नगर आयुक्त, झांसी नगर निगम",
+      "phones": [
+        {
+          "number": "8189077820",
+          "type": "cug",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0510-2332097",
+          "type": "landline",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "8808053861",
+          "type": "office",
+          "source_url": "https://jhansi.nic.in/important-contacts/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "jhansi"
+      ],
+      "source_url": "https://jhansi.nic.in/important-contacts/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "email": "8189077820nagarayukta@jnnjhansi.com",
+      "officer_name_en": "श्री पुलकित गर्ग"
     }
   ]
 }

@@ -15,16 +15,31 @@
           "source_url": "https://shravasti.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "05250-222287",
+          "type": "landline",
+          "source_url": "https://shravasti.nic.in/contact-us/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05250-222241",
+          "type": "landline",
+          "source_url": "https://shravasti.nic.in/contact-us/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmshr@nic.in",
       "covers": [
         "shravasti"
       ],
-      "source_url": "https://shravasti.nic.in/whos-who/",
+      "source_url": "https://shravasti.nic.in/contact-us/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "officer_name_en": "Mr. Manoj Kumar Rai, IAS"
+      "officer_name_en": "Mr. Manoj Kumar Rai, IAS",
+      "address_en": "Collectorate Bhinga Bhinga,District-Shravasti, U.P. Pin – 271831"
     },
     {
       "id": "up-shravasti-cdo",
@@ -45,7 +60,7 @@
       "covers": [
         "shravasti"
       ],
-      "source_url": "https://shravasti.nic.in/whos-who/",
+      "source_url": "https://shravasti.nic.in/district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Mr. Shishir Kumar Singh ,IAS"
@@ -137,7 +152,8 @@
       ],
       "source_url": "https://shravasti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-shravasti-bdo-bhinga"
     },
     {
       "id": "up-shravasti-bdo-hariharpur-rani",
@@ -166,7 +182,8 @@
       ],
       "source_url": "https://shravasti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-shravasti-bdo-hariharpur-rani"
     },
     {
       "id": "up-shravasti-bdo-ikouna",
@@ -195,7 +212,8 @@
       ],
       "source_url": "https://shravasti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-shravasti-bdo-ikouna"
     },
     {
       "id": "up-shravasti-bdo-gilaula",
@@ -224,7 +242,8 @@
       ],
       "source_url": "https://shravasti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-shravasti-bdo-gilaula"
     },
     {
       "id": "up-shravasti-bdo-jamunaha",
@@ -253,7 +272,8 @@
       ],
       "source_url": "https://shravasti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-shravasti-bdo-jamunaha"
     },
     {
       "id": "eo-shravasti-main",

@@ -1,0 +1,3459 @@
+[
+  {
+    "id": "v-jalaun-dakore",
+    "type": "village",
+    "name_en": "Dakore Block (Gram Panchayats)",
+    "name_hi": "Dakore विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-jalaun-jalaun",
+    "type": "village",
+    "name_en": "Jalaun Block (Gram Panchayats)",
+    "name_hi": "Jalaun विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-jalaun",
+    "block_id": "jalaun",
+    "tehsil_id": "jalaun",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-jalaun-konch",
+    "type": "village",
+    "name_en": "Konch Block (Gram Panchayats)",
+    "name_hi": "Konch विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-konch",
+    "block_id": "konch",
+    "tehsil_id": "konch",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-jalaun-nadi-gaon",
+    "type": "village",
+    "name_en": "Nadi Gaon Block (Gram Panchayats)",
+    "name_hi": "Nadi Gaon विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-nadi-gaon",
+    "block_id": "nadi-gaon",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-jalaun-kalpi",
+    "type": "village",
+    "name_en": "Kalpi Block (Gram Panchayats)",
+    "name_hi": "Kalpi विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalpi",
+    "block_id": "kalpi",
+    "tehsil_id": "kalpi",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-jalaun-maheva",
+    "type": "village",
+    "name_en": "Maheva Block (Gram Panchayats)",
+    "name_hi": "Maheva विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-maheva",
+    "block_id": "maheva",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-jalaun-madhogarh",
+    "type": "village",
+    "name_en": "Madhogarh Block (Gram Panchayats)",
+    "name_hi": "Madhogarh विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-madhogarh",
+    "block_id": "madhogarh",
+    "tehsil_id": "madhogarh",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-jalaun-rampura",
+    "type": "village",
+    "name_en": "Rampura Block (Gram Panchayats)",
+    "name_hi": "Rampura विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-rampura",
+    "block_id": "rampura",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-jalaun-kadaura",
+    "type": "village",
+    "name_en": "Kadaura Block (Gram Panchayats)",
+    "name_hi": "Kadaura विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kadaura",
+    "block_id": "kadaura",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-jalaun-khanua",
+    "type": "village",
+    "name_en": "Khanua (Gram Panchayat Area)",
+    "name_hi": "Khanua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-khutaila",
+    "type": "village",
+    "name_en": "Khutaila (Gram Panchayat Area)",
+    "name_hi": "Khutaila (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-kishunpura",
+    "type": "village",
+    "name_en": "Kishunpura (Gram Panchayat Area)",
+    "name_hi": "Kishunpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-daulatpur",
+    "type": "village",
+    "name_en": "Daulatpur (Gram Panchayat Area)",
+    "name_hi": "Daulatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285125"
+    ]
+  },
+  {
+    "id": "po-jalaun-gora-rathor",
+    "type": "village",
+    "name_en": "Gora Rathor (Gram Panchayat Area)",
+    "name_hi": "Gora Rathor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285125"
+    ]
+  },
+  {
+    "id": "po-jalaun-lohai",
+    "type": "village",
+    "name_en": "Lohai (Gram Panchayat Area)",
+    "name_hi": "Lohai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285125"
+    ]
+  },
+  {
+    "id": "po-jalaun-kursenda",
+    "type": "village",
+    "name_en": "Kursenda (Gram Panchayat Area)",
+    "name_hi": "Kursenda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285126"
+    ]
+  },
+  {
+    "id": "po-jalaun-kanasi",
+    "type": "village",
+    "name_en": "Kanasi (Gram Panchayat Area)",
+    "name_hi": "Kanasi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-khairi",
+    "type": "village",
+    "name_en": "Khairi (Gram Panchayat Area)",
+    "name_hi": "Khairi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-sadupura",
+    "type": "village",
+    "name_en": "Sadupura (Gram Panchayat Area)",
+    "name_hi": "Sadupura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-salaiyya-buzurg",
+    "type": "village",
+    "name_en": "Salaiyya Buzurg (Gram Panchayat Area)",
+    "name_hi": "Salaiyya Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-sami",
+    "type": "village",
+    "name_en": "Sami (Gram Panchayat Area)",
+    "name_hi": "Sami (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-sunaya",
+    "type": "village",
+    "name_en": "Sunaya (Gram Panchayat Area)",
+    "name_hi": "Sunaya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-barsar",
+    "type": "village",
+    "name_en": "Barsar (Gram Panchayat Area)",
+    "name_hi": "Barsar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285223"
+    ]
+  },
+  {
+    "id": "po-jalaun-binaura",
+    "type": "village",
+    "name_en": "Binaura (Gram Panchayat Area)",
+    "name_hi": "Binaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285223"
+    ]
+  },
+  {
+    "id": "po-jalaun-kurkuru",
+    "type": "village",
+    "name_en": "Kurkuru (Gram Panchayat Area)",
+    "name_hi": "Kurkuru (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285223"
+    ]
+  },
+  {
+    "id": "po-jalaun-said-nagar",
+    "type": "village",
+    "name_en": "Said Nagar (Gram Panchayat Area)",
+    "name_hi": "Said Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285223"
+    ]
+  },
+  {
+    "id": "po-jalaun-tikri",
+    "type": "village",
+    "name_en": "Tikri (Gram Panchayat Area)",
+    "name_hi": "Tikri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285125"
+    ]
+  },
+  {
+    "id": "po-jalaun-eekon",
+    "type": "village",
+    "name_en": "Eekon (Gram Panchayat Area)",
+    "name_hi": "Eekon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285130"
+    ]
+  },
+  {
+    "id": "po-jalaun-jakha",
+    "type": "village",
+    "name_en": "Jakha (Gram Panchayat Area)",
+    "name_hi": "Jakha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285130"
+    ]
+  },
+  {
+    "id": "po-jalaun-nipaniya",
+    "type": "village",
+    "name_en": "Nipaniya (Gram Panchayat Area)",
+    "name_hi": "Nipaniya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285130"
+    ]
+  },
+  {
+    "id": "po-jalaun-pipri-athgaiyan",
+    "type": "village",
+    "name_en": "Pipri Athgaiyan (Gram Panchayat Area)",
+    "name_hi": "Pipri Athgaiyan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285130"
+    ]
+  },
+  {
+    "id": "po-jalaun-simhara-kasimpur",
+    "type": "village",
+    "name_en": "Simhara Kasimpur (Gram Panchayat Area)",
+    "name_hi": "Simhara Kasimpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285130"
+    ]
+  },
+  {
+    "id": "po-jalaun-chitaura",
+    "type": "village",
+    "name_en": "Chitaura (Gram Panchayat Area)",
+    "name_hi": "Chitaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285126"
+    ]
+  },
+  {
+    "id": "po-jalaun-harauli",
+    "type": "village",
+    "name_en": "Harauli (Gram Panchayat Area)",
+    "name_hi": "Harauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285126"
+    ]
+  },
+  {
+    "id": "po-jalaun-kailor",
+    "type": "village",
+    "name_en": "Kailor (Gram Panchayat Area)",
+    "name_hi": "Kailor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285126"
+    ]
+  },
+  {
+    "id": "po-jalaun-nunsai",
+    "type": "village",
+    "name_en": "Nunsai (Gram Panchayat Area)",
+    "name_hi": "Nunsai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-bharsoonda",
+    "type": "village",
+    "name_en": "Bharsoonda (Gram Panchayat Area)",
+    "name_hi": "Bharsoonda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285201"
+    ]
+  },
+  {
+    "id": "po-jalaun-bilayan",
+    "type": "village",
+    "name_en": "Bilayan (Gram Panchayat Area)",
+    "name_hi": "Bilayan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285201"
+    ]
+  },
+  {
+    "id": "po-jalaun-birasni",
+    "type": "village",
+    "name_en": "Birasni (Gram Panchayat Area)",
+    "name_hi": "Birasni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285201"
+    ]
+  },
+  {
+    "id": "po-jalaun-birguwan-buzurg",
+    "type": "village",
+    "name_en": "Birguwan Buzurg (Gram Panchayat Area)",
+    "name_hi": "Birguwan Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285201"
+    ]
+  },
+  {
+    "id": "po-jalaun-dhurat",
+    "type": "village",
+    "name_en": "Dhurat (Gram Panchayat Area)",
+    "name_hi": "Dhurat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285201"
+    ]
+  },
+  {
+    "id": "po-jalaun-jakhauli",
+    "type": "village",
+    "name_en": "Jakhauli (Gram Panchayat Area)",
+    "name_hi": "Jakhauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285201"
+    ]
+  },
+  {
+    "id": "po-jalaun-jamrohi-khurd",
+    "type": "village",
+    "name_en": "Jamrohi Khurd (Gram Panchayat Area)",
+    "name_hi": "Jamrohi Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285201"
+    ]
+  },
+  {
+    "id": "po-jalaun-pindari",
+    "type": "village",
+    "name_en": "Pindari (Gram Panchayat Area)",
+    "name_hi": "Pindari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285201"
+    ]
+  },
+  {
+    "id": "po-jalaun-bhadreikhi",
+    "type": "village",
+    "name_en": "Bhadreikhi (Gram Panchayat Area)",
+    "name_hi": "Bhadreikhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285202"
+    ]
+  },
+  {
+    "id": "po-jalaun-karamchandpur",
+    "type": "village",
+    "name_en": "Karamchandpur (Gram Panchayat Area)",
+    "name_hi": "Karamchandpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285202"
+    ]
+  },
+  {
+    "id": "po-jalaun-kurahna-alamgir",
+    "type": "village",
+    "name_en": "Kurahna Alamgir (Gram Panchayat Area)",
+    "name_hi": "Kurahna Alamgir (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285202"
+    ]
+  },
+  {
+    "id": "po-jalaun-masgaon",
+    "type": "village",
+    "name_en": "Masgaon (Gram Panchayat Area)",
+    "name_hi": "Masgaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285202"
+    ]
+  },
+  {
+    "id": "po-jalaun-parasan",
+    "type": "village",
+    "name_en": "Parasan (Gram Panchayat Area)",
+    "name_hi": "Parasan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285202"
+    ]
+  },
+  {
+    "id": "po-jalaun-atarehati",
+    "type": "village",
+    "name_en": "Atarehati (Gram Panchayat Area)",
+    "name_hi": "Atarehati (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285121"
+    ]
+  },
+  {
+    "id": "po-jalaun-garherna",
+    "type": "village",
+    "name_en": "Garherna (Gram Panchayat Area)",
+    "name_hi": "Garherna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285121"
+    ]
+  },
+  {
+    "id": "po-jalaun-gopalpura",
+    "type": "village",
+    "name_en": "Gopalpura (Gram Panchayat Area)",
+    "name_hi": "Gopalpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285121"
+    ]
+  },
+  {
+    "id": "po-jalaun-mijhauna",
+    "type": "village",
+    "name_en": "Mijhauna (Gram Panchayat Area)",
+    "name_hi": "Mijhauna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285121"
+    ]
+  },
+  {
+    "id": "po-jalaun-naoli",
+    "type": "village",
+    "name_en": "Naoli (Gram Panchayat Area)",
+    "name_hi": "Naoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285121"
+    ]
+  },
+  {
+    "id": "po-jalaun-bagi",
+    "type": "village",
+    "name_en": "Bagi (Gram Panchayat Area)",
+    "name_hi": "Bagi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285203"
+    ]
+  },
+  {
+    "id": "po-jalaun-barkhera",
+    "type": "village",
+    "name_en": "Barkhera (Gram Panchayat Area)",
+    "name_hi": "Barkhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285203"
+    ]
+  },
+  {
+    "id": "po-jalaun-bhendi",
+    "type": "village",
+    "name_en": "Bhendi (Gram Panchayat Area)",
+    "name_hi": "Bhendi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285203"
+    ]
+  },
+  {
+    "id": "po-jalaun-harchandpur",
+    "type": "village",
+    "name_en": "Harchandpur (Gram Panchayat Area)",
+    "name_hi": "Harchandpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285203"
+    ]
+  },
+  {
+    "id": "po-jalaun-mohana",
+    "type": "village",
+    "name_en": "Mohana (Gram Panchayat Area)",
+    "name_hi": "Mohana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285122"
+    ]
+  },
+  {
+    "id": "po-jalaun-bilond",
+    "type": "village",
+    "name_en": "Bilond (Gram Panchayat Area)",
+    "name_hi": "Bilond (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285124"
+    ]
+  },
+  {
+    "id": "po-jalaun-dhoota",
+    "type": "village",
+    "name_en": "Dhoota (Gram Panchayat Area)",
+    "name_hi": "Dhoota (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285124"
+    ]
+  },
+  {
+    "id": "po-jalaun-lidaupur",
+    "type": "village",
+    "name_en": "Lidaupur (Gram Panchayat Area)",
+    "name_hi": "Lidaupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285124"
+    ]
+  },
+  {
+    "id": "po-jalaun-aurekhi",
+    "type": "village",
+    "name_en": "Aurekhi (Gram Panchayat Area)",
+    "name_hi": "Aurekhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-babai",
+    "type": "village",
+    "name_en": "Babai (Gram Panchayat Area)",
+    "name_hi": "Babai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-chaki",
+    "type": "village",
+    "name_en": "Chaki (Gram Panchayat Area)",
+    "name_hi": "Chaki (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-kuthonda-buzurg",
+    "type": "village",
+    "name_en": "Kuthonda Buzurg (Gram Panchayat Area)",
+    "name_hi": "Kuthonda Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-pratappura",
+    "type": "village",
+    "name_en": "Pratappura (Gram Panchayat Area)",
+    "name_hi": "Pratappura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-sahav",
+    "type": "village",
+    "name_en": "Sahav (Gram Panchayat Area)",
+    "name_hi": "Sahav (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-salabad",
+    "type": "village",
+    "name_en": "Salabad (Gram Panchayat Area)",
+    "name_hi": "Salabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-sarawan",
+    "type": "village",
+    "name_en": "Sarawan (Gram Panchayat Area)",
+    "name_hi": "Sarawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-kashirampur",
+    "type": "village",
+    "name_en": "Kashirampur (Gram Panchayat Area)",
+    "name_hi": "Kashirampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285204"
+    ]
+  },
+  {
+    "id": "po-jalaun-magraul",
+    "type": "village",
+    "name_en": "Magraul (Gram Panchayat Area)",
+    "name_hi": "Magraul (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285204"
+    ]
+  },
+  {
+    "id": "po-jalaun-mainupur",
+    "type": "village",
+    "name_en": "Mainupur (Gram Panchayat Area)",
+    "name_hi": "Mainupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285204"
+    ]
+  },
+  {
+    "id": "po-jalaun-anda",
+    "type": "village",
+    "name_en": "Anda (Gram Panchayat Area)",
+    "name_hi": "Anda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-baroda-kalan",
+    "type": "village",
+    "name_en": "Baroda Kalan (Gram Panchayat Area)",
+    "name_hi": "Baroda Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-bhend",
+    "type": "village",
+    "name_en": "Bhend (Gram Panchayat Area)",
+    "name_hi": "Bhend (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-deogaon",
+    "type": "village",
+    "name_en": "Deogaon (Gram Panchayat Area)",
+    "name_hi": "Deogaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-somai",
+    "type": "village",
+    "name_en": "Somai (Gram Panchayat Area)",
+    "name_hi": "Somai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285201"
+    ]
+  },
+  {
+    "id": "po-jalaun-sarsela",
+    "type": "village",
+    "name_en": "Sarsela (Gram Panchayat Area)",
+    "name_hi": "Sarsela (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285202"
+    ]
+  },
+  {
+    "id": "po-jalaun-shahjahanpur",
+    "type": "village",
+    "name_en": "Shahjahanpur (Gram Panchayat Area)",
+    "name_hi": "Shahjahanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285202"
+    ]
+  },
+  {
+    "id": "po-jalaun-ingui",
+    "type": "village",
+    "name_en": "Ingui (Gram Panchayat Area)",
+    "name_hi": "Ingui (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285121"
+    ]
+  },
+  {
+    "id": "po-jalaun-parawar",
+    "type": "village",
+    "name_en": "Parawar (Gram Panchayat Area)",
+    "name_hi": "Parawar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285121"
+    ]
+  },
+  {
+    "id": "po-jalaun-alipur",
+    "type": "village",
+    "name_en": "Alipur (Gram Panchayat Area)",
+    "name_hi": "Alipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285203"
+    ]
+  },
+  {
+    "id": "po-jalaun-lamsar",
+    "type": "village",
+    "name_en": "Lamsar (Gram Panchayat Area)",
+    "name_hi": "Lamsar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285203"
+    ]
+  },
+  {
+    "id": "po-jalaun-margayan",
+    "type": "village",
+    "name_en": "Margayan (Gram Panchayat Area)",
+    "name_hi": "Margayan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285203"
+    ]
+  },
+  {
+    "id": "po-jalaun-matra",
+    "type": "village",
+    "name_en": "Matra (Gram Panchayat Area)",
+    "name_hi": "Matra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285203"
+    ]
+  },
+  {
+    "id": "po-jalaun-bandhauli",
+    "type": "village",
+    "name_en": "Bandhauli (Gram Panchayat Area)",
+    "name_hi": "Bandhauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285122"
+    ]
+  },
+  {
+    "id": "po-jalaun-kartalapur",
+    "type": "village",
+    "name_en": "Kartalapur (Gram Panchayat Area)",
+    "name_hi": "Kartalapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285128"
+    ]
+  },
+  {
+    "id": "po-jalaun-madora",
+    "type": "village",
+    "name_en": "Madora (Gram Panchayat Area)",
+    "name_hi": "Madora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285128"
+    ]
+  },
+  {
+    "id": "po-jalaun-madori",
+    "type": "village",
+    "name_en": "Madori (Gram Panchayat Area)",
+    "name_hi": "Madori (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285128"
+    ]
+  },
+  {
+    "id": "po-jalaun-sheikhpur-buzurg",
+    "type": "village",
+    "name_en": "Sheikhpur Buzurg (Gram Panchayat Area)",
+    "name_hi": "Sheikhpur Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285128"
+    ]
+  },
+  {
+    "id": "po-jalaun-gadhela",
+    "type": "village",
+    "name_en": "Gadhela (Gram Panchayat Area)",
+    "name_hi": "Gadhela (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-keolari",
+    "type": "village",
+    "name_en": "Keolari (Gram Panchayat Area)",
+    "name_hi": "Keolari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-khaksis",
+    "type": "village",
+    "name_en": "Khaksis (Gram Panchayat Area)",
+    "name_hi": "Khaksis (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-jaitpura",
+    "type": "village",
+    "name_en": "Jaitpura (Gram Panchayat Area)",
+    "name_hi": "Jaitpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-pachipuri",
+    "type": "village",
+    "name_en": "Pachipuri (Gram Panchayat Area)",
+    "name_hi": "Pachipuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-toomra",
+    "type": "village",
+    "name_en": "Toomra (Gram Panchayat Area)",
+    "name_hi": "Toomra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-kailiya",
+    "type": "village",
+    "name_en": "Kailiya (Gram Panchayat Area)",
+    "name_hi": "Kailiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-aindha",
+    "type": "village",
+    "name_en": "Aindha (Gram Panchayat Area)",
+    "name_hi": "Aindha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285223"
+    ]
+  },
+  {
+    "id": "po-jalaun-sikri-vyas",
+    "type": "village",
+    "name_en": "Sikri Vyas (Gram Panchayat Area)",
+    "name_hi": "Sikri Vyas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285223"
+    ]
+  },
+  {
+    "id": "po-jalaun-bhadeikh",
+    "type": "village",
+    "name_en": "Bhadeikh (Gram Panchayat Area)",
+    "name_hi": "Bhadeikh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285125"
+    ]
+  },
+  {
+    "id": "po-jalaun-pipri-gaharwar",
+    "type": "village",
+    "name_en": "Pipri Gaharwar (Gram Panchayat Area)",
+    "name_hi": "Pipri Gaharwar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285125"
+    ]
+  },
+  {
+    "id": "po-jalaun-romai-mustkil",
+    "type": "village",
+    "name_en": "Romai Mustkil (Gram Panchayat Area)",
+    "name_hi": "Romai Mustkil (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285125"
+    ]
+  },
+  {
+    "id": "po-jalaun-sheikhpur-ahir",
+    "type": "village",
+    "name_en": "Sheikhpur Ahir (Gram Panchayat Area)",
+    "name_hi": "Sheikhpur Ahir (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285125"
+    ]
+  },
+  {
+    "id": "po-jalaun-waoli",
+    "type": "village",
+    "name_en": "Waoli (Gram Panchayat Area)",
+    "name_hi": "Waoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285125"
+    ]
+  },
+  {
+    "id": "po-jalaun-abhedepur",
+    "type": "village",
+    "name_en": "Abhedepur (Gram Panchayat Area)",
+    "name_hi": "Abhedepur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285130"
+    ]
+  },
+  {
+    "id": "po-jalaun-damras",
+    "type": "village",
+    "name_en": "Damras (Gram Panchayat Area)",
+    "name_hi": "Damras (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285130"
+    ]
+  },
+  {
+    "id": "po-jalaun-dhamna",
+    "type": "village",
+    "name_en": "Dhamna (Gram Panchayat Area)",
+    "name_hi": "Dhamna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285126"
+    ]
+  },
+  {
+    "id": "po-jalaun-kainth",
+    "type": "village",
+    "name_en": "Kainth (Gram Panchayat Area)",
+    "name_hi": "Kainth (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-paniyara",
+    "type": "village",
+    "name_en": "Paniyara (Gram Panchayat Area)",
+    "name_hi": "Paniyara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-titra-khalilpur",
+    "type": "village",
+    "name_en": "Titra Khalilpur (Gram Panchayat Area)",
+    "name_hi": "Titra Khalilpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-nahili",
+    "type": "village",
+    "name_en": "Nahili (Gram Panchayat Area)",
+    "name_hi": "Nahili (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285125"
+    ]
+  },
+  {
+    "id": "po-jalaun-rampura-kirwaha",
+    "type": "village",
+    "name_en": "Rampura Kirwaha (Gram Panchayat Area)",
+    "name_hi": "Rampura Kirwaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-rampura",
+    "block_id": "rampura",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285125"
+    ]
+  },
+  {
+    "id": "po-jalaun-roora-jaitia",
+    "type": "village",
+    "name_en": "Roora Jaitia (Gram Panchayat Area)",
+    "name_hi": "Roora Jaitia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285125"
+    ]
+  },
+  {
+    "id": "po-jalaun-shankarpur",
+    "type": "village",
+    "name_en": "Shankarpur (Gram Panchayat Area)",
+    "name_hi": "Shankarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285125"
+    ]
+  },
+  {
+    "id": "po-jalaun-bichauli",
+    "type": "village",
+    "name_en": "Bichauli (Gram Panchayat Area)",
+    "name_hi": "Bichauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285130"
+    ]
+  },
+  {
+    "id": "po-jalaun-sirsa-kalar",
+    "type": "village",
+    "name_en": "Sirsa Kalar (Gram Panchayat Area)",
+    "name_hi": "Sirsa Kalar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285130"
+    ]
+  },
+  {
+    "id": "po-jalaun-ramhetpura",
+    "type": "village",
+    "name_en": "Ramhetpura (Gram Panchayat Area)",
+    "name_hi": "Ramhetpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285126"
+    ]
+  },
+  {
+    "id": "po-jalaun-shahjadpura",
+    "type": "village",
+    "name_en": "Shahjadpura (Gram Panchayat Area)",
+    "name_hi": "Shahjadpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-dhantauli",
+    "type": "village",
+    "name_en": "Dhantauli (Gram Panchayat Area)",
+    "name_hi": "Dhantauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-kharka",
+    "type": "village",
+    "name_en": "Kharka (Gram Panchayat Area)",
+    "name_hi": "Kharka (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-akorhi",
+    "type": "village",
+    "name_en": "Akorhi (Gram Panchayat Area)",
+    "name_hi": "Akorhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285201"
+    ]
+  },
+  {
+    "id": "po-jalaun-chandurra",
+    "type": "village",
+    "name_en": "Chandurra (Gram Panchayat Area)",
+    "name_hi": "Chandurra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285201"
+    ]
+  },
+  {
+    "id": "po-jalaun-satoh",
+    "type": "village",
+    "name_en": "Satoh (Gram Panchayat Area)",
+    "name_hi": "Satoh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285201"
+    ]
+  },
+  {
+    "id": "po-jalaun-imiliya-buzurg",
+    "type": "village",
+    "name_en": "Imiliya Buzurg (Gram Panchayat Area)",
+    "name_hi": "Imiliya Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285202"
+    ]
+  },
+  {
+    "id": "po-jalaun-piprayan",
+    "type": "village",
+    "name_en": "Piprayan (Gram Panchayat Area)",
+    "name_hi": "Piprayan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285202"
+    ]
+  },
+  {
+    "id": "po-jalaun-rirua",
+    "type": "village",
+    "name_en": "Rirua (Gram Panchayat Area)",
+    "name_hi": "Rirua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285202"
+    ]
+  },
+  {
+    "id": "po-jalaun-jugrajpura",
+    "type": "village",
+    "name_en": "Jugrajpura (Gram Panchayat Area)",
+    "name_hi": "Jugrajpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285121"
+    ]
+  },
+  {
+    "id": "po-jalaun-kuthonda",
+    "type": "village",
+    "name_en": "Kuthonda (Gram Panchayat Area)",
+    "name_hi": "Kuthonda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285121"
+    ]
+  },
+  {
+    "id": "po-jalaun-manpura",
+    "type": "village",
+    "name_en": "Manpura (Gram Panchayat Area)",
+    "name_hi": "Manpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285121"
+    ]
+  },
+  {
+    "id": "po-jalaun-rendhar",
+    "type": "village",
+    "name_en": "Rendhar (Gram Panchayat Area)",
+    "name_hi": "Rendhar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285121"
+    ]
+  },
+  {
+    "id": "po-jalaun-sarr",
+    "type": "village",
+    "name_en": "Sarr (Gram Panchayat Area)",
+    "name_hi": "Sarr (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285121"
+    ]
+  },
+  {
+    "id": "po-jalaun-sirsa-dogarhi",
+    "type": "village",
+    "name_en": "Sirsa Dogarhi (Gram Panchayat Area)",
+    "name_hi": "Sirsa Dogarhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285121"
+    ]
+  },
+  {
+    "id": "po-jalaun-babina",
+    "type": "village",
+    "name_en": "Babina (Gram Panchayat Area)",
+    "name_hi": "Babina (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285203"
+    ]
+  },
+  {
+    "id": "po-jalaun-chatela",
+    "type": "village",
+    "name_en": "Chatela (Gram Panchayat Area)",
+    "name_hi": "Chatela (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285203"
+    ]
+  },
+  {
+    "id": "po-jalaun-udanpur",
+    "type": "village",
+    "name_en": "Udanpur (Gram Panchayat Area)",
+    "name_hi": "Udanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285203"
+    ]
+  },
+  {
+    "id": "po-jalaun-jaisari-kalan",
+    "type": "village",
+    "name_en": "Jaisari Kalan (Gram Panchayat Area)",
+    "name_hi": "Jaisari Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285122"
+    ]
+  },
+  {
+    "id": "po-jalaun-mohammedabad",
+    "type": "village",
+    "name_en": "Mohammedabad (Gram Panchayat Area)",
+    "name_hi": "Mohammedabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285122"
+    ]
+  },
+  {
+    "id": "po-jalaun-gora-bhoopka",
+    "type": "village",
+    "name_en": "Gora Bhoopka (Gram Panchayat Area)",
+    "name_hi": "Gora Bhoopka (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285128"
+    ]
+  },
+  {
+    "id": "po-jalaun-patrahi",
+    "type": "village",
+    "name_en": "Patrahi (Gram Panchayat Area)",
+    "name_hi": "Patrahi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285124"
+    ]
+  },
+  {
+    "id": "po-jalaun-akorhi-dubey",
+    "type": "village",
+    "name_en": "Akorhi Dubey (Gram Panchayat Area)",
+    "name_hi": "Akorhi Dubey (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-atariya",
+    "type": "village",
+    "name_en": "Atariya (Gram Panchayat Area)",
+    "name_hi": "Atariya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-garhgawan",
+    "type": "village",
+    "name_en": "Garhgawan (Gram Panchayat Area)",
+    "name_hi": "Garhgawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-jagnewa",
+    "type": "village",
+    "name_en": "Jagnewa (Gram Panchayat Area)",
+    "name_hi": "Jagnewa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-nadai",
+    "type": "village",
+    "name_en": "Nadai (Gram Panchayat Area)",
+    "name_hi": "Nadai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-sikri-raja",
+    "type": "village",
+    "name_en": "Sikri Raja (Gram Panchayat Area)",
+    "name_hi": "Sikri Raja (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-gulaoli",
+    "type": "village",
+    "name_en": "Gulaoli (Gram Panchayat Area)",
+    "name_hi": "Gulaoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285204"
+    ]
+  },
+  {
+    "id": "po-jalaun-nibahna",
+    "type": "village",
+    "name_en": "Nibahna (Gram Panchayat Area)",
+    "name_hi": "Nibahna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285204"
+    ]
+  },
+  {
+    "id": "po-jalaun-mahewa",
+    "type": "village",
+    "name_en": "Mahewa (Gram Panchayat Area)",
+    "name_hi": "Mahewa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285204"
+    ]
+  },
+  {
+    "id": "po-jalaun-aknewa",
+    "type": "village",
+    "name_en": "Aknewa (Gram Panchayat Area)",
+    "name_hi": "Aknewa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-chamend",
+    "type": "village",
+    "name_en": "Chamend (Gram Panchayat Area)",
+    "name_hi": "Chamend (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-jaganpura",
+    "type": "village",
+    "name_en": "Jaganpura (Gram Panchayat Area)",
+    "name_hi": "Jaganpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-karmer",
+    "type": "village",
+    "name_en": "Karmer (Gram Panchayat Area)",
+    "name_hi": "Karmer (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-basob",
+    "type": "village",
+    "name_en": "Basob (Gram Panchayat Area)",
+    "name_hi": "Basob (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285201"
+    ]
+  },
+  {
+    "id": "po-jalaun-birguwan-khurd",
+    "type": "village",
+    "name_en": "Birguwan Khurd (Gram Panchayat Area)",
+    "name_hi": "Birguwan Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285201"
+    ]
+  },
+  {
+    "id": "po-jalaun-dhagwan-kalan",
+    "type": "village",
+    "name_en": "Dhagwan Kalan (Gram Panchayat Area)",
+    "name_hi": "Dhagwan Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285201"
+    ]
+  },
+  {
+    "id": "po-jalaun-pirona",
+    "type": "village",
+    "name_en": "Pirona (Gram Panchayat Area)",
+    "name_hi": "Pirona (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285201"
+    ]
+  },
+  {
+    "id": "po-jalaun-chamari",
+    "type": "village",
+    "name_en": "Chamari (Gram Panchayat Area)",
+    "name_hi": "Chamari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285202"
+    ]
+  },
+  {
+    "id": "po-jalaun-chhonk",
+    "type": "village",
+    "name_en": "Chhonk (Gram Panchayat Area)",
+    "name_hi": "Chhonk (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285202"
+    ]
+  },
+  {
+    "id": "po-jalaun-sandhi",
+    "type": "village",
+    "name_en": "Sandhi (Gram Panchayat Area)",
+    "name_hi": "Sandhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285202"
+    ]
+  },
+  {
+    "id": "po-jalaun-usargaon",
+    "type": "village",
+    "name_en": "Usargaon (Gram Panchayat Area)",
+    "name_hi": "Usargaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285202"
+    ]
+  },
+  {
+    "id": "po-jalaun-atagaon",
+    "type": "village",
+    "name_en": "Atagaon (Gram Panchayat Area)",
+    "name_hi": "Atagaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285121"
+    ]
+  },
+  {
+    "id": "po-jalaun-kudaari",
+    "type": "village",
+    "name_en": "Kudaari (Gram Panchayat Area)",
+    "name_hi": "Kudaari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285121"
+    ]
+  },
+  {
+    "id": "po-jalaun-rura-sirsa",
+    "type": "village",
+    "name_en": "Rura Sirsa (Gram Panchayat Area)",
+    "name_hi": "Rura Sirsa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285121"
+    ]
+  },
+  {
+    "id": "po-jalaun-garrehi",
+    "type": "village",
+    "name_en": "Garrehi (Gram Panchayat Area)",
+    "name_hi": "Garrehi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285203"
+    ]
+  },
+  {
+    "id": "po-jalaun-mawai-ahir",
+    "type": "village",
+    "name_en": "Mawai Ahir (Gram Panchayat Area)",
+    "name_hi": "Mawai Ahir (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285203"
+    ]
+  },
+  {
+    "id": "po-jalaun-gurha",
+    "type": "village",
+    "name_en": "Gurha (Gram Panchayat Area)",
+    "name_hi": "Gurha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285122"
+    ]
+  },
+  {
+    "id": "po-jalaun-kusmiliya",
+    "type": "village",
+    "name_en": "Kusmiliya (Gram Panchayat Area)",
+    "name_hi": "Kusmiliya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285122"
+    ]
+  },
+  {
+    "id": "po-jalaun-bhaoupura",
+    "type": "village",
+    "name_en": "Bhaoupura (Gram Panchayat Area)",
+    "name_hi": "Bhaoupura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285128"
+    ]
+  },
+  {
+    "id": "po-jalaun-bahadurpur",
+    "type": "village",
+    "name_en": "Bahadurpur (Gram Panchayat Area)",
+    "name_hi": "Bahadurpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285124"
+    ]
+  },
+  {
+    "id": "po-jalaun-jaigha",
+    "type": "village",
+    "name_en": "Jaigha (Gram Panchayat Area)",
+    "name_hi": "Jaigha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285124"
+    ]
+  },
+  {
+    "id": "po-jalaun-mai",
+    "type": "village",
+    "name_en": "Mai (Gram Panchayat Area)",
+    "name_hi": "Mai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285124"
+    ]
+  },
+  {
+    "id": "po-jalaun-amkhera",
+    "type": "village",
+    "name_en": "Amkhera (Gram Panchayat Area)",
+    "name_hi": "Amkhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-atra-kalan",
+    "type": "village",
+    "name_en": "Atra Kalan (Gram Panchayat Area)",
+    "name_hi": "Atra Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-chhiriya-salempur",
+    "type": "village",
+    "name_en": "Chhiriya Salempur (Gram Panchayat Area)",
+    "name_hi": "Chhiriya Salempur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-hatheri",
+    "type": "village",
+    "name_en": "Hatheri (Gram Panchayat Area)",
+    "name_hi": "Hatheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-itahiya",
+    "type": "village",
+    "name_en": "Itahiya (Gram Panchayat Area)",
+    "name_hi": "Itahiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-kusmara",
+    "type": "village",
+    "name_en": "Kusmara (Gram Panchayat Area)",
+    "name_hi": "Kusmara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-lahchura",
+    "type": "village",
+    "name_en": "Lahchura (Gram Panchayat Area)",
+    "name_hi": "Lahchura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-musmariya",
+    "type": "village",
+    "name_en": "Musmariya (Gram Panchayat Area)",
+    "name_hi": "Musmariya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-parwatpura",
+    "type": "village",
+    "name_en": "Parwatpura (Gram Panchayat Area)",
+    "name_hi": "Parwatpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-sarsai",
+    "type": "village",
+    "name_en": "Sarsai (Gram Panchayat Area)",
+    "name_hi": "Sarsai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-urgaon",
+    "type": "village",
+    "name_en": "Urgaon (Gram Panchayat Area)",
+    "name_hi": "Urgaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-bairai",
+    "type": "village",
+    "name_en": "Bairai (Gram Panchayat Area)",
+    "name_hi": "Bairai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285204"
+    ]
+  },
+  {
+    "id": "po-jalaun-kalpi-rs",
+    "type": "village",
+    "name_en": "Kalpi RS (Gram Panchayat Area)",
+    "name_hi": "Kalpi RS (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalpi",
+    "block_id": "kalpi",
+    "tehsil_id": "kalpi",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285204"
+    ]
+  },
+  {
+    "id": "po-jalaun-bhadari",
+    "type": "village",
+    "name_en": "Bhadari (Gram Panchayat Area)",
+    "name_hi": "Bhadari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-chhani",
+    "type": "village",
+    "name_en": "Chhani (Gram Panchayat Area)",
+    "name_hi": "Chhani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-diraoti",
+    "type": "village",
+    "name_en": "Diraoti (Gram Panchayat Area)",
+    "name_hi": "Diraoti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-guraoti",
+    "type": "village",
+    "name_en": "Guraoti (Gram Panchayat Area)",
+    "name_hi": "Guraoti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "po-jalaun-roora-addu",
+    "type": "village",
+    "name_en": "Roora Addu (Gram Panchayat Area)",
+    "name_hi": "Roora Addu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-chilli",
+    "type": "village",
+    "name_en": "Chilli (Gram Panchayat Area)",
+    "name_hi": "Chilli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-kukargaon",
+    "type": "village",
+    "name_en": "Kukargaon (Gram Panchayat Area)",
+    "name_hi": "Kukargaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-imiliya",
+    "type": "village",
+    "name_en": "Imiliya (Gram Panchayat Area)",
+    "name_hi": "Imiliya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-aeir",
+    "type": "village",
+    "name_en": "Aeir (Gram Panchayat Area)",
+    "name_hi": "Aeir (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-beerpura",
+    "type": "village",
+    "name_en": "Beerpura (Gram Panchayat Area)",
+    "name_hi": "Beerpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-kharoosa",
+    "type": "village",
+    "name_en": "Kharoosa (Gram Panchayat Area)",
+    "name_hi": "Kharoosa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-gohan",
+    "type": "village",
+    "name_en": "Gohan (Gram Panchayat Area)",
+    "name_hi": "Gohan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285129"
+    ]
+  },
+  {
+    "id": "po-jalaun-mandri",
+    "type": "village",
+    "name_en": "Mandri (Gram Panchayat Area)",
+    "name_hi": "Mandri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-baragaon",
+    "type": "village",
+    "name_en": "Baragaon (Gram Panchayat Area)",
+    "name_hi": "Baragaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-garhar",
+    "type": "village",
+    "name_en": "Garhar (Gram Panchayat Area)",
+    "name_hi": "Garhar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-sihari",
+    "type": "village",
+    "name_en": "Sihari (Gram Panchayat Area)",
+    "name_hi": "Sihari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285126"
+    ]
+  },
+  {
+    "id": "po-jalaun-baseeth",
+    "type": "village",
+    "name_en": "Baseeth (Gram Panchayat Area)",
+    "name_hi": "Baseeth (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285206"
+    ]
+  },
+  {
+    "id": "po-jalaun-gaindoli",
+    "type": "village",
+    "name_en": "Gaindoli (Gram Panchayat Area)",
+    "name_hi": "Gaindoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285206"
+    ]
+  },
+  {
+    "id": "po-jalaun-pachokhara",
+    "type": "village",
+    "name_en": "Pachokhara (Gram Panchayat Area)",
+    "name_hi": "Pachokhara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285127"
+    ]
+  },
+  {
+    "id": "po-jalaun-rudrapura",
+    "type": "village",
+    "name_en": "Rudrapura (Gram Panchayat Area)",
+    "name_hi": "Rudrapura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285127"
+    ]
+  },
+  {
+    "id": "po-jalaun-nawar",
+    "type": "village",
+    "name_en": "Nawar (Gram Panchayat Area)",
+    "name_hi": "Nawar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285129"
+    ]
+  },
+  {
+    "id": "po-jalaun-rahiya",
+    "type": "village",
+    "name_en": "Rahiya (Gram Panchayat Area)",
+    "name_hi": "Rahiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-timron",
+    "type": "village",
+    "name_en": "Timron (Gram Panchayat Area)",
+    "name_hi": "Timron (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-sidhpura",
+    "type": "village",
+    "name_en": "Sidhpura (Gram Panchayat Area)",
+    "name_hi": "Sidhpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285127"
+    ]
+  },
+  {
+    "id": "po-jalaun-teehar",
+    "type": "village",
+    "name_en": "Teehar (Gram Panchayat Area)",
+    "name_hi": "Teehar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285127"
+    ]
+  },
+  {
+    "id": "po-jalaun-churkhi",
+    "type": "village",
+    "name_en": "Churkhi (Gram Panchayat Area)",
+    "name_hi": "Churkhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "po-jalaun-itaura",
+    "type": "village",
+    "name_en": "Itaura (Gram Panchayat Area)",
+    "name_hi": "Itaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285202"
+    ]
+  },
+  {
+    "id": "po-jalaun-sihari-daoodpur",
+    "type": "village",
+    "name_en": "Sihari Daoodpur (Gram Panchayat Area)",
+    "name_hi": "Sihari Daoodpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-kharra",
+    "type": "village",
+    "name_en": "Kharra (Gram Panchayat Area)",
+    "name_hi": "Kharra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-hardoi-guzar",
+    "type": "village",
+    "name_en": "Hardoi Guzar (Gram Panchayat Area)",
+    "name_hi": "Hardoi Guzar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-ghillaur",
+    "type": "village",
+    "name_en": "Ghillaur (Gram Panchayat Area)",
+    "name_hi": "Ghillaur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285206"
+    ]
+  },
+  {
+    "id": "po-jalaun-naraul",
+    "type": "village",
+    "name_en": "Naraul (Gram Panchayat Area)",
+    "name_hi": "Naraul (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285127"
+    ]
+  },
+  {
+    "id": "po-jalaun-uncha",
+    "type": "village",
+    "name_en": "Uncha (Gram Panchayat Area)",
+    "name_hi": "Uncha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285127"
+    ]
+  },
+  {
+    "id": "po-jalaun-eeton",
+    "type": "village",
+    "name_en": "Eeton (Gram Panchayat Area)",
+    "name_hi": "Eeton (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285129"
+    ]
+  },
+  {
+    "id": "po-jalaun-dhanaura",
+    "type": "village",
+    "name_en": "Dhanaura (Gram Panchayat Area)",
+    "name_hi": "Dhanaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "po-jalaun-sajera",
+    "type": "village",
+    "name_en": "Sajera (Gram Panchayat Area)",
+    "name_hi": "Sajera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285206"
+    ]
+  },
+  {
+    "id": "po-jalaun-ninaoli",
+    "type": "village",
+    "name_en": "Ninaoli (Gram Panchayat Area)",
+    "name_hi": "Ninaoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285127"
+    ]
+  },
+  {
+    "id": "po-jalaun-ajeetapur",
+    "type": "village",
+    "name_en": "Ajeetapur (Gram Panchayat Area)",
+    "name_hi": "Ajeetapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285129"
+    ]
+  },
+  {
+    "id": "po-jalaun-majeeth",
+    "type": "village",
+    "name_en": "Majeeth (Gram Panchayat Area)",
+    "name_hi": "Majeeth (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dakore",
+    "block_id": "dakore",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "285129"
+    ]
+  },
+  {
+    "id": "ward-jalaun-ulb-jalaun-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Jalaun (All Wards)",
+    "name_hi": "जालौन नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-jalaun-orai",
+    "type": "ward",
+    "name_en": "ORAI (Urban Ward / SO)",
+    "name_hi": "ORAI (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "town-jalaun-jagammanpur",
+    "type": "ward",
+    "name_en": "Jagammanpur (Urban Ward / SO)",
+    "name_hi": "Jagammanpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285124"
+    ]
+  },
+  {
+    "id": "town-jalaun-kotra-so-jalaun",
+    "type": "ward",
+    "name_en": "Kotra SO Jalaun (Urban Ward / SO)",
+    "name_hi": "Kotra SO Jalaun (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285223"
+    ]
+  },
+  {
+    "id": "town-jalaun-nadigaon",
+    "type": "ward",
+    "name_en": "Nadigaon (Urban Ward / SO)",
+    "name_hi": "Nadigaon (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285206"
+    ]
+  },
+  {
+    "id": "town-jalaun-ait",
+    "type": "ward",
+    "name_en": "Ait (Urban Ward / SO)",
+    "name_hi": "Ait (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285201"
+    ]
+  },
+  {
+    "id": "town-jalaun-konch-bazariya",
+    "type": "ward",
+    "name_en": "Konch Bazariya (Urban Ward / SO)",
+    "name_hi": "Konch Bazariya (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "town-jalaun-konch-so-jalaun",
+    "type": "ward",
+    "name_en": "Konch SO Jalaun (Urban Ward / SO)",
+    "name_hi": "Konch SO Jalaun (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "town-jalaun-madhogarh-so-jalaun",
+    "type": "ward",
+    "name_en": "Madhogarh SO Jalaun (Urban Ward / SO)",
+    "name_hi": "Madhogarh SO Jalaun (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285126"
+    ]
+  },
+  {
+    "id": "town-jalaun-navin-mandi-konch",
+    "type": "ward",
+    "name_en": "Navin Mandi Konch (Urban Ward / SO)",
+    "name_hi": "Navin Mandi Konch (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285205"
+    ]
+  },
+  {
+    "id": "town-jalaun-rampura-so-jalaun",
+    "type": "ward",
+    "name_en": "Rampura SO Jalaun (Urban Ward / SO)",
+    "name_hi": "Rampura SO Jalaun (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285127"
+    ]
+  },
+  {
+    "id": "town-jalaun-ata",
+    "type": "ward",
+    "name_en": "Ata (Urban Ward / SO)",
+    "name_hi": "Ata (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285202"
+    ]
+  },
+  {
+    "id": "town-jalaun-baoni-estate",
+    "type": "ward",
+    "name_en": "Baoni Estate (Urban Ward / SO)",
+    "name_hi": "Baoni Estate (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285203"
+    ]
+  },
+  {
+    "id": "town-jalaun-dvc-road-orai",
+    "type": "ward",
+    "name_en": "Dvc Road Orai (Urban Ward / SO)",
+    "name_hi": "Dvc Road Orai (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "town-jalaun-hadrukh",
+    "type": "ward",
+    "name_en": "Hadrukh (Urban Ward / SO)",
+    "name_hi": "Hadrukh (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285128"
+    ]
+  },
+  {
+    "id": "town-jalaun-jalaun-town",
+    "type": "ward",
+    "name_en": "Jalaun Town (Urban Ward / SO)",
+    "name_hi": "Jalaun Town (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "town-jalaun-kalpi",
+    "type": "ward",
+    "name_en": "Kalpi (Urban Ward / SO)",
+    "name_hi": "Kalpi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285204"
+    ]
+  },
+  {
+    "id": "town-jalaun-kuthond",
+    "type": "ward",
+    "name_en": "Kuthond (Urban Ward / SO)",
+    "name_hi": "Kuthond (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285125"
+    ]
+  },
+  {
+    "id": "town-jalaun-orai-kutchery",
+    "type": "ward",
+    "name_en": "Orai Kutchery (Urban Ward / SO)",
+    "name_hi": "Orai Kutchery (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "town-jalaun-orai-town",
+    "type": "ward",
+    "name_en": "Orai Town (Urban Ward / SO)",
+    "name_hi": "Orai Town (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "town-jalaun-rath-road-orai",
+    "type": "ward",
+    "name_en": "Rath Road Orai (Urban Ward / SO)",
+    "name_hi": "Rath Road Orai (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285001"
+    ]
+  },
+  {
+    "id": "town-jalaun-umri-so-jalaun",
+    "type": "ward",
+    "name_en": "Umri SO Jalaun (Urban Ward / SO)",
+    "name_hi": "Umri SO Jalaun (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285129"
+    ]
+  },
+  {
+    "id": "town-jalaun-bangra",
+    "type": "ward",
+    "name_en": "Bangra (Urban Ward / SO)",
+    "name_hi": "Bangra (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285121"
+    ]
+  },
+  {
+    "id": "town-jalaun-dakore",
+    "type": "ward",
+    "name_en": "Dakore (Urban Ward / SO)",
+    "name_hi": "Dakore (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285122"
+    ]
+  },
+  {
+    "id": "town-jalaun-jalaun",
+    "type": "ward",
+    "name_en": "Jalaun (Urban Ward / SO)",
+    "name_hi": "Jalaun (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285123"
+    ]
+  },
+  {
+    "id": "town-jalaun-madaripur",
+    "type": "ward",
+    "name_en": "Madaripur (Urban Ward / SO)",
+    "name_hi": "Madaripur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285130"
+    ]
+  },
+  {
+    "id": "town-jalaun-orai-railway-station",
+    "type": "ward",
+    "name_en": "Orai Railway Station (Urban Ward / SO)",
+    "name_hi": "Orai Railway Station (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-jalaun-main",
+    "tehsil_id": "orai",
+    "district_id": "jalaun",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "285001"
+    ]
+  }
+]

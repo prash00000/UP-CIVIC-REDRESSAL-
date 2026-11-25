@@ -21,7 +21,7 @@
       "covers": [
         "pilibhit"
       ],
-      "source_url": "https://pilibhit.nic.in/whos-who/",
+      "source_url": "https://pilibhit.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Alok Kumar (I.A.S.)",
@@ -46,7 +46,7 @@
       "covers": [
         "pilibhit"
       ],
-      "source_url": "https://pilibhit.nic.in/whos-who/",
+      "source_url": "https://pilibhit.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Satish Prasad Mishra (PDS)",
@@ -103,14 +103,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bisalpur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bisalpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454415863",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/phone-revenue-department/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.bisalpur.pil-up@gov.in",
       "covers": [
         "bisalpur"
       ],
-      "source_url": "https://pilibhit.nic.in/whos-who/",
+      "source_url": "https://pilibhit.nic.in/phone-revenue-department/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-pilibhit-sdm-puranpur",
@@ -118,14 +126,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Puranpur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Puranpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454415864",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/phone-revenue-department/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.puranpur.pil-up@gov.in",
       "covers": [
         "puranpur"
       ],
-      "source_url": "https://pilibhit.nic.in/whos-who/",
+      "source_url": "https://pilibhit.nic.in/phone-revenue-department/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-pilibhit-sdm-amariya",
@@ -148,14 +164,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kalinagar",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kalinagar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454415865",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/phone-revenue-department/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.kalinagar.pil-up@gov.in",
       "covers": [
         "kalinagar"
       ],
-      "source_url": "https://pilibhit.nic.in/whos-who/",
+      "source_url": "https://pilibhit.nic.in/phone-revenue-department/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-pilibhit-bdo-marori",
@@ -184,7 +208,8 @@
       ],
       "source_url": "https://pilibhit.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pilibhit-bdo-marori"
     },
     {
       "id": "up-pilibhit-bdo-lalaurikhera",
@@ -192,14 +217,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Lalaurikhera",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Lalaurikhera",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464688",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/phone-block-development-officers/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.lalaurikhera.pil@gmail.com",
       "covers": [
         "lalaurikhera"
       ],
-      "source_url": "https://pilibhit.nic.in/whos-who/",
+      "source_url": "https://pilibhit.nic.in/phone-block-development-officers/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-pilibhit-ado-lalaurikhera",
@@ -213,7 +246,8 @@
       ],
       "source_url": "https://pilibhit.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pilibhit-bdo-lalaurikhera"
     },
     {
       "id": "up-pilibhit-bdo-amariya",
@@ -242,7 +276,8 @@
       ],
       "source_url": "https://pilibhit.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pilibhit-bdo-amariya"
     },
     {
       "id": "up-pilibhit-bdo-barkhera",
@@ -250,14 +285,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Barkhera",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Barkhera",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464689",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/phone-block-development-officers/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.barkhera.pil@gmail.com",
       "covers": [
         "barkhera"
       ],
-      "source_url": "https://pilibhit.nic.in/whos-who/",
+      "source_url": "https://pilibhit.nic.in/phone-block-development-officers/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-pilibhit-ado-barkhera",
@@ -271,7 +314,8 @@
       ],
       "source_url": "https://pilibhit.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pilibhit-bdo-barkhera"
     },
     {
       "id": "up-pilibhit-bdo-bisalpur",
@@ -279,14 +323,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bisalpur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bisalpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464691",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/phone-block-development-officers/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.bisalpur.pil@gmail.com",
       "covers": [
         "bisalpur"
       ],
-      "source_url": "https://pilibhit.nic.in/whos-who/",
+      "source_url": "https://pilibhit.nic.in/phone-block-development-officers/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-pilibhit-ado-bisalpur",
@@ -300,7 +352,8 @@
       ],
       "source_url": "https://pilibhit.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pilibhit-bdo-bisalpur"
     },
     {
       "id": "up-pilibhit-bdo-bilsanda",
@@ -308,14 +361,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bilsanda",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bilsanda",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464690",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/phone-block-development-officers/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.bilsanda.pil@gmail.com",
       "covers": [
         "bilsanda"
       ],
-      "source_url": "https://pilibhit.nic.in/whos-who/",
+      "source_url": "https://pilibhit.nic.in/phone-block-development-officers/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-pilibhit-ado-bilsanda",
@@ -329,7 +390,8 @@
       ],
       "source_url": "https://pilibhit.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pilibhit-bdo-bilsanda"
     },
     {
       "id": "up-pilibhit-bdo-puranpur",
@@ -337,14 +399,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Puranpur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Puranpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464692",
+          "type": "office",
+          "source_url": "https://pilibhit.nic.in/phone-block-development-officers/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.puranpur.pil@gmail.com",
       "covers": [
         "puranpur"
       ],
-      "source_url": "https://pilibhit.nic.in/whos-who/",
+      "source_url": "https://pilibhit.nic.in/phone-block-development-officers/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-pilibhit-ado-puranpur",
@@ -358,7 +428,8 @@
       ],
       "source_url": "https://pilibhit.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pilibhit-bdo-puranpur"
     },
     {
       "id": "eo-pilibhit-main",

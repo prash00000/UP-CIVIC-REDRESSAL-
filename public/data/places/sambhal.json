@@ -1,0 +1,2255 @@
+[
+  {
+    "id": "v-sambhal-sambhal",
+    "type": "village",
+    "name_en": "Sambhal Block (Gram Panchayats)",
+    "name_hi": "Sambhal विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-sambhal-asmoli",
+    "type": "village",
+    "name_en": "Asmoli Block (Gram Panchayats)",
+    "name_hi": "Asmoli विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-asmoli",
+    "block_id": "asmoli",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-sambhal-panwasa",
+    "type": "village",
+    "name_en": "Panwasa Block (Gram Panchayats)",
+    "name_hi": "Panwasa विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-panwasa",
+    "block_id": "panwasa",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-sambhal-bahjoi",
+    "type": "village",
+    "name_en": "Bahjoi Block (Gram Panchayats)",
+    "name_hi": "Bahjoi विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bahjoi",
+    "block_id": "bahjoi",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-sambhal-baniakhera",
+    "type": "village",
+    "name_en": "Baniakhera Block (Gram Panchayats)",
+    "name_hi": "Baniakhera विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-baniakhera",
+    "block_id": "baniakhera",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-sambhal-gunnaur",
+    "type": "village",
+    "name_en": "Gunnaur Block (Gram Panchayats)",
+    "name_hi": "Gunnaur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gunnaur",
+    "block_id": "gunnaur",
+    "tehsil_id": "gunnaur",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-sambhal-rajpura",
+    "type": "village",
+    "name_en": "Rajpura Block (Gram Panchayats)",
+    "name_hi": "Rajpura विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-rajpura",
+    "block_id": "rajpura",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-sambhal-janawai",
+    "type": "village",
+    "name_en": "Janawai Block (Gram Panchayats)",
+    "name_hi": "Janawai विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-janawai",
+    "block_id": "janawai",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-sambhal-bhakrauli",
+    "type": "village",
+    "name_en": "Bhakrauli (Gram Panchayat Area)",
+    "name_hi": "Bhakrauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243751"
+    ]
+  },
+  {
+    "id": "po-sambhal-dinaura",
+    "type": "village",
+    "name_en": "Dinaura (Gram Panchayat Area)",
+    "name_hi": "Dinaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243751"
+    ]
+  },
+  {
+    "id": "po-sambhal-hirauni",
+    "type": "village",
+    "name_en": "Hirauni (Gram Panchayat Area)",
+    "name_hi": "Hirauni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243751"
+    ]
+  },
+  {
+    "id": "po-sambhal-saitua",
+    "type": "village",
+    "name_en": "Saitua (Gram Panchayat Area)",
+    "name_hi": "Saitua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243751"
+    ]
+  },
+  {
+    "id": "po-sambhal-shahjanabad",
+    "type": "village",
+    "name_en": "Shahjanabad (Gram Panchayat Area)",
+    "name_hi": "Shahjanabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243751"
+    ]
+  },
+  {
+    "id": "po-sambhal-asadpur",
+    "type": "village",
+    "name_en": "Asadpur (Gram Panchayat Area)",
+    "name_hi": "Asadpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243722"
+    ]
+  },
+  {
+    "id": "po-sambhal-bairpur-maharaji",
+    "type": "village",
+    "name_en": "Bairpur Maharaji (Gram Panchayat Area)",
+    "name_hi": "Bairpur Maharaji (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243722"
+    ]
+  },
+  {
+    "id": "po-sambhal-gari-bichola",
+    "type": "village",
+    "name_en": "Gari Bichola (Gram Panchayat Area)",
+    "name_hi": "Gari Bichola (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243723"
+    ]
+  },
+  {
+    "id": "po-sambhal-jarwar",
+    "type": "village",
+    "name_en": "Jarwar (Gram Panchayat Area)",
+    "name_hi": "Jarwar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243723"
+    ]
+  },
+  {
+    "id": "po-sambhal-jijonda",
+    "type": "village",
+    "name_en": "Jijonda (Gram Panchayat Area)",
+    "name_hi": "Jijonda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243727"
+    ]
+  },
+  {
+    "id": "po-sambhal-qadrabad",
+    "type": "village",
+    "name_en": "Qadrabad (Gram Panchayat Area)",
+    "name_hi": "Qadrabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243638"
+    ]
+  },
+  {
+    "id": "po-sambhal-ghosali-bahan",
+    "type": "village",
+    "name_en": "Ghosali Bahan (Gram Panchayat Area)",
+    "name_hi": "Ghosali Bahan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243722"
+    ]
+  },
+  {
+    "id": "po-sambhal-isampur-danda",
+    "type": "village",
+    "name_en": "Isampur Danda (Gram Panchayat Area)",
+    "name_hi": "Isampur Danda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243722"
+    ]
+  },
+  {
+    "id": "po-sambhal-kashipur",
+    "type": "village",
+    "name_en": "Kashipur (Gram Panchayat Area)",
+    "name_hi": "Kashipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243722"
+    ]
+  },
+  {
+    "id": "po-sambhal-lahara-nagla-shyam",
+    "type": "village",
+    "name_en": "Lahara Nagla Shyam (Gram Panchayat Area)",
+    "name_hi": "Lahara Nagla Shyam (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243722"
+    ]
+  },
+  {
+    "id": "po-sambhal-nadrauli",
+    "type": "village",
+    "name_en": "Nadrauli (Gram Panchayat Area)",
+    "name_hi": "Nadrauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243722"
+    ]
+  },
+  {
+    "id": "po-sambhal-nagla-ajmeri",
+    "type": "village",
+    "name_en": "Nagla Ajmeri (Gram Panchayat Area)",
+    "name_hi": "Nagla Ajmeri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243722"
+    ]
+  },
+  {
+    "id": "po-sambhal-pusawali",
+    "type": "village",
+    "name_en": "Pusawali (Gram Panchayat Area)",
+    "name_hi": "Pusawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243722"
+    ]
+  },
+  {
+    "id": "po-sambhal-mehua-hasanganj",
+    "type": "village",
+    "name_en": "Mehua Hasanganj (Gram Panchayat Area)",
+    "name_hi": "Mehua Hasanganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "242021"
+    ]
+  },
+  {
+    "id": "po-sambhal-singhaula-daulatsingh",
+    "type": "village",
+    "name_en": "Singhaula Daulatsingh (Gram Panchayat Area)",
+    "name_hi": "Singhaula Daulatsingh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243727"
+    ]
+  },
+  {
+    "id": "po-sambhal-bhirawati",
+    "type": "village",
+    "name_en": "Bhirawati (Gram Panchayat Area)",
+    "name_hi": "Bhirawati (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243751"
+    ]
+  },
+  {
+    "id": "po-sambhal-harphari",
+    "type": "village",
+    "name_en": "Harphari (Gram Panchayat Area)",
+    "name_hi": "Harphari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243751"
+    ]
+  },
+  {
+    "id": "po-sambhal-kail",
+    "type": "village",
+    "name_en": "Kail (Gram Panchayat Area)",
+    "name_hi": "Kail (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243751"
+    ]
+  },
+  {
+    "id": "po-sambhal-khalilpur",
+    "type": "village",
+    "name_en": "KHALILPUR (Gram Panchayat Area)",
+    "name_hi": "KHALILPUR (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243751"
+    ]
+  },
+  {
+    "id": "po-sambhal-bandarai",
+    "type": "village",
+    "name_en": "Bandarai (Gram Panchayat Area)",
+    "name_hi": "Bandarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243722"
+    ]
+  },
+  {
+    "id": "po-sambhal-dhandwara",
+    "type": "village",
+    "name_en": "Dhandwara (Gram Panchayat Area)",
+    "name_hi": "Dhandwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243722"
+    ]
+  },
+  {
+    "id": "po-sambhal-madkawali",
+    "type": "village",
+    "name_en": "Madkawali (Gram Panchayat Area)",
+    "name_hi": "Madkawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243722"
+    ]
+  },
+  {
+    "id": "po-sambhal-pataria",
+    "type": "village",
+    "name_en": "Pataria (Gram Panchayat Area)",
+    "name_hi": "Pataria (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243722"
+    ]
+  },
+  {
+    "id": "po-sambhal-rewara",
+    "type": "village",
+    "name_en": "Rewara (Gram Panchayat Area)",
+    "name_hi": "Rewara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243722"
+    ]
+  },
+  {
+    "id": "po-sambhal-bajhawli",
+    "type": "village",
+    "name_en": "Bajhawli (Gram Panchayat Area)",
+    "name_hi": "Bajhawli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244414"
+    ]
+  },
+  {
+    "id": "po-sambhal-modhpur-wabai",
+    "type": "village",
+    "name_en": "Modhpur Wabai (Gram Panchayat Area)",
+    "name_hi": "Modhpur Wabai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244414"
+    ]
+  },
+  {
+    "id": "po-sambhal-sarthal",
+    "type": "village",
+    "name_en": "Sarthal (Gram Panchayat Area)",
+    "name_hi": "Sarthal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244414"
+    ]
+  },
+  {
+    "id": "po-sambhal-chamroa",
+    "type": "village",
+    "name_en": "Chamroa (Gram Panchayat Area)",
+    "name_hi": "Chamroa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-mohd-pur-tanda",
+    "type": "village",
+    "name_en": "Mohd Pur Tanda (Gram Panchayat Area)",
+    "name_hi": "Mohd Pur Tanda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-mohra-lakhupura",
+    "type": "village",
+    "name_en": "Mohra Lakhupura (Gram Panchayat Area)",
+    "name_hi": "Mohra Lakhupura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-nuria-sarai",
+    "type": "village",
+    "name_en": "Nuria Sarai (Gram Panchayat Area)",
+    "name_hi": "Nuria Sarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-senjana",
+    "type": "village",
+    "name_en": "Senjana (Gram Panchayat Area)",
+    "name_hi": "Senjana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-singhpur-sani",
+    "type": "village",
+    "name_en": "Singhpur Sani (Gram Panchayat Area)",
+    "name_hi": "Singhpur Sani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-gurer",
+    "type": "village",
+    "name_en": "Gurer (Gram Panchayat Area)",
+    "name_hi": "Gurer (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244301"
+    ]
+  },
+  {
+    "id": "po-sambhal-mahmoodpur",
+    "type": "village",
+    "name_en": "Mahmoodpur (Gram Panchayat Area)",
+    "name_hi": "Mahmoodpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244301"
+    ]
+  },
+  {
+    "id": "po-sambhal-qasimpur",
+    "type": "village",
+    "name_en": "Qasimpur (Gram Panchayat Area)",
+    "name_hi": "Qasimpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244301"
+    ]
+  },
+  {
+    "id": "po-sambhal-rehtaul",
+    "type": "village",
+    "name_en": "Rehtaul (Gram Panchayat Area)",
+    "name_hi": "Rehtaul (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244301"
+    ]
+  },
+  {
+    "id": "po-sambhal-ummedpur",
+    "type": "village",
+    "name_en": "Ummedpur (Gram Panchayat Area)",
+    "name_hi": "Ummedpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244301"
+    ]
+  },
+  {
+    "id": "po-sambhal-chandankati",
+    "type": "village",
+    "name_en": "Chandankati (Gram Panchayat Area)",
+    "name_hi": "Chandankati (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-dilgaura",
+    "type": "village",
+    "name_en": "Dilgaura (Gram Panchayat Area)",
+    "name_hi": "Dilgaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-hasanpur-manjapta",
+    "type": "village",
+    "name_en": "Hasanpur Manjapta (Gram Panchayat Area)",
+    "name_hi": "Hasanpur Manjapta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-mian-sarai",
+    "type": "village",
+    "name_en": "Mian Sarai (Gram Panchayat Area)",
+    "name_hi": "Mian Sarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-amawati-qutubpur",
+    "type": "village",
+    "name_en": "Amawati Qutubpur (Gram Panchayat Area)",
+    "name_hi": "Amawati Qutubpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244303"
+    ]
+  },
+  {
+    "id": "po-sambhal-datauli",
+    "type": "village",
+    "name_en": "Datauli (Gram Panchayat Area)",
+    "name_hi": "Datauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244303"
+    ]
+  },
+  {
+    "id": "po-sambhal-gauhat",
+    "type": "village",
+    "name_en": "Gauhat (Gram Panchayat Area)",
+    "name_hi": "Gauhat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244303"
+    ]
+  },
+  {
+    "id": "po-sambhal-hayatnagar",
+    "type": "village",
+    "name_en": "Hayatnagar (Gram Panchayat Area)",
+    "name_hi": "Hayatnagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244303"
+    ]
+  },
+  {
+    "id": "po-sambhal-baripur-bhamrowa",
+    "type": "village",
+    "name_en": "Baripur Bhamrowa (Gram Panchayat Area)",
+    "name_hi": "Baripur Bhamrowa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244301"
+    ]
+  },
+  {
+    "id": "po-sambhal-bharthal-madapur",
+    "type": "village",
+    "name_en": "Bharthal Madapur (Gram Panchayat Area)",
+    "name_hi": "Bharthal Madapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244301"
+    ]
+  },
+  {
+    "id": "po-sambhal-mohd-sadikpur",
+    "type": "village",
+    "name_en": "Mohd Sadikpur (Gram Panchayat Area)",
+    "name_hi": "Mohd Sadikpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244414"
+    ]
+  },
+  {
+    "id": "po-sambhal-singhauli-kalloo",
+    "type": "village",
+    "name_en": "Singhauli Kalloo (Gram Panchayat Area)",
+    "name_hi": "Singhauli Kalloo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243727"
+    ]
+  },
+  {
+    "id": "po-sambhal-mithanpur",
+    "type": "village",
+    "name_en": "Mithanpur (Gram Panchayat Area)",
+    "name_hi": "Mithanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243638"
+    ]
+  },
+  {
+    "id": "po-sambhal-chhapra",
+    "type": "village",
+    "name_en": "Chhapra (Gram Panchayat Area)",
+    "name_hi": "Chhapra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243751"
+    ]
+  },
+  {
+    "id": "po-sambhal-dhanari",
+    "type": "village",
+    "name_en": "Dhanari (Gram Panchayat Area)",
+    "name_hi": "Dhanari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243751"
+    ]
+  },
+  {
+    "id": "po-sambhal-dupta-kalan",
+    "type": "village",
+    "name_en": "Dupta Kalan (Gram Panchayat Area)",
+    "name_hi": "Dupta Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243751"
+    ]
+  },
+  {
+    "id": "po-sambhal-ikona",
+    "type": "village",
+    "name_en": "Ikona (Gram Panchayat Area)",
+    "name_hi": "Ikona (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243751"
+    ]
+  },
+  {
+    "id": "po-sambhal-mehmoodpur",
+    "type": "village",
+    "name_en": "Mehmoodpur (Gram Panchayat Area)",
+    "name_hi": "Mehmoodpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243751"
+    ]
+  },
+  {
+    "id": "po-sambhal-dabthara-harlal",
+    "type": "village",
+    "name_en": "Dabthara Harlal (Gram Panchayat Area)",
+    "name_hi": "Dabthara Harlal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243722"
+    ]
+  },
+  {
+    "id": "po-sambhal-sarai-brahman",
+    "type": "village",
+    "name_en": "Sarai Brahman (Gram Panchayat Area)",
+    "name_hi": "Sarai Brahman (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243722"
+    ]
+  },
+  {
+    "id": "po-sambhal-gawan",
+    "type": "village",
+    "name_en": "Gawan (Gram Panchayat Area)",
+    "name_hi": "Gawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243727"
+    ]
+  },
+  {
+    "id": "po-sambhal-neora",
+    "type": "village",
+    "name_en": "Neora (Gram Panchayat Area)",
+    "name_hi": "Neora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "243727"
+    ]
+  },
+  {
+    "id": "po-sambhal-tharesa-jai-singh",
+    "type": "village",
+    "name_en": "Tharesa Jai Singh (Gram Panchayat Area)",
+    "name_hi": "Tharesa Jai Singh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244414"
+    ]
+  },
+  {
+    "id": "po-sambhal-akhtiarpur-thillupura",
+    "type": "village",
+    "name_en": "Akhtiarpur Thillupura (Gram Panchayat Area)",
+    "name_hi": "Akhtiarpur Thillupura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-bhawanipur",
+    "type": "village",
+    "name_en": "Bhawanipur (Gram Panchayat Area)",
+    "name_hi": "Bhawanipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-pawasa",
+    "type": "village",
+    "name_en": "Pawasa (Gram Panchayat Area)",
+    "name_hi": "Pawasa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-rp-niyaoli",
+    "type": "village",
+    "name_en": "RP Niyaoli (Gram Panchayat Area)",
+    "name_hi": "RP Niyaoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-salarpur",
+    "type": "village",
+    "name_en": "Salarpur (Gram Panchayat Area)",
+    "name_hi": "Salarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-thati",
+    "type": "village",
+    "name_en": "Thati (Gram Panchayat Area)",
+    "name_hi": "Thati (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-rudayan",
+    "type": "village",
+    "name_en": "Rudayan (Gram Panchayat Area)",
+    "name_hi": "Rudayan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244303"
+    ]
+  },
+  {
+    "id": "po-sambhal-sondhan-mohdpur",
+    "type": "village",
+    "name_en": "Sondhan Mohdpur (Gram Panchayat Area)",
+    "name_hi": "Sondhan Mohdpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244303"
+    ]
+  },
+  {
+    "id": "po-sambhal-azamnagar-chopra",
+    "type": "village",
+    "name_en": "Azamnagar Chopra (Gram Panchayat Area)",
+    "name_hi": "Azamnagar Chopra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244301"
+    ]
+  },
+  {
+    "id": "po-sambhal-fatehpur-malakpur",
+    "type": "village",
+    "name_en": "Fatehpur Malakpur (Gram Panchayat Area)",
+    "name_hi": "Fatehpur Malakpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244301"
+    ]
+  },
+  {
+    "id": "po-sambhal-hajratnagar-garhi",
+    "type": "village",
+    "name_en": "Hajratnagar Garhi (Gram Panchayat Area)",
+    "name_hi": "Hajratnagar Garhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244301"
+    ]
+  },
+  {
+    "id": "po-sambhal-niyamatpur",
+    "type": "village",
+    "name_en": "Niyamatpur (Gram Panchayat Area)",
+    "name_hi": "Niyamatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244301"
+    ]
+  },
+  {
+    "id": "po-sambhal-bhatola",
+    "type": "village",
+    "name_en": "Bhatola (Gram Panchayat Area)",
+    "name_hi": "Bhatola (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-isapur-sunwari",
+    "type": "village",
+    "name_en": "Isapur Sunwari (Gram Panchayat Area)",
+    "name_hi": "Isapur Sunwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-kasauli",
+    "type": "village",
+    "name_en": "Kasauli (Gram Panchayat Area)",
+    "name_hi": "Kasauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-lakhauri-jalalpur",
+    "type": "village",
+    "name_en": "Lakhauri Jalalpur (Gram Panchayat Area)",
+    "name_hi": "Lakhauri Jalalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-ruknuddin-sarai",
+    "type": "village",
+    "name_en": "Ruknuddin Sarai (Gram Panchayat Area)",
+    "name_hi": "Ruknuddin Sarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "po-sambhal-sherpur",
+    "type": "village",
+    "name_en": "Sherpur (Gram Panchayat Area)",
+    "name_hi": "Sherpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244303"
+    ]
+  },
+  {
+    "id": "po-sambhal-barahi",
+    "type": "village",
+    "name_en": "Barahi (Gram Panchayat Area)",
+    "name_hi": "Barahi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244301"
+    ]
+  },
+  {
+    "id": "po-sambhal-dingarpur",
+    "type": "village",
+    "name_en": "Dingarpur (Gram Panchayat Area)",
+    "name_hi": "Dingarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244301"
+    ]
+  },
+  {
+    "id": "po-sambhal-mainather",
+    "type": "village",
+    "name_en": "Mainather (Gram Panchayat Area)",
+    "name_hi": "Mainather (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244301"
+    ]
+  },
+  {
+    "id": "po-sambhal-mohd-ganj",
+    "type": "village",
+    "name_en": "Mohd Ganj (Gram Panchayat Area)",
+    "name_hi": "Mohd Ganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244412"
+    ]
+  },
+  {
+    "id": "po-sambhal-raholi",
+    "type": "village",
+    "name_en": "Raholi (Gram Panchayat Area)",
+    "name_hi": "Raholi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244412"
+    ]
+  },
+  {
+    "id": "po-sambhal-afjalpur-darauli",
+    "type": "village",
+    "name_en": "Afjalpur Darauli (Gram Panchayat Area)",
+    "name_hi": "Afjalpur Darauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244414"
+    ]
+  },
+  {
+    "id": "po-sambhal-ancholi",
+    "type": "village",
+    "name_en": "Ancholi (Gram Panchayat Area)",
+    "name_hi": "Ancholi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244414"
+    ]
+  },
+  {
+    "id": "po-sambhal-saidpur-gangu",
+    "type": "village",
+    "name_en": "Saidpur Gangu (Gram Panchayat Area)",
+    "name_hi": "Saidpur Gangu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244304"
+    ]
+  },
+  {
+    "id": "po-sambhal-obri",
+    "type": "village",
+    "name_en": "Obri (Gram Panchayat Area)",
+    "name_hi": "Obri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244102"
+    ]
+  },
+  {
+    "id": "po-sambhal-chatan",
+    "type": "village",
+    "name_en": "Chatan (Gram Panchayat Area)",
+    "name_hi": "Chatan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244410"
+    ]
+  },
+  {
+    "id": "po-sambhal-faridpur-khushal",
+    "type": "village",
+    "name_en": "Faridpur Khushal (Gram Panchayat Area)",
+    "name_hi": "Faridpur Khushal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244410"
+    ]
+  },
+  {
+    "id": "po-sambhal-mau-ka-ther",
+    "type": "village",
+    "name_en": "Mau Ka Ther (Gram Panchayat Area)",
+    "name_hi": "Mau Ka Ther (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244410"
+    ]
+  },
+  {
+    "id": "po-sambhal-nadhos",
+    "type": "village",
+    "name_en": "Nadhos (Gram Panchayat Area)",
+    "name_hi": "Nadhos (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244410"
+    ]
+  },
+  {
+    "id": "po-sambhal-rajpur-kalan",
+    "type": "village",
+    "name_en": "Rajpur Kalan (Gram Panchayat Area)",
+    "name_hi": "Rajpur Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244410"
+    ]
+  },
+  {
+    "id": "po-sambhal-sadatwari",
+    "type": "village",
+    "name_en": "Sadatwari (Gram Panchayat Area)",
+    "name_hi": "Sadatwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244410"
+    ]
+  },
+  {
+    "id": "po-sambhal-bahroli-taharpur",
+    "type": "village",
+    "name_en": "Bahroli Taharpur (Gram Panchayat Area)",
+    "name_hi": "Bahroli Taharpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244410"
+    ]
+  },
+  {
+    "id": "po-sambhal-dharampur-ratta",
+    "type": "village",
+    "name_en": "Dharampur Ratta (Gram Panchayat Area)",
+    "name_hi": "Dharampur Ratta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-sambhal-kurh-fatehgarh",
+    "type": "village",
+    "name_en": "Kurh Fatehgarh (Gram Panchayat Area)",
+    "name_hi": "Kurh Fatehgarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-sambhal-chandausi-rs",
+    "type": "village",
+    "name_en": "Chandausi RS (Gram Panchayat Area)",
+    "name_hi": "Chandausi RS (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244412"
+    ]
+  },
+  {
+    "id": "po-sambhal-maulagarh",
+    "type": "village",
+    "name_en": "Maulagarh (Gram Panchayat Area)",
+    "name_hi": "Maulagarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244412"
+    ]
+  },
+  {
+    "id": "po-sambhal-alipur-buzurg",
+    "type": "village",
+    "name_en": "Alipur Buzurg (Gram Panchayat Area)",
+    "name_hi": "Alipur Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244414"
+    ]
+  },
+  {
+    "id": "po-sambhal-nagla-purvi",
+    "type": "village",
+    "name_en": "Nagla Purvi (Gram Panchayat Area)",
+    "name_hi": "Nagla Purvi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244412"
+    ]
+  },
+  {
+    "id": "po-sambhal-behta-khas",
+    "type": "village",
+    "name_en": "Behta Khas (Gram Panchayat Area)",
+    "name_hi": "Behta Khas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244412"
+    ]
+  },
+  {
+    "id": "po-sambhal-ratupura",
+    "type": "village",
+    "name_en": "Ratupura (Gram Panchayat Area)",
+    "name_hi": "Ratupura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244102"
+    ]
+  },
+  {
+    "id": "po-sambhal-shahbaj-pur-kalan",
+    "type": "village",
+    "name_en": "Shahbaj Pur Kalan (Gram Panchayat Area)",
+    "name_hi": "Shahbaj Pur Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244102"
+    ]
+  },
+  {
+    "id": "po-sambhal-fatehpur-samsoi",
+    "type": "village",
+    "name_en": "Fatehpur Samsoi (Gram Panchayat Area)",
+    "name_hi": "Fatehpur Samsoi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244410"
+    ]
+  },
+  {
+    "id": "po-sambhal-jarai-hayat-nagar",
+    "type": "village",
+    "name_en": "Jarai Hayat Nagar (Gram Panchayat Area)",
+    "name_hi": "Jarai Hayat Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244410"
+    ]
+  },
+  {
+    "id": "po-sambhal-majhola",
+    "type": "village",
+    "name_en": "Majhola (Gram Panchayat Area)",
+    "name_hi": "Majhola (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244410"
+    ]
+  },
+  {
+    "id": "po-sambhal-muletha",
+    "type": "village",
+    "name_en": "Muletha (Gram Panchayat Area)",
+    "name_hi": "Muletha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244410"
+    ]
+  },
+  {
+    "id": "po-sambhal-pathakpur",
+    "type": "village",
+    "name_en": "Pathakpur (Gram Panchayat Area)",
+    "name_hi": "Pathakpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244410"
+    ]
+  },
+  {
+    "id": "po-sambhal-raipur-kalan",
+    "type": "village",
+    "name_en": "Raipur Kalan (Gram Panchayat Area)",
+    "name_hi": "Raipur Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244410"
+    ]
+  },
+  {
+    "id": "po-sambhal-berni",
+    "type": "village",
+    "name_en": "Berni (Gram Panchayat Area)",
+    "name_hi": "Berni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-sambhal-chhawara",
+    "type": "village",
+    "name_en": "Chhawara (Gram Panchayat Area)",
+    "name_hi": "Chhawara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-sambhal-dugawar",
+    "type": "village",
+    "name_en": "Dugawar (Gram Panchayat Area)",
+    "name_hi": "Dugawar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244304"
+    ]
+  },
+  {
+    "id": "po-sambhal-dulapur-urf-darapur",
+    "type": "village",
+    "name_en": "Dulapur Urf Darapur (Gram Panchayat Area)",
+    "name_hi": "Dulapur Urf Darapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244304"
+    ]
+  },
+  {
+    "id": "po-sambhal-madala-fatehpur",
+    "type": "village",
+    "name_en": "Madala Fatehpur (Gram Panchayat Area)",
+    "name_hi": "Madala Fatehpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244304"
+    ]
+  },
+  {
+    "id": "po-sambhal-satupura",
+    "type": "village",
+    "name_en": "Satupura (Gram Panchayat Area)",
+    "name_hi": "Satupura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244304"
+    ]
+  },
+  {
+    "id": "po-sambhal-anchora-kamboh",
+    "type": "village",
+    "name_en": "Anchora  Kamboh (Gram Panchayat Area)",
+    "name_hi": "Anchora  Kamboh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244304"
+    ]
+  },
+  {
+    "id": "po-sambhal-harthala",
+    "type": "village",
+    "name_en": "Harthala (Gram Panchayat Area)",
+    "name_hi": "Harthala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244102"
+    ]
+  },
+  {
+    "id": "po-sambhal-khaspur",
+    "type": "village",
+    "name_en": "Khaspur (Gram Panchayat Area)",
+    "name_hi": "Khaspur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244102"
+    ]
+  },
+  {
+    "id": "po-sambhal-asalatpur-jarai",
+    "type": "village",
+    "name_en": "Asalatpur Jarai (Gram Panchayat Area)",
+    "name_hi": "Asalatpur Jarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244412"
+    ]
+  },
+  {
+    "id": "po-sambhal-barauli-rustampur",
+    "type": "village",
+    "name_en": "Barauli Rustampur (Gram Panchayat Area)",
+    "name_hi": "Barauli Rustampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244412"
+    ]
+  },
+  {
+    "id": "po-sambhal-gumthal",
+    "type": "village",
+    "name_en": "Gumthal (Gram Panchayat Area)",
+    "name_hi": "Gumthal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244412"
+    ]
+  },
+  {
+    "id": "po-sambhal-kaithal",
+    "type": "village",
+    "name_en": "Kaithal (Gram Panchayat Area)",
+    "name_hi": "Kaithal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244412"
+    ]
+  },
+  {
+    "id": "po-sambhal-mai",
+    "type": "village",
+    "name_en": "Mai (Gram Panchayat Area)",
+    "name_hi": "Mai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244412"
+    ]
+  },
+  {
+    "id": "po-sambhal-manota",
+    "type": "village",
+    "name_en": "Manota (Gram Panchayat Area)",
+    "name_hi": "Manota (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244304"
+    ]
+  },
+  {
+    "id": "po-sambhal-rampur-urf-yarpur",
+    "type": "village",
+    "name_en": "Rampur Urf Yarpur (Gram Panchayat Area)",
+    "name_hi": "Rampur Urf Yarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244304"
+    ]
+  },
+  {
+    "id": "po-sambhal-madhan",
+    "type": "village",
+    "name_en": "Madhan (Gram Panchayat Area)",
+    "name_hi": "Madhan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244102"
+    ]
+  },
+  {
+    "id": "po-sambhal-alpur-maithra",
+    "type": "village",
+    "name_en": "Alpur Maithra (Gram Panchayat Area)",
+    "name_hi": "Alpur Maithra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244410"
+    ]
+  },
+  {
+    "id": "po-sambhal-rampura",
+    "type": "village",
+    "name_en": "Rampura (Gram Panchayat Area)",
+    "name_hi": "Rampura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244410"
+    ]
+  },
+  {
+    "id": "po-sambhal-sheoraj-pur",
+    "type": "village",
+    "name_en": "Sheoraj  Pur (Gram Panchayat Area)",
+    "name_hi": "Sheoraj  Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244410"
+    ]
+  },
+  {
+    "id": "po-sambhal-akrauli",
+    "type": "village",
+    "name_en": "Akrauli (Gram Panchayat Area)",
+    "name_hi": "Akrauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-sambhal-sarai-jawalapuri",
+    "type": "village",
+    "name_en": "Sarai Jawalapuri (Gram Panchayat Area)",
+    "name_hi": "Sarai Jawalapuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-sambhal-bania-khera",
+    "type": "village",
+    "name_en": "Bania Khera (Gram Panchayat Area)",
+    "name_hi": "Bania Khera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-baniakhera",
+    "block_id": "baniakhera",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244412"
+    ]
+  },
+  {
+    "id": "po-sambhal-budh-nagar-khandwa",
+    "type": "village",
+    "name_en": "Budh Nagar Khandwa (Gram Panchayat Area)",
+    "name_hi": "Budh Nagar Khandwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244412"
+    ]
+  },
+  {
+    "id": "po-sambhal-janeta",
+    "type": "village",
+    "name_en": "Janeta (Gram Panchayat Area)",
+    "name_hi": "Janeta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sambhal",
+    "block_id": "sambhal",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244412"
+    ]
+  },
+  {
+    "id": "ward-sambhal-ulb-sambhal-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Sambhal (All Wards)",
+    "name_hi": "सम्भल नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-sambhal-main",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-sambhal-chandausi",
+    "type": "ward",
+    "name_en": "Chandausi (Urban Ward / SO)",
+    "name_hi": "Chandausi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-sambhal-main",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244412"
+    ]
+  },
+  {
+    "id": "town-sambhal-deepa-sarai",
+    "type": "ward",
+    "name_en": "Deepa Sarai (Urban Ward / SO)",
+    "name_hi": "Deepa Sarai (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-sambhal-main",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "town-sambhal-narauli",
+    "type": "ward",
+    "name_en": "Narauli (Urban Ward / SO)",
+    "name_hi": "Narauli (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-sambhal-main",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244414"
+    ]
+  },
+  {
+    "id": "town-sambhal-asmoli",
+    "type": "ward",
+    "name_en": "Asmoli (Urban Ward / SO)",
+    "name_hi": "Asmoli (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-sambhal-main",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244304"
+    ]
+  },
+  {
+    "id": "town-sambhal-bahjoi",
+    "type": "ward",
+    "name_en": "Bahjoi (Urban Ward / SO)",
+    "name_hi": "Bahjoi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-sambhal-main",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244410"
+    ]
+  },
+  {
+    "id": "town-sambhal-sarai-tarin",
+    "type": "ward",
+    "name_en": "Sarai Tarin (Urban Ward / SO)",
+    "name_hi": "Sarai Tarin (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-sambhal-main",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244303"
+    ]
+  },
+  {
+    "id": "town-sambhal-braham-bazar-chandausi",
+    "type": "ward",
+    "name_en": "Braham Bazar Chandausi (Urban Ward / SO)",
+    "name_hi": "Braham Bazar Chandausi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-sambhal-main",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244412"
+    ]
+  },
+  {
+    "id": "town-sambhal-railway-colony-chandausi",
+    "type": "ward",
+    "name_en": "Railway Colony Chandausi (Urban Ward / SO)",
+    "name_hi": "Railway Colony Chandausi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-sambhal-main",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244412"
+    ]
+  },
+  {
+    "id": "town-sambhal-sambhal",
+    "type": "ward",
+    "name_en": "Sambhal (Urban Ward / SO)",
+    "name_hi": "Sambhal (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-sambhal-main",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244302"
+    ]
+  },
+  {
+    "id": "town-sambhal-sirsi-so-moradabad",
+    "type": "ward",
+    "name_en": "Sirsi SO Moradabad (Urban Ward / SO)",
+    "name_hi": "Sirsi SO Moradabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-sambhal-main",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244301"
+    ]
+  },
+  {
+    "id": "town-sambhal-gunnaur",
+    "type": "ward",
+    "name_en": "Gunnaur (Urban Ward / SO)",
+    "name_hi": "Gunnaur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-sambhal-main",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "243722"
+    ]
+  },
+  {
+    "id": "town-sambhal-ia-babrala",
+    "type": "ward",
+    "name_en": "IA Babrala (Urban Ward / SO)",
+    "name_hi": "IA Babrala (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-sambhal-main",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "242021"
+    ]
+  },
+  {
+    "id": "town-sambhal-chandausi-bara-bazar",
+    "type": "ward",
+    "name_en": "Chandausi Bara Bazar (Urban Ward / SO)",
+    "name_hi": "Chandausi Bara Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-sambhal-main",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244412"
+    ]
+  },
+  {
+    "id": "town-sambhal-babrala",
+    "type": "ward",
+    "name_en": "Babrala (Urban Ward / SO)",
+    "name_hi": "Babrala (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-sambhal-main",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "243751"
+    ]
+  },
+  {
+    "id": "town-sambhal-rajpura-so-budaun",
+    "type": "ward",
+    "name_en": "Rajpura SO Budaun (Urban Ward / SO)",
+    "name_hi": "Rajpura SO Budaun (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-sambhal-main",
+    "tehsil_id": "sambhal",
+    "district_id": "sambhal",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "243727"
+    ]
+  }
+]

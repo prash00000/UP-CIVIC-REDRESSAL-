@@ -1,0 +1,2205 @@
+[
+  {
+    "id": "v-lalitpur-birdha",
+    "type": "village",
+    "name_en": "Birdha Block (Gram Panchayats)",
+    "name_hi": "Birdha विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-lalitpur-jakhaura",
+    "type": "village",
+    "name_en": "Jakhaura Block (Gram Panchayats)",
+    "name_hi": "Jakhaura विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-jakhaura",
+    "block_id": "jakhaura",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-lalitpur-talbehat",
+    "type": "village",
+    "name_en": "Talbehat Block (Gram Panchayats)",
+    "name_hi": "Talbehat विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-talbehat",
+    "block_id": "talbehat",
+    "tehsil_id": "talbehat",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-lalitpur-bar",
+    "type": "village",
+    "name_en": "Bar Block (Gram Panchayats)",
+    "name_hi": "Bar विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bar",
+    "block_id": "bar",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-lalitpur-mahroni",
+    "type": "village",
+    "name_en": "Mahroni Block (Gram Panchayats)",
+    "name_hi": "Mahroni विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mahroni",
+    "block_id": "mahroni",
+    "tehsil_id": "mahroni",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-lalitpur-madawara",
+    "type": "village",
+    "name_en": "Madawara Block (Gram Panchayats)",
+    "name_hi": "Madawara विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-madawara",
+    "block_id": "madawara",
+    "tehsil_id": "madawara",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-lalitpur-ronda",
+    "type": "village",
+    "name_en": "Ronda (Gram Panchayat Area)",
+    "name_hi": "Ronda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-marrauli",
+    "type": "village",
+    "name_en": "Marrauli (Gram Panchayat Area)",
+    "name_hi": "Marrauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284402"
+    ]
+  },
+  {
+    "id": "po-lalitpur-paah",
+    "type": "village",
+    "name_en": "Paah (Gram Panchayat Area)",
+    "name_hi": "Paah (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284402"
+    ]
+  },
+  {
+    "id": "po-lalitpur-pura-kakdari",
+    "type": "village",
+    "name_en": "Pura Kakdari (Gram Panchayat Area)",
+    "name_hi": "Pura Kakdari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284402"
+    ]
+  },
+  {
+    "id": "po-lalitpur-sunwaha",
+    "type": "village",
+    "name_en": "Sunwaha (Gram Panchayat Area)",
+    "name_hi": "Sunwaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284402"
+    ]
+  },
+  {
+    "id": "po-lalitpur-gadyana",
+    "type": "village",
+    "name_en": "Gadyana (Gram Panchayat Area)",
+    "name_hi": "Gadyana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284122"
+    ]
+  },
+  {
+    "id": "po-lalitpur-baghaura",
+    "type": "village",
+    "name_en": "Baghaura (Gram Panchayat Area)",
+    "name_hi": "Baghaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284123"
+    ]
+  },
+  {
+    "id": "po-lalitpur-bhailoni-suba",
+    "type": "village",
+    "name_en": "Bhailoni Suba (Gram Panchayat Area)",
+    "name_hi": "Bhailoni Suba (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284123"
+    ]
+  },
+  {
+    "id": "po-lalitpur-bhaoni",
+    "type": "village",
+    "name_en": "Bhaoni (Gram Panchayat Area)",
+    "name_hi": "Bhaoni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284123"
+    ]
+  },
+  {
+    "id": "po-lalitpur-chiglauwa",
+    "type": "village",
+    "name_en": "Chiglauwa (Gram Panchayat Area)",
+    "name_hi": "Chiglauwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284123"
+    ]
+  },
+  {
+    "id": "po-lalitpur-nanaura",
+    "type": "village",
+    "name_en": "Nanaura (Gram Panchayat Area)",
+    "name_hi": "Nanaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284124"
+    ]
+  },
+  {
+    "id": "po-lalitpur-rakh-panchampur",
+    "type": "village",
+    "name_en": "Rakh Panchampur (Gram Panchayat Area)",
+    "name_hi": "Rakh Panchampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284124"
+    ]
+  },
+  {
+    "id": "po-lalitpur-siron-kalan",
+    "type": "village",
+    "name_en": "Siron Kalan (Gram Panchayat Area)",
+    "name_hi": "Siron Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284124"
+    ]
+  },
+  {
+    "id": "po-lalitpur-sirsi",
+    "type": "village",
+    "name_en": "Sirsi (Gram Panchayat Area)",
+    "name_hi": "Sirsi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284124"
+    ]
+  },
+  {
+    "id": "po-lalitpur-gurha",
+    "type": "village",
+    "name_en": "Gurha (Gram Panchayat Area)",
+    "name_hi": "Gurha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284405"
+    ]
+  },
+  {
+    "id": "po-lalitpur-kakrauwa",
+    "type": "village",
+    "name_en": "Kakrauwa (Gram Panchayat Area)",
+    "name_hi": "Kakrauwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284405"
+    ]
+  },
+  {
+    "id": "po-lalitpur-khajuriya",
+    "type": "village",
+    "name_en": "Khajuriya (Gram Panchayat Area)",
+    "name_hi": "Khajuriya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284405"
+    ]
+  },
+  {
+    "id": "po-lalitpur-khiriya-latkanju",
+    "type": "village",
+    "name_en": "Khiriya Latkanju (Gram Panchayat Area)",
+    "name_hi": "Khiriya Latkanju (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284405"
+    ]
+  },
+  {
+    "id": "po-lalitpur-khitwans",
+    "type": "village",
+    "name_en": "Khitwans (Gram Panchayat Area)",
+    "name_hi": "Khitwans (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284405"
+    ]
+  },
+  {
+    "id": "po-lalitpur-kumheri",
+    "type": "village",
+    "name_en": "Kumheri (Gram Panchayat Area)",
+    "name_hi": "Kumheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284405"
+    ]
+  },
+  {
+    "id": "po-lalitpur-silawan",
+    "type": "village",
+    "name_en": "Silawan (Gram Panchayat Area)",
+    "name_hi": "Silawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284405"
+    ]
+  },
+  {
+    "id": "po-lalitpur-satarwans",
+    "type": "village",
+    "name_en": "Satarwans (Gram Panchayat Area)",
+    "name_hi": "Satarwans (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-khiriya-chhatara",
+    "type": "village",
+    "name_en": "Khiriya Chhatara (Gram Panchayat Area)",
+    "name_hi": "Khiriya Chhatara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-niwai-nibaho",
+    "type": "village",
+    "name_en": "Niwai Nibaho (Gram Panchayat Area)",
+    "name_hi": "Niwai Nibaho (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-pali",
+    "type": "village",
+    "name_en": "Pali (Gram Panchayat Area)",
+    "name_hi": "Pali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "pali",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-kailguwan",
+    "type": "village",
+    "name_en": "Kailguwan (Gram Panchayat Area)",
+    "name_hi": "Kailguwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284402"
+    ]
+  },
+  {
+    "id": "po-lalitpur-asaupura",
+    "type": "village",
+    "name_en": "Asaupura (Gram Panchayat Area)",
+    "name_hi": "Asaupura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284122"
+    ]
+  },
+  {
+    "id": "po-lalitpur-dulawan",
+    "type": "village",
+    "name_en": "Dulawan (Gram Panchayat Area)",
+    "name_hi": "Dulawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284122"
+    ]
+  },
+  {
+    "id": "po-lalitpur-kalyanpura",
+    "type": "village",
+    "name_en": "Kalyanpura (Gram Panchayat Area)",
+    "name_hi": "Kalyanpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284122"
+    ]
+  },
+  {
+    "id": "po-lalitpur-baroda-daang",
+    "type": "village",
+    "name_en": "Baroda Daang (Gram Panchayat Area)",
+    "name_hi": "Baroda Daang (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bar",
+    "block_id": "bar",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284123"
+    ]
+  },
+  {
+    "id": "po-lalitpur-dasrara",
+    "type": "village",
+    "name_en": "Dasrara (Gram Panchayat Area)",
+    "name_hi": "Dasrara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284123"
+    ]
+  },
+  {
+    "id": "po-lalitpur-ladhwari",
+    "type": "village",
+    "name_en": "Ladhwari (Gram Panchayat Area)",
+    "name_hi": "Ladhwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284123"
+    ]
+  },
+  {
+    "id": "po-lalitpur-ghisauli",
+    "type": "village",
+    "name_en": "Ghisauli (Gram Panchayat Area)",
+    "name_hi": "Ghisauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284124"
+    ]
+  },
+  {
+    "id": "po-lalitpur-pipra-raipur",
+    "type": "village",
+    "name_en": "Pipra Raipur (Gram Panchayat Area)",
+    "name_hi": "Pipra Raipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284124"
+    ]
+  },
+  {
+    "id": "po-lalitpur-dhauri-sagar",
+    "type": "village",
+    "name_en": "Dhauri Sagar (Gram Panchayat Area)",
+    "name_hi": "Dhauri Sagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284404"
+    ]
+  },
+  {
+    "id": "po-lalitpur-didonia",
+    "type": "village",
+    "name_en": "Didonia (Gram Panchayat Area)",
+    "name_hi": "Didonia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284404"
+    ]
+  },
+  {
+    "id": "po-lalitpur-gidwaha",
+    "type": "village",
+    "name_en": "Gidwaha (Gram Panchayat Area)",
+    "name_hi": "Gidwaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284404"
+    ]
+  },
+  {
+    "id": "po-lalitpur-gona-kushmadh",
+    "type": "village",
+    "name_en": "Gona Kushmadh (Gram Panchayat Area)",
+    "name_hi": "Gona Kushmadh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284405"
+    ]
+  },
+  {
+    "id": "po-lalitpur-nainwara",
+    "type": "village",
+    "name_en": "Nainwara (Gram Panchayat Area)",
+    "name_hi": "Nainwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284405"
+    ]
+  },
+  {
+    "id": "po-lalitpur-patha",
+    "type": "village",
+    "name_en": "Patha (Gram Panchayat Area)",
+    "name_hi": "Patha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284405"
+    ]
+  },
+  {
+    "id": "po-lalitpur-arjunkhiriya",
+    "type": "village",
+    "name_en": "Arjunkhiriya (Gram Panchayat Area)",
+    "name_hi": "Arjunkhiriya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284406"
+    ]
+  },
+  {
+    "id": "po-lalitpur-kuantala",
+    "type": "village",
+    "name_en": "Kuantala (Gram Panchayat Area)",
+    "name_hi": "Kuantala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-serwans-khurd",
+    "type": "village",
+    "name_en": "Serwans Khurd (Gram Panchayat Area)",
+    "name_hi": "Serwans Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-silgan",
+    "type": "village",
+    "name_en": "Silgan (Gram Panchayat Area)",
+    "name_hi": "Silgan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-masaura-khurd",
+    "type": "village",
+    "name_en": "Masaura Khurd (Gram Panchayat Area)",
+    "name_hi": "Masaura Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-dhaurra",
+    "type": "village",
+    "name_en": "Dhaurra (Gram Panchayat Area)",
+    "name_hi": "Dhaurra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-billa",
+    "type": "village",
+    "name_en": "Billa (Gram Panchayat Area)",
+    "name_hi": "Billa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284402"
+    ]
+  },
+  {
+    "id": "po-lalitpur-barkhiriya",
+    "type": "village",
+    "name_en": "Barkhiriya (Gram Panchayat Area)",
+    "name_hi": "Barkhiriya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bar",
+    "block_id": "bar",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284122"
+    ]
+  },
+  {
+    "id": "po-lalitpur-basatguwan",
+    "type": "village",
+    "name_en": "Basatguwan (Gram Panchayat Area)",
+    "name_hi": "Basatguwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284122"
+    ]
+  },
+  {
+    "id": "po-lalitpur-bastrawan",
+    "type": "village",
+    "name_en": "Bastrawan (Gram Panchayat Area)",
+    "name_hi": "Bastrawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284122"
+    ]
+  },
+  {
+    "id": "po-lalitpur-deoran",
+    "type": "village",
+    "name_en": "Deoran (Gram Panchayat Area)",
+    "name_hi": "Deoran (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284122"
+    ]
+  },
+  {
+    "id": "po-lalitpur-lakhanpura",
+    "type": "village",
+    "name_en": "Lakhanpura (Gram Panchayat Area)",
+    "name_hi": "Lakhanpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284122"
+    ]
+  },
+  {
+    "id": "po-lalitpur-nadanwara",
+    "type": "village",
+    "name_en": "Nadanwara (Gram Panchayat Area)",
+    "name_hi": "Nadanwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284122"
+    ]
+  },
+  {
+    "id": "po-lalitpur-muhara",
+    "type": "village",
+    "name_en": "Muhara (Gram Panchayat Area)",
+    "name_hi": "Muhara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284122"
+    ]
+  },
+  {
+    "id": "po-lalitpur-bachhraoni",
+    "type": "village",
+    "name_en": "Bachhraoni (Gram Panchayat Area)",
+    "name_hi": "Bachhraoni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284123"
+    ]
+  },
+  {
+    "id": "po-lalitpur-nagara",
+    "type": "village",
+    "name_en": "Nagara (Gram Panchayat Area)",
+    "name_hi": "Nagara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284123"
+    ]
+  },
+  {
+    "id": "po-lalitpur-paron",
+    "type": "village",
+    "name_en": "Paron (Gram Panchayat Area)",
+    "name_hi": "Paron (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284123"
+    ]
+  },
+  {
+    "id": "po-lalitpur-baroda-swami",
+    "type": "village",
+    "name_en": "Baroda Swami (Gram Panchayat Area)",
+    "name_hi": "Baroda Swami (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bar",
+    "block_id": "bar",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284124"
+    ]
+  },
+  {
+    "id": "po-lalitpur-girar",
+    "type": "village",
+    "name_en": "Girar (Gram Panchayat Area)",
+    "name_hi": "Girar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284404"
+    ]
+  },
+  {
+    "id": "po-lalitpur-karitoran",
+    "type": "village",
+    "name_en": "Karitoran (Gram Panchayat Area)",
+    "name_hi": "Karitoran (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284404"
+    ]
+  },
+  {
+    "id": "po-lalitpur-sadhumar",
+    "type": "village",
+    "name_en": "Sadhumar (Gram Panchayat Area)",
+    "name_hi": "Sadhumar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284404"
+    ]
+  },
+  {
+    "id": "po-lalitpur-saidpur",
+    "type": "village",
+    "name_en": "Saidpur (Gram Panchayat Area)",
+    "name_hi": "Saidpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284404"
+    ]
+  },
+  {
+    "id": "po-lalitpur-siron-madawra",
+    "type": "village",
+    "name_en": "Siron Madawra (Gram Panchayat Area)",
+    "name_hi": "Siron Madawra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284404"
+    ]
+  },
+  {
+    "id": "po-lalitpur-sonrai",
+    "type": "village",
+    "name_en": "Sonrai (Gram Panchayat Area)",
+    "name_hi": "Sonrai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284404"
+    ]
+  },
+  {
+    "id": "po-lalitpur-bamhori-bahadur-singh",
+    "type": "village",
+    "name_en": "Bamhori Bahadur Singh (Gram Panchayat Area)",
+    "name_hi": "Bamhori Bahadur Singh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284405"
+    ]
+  },
+  {
+    "id": "po-lalitpur-bhondi",
+    "type": "village",
+    "name_en": "Bhondi (Gram Panchayat Area)",
+    "name_hi": "Bhondi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284405"
+    ]
+  },
+  {
+    "id": "po-lalitpur-chhapchhaul",
+    "type": "village",
+    "name_en": "Chhapchhaul (Gram Panchayat Area)",
+    "name_hi": "Chhapchhaul (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284405"
+    ]
+  },
+  {
+    "id": "po-lalitpur-bomori-bansa",
+    "type": "village",
+    "name_en": "Bomori Bansa (Gram Panchayat Area)",
+    "name_hi": "Bomori Bansa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284406"
+    ]
+  },
+  {
+    "id": "po-lalitpur-dongra-kalan",
+    "type": "village",
+    "name_en": "Dongra Kalan (Gram Panchayat Area)",
+    "name_hi": "Dongra Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284406"
+    ]
+  },
+  {
+    "id": "po-lalitpur-dongra-khurd",
+    "type": "village",
+    "name_en": "Dongra Khurd (Gram Panchayat Area)",
+    "name_hi": "Dongra Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284406"
+    ]
+  },
+  {
+    "id": "po-lalitpur-gauna",
+    "type": "village",
+    "name_en": "Gauna (Gram Panchayat Area)",
+    "name_hi": "Gauna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284406"
+    ]
+  },
+  {
+    "id": "po-lalitpur-chadhraoo",
+    "type": "village",
+    "name_en": "Chadhraoo (Gram Panchayat Area)",
+    "name_hi": "Chadhraoo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-kuagaon",
+    "type": "village",
+    "name_en": "Kuagaon (Gram Panchayat Area)",
+    "name_hi": "Kuagaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284402"
+    ]
+  },
+  {
+    "id": "po-lalitpur-udaipura",
+    "type": "village",
+    "name_en": "Udaipura (Gram Panchayat Area)",
+    "name_hi": "Udaipura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284402"
+    ]
+  },
+  {
+    "id": "po-lalitpur-alapur",
+    "type": "village",
+    "name_en": "Alapur (Gram Panchayat Area)",
+    "name_hi": "Alapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284122"
+    ]
+  },
+  {
+    "id": "po-lalitpur-gadiya",
+    "type": "village",
+    "name_en": "Gadiya (Gram Panchayat Area)",
+    "name_hi": "Gadiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284122"
+    ]
+  },
+  {
+    "id": "po-lalitpur-jamalpur",
+    "type": "village",
+    "name_en": "Jamalpur (Gram Panchayat Area)",
+    "name_hi": "Jamalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284122"
+    ]
+  },
+  {
+    "id": "po-lalitpur-karmai",
+    "type": "village",
+    "name_en": "Karmai (Gram Panchayat Area)",
+    "name_hi": "Karmai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284122"
+    ]
+  },
+  {
+    "id": "po-lalitpur-bamhori-khandel",
+    "type": "village",
+    "name_en": "Bamhori Khandel (Gram Panchayat Area)",
+    "name_hi": "Bamhori Khandel (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284123"
+    ]
+  },
+  {
+    "id": "po-lalitpur-bhailoni-lodh",
+    "type": "village",
+    "name_en": "Bhailoni Lodh (Gram Panchayat Area)",
+    "name_hi": "Bhailoni Lodh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284123"
+    ]
+  },
+  {
+    "id": "po-lalitpur-chungi",
+    "type": "village",
+    "name_en": "Chungi (Gram Panchayat Area)",
+    "name_hi": "Chungi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284123"
+    ]
+  },
+  {
+    "id": "po-lalitpur-dhangol",
+    "type": "village",
+    "name_en": "Dhangol (Gram Panchayat Area)",
+    "name_hi": "Dhangol (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284123"
+    ]
+  },
+  {
+    "id": "po-lalitpur-kisalwans",
+    "type": "village",
+    "name_en": "Kisalwans (Gram Panchayat Area)",
+    "name_hi": "Kisalwans (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284124"
+    ]
+  },
+  {
+    "id": "po-lalitpur-mainwara",
+    "type": "village",
+    "name_en": "Mainwara (Gram Panchayat Area)",
+    "name_hi": "Mainwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284124"
+    ]
+  },
+  {
+    "id": "po-lalitpur-nauharkalan",
+    "type": "village",
+    "name_en": "Nauharkalan (Gram Panchayat Area)",
+    "name_hi": "Nauharkalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284124"
+    ]
+  },
+  {
+    "id": "po-lalitpur-bamhori-madawra",
+    "type": "village",
+    "name_en": "Bamhori Madawra (Gram Panchayat Area)",
+    "name_hi": "Bamhori Madawra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284404"
+    ]
+  },
+  {
+    "id": "po-lalitpur-dhawa",
+    "type": "village",
+    "name_en": "Dhawa (Gram Panchayat Area)",
+    "name_hi": "Dhawa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284404"
+    ]
+  },
+  {
+    "id": "po-lalitpur-garholi-kalan",
+    "type": "village",
+    "name_en": "Garholi Kalan (Gram Panchayat Area)",
+    "name_hi": "Garholi Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284404"
+    ]
+  },
+  {
+    "id": "po-lalitpur-dhawari",
+    "type": "village",
+    "name_en": "Dhawari (Gram Panchayat Area)",
+    "name_hi": "Dhawari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284405"
+    ]
+  },
+  {
+    "id": "po-lalitpur-naikaura",
+    "type": "village",
+    "name_en": "Naikaura (Gram Panchayat Area)",
+    "name_hi": "Naikaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284405"
+    ]
+  },
+  {
+    "id": "po-lalitpur-saujana",
+    "type": "village",
+    "name_en": "Saujana (Gram Panchayat Area)",
+    "name_hi": "Saujana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284405"
+    ]
+  },
+  {
+    "id": "po-lalitpur-sindwaha",
+    "type": "village",
+    "name_en": "Sindwaha (Gram Panchayat Area)",
+    "name_hi": "Sindwaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284405"
+    ]
+  },
+  {
+    "id": "po-lalitpur-bangawan-kalan",
+    "type": "village",
+    "name_en": "Bangawan Kalan (Gram Panchayat Area)",
+    "name_hi": "Bangawan Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284136"
+    ]
+  },
+  {
+    "id": "po-lalitpur-balabehat",
+    "type": "village",
+    "name_en": "Balabehat (Gram Panchayat Area)",
+    "name_hi": "Balabehat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284406"
+    ]
+  },
+  {
+    "id": "po-lalitpur-mahauli",
+    "type": "village",
+    "name_en": "Mahauli (Gram Panchayat Area)",
+    "name_hi": "Mahauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284406"
+    ]
+  },
+  {
+    "id": "po-lalitpur-barodabijlaun",
+    "type": "village",
+    "name_en": "Barodabijlaun (Gram Panchayat Area)",
+    "name_hi": "Barodabijlaun (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bar",
+    "block_id": "bar",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-dailwara",
+    "type": "village",
+    "name_en": "Dailwara (Gram Panchayat Area)",
+    "name_hi": "Dailwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-patauwa",
+    "type": "village",
+    "name_en": "Patauwa (Gram Panchayat Area)",
+    "name_hi": "Patauwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-baarod",
+    "type": "village",
+    "name_en": "Baarod (Gram Panchayat Area)",
+    "name_hi": "Baarod (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-piprai",
+    "type": "village",
+    "name_en": "Piprai (Gram Panchayat Area)",
+    "name_hi": "Piprai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-ghatwar",
+    "type": "village",
+    "name_en": "Ghatwar (Gram Panchayat Area)",
+    "name_hi": "Ghatwar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-bamhori-kalan",
+    "type": "village",
+    "name_en": "Bamhori Kalan (Gram Panchayat Area)",
+    "name_hi": "Bamhori Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-jijyawan",
+    "type": "village",
+    "name_en": "Jijyawan (Gram Panchayat Area)",
+    "name_hi": "Jijyawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-birdha",
+    "type": "village",
+    "name_en": "Birdha (Gram Panchayat Area)",
+    "name_hi": "Birdha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-burhwar",
+    "type": "village",
+    "name_en": "Burhwar (Gram Panchayat Area)",
+    "name_hi": "Burhwar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-daoni",
+    "type": "village",
+    "name_en": "Daoni (Gram Panchayat Area)",
+    "name_hi": "Daoni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-jamuniya",
+    "type": "village",
+    "name_en": "Jamuniya (Gram Panchayat Area)",
+    "name_hi": "Jamuniya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-kachnadakala",
+    "type": "village",
+    "name_en": "Kachnadakala (Gram Panchayat Area)",
+    "name_hi": "Kachnadakala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-jeeron",
+    "type": "village",
+    "name_en": "Jeeron (Gram Panchayat Area)",
+    "name_hi": "Jeeron (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-padhna",
+    "type": "village",
+    "name_en": "Padhna (Gram Panchayat Area)",
+    "name_hi": "Padhna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-bant",
+    "type": "village",
+    "name_en": "Bant (Gram Panchayat Area)",
+    "name_hi": "Bant (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-mirchwara",
+    "type": "village",
+    "name_en": "Mirchwara (Gram Panchayat Area)",
+    "name_hi": "Mirchwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-tera",
+    "type": "village",
+    "name_en": "Tera (Gram Panchayat Area)",
+    "name_hi": "Tera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-jakhlaun",
+    "type": "village",
+    "name_en": "Jakhlaun (Gram Panchayat Area)",
+    "name_hi": "Jakhlaun (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-rajwara",
+    "type": "village",
+    "name_en": "Rajwara (Gram Panchayat Area)",
+    "name_hi": "Rajwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "po-lalitpur-umariya",
+    "type": "village",
+    "name_en": "Umariya (Gram Panchayat Area)",
+    "name_hi": "Umariya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284406"
+    ]
+  },
+  {
+    "id": "po-lalitpur-bamhori-sarr",
+    "type": "village",
+    "name_en": "Bamhori Sarr (Gram Panchayat Area)",
+    "name_hi": "Bamhori Sarr (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284126"
+    ]
+  },
+  {
+    "id": "po-lalitpur-patna",
+    "type": "village",
+    "name_en": "Patna (Gram Panchayat Area)",
+    "name_hi": "Patna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284406"
+    ]
+  },
+  {
+    "id": "po-lalitpur-thanwara",
+    "type": "village",
+    "name_en": "Thanwara (Gram Panchayat Area)",
+    "name_hi": "Thanwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284501"
+    ]
+  },
+  {
+    "id": "po-lalitpur-kadesarakalan",
+    "type": "village",
+    "name_en": "Kadesarakalan (Gram Panchayat Area)",
+    "name_hi": "Kadesarakalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284126"
+    ]
+  },
+  {
+    "id": "po-lalitpur-miyaoon",
+    "type": "village",
+    "name_en": "Miyaoon (Gram Panchayat Area)",
+    "name_hi": "Miyaoon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284126"
+    ]
+  },
+  {
+    "id": "po-lalitpur-bijrautha",
+    "type": "village",
+    "name_en": "Bijrautha (Gram Panchayat Area)",
+    "name_hi": "Bijrautha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284126"
+    ]
+  },
+  {
+    "id": "po-lalitpur-hasarkalan",
+    "type": "village",
+    "name_en": "Hasarkalan (Gram Panchayat Area)",
+    "name_hi": "Hasarkalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284126"
+    ]
+  },
+  {
+    "id": "po-lalitpur-bhuchera",
+    "type": "village",
+    "name_en": "Bhuchera (Gram Panchayat Area)",
+    "name_hi": "Bhuchera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284126"
+    ]
+  },
+  {
+    "id": "po-lalitpur-paraul",
+    "type": "village",
+    "name_en": "Paraul (Gram Panchayat Area)",
+    "name_hi": "Paraul (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284406"
+    ]
+  },
+  {
+    "id": "po-lalitpur-deori",
+    "type": "village",
+    "name_en": "Deori (Gram Panchayat Area)",
+    "name_hi": "Deori (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284501"
+    ]
+  },
+  {
+    "id": "po-lalitpur-lagaun",
+    "type": "village",
+    "name_en": "Lagaun (Gram Panchayat Area)",
+    "name_hi": "Lagaun (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284501"
+    ]
+  },
+  {
+    "id": "po-lalitpur-badiwar-kalan",
+    "type": "village",
+    "name_en": "Badiwar Kalan (Gram Panchayat Area)",
+    "name_hi": "Badiwar Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284126"
+    ]
+  },
+  {
+    "id": "po-lalitpur-kakdari",
+    "type": "village",
+    "name_en": "Kakdari (Gram Panchayat Area)",
+    "name_hi": "Kakdari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284126"
+    ]
+  },
+  {
+    "id": "po-lalitpur-khandi",
+    "type": "village",
+    "name_en": "Khandi (Gram Panchayat Area)",
+    "name_hi": "Khandi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284126"
+    ]
+  },
+  {
+    "id": "po-lalitpur-pawa",
+    "type": "village",
+    "name_en": "Pawa (Gram Panchayat Area)",
+    "name_hi": "Pawa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284126"
+    ]
+  },
+  {
+    "id": "po-lalitpur-natthikheda",
+    "type": "village",
+    "name_en": "Natthikheda (Gram Panchayat Area)",
+    "name_hi": "Natthikheda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284126"
+    ]
+  },
+  {
+    "id": "po-lalitpur-sarsend",
+    "type": "village",
+    "name_en": "Sarsend (Gram Panchayat Area)",
+    "name_hi": "Sarsend (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284126"
+    ]
+  },
+  {
+    "id": "po-lalitpur-poora-kalan",
+    "type": "village",
+    "name_en": "Poora Kalan (Gram Panchayat Area)",
+    "name_hi": "Poora Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284126"
+    ]
+  },
+  {
+    "id": "po-lalitpur-poora-virdha",
+    "type": "village",
+    "name_en": "Poora Virdha (Gram Panchayat Area)",
+    "name_hi": "Poora Virdha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284126"
+    ]
+  },
+  {
+    "id": "po-lalitpur-rajawan",
+    "type": "village",
+    "name_en": "Rajawan (Gram Panchayat Area)",
+    "name_hi": "Rajawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284126"
+    ]
+  },
+  {
+    "id": "po-lalitpur-sanori",
+    "type": "village",
+    "name_en": "Sanori (Gram Panchayat Area)",
+    "name_hi": "Sanori (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284126"
+    ]
+  },
+  {
+    "id": "po-lalitpur-serwans-kalan",
+    "type": "village",
+    "name_en": "Serwans Kalan (Gram Panchayat Area)",
+    "name_hi": "Serwans Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-birdha",
+    "block_id": "birdha",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "284126"
+    ]
+  },
+  {
+    "id": "ward-lalitpur-ulb-lalitpur-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Lalitpur (All Wards)",
+    "name_hi": "ललितपुर नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-lalitpur-main",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-lalitpur-lalitpur",
+    "type": "ward",
+    "name_en": "LALITPUR (Urban Ward / SO)",
+    "name_hi": "LALITPUR (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-lalitpur-main",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "town-lalitpur-lakeviewcamp",
+    "type": "ward",
+    "name_en": "Lakeviewcamp (Urban Ward / SO)",
+    "name_hi": "Lakeviewcamp (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-lalitpur-main",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "284125"
+    ]
+  },
+  {
+    "id": "town-lalitpur-mahroni",
+    "type": "ward",
+    "name_en": "Mahroni (Urban Ward / SO)",
+    "name_hi": "Mahroni (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-lalitpur-main",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "284405"
+    ]
+  },
+  {
+    "id": "town-lalitpur-narahat",
+    "type": "ward",
+    "name_en": "Narahat (Urban Ward / SO)",
+    "name_hi": "Narahat (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-lalitpur-main",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "284406"
+    ]
+  },
+  {
+    "id": "town-lalitpur-rajghat-dam-project",
+    "type": "ward",
+    "name_en": "Rajghat Dam Project (Urban Ward / SO)",
+    "name_hi": "Rajghat Dam Project (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-lalitpur-main",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "284501"
+    ]
+  },
+  {
+    "id": "town-lalitpur-siddhisagar",
+    "type": "ward",
+    "name_en": "Siddhisagar (Urban Ward / SO)",
+    "name_hi": "Siddhisagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-lalitpur-main",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "town-lalitpur-talbehat",
+    "type": "ward",
+    "name_en": "Talbehat (Urban Ward / SO)",
+    "name_hi": "Talbehat (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-lalitpur-main",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "284126"
+    ]
+  },
+  {
+    "id": "town-lalitpur-barh-so-lalitpur",
+    "type": "ward",
+    "name_en": "Barh SO Lalitpur (Urban Ward / SO)",
+    "name_hi": "Barh SO Lalitpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-lalitpur-main",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "284123"
+    ]
+  },
+  {
+    "id": "town-lalitpur-katra-bazar-lalitpur",
+    "type": "ward",
+    "name_en": "Katra Bazar Lalitpur (Urban Ward / SO)",
+    "name_hi": "Katra Bazar Lalitpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-lalitpur-main",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "town-lalitpur-bansi-so-lalitpur",
+    "type": "ward",
+    "name_en": "Bansi SO Lalitpur (Urban Ward / SO)",
+    "name_hi": "Bansi SO Lalitpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-lalitpur-main",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "284122"
+    ]
+  },
+  {
+    "id": "town-lalitpur-jakhaura",
+    "type": "ward",
+    "name_en": "Jakhaura (Urban Ward / SO)",
+    "name_hi": "Jakhaura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-lalitpur-main",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "284124"
+    ]
+  },
+  {
+    "id": "town-lalitpur-lalitpur-railway-station",
+    "type": "ward",
+    "name_en": "Lalitpur Railway Station (Urban Ward / SO)",
+    "name_hi": "Lalitpur Railway Station (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-lalitpur-main",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "284403"
+    ]
+  },
+  {
+    "id": "town-lalitpur-madawra",
+    "type": "ward",
+    "name_en": "Madawra (Urban Ward / SO)",
+    "name_hi": "Madawra (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-lalitpur-main",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "284404"
+    ]
+  },
+  {
+    "id": "town-lalitpur-matatila",
+    "type": "ward",
+    "name_en": "Matatila (Urban Ward / SO)",
+    "name_hi": "Matatila (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-lalitpur-main",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "284136"
+    ]
+  },
+  {
+    "id": "town-lalitpur-banpur-so-lalitpur",
+    "type": "ward",
+    "name_en": "Banpur SO Lalitpur (Urban Ward / SO)",
+    "name_hi": "Banpur SO Lalitpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-lalitpur-main",
+    "tehsil_id": "lalitpur",
+    "district_id": "lalitpur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "284402"
+    ]
+  }
+]

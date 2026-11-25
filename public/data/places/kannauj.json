@@ -1,0 +1,2081 @@
+[
+  {
+    "id": "v-kannauj-kannauj",
+    "type": "village",
+    "name_en": "Kannauj Block (Gram Panchayats)",
+    "name_hi": "Kannauj विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kannauj-jalalabad",
+    "type": "village",
+    "name_en": "Jalalabad Block (Gram Panchayats)",
+    "name_hi": "Jalalabad विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-jalalabad",
+    "block_id": "jalalabad",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kannauj-guganpur",
+    "type": "village",
+    "name_en": "Guganpur Block (Gram Panchayats)",
+    "name_hi": "Guganpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-guganpur",
+    "block_id": "guganpur",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kannauj-talgram",
+    "type": "village",
+    "name_en": "Talgram Block (Gram Panchayats)",
+    "name_hi": "Talgram विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-talgram",
+    "block_id": "talgram",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kannauj-chhibramau",
+    "type": "village",
+    "name_en": "Chhibramau Block (Gram Panchayats)",
+    "name_hi": "Chhibramau विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-chhibramau",
+    "block_id": "chhibramau",
+    "tehsil_id": "chhibramau",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kannauj-saurikh",
+    "type": "village",
+    "name_en": "Saurikh Block (Gram Panchayats)",
+    "name_hi": "Saurikh विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-saurikh",
+    "block_id": "saurikh",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kannauj-tirwa",
+    "type": "village",
+    "name_en": "Tirwa Block (Gram Panchayats)",
+    "name_hi": "Tirwa विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-tirwa",
+    "block_id": "tirwa",
+    "tehsil_id": "tirwa",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kannauj-haseran",
+    "type": "village",
+    "name_en": "Haseran Block (Gram Panchayats)",
+    "name_hi": "Haseran विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-haseran",
+    "block_id": "haseran",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-kannauj-dadauna",
+    "type": "village",
+    "name_en": "Dadauna (Gram Panchayat Area)",
+    "name_hi": "Dadauna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209747"
+    ]
+  },
+  {
+    "id": "po-kannauj-majhupur",
+    "type": "village",
+    "name_en": "Majhupur (Gram Panchayat Area)",
+    "name_hi": "Majhupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209747"
+    ]
+  },
+  {
+    "id": "po-kannauj-paraur",
+    "type": "village",
+    "name_en": "Paraur (Gram Panchayat Area)",
+    "name_hi": "Paraur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209747"
+    ]
+  },
+  {
+    "id": "po-kannauj-rohili",
+    "type": "village",
+    "name_en": "Rohili (Gram Panchayat Area)",
+    "name_hi": "Rohili (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209735"
+    ]
+  },
+  {
+    "id": "po-kannauj-tera-jaket",
+    "type": "village",
+    "name_en": "Tera Jaket (Gram Panchayat Area)",
+    "name_hi": "Tera Jaket (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209735"
+    ]
+  },
+  {
+    "id": "po-kannauj-miyaganj",
+    "type": "village",
+    "name_en": "Miyaganj (Gram Panchayat Area)",
+    "name_hi": "Miyaganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209727"
+    ]
+  },
+  {
+    "id": "po-kannauj-muraiya-buzurg",
+    "type": "village",
+    "name_en": "Muraiya Buzurg (Gram Panchayat Area)",
+    "name_hi": "Muraiya Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209727"
+    ]
+  },
+  {
+    "id": "po-kannauj-nazrapur-patti",
+    "type": "village",
+    "name_en": "Nazrapur Patti (Gram Panchayat Area)",
+    "name_hi": "Nazrapur Patti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209727"
+    ]
+  },
+  {
+    "id": "po-kannauj-painda-bad",
+    "type": "village",
+    "name_en": "Painda Bad (Gram Panchayat Area)",
+    "name_hi": "Painda Bad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209727"
+    ]
+  },
+  {
+    "id": "po-kannauj-aruha",
+    "type": "village",
+    "name_en": "Aruha (Gram Panchayat Area)",
+    "name_hi": "Aruha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209728"
+    ]
+  },
+  {
+    "id": "po-kannauj-birpur",
+    "type": "village",
+    "name_en": "Birpur (Gram Panchayat Area)",
+    "name_hi": "Birpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209747"
+    ]
+  },
+  {
+    "id": "po-kannauj-salempur",
+    "type": "village",
+    "name_en": "Salempur (Gram Panchayat Area)",
+    "name_hi": "Salempur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209747"
+    ]
+  },
+  {
+    "id": "po-kannauj-sarifabad",
+    "type": "village",
+    "name_en": "Sarifabad (Gram Panchayat Area)",
+    "name_hi": "Sarifabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209747"
+    ]
+  },
+  {
+    "id": "po-kannauj-gangemau",
+    "type": "village",
+    "name_en": "Gangemau (Gram Panchayat Area)",
+    "name_hi": "Gangemau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209727"
+    ]
+  },
+  {
+    "id": "po-kannauj-kushum-khor",
+    "type": "village",
+    "name_en": "Kushum Khor (Gram Panchayat Area)",
+    "name_hi": "Kushum Khor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209727"
+    ]
+  },
+  {
+    "id": "po-kannauj-mitra-senpur",
+    "type": "village",
+    "name_en": "Mitra Senpur (Gram Panchayat Area)",
+    "name_hi": "Mitra Senpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209727"
+    ]
+  },
+  {
+    "id": "po-kannauj-nera",
+    "type": "village",
+    "name_en": "Nera (Gram Panchayat Area)",
+    "name_hi": "Nera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209727"
+    ]
+  },
+  {
+    "id": "po-kannauj-teramallu",
+    "type": "village",
+    "name_en": "Teramallu (Gram Panchayat Area)",
+    "name_hi": "Teramallu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209727"
+    ]
+  },
+  {
+    "id": "po-kannauj-chapunna",
+    "type": "village",
+    "name_en": "Chapunna (Gram Panchayat Area)",
+    "name_hi": "Chapunna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209728"
+    ]
+  },
+  {
+    "id": "po-kannauj-gyaspur",
+    "type": "village",
+    "name_en": "Gyaspur (Gram Panchayat Area)",
+    "name_hi": "Gyaspur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209728"
+    ]
+  },
+  {
+    "id": "po-kannauj-murra",
+    "type": "village",
+    "name_en": "Murra (Gram Panchayat Area)",
+    "name_hi": "Murra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209728"
+    ]
+  },
+  {
+    "id": "po-kannauj-nizampur",
+    "type": "village",
+    "name_en": "Nizampur (Gram Panchayat Area)",
+    "name_hi": "Nizampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209728"
+    ]
+  },
+  {
+    "id": "po-kannauj-nauli",
+    "type": "village",
+    "name_en": "Nauli (Gram Panchayat Area)",
+    "name_hi": "Nauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209729"
+    ]
+  },
+  {
+    "id": "po-kannauj-amolar",
+    "type": "village",
+    "name_en": "Amolar (Gram Panchayat Area)",
+    "name_hi": "Amolar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209731"
+    ]
+  },
+  {
+    "id": "po-kannauj-sursi",
+    "type": "village",
+    "name_en": "Sursi (Gram Panchayat Area)",
+    "name_hi": "Sursi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209734"
+    ]
+  },
+  {
+    "id": "po-kannauj-basta",
+    "type": "village",
+    "name_en": "Basta (Gram Panchayat Area)",
+    "name_hi": "Basta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209732"
+    ]
+  },
+  {
+    "id": "po-kannauj-deodha",
+    "type": "village",
+    "name_en": "Deodha (Gram Panchayat Area)",
+    "name_hi": "Deodha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209738"
+    ]
+  },
+  {
+    "id": "po-kannauj-khanpur",
+    "type": "village",
+    "name_en": "Khanpur (Gram Panchayat Area)",
+    "name_hi": "Khanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209738"
+    ]
+  },
+  {
+    "id": "po-kannauj-miruan-marha",
+    "type": "village",
+    "name_en": "Miruan Marha (Gram Panchayat Area)",
+    "name_hi": "Miruan Marha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209738"
+    ]
+  },
+  {
+    "id": "po-kannauj-bahadurpur-majhgaon",
+    "type": "village",
+    "name_en": "Bahadurpur Majhgaon (Gram Panchayat Area)",
+    "name_hi": "Bahadurpur Majhgaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209728"
+    ]
+  },
+  {
+    "id": "po-kannauj-bangawan-kharg",
+    "type": "village",
+    "name_en": "Bangawan Kharg (Gram Panchayat Area)",
+    "name_hi": "Bangawan Kharg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209728"
+    ]
+  },
+  {
+    "id": "po-kannauj-behta-rampur",
+    "type": "village",
+    "name_en": "Behta Rampur (Gram Panchayat Area)",
+    "name_hi": "Behta Rampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209728"
+    ]
+  },
+  {
+    "id": "po-kannauj-gulariyapur",
+    "type": "village",
+    "name_en": "Gulariyapur (Gram Panchayat Area)",
+    "name_hi": "Gulariyapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209728"
+    ]
+  },
+  {
+    "id": "po-kannauj-khadini",
+    "type": "village",
+    "name_en": "Khadini (Gram Panchayat Area)",
+    "name_hi": "Khadini (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209728"
+    ]
+  },
+  {
+    "id": "po-kannauj-bhunna",
+    "type": "village",
+    "name_en": "Bhunna (Gram Panchayat Area)",
+    "name_hi": "Bhunna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209734"
+    ]
+  },
+  {
+    "id": "po-kannauj-khama",
+    "type": "village",
+    "name_en": "Khama (Gram Panchayat Area)",
+    "name_hi": "Khama (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209734"
+    ]
+  },
+  {
+    "id": "po-kannauj-patti",
+    "type": "village",
+    "name_en": "Patti (Gram Panchayat Area)",
+    "name_hi": "Patti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209734"
+    ]
+  },
+  {
+    "id": "po-kannauj-rura",
+    "type": "village",
+    "name_en": "Rura (Gram Panchayat Area)",
+    "name_hi": "Rura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209734"
+    ]
+  },
+  {
+    "id": "po-kannauj-lohamarh",
+    "type": "village",
+    "name_en": "Lohamarh (Gram Panchayat Area)",
+    "name_hi": "Lohamarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209732"
+    ]
+  },
+  {
+    "id": "po-kannauj-mahteypurwa",
+    "type": "village",
+    "name_en": "Mahteypurwa (Gram Panchayat Area)",
+    "name_hi": "Mahteypurwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209732"
+    ]
+  },
+  {
+    "id": "po-kannauj-tirwa-ganj",
+    "type": "village",
+    "name_en": "Tirwa Ganj (Gram Panchayat Area)",
+    "name_hi": "Tirwa Ganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-tirwa",
+    "block_id": "tirwa",
+    "tehsil_id": "tirwa",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209732"
+    ]
+  },
+  {
+    "id": "po-kannauj-ferozpur",
+    "type": "village",
+    "name_en": "Ferozpur (Gram Panchayat Area)",
+    "name_hi": "Ferozpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209738"
+    ]
+  },
+  {
+    "id": "po-kannauj-kudhina",
+    "type": "village",
+    "name_en": "Kudhina (Gram Panchayat Area)",
+    "name_hi": "Kudhina (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209738"
+    ]
+  },
+  {
+    "id": "po-kannauj-mawai-bilwari",
+    "type": "village",
+    "name_en": "Mawai Bilwari (Gram Panchayat Area)",
+    "name_hi": "Mawai Bilwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209738"
+    ]
+  },
+  {
+    "id": "po-kannauj-rampur-majhila",
+    "type": "village",
+    "name_en": "Rampur Majhila (Gram Panchayat Area)",
+    "name_hi": "Rampur Majhila (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209738"
+    ]
+  },
+  {
+    "id": "po-kannauj-godhani",
+    "type": "village",
+    "name_en": "Godhani (Gram Panchayat Area)",
+    "name_hi": "Godhani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209727"
+    ]
+  },
+  {
+    "id": "po-kannauj-jalalpur-panwara",
+    "type": "village",
+    "name_en": "Jalalpur Panwara (Gram Panchayat Area)",
+    "name_hi": "Jalalpur Panwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209727"
+    ]
+  },
+  {
+    "id": "po-kannauj-jaspura-pur",
+    "type": "village",
+    "name_en": "Jaspura Pur (Gram Panchayat Area)",
+    "name_hi": "Jaspura Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209727"
+    ]
+  },
+  {
+    "id": "po-kannauj-ishampur",
+    "type": "village",
+    "name_en": "Ishampur (Gram Panchayat Area)",
+    "name_hi": "Ishampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209728"
+    ]
+  },
+  {
+    "id": "po-kannauj-sakatpur",
+    "type": "village",
+    "name_en": "Sakatpur (Gram Panchayat Area)",
+    "name_hi": "Sakatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209728"
+    ]
+  },
+  {
+    "id": "po-kannauj-sarai-theku",
+    "type": "village",
+    "name_en": "Sarai Theku (Gram Panchayat Area)",
+    "name_hi": "Sarai Theku (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209728"
+    ]
+  },
+  {
+    "id": "po-kannauj-aseha",
+    "type": "village",
+    "name_en": "Aseha (Gram Panchayat Area)",
+    "name_hi": "Aseha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209729"
+    ]
+  },
+  {
+    "id": "po-kannauj-bibia-jalalpur",
+    "type": "village",
+    "name_en": "Bibia Jalalpur (Gram Panchayat Area)",
+    "name_hi": "Bibia Jalalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209729"
+    ]
+  },
+  {
+    "id": "po-kannauj-jeramau-alampur",
+    "type": "village",
+    "name_en": "Jeramau Alampur (Gram Panchayat Area)",
+    "name_hi": "Jeramau Alampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209731"
+    ]
+  },
+  {
+    "id": "po-kannauj-madhonagar",
+    "type": "village",
+    "name_en": "Madhonagar (Gram Panchayat Area)",
+    "name_hi": "Madhonagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209731"
+    ]
+  },
+  {
+    "id": "po-kannauj-sataura",
+    "type": "village",
+    "name_en": "Sataura (Gram Panchayat Area)",
+    "name_hi": "Sataura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209731"
+    ]
+  },
+  {
+    "id": "po-kannauj-bhadausi",
+    "type": "village",
+    "name_en": "Bhadausi (Gram Panchayat Area)",
+    "name_hi": "Bhadausi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209734"
+    ]
+  },
+  {
+    "id": "po-kannauj-barauli",
+    "type": "village",
+    "name_en": "Barauli (Gram Panchayat Area)",
+    "name_hi": "Barauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209727"
+    ]
+  },
+  {
+    "id": "po-kannauj-ibrahimpur-zagir",
+    "type": "village",
+    "name_en": "Ibrahimpur Zagir (Gram Panchayat Area)",
+    "name_hi": "Ibrahimpur Zagir (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209727"
+    ]
+  },
+  {
+    "id": "po-kannauj-malikapur",
+    "type": "village",
+    "name_en": "Malikapur (Gram Panchayat Area)",
+    "name_hi": "Malikapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209727"
+    ]
+  },
+  {
+    "id": "po-kannauj-tidiyapur",
+    "type": "village",
+    "name_en": "Tidiyapur (Gram Panchayat Area)",
+    "name_hi": "Tidiyapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209727"
+    ]
+  },
+  {
+    "id": "po-kannauj-haseran",
+    "type": "village",
+    "name_en": "Haseran (Gram Panchayat Area)",
+    "name_hi": "Haseran (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-haseran",
+    "block_id": "haseran",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209728"
+    ]
+  },
+  {
+    "id": "po-kannauj-kisai-jagdishpur",
+    "type": "village",
+    "name_en": "Kisai Jagdishpur (Gram Panchayat Area)",
+    "name_hi": "Kisai Jagdishpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209728"
+    ]
+  },
+  {
+    "id": "po-kannauj-nademau",
+    "type": "village",
+    "name_en": "Nademau (Gram Panchayat Area)",
+    "name_hi": "Nademau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209728"
+    ]
+  },
+  {
+    "id": "po-kannauj-chanderpur",
+    "type": "village",
+    "name_en": "Chanderpur (Gram Panchayat Area)",
+    "name_hi": "Chanderpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209729"
+    ]
+  },
+  {
+    "id": "po-kannauj-bamrauli",
+    "type": "village",
+    "name_en": "Bamrauli (Gram Panchayat Area)",
+    "name_hi": "Bamrauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209731"
+    ]
+  },
+  {
+    "id": "po-kannauj-tahpur",
+    "type": "village",
+    "name_en": "Tahpur (Gram Panchayat Area)",
+    "name_hi": "Tahpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209731"
+    ]
+  },
+  {
+    "id": "po-kannauj-balanpur",
+    "type": "village",
+    "name_en": "Balanpur (Gram Panchayat Area)",
+    "name_hi": "Balanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209732"
+    ]
+  },
+  {
+    "id": "po-kannauj-behrin",
+    "type": "village",
+    "name_en": "Behrin (Gram Panchayat Area)",
+    "name_hi": "Behrin (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209732"
+    ]
+  },
+  {
+    "id": "po-kannauj-hariharpur",
+    "type": "village",
+    "name_en": "Hariharpur (Gram Panchayat Area)",
+    "name_hi": "Hariharpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209720"
+    ]
+  },
+  {
+    "id": "po-kannauj-hathin",
+    "type": "village",
+    "name_en": "Hathin (Gram Panchayat Area)",
+    "name_hi": "Hathin (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209721"
+    ]
+  },
+  {
+    "id": "po-kannauj-jafrabad",
+    "type": "village",
+    "name_en": "Jafrabad (Gram Panchayat Area)",
+    "name_hi": "Jafrabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209721"
+    ]
+  },
+  {
+    "id": "po-kannauj-nigoh",
+    "type": "village",
+    "name_en": "Nigoh (Gram Panchayat Area)",
+    "name_hi": "Nigoh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209721"
+    ]
+  },
+  {
+    "id": "po-kannauj-prempur",
+    "type": "village",
+    "name_en": "Prempur (Gram Panchayat Area)",
+    "name_hi": "Prempur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209721"
+    ]
+  },
+  {
+    "id": "po-kannauj-dundwabuzurg",
+    "type": "village",
+    "name_en": "Dundwabuzurg (Gram Panchayat Area)",
+    "name_hi": "Dundwabuzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209722"
+    ]
+  },
+  {
+    "id": "po-kannauj-ismailpur",
+    "type": "village",
+    "name_en": "Ismailpur (Gram Panchayat Area)",
+    "name_hi": "Ismailpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209722"
+    ]
+  },
+  {
+    "id": "po-kannauj-agaus",
+    "type": "village",
+    "name_en": "Agaus (Gram Panchayat Area)",
+    "name_hi": "Agaus (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209723"
+    ]
+  },
+  {
+    "id": "po-kannauj-lakh",
+    "type": "village",
+    "name_en": "Lakh (Gram Panchayat Area)",
+    "name_hi": "Lakh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209723"
+    ]
+  },
+  {
+    "id": "po-kannauj-madhpura",
+    "type": "village",
+    "name_en": "Madhpura (Gram Panchayat Area)",
+    "name_hi": "Madhpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209723"
+    ]
+  },
+  {
+    "id": "po-kannauj-jewan",
+    "type": "village",
+    "name_en": "Jewan (Gram Panchayat Area)",
+    "name_hi": "Jewan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209733"
+    ]
+  },
+  {
+    "id": "po-kannauj-kiratpur",
+    "type": "village",
+    "name_en": "Kiratpur (Gram Panchayat Area)",
+    "name_hi": "Kiratpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209733"
+    ]
+  },
+  {
+    "id": "po-kannauj-matauli",
+    "type": "village",
+    "name_en": "Matauli (Gram Panchayat Area)",
+    "name_hi": "Matauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209733"
+    ]
+  },
+  {
+    "id": "po-kannauj-auser",
+    "type": "village",
+    "name_en": "Auser (Gram Panchayat Area)",
+    "name_hi": "Auser (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209736"
+    ]
+  },
+  {
+    "id": "po-kannauj-bhaunrajpur",
+    "type": "village",
+    "name_en": "Bhaunrajpur (Gram Panchayat Area)",
+    "name_hi": "Bhaunrajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209720"
+    ]
+  },
+  {
+    "id": "po-kannauj-lokpur",
+    "type": "village",
+    "name_en": "Lokpur (Gram Panchayat Area)",
+    "name_hi": "Lokpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209720"
+    ]
+  },
+  {
+    "id": "po-kannauj-k-p-banwari",
+    "type": "village",
+    "name_en": "K P Banwari (Gram Panchayat Area)",
+    "name_hi": "K P Banwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209721"
+    ]
+  },
+  {
+    "id": "po-kannauj-khubariapur",
+    "type": "village",
+    "name_en": "Khubariapur (Gram Panchayat Area)",
+    "name_hi": "Khubariapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209721"
+    ]
+  },
+  {
+    "id": "po-kannauj-mighauli",
+    "type": "village",
+    "name_en": "Mighauli (Gram Panchayat Area)",
+    "name_hi": "Mighauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209721"
+    ]
+  },
+  {
+    "id": "po-kannauj-naugai",
+    "type": "village",
+    "name_en": "Naugai (Gram Panchayat Area)",
+    "name_hi": "Naugai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209721"
+    ]
+  },
+  {
+    "id": "po-kannauj-samdhan",
+    "type": "village",
+    "name_en": "Samdhan (Gram Panchayat Area)",
+    "name_hi": "Samdhan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209722"
+    ]
+  },
+  {
+    "id": "po-kannauj-belamau-saraiya",
+    "type": "village",
+    "name_en": "Belamau Saraiya (Gram Panchayat Area)",
+    "name_hi": "Belamau Saraiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209723"
+    ]
+  },
+  {
+    "id": "po-kannauj-bhagwantpur",
+    "type": "village",
+    "name_en": "Bhagwantpur (Gram Panchayat Area)",
+    "name_hi": "Bhagwantpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209723"
+    ]
+  },
+  {
+    "id": "po-kannauj-fatehpur",
+    "type": "village",
+    "name_en": "Fatehpur (Gram Panchayat Area)",
+    "name_hi": "Fatehpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209733"
+    ]
+  },
+  {
+    "id": "po-kannauj-saunsarapur",
+    "type": "village",
+    "name_en": "Saunsarapur (Gram Panchayat Area)",
+    "name_hi": "Saunsarapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209733"
+    ]
+  },
+  {
+    "id": "po-kannauj-jankhat",
+    "type": "village",
+    "name_en": "Jankhat (Gram Panchayat Area)",
+    "name_hi": "Jankhat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209736"
+    ]
+  },
+  {
+    "id": "po-kannauj-simaria",
+    "type": "village",
+    "name_en": "Simaria (Gram Panchayat Area)",
+    "name_hi": "Simaria (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209736"
+    ]
+  },
+  {
+    "id": "po-kannauj-asaltabad",
+    "type": "village",
+    "name_en": "Asaltabad (Gram Panchayat Area)",
+    "name_hi": "Asaltabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209720"
+    ]
+  },
+  {
+    "id": "po-kannauj-bahbalpur",
+    "type": "village",
+    "name_en": "Bahbalpur (Gram Panchayat Area)",
+    "name_hi": "Bahbalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209721"
+    ]
+  },
+  {
+    "id": "po-kannauj-galla-mandi-cbr",
+    "type": "village",
+    "name_en": "Galla Mandi CBR (Gram Panchayat Area)",
+    "name_hi": "Galla Mandi CBR (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209721"
+    ]
+  },
+  {
+    "id": "po-kannauj-majhpurwa",
+    "type": "village",
+    "name_en": "Majhpurwa (Gram Panchayat Area)",
+    "name_hi": "Majhpurwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209722"
+    ]
+  },
+  {
+    "id": "po-kannauj-mohanpur-ratanpur",
+    "type": "village",
+    "name_en": "Mohanpur Ratanpur (Gram Panchayat Area)",
+    "name_hi": "Mohanpur Ratanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209722"
+    ]
+  },
+  {
+    "id": "po-kannauj-parsaramau-majhretha",
+    "type": "village",
+    "name_en": "Parsaramau Majhretha (Gram Panchayat Area)",
+    "name_hi": "Parsaramau Majhretha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209723"
+    ]
+  },
+  {
+    "id": "po-kannauj-pura-rai",
+    "type": "village",
+    "name_en": "Pura Rai (Gram Panchayat Area)",
+    "name_hi": "Pura Rai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209723"
+    ]
+  },
+  {
+    "id": "po-kannauj-anaugi",
+    "type": "village",
+    "name_en": "Anaugi (Gram Panchayat Area)",
+    "name_hi": "Anaugi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209733"
+    ]
+  },
+  {
+    "id": "po-kannauj-bhainsiapur",
+    "type": "village",
+    "name_en": "Bhainsiapur (Gram Panchayat Area)",
+    "name_hi": "Bhainsiapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209724"
+    ]
+  },
+  {
+    "id": "po-kannauj-chiyasar",
+    "type": "village",
+    "name_en": "Chiyasar (Gram Panchayat Area)",
+    "name_hi": "Chiyasar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209724"
+    ]
+  },
+  {
+    "id": "po-kannauj-binaura-rampur",
+    "type": "village",
+    "name_en": "Binaura Rampur (Gram Panchayat Area)",
+    "name_hi": "Binaura Rampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209736"
+    ]
+  },
+  {
+    "id": "po-kannauj-hamirpur",
+    "type": "village",
+    "name_en": "Hamirpur (Gram Panchayat Area)",
+    "name_hi": "Hamirpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209736"
+    ]
+  },
+  {
+    "id": "po-kannauj-haraipur",
+    "type": "village",
+    "name_en": "Haraipur (Gram Panchayat Area)",
+    "name_hi": "Haraipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209736"
+    ]
+  },
+  {
+    "id": "po-kannauj-akbarpur",
+    "type": "village",
+    "name_en": "Akbarpur (Gram Panchayat Area)",
+    "name_hi": "Akbarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209721"
+    ]
+  },
+  {
+    "id": "po-kannauj-kasawa",
+    "type": "village",
+    "name_en": "Kasawa (Gram Panchayat Area)",
+    "name_hi": "Kasawa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209721"
+    ]
+  },
+  {
+    "id": "po-kannauj-khojipur",
+    "type": "village",
+    "name_en": "Khojipur (Gram Panchayat Area)",
+    "name_hi": "Khojipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209721"
+    ]
+  },
+  {
+    "id": "po-kannauj-merapur-garhiya",
+    "type": "village",
+    "name_en": "Merapur Garhiya (Gram Panchayat Area)",
+    "name_hi": "Merapur Garhiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209721"
+    ]
+  },
+  {
+    "id": "po-kannauj-nandlalpur",
+    "type": "village",
+    "name_en": "Nandlalpur (Gram Panchayat Area)",
+    "name_hi": "Nandlalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209721"
+    ]
+  },
+  {
+    "id": "po-kannauj-tera-rabbu",
+    "type": "village",
+    "name_en": "Tera Rabbu (Gram Panchayat Area)",
+    "name_hi": "Tera Rabbu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209722"
+    ]
+  },
+  {
+    "id": "po-kannauj-uncha",
+    "type": "village",
+    "name_en": "Uncha (Gram Panchayat Area)",
+    "name_hi": "Uncha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209722"
+    ]
+  },
+  {
+    "id": "po-kannauj-bahosi",
+    "type": "village",
+    "name_en": "Bahosi (Gram Panchayat Area)",
+    "name_hi": "Bahosi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209723"
+    ]
+  },
+  {
+    "id": "po-kannauj-kalsan",
+    "type": "village",
+    "name_en": "Kalsan (Gram Panchayat Area)",
+    "name_hi": "Kalsan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209723"
+    ]
+  },
+  {
+    "id": "po-kannauj-gugrapur",
+    "type": "village",
+    "name_en": "Gugrapur (Gram Panchayat Area)",
+    "name_hi": "Gugrapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209733"
+    ]
+  },
+  {
+    "id": "po-kannauj-kulhapur",
+    "type": "village",
+    "name_en": "Kulhapur (Gram Panchayat Area)",
+    "name_hi": "Kulhapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209733"
+    ]
+  },
+  {
+    "id": "po-kannauj-mirgawan-ki-garhi",
+    "type": "village",
+    "name_en": "Mirgawan Ki Garhi (Gram Panchayat Area)",
+    "name_hi": "Mirgawan Ki Garhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209733"
+    ]
+  },
+  {
+    "id": "po-kannauj-umrain",
+    "type": "village",
+    "name_en": "Umrain (Gram Panchayat Area)",
+    "name_hi": "Umrain (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kannauj",
+    "block_id": "kannauj",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209736"
+    ]
+  },
+  {
+    "id": "ward-kannauj-ulb-kannauj-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Kannauj (All Wards)",
+    "name_hi": "कन्नौज नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-kannauj-bishungarh-so-kannauj",
+    "type": "ward",
+    "name_en": "Bishungarh SO Kannauj (Urban Ward / SO)",
+    "name_hi": "Bishungarh SO Kannauj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209720"
+    ]
+  },
+  {
+    "id": "town-kannauj-gurusahaiganj",
+    "type": "ward",
+    "name_en": "Gurusahaiganj (Urban Ward / SO)",
+    "name_hi": "Gurusahaiganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209722"
+    ]
+  },
+  {
+    "id": "town-kannauj-hari-nagar-so-kannauj",
+    "type": "ward",
+    "name_en": "Hari Nagar SO Kannauj (Urban Ward / SO)",
+    "name_hi": "Hari Nagar SO Kannauj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209725"
+    ]
+  },
+  {
+    "id": "town-kannauj-saraimira",
+    "type": "ward",
+    "name_en": "Saraimira (Urban Ward / SO)",
+    "name_hi": "Saraimira (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209727"
+    ]
+  },
+  {
+    "id": "town-kannauj-talgram",
+    "type": "ward",
+    "name_en": "Talgram (Urban Ward / SO)",
+    "name_hi": "Talgram (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209731"
+    ]
+  },
+  {
+    "id": "town-kannauj-thathia",
+    "type": "ward",
+    "name_en": "Thathia (Urban Ward / SO)",
+    "name_hi": "Thathia (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209734"
+    ]
+  },
+  {
+    "id": "town-kannauj-tirwa",
+    "type": "ward",
+    "name_en": "Tirwa (Urban Ward / SO)",
+    "name_hi": "Tirwa (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209732"
+    ]
+  },
+  {
+    "id": "town-kannauj-chhipatti",
+    "type": "ward",
+    "name_en": "Chhipatti (Urban Ward / SO)",
+    "name_hi": "Chhipatti (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209725"
+    ]
+  },
+  {
+    "id": "town-kannauj-khairnagar",
+    "type": "ward",
+    "name_en": "Khairnagar (Urban Ward / SO)",
+    "name_hi": "Khairnagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209736"
+    ]
+  },
+  {
+    "id": "town-kannauj-makrand-nagar",
+    "type": "ward",
+    "name_en": "Makrand Nagar (Urban Ward / SO)",
+    "name_hi": "Makrand Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209726"
+    ]
+  },
+  {
+    "id": "town-kannauj-sarai-prayag",
+    "type": "ward",
+    "name_en": "Sarai Prayag (Urban Ward / SO)",
+    "name_hi": "Sarai Prayag (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209735"
+    ]
+  },
+  {
+    "id": "town-kannauj-saurikh",
+    "type": "ward",
+    "name_en": "Saurikh (Urban Ward / SO)",
+    "name_hi": "Saurikh (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209728"
+    ]
+  },
+  {
+    "id": "town-kannauj-bazaria-chhibramau",
+    "type": "ward",
+    "name_en": "Bazaria Chhibramau (Urban Ward / SO)",
+    "name_hi": "Bazaria Chhibramau (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209721"
+    ]
+  },
+  {
+    "id": "town-kannauj-chhibramau",
+    "type": "ward",
+    "name_en": "Chhibramau (Urban Ward / SO)",
+    "name_hi": "Chhibramau (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209721"
+    ]
+  },
+  {
+    "id": "town-kannauj-jalalabad-so-kannauj",
+    "type": "ward",
+    "name_en": "Jalalabad SO Kannauj (Urban Ward / SO)",
+    "name_hi": "Jalalabad SO Kannauj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209733"
+    ]
+  },
+  {
+    "id": "town-kannauj-kannauj",
+    "type": "ward",
+    "name_en": "Kannauj (Urban Ward / SO)",
+    "name_hi": "Kannauj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209725"
+    ]
+  },
+  {
+    "id": "town-kannauj-kannauj-samachar",
+    "type": "ward",
+    "name_en": "Kannauj Samachar (Urban Ward / SO)",
+    "name_hi": "Kannauj Samachar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209725"
+    ]
+  },
+  {
+    "id": "town-kannauj-umarda",
+    "type": "ward",
+    "name_en": "Umarda (Urban Ward / SO)",
+    "name_hi": "Umarda (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209738"
+    ]
+  },
+  {
+    "id": "town-kannauj-indergarh-so-kannauj",
+    "type": "ward",
+    "name_en": "Indergarh SO Kannauj (Urban Ward / SO)",
+    "name_hi": "Indergarh SO Kannauj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209723"
+    ]
+  },
+  {
+    "id": "town-kannauj-sakrawa",
+    "type": "ward",
+    "name_en": "Sakrawa (Urban Ward / SO)",
+    "name_hi": "Sakrawa (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209747"
+    ]
+  },
+  {
+    "id": "town-kannauj-sikanderpur-so-kannauj",
+    "type": "ward",
+    "name_en": "Sikanderpur SO Kannauj (Urban Ward / SO)",
+    "name_hi": "Sikanderpur SO Kannauj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kannauj-main",
+    "tehsil_id": "kannauj",
+    "district_id": "kannauj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209729"
+    ]
+  }
+]

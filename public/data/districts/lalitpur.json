@@ -21,7 +21,7 @@
       "covers": [
         "lalitpur"
       ],
-      "source_url": "https://lalitpur.nic.in/whos-who/",
+      "source_url": "https://lalitpur.nic.in/en/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "District Magistrate",
@@ -46,7 +46,7 @@
       "covers": [
         "lalitpur"
       ],
-      "source_url": "https://lalitpur.nic.in/whos-who/",
+      "source_url": "https://lalitpur.nic.in/en/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Chief Development Officer"
@@ -168,7 +168,8 @@
       ],
       "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-lalitpur-bdo-birdha"
     },
     {
       "id": "up-lalitpur-bdo-jakhaura",
@@ -197,7 +198,8 @@
       ],
       "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-lalitpur-bdo-jakhaura"
     },
     {
       "id": "up-lalitpur-bdo-talbehat",
@@ -226,7 +228,8 @@
       ],
       "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-lalitpur-bdo-talbehat"
     },
     {
       "id": "up-lalitpur-bdo-bar",
@@ -255,7 +258,8 @@
       ],
       "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-lalitpur-bdo-bar"
     },
     {
       "id": "up-lalitpur-bdo-mahroni",
@@ -284,7 +288,8 @@
       ],
       "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-lalitpur-bdo-mahroni"
     },
     {
       "id": "up-lalitpur-bdo-madawara",
@@ -313,7 +318,8 @@
       ],
       "source_url": "https://lalitpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-lalitpur-bdo-madawara"
     },
     {
       "id": "eo-lalitpur-main",

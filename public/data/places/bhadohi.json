@@ -1,0 +1,1506 @@
+[
+  {
+    "id": "v-bhadohi-gyanpur",
+    "type": "village",
+    "name_en": "Gyanpur Block (Gram Panchayats)",
+    "name_hi": "Gyanpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bhadohi-deeh",
+    "type": "village",
+    "name_en": "Deeh Block (Gram Panchayats)",
+    "name_hi": "Deeh विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-deeh",
+    "block_id": "deeh",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bhadohi-abholi",
+    "type": "village",
+    "name_en": "Abholi Block (Gram Panchayats)",
+    "name_hi": "Abholi विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-abholi",
+    "block_id": "abholi",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bhadohi-bhadohi",
+    "type": "village",
+    "name_en": "Bhadohi Block (Gram Panchayats)",
+    "name_hi": "Bhadohi विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhadohi",
+    "block_id": "bhadohi",
+    "tehsil_id": "bhadohi",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bhadohi-suriyawan",
+    "type": "village",
+    "name_en": "Suriyawan Block (Gram Panchayats)",
+    "name_hi": "Suriyawan विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-suriyawan",
+    "block_id": "suriyawan",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bhadohi-aurai",
+    "type": "village",
+    "name_en": "Aurai Block (Gram Panchayats)",
+    "name_hi": "Aurai विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-aurai",
+    "block_id": "aurai",
+    "tehsil_id": "aurai",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-bhadohi-ghosiya",
+    "type": "village",
+    "name_en": "Ghosiya (Gram Panchayat Area)",
+    "name_hi": "Ghosiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221301"
+    ]
+  },
+  {
+    "id": "po-bhadohi-hridaipur",
+    "type": "village",
+    "name_en": "Hridaipur (Gram Panchayat Area)",
+    "name_hi": "Hridaipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221301"
+    ]
+  },
+  {
+    "id": "po-bhadohi-kurauna",
+    "type": "village",
+    "name_en": "Kurauna (Gram Panchayat Area)",
+    "name_hi": "Kurauna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221301"
+    ]
+  },
+  {
+    "id": "po-bhadohi-asanao-bazar",
+    "type": "village",
+    "name_en": "Asanao Bazar (Gram Panchayat Area)",
+    "name_hi": "Asanao Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221401"
+    ]
+  },
+  {
+    "id": "po-bhadohi-munsiladpur",
+    "type": "village",
+    "name_en": "Munsiladpur (Gram Panchayat Area)",
+    "name_hi": "Munsiladpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221401"
+    ]
+  },
+  {
+    "id": "po-bhadohi-pipris",
+    "type": "village",
+    "name_en": "Pipris (Gram Panchayat Area)",
+    "name_hi": "Pipris (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221401"
+    ]
+  },
+  {
+    "id": "po-bhadohi-dasharthpur",
+    "type": "village",
+    "name_en": "Dasharthpur (Gram Panchayat Area)",
+    "name_hi": "Dasharthpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221304"
+    ]
+  },
+  {
+    "id": "po-bhadohi-laxamanpatti",
+    "type": "village",
+    "name_en": "Laxamanpatti (Gram Panchayat Area)",
+    "name_hi": "Laxamanpatti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221304"
+    ]
+  },
+  {
+    "id": "po-bhadohi-koilara",
+    "type": "village",
+    "name_en": "Koilara (Gram Panchayat Area)",
+    "name_hi": "Koilara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221306"
+    ]
+  },
+  {
+    "id": "po-bhadohi-baripur",
+    "type": "village",
+    "name_en": "Baripur (Gram Panchayat Area)",
+    "name_hi": "Baripur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221309"
+    ]
+  },
+  {
+    "id": "po-bhadohi-berawa-paharpur",
+    "type": "village",
+    "name_en": "Berawa Paharpur (Gram Panchayat Area)",
+    "name_hi": "Berawa Paharpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221309"
+    ]
+  },
+  {
+    "id": "po-bhadohi-chhechhuwan",
+    "type": "village",
+    "name_en": "Chhechhuwan (Gram Panchayat Area)",
+    "name_hi": "Chhechhuwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221309"
+    ]
+  },
+  {
+    "id": "po-bhadohi-dhantulsi",
+    "type": "village",
+    "name_en": "Dhantulsi (Gram Panchayat Area)",
+    "name_hi": "Dhantulsi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221309"
+    ]
+  },
+  {
+    "id": "po-bhadohi-narepar-sitamarhi",
+    "type": "village",
+    "name_en": "Narepar Sitamarhi (Gram Panchayat Area)",
+    "name_hi": "Narepar Sitamarhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221309"
+    ]
+  },
+  {
+    "id": "po-bhadohi-dwarikapur",
+    "type": "village",
+    "name_en": "Dwarikapur (Gram Panchayat Area)",
+    "name_hi": "Dwarikapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221314"
+    ]
+  },
+  {
+    "id": "po-bhadohi-darunaha",
+    "type": "village",
+    "name_en": "Darunaha (Gram Panchayat Area)",
+    "name_hi": "Darunaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221402"
+    ]
+  },
+  {
+    "id": "po-bhadohi-domanpur",
+    "type": "village",
+    "name_en": "Domanpur (Gram Panchayat Area)",
+    "name_hi": "Domanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221402"
+    ]
+  },
+  {
+    "id": "po-bhadohi-abhiya",
+    "type": "village",
+    "name_en": "Abhiya (Gram Panchayat Area)",
+    "name_hi": "Abhiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221404"
+    ]
+  },
+  {
+    "id": "po-bhadohi-abholi",
+    "type": "village",
+    "name_en": "Abholi (Gram Panchayat Area)",
+    "name_hi": "Abholi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-abholi",
+    "block_id": "abholi",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221404"
+    ]
+  },
+  {
+    "id": "po-bhadohi-kador",
+    "type": "village",
+    "name_en": "Kador (Gram Panchayat Area)",
+    "name_hi": "Kador (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221404"
+    ]
+  },
+  {
+    "id": "po-bhadohi-matethu",
+    "type": "village",
+    "name_en": "Matethu (Gram Panchayat Area)",
+    "name_hi": "Matethu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221404"
+    ]
+  },
+  {
+    "id": "po-bhadohi-sarroi",
+    "type": "village",
+    "name_en": "Sarroi (Gram Panchayat Area)",
+    "name_hi": "Sarroi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221401"
+    ]
+  },
+  {
+    "id": "po-bhadohi-jagannathpur",
+    "type": "village",
+    "name_en": "Jagannathpur (Gram Panchayat Area)",
+    "name_hi": "Jagannathpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221303"
+    ]
+  },
+  {
+    "id": "po-bhadohi-rs-dham",
+    "type": "village",
+    "name_en": "RS Dham (Gram Panchayat Area)",
+    "name_hi": "RS Dham (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221303"
+    ]
+  },
+  {
+    "id": "po-bhadohi-chakkisundas",
+    "type": "village",
+    "name_en": "Chakkisundas (Gram Panchayat Area)",
+    "name_hi": "Chakkisundas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221304"
+    ]
+  },
+  {
+    "id": "po-bhadohi-nathaipur",
+    "type": "village",
+    "name_en": "Nathaipur (Gram Panchayat Area)",
+    "name_hi": "Nathaipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221304"
+    ]
+  },
+  {
+    "id": "po-bhadohi-sadopur",
+    "type": "village",
+    "name_en": "Sadopur (Gram Panchayat Area)",
+    "name_hi": "Sadopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221304"
+    ]
+  },
+  {
+    "id": "po-bhadohi-sagarraipur",
+    "type": "village",
+    "name_en": "Sagarraipur (Gram Panchayat Area)",
+    "name_hi": "Sagarraipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221310"
+    ]
+  },
+  {
+    "id": "po-bhadohi-suryabhanpur",
+    "type": "village",
+    "name_en": "Suryabhanpur (Gram Panchayat Area)",
+    "name_hi": "Suryabhanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221310"
+    ]
+  },
+  {
+    "id": "po-bhadohi-sahasepur",
+    "type": "village",
+    "name_en": "Sahasepur (Gram Panchayat Area)",
+    "name_hi": "Sahasepur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221306"
+    ]
+  },
+  {
+    "id": "po-bhadohi-ithara",
+    "type": "village",
+    "name_en": "Ithara (Gram Panchayat Area)",
+    "name_hi": "Ithara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221309"
+    ]
+  },
+  {
+    "id": "po-bhadohi-girdbaragaon",
+    "type": "village",
+    "name_en": "Girdbaragaon (Gram Panchayat Area)",
+    "name_hi": "Girdbaragaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221314"
+    ]
+  },
+  {
+    "id": "po-bhadohi-saripur",
+    "type": "village",
+    "name_en": "Saripur (Gram Panchayat Area)",
+    "name_hi": "Saripur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221314"
+    ]
+  },
+  {
+    "id": "po-bhadohi-babusarai",
+    "type": "village",
+    "name_en": "Babusarai (Gram Panchayat Area)",
+    "name_hi": "Babusarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221314"
+    ]
+  },
+  {
+    "id": "po-bhadohi-amilauri",
+    "type": "village",
+    "name_en": "Amilauri (Gram Panchayat Area)",
+    "name_hi": "Amilauri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221406"
+    ]
+  },
+  {
+    "id": "po-bhadohi-kukarauthi",
+    "type": "village",
+    "name_en": "Kukarauthi (Gram Panchayat Area)",
+    "name_hi": "Kukarauthi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221409"
+    ]
+  },
+  {
+    "id": "po-bhadohi-birampur",
+    "type": "village",
+    "name_en": "Birampur (Gram Panchayat Area)",
+    "name_hi": "Birampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221308"
+    ]
+  },
+  {
+    "id": "po-bhadohi-sudhwai",
+    "type": "village",
+    "name_en": "Sudhwai (Gram Panchayat Area)",
+    "name_hi": "Sudhwai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221308"
+    ]
+  },
+  {
+    "id": "po-bhadohi-amawa-khurd",
+    "type": "village",
+    "name_en": "Amawa Khurd (Gram Panchayat Area)",
+    "name_hi": "Amawa Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221402"
+    ]
+  },
+  {
+    "id": "po-bhadohi-bhagawanpur-kanhari",
+    "type": "village",
+    "name_en": "Bhagawanpur Kanhari (Gram Panchayat Area)",
+    "name_hi": "Bhagawanpur Kanhari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221402"
+    ]
+  },
+  {
+    "id": "po-bhadohi-bhikharirampur",
+    "type": "village",
+    "name_en": "Bhikharirampur (Gram Panchayat Area)",
+    "name_hi": "Bhikharirampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221404"
+    ]
+  },
+  {
+    "id": "po-bhadohi-durgaganj",
+    "type": "village",
+    "name_en": "Durgaganj (Gram Panchayat Area)",
+    "name_hi": "Durgaganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221404"
+    ]
+  },
+  {
+    "id": "po-bhadohi-gaura",
+    "type": "village",
+    "name_en": "Gaura (Gram Panchayat Area)",
+    "name_hi": "Gaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221404"
+    ]
+  },
+  {
+    "id": "po-bhadohi-sanda",
+    "type": "village",
+    "name_en": "Sanda (Gram Panchayat Area)",
+    "name_hi": "Sanda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221404"
+    ]
+  },
+  {
+    "id": "po-bhadohi-pipargaon",
+    "type": "village",
+    "name_en": "Pipargaon (Gram Panchayat Area)",
+    "name_hi": "Pipargaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221301"
+    ]
+  },
+  {
+    "id": "po-bhadohi-ugapur",
+    "type": "village",
+    "name_en": "Ugapur (Gram Panchayat Area)",
+    "name_hi": "Ugapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221301"
+    ]
+  },
+  {
+    "id": "po-bhadohi-raya",
+    "type": "village",
+    "name_en": "Raya (Gram Panchayat Area)",
+    "name_hi": "Raya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221401"
+    ]
+  },
+  {
+    "id": "po-bhadohi-uchetha",
+    "type": "village",
+    "name_en": "Uchetha (Gram Panchayat Area)",
+    "name_hi": "Uchetha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221401"
+    ]
+  },
+  {
+    "id": "po-bhadohi-loharakhas",
+    "type": "village",
+    "name_en": "Loharakhas (Gram Panchayat Area)",
+    "name_hi": "Loharakhas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221303"
+    ]
+  },
+  {
+    "id": "po-bhadohi-tilanga",
+    "type": "village",
+    "name_en": "Tilanga (Gram Panchayat Area)",
+    "name_hi": "Tilanga (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221303"
+    ]
+  },
+  {
+    "id": "po-bhadohi-achhawar",
+    "type": "village",
+    "name_en": "Achhawar (Gram Panchayat Area)",
+    "name_hi": "Achhawar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221304"
+    ]
+  },
+  {
+    "id": "po-bhadohi-pali",
+    "type": "village",
+    "name_en": "Pali (Gram Panchayat Area)",
+    "name_hi": "Pali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221304"
+    ]
+  },
+  {
+    "id": "po-bhadohi-ramampur",
+    "type": "village",
+    "name_en": "Ramampur (Gram Panchayat Area)",
+    "name_hi": "Ramampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221304"
+    ]
+  },
+  {
+    "id": "po-bhadohi-sarairajputani",
+    "type": "village",
+    "name_en": "Sarairajputani (Gram Panchayat Area)",
+    "name_hi": "Sarairajputani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221304"
+    ]
+  },
+  {
+    "id": "po-bhadohi-semradh",
+    "type": "village",
+    "name_en": "Semradh (Gram Panchayat Area)",
+    "name_hi": "Semradh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221310"
+    ]
+  },
+  {
+    "id": "po-bhadohi-pakhawaiya",
+    "type": "village",
+    "name_en": "Pakhawaiya (Gram Panchayat Area)",
+    "name_hi": "Pakhawaiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221306"
+    ]
+  },
+  {
+    "id": "po-bhadohi-digh",
+    "type": "village",
+    "name_en": "Digh (Gram Panchayat Area)",
+    "name_hi": "Digh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221309"
+    ]
+  },
+  {
+    "id": "po-bhadohi-katra-bazar",
+    "type": "village",
+    "name_en": "Katra Bazar (Gram Panchayat Area)",
+    "name_hi": "Katra Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221309"
+    ]
+  },
+  {
+    "id": "po-bhadohi-sarawatkhani",
+    "type": "village",
+    "name_en": "Sarawatkhani (Gram Panchayat Area)",
+    "name_hi": "Sarawatkhani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221314"
+    ]
+  },
+  {
+    "id": "po-bhadohi-umarha",
+    "type": "village",
+    "name_en": "Umarha (Gram Panchayat Area)",
+    "name_hi": "Umarha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221314"
+    ]
+  },
+  {
+    "id": "po-bhadohi-ajaipur",
+    "type": "village",
+    "name_en": "Ajaipur (Gram Panchayat Area)",
+    "name_hi": "Ajaipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221406"
+    ]
+  },
+  {
+    "id": "po-bhadohi-kariyaon",
+    "type": "village",
+    "name_en": "Kariyaon (Gram Panchayat Area)",
+    "name_hi": "Kariyaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221406"
+    ]
+  },
+  {
+    "id": "po-bhadohi-bayaon",
+    "type": "village",
+    "name_en": "Bayaon (Gram Panchayat Area)",
+    "name_hi": "Bayaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221308"
+    ]
+  },
+  {
+    "id": "po-bhadohi-bichhiya",
+    "type": "village",
+    "name_en": "Bichhiya (Gram Panchayat Area)",
+    "name_hi": "Bichhiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221308"
+    ]
+  },
+  {
+    "id": "po-bhadohi-rohi",
+    "type": "village",
+    "name_en": "Rohi (Gram Panchayat Area)",
+    "name_hi": "Rohi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221308"
+    ]
+  },
+  {
+    "id": "po-bhadohi-bahari",
+    "type": "village",
+    "name_en": "Bahari (Gram Panchayat Area)",
+    "name_hi": "Bahari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221402"
+    ]
+  },
+  {
+    "id": "po-bhadohi-barawa-bazar",
+    "type": "village",
+    "name_en": "Barawa Bazar (Gram Panchayat Area)",
+    "name_hi": "Barawa Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221402"
+    ]
+  },
+  {
+    "id": "po-bhadohi-palhaiya",
+    "type": "village",
+    "name_en": "Palhaiya (Gram Panchayat Area)",
+    "name_hi": "Palhaiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221402"
+    ]
+  },
+  {
+    "id": "po-bhadohi-abarana",
+    "type": "village",
+    "name_en": "Abarana (Gram Panchayat Area)",
+    "name_hi": "Abarana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221404"
+    ]
+  },
+  {
+    "id": "po-bhadohi-bhori",
+    "type": "village",
+    "name_en": "Bhori (Gram Panchayat Area)",
+    "name_hi": "Bhori (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221404"
+    ]
+  },
+  {
+    "id": "po-bhadohi-bisauli-kripalpur",
+    "type": "village",
+    "name_en": "Bisauli Kripalpur (Gram Panchayat Area)",
+    "name_hi": "Bisauli Kripalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221404"
+    ]
+  },
+  {
+    "id": "po-bhadohi-ekauni",
+    "type": "village",
+    "name_en": "Ekauni (Gram Panchayat Area)",
+    "name_hi": "Ekauni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221404"
+    ]
+  },
+  {
+    "id": "po-bhadohi-sarai-kansrai",
+    "type": "village",
+    "name_en": "Sarai Kansrai (Gram Panchayat Area)",
+    "name_hi": "Sarai Kansrai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221404"
+    ]
+  },
+  {
+    "id": "po-bhadohi-amilaur",
+    "type": "village",
+    "name_en": "Amilaur (Gram Panchayat Area)",
+    "name_hi": "Amilaur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221303"
+    ]
+  },
+  {
+    "id": "po-bhadohi-bairibisa",
+    "type": "village",
+    "name_en": "Bairibisa (Gram Panchayat Area)",
+    "name_hi": "Bairibisa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221303"
+    ]
+  },
+  {
+    "id": "po-bhadohi-bhawanipur",
+    "type": "village",
+    "name_en": "Bhawanipur (Gram Panchayat Area)",
+    "name_hi": "Bhawanipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221303"
+    ]
+  },
+  {
+    "id": "po-bhadohi-dhirpur",
+    "type": "village",
+    "name_en": "Dhirpur (Gram Panchayat Area)",
+    "name_hi": "Dhirpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221303"
+    ]
+  },
+  {
+    "id": "po-bhadohi-chaksundarpur",
+    "type": "village",
+    "name_en": "Chaksundarpur (Gram Panchayat Area)",
+    "name_hi": "Chaksundarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221304"
+    ]
+  },
+  {
+    "id": "po-bhadohi-baragaon",
+    "type": "village",
+    "name_en": "Baragaon (Gram Panchayat Area)",
+    "name_hi": "Baragaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221310"
+    ]
+  },
+  {
+    "id": "po-bhadohi-darawasi",
+    "type": "village",
+    "name_en": "Darawasi (Gram Panchayat Area)",
+    "name_hi": "Darawasi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221310"
+    ]
+  },
+  {
+    "id": "po-bhadohi-ibrhimpur-uparwar",
+    "type": "village",
+    "name_en": "Ibrhimpur Uparwar (Gram Panchayat Area)",
+    "name_hi": "Ibrhimpur Uparwar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221310"
+    ]
+  },
+  {
+    "id": "po-bhadohi-purani-bazar",
+    "type": "village",
+    "name_en": "Purani Bazar (Gram Panchayat Area)",
+    "name_hi": "Purani Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221406"
+    ]
+  },
+  {
+    "id": "po-bhadohi-puregareria",
+    "type": "village",
+    "name_en": "Puregareria (Gram Panchayat Area)",
+    "name_hi": "Puregareria (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221406"
+    ]
+  },
+  {
+    "id": "po-bhadohi-pargaspur",
+    "type": "village",
+    "name_en": "Pargaspur (Gram Panchayat Area)",
+    "name_hi": "Pargaspur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221409"
+    ]
+  },
+  {
+    "id": "po-bhadohi-gohilaon",
+    "type": "village",
+    "name_en": "Gohilaon (Gram Panchayat Area)",
+    "name_hi": "Gohilaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221402"
+    ]
+  },
+  {
+    "id": "po-bhadohi-jhauwa",
+    "type": "village",
+    "name_en": "Jhauwa (Gram Panchayat Area)",
+    "name_hi": "Jhauwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221402"
+    ]
+  },
+  {
+    "id": "po-bhadohi-bauribojh",
+    "type": "village",
+    "name_en": "Bauribojh (Gram Panchayat Area)",
+    "name_hi": "Bauribojh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221404"
+    ]
+  },
+  {
+    "id": "po-bhadohi-bhanda",
+    "type": "village",
+    "name_en": "Bhanda (Gram Panchayat Area)",
+    "name_hi": "Bhanda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221404"
+    ]
+  },
+  {
+    "id": "po-bhadohi-patti-bejaon",
+    "type": "village",
+    "name_en": "Patti Bejaon (Gram Panchayat Area)",
+    "name_hi": "Patti Bejaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gyanpur",
+    "block_id": "gyanpur",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221404"
+    ]
+  },
+  {
+    "id": "ward-bhadohi-ulb-bhadohi-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Bhadohi (All Wards)",
+    "name_hi": "भदोही नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-bhadohi-main",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-bhadohi-gopiganj",
+    "type": "ward",
+    "name_en": "Gopiganj (Urban Ward / SO)",
+    "name_hi": "Gopiganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bhadohi-main",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221303"
+    ]
+  },
+  {
+    "id": "town-bhadohi-gyanpur",
+    "type": "ward",
+    "name_en": "Gyanpur (Urban Ward / SO)",
+    "name_hi": "Gyanpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bhadohi-main",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221304"
+    ]
+  },
+  {
+    "id": "town-bhadohi-parsipur",
+    "type": "ward",
+    "name_en": "Parsipur (Urban Ward / SO)",
+    "name_hi": "Parsipur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bhadohi-main",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221402"
+    ]
+  },
+  {
+    "id": "town-bhadohi-aurai-so-sant-ravidas-nagar",
+    "type": "ward",
+    "name_en": "Aurai SO Sant Ravidas Nagar (Urban Ward / SO)",
+    "name_hi": "Aurai SO Sant Ravidas Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bhadohi-main",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221301"
+    ]
+  },
+  {
+    "id": "town-bhadohi-bhadohi",
+    "type": "ward",
+    "name_en": "Bhadohi (Urban Ward / SO)",
+    "name_hi": "Bhadohi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bhadohi-main",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221401"
+    ]
+  },
+  {
+    "id": "town-bhadohi-koirauna",
+    "type": "ward",
+    "name_en": "Koirauna (Urban Ward / SO)",
+    "name_hi": "Koirauna (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bhadohi-main",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221309"
+    ]
+  },
+  {
+    "id": "town-bhadohi-mondh",
+    "type": "ward",
+    "name_en": "Mondh (Urban Ward / SO)",
+    "name_hi": "Mondh (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bhadohi-main",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221406"
+    ]
+  },
+  {
+    "id": "town-bhadohi-ozh",
+    "type": "ward",
+    "name_en": "Ozh (Urban Ward / SO)",
+    "name_hi": "Ozh (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bhadohi-main",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221308"
+    ]
+  },
+  {
+    "id": "town-bhadohi-katra-bazar-so-varanasi",
+    "type": "ward",
+    "name_en": "Katra Bazar SO Varanasi (Urban Ward / SO)",
+    "name_hi": "Katra Bazar SO Varanasi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bhadohi-main",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221401"
+    ]
+  },
+  {
+    "id": "town-bhadohi-nai-bazar-so-sant-ravidas-nagar",
+    "type": "ward",
+    "name_en": "Nai Bazar SO Sant Ravidas Nagar (Urban Ward / SO)",
+    "name_hi": "Nai Bazar SO Sant Ravidas Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bhadohi-main",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221409"
+    ]
+  },
+  {
+    "id": "town-bhadohi-suriyawan",
+    "type": "ward",
+    "name_en": "Suriyawan (Urban Ward / SO)",
+    "name_hi": "Suriyawan (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bhadohi-main",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221404"
+    ]
+  },
+  {
+    "id": "town-bhadohi-jangiganj",
+    "type": "ward",
+    "name_en": "Jangiganj (Urban Ward / SO)",
+    "name_hi": "Jangiganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bhadohi-main",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221310"
+    ]
+  },
+  {
+    "id": "town-bhadohi-khamaria-so-varanasi",
+    "type": "ward",
+    "name_en": "Khamaria SO Varanasi (Urban Ward / SO)",
+    "name_hi": "Khamaria SO Varanasi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bhadohi-main",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221306"
+    ]
+  },
+  {
+    "id": "town-bhadohi-mahrajganj-so-sant-ravidas-nagar",
+    "type": "ward",
+    "name_en": "Mahrajganj SO Sant Ravidas Nagar (Urban Ward / SO)",
+    "name_hi": "Mahrajganj SO Sant Ravidas Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bhadohi-main",
+    "tehsil_id": "gyanpur",
+    "district_id": "bhadohi",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221314"
+    ]
+  }
+]

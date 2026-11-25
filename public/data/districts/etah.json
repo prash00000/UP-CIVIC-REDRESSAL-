@@ -57,14 +57,23 @@
       "role": "dpro",
       "office_name_en": "District Panchayat Raj Officer (DPRO), Etah",
       "office_name_hi": "जिला पंचायत राज अधिकारी, एटा",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9634198891",
+          "type": "office",
+          "source_url": "https://etah.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "dpro-eth@nic.in",
       "covers": [
         "etah"
       ],
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Muhammad rashid"
     },
     {
       "id": "up-etah-sdm-etah",
@@ -76,6 +85,13 @@
         {
           "number": "9454417771",
           "type": "cug",
+          "source_url": "https://etah.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9598352140",
+          "type": "office",
           "source_url": "https://etah.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
@@ -142,7 +158,8 @@
       ],
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Prabhu Dalal"
     },
     {
       "id": "up-etah-ado-sheetalpur",
@@ -156,7 +173,8 @@
       ],
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-etah-bdo-sheetalpur"
     },
     {
       "id": "up-etah-bdo-sakit",
@@ -164,14 +182,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sakit",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sakit",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9411923620",
+          "type": "office",
+          "source_url": "https://etah.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.sakit.eth@gmail.com",
       "covers": [
         "sakit"
       ],
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Umesh Kumar Agarwal"
     },
     {
       "id": "up-etah-ado-sakit",
@@ -185,7 +212,8 @@
       ],
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-etah-bdo-sakit"
     },
     {
       "id": "up-etah-bdo-nidhauli-kalan",
@@ -208,7 +236,8 @@
       ],
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Gopal"
     },
     {
       "id": "up-etah-ado-nidhauli-kalan",
@@ -222,7 +251,8 @@
       ],
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-etah-bdo-nidhauli-kalan"
     },
     {
       "id": "up-etah-bdo-marehra",
@@ -251,7 +281,8 @@
       ],
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-etah-bdo-marehra"
     },
     {
       "id": "up-etah-bdo-awagarh",
@@ -280,7 +311,8 @@
       ],
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-etah-bdo-awagarh"
     },
     {
       "id": "up-etah-bdo-jalesar",
@@ -288,14 +320,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Jalesar",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jalesar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8218817297",
+          "type": "office",
+          "source_url": "https://etah.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.jalesar.eth@gmail.com",
       "covers": [
         "jalesar"
       ],
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri P.S anand"
     },
     {
       "id": "up-etah-ado-jalesar",
@@ -309,7 +350,8 @@
       ],
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-etah-bdo-jalesar"
     },
     {
       "id": "up-etah-bdo-aliganj",
@@ -317,14 +359,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Aliganj",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Aliganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "7017043178",
+          "type": "office",
+          "source_url": "https://etah.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.aliganj.eth@gmail.com",
       "covers": [
         "aliganj"
       ],
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri shiv shankar sharma"
     },
     {
       "id": "up-etah-ado-aliganj",
@@ -338,7 +389,8 @@
       ],
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-etah-bdo-aliganj"
     },
     {
       "id": "up-etah-bdo-jaithara",
@@ -367,7 +419,8 @@
       ],
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-etah-bdo-jaithara"
     },
     {
       "id": "eo-etah-main",
@@ -375,13 +428,23 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Etah",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका एटा",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8189077998",
+          "type": "office",
+          "source_url": "https://etah.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-etah-main"
       ],
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Nihal Singh",
+      "address_en": "Nagar Palika Parishad,G.T. Road Etah"
     }
   ]
 }

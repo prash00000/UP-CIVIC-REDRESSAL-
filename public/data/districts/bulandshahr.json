@@ -22,7 +22,7 @@
       "covers": [
         "bulandshahr"
       ],
-      "source_url": "https://bulandshahar.nic.in/whos-who/",
+      "source_url": "https://bulandshahar.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Collectorate Bulandshahr"
@@ -46,7 +46,7 @@
       "covers": [
         "bulandshahr"
       ],
-      "source_url": "https://bulandshahar.nic.in/whos-who/",
+      "source_url": "https://bulandshahar.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Ms. Nisha (IAS)",
@@ -199,7 +199,8 @@
       ],
       "source_url": "https://bulandshahar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bulandshahr-bdo-bulandshahr"
     },
     {
       "id": "up-bulandshahr-bdo-lakhaoti",
@@ -228,7 +229,8 @@
       ],
       "source_url": "https://bulandshahar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bulandshahr-bdo-lakhaoti"
     },
     {
       "id": "up-bulandshahr-bdo-sikandrabad",
@@ -257,7 +259,8 @@
       ],
       "source_url": "https://bulandshahar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bulandshahr-bdo-sikandrabad"
     },
     {
       "id": "up-bulandshahr-bdo-gulaothi",
@@ -286,7 +289,8 @@
       ],
       "source_url": "https://bulandshahar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bulandshahr-bdo-gulaothi"
     },
     {
       "id": "up-bulandshahr-bdo-aguta",
@@ -315,7 +319,8 @@
       ],
       "source_url": "https://bulandshahar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bulandshahr-bdo-aguta"
     },
     {
       "id": "up-bulandshahr-bdo-bhavan-bahadur-nagar",
@@ -344,7 +349,8 @@
       ],
       "source_url": "https://bulandshahar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bulandshahr-bdo-bhavan-bahadur-nagar"
     },
     {
       "id": "up-bulandshahr-bdo-syana",
@@ -373,7 +379,8 @@
       ],
       "source_url": "https://bulandshahar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bulandshahr-bdo-syana"
     },
     {
       "id": "up-bulandshahr-bdo-unchagaon",
@@ -402,7 +409,8 @@
       ],
       "source_url": "https://bulandshahar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bulandshahr-bdo-unchagaon"
     },
     {
       "id": "up-bulandshahr-bdo-jahangirabad",
@@ -431,7 +439,8 @@
       ],
       "source_url": "https://bulandshahar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bulandshahr-bdo-jahangirabad"
     },
     {
       "id": "up-bulandshahr-bdo-anupshahr",
@@ -460,7 +469,8 @@
       ],
       "source_url": "https://bulandshahar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bulandshahr-bdo-anupshahr"
     },
     {
       "id": "up-bulandshahr-bdo-debai",
@@ -489,7 +499,8 @@
       ],
       "source_url": "https://bulandshahar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bulandshahr-bdo-debai"
     },
     {
       "id": "up-bulandshahr-bdo-danpur",
@@ -518,7 +529,8 @@
       ],
       "source_url": "https://bulandshahar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bulandshahr-bdo-danpur"
     },
     {
       "id": "up-bulandshahr-bdo-dharampur",
@@ -547,7 +559,8 @@
       ],
       "source_url": "https://bulandshahar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bulandshahr-bdo-dharampur"
     },
     {
       "id": "up-bulandshahr-bdo-shikarpur",
@@ -576,7 +589,8 @@
       ],
       "source_url": "https://bulandshahar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bulandshahr-bdo-shikarpur"
     },
     {
       "id": "up-bulandshahr-bdo-pahasu",
@@ -605,7 +619,8 @@
       ],
       "source_url": "https://bulandshahar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bulandshahr-bdo-pahasu"
     },
     {
       "id": "up-bulandshahr-bdo-khurja",
@@ -634,7 +649,8 @@
       ],
       "source_url": "https://bulandshahar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bulandshahr-bdo-khurja"
     },
     {
       "id": "up-bulandshahr-bdo-araniya",
@@ -663,7 +679,8 @@
       ],
       "source_url": "https://bulandshahar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bulandshahr-bdo-araniya"
     },
     {
       "id": "eo-bulandshahr-main",

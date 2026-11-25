@@ -21,7 +21,7 @@
       "covers": [
         "meerut"
       ],
-      "source_url": "https://meerut.nic.in/whos-who/",
+      "source_url": "https://meerut.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Dr. Vijay Kumar Singh",
@@ -33,14 +33,22 @@
       "role": "cdo",
       "office_name_en": "Chief Development Officer (CDO), Meerut",
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), मेरठ",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416690",
+          "type": "office",
+          "source_url": "https://meerut.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "cdo.mrt-up@gov.in",
       "covers": [
         "meerut"
       ],
-      "source_url": "https://meerut.nic.in/whos-who/",
+      "source_url": "https://meerut.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-meerut-dpro",
@@ -76,9 +84,9 @@
       "covers": [
         "meerut"
       ],
-      "source_url": "https://meerut.nic.in/whos-who/",
+      "source_url": "https://meerut.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-meerut-sdm-mawana",
@@ -99,9 +107,9 @@
       "covers": [
         "mawana"
       ],
-      "source_url": "https://meerut.nic.in/whos-who/",
+      "source_url": "https://meerut.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-meerut-sdm-sardhana",
@@ -122,9 +130,9 @@
       "covers": [
         "sardhana"
       ],
-      "source_url": "https://meerut.nic.in/whos-who/",
+      "source_url": "https://meerut.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-meerut-bdo-meerut-sadar",
@@ -153,7 +161,8 @@
       ],
       "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-meerut-bdo-meerut-sadar"
     },
     {
       "id": "up-meerut-bdo-rajpura",
@@ -161,14 +170,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Rajpura",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rajpura",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465103",
+          "type": "office",
+          "source_url": "https://meerut.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.rajpura.mrt@gmail.com",
       "covers": [
         "rajpura"
       ],
-      "source_url": "https://meerut.nic.in/whos-who/",
+      "source_url": "https://meerut.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-meerut-ado-rajpura",
@@ -182,7 +199,8 @@
       ],
       "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-meerut-bdo-rajpura"
     },
     {
       "id": "up-meerut-bdo-kharkhoda",
@@ -190,14 +208,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kharkhoda",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kharkhoda",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465104",
+          "type": "office",
+          "source_url": "https://meerut.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.kharkhoda.mrt@gmail.com",
       "covers": [
         "kharkhoda"
       ],
-      "source_url": "https://meerut.nic.in/whos-who/",
+      "source_url": "https://meerut.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-meerut-ado-kharkhoda",
@@ -211,7 +237,8 @@
       ],
       "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-meerut-bdo-kharkhoda"
     },
     {
       "id": "up-meerut-bdo-jani",
@@ -219,14 +246,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Jani",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jani",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465101",
+          "type": "office",
+          "source_url": "https://meerut.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.jani.mrt@gmail.com",
       "covers": [
         "jani"
       ],
-      "source_url": "https://meerut.nic.in/whos-who/",
+      "source_url": "https://meerut.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-meerut-ado-jani",
@@ -240,7 +275,8 @@
       ],
       "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-meerut-bdo-jani"
     },
     {
       "id": "up-meerut-bdo-rohta",
@@ -248,14 +284,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Rohta",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rohta",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465099",
+          "type": "office",
+          "source_url": "https://meerut.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.rohta.mrt@gmail.com",
       "covers": [
         "rohta"
       ],
-      "source_url": "https://meerut.nic.in/whos-who/",
+      "source_url": "https://meerut.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-meerut-ado-rohta",
@@ -269,7 +313,8 @@
       ],
       "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-meerut-bdo-rohta"
     },
     {
       "id": "up-meerut-bdo-sardhana",
@@ -277,14 +322,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sardhana",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sardhana",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465093",
+          "type": "office",
+          "source_url": "https://meerut.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.sardhana.mrt@gmail.com",
       "covers": [
         "sardhana"
       ],
-      "source_url": "https://meerut.nic.in/whos-who/",
+      "source_url": "https://meerut.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-meerut-ado-sardhana",
@@ -298,7 +351,8 @@
       ],
       "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-meerut-bdo-sardhana"
     },
     {
       "id": "up-meerut-bdo-daurala",
@@ -306,14 +360,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Daurala",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Daurala",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465094",
+          "type": "office",
+          "source_url": "https://meerut.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.daurala.mrt@gmail.com",
       "covers": [
         "daurala"
       ],
-      "source_url": "https://meerut.nic.in/whos-who/",
+      "source_url": "https://meerut.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-meerut-ado-daurala",
@@ -327,7 +389,8 @@
       ],
       "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-meerut-bdo-daurala"
     },
     {
       "id": "up-meerut-bdo-mawana",
@@ -335,14 +398,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mawana",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mawana",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465095",
+          "type": "office",
+          "source_url": "https://meerut.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.mawana.mrt@gmail.com",
       "covers": [
         "mawana"
       ],
-      "source_url": "https://meerut.nic.in/whos-who/",
+      "source_url": "https://meerut.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-meerut-ado-mawana",
@@ -356,7 +427,8 @@
       ],
       "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-meerut-bdo-mawana"
     },
     {
       "id": "up-meerut-bdo-hastinapur",
@@ -364,14 +436,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Hastinapur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hastinapur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465096",
+          "type": "office",
+          "source_url": "https://meerut.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.hastinapur.mrt@gmail.com",
       "covers": [
         "hastinapur"
       ],
-      "source_url": "https://meerut.nic.in/whos-who/",
+      "source_url": "https://meerut.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-meerut-ado-hastinapur",
@@ -385,7 +465,8 @@
       ],
       "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-meerut-bdo-hastinapur"
     },
     {
       "id": "up-meerut-bdo-parikshitgarh",
@@ -393,14 +474,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Parikshitgarh",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Parikshitgarh",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465097",
+          "type": "office",
+          "source_url": "https://meerut.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.parikshitgarh.mrt@gmail.com",
       "covers": [
         "parikshitgarh"
       ],
-      "source_url": "https://meerut.nic.in/whos-who/",
+      "source_url": "https://meerut.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-meerut-ado-parikshitgarh",
@@ -414,7 +503,8 @@
       ],
       "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-meerut-bdo-parikshitgarh"
     },
     {
       "id": "up-meerut-bdo-machhra",
@@ -443,7 +533,8 @@
       ],
       "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-meerut-bdo-machhra"
     },
     {
       "id": "up-meerut-bdo-sarurpur",
@@ -472,7 +563,8 @@
       ],
       "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-meerut-bdo-sarurpur"
     },
     {
       "id": "eo-meerut-main",
@@ -487,6 +579,37 @@
       "source_url": "https://meerut.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-meerut-commissioner",
+      "level": "ulb",
+      "role": "commissioner",
+      "office_name_en": "Municipal Commissioner, Meerut Nagar Nigam",
+      "office_name_hi": "नगर आयुक्त, मेरठ नगर निगम",
+      "phones": [
+        {
+          "number": "8189077824",
+          "type": "cug",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0121-2660045",
+          "type": "landline",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "meerut"
+      ],
+      "source_url": "https://localbodies.up.nic.in/listnn.htm",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "email": "8189077824nnmee@up.nic.in",
+      "officer_name_en": "श्री अमित पाल शर्मा"
     }
   ]
 }

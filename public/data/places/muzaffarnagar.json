@@ -1,0 +1,3219 @@
+[
+  {
+    "id": "v-muzaffarnagar-muzaffarnagar",
+    "type": "village",
+    "name_en": "Muzaffarnagar Block (Gram Panchayats)",
+    "name_hi": "Muzaffarnagar विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-muzaffarnagar-baghra",
+    "type": "village",
+    "name_en": "Baghra Block (Gram Panchayats)",
+    "name_hi": "Baghra विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-baghra",
+    "block_id": "baghra",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-muzaffarnagar-charthawal",
+    "type": "village",
+    "name_en": "Charthawal Block (Gram Panchayats)",
+    "name_hi": "Charthawal विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-charthawal",
+    "block_id": "charthawal",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-muzaffarnagar-kukra",
+    "type": "village",
+    "name_en": "Kukra Block (Gram Panchayats)",
+    "name_hi": "Kukra विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kukra",
+    "block_id": "kukra",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-muzaffarnagar-purkazi",
+    "type": "village",
+    "name_en": "Purkazi Block (Gram Panchayats)",
+    "name_hi": "Purkazi विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-purkazi",
+    "block_id": "purkazi",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-muzaffarnagar-khatauli",
+    "type": "village",
+    "name_en": "Khatauli Block (Gram Panchayats)",
+    "name_hi": "Khatauli विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-khatauli",
+    "block_id": "khatauli",
+    "tehsil_id": "khatauli",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-muzaffarnagar-jansath",
+    "type": "village",
+    "name_en": "Jansath Block (Gram Panchayats)",
+    "name_hi": "Jansath विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-jansath",
+    "block_id": "jansath",
+    "tehsil_id": "jansath",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-muzaffarnagar-morna",
+    "type": "village",
+    "name_en": "Morna Block (Gram Panchayats)",
+    "name_hi": "Morna विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-morna",
+    "block_id": "morna",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-muzaffarnagar-budhana",
+    "type": "village",
+    "name_en": "Budhana Block (Gram Panchayats)",
+    "name_hi": "Budhana विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-budhana",
+    "block_id": "budhana",
+    "tehsil_id": "budhana",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-muzaffarnagar-shahpur",
+    "type": "village",
+    "name_en": "Shahpur Block (Gram Panchayats)",
+    "name_hi": "Shahpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-shahpur",
+    "block_id": "shahpur",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-muzaffarnagar-pinna",
+    "type": "village",
+    "name_en": "Pinna (Gram Panchayat Area)",
+    "name_hi": "Pinna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251306"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-rahamatpur-garwara",
+    "type": "village",
+    "name_en": "Rahamatpur Garwara (Gram Panchayat Area)",
+    "name_hi": "Rahamatpur Garwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251308"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-tissa",
+    "type": "village",
+    "name_en": "Tissa (Gram Panchayat Area)",
+    "name_hi": "Tissa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251308"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-titawi",
+    "type": "village",
+    "name_en": "Titawi (Gram Panchayat Area)",
+    "name_hi": "Titawi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251301"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-chhapar",
+    "type": "village",
+    "name_en": "Chhapar (Gram Panchayat Area)",
+    "name_hi": "Chhapar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251307"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kasampur-patheri",
+    "type": "village",
+    "name_en": "Kasampur Patheri (Gram Panchayat Area)",
+    "name_hi": "Kasampur Patheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251307"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-khudda",
+    "type": "village",
+    "name_en": "Khudda (Gram Panchayat Area)",
+    "name_hi": "Khudda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251307"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-phalauda",
+    "type": "village",
+    "name_en": "Phalauda (Gram Panchayat Area)",
+    "name_hi": "Phalauda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251307"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-jhal-nirgajani",
+    "type": "village",
+    "name_en": "Jhal Nirgajani (Gram Panchayat Area)",
+    "name_hi": "Jhal Nirgajani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251308"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-malpura",
+    "type": "village",
+    "name_en": "Malpura (Gram Panchayat Area)",
+    "name_hi": "Malpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251308"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-nagla-bujurg",
+    "type": "village",
+    "name_en": "Nagla Bujurg (Gram Panchayat Area)",
+    "name_hi": "Nagla Bujurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251308"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-rahakada",
+    "type": "village",
+    "name_en": "Rahakada (Gram Panchayat Area)",
+    "name_hi": "Rahakada (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251308"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-bagowali",
+    "type": "village",
+    "name_en": "Bagowali (Gram Panchayat Area)",
+    "name_hi": "Bagowali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-sahojani-tagan",
+    "type": "village",
+    "name_en": "Sahojani Tagan (Gram Panchayat Area)",
+    "name_hi": "Sahojani Tagan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-makhiyali",
+    "type": "village",
+    "name_en": "Makhiyali (Gram Panchayat Area)",
+    "name_hi": "Makhiyali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-taoli",
+    "type": "village",
+    "name_en": "Taoli (Gram Panchayat Area)",
+    "name_hi": "Taoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-sarwat",
+    "type": "village",
+    "name_en": "Sarwat (Gram Panchayat Area)",
+    "name_hi": "Sarwat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kukara",
+    "type": "village",
+    "name_en": "Kukara (Gram Panchayat Area)",
+    "name_hi": "Kukara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-pachanda-kalan",
+    "type": "village",
+    "name_en": "Pachanda Kalan (Gram Panchayat Area)",
+    "name_hi": "Pachanda Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-sher-nagar",
+    "type": "village",
+    "name_en": "Sher Nagar (Gram Panchayat Area)",
+    "name_hi": "Sher Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-datiyana",
+    "type": "village",
+    "name_en": "Datiyana (Gram Panchayat Area)",
+    "name_hi": "Datiyana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-rampur",
+    "type": "village",
+    "name_en": "Rampur (Gram Panchayat Area)",
+    "name_hi": "Rampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-roni-hazipur",
+    "type": "village",
+    "name_en": "Roni Hazipur (Gram Panchayat Area)",
+    "name_hi": "Roni Hazipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251301"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-amir-nagar",
+    "type": "village",
+    "name_en": "Amir Nagar (Gram Panchayat Area)",
+    "name_hi": "Amir Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251306"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kazi-khera",
+    "type": "village",
+    "name_en": "Kazi Khera (Gram Panchayat Area)",
+    "name_hi": "Kazi Khera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251306"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-mandi",
+    "type": "village",
+    "name_en": "Mandi (Gram Panchayat Area)",
+    "name_hi": "Mandi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251306"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-nasir-pur",
+    "type": "village",
+    "name_en": "Nasir Pur (Gram Panchayat Area)",
+    "name_hi": "Nasir Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251306"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-khaikheri",
+    "type": "village",
+    "name_en": "Khaikheri (Gram Panchayat Area)",
+    "name_hi": "Khaikheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251310"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-tuglakpur",
+    "type": "village",
+    "name_en": "Tuglakpur (Gram Panchayat Area)",
+    "name_hi": "Tuglakpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251310"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-behra-thru",
+    "type": "village",
+    "name_en": "Behra Thru (Gram Panchayat Area)",
+    "name_hi": "Behra Thru (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251308"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-jat-mujhera",
+    "type": "village",
+    "name_en": "Jat Mujhera (Gram Panchayat Area)",
+    "name_hi": "Jat Mujhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251308"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-harsauli",
+    "type": "village",
+    "name_en": "Harsauli (Gram Panchayat Area)",
+    "name_hi": "Harsauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-karwara",
+    "type": "village",
+    "name_en": "Karwara (Gram Panchayat Area)",
+    "name_hi": "Karwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-ratheri",
+    "type": "village",
+    "name_en": "Ratheri (Gram Panchayat Area)",
+    "name_hi": "Ratheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-barwala",
+    "type": "village",
+    "name_en": "Barwala (Gram Panchayat Area)",
+    "name_hi": "Barwala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-budina-kalan",
+    "type": "village",
+    "name_en": "Budina Kalan (Gram Panchayat Area)",
+    "name_hi": "Budina Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251301"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-jasoi",
+    "type": "village",
+    "name_en": "Jasoi (Gram Panchayat Area)",
+    "name_hi": "Jasoi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251301"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-nagala-pithora",
+    "type": "village",
+    "name_en": "Nagala Pithora (Gram Panchayat Area)",
+    "name_hi": "Nagala Pithora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251301"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-mussa-bilaspur",
+    "type": "village",
+    "name_en": "Mussa Bilaspur (Gram Panchayat Area)",
+    "name_hi": "Mussa Bilaspur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kinoni",
+    "type": "village",
+    "name_en": "Kinoni (Gram Panchayat Area)",
+    "name_hi": "Kinoni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-megha-kheri",
+    "type": "village",
+    "name_en": "Megha Kheri (Gram Panchayat Area)",
+    "name_hi": "Megha Kheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-agarwal-paper-mill",
+    "type": "village",
+    "name_en": "Agarwal Paper Mill (Gram Panchayat Area)",
+    "name_hi": "Agarwal Paper Mill (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-nirmana",
+    "type": "village",
+    "name_en": "Nirmana (Gram Panchayat Area)",
+    "name_hi": "Nirmana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-dedheru-kalan",
+    "type": "village",
+    "name_en": "Dedheru Kalan (Gram Panchayat Area)",
+    "name_hi": "Dedheru Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-biral",
+    "type": "village",
+    "name_en": "Biral (Gram Panchayat Area)",
+    "name_hi": "Biral (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "247771"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-mohamad-pur-madan",
+    "type": "village",
+    "name_en": "Mohamad Pur Madan (Gram Panchayat Area)",
+    "name_hi": "Mohamad Pur Madan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251301"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-phugana",
+    "type": "village",
+    "name_en": "Phugana (Gram Panchayat Area)",
+    "name_hi": "Phugana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "247776"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-bhora-kalan",
+    "type": "village",
+    "name_en": "Bhora Kalan (Gram Panchayat Area)",
+    "name_hi": "Bhora Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251319"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-budina-khurd",
+    "type": "village",
+    "name_en": "Budina Khurd (Gram Panchayat Area)",
+    "name_hi": "Budina Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251306"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-mukandpur",
+    "type": "village",
+    "name_en": "Mukandpur (Gram Panchayat Area)",
+    "name_hi": "Mukandpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251306"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-badheri",
+    "type": "village",
+    "name_en": "Badheri (Gram Panchayat Area)",
+    "name_hi": "Badheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251307"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-rai",
+    "type": "village",
+    "name_en": "Rai (Gram Panchayat Area)",
+    "name_hi": "Rai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251307"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-gadhla",
+    "type": "village",
+    "name_en": "Gadhla (Gram Panchayat Area)",
+    "name_hi": "Gadhla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251310"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-tejalhera",
+    "type": "village",
+    "name_en": "Tejalhera (Gram Panchayat Area)",
+    "name_hi": "Tejalhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251310"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-belra",
+    "type": "village",
+    "name_en": "Belra (Gram Panchayat Area)",
+    "name_hi": "Belra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251308"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-jauli",
+    "type": "village",
+    "name_en": "Jauli (Gram Panchayat Area)",
+    "name_hi": "Jauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251308"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-sikkri",
+    "type": "village",
+    "name_en": "Sikkri (Gram Panchayat Area)",
+    "name_hi": "Sikkri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251308"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-bhoora-khurd",
+    "type": "village",
+    "name_en": "Bhoora Khurd (Gram Panchayat Area)",
+    "name_hi": "Bhoora Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251319"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-alipur-aterna",
+    "type": "village",
+    "name_en": "Alipur Aterna (Gram Panchayat Area)",
+    "name_hi": "Alipur Aterna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-barkata",
+    "type": "village",
+    "name_en": "Barkata (Gram Panchayat Area)",
+    "name_hi": "Barkata (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kuralsi",
+    "type": "village",
+    "name_en": "Kuralsi (Gram Panchayat Area)",
+    "name_hi": "Kuralsi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kurawa",
+    "type": "village",
+    "name_en": "Kurawa (Gram Panchayat Area)",
+    "name_hi": "Kurawa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kurthal",
+    "type": "village",
+    "name_en": "Kurthal (Gram Panchayat Area)",
+    "name_hi": "Kurthal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-loi-sarai",
+    "type": "village",
+    "name_en": "Loi Sarai (Gram Panchayat Area)",
+    "name_hi": "Loi Sarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-reoli-nagla",
+    "type": "village",
+    "name_en": "Reoli Nagla (Gram Panchayat Area)",
+    "name_hi": "Reoli Nagla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-tanda-majara",
+    "type": "village",
+    "name_en": "Tanda Majara (Gram Panchayat Area)",
+    "name_hi": "Tanda Majara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-toda",
+    "type": "village",
+    "name_en": "Toda (Gram Panchayat Area)",
+    "name_hi": "Toda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-khusropur",
+    "type": "village",
+    "name_en": "Khusropur (Gram Panchayat Area)",
+    "name_hi": "Khusropur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251311"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kulheri",
+    "type": "village",
+    "name_en": "Kulheri (Gram Panchayat Area)",
+    "name_hi": "Kulheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251311"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kutesra",
+    "type": "village",
+    "name_en": "Kutesra (Gram Panchayat Area)",
+    "name_hi": "Kutesra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251311"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-luhari-khurd",
+    "type": "village",
+    "name_en": "Luhari Khurd (Gram Panchayat Area)",
+    "name_hi": "Luhari Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251311"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-jaroda",
+    "type": "village",
+    "name_en": "Jaroda (Gram Panchayat Area)",
+    "name_hi": "Jaroda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251003"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-sujroo",
+    "type": "village",
+    "name_en": "Sujroo (Gram Panchayat Area)",
+    "name_hi": "Sujroo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251003"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-vehlana",
+    "type": "village",
+    "name_en": "Vehlana (Gram Panchayat Area)",
+    "name_hi": "Vehlana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251003"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-doodhli",
+    "type": "village",
+    "name_en": "Doodhli (Gram Panchayat Area)",
+    "name_hi": "Doodhli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "247772"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-bajidpur-kawali",
+    "type": "village",
+    "name_en": "Bajidpur Kawali (Gram Panchayat Area)",
+    "name_hi": "Bajidpur Kawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251314"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-baroda",
+    "type": "village",
+    "name_en": "Baroda (Gram Panchayat Area)",
+    "name_hi": "Baroda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-dabheri-rasulpur",
+    "type": "village",
+    "name_en": "Dabheri Rasulpur (Gram Panchayat Area)",
+    "name_hi": "Dabheri Rasulpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-jaula",
+    "type": "village",
+    "name_en": "Jaula (Gram Panchayat Area)",
+    "name_hi": "Jaula (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-mohmand-pur-rai-singh",
+    "type": "village",
+    "name_en": "Mohmand Pur Rai Singh (Gram Panchayat Area)",
+    "name_hi": "Mohmand Pur Rai Singh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-raipur-aterna",
+    "type": "village",
+    "name_en": "Raipur Aterna (Gram Panchayat Area)",
+    "name_hi": "Raipur Aterna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-chokra",
+    "type": "village",
+    "name_en": "Chokra (Gram Panchayat Area)",
+    "name_hi": "Chokra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251311"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-paoti",
+    "type": "village",
+    "name_en": "Paoti (Gram Panchayat Area)",
+    "name_hi": "Paoti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251311"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-lachera",
+    "type": "village",
+    "name_en": "Lachera (Gram Panchayat Area)",
+    "name_hi": "Lachera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251003"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-balwa-kheri",
+    "type": "village",
+    "name_en": "Balwa Kheri (Gram Panchayat Area)",
+    "name_hi": "Balwa Kheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "247772"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-budha-khera",
+    "type": "village",
+    "name_en": "Budha Khera (Gram Panchayat Area)",
+    "name_hi": "Budha Khera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "247772"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-pipal-shah",
+    "type": "village",
+    "name_en": "Pipal Shah (Gram Panchayat Area)",
+    "name_hi": "Pipal Shah (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "247772"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-chittora",
+    "type": "village",
+    "name_en": "Chittora (Gram Panchayat Area)",
+    "name_hi": "Chittora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251314"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-ghatayan",
+    "type": "village",
+    "name_en": "Ghatayan (Gram Panchayat Area)",
+    "name_hi": "Ghatayan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251314"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-bhangela",
+    "type": "village",
+    "name_en": "Bhangela (Gram Panchayat Area)",
+    "name_hi": "Bhangela (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-chand-seena",
+    "type": "village",
+    "name_en": "Chand Seena (Gram Panchayat Area)",
+    "name_hi": "Chand Seena (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-galibpur",
+    "type": "village",
+    "name_en": "Galibpur (Gram Panchayat Area)",
+    "name_hi": "Galibpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-incholi",
+    "type": "village",
+    "name_en": "Incholi (Gram Panchayat Area)",
+    "name_hi": "Incholi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-nawla",
+    "type": "village",
+    "name_en": "Nawla (Gram Panchayat Area)",
+    "name_hi": "Nawla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-sarai-rasulpur",
+    "type": "village",
+    "name_en": "Sarai Rasulpur (Gram Panchayat Area)",
+    "name_hi": "Sarai Rasulpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-titoda",
+    "type": "village",
+    "name_en": "Titoda (Gram Panchayat Area)",
+    "name_hi": "Titoda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-bihari",
+    "type": "village",
+    "name_en": "Bihari (Gram Panchayat Area)",
+    "name_hi": "Bihari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251203"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-purbaliyan",
+    "type": "village",
+    "name_en": "Purbaliyan (Gram Panchayat Area)",
+    "name_hi": "Purbaliyan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251203"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-bhooma",
+    "type": "village",
+    "name_en": "Bhooma (Gram Panchayat Area)",
+    "name_hi": "Bhooma (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251315"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-tendhera",
+    "type": "village",
+    "name_en": "Tendhera (Gram Panchayat Area)",
+    "name_hi": "Tendhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251316"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-hassanpur",
+    "type": "village",
+    "name_en": "Hassanpur (Gram Panchayat Area)",
+    "name_hi": "Hassanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251320"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-baheri",
+    "type": "village",
+    "name_en": "Baheri (Gram Panchayat Area)",
+    "name_hi": "Baheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251202"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kachauli",
+    "type": "village",
+    "name_en": "Kachauli (Gram Panchayat Area)",
+    "name_hi": "Kachauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251202"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-dhanayan",
+    "type": "village",
+    "name_en": "Dhanayan (Gram Panchayat Area)",
+    "name_hi": "Dhanayan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251318"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kutba",
+    "type": "village",
+    "name_en": "Kutba (Gram Panchayat Area)",
+    "name_hi": "Kutba (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251318"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-mubarikpur",
+    "type": "village",
+    "name_en": "Mubarikpur (Gram Panchayat Area)",
+    "name_hi": "Mubarikpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251318"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-mundbhar",
+    "type": "village",
+    "name_en": "Mundbhar (Gram Panchayat Area)",
+    "name_hi": "Mundbhar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251319"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-sawtoo",
+    "type": "village",
+    "name_en": "Sawtoo (Gram Panchayat Area)",
+    "name_hi": "Sawtoo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251319"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-shikarpur",
+    "type": "village",
+    "name_en": "Shikarpur (Gram Panchayat Area)",
+    "name_hi": "Shikarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251319"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-bitawada",
+    "type": "village",
+    "name_en": "Bitawada (Gram Panchayat Area)",
+    "name_hi": "Bitawada (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-garhi-sakhawatpur",
+    "type": "village",
+    "name_en": "Garhi Sakhawatpur (Gram Panchayat Area)",
+    "name_hi": "Garhi Sakhawatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-itawa",
+    "type": "village",
+    "name_en": "Itawa (Gram Panchayat Area)",
+    "name_hi": "Itawa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kamruddin-nagar",
+    "type": "village",
+    "name_en": "Kamruddin Nagar (Gram Panchayat Area)",
+    "name_hi": "Kamruddin Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-chand-samad",
+    "type": "village",
+    "name_en": "Chand Samad (Gram Panchayat Area)",
+    "name_hi": "Chand Samad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-dayalpuri",
+    "type": "village",
+    "name_en": "Dayalpuri (Gram Panchayat Area)",
+    "name_hi": "Dayalpuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-fahimpur-khurd",
+    "type": "village",
+    "name_en": "Fahimpur Khurd (Gram Panchayat Area)",
+    "name_hi": "Fahimpur Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-dudha-heri",
+    "type": "village",
+    "name_en": "Dudha Heri (Gram Panchayat Area)",
+    "name_hi": "Dudha Heri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251203"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-hussainpur-bhopara",
+    "type": "village",
+    "name_en": "Hussainpur Bhopara (Gram Panchayat Area)",
+    "name_hi": "Hussainpur Bhopara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251203"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kithora",
+    "type": "village",
+    "name_en": "Kithora (Gram Panchayat Area)",
+    "name_hi": "Kithora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251315"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kutubpur",
+    "type": "village",
+    "name_en": "Kutubpur (Gram Panchayat Area)",
+    "name_hi": "Kutubpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251315"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-bhokarheri",
+    "type": "village",
+    "name_en": "Bhokarheri (Gram Panchayat Area)",
+    "name_hi": "Bhokarheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251316"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-chorawala",
+    "type": "village",
+    "name_en": "Chorawala (Gram Panchayat Area)",
+    "name_hi": "Chorawala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251316"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kakrauli",
+    "type": "village",
+    "name_en": "Kakrauli (Gram Panchayat Area)",
+    "name_hi": "Kakrauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251316"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-khokani",
+    "type": "village",
+    "name_en": "Khokani (Gram Panchayat Area)",
+    "name_hi": "Khokani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251316"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kelanpur",
+    "type": "village",
+    "name_en": "Kelanpur (Gram Panchayat Area)",
+    "name_hi": "Kelanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251327"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-sherpur",
+    "type": "village",
+    "name_en": "Sherpur (Gram Panchayat Area)",
+    "name_hi": "Sherpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251327"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-maleera",
+    "type": "village",
+    "name_en": "Maleera (Gram Panchayat Area)",
+    "name_hi": "Maleera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251202"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-rohana-khurd",
+    "type": "village",
+    "name_en": "Rohana Khurd (Gram Panchayat Area)",
+    "name_hi": "Rohana Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251202"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-dhindawali",
+    "type": "village",
+    "name_en": "Dhindawali (Gram Panchayat Area)",
+    "name_hi": "Dhindawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251318"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-dinkarpur",
+    "type": "village",
+    "name_en": "Dinkarpur (Gram Panchayat Area)",
+    "name_hi": "Dinkarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251318"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-grahi-noabad",
+    "type": "village",
+    "name_en": "Grahi Noabad (Gram Panchayat Area)",
+    "name_hi": "Grahi Noabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-hussainabad-bhanwara",
+    "type": "village",
+    "name_en": "Hussainabad Bhanwara (Gram Panchayat Area)",
+    "name_hi": "Hussainabad Bhanwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-hussainpur-kalan",
+    "type": "village",
+    "name_en": "Hussainpur Kalan (Gram Panchayat Area)",
+    "name_hi": "Hussainpur Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-luhsana",
+    "type": "village",
+    "name_en": "Luhsana (Gram Panchayat Area)",
+    "name_hi": "Luhsana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-nagwa",
+    "type": "village",
+    "name_en": "Nagwa (Gram Panchayat Area)",
+    "name_hi": "Nagwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-biralasi",
+    "type": "village",
+    "name_en": "Biralasi (Gram Panchayat Area)",
+    "name_hi": "Biralasi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "247772"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-niamu",
+    "type": "village",
+    "name_en": "Niamu (Gram Panchayat Area)",
+    "name_hi": "Niamu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "247772"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-behra-assa",
+    "type": "village",
+    "name_en": "Behra Assa (Gram Panchayat Area)",
+    "name_hi": "Behra Assa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251314"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-dhansari",
+    "type": "village",
+    "name_en": "Dhansari (Gram Panchayat Area)",
+    "name_hi": "Dhansari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251314"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-nagla-madore-college",
+    "type": "village",
+    "name_en": "Nagla Madore College (Gram Panchayat Area)",
+    "name_hi": "Nagla Madore College (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251314"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-sambhal-hera",
+    "type": "village",
+    "name_en": "Sambhal Hera (Gram Panchayat Area)",
+    "name_hi": "Sambhal Hera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251314"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-antwara",
+    "type": "village",
+    "name_en": "Antwara (Gram Panchayat Area)",
+    "name_hi": "Antwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-bhainsi",
+    "type": "village",
+    "name_en": "Bhainsi (Gram Panchayat Area)",
+    "name_hi": "Bhainsi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-pamnawali",
+    "type": "village",
+    "name_en": "Pamnawali (Gram Panchayat Area)",
+    "name_hi": "Pamnawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-pipalhera",
+    "type": "village",
+    "name_en": "Pipalhera (Gram Panchayat Area)",
+    "name_hi": "Pipalhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-satheri",
+    "type": "village",
+    "name_en": "Satheri (Gram Panchayat Area)",
+    "name_hi": "Satheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-bahadurpur",
+    "type": "village",
+    "name_en": "Bahadurpur (Gram Panchayat Area)",
+    "name_hi": "Bahadurpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251203"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-bhikki",
+    "type": "village",
+    "name_en": "Bhikki (Gram Panchayat Area)",
+    "name_hi": "Bhikki (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251203"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-pura",
+    "type": "village",
+    "name_en": "Pura (Gram Panchayat Area)",
+    "name_hi": "Pura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251203"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-behupura",
+    "type": "village",
+    "name_en": "Behupura (Gram Panchayat Area)",
+    "name_hi": "Behupura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251316"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-shukartal",
+    "type": "village",
+    "name_en": "Shukartal (Gram Panchayat Area)",
+    "name_hi": "Shukartal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251316"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-tewra",
+    "type": "village",
+    "name_en": "Tewra (Gram Panchayat Area)",
+    "name_hi": "Tewra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251316"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-badhai-khurd",
+    "type": "village",
+    "name_en": "Badhai Khurd (Gram Panchayat Area)",
+    "name_hi": "Badhai Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251202"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-barkali",
+    "type": "village",
+    "name_en": "Barkali (Gram Panchayat Area)",
+    "name_hi": "Barkali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251202"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kaserwa",
+    "type": "village",
+    "name_en": "Kaserwa (Gram Panchayat Area)",
+    "name_hi": "Kaserwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251318"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-palri",
+    "type": "village",
+    "name_en": "Palri (Gram Panchayat Area)",
+    "name_hi": "Palri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251318"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-karoda",
+    "type": "village",
+    "name_en": "Karoda (Gram Panchayat Area)",
+    "name_hi": "Karoda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "247776"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-jandheri",
+    "type": "village",
+    "name_en": "Jandheri (Gram Panchayat Area)",
+    "name_hi": "Jandheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251314"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kawal",
+    "type": "village",
+    "name_en": "Kawal (Gram Panchayat Area)",
+    "name_hi": "Kawal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251314"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kujhera",
+    "type": "village",
+    "name_en": "Kujhera (Gram Panchayat Area)",
+    "name_hi": "Kujhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251314"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-rajpur-kalan",
+    "type": "village",
+    "name_en": "Rajpur Kalan (Gram Panchayat Area)",
+    "name_hi": "Rajpur Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251314"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-salarpur",
+    "type": "village",
+    "name_en": "Salarpur (Gram Panchayat Area)",
+    "name_hi": "Salarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251314"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-tissang",
+    "type": "village",
+    "name_en": "Tissang (Gram Panchayat Area)",
+    "name_hi": "Tissang (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251314"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-parasauli",
+    "type": "village",
+    "name_en": "Parasauli (Gram Panchayat Area)",
+    "name_hi": "Parasauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "247775"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-rajpur-chhajpur",
+    "type": "village",
+    "name_en": "Rajpur Chhajpur (Gram Panchayat Area)",
+    "name_hi": "Rajpur Chhajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "247775"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-barsoo",
+    "type": "village",
+    "name_en": "Barsoo (Gram Panchayat Area)",
+    "name_hi": "Barsoo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-jasaula",
+    "type": "village",
+    "name_en": "Jasaula (Gram Panchayat Area)",
+    "name_hi": "Jasaula (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kailwara-kalan",
+    "type": "village",
+    "name_en": "Kailwara Kalan (Gram Panchayat Area)",
+    "name_hi": "Kailwara Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-khanjapur",
+    "type": "village",
+    "name_en": "Khanjapur (Gram Panchayat Area)",
+    "name_hi": "Khanjapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kheri-rangdhang",
+    "type": "village",
+    "name_en": "Kheri Rangdhang (Gram Panchayat Area)",
+    "name_hi": "Kheri Rangdhang (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-phulat",
+    "type": "village",
+    "name_en": "Phulat (Gram Panchayat Area)",
+    "name_hi": "Phulat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-satguru-nagar",
+    "type": "village",
+    "name_en": "Satguru Nagar (Gram Panchayat Area)",
+    "name_hi": "Satguru Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-jeewana",
+    "type": "village",
+    "name_en": "Jeewana (Gram Panchayat Area)",
+    "name_hi": "Jeewana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251203"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-mansurpur-village",
+    "type": "village",
+    "name_en": "Mansurpur Village (Gram Panchayat Area)",
+    "name_hi": "Mansurpur Village (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251203"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kasampur-khola",
+    "type": "village",
+    "name_en": "Kasampur Khola (Gram Panchayat Area)",
+    "name_hi": "Kasampur Khola (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251315"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-katiya",
+    "type": "village",
+    "name_en": "Katiya (Gram Panchayat Area)",
+    "name_hi": "Katiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251315"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-badiwala",
+    "type": "village",
+    "name_en": "Badiwala (Gram Panchayat Area)",
+    "name_hi": "Badiwala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251327"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-hari-nagar",
+    "type": "village",
+    "name_en": "Hari Nagar (Gram Panchayat Area)",
+    "name_hi": "Hari Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251327"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-badhai-kalan",
+    "type": "village",
+    "name_en": "Badhai Kalan (Gram Panchayat Area)",
+    "name_hi": "Badhai Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251202"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-goela",
+    "type": "village",
+    "name_en": "Goela (Gram Panchayat Area)",
+    "name_hi": "Goela (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251318"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kakra",
+    "type": "village",
+    "name_en": "Kakra (Gram Panchayat Area)",
+    "name_hi": "Kakra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251318"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-shoram",
+    "type": "village",
+    "name_en": "Shoram (Gram Panchayat Area)",
+    "name_hi": "Shoram (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251318"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-umarpur",
+    "type": "village",
+    "name_en": "Umarpur (Gram Panchayat Area)",
+    "name_hi": "Umarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "251318"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-kharar",
+    "type": "village",
+    "name_en": "Kharar (Gram Panchayat Area)",
+    "name_hi": "Kharar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "247776"
+    ]
+  },
+  {
+    "id": "po-muzaffarnagar-khera-mastan",
+    "type": "village",
+    "name_en": "Khera Mastan (Gram Panchayat Area)",
+    "name_hi": "Khera Mastan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muzaffarnagar",
+    "block_id": "muzaffarnagar",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "247776"
+    ]
+  },
+  {
+    "id": "ward-muzaffarnagar-ulb-muzaffarnagar-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Muzaffarnagar (All Wards)",
+    "name_hi": "मुजफ्फरनगर नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-muzaffarnagar-ndc-muzaffar-nagar",
+    "type": "ward",
+    "name_en": "NDC MUZAFFAR NAGAR (Urban Ward / SO)",
+    "name_hi": "NDC MUZAFFAR NAGAR (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-muzaffarnagar",
+    "type": "ward",
+    "name_en": "Muzaffarnagar (Urban Ward / SO)",
+    "name_hi": "Muzaffarnagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-barla",
+    "type": "ward",
+    "name_en": "Barla (Urban Ward / SO)",
+    "name_hi": "Barla (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251307"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-beghrajpur",
+    "type": "ward",
+    "name_en": "Beghrajpur (Urban Ward / SO)",
+    "name_hi": "Beghrajpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251203"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-charthawal",
+    "type": "ward",
+    "name_en": "Charthawal (Urban Ward / SO)",
+    "name_hi": "Charthawal (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251311"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-gandhi-colony",
+    "type": "ward",
+    "name_en": "Gandhi Colony (Urban Ward / SO)",
+    "name_hi": "Gandhi Colony (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-morna",
+    "type": "ward",
+    "name_en": "Morna (Urban Ward / SO)",
+    "name_hi": "Morna (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251316"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-muzaffar-nagar-city",
+    "type": "ward",
+    "name_en": "Muzaffar Nagar City (Urban Ward / SO)",
+    "name_hi": "Muzaffar Nagar City (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251002"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-nai-abadi-budhana",
+    "type": "ward",
+    "name_en": "Nai Abadi Budhana (Urban Ward / SO)",
+    "name_hi": "Nai Abadi Budhana (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-navin-mandi-sthal",
+    "type": "ward",
+    "name_en": "Navin Mandi Sthal (Urban Ward / SO)",
+    "name_hi": "Navin Mandi Sthal (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-purkazi",
+    "type": "ward",
+    "name_en": "Purkazi (Urban Ward / SO)",
+    "name_hi": "Purkazi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251327"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-shahpur-muzaffarnagar",
+    "type": "ward",
+    "name_en": "Shahpur Muzaffarnagar (Urban Ward / SO)",
+    "name_hi": "Shahpur Muzaffarnagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251318"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-shamli-road",
+    "type": "ward",
+    "name_en": "Shamli Road (Urban Ward / SO)",
+    "name_hi": "Shamli Road (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251002"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-sugar-mill-road-khatauli",
+    "type": "ward",
+    "name_en": "Sugar Mill Road Khatauli (Urban Ward / SO)",
+    "name_hi": "Sugar Mill Road Khatauli (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-tehsil-jansath",
+    "type": "ward",
+    "name_en": "Tehsil Jansath (Urban Ward / SO)",
+    "name_hi": "Tehsil Jansath (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251314"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-industrial-estate-so-muzaffarnagar",
+    "type": "ward",
+    "name_en": "Industrial Estate SO Muzaffarnagar (Urban Ward / SO)",
+    "name_hi": "Industrial Estate SO Muzaffarnagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251003"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-khala-par",
+    "type": "ward",
+    "name_en": "Khala Par (Urban Ward / SO)",
+    "name_hi": "Khala Par (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251002"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-miranpur",
+    "type": "ward",
+    "name_en": "Miranpur (Urban Ward / SO)",
+    "name_hi": "Miranpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251315"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-sisauli",
+    "type": "ward",
+    "name_en": "Sisauli (Urban Ward / SO)",
+    "name_hi": "Sisauli (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251319"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-south-civil-lines",
+    "type": "ward",
+    "name_en": "South Civil  Lines (Urban Ward / SO)",
+    "name_hi": "South Civil  Lines (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-alipur-kheri",
+    "type": "ward",
+    "name_en": "Alipur Kheri (Urban Ward / SO)",
+    "name_hi": "Alipur Kheri (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251301"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-anandpuri-so-muzaffarnagar",
+    "type": "ward",
+    "name_en": "Anandpuri SO Muzaffarnagar (Urban Ward / SO)",
+    "name_hi": "Anandpuri SO Muzaffarnagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-bhopa",
+    "type": "ward",
+    "name_en": "Bhopa (Urban Ward / SO)",
+    "name_hi": "Bhopa (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251308"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-brahmpuri",
+    "type": "ward",
+    "name_en": "Brahmpuri (Urban Ward / SO)",
+    "name_hi": "Brahmpuri (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-ganga-ram-pura",
+    "type": "ward",
+    "name_en": "Ganga Ram Pura (Urban Ward / SO)",
+    "name_hi": "Ganga Ram Pura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-jansath",
+    "type": "ward",
+    "name_en": "Jansath (Urban Ward / SO)",
+    "name_hi": "Jansath (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251314"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-khatauli-bazar",
+    "type": "ward",
+    "name_en": "Khatauli Bazar (Urban Ward / SO)",
+    "name_hi": "Khatauli Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-kutchery-mzn",
+    "type": "ward",
+    "name_en": "Kutchery Mzn (Urban Ward / SO)",
+    "name_hi": "Kutchery Mzn (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-rohana-mills",
+    "type": "ward",
+    "name_en": "Rohana Mills (Urban Ward / SO)",
+    "name_hi": "Rohana Mills (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251202"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-baghra-so-muzaffarnagar",
+    "type": "ward",
+    "name_en": "Baghra SO Muzaffarnagar (Urban Ward / SO)",
+    "name_hi": "Baghra SO Muzaffarnagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251306"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-basera",
+    "type": "ward",
+    "name_en": "Basera (Urban Ward / SO)",
+    "name_hi": "Basera (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251310"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-bhopa-road",
+    "type": "ward",
+    "name_en": "Bhopa Road (Urban Ward / SO)",
+    "name_hi": "Bhopa Road (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-budhana",
+    "type": "ward",
+    "name_en": "Budhana (Urban Ward / SO)",
+    "name_hi": "Budhana (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251309"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-khatauli",
+    "type": "ward",
+    "name_en": "Khatauli (Urban Ward / SO)",
+    "name_hi": "Khatauli (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251201"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-laddhawala",
+    "type": "ward",
+    "name_en": "Laddhawala (Urban Ward / SO)",
+    "name_hi": "Laddhawala (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251002"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-mansurpur",
+    "type": "ward",
+    "name_en": "Mansurpur (Urban Ward / SO)",
+    "name_hi": "Mansurpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251203"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-prempuri",
+    "type": "ward",
+    "name_en": "Prempuri (Urban Ward / SO)",
+    "name_hi": "Prempuri (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251002"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-rampuram",
+    "type": "ward",
+    "name_en": "Rampuram (Urban Ward / SO)",
+    "name_hi": "Rampuram (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251001"
+    ]
+  },
+  {
+    "id": "town-muzaffarnagar-ramraj",
+    "type": "ward",
+    "name_en": "Ramraj (Urban Ward / SO)",
+    "name_hi": "Ramraj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-muzaffarnagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "muzaffarnagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "251320"
+    ]
+  }
+]

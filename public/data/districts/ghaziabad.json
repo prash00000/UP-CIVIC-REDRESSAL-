@@ -9,12 +9,41 @@
       "office_name_en": "Office of District Magistrate, Ghaziabad",
       "office_name_hi": "कार्यालय जिलाधिकारी, गाजियाबाद",
       "officer_name_en": "Shri Ravindra Kumar Mandar, IAS",
-      "phones": [],
+      "phones": [
+        {
+          "number": "0120-2824416",
+          "type": "landline",
+          "source_url": "https://ghaziabad.nic.in/en/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0120-2820106",
+          "type": "landline",
+          "source_url": "https://ghaziabad.nic.in/en/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0120-2821616",
+          "type": "landline",
+          "source_url": "https://ghaziabad.nic.in/en/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0120-2828798",
+          "type": "landline",
+          "source_url": "https://ghaziabad.nic.in/en/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "dmgzb@nic.in",
       "covers": [
         "ghaziabad"
       ],
-      "source_url": "https://ghaziabad.nic.in/whos-who/",
+      "source_url": "https://ghaziabad.nic.in/en/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Shri Ravindra Kumar Mandar, IAS"
@@ -25,12 +54,20 @@
       "role": "cdo",
       "office_name_en": "Chief Development Officer (CDO), Ghaziabad",
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), गाजियाबाद",
-      "phones": [],
+      "phones": [
+        {
+          "number": "0120-2820605",
+          "type": "landline",
+          "source_url": "https://ghaziabad.nic.in/en/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "cdo.gzb-up@gov.in",
       "covers": [
         "ghaziabad"
       ],
-      "source_url": "https://ghaziabad.nic.in/whos-who/",
+      "source_url": "https://ghaziabad.nic.in/en/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Kumar Saurabh, IAS",
@@ -85,7 +122,7 @@
       "covers": [
         "modinagar"
       ],
-      "source_url": "https://ghaziabad.nic.in/whos-who/",
+      "source_url": "https://ghaziabad.nic.in/en/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Smt. Komal Panwar",
@@ -110,7 +147,7 @@
       "covers": [
         "loni"
       ],
-      "source_url": "https://ghaziabad.nic.in/whos-who/",
+      "source_url": "https://ghaziabad.nic.in/en/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Deepak Singhanwal",
@@ -143,7 +180,8 @@
       ],
       "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghaziabad-bdo-razapur"
     },
     {
       "id": "up-ghaziabad-bdo-bhojpur",
@@ -172,7 +210,8 @@
       ],
       "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghaziabad-bdo-bhojpur"
     },
     {
       "id": "up-ghaziabad-bdo-loni",
@@ -201,7 +240,8 @@
       ],
       "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghaziabad-bdo-loni"
     },
     {
       "id": "up-ghaziabad-bdo-muradnagar",
@@ -230,7 +270,8 @@
       ],
       "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghaziabad-bdo-muradnagar"
     },
     {
       "id": "eo-ghaziabad-main",
@@ -245,6 +286,37 @@
       "source_url": "https://ghaziabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-ghaziabad-commissioner",
+      "level": "ulb",
+      "role": "commissioner",
+      "office_name_en": "Municipal Commissioner, Ghaziabad Nagar Nigam",
+      "office_name_hi": "नगर आयुक्त, गाजियाबाद नगर निगम",
+      "phones": [
+        {
+          "number": "8189077818",
+          "type": "cug",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0120-2790425",
+          "type": "landline",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "ghaziabad"
+      ],
+      "source_url": "https://ghaziabad.nic.in/en/about-district/whos-who/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "email": "8189077818gzb.nagar.nigam@gmail.com",
+      "officer_name_en": "श्री नितिन गौड़"
     }
   ]
 }

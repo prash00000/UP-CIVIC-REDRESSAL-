@@ -85,9 +85,9 @@
       "covers": [
         "maharajganj"
       ],
-      "source_url": "https://maharajganj.nic.in/whos-who/",
+      "source_url": "https://maharajganj.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-maharajganj-sdm-sadar",
@@ -102,15 +102,22 @@
           "source_url": "https://maharajganj.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454416299",
+          "type": "office",
+          "source_url": "https://maharajganj.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdm.sadar.mrg-up@gov.in",
       "covers": [
         "sadar"
       ],
-      "source_url": "https://maharajganj.nic.in/whos-who/",
+      "source_url": "https://maharajganj.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-maharajganj-sdm-nautanwa",
@@ -131,9 +138,9 @@
       "covers": [
         "nautanwa"
       ],
-      "source_url": "https://maharajganj.nic.in/whos-who/",
+      "source_url": "https://maharajganj.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-maharajganj-sdm-nichlaul",
@@ -154,9 +161,9 @@
       "covers": [
         "nichlaul"
       ],
-      "source_url": "https://maharajganj.nic.in/whos-who/",
+      "source_url": "https://maharajganj.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-maharajganj-sdm-pharenda",
@@ -177,9 +184,9 @@
       "covers": [
         "pharenda"
       ],
-      "source_url": "https://maharajganj.nic.in/whos-who/",
+      "source_url": "https://maharajganj.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-maharajganj-bdo-maharajganj",
@@ -208,7 +215,8 @@
       ],
       "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-maharajganj-bdo-maharajganj"
     },
     {
       "id": "up-maharajganj-bdo-mithaura",
@@ -237,7 +245,8 @@
       ],
       "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-maharajganj-bdo-mithaura"
     },
     {
       "id": "up-maharajganj-bdo-siswa",
@@ -266,7 +275,8 @@
       ],
       "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-maharajganj-bdo-siswa"
     },
     {
       "id": "up-maharajganj-bdo-nichlaul",
@@ -295,7 +305,8 @@
       ],
       "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-maharajganj-bdo-nichlaul"
     },
     {
       "id": "up-maharajganj-bdo-nautanwa",
@@ -324,7 +335,8 @@
       ],
       "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-maharajganj-bdo-nautanwa"
     },
     {
       "id": "up-maharajganj-bdo-ratanpur",
@@ -353,7 +365,8 @@
       ],
       "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-maharajganj-bdo-ratanpur"
     },
     {
       "id": "up-maharajganj-bdo-laxmipur",
@@ -382,7 +395,8 @@
       ],
       "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-maharajganj-bdo-laxmipur"
     },
     {
       "id": "up-maharajganj-bdo-brijmanganj",
@@ -411,7 +425,8 @@
       ],
       "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-maharajganj-bdo-brijmanganj"
     },
     {
       "id": "up-maharajganj-bdo-pharenda",
@@ -440,7 +455,8 @@
       ],
       "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-maharajganj-bdo-pharenda"
     },
     {
       "id": "up-maharajganj-bdo-dhani",
@@ -469,7 +485,8 @@
       ],
       "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-maharajganj-bdo-dhani"
     },
     {
       "id": "up-maharajganj-bdo-paniara",
@@ -498,7 +515,8 @@
       ],
       "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-maharajganj-bdo-paniara"
     },
     {
       "id": "up-maharajganj-bdo-partawal",
@@ -527,7 +545,8 @@
       ],
       "source_url": "https://maharajganj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-maharajganj-bdo-partawal"
     },
     {
       "id": "eo-maharajganj-main",

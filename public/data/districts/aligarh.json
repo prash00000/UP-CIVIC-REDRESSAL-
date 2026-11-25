@@ -22,9 +22,9 @@
       "covers": [
         "aligarh"
       ],
-      "source_url": "https://aligarh.nic.in/whos-who/",
+      "source_url": "https://aligarh.nic.in/telephone/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-aligarh-cdo",
@@ -52,7 +52,7 @@
       "covers": [
         "aligarh"
       ],
-      "source_url": "https://aligarh.nic.in/whos-who/",
+      "source_url": "https://aligarh.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Yogendra Kumar, IAS",
@@ -94,14 +94,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Khair",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Khair",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05724-255225",
+          "type": "landline",
+          "source_url": "https://aligarh.nic.in/telephone/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.khair.ali-up@gov.in",
       "covers": [
         "khair"
       ],
-      "source_url": "https://aligarh.nic.in/whos-who/",
+      "source_url": "https://aligarh.nic.in/telephone/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Khair"
     },
     {
       "id": "up-aligarh-sdm-atrauli",
@@ -109,14 +118,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Atrauli",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Atrauli",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05723-233317",
+          "type": "landline",
+          "source_url": "https://aligarh.nic.in/telephone/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.atrauli.ali-up@gov.in",
       "covers": [
         "atrauli"
       ],
-      "source_url": "https://aligarh.nic.in/whos-who/",
+      "source_url": "https://aligarh.nic.in/telephone/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Atrauli"
     },
     {
       "id": "up-aligarh-sdm-iglas",
@@ -129,9 +147,10 @@
       "covers": [
         "iglas"
       ],
-      "source_url": "https://aligarh.nic.in/whos-who/",
+      "source_url": "https://aligarh.nic.in/telephone/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Iglas"
     },
     {
       "id": "up-aligarh-sdm-ghabhana",
@@ -175,7 +194,8 @@
       ],
       "source_url": "https://aligarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-aligarh-bdo-dhanipur"
     },
     {
       "id": "up-aligarh-bdo-lodha",
@@ -204,7 +224,8 @@
       ],
       "source_url": "https://aligarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-aligarh-bdo-lodha"
     },
     {
       "id": "up-aligarh-bdo-jawan-sikanderpur",
@@ -233,7 +254,8 @@
       ],
       "source_url": "https://aligarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-aligarh-bdo-jawan-sikanderpur"
     },
     {
       "id": "up-aligarh-bdo-chandaus",
@@ -262,7 +284,8 @@
       ],
       "source_url": "https://aligarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-aligarh-bdo-chandaus"
     },
     {
       "id": "up-aligarh-bdo-khair",
@@ -291,7 +314,8 @@
       ],
       "source_url": "https://aligarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-aligarh-bdo-khair"
     },
     {
       "id": "up-aligarh-bdo-atrauli",
@@ -320,7 +344,8 @@
       ],
       "source_url": "https://aligarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-aligarh-bdo-atrauli"
     },
     {
       "id": "up-aligarh-bdo-gangiri",
@@ -349,7 +374,8 @@
       ],
       "source_url": "https://aligarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-aligarh-bdo-gangiri"
     },
     {
       "id": "up-aligarh-bdo-bijauli",
@@ -378,7 +404,8 @@
       ],
       "source_url": "https://aligarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-aligarh-bdo-bijauli"
     },
     {
       "id": "up-aligarh-bdo-iglas",
@@ -407,7 +434,8 @@
       ],
       "source_url": "https://aligarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-aligarh-bdo-iglas"
     },
     {
       "id": "up-aligarh-bdo-gonda",
@@ -436,7 +464,8 @@
       ],
       "source_url": "https://aligarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-aligarh-bdo-gonda"
     },
     {
       "id": "up-aligarh-bdo-tappal",
@@ -465,7 +494,8 @@
       ],
       "source_url": "https://aligarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-aligarh-bdo-tappal"
     },
     {
       "id": "up-aligarh-bdo-akrabad",
@@ -494,7 +524,8 @@
       ],
       "source_url": "https://aligarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-aligarh-bdo-akrabad"
     },
     {
       "id": "eo-aligarh-main",
@@ -509,6 +540,37 @@
       "source_url": "https://aligarh.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-aligarh-commissioner",
+      "level": "ulb",
+      "role": "commissioner",
+      "office_name_en": "Municipal Commissioner, Aligarh Nagar Nigam",
+      "office_name_hi": "नगर आयुक्त, अलीगढ़ नगर निगम",
+      "phones": [
+        {
+          "number": "8189077814",
+          "type": "cug",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0571-2405520",
+          "type": "landline",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "aligarh"
+      ],
+      "source_url": "https://aligarh.nic.in/about-district/whos-who/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "email": "8189077814nnaligarh@gmail.com",
+      "officer_name_en": "श्री अमित कुमार आसिरी"
     }
   ]
 }

@@ -21,7 +21,7 @@
       "covers": [
         "etawah"
       ],
-      "source_url": "https://etawah.nic.in/whos-who/",
+      "source_url": "https://etawah.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "District Magistrate Etawah",
@@ -46,7 +46,7 @@
       "covers": [
         "etawah"
       ],
-      "source_url": "https://etawah.nic.in/whos-who/",
+      "source_url": "https://etawah.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Chief Development Officer",
@@ -86,7 +86,7 @@
       "covers": [
         "etawah"
       ],
-      "source_url": "https://etawah.nic.in/whos-who/",
+      "source_url": "https://etawah.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "SDM Etawah",
@@ -111,7 +111,7 @@
       "covers": [
         "bharthana"
       ],
-      "source_url": "https://etawah.nic.in/whos-who/",
+      "source_url": "https://etawah.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "SDM Bharthana",
@@ -136,7 +136,7 @@
       "covers": [
         "chakarnagar"
       ],
-      "source_url": "https://etawah.nic.in/whos-who/",
+      "source_url": "https://etawah.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "SDM Chakarnagar",
@@ -161,7 +161,7 @@
       "covers": [
         "saifai"
       ],
-      "source_url": "https://etawah.nic.in/whos-who/",
+      "source_url": "https://etawah.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "SDM Saifai",
@@ -186,7 +186,7 @@
       "covers": [
         "jaswantnagar"
       ],
-      "source_url": "https://etawah.nic.in/whos-who/",
+      "source_url": "https://etawah.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "SDM Jaswantnagar",
@@ -211,7 +211,7 @@
       "covers": [
         "takha"
       ],
-      "source_url": "https://etawah.nic.in/whos-who/",
+      "source_url": "https://etawah.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "SDM Takha",
@@ -244,7 +244,8 @@
       ],
       "source_url": "https://etawah.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-etawah-bdo-barhpura"
     },
     {
       "id": "up-etawah-bdo-jaswantnagar",
@@ -273,7 +274,8 @@
       ],
       "source_url": "https://etawah.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-etawah-bdo-jaswantnagar"
     },
     {
       "id": "up-etawah-bdo-saifai",
@@ -302,7 +304,8 @@
       ],
       "source_url": "https://etawah.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-etawah-bdo-saifai"
     },
     {
       "id": "up-etawah-bdo-basrehar",
@@ -331,7 +334,8 @@
       ],
       "source_url": "https://etawah.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-etawah-bdo-basrehar"
     },
     {
       "id": "up-etawah-bdo-bharthana",
@@ -360,7 +364,8 @@
       ],
       "source_url": "https://etawah.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-etawah-bdo-bharthana"
     },
     {
       "id": "up-etawah-bdo-mahewa",
@@ -389,7 +394,8 @@
       ],
       "source_url": "https://etawah.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-etawah-bdo-mahewa"
     },
     {
       "id": "up-etawah-bdo-chakarnagar",
@@ -418,7 +424,8 @@
       ],
       "source_url": "https://etawah.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-etawah-bdo-chakarnagar"
     },
     {
       "id": "up-etawah-bdo-takha",
@@ -447,7 +454,8 @@
       ],
       "source_url": "https://etawah.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-etawah-bdo-takha"
     },
     {
       "id": "eo-etawah-main",

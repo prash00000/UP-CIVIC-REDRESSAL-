@@ -1,0 +1,4509 @@
+[
+  {
+    "id": "v-bulandshahr-bulandshahr",
+    "type": "village",
+    "name_en": "Bulandshahr Block (Gram Panchayats)",
+    "name_hi": "Bulandshahr विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bulandshahr-lakhaoti",
+    "type": "village",
+    "name_en": "Lakhaoti Block (Gram Panchayats)",
+    "name_hi": "Lakhaoti विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-lakhaoti",
+    "block_id": "lakhaoti",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bulandshahr-sikandrabad",
+    "type": "village",
+    "name_en": "Sikandrabad Block (Gram Panchayats)",
+    "name_hi": "Sikandrabad विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sikandrabad",
+    "block_id": "sikandrabad",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bulandshahr-gulaothi",
+    "type": "village",
+    "name_en": "Gulaothi Block (Gram Panchayats)",
+    "name_hi": "Gulaothi विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gulaothi",
+    "block_id": "gulaothi",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bulandshahr-aguta",
+    "type": "village",
+    "name_en": "Aguta Block (Gram Panchayats)",
+    "name_hi": "Aguta विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-aguta",
+    "block_id": "aguta",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bulandshahr-bhavan-bahadur-nagar",
+    "type": "village",
+    "name_en": "Bhavan Bahadur Nagar Block (Gram Panchayats)",
+    "name_hi": "Bhavan Bahadur Nagar विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhavan-bahadur-nagar",
+    "block_id": "bhavan-bahadur-nagar",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bulandshahr-syana",
+    "type": "village",
+    "name_en": "Syana Block (Gram Panchayats)",
+    "name_hi": "Syana विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-syana",
+    "block_id": "syana",
+    "tehsil_id": "syana",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bulandshahr-unchagaon",
+    "type": "village",
+    "name_en": "Unchagaon Block (Gram Panchayats)",
+    "name_hi": "Unchagaon विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-unchagaon",
+    "block_id": "unchagaon",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bulandshahr-jahangirabad",
+    "type": "village",
+    "name_en": "Jahangirabad Block (Gram Panchayats)",
+    "name_hi": "Jahangirabad विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-jahangirabad",
+    "block_id": "jahangirabad",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bulandshahr-anupshahr",
+    "type": "village",
+    "name_en": "Anupshahr Block (Gram Panchayats)",
+    "name_hi": "Anupshahr विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-anupshahr",
+    "block_id": "anupshahr",
+    "tehsil_id": "anupshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bulandshahr-debai",
+    "type": "village",
+    "name_en": "Debai Block (Gram Panchayats)",
+    "name_hi": "Debai विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-debai",
+    "block_id": "debai",
+    "tehsil_id": "debai",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bulandshahr-danpur",
+    "type": "village",
+    "name_en": "Danpur Block (Gram Panchayats)",
+    "name_hi": "Danpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-danpur",
+    "block_id": "danpur",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bulandshahr-dharampur",
+    "type": "village",
+    "name_en": "Dharampur Block (Gram Panchayats)",
+    "name_hi": "Dharampur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dharampur",
+    "block_id": "dharampur",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bulandshahr-shikarpur",
+    "type": "village",
+    "name_en": "Shikarpur Block (Gram Panchayats)",
+    "name_hi": "Shikarpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-shikarpur",
+    "block_id": "shikarpur",
+    "tehsil_id": "shikarpur",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bulandshahr-pahasu",
+    "type": "village",
+    "name_en": "Pahasu Block (Gram Panchayats)",
+    "name_hi": "Pahasu विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pahasu",
+    "block_id": "pahasu",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bulandshahr-khurja",
+    "type": "village",
+    "name_en": "Khurja Block (Gram Panchayats)",
+    "name_hi": "Khurja विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-khurja",
+    "block_id": "khurja",
+    "tehsil_id": "khurja",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bulandshahr-araniya",
+    "type": "village",
+    "name_en": "Araniya Block (Gram Panchayats)",
+    "name_hi": "Araniya विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-araniya",
+    "block_id": "araniya",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-bulandshahr-bigraou",
+    "type": "village",
+    "name_en": "Bigraou (Gram Panchayat Area)",
+    "name_hi": "Bigraou (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203412"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-barhpura",
+    "type": "village",
+    "name_en": "Barhpura (Gram Panchayat Area)",
+    "name_hi": "Barhpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203398"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-darawer",
+    "type": "village",
+    "name_en": "Darawer (Gram Panchayat Area)",
+    "name_hi": "Darawer (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203398"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-narsena",
+    "type": "village",
+    "name_en": "Narsena (Gram Panchayat Area)",
+    "name_hi": "Narsena (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203398"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-shikoi",
+    "type": "village",
+    "name_en": "Shikoi (Gram Panchayat Area)",
+    "name_hi": "Shikoi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203398"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bhatwara",
+    "type": "village",
+    "name_en": "Bhatwara (Gram Panchayat Area)",
+    "name_hi": "Bhatwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-seekri",
+    "type": "village",
+    "name_en": "Seekri (Gram Panchayat Area)",
+    "name_hi": "Seekri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bagrai-khurd",
+    "type": "village",
+    "name_en": "Bagrai  Khurd (Gram Panchayat Area)",
+    "name_hi": "Bagrai  Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-shahbaz-pur",
+    "type": "village",
+    "name_en": "Shahbaz Pur (Gram Panchayat Area)",
+    "name_hi": "Shahbaz Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bada-gaon",
+    "type": "village",
+    "name_en": "Bada Gaon (Gram Panchayat Area)",
+    "name_hi": "Bada Gaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kirra",
+    "type": "village",
+    "name_en": "Kirra (Gram Panchayat Area)",
+    "name_hi": "Kirra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-pindrawal",
+    "type": "village",
+    "name_en": "Pindrawal (Gram Panchayat Area)",
+    "name_hi": "Pindrawal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203397"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-sahar",
+    "type": "village",
+    "name_en": "Sahar (Gram Panchayat Area)",
+    "name_hi": "Sahar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203397"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-tyore-buzurg",
+    "type": "village",
+    "name_en": "Tyore  Buzurg (Gram Panchayat Area)",
+    "name_hi": "Tyore  Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203397"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bhikampur",
+    "type": "village",
+    "name_en": "Bhikampur (Gram Panchayat Area)",
+    "name_hi": "Bhikampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203392"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-chehla",
+    "type": "village",
+    "name_en": "Chehla (Gram Panchayat Area)",
+    "name_hi": "Chehla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203392"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-indoure-khera",
+    "type": "village",
+    "name_en": "Indoure  Khera (Gram Panchayat Area)",
+    "name_hi": "Indoure  Khera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203392"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-keeratpur",
+    "type": "village",
+    "name_en": "Keeratpur (Gram Panchayat Area)",
+    "name_hi": "Keeratpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203392"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-muradpur",
+    "type": "village",
+    "name_en": "Muradpur (Gram Panchayat Area)",
+    "name_hi": "Muradpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203392"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-poothery-kalan",
+    "type": "village",
+    "name_en": "Poothery  Kalan (Gram Panchayat Area)",
+    "name_hi": "Poothery  Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203392"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-runsi",
+    "type": "village",
+    "name_en": "Runsi (Gram Panchayat Area)",
+    "name_hi": "Runsi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203392"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-dogawan",
+    "type": "village",
+    "name_en": "Dogawan (Gram Panchayat Area)",
+    "name_hi": "Dogawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203393"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-pilkhana",
+    "type": "village",
+    "name_en": "Pilkhana (Gram Panchayat Area)",
+    "name_hi": "Pilkhana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203393"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-uamrara",
+    "type": "village",
+    "name_en": "Uamrara (Gram Panchayat Area)",
+    "name_hi": "Uamrara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203393"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-gwarauly",
+    "type": "village",
+    "name_en": "Gwarauly (Gram Panchayat Area)",
+    "name_hi": "Gwarauly (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203129"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-nagliya-udaibhan",
+    "type": "village",
+    "name_en": "Nagliya  Udaibhan (Gram Panchayat Area)",
+    "name_hi": "Nagliya  Udaibhan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203129"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-raipur-palda",
+    "type": "village",
+    "name_en": "Raipur Palda (Gram Panchayat Area)",
+    "name_hi": "Raipur Palda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203129"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-rampur-manpur",
+    "type": "village",
+    "name_en": "Rampur  Manpur (Gram Panchayat Area)",
+    "name_hi": "Rampur  Manpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203129"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-sonda-habibpur",
+    "type": "village",
+    "name_en": "Sonda  Habibpur (Gram Panchayat Area)",
+    "name_hi": "Sonda  Habibpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203132"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kunwarpur",
+    "type": "village",
+    "name_en": "Kunwarpur (Gram Panchayat Area)",
+    "name_hi": "Kunwarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203396"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-lalner",
+    "type": "village",
+    "name_en": "Lalner (Gram Panchayat Area)",
+    "name_hi": "Lalner (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203396"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-jargawan",
+    "type": "village",
+    "name_en": "Jargawan (Gram Panchayat Area)",
+    "name_hi": "Jargawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203399"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-lalkuan",
+    "type": "village",
+    "name_en": "Lalkuan (Gram Panchayat Area)",
+    "name_hi": "Lalkuan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-mirjapur",
+    "type": "village",
+    "name_en": "Mirjapur (Gram Panchayat Area)",
+    "name_hi": "Mirjapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-mukeempur",
+    "type": "village",
+    "name_en": "Mukeempur (Gram Panchayat Area)",
+    "name_hi": "Mukeempur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-ghunghraoli-banwaripur",
+    "type": "village",
+    "name_en": "Ghunghraoli Banwaripur (Gram Panchayat Area)",
+    "name_hi": "Ghunghraoli Banwaripur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-luharaly-ludhiyana",
+    "type": "village",
+    "name_en": "Luharaly Ludhiyana (Gram Panchayat Area)",
+    "name_hi": "Luharaly Ludhiyana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-dhamraoli",
+    "type": "village",
+    "name_en": "Dhamraoli (Gram Panchayat Area)",
+    "name_hi": "Dhamraoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203002"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-malakpur",
+    "type": "village",
+    "name_en": "Malakpur (Gram Panchayat Area)",
+    "name_hi": "Malakpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203390"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-parly",
+    "type": "village",
+    "name_en": "Parly (Gram Panchayat Area)",
+    "name_hi": "Parly (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203390"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-roopwas",
+    "type": "village",
+    "name_en": "Roopwas (Gram Panchayat Area)",
+    "name_hi": "Roopwas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203390"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-siraura-bangar",
+    "type": "village",
+    "name_en": "Siraura Bangar (Gram Panchayat Area)",
+    "name_hi": "Siraura Bangar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203390"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-surajpur-makhena",
+    "type": "village",
+    "name_en": "Surajpur  Makhena (Gram Panchayat Area)",
+    "name_hi": "Surajpur  Makhena (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203390"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-banhpur",
+    "type": "village",
+    "name_en": "Banhpur (Gram Panchayat Area)",
+    "name_hi": "Banhpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203402"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-benipur",
+    "type": "village",
+    "name_en": "Benipur (Gram Panchayat Area)",
+    "name_hi": "Benipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203402"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kuchesar",
+    "type": "village",
+    "name_en": "Kuchesar (Gram Panchayat Area)",
+    "name_hi": "Kuchesar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203402"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-lad-pur",
+    "type": "village",
+    "name_en": "Lad Pur (Gram Panchayat Area)",
+    "name_hi": "Lad Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203402"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-madona-jafara-bad",
+    "type": "village",
+    "name_en": "Madona Jafara Bad (Gram Panchayat Area)",
+    "name_hi": "Madona Jafara Bad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203402"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-sathala",
+    "type": "village",
+    "name_en": "Sathala (Gram Panchayat Area)",
+    "name_hi": "Sathala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203402"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-barhana",
+    "type": "village",
+    "name_en": "Barhana (Gram Panchayat Area)",
+    "name_hi": "Barhana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203403"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bharkau",
+    "type": "village",
+    "name_en": "Bharkau (Gram Panchayat Area)",
+    "name_hi": "Bharkau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203403"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-asawar",
+    "type": "village",
+    "name_en": "Asawar (Gram Panchayat Area)",
+    "name_hi": "Asawar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-til-begumpur",
+    "type": "village",
+    "name_en": "Til BegumPur (Gram Panchayat Area)",
+    "name_hi": "Til BegumPur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203206"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-darora",
+    "type": "village",
+    "name_en": "Darora (Gram Panchayat Area)",
+    "name_hi": "Darora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-guraoli",
+    "type": "village",
+    "name_en": "Guraoli (Gram Panchayat Area)",
+    "name_hi": "Guraoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-jakheta",
+    "type": "village",
+    "name_en": "Jakheta (Gram Panchayat Area)",
+    "name_hi": "Jakheta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-jatpura",
+    "type": "village",
+    "name_en": "Jatpura (Gram Panchayat Area)",
+    "name_hi": "Jatpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-raghunathpur",
+    "type": "village",
+    "name_en": "Raghunathpur (Gram Panchayat Area)",
+    "name_hi": "Raghunathpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203405"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-sonjhana-jhaya",
+    "type": "village",
+    "name_en": "Sonjhana Jhaya (Gram Panchayat Area)",
+    "name_hi": "Sonjhana Jhaya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203405"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-katiyawali",
+    "type": "village",
+    "name_en": "Katiyawali (Gram Panchayat Area)",
+    "name_hi": "Katiyawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203391"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-khelia-kalyanpur",
+    "type": "village",
+    "name_en": "Khelia Kalyanpur (Gram Panchayat Area)",
+    "name_hi": "Khelia Kalyanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203391"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-mundi-bakapur",
+    "type": "village",
+    "name_en": "Mundi Bakapur (Gram Panchayat Area)",
+    "name_hi": "Mundi Bakapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203407"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-nimchana",
+    "type": "village",
+    "name_en": "Nimchana (Gram Panchayat Area)",
+    "name_hi": "Nimchana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203407"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-parwana",
+    "type": "village",
+    "name_en": "Parwana (Gram Panchayat Area)",
+    "name_hi": "Parwana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203407"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-sega-jagatpur",
+    "type": "village",
+    "name_en": "Sega Jagatpur (Gram Panchayat Area)",
+    "name_hi": "Sega Jagatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203407"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-sehra",
+    "type": "village",
+    "name_en": "Sehra (Gram Panchayat Area)",
+    "name_hi": "Sehra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203411"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-gajipur",
+    "type": "village",
+    "name_en": "Gajipur (Gram Panchayat Area)",
+    "name_hi": "Gajipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203205"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-ishmail-pur",
+    "type": "village",
+    "name_en": "Ishmail Pur (Gram Panchayat Area)",
+    "name_hi": "Ishmail Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203205"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kanwra",
+    "type": "village",
+    "name_en": "Kanwra (Gram Panchayat Area)",
+    "name_hi": "Kanwra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203205"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-doulatpur-kala",
+    "type": "village",
+    "name_en": "Doulatpur   Kala (Gram Panchayat Area)",
+    "name_hi": "Doulatpur   Kala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203398"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-ghungharwaly",
+    "type": "village",
+    "name_en": "Ghungharwaly (Gram Panchayat Area)",
+    "name_hi": "Ghungharwaly (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203398"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-muni",
+    "type": "village",
+    "name_en": "Muni (Gram Panchayat Area)",
+    "name_hi": "Muni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-roop-wash-pachgain",
+    "type": "village",
+    "name_en": "Roop  Wash Pachgain (Gram Panchayat Area)",
+    "name_hi": "Roop  Wash Pachgain (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-agaura-hameerpur",
+    "type": "village",
+    "name_en": "Agaura  Hameerpur (Gram Panchayat Area)",
+    "name_hi": "Agaura  Hameerpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-jawal",
+    "type": "village",
+    "name_en": "Jawal (Gram Panchayat Area)",
+    "name_hi": "Jawal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-choundhera",
+    "type": "village",
+    "name_en": "Choundhera (Gram Panchayat Area)",
+    "name_hi": "Choundhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203392"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-dangarh",
+    "type": "village",
+    "name_en": "Dangarh (Gram Panchayat Area)",
+    "name_hi": "Dangarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203392"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-satwara",
+    "type": "village",
+    "name_en": "Satwara (Gram Panchayat Area)",
+    "name_hi": "Satwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203392"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-karanbash",
+    "type": "village",
+    "name_en": "Karanbash (Gram Panchayat Area)",
+    "name_hi": "Karanbash (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203393"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kaser-kalan",
+    "type": "village",
+    "name_en": "Kaser  Kalan (Gram Panchayat Area)",
+    "name_hi": "Kaser  Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203393"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kaser-khurd",
+    "type": "village",
+    "name_en": "Kaser  Khurd (Gram Panchayat Area)",
+    "name_hi": "Kaser  Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203393"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-asgarpur",
+    "type": "village",
+    "name_en": "Asgarpur (Gram Panchayat Area)",
+    "name_hi": "Asgarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203132"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-belon",
+    "type": "village",
+    "name_en": "Belon (Gram Panchayat Area)",
+    "name_hi": "Belon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203389"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-rampur",
+    "type": "village",
+    "name_en": "Rampur (Gram Panchayat Area)",
+    "name_hi": "Rampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dharampur",
+    "block_id": "dharampur",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203389"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-gangagarhi",
+    "type": "village",
+    "name_en": "GangaGarhi (Gram Panchayat Area)",
+    "name_hi": "GangaGarhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203396"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-chiroury",
+    "type": "village",
+    "name_en": "Chiroury (Gram Panchayat Area)",
+    "name_hi": "Chiroury (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203399"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-guthaoli",
+    "type": "village",
+    "name_en": "Guthaoli (Gram Panchayat Area)",
+    "name_hi": "Guthaoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-naya-gaon",
+    "type": "village",
+    "name_en": "Naya  Gaon (Gram Panchayat Area)",
+    "name_hi": "Naya  Gaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-rangpur",
+    "type": "village",
+    "name_en": "Rangpur (Gram Panchayat Area)",
+    "name_hi": "Rangpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-dhamera-keerat",
+    "type": "village",
+    "name_en": "Dhamera  Keerat (Gram Panchayat Area)",
+    "name_hi": "Dhamera  Keerat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bagsara",
+    "type": "village",
+    "name_en": "Bagsara (Gram Panchayat Area)",
+    "name_hi": "Bagsara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203390"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-paswasara",
+    "type": "village",
+    "name_en": "Paswasara (Gram Panchayat Area)",
+    "name_hi": "Paswasara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203401"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-visundhara",
+    "type": "village",
+    "name_en": "Visundhara (Gram Panchayat Area)",
+    "name_hi": "Visundhara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203401"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-chandiyana",
+    "type": "village",
+    "name_en": "Chandiyana (Gram Panchayat Area)",
+    "name_hi": "Chandiyana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203403"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kisola",
+    "type": "village",
+    "name_en": "Kisola (Gram Panchayat Area)",
+    "name_hi": "Kisola (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203403"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-baghwala",
+    "type": "village",
+    "name_en": "Baghwala (Gram Panchayat Area)",
+    "name_hi": "Baghwala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bhatauna",
+    "type": "village",
+    "name_en": "Bhatauna (Gram Panchayat Area)",
+    "name_hi": "Bhatauna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-chaprawat",
+    "type": "village",
+    "name_en": "Chaprawat (Gram Panchayat Area)",
+    "name_hi": "Chaprawat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-ginora-shekh",
+    "type": "village",
+    "name_en": "Ginora Shekh (Gram Panchayat Area)",
+    "name_hi": "Ginora Shekh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-harchana",
+    "type": "village",
+    "name_en": "Harchana (Gram Panchayat Area)",
+    "name_hi": "Harchana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-isapur",
+    "type": "village",
+    "name_en": "Isapur (Gram Panchayat Area)",
+    "name_hi": "Isapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kurli",
+    "type": "village",
+    "name_en": "Kurli (Gram Panchayat Area)",
+    "name_hi": "Kurli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-mohana",
+    "type": "village",
+    "name_en": "Mohana (Gram Panchayat Area)",
+    "name_hi": "Mohana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-oledha",
+    "type": "village",
+    "name_en": "Oledha (Gram Panchayat Area)",
+    "name_hi": "Oledha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-pitubash",
+    "type": "village",
+    "name_en": "Pitubash (Gram Panchayat Area)",
+    "name_hi": "Pitubash (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-senta",
+    "type": "village",
+    "name_en": "Senta (Gram Panchayat Area)",
+    "name_hi": "Senta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bansuri",
+    "type": "village",
+    "name_en": "Bansuri (Gram Panchayat Area)",
+    "name_hi": "Bansuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-navi-nagar",
+    "type": "village",
+    "name_en": "Navi Nagar (Gram Panchayat Area)",
+    "name_hi": "Navi Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-sankhani",
+    "type": "village",
+    "name_en": "Sankhani (Gram Panchayat Area)",
+    "name_hi": "Sankhani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-tauli",
+    "type": "village",
+    "name_en": "Tauli (Gram Panchayat Area)",
+    "name_hi": "Tauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-titauta-veer",
+    "type": "village",
+    "name_en": "Titauta Veer (Gram Panchayat Area)",
+    "name_hi": "Titauta Veer (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-amarpur",
+    "type": "village",
+    "name_en": "Amarpur (Gram Panchayat Area)",
+    "name_hi": "Amarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203405"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-chathera",
+    "type": "village",
+    "name_en": "Chathera (Gram Panchayat Area)",
+    "name_hi": "Chathera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203405"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-ginaura-nangali",
+    "type": "village",
+    "name_en": "Ginaura Nangali (Gram Panchayat Area)",
+    "name_hi": "Ginaura Nangali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203405"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-pali-partapur",
+    "type": "village",
+    "name_en": "Pali Partapur (Gram Panchayat Area)",
+    "name_hi": "Pali Partapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203405"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-andhiyar",
+    "type": "village",
+    "name_en": "Andhiyar (Gram Panchayat Area)",
+    "name_hi": "Andhiyar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203391"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-shekhpur-gadwa",
+    "type": "village",
+    "name_en": "Shekhpur Gadwa (Gram Panchayat Area)",
+    "name_hi": "Shekhpur Gadwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203407"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-agauta",
+    "type": "village",
+    "name_en": "Agauta (Gram Panchayat Area)",
+    "name_hi": "Agauta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203411"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-ahmadanagar",
+    "type": "village",
+    "name_en": "Ahmadanagar (Gram Panchayat Area)",
+    "name_hi": "Ahmadanagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203411"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-akapurtiyana",
+    "type": "village",
+    "name_en": "AkapurTiyana (Gram Panchayat Area)",
+    "name_hi": "AkapurTiyana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203411"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-barkatpur",
+    "type": "village",
+    "name_en": "Barkatpur (Gram Panchayat Area)",
+    "name_hi": "Barkatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203411"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-nisurkha",
+    "type": "village",
+    "name_en": "Nisurkha (Gram Panchayat Area)",
+    "name_hi": "Nisurkha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203411"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-maithna-jagatpur",
+    "type": "village",
+    "name_en": "Maithna  Jagatpur (Gram Panchayat Area)",
+    "name_hi": "Maithna  Jagatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203409"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-utrouly",
+    "type": "village",
+    "name_en": "Utrouly (Gram Panchayat Area)",
+    "name_hi": "Utrouly (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203409"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-ashwari",
+    "type": "village",
+    "name_en": "Ashwari (Gram Panchayat Area)",
+    "name_hi": "Ashwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203150"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bhudhana",
+    "type": "village",
+    "name_en": "Bhudhana (Gram Panchayat Area)",
+    "name_hi": "Bhudhana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203150"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-jugsana-kalan",
+    "type": "village",
+    "name_en": "Jugsana  Kalan (Gram Panchayat Area)",
+    "name_hi": "Jugsana  Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203150"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-manglore",
+    "type": "village",
+    "name_en": "Manglore (Gram Panchayat Area)",
+    "name_hi": "Manglore (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203150"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-shiwaly",
+    "type": "village",
+    "name_en": "Shiwaly (Gram Panchayat Area)",
+    "name_hi": "Shiwaly (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203150"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-sarawa",
+    "type": "village",
+    "name_en": "Sarawa (Gram Panchayat Area)",
+    "name_hi": "Sarawa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203395"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-aurangabad-aheer",
+    "type": "village",
+    "name_en": "Aurangabad Aheer (Gram Panchayat Area)",
+    "name_hi": "Aurangabad Aheer (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203205"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-mahepa",
+    "type": "village",
+    "name_en": "Mahepa (Gram Panchayat Area)",
+    "name_hi": "Mahepa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203205"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-barouli-basdev-pur",
+    "type": "village",
+    "name_en": "Barouli Basdev Pur (Gram Panchayat Area)",
+    "name_hi": "Barouli Basdev Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203412"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-khad-mohan-nagar",
+    "type": "village",
+    "name_en": "Khad  Mohan Nagar (Gram Panchayat Area)",
+    "name_hi": "Khad  Mohan Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203412"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-waira-firozpur",
+    "type": "village",
+    "name_en": "Waira  Firozpur (Gram Panchayat Area)",
+    "name_hi": "Waira  Firozpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203412"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-ahar",
+    "type": "village",
+    "name_en": "Ahar (Gram Panchayat Area)",
+    "name_hi": "Ahar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203398"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-amargarh",
+    "type": "village",
+    "name_en": "Amargarh (Gram Panchayat Area)",
+    "name_hi": "Amargarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203398"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-khandoi",
+    "type": "village",
+    "name_en": "Khandoi (Gram Panchayat Area)",
+    "name_hi": "Khandoi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203398"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-mawai",
+    "type": "village",
+    "name_en": "Mawai (Gram Panchayat Area)",
+    "name_hi": "Mawai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203398"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-thana-gajraula",
+    "type": "village",
+    "name_en": "Thana  Gajraula (Gram Panchayat Area)",
+    "name_hi": "Thana  Gajraula (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203398"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bichoula",
+    "type": "village",
+    "name_en": "Bichoula (Gram Panchayat Area)",
+    "name_hi": "Bichoula (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-dinoul",
+    "type": "village",
+    "name_en": "Dinoul (Gram Panchayat Area)",
+    "name_hi": "Dinoul (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-meerpur",
+    "type": "village",
+    "name_en": "Meerpur (Gram Panchayat Area)",
+    "name_hi": "Meerpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kalena",
+    "type": "village",
+    "name_en": "Kalena (Gram Panchayat Area)",
+    "name_hi": "Kalena (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-nagla-mahiuddinpur",
+    "type": "village",
+    "name_en": "Nagla Mahiuddinpur (Gram Panchayat Area)",
+    "name_hi": "Nagla Mahiuddinpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-raniaoli",
+    "type": "village",
+    "name_en": "Raniaoli (Gram Panchayat Area)",
+    "name_hi": "Raniaoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-dashhera-kherli",
+    "type": "village",
+    "name_en": "Dashhera  Kherli (Gram Panchayat Area)",
+    "name_hi": "Dashhera  Kherli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-biroura",
+    "type": "village",
+    "name_en": "Biroura (Gram Panchayat Area)",
+    "name_hi": "Biroura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203397"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-narau",
+    "type": "village",
+    "name_en": "Narau (Gram Panchayat Area)",
+    "name_hi": "Narau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203397"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-ahmadgarh",
+    "type": "village",
+    "name_en": "Ahmadgarh (Gram Panchayat Area)",
+    "name_hi": "Ahmadgarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203392"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-donka",
+    "type": "village",
+    "name_en": "Donka (Gram Panchayat Area)",
+    "name_hi": "Donka (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203392"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-khakhunda",
+    "type": "village",
+    "name_en": "Khakhunda (Gram Panchayat Area)",
+    "name_hi": "Khakhunda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203392"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-asadpur-gher",
+    "type": "village",
+    "name_en": "Asadpur Gher (Gram Panchayat Area)",
+    "name_hi": "Asadpur Gher (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203393"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-dharmpur",
+    "type": "village",
+    "name_en": "Dharmpur (Gram Panchayat Area)",
+    "name_hi": "Dharmpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203393"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-rahim-kot",
+    "type": "village",
+    "name_en": "Rahim  Kot (Gram Panchayat Area)",
+    "name_hi": "Rahim  Kot (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203393"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-raj-ghat",
+    "type": "village",
+    "name_en": "Raj Ghat (Gram Panchayat Area)",
+    "name_hi": "Raj Ghat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203393"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-talwar",
+    "type": "village",
+    "name_en": "Talwar (Gram Panchayat Area)",
+    "name_hi": "Talwar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203393"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-devrala",
+    "type": "village",
+    "name_en": "Devrala (Gram Panchayat Area)",
+    "name_hi": "Devrala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203129"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-gangawaly",
+    "type": "village",
+    "name_en": "Gangawaly (Gram Panchayat Area)",
+    "name_hi": "Gangawaly (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203129"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-sabitgarh",
+    "type": "village",
+    "name_en": "Sabitgarh (Gram Panchayat Area)",
+    "name_hi": "Sabitgarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203129"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-dabar",
+    "type": "village",
+    "name_en": "Dabar (Gram Panchayat Area)",
+    "name_hi": "Dabar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203132"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-sarangpur",
+    "type": "village",
+    "name_en": "Sarangpur (Gram Panchayat Area)",
+    "name_hi": "Sarangpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203132"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-dighi",
+    "type": "village",
+    "name_en": "Dighi (Gram Panchayat Area)",
+    "name_hi": "Dighi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203396"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-dharakpur",
+    "type": "village",
+    "name_en": "Dharakpur (Gram Panchayat Area)",
+    "name_hi": "Dharakpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203399"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-sarai-ghashi",
+    "type": "village",
+    "name_en": "Sarai Ghashi (Gram Panchayat Area)",
+    "name_hi": "Sarai Ghashi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-aulina",
+    "type": "village",
+    "name_en": "Aulina (Gram Panchayat Area)",
+    "name_hi": "Aulina (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-jauli-garh",
+    "type": "village",
+    "name_en": "Jauli Garh (Gram Panchayat Area)",
+    "name_hi": "Jauli Garh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-hattmabad",
+    "type": "village",
+    "name_en": "Hattmabad (Gram Panchayat Area)",
+    "name_hi": "Hattmabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-dhatori",
+    "type": "village",
+    "name_en": "Dhatori (Gram Panchayat Area)",
+    "name_hi": "Dhatori (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-malagarh",
+    "type": "village",
+    "name_en": "Malagarh (Gram Panchayat Area)",
+    "name_hi": "Malagarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-jhal-khera",
+    "type": "village",
+    "name_en": "Jhal Khera (Gram Panchayat Area)",
+    "name_hi": "Jhal Khera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203002"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-shikhera",
+    "type": "village",
+    "name_en": "Shikhera (Gram Panchayat Area)",
+    "name_hi": "Shikhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203002"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bhargava-pharmecy",
+    "type": "village",
+    "name_en": "Bhargava Pharmecy (Gram Panchayat Area)",
+    "name_hi": "Bhargava Pharmecy (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203390"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-birauli",
+    "type": "village",
+    "name_en": "Birauli (Gram Panchayat Area)",
+    "name_hi": "Birauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203390"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bhopatpur",
+    "type": "village",
+    "name_en": "Bhopatpur (Gram Panchayat Area)",
+    "name_hi": "Bhopatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203390"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bihta",
+    "type": "village",
+    "name_en": "Bihta (Gram Panchayat Area)",
+    "name_hi": "Bihta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203402"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-hingwara",
+    "type": "village",
+    "name_en": "Hingwara (Gram Panchayat Area)",
+    "name_hi": "Hingwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203402"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-gesupur-barwala",
+    "type": "village",
+    "name_en": "Gesupur Barwala (Gram Panchayat Area)",
+    "name_hi": "Gesupur Barwala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203403"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-hazipur",
+    "type": "village",
+    "name_en": "Hazipur (Gram Panchayat Area)",
+    "name_hi": "Hazipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203403"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-mankari",
+    "type": "village",
+    "name_en": "Mankari (Gram Panchayat Area)",
+    "name_hi": "Mankari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203403"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-baral",
+    "type": "village",
+    "name_en": "Baral (Gram Panchayat Area)",
+    "name_hi": "Baral (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kisauli",
+    "type": "village",
+    "name_en": "Kisauli (Gram Panchayat Area)",
+    "name_hi": "Kisauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-charora",
+    "type": "village",
+    "name_en": "Charora (Gram Panchayat Area)",
+    "name_hi": "Charora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-dhalana",
+    "type": "village",
+    "name_en": "Dhalana (Gram Panchayat Area)",
+    "name_hi": "Dhalana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-jaleelpur",
+    "type": "village",
+    "name_en": "JaleelPur (Gram Panchayat Area)",
+    "name_hi": "JaleelPur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-khadana",
+    "type": "village",
+    "name_en": "Khadana (Gram Panchayat Area)",
+    "name_hi": "Khadana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-khanauda",
+    "type": "village",
+    "name_en": "Khanauda (Gram Panchayat Area)",
+    "name_hi": "Khanauda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kamalpur",
+    "type": "village",
+    "name_en": "Kamalpur (Gram Panchayat Area)",
+    "name_hi": "Kamalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203405"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-riwada",
+    "type": "village",
+    "name_en": "Riwada (Gram Panchayat Area)",
+    "name_hi": "Riwada (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203391"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bihra",
+    "type": "village",
+    "name_en": "Bihra (Gram Panchayat Area)",
+    "name_hi": "Bihra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203407"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bhainsakhur",
+    "type": "village",
+    "name_en": "Bhainsakhur (Gram Panchayat Area)",
+    "name_hi": "Bhainsakhur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203411"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-sihi",
+    "type": "village",
+    "name_en": "Sihi (Gram Panchayat Area)",
+    "name_hi": "Sihi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203411"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-balka",
+    "type": "village",
+    "name_en": "Balka (Gram Panchayat Area)",
+    "name_hi": "Balka (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203409"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-raura",
+    "type": "village",
+    "name_en": "Raura (Gram Panchayat Area)",
+    "name_hi": "Raura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203150"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-ronda",
+    "type": "village",
+    "name_en": "Ronda (Gram Panchayat Area)",
+    "name_hi": "Ronda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203150"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-anchrookalan",
+    "type": "village",
+    "name_en": "Anchrookalan (Gram Panchayat Area)",
+    "name_hi": "Anchrookalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203395"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-daduwa-mutafabad",
+    "type": "village",
+    "name_en": "Daduwa Mutafabad (Gram Panchayat Area)",
+    "name_hi": "Daduwa Mutafabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203395"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bilsoory",
+    "type": "village",
+    "name_en": "Bilsoory (Gram Panchayat Area)",
+    "name_hi": "Bilsoory (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203205"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-geshupur",
+    "type": "village",
+    "name_en": "Geshupur (Gram Panchayat Area)",
+    "name_hi": "Geshupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203205"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-chitson",
+    "type": "village",
+    "name_en": "Chitson (Gram Panchayat Area)",
+    "name_hi": "Chitson (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-surjawaly",
+    "type": "village",
+    "name_en": "Surjawaly (Gram Panchayat Area)",
+    "name_hi": "Surjawaly (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kahira",
+    "type": "village",
+    "name_en": "Kahira (Gram Panchayat Area)",
+    "name_hi": "Kahira (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-chanderu",
+    "type": "village",
+    "name_en": "Chanderu (Gram Panchayat Area)",
+    "name_hi": "Chanderu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-akabarpur",
+    "type": "village",
+    "name_en": "Akabarpur (Gram Panchayat Area)",
+    "name_hi": "Akabarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-dariyapur",
+    "type": "village",
+    "name_en": "Dariyapur (Gram Panchayat Area)",
+    "name_hi": "Dariyapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-salempur",
+    "type": "village",
+    "name_en": "Salempur (Gram Panchayat Area)",
+    "name_hi": "Salempur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-naithala-hasanpur",
+    "type": "village",
+    "name_en": "Naithala  Hasanpur (Gram Panchayat Area)",
+    "name_hi": "Naithala  Hasanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203002"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bibiyana",
+    "type": "village",
+    "name_en": "Bibiyana (Gram Panchayat Area)",
+    "name_hi": "Bibiyana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203390"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-jirauli",
+    "type": "village",
+    "name_en": "Jirauli (Gram Panchayat Area)",
+    "name_hi": "Jirauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203390"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-chitsona-ali-pur",
+    "type": "village",
+    "name_en": "Chitsona Ali Pur (Gram Panchayat Area)",
+    "name_hi": "Chitsona Ali Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203402"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-buklana",
+    "type": "village",
+    "name_en": "Buklana (Gram Panchayat Area)",
+    "name_hi": "Buklana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203403"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-dhaniya-wali",
+    "type": "village",
+    "name_en": "Dhaniya Wali (Gram Panchayat Area)",
+    "name_hi": "Dhaniya Wali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203403"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-jalalpur",
+    "type": "village",
+    "name_en": "Jalalpur (Gram Panchayat Area)",
+    "name_hi": "Jalalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203403"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-asfabad-chandpura",
+    "type": "village",
+    "name_en": "Asfabad Chandpura (Gram Panchayat Area)",
+    "name_hi": "Asfabad Chandpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-banboai",
+    "type": "village",
+    "name_en": "Banboai (Gram Panchayat Area)",
+    "name_hi": "Banboai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-garhiya-manpur",
+    "type": "village",
+    "name_en": "Garhiya Manpur (Gram Panchayat Area)",
+    "name_hi": "Garhiya Manpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-khushhalpur",
+    "type": "village",
+    "name_en": "Khushhalpur (Gram Panchayat Area)",
+    "name_hi": "Khushhalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kota",
+    "type": "village",
+    "name_en": "Kota (Gram Panchayat Area)",
+    "name_hi": "Kota (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-chandauk",
+    "type": "village",
+    "name_en": "Chandauk (Gram Panchayat Area)",
+    "name_hi": "Chandauk (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kakrai",
+    "type": "village",
+    "name_en": "Kakrai (Gram Panchayat Area)",
+    "name_hi": "Kakrai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-khalor",
+    "type": "village",
+    "name_en": "Khalor (Gram Panchayat Area)",
+    "name_hi": "Khalor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-giraurabo",
+    "type": "village",
+    "name_en": "GirauraBO (Gram Panchayat Area)",
+    "name_hi": "GirauraBO (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203405"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kanauna",
+    "type": "village",
+    "name_en": "Kanauna (Gram Panchayat Area)",
+    "name_hi": "Kanauna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203405"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bhaipur",
+    "type": "village",
+    "name_en": "Bhaipur (Gram Panchayat Area)",
+    "name_hi": "Bhaipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203391"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bhainsrauli",
+    "type": "village",
+    "name_en": "Bhainsrauli (Gram Panchayat Area)",
+    "name_hi": "Bhainsrauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203411"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-partapur",
+    "type": "village",
+    "name_en": "Partapur (Gram Panchayat Area)",
+    "name_hi": "Partapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203411"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-tajpur",
+    "type": "village",
+    "name_en": "Tajpur (Gram Panchayat Area)",
+    "name_hi": "Tajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203411"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-birouli",
+    "type": "village",
+    "name_en": "Birouli (Gram Panchayat Area)",
+    "name_hi": "Birouli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203409"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-jadoul",
+    "type": "village",
+    "name_en": "Jadoul (Gram Panchayat Area)",
+    "name_hi": "Jadoul (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203409"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-ajnara",
+    "type": "village",
+    "name_en": "Ajnara (Gram Panchayat Area)",
+    "name_hi": "Ajnara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203150"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-pondhery",
+    "type": "village",
+    "name_en": "Pondhery (Gram Panchayat Area)",
+    "name_hi": "Pondhery (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203150"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-rehamapur-siyawali",
+    "type": "village",
+    "name_en": "Rehamapur Siyawali (Gram Panchayat Area)",
+    "name_hi": "Rehamapur Siyawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203150"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bohich",
+    "type": "village",
+    "name_en": "Bohich (Gram Panchayat Area)",
+    "name_hi": "Bohich (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203395"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kailawan",
+    "type": "village",
+    "name_en": "Kailawan (Gram Panchayat Area)",
+    "name_hi": "Kailawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203395"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-utrawaly",
+    "type": "village",
+    "name_en": "Utrawaly (Gram Panchayat Area)",
+    "name_hi": "Utrawaly (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203395"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bharana",
+    "type": "village",
+    "name_en": "Bharana (Gram Panchayat Area)",
+    "name_hi": "Bharana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203205"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-prangarh",
+    "type": "village",
+    "name_en": "Prangarh (Gram Panchayat Area)",
+    "name_hi": "Prangarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203205"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-sanota",
+    "type": "village",
+    "name_en": "Sanota (Gram Panchayat Area)",
+    "name_hi": "Sanota (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203205"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-baddha-bazidpur",
+    "type": "village",
+    "name_en": "Baddha  Bazidpur (Gram Panchayat Area)",
+    "name_hi": "Baddha  Bazidpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203412"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bhainsaura",
+    "type": "village",
+    "name_en": "Bhainsaura (Gram Panchayat Area)",
+    "name_hi": "Bhainsaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203412"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-mahav",
+    "type": "village",
+    "name_en": "Mahav (Gram Panchayat Area)",
+    "name_hi": "Mahav (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203412"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-auranga-bad-taherpur",
+    "type": "village",
+    "name_en": "Auranga Bad Taherpur (Gram Panchayat Area)",
+    "name_hi": "Auranga Bad Taherpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203398"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-mauwa-khera",
+    "type": "village",
+    "name_en": "Mauwa  Khera (Gram Panchayat Area)",
+    "name_hi": "Mauwa  Khera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203398"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-mohersha",
+    "type": "village",
+    "name_en": "Mohersha (Gram Panchayat Area)",
+    "name_hi": "Mohersha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203398"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kehroula",
+    "type": "village",
+    "name_en": "Kehroula (Gram Panchayat Area)",
+    "name_hi": "Kehroula (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-dharpa-chuhar-pur",
+    "type": "village",
+    "name_en": "Dharpa Chuhar Pur (Gram Panchayat Area)",
+    "name_hi": "Dharpa Chuhar Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-arniya",
+    "type": "village",
+    "name_en": "Arniya (Gram Panchayat Area)",
+    "name_hi": "Arniya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-munda-khera",
+    "type": "village",
+    "name_en": "Munda  Khera (Gram Panchayat Area)",
+    "name_hi": "Munda  Khera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-senda-faridpur",
+    "type": "village",
+    "name_en": "Senda  Faridpur (Gram Panchayat Area)",
+    "name_hi": "Senda  Faridpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-behlolpur",
+    "type": "village",
+    "name_en": "Behlolpur (Gram Panchayat Area)",
+    "name_hi": "Behlolpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203397"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kamona",
+    "type": "village",
+    "name_en": "Kamona (Gram Panchayat Area)",
+    "name_hi": "Kamona (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203397"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-daoulatpurkhurd",
+    "type": "village",
+    "name_en": "DaoulatpurKhurd (Gram Panchayat Area)",
+    "name_hi": "DaoulatpurKhurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203392"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-shekhpur",
+    "type": "village",
+    "name_en": "Shekhpur (Gram Panchayat Area)",
+    "name_hi": "Shekhpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203392"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-daurau",
+    "type": "village",
+    "name_en": "Daurau (Gram Panchayat Area)",
+    "name_hi": "Daurau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203393"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-kharikbari",
+    "type": "village",
+    "name_en": "Kharikbari (Gram Panchayat Area)",
+    "name_hi": "Kharikbari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203393"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-khushalabad",
+    "type": "village",
+    "name_en": "Khushalabad (Gram Panchayat Area)",
+    "name_hi": "Khushalabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203393"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-satoha",
+    "type": "village",
+    "name_en": "Satoha (Gram Panchayat Area)",
+    "name_hi": "Satoha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203393"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-aterna",
+    "type": "village",
+    "name_en": "Aterna (Gram Panchayat Area)",
+    "name_hi": "Aterna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203129"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-badshahpur-pachgain",
+    "type": "village",
+    "name_en": "Badshahpur Pachgain (Gram Panchayat Area)",
+    "name_hi": "Badshahpur Pachgain (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203129"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-farkana-gangagarhi",
+    "type": "village",
+    "name_en": "Farkana  Gangagarhi (Gram Panchayat Area)",
+    "name_hi": "Farkana  Gangagarhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203129"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-bhadaura-kamalpur",
+    "type": "village",
+    "name_en": "Bhadaura Kamalpur (Gram Panchayat Area)",
+    "name_hi": "Bhadaura Kamalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203132"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-samashpur",
+    "type": "village",
+    "name_en": "Samashpur (Gram Panchayat Area)",
+    "name_hi": "Samashpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203132"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-vijay-nagliya",
+    "type": "village",
+    "name_en": "Vijay  Nagliya (Gram Panchayat Area)",
+    "name_hi": "Vijay  Nagliya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203389"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-banel",
+    "type": "village",
+    "name_en": "Banel (Gram Panchayat Area)",
+    "name_hi": "Banel (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203396"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-fazalpur",
+    "type": "village",
+    "name_en": "Fazalpur (Gram Panchayat Area)",
+    "name_hi": "Fazalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203396"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-soi",
+    "type": "village",
+    "name_en": "Soi (Gram Panchayat Area)",
+    "name_hi": "Soi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203396"
+    ]
+  },
+  {
+    "id": "po-bulandshahr-jarara",
+    "type": "village",
+    "name_en": "Jarara (Gram Panchayat Area)",
+    "name_hi": "Jarara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bulandshahr",
+    "block_id": "bulandshahr",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "ward-bulandshahr-ulb-bulandshahr-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Bulandshahr (All Wards)",
+    "name_hi": "बुलंदशहर नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-bulandshahr-bulandshahr",
+    "type": "ward",
+    "name_en": "Bulandshahr (Urban Ward / SO)",
+    "name_hi": "Bulandshahr (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-agschool",
+    "type": "ward",
+    "name_en": "AgSchool (Urban Ward / SO)",
+    "name_hi": "AgSchool (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203002"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-anupshahr",
+    "type": "ward",
+    "name_en": "Anupshahr (Urban Ward / SO)",
+    "name_hi": "Anupshahr (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203390"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-bhoor",
+    "type": "ward",
+    "name_en": "Bhoor (Urban Ward / SO)",
+    "name_hi": "Bhoor (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-dav-college-bulandshahr",
+    "type": "ward",
+    "name_en": "Dav   College Bulandshahr (Urban Ward / SO)",
+    "name_hi": "Dav   College Bulandshahr (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-deputy-ganj-bulandshahr",
+    "type": "ward",
+    "name_en": "Deputy  Ganj  Bulandshahr (Urban Ward / SO)",
+    "name_hi": "Deputy  Ganj  Bulandshahr (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-khanpur-so-bulandshahr",
+    "type": "ward",
+    "name_en": "Khanpur SO Bulandshahr (Urban Ward / SO)",
+    "name_hi": "Khanpur SO Bulandshahr (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203405"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-panni-nagar",
+    "type": "ward",
+    "name_en": "Panni  Nagar (Urban Ward / SO)",
+    "name_hi": "Panni  Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-siyana",
+    "type": "ward",
+    "name_en": "Siyana (Urban Ward / SO)",
+    "name_hi": "Siyana (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203412"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-khurja-jn-rs",
+    "type": "ward",
+    "name_en": "Khurja  Jn  RS (Urban Ward / SO)",
+    "name_hi": "Khurja  Jn  RS (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203132"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-napp",
+    "type": "ward",
+    "name_en": "NAPP (Urban Ward / SO)",
+    "name_hi": "NAPP (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203389"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-ramghat-so-bulandshahr",
+    "type": "ward",
+    "name_en": "Ramghat SO Bulandshahr (Urban Ward / SO)",
+    "name_hi": "Ramghat SO Bulandshahr (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203399"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-industrial-estate-sikandrabad",
+    "type": "ward",
+    "name_en": "Industrial Estate Sikandrabad (Urban Ward / SO)",
+    "name_hi": "Industrial Estate Sikandrabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203206"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-ipdc-bulandshahr",
+    "type": "ward",
+    "name_en": "Ipdc  Bulandshahr (Urban Ward / SO)",
+    "name_hi": "Ipdc  Bulandshahr (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-jahangirabad-mandi",
+    "type": "ward",
+    "name_en": "Jahangirabad Mandi (Urban Ward / SO)",
+    "name_hi": "Jahangirabad Mandi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-jahangirabad-so-bulandshahr",
+    "type": "ward",
+    "name_en": "Jahangirabad SO Bulandshahr (Urban Ward / SO)",
+    "name_hi": "Jahangirabad SO Bulandshahr (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203394"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-lakhaoti",
+    "type": "ward",
+    "name_en": "Lakhaoti (Urban Ward / SO)",
+    "name_hi": "Lakhaoti (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203407"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-obs-gulaothi",
+    "type": "ward",
+    "name_en": "Obs Gulaothi (Urban Ward / SO)",
+    "name_hi": "Obs Gulaothi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-saidpur-so-bulandshahr",
+    "type": "ward",
+    "name_en": "Saidpur SO Bulandshahr (Urban Ward / SO)",
+    "name_hi": "Saidpur SO Bulandshahr (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203411"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-uncha-gaon",
+    "type": "ward",
+    "name_en": "Uncha Gaon (Urban Ward / SO)",
+    "name_hi": "Uncha Gaon (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203398"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-chhatary",
+    "type": "ward",
+    "name_en": "Chhatary (Urban Ward / SO)",
+    "name_hi": "Chhatary (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203397"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-danpur-so-bulandshahr",
+    "type": "ward",
+    "name_en": "Danpur SO Bulandshahr (Urban Ward / SO)",
+    "name_hi": "Danpur SO Bulandshahr (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203392"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-debai-bazar",
+    "type": "ward",
+    "name_en": "Debai  Bazar (Urban Ward / SO)",
+    "name_hi": "Debai  Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203393"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-debai",
+    "type": "ward",
+    "name_en": "Debai (Urban Ward / SO)",
+    "name_hi": "Debai (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203393"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-karora",
+    "type": "ward",
+    "name_en": "Karora (Urban Ward / SO)",
+    "name_hi": "Karora (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203129"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-khurja-chowk",
+    "type": "ward",
+    "name_en": "Khurja  Chowk (Urban Ward / SO)",
+    "name_hi": "Khurja  Chowk (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-narora",
+    "type": "ward",
+    "name_en": "Narora (Urban Ward / SO)",
+    "name_hi": "Narora (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203389"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-subhash-road-khurja",
+    "type": "ward",
+    "name_en": "Subhash  Road  Khurja (Urban Ward / SO)",
+    "name_hi": "Subhash  Road  Khurja (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-aurangabad-so-bulandshahr",
+    "type": "ward",
+    "name_en": "Aurangabad SO Bulandshahr (Urban Ward / SO)",
+    "name_hi": "Aurangabad SO Bulandshahr (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203401"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-bb-nagar",
+    "type": "ward",
+    "name_en": "Bb  Nagar (Urban Ward / SO)",
+    "name_hi": "Bb  Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203402"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-bugrasi",
+    "type": "ward",
+    "name_en": "Bugrasi (Urban Ward / SO)",
+    "name_hi": "Bugrasi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203403"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-bulandshahr-tehsil",
+    "type": "ward",
+    "name_en": "Bulandshahr Tehsil (Urban Ward / SO)",
+    "name_hi": "Bulandshahr Tehsil (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-gulaothi",
+    "type": "ward",
+    "name_en": "Gulaothi (Urban Ward / SO)",
+    "name_hi": "Gulaothi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203408"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-kayasthwara-sikandrabad",
+    "type": "ward",
+    "name_en": "Kayasthwara  Sikandrabad (Urban Ward / SO)",
+    "name_hi": "Kayasthwara  Sikandrabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203205"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-sarai-chhabila",
+    "type": "ward",
+    "name_en": "Sarai  Chhabila (Urban Ward / SO)",
+    "name_hi": "Sarai  Chhabila (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203409"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-shikarpur-so-bulandshahr",
+    "type": "ward",
+    "name_en": "Shikarpur SO Bulandshahr (Urban Ward / SO)",
+    "name_hi": "Shikarpur SO Bulandshahr (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203395"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-gt-road-khurja",
+    "type": "ward",
+    "name_en": "Gt Road  Khurja (Urban Ward / SO)",
+    "name_hi": "Gt Road  Khurja (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-khurja",
+    "type": "ward",
+    "name_en": "Khurja (Urban Ward / SO)",
+    "name_hi": "Khurja (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203131"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-bulandshahr-kutchery",
+    "type": "ward",
+    "name_en": "Bulandshahr  Kutchery (Urban Ward / SO)",
+    "name_hi": "Bulandshahr  Kutchery (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-krishananagar",
+    "type": "ward",
+    "name_en": "Krishananagar (Urban Ward / SO)",
+    "name_hi": "Krishananagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203001"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-ksc-mill-anupshahr",
+    "type": "ward",
+    "name_en": "KSC Mill  Anupshahr (Urban Ward / SO)",
+    "name_hi": "KSC Mill  Anupshahr (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203391"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-shahkarinagar",
+    "type": "ward",
+    "name_en": "Shahkarinagar (Urban Ward / SO)",
+    "name_hi": "Shahkarinagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203150"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-sikandrabad-so-bulandshahr",
+    "type": "ward",
+    "name_en": "Sikandrabad SO Bulandshahr (Urban Ward / SO)",
+    "name_hi": "Sikandrabad SO Bulandshahr (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203205"
+    ]
+  },
+  {
+    "id": "town-bulandshahr-pahasu",
+    "type": "ward",
+    "name_en": "Pahasu (Urban Ward / SO)",
+    "name_hi": "Pahasu (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bulandshahr-main",
+    "tehsil_id": "bulandshahr",
+    "district_id": "bulandshahr",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "203396"
+    ]
+  }
+]

@@ -21,7 +21,7 @@
       "covers": [
         "amethi"
       ],
-      "source_url": "https://amethi.nic.in/whos-who/",
+      "source_url": "https://amethi.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Sh. Shashank Chaudhary,IAS"
@@ -45,7 +45,7 @@
       "covers": [
         "amethi"
       ],
-      "source_url": "https://amethi.nic.in/whos-who/",
+      "source_url": "https://amethi.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Ms. Pooja Sahu,IAS"
@@ -56,14 +56,23 @@
       "role": "dpro",
       "office_name_en": "District Panchayat Raj Officer (DPRO), Amethi",
       "office_name_hi": "जिला पंचायत राज अधिकारी, अमेठी",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9453530755",
+          "type": "office",
+          "source_url": "https://amethi.nic.in/contact-numbers/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "dpro-amt@nic.in",
       "covers": [
         "amethi"
       ],
-      "source_url": "https://amethi.nic.in/whos-who/",
+      "source_url": "https://amethi.nic.in/contact-numbers/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "जिला पंचायत राज अधिकारी"
     },
     {
       "id": "up-amethi-sdm-gauriganj",
@@ -152,7 +161,8 @@
       ],
       "source_url": "https://amethi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amethi-bdo-gauriganj"
     },
     {
       "id": "up-amethi-bdo-amethi",
@@ -181,7 +191,8 @@
       ],
       "source_url": "https://amethi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amethi-bdo-amethi"
     },
     {
       "id": "up-amethi-bdo-bhadar",
@@ -210,7 +221,8 @@
       ],
       "source_url": "https://amethi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amethi-bdo-bhadar"
     },
     {
       "id": "up-amethi-bdo-sangrampur",
@@ -239,7 +251,8 @@
       ],
       "source_url": "https://amethi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amethi-bdo-sangrampur"
     },
     {
       "id": "up-amethi-bdo-bhetua",
@@ -268,7 +281,8 @@
       ],
       "source_url": "https://amethi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amethi-bdo-bhetua"
     },
     {
       "id": "up-amethi-bdo-musafirkhana",
@@ -297,7 +311,8 @@
       ],
       "source_url": "https://amethi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amethi-bdo-musafirkhana"
     },
     {
       "id": "up-amethi-bdo-jagdishpur",
@@ -326,7 +341,8 @@
       ],
       "source_url": "https://amethi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amethi-bdo-jagdishpur"
     },
     {
       "id": "up-amethi-bdo-shukla-bazar",
@@ -355,7 +371,8 @@
       ],
       "source_url": "https://amethi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amethi-bdo-shukla-bazar"
     },
     {
       "id": "up-amethi-bdo-tiloi",
@@ -384,7 +401,8 @@
       ],
       "source_url": "https://amethi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amethi-bdo-tiloi"
     },
     {
       "id": "up-amethi-bdo-singhashanpur",
@@ -413,7 +431,8 @@
       ],
       "source_url": "https://amethi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amethi-bdo-singhashanpur"
     },
     {
       "id": "up-amethi-bdo-bahadurpur",
@@ -442,7 +461,8 @@
       ],
       "source_url": "https://amethi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amethi-bdo-bahadurpur"
     },
     {
       "id": "up-amethi-bdo-shahgarh",
@@ -471,7 +491,8 @@
       ],
       "source_url": "https://amethi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amethi-bdo-shahgarh"
     },
     {
       "id": "up-amethi-bdo-jamo",
@@ -500,7 +521,8 @@
       ],
       "source_url": "https://amethi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amethi-bdo-jamo"
     },
     {
       "id": "eo-amethi-main",

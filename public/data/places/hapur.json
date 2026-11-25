@@ -1,0 +1,1470 @@
+[
+  {
+    "id": "v-hapur-hapur",
+    "type": "village",
+    "name_en": "Hapur Block (Gram Panchayats)",
+    "name_hi": "Hapur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-hapur-simbhawali",
+    "type": "village",
+    "name_en": "Simbhawali Block (Gram Panchayats)",
+    "name_hi": "Simbhawali विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-simbhawali",
+    "block_id": "simbhawali",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-hapur-garhmukteshwar",
+    "type": "village",
+    "name_en": "Garhmukteshwar Block (Gram Panchayats)",
+    "name_hi": "Garhmukteshwar विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-garhmukteshwar",
+    "block_id": "garhmukteshwar",
+    "tehsil_id": "garhmukteshwar",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-hapur-dhaulana",
+    "type": "village",
+    "name_en": "Dhaulana Block (Gram Panchayats)",
+    "name_hi": "Dhaulana विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dhaulana",
+    "block_id": "dhaulana",
+    "tehsil_id": "dhaulana",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-hapur-dadri",
+    "type": "village",
+    "name_en": "Dadri (Gram Panchayat Area)",
+    "name_hi": "Dadri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-chhajupur",
+    "type": "village",
+    "name_en": "Chhajupur (Gram Panchayat Area)",
+    "name_hi": "Chhajupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-galand",
+    "type": "village",
+    "name_en": "Galand (Gram Panchayat Area)",
+    "name_hi": "Galand (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "201015"
+    ]
+  },
+  {
+    "id": "po-hapur-udai-rampur-nangla",
+    "type": "village",
+    "name_en": "Udai Rampur Nangla (Gram Panchayat Area)",
+    "name_hi": "Udai Rampur Nangla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "201015"
+    ]
+  },
+  {
+    "id": "po-hapur-kandaula",
+    "type": "village",
+    "name_en": "Kandaula (Gram Panchayat Area)",
+    "name_hi": "Kandaula (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245301"
+    ]
+  },
+  {
+    "id": "po-hapur-parpa",
+    "type": "village",
+    "name_en": "Parpa (Gram Panchayat Area)",
+    "name_hi": "Parpa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245301"
+    ]
+  },
+  {
+    "id": "po-hapur-saulana",
+    "type": "village",
+    "name_en": "Saulana (Gram Panchayat Area)",
+    "name_hi": "Saulana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245301"
+    ]
+  },
+  {
+    "id": "po-hapur-dehra",
+    "type": "village",
+    "name_en": "Dehra (Gram Panchayat Area)",
+    "name_hi": "Dehra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245301"
+    ]
+  },
+  {
+    "id": "po-hapur-samana",
+    "type": "village",
+    "name_en": "Samana (Gram Panchayat Area)",
+    "name_hi": "Samana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245301"
+    ]
+  },
+  {
+    "id": "po-hapur-hasanpur",
+    "type": "village",
+    "name_en": "Hasanpur (Gram Panchayat Area)",
+    "name_hi": "Hasanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "201015"
+    ]
+  },
+  {
+    "id": "po-hapur-raghunathpur",
+    "type": "village",
+    "name_en": "Raghunathpur (Gram Panchayat Area)",
+    "name_hi": "Raghunathpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-mahmoodpur",
+    "type": "village",
+    "name_en": "Mahmoodpur (Gram Panchayat Area)",
+    "name_hi": "Mahmoodpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-dhanaura",
+    "type": "village",
+    "name_en": "Dhanaura (Gram Panchayat Area)",
+    "name_hi": "Dhanaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-harsinghpur",
+    "type": "village",
+    "name_en": "Harsinghpur (Gram Panchayat Area)",
+    "name_hi": "Harsinghpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-anwarpur",
+    "type": "village",
+    "name_en": "Anwarpur (Gram Panchayat Area)",
+    "name_hi": "Anwarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245304"
+    ]
+  },
+  {
+    "id": "po-hapur-bajhera-khurd",
+    "type": "village",
+    "name_en": "Bajhera Khurd (Gram Panchayat Area)",
+    "name_hi": "Bajhera Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245304"
+    ]
+  },
+  {
+    "id": "po-hapur-girdharpur-tumrel",
+    "type": "village",
+    "name_en": "Girdharpur Tumrel (Gram Panchayat Area)",
+    "name_hi": "Girdharpur Tumrel (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-phagota",
+    "type": "village",
+    "name_en": "Phagota (Gram Panchayat Area)",
+    "name_hi": "Phagota (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-kathikhera",
+    "type": "village",
+    "name_en": "Kathikhera (Gram Panchayat Area)",
+    "name_hi": "Kathikhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-bajhera-kalan",
+    "type": "village",
+    "name_en": "Bajhera Kalan (Gram Panchayat Area)",
+    "name_hi": "Bajhera Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-dahana",
+    "type": "village",
+    "name_en": "Dahana (Gram Panchayat Area)",
+    "name_hi": "Dahana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-iklehdi",
+    "type": "village",
+    "name_en": "Iklehdi (Gram Panchayat Area)",
+    "name_hi": "Iklehdi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-bankhanda",
+    "type": "village",
+    "name_en": "Bankhanda (Gram Panchayat Area)",
+    "name_hi": "Bankhanda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245201"
+    ]
+  },
+  {
+    "id": "po-hapur-hosdarpur-garhi",
+    "type": "village",
+    "name_en": "Hosdarpur Garhi (Gram Panchayat Area)",
+    "name_hi": "Hosdarpur Garhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245201"
+    ]
+  },
+  {
+    "id": "po-hapur-kanya-kalyanpur",
+    "type": "village",
+    "name_en": "Kanya Kalyanpur (Gram Panchayat Area)",
+    "name_hi": "Kanya Kalyanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245201"
+    ]
+  },
+  {
+    "id": "po-hapur-matnaura",
+    "type": "village",
+    "name_en": "Matnaura (Gram Panchayat Area)",
+    "name_hi": "Matnaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245201"
+    ]
+  },
+  {
+    "id": "po-hapur-tatarpur",
+    "type": "village",
+    "name_en": "Tatarpur (Gram Panchayat Area)",
+    "name_hi": "Tatarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245201"
+    ]
+  },
+  {
+    "id": "po-hapur-upera",
+    "type": "village",
+    "name_en": "Upera (Gram Panchayat Area)",
+    "name_hi": "Upera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245201"
+    ]
+  },
+  {
+    "id": "po-hapur-bihuni",
+    "type": "village",
+    "name_en": "Bihuni (Gram Panchayat Area)",
+    "name_hi": "Bihuni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "po-hapur-gandu-nagla",
+    "type": "village",
+    "name_en": "Gandu Nagla (Gram Panchayat Area)",
+    "name_hi": "Gandu Nagla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "po-hapur-jakhera-rahmatpur",
+    "type": "village",
+    "name_en": "Jakhera Rahmatpur (Gram Panchayat Area)",
+    "name_hi": "Jakhera Rahmatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "po-hapur-luhari",
+    "type": "village",
+    "name_en": "Luhari (Gram Panchayat Area)",
+    "name_hi": "Luhari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "po-hapur-bharna",
+    "type": "village",
+    "name_en": "Bharna (Gram Panchayat Area)",
+    "name_hi": "Bharna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245207"
+    ]
+  },
+  {
+    "id": "po-hapur-datiyana",
+    "type": "village",
+    "name_en": "Datiyana (Gram Panchayat Area)",
+    "name_hi": "Datiyana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245207"
+    ]
+  },
+  {
+    "id": "po-hapur-dhana",
+    "type": "village",
+    "name_en": "Dhana (Gram Panchayat Area)",
+    "name_hi": "Dhana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245207"
+    ]
+  },
+  {
+    "id": "po-hapur-mohdpur-khudaliya",
+    "type": "village",
+    "name_en": "Mohdpur Khudaliya (Gram Panchayat Area)",
+    "name_hi": "Mohdpur Khudaliya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245207"
+    ]
+  },
+  {
+    "id": "po-hapur-dehpa-azampur",
+    "type": "village",
+    "name_en": "Dehpa Azampur (Gram Panchayat Area)",
+    "name_hi": "Dehpa Azampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245304"
+    ]
+  },
+  {
+    "id": "po-hapur-nagola",
+    "type": "village",
+    "name_en": "Nagola (Gram Panchayat Area)",
+    "name_hi": "Nagola (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245304"
+    ]
+  },
+  {
+    "id": "po-hapur-kandoli",
+    "type": "village",
+    "name_en": "Kandoli (Gram Panchayat Area)",
+    "name_hi": "Kandoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245304"
+    ]
+  },
+  {
+    "id": "po-hapur-bhatiyana",
+    "type": "village",
+    "name_en": "Bhatiyana (Gram Panchayat Area)",
+    "name_hi": "Bhatiyana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-shah-mohiuddinpur",
+    "type": "village",
+    "name_en": "Shah Mohiuddinpur (Gram Panchayat Area)",
+    "name_hi": "Shah Mohiuddinpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-gohra-alamgirpur",
+    "type": "village",
+    "name_en": "Gohra Alamgirpur (Gram Panchayat Area)",
+    "name_hi": "Gohra Alamgirpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-alipur",
+    "type": "village",
+    "name_en": "Alipur (Gram Panchayat Area)",
+    "name_hi": "Alipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245201"
+    ]
+  },
+  {
+    "id": "po-hapur-rasulpur",
+    "type": "village",
+    "name_en": "Rasulpur (Gram Panchayat Area)",
+    "name_hi": "Rasulpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245201"
+    ]
+  },
+  {
+    "id": "po-hapur-sikandarpur-kakori",
+    "type": "village",
+    "name_en": "Sikandarpur Kakori (Gram Panchayat Area)",
+    "name_hi": "Sikandarpur Kakori (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245201"
+    ]
+  },
+  {
+    "id": "po-hapur-alam-nagar",
+    "type": "village",
+    "name_en": "Alam Nagar (Gram Panchayat Area)",
+    "name_hi": "Alam Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245208"
+    ]
+  },
+  {
+    "id": "po-hapur-garh-bridge-halt",
+    "type": "village",
+    "name_en": "Garh Bridge Halt (Gram Panchayat Area)",
+    "name_hi": "Garh Bridge Halt (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "po-hapur-bagarpur",
+    "type": "village",
+    "name_en": "Bagarpur (Gram Panchayat Area)",
+    "name_hi": "Bagarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "po-hapur-dotai",
+    "type": "village",
+    "name_en": "Dotai (Gram Panchayat Area)",
+    "name_hi": "Dotai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "po-hapur-jharina",
+    "type": "village",
+    "name_en": "Jharina (Gram Panchayat Area)",
+    "name_hi": "Jharina (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "po-hapur-nanpur",
+    "type": "village",
+    "name_en": "Nanpur (Gram Panchayat Area)",
+    "name_hi": "Nanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "po-hapur-salarpur",
+    "type": "village",
+    "name_en": "Salarpur (Gram Panchayat Area)",
+    "name_hi": "Salarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "po-hapur-phuldehra",
+    "type": "village",
+    "name_en": "Phuldehra (Gram Panchayat Area)",
+    "name_hi": "Phuldehra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245207"
+    ]
+  },
+  {
+    "id": "po-hapur-sikhera",
+    "type": "village",
+    "name_en": "Sikhera (Gram Panchayat Area)",
+    "name_hi": "Sikhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245207"
+    ]
+  },
+  {
+    "id": "po-hapur-chhajarsi",
+    "type": "village",
+    "name_en": "Chhajarsi (Gram Panchayat Area)",
+    "name_hi": "Chhajarsi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245304"
+    ]
+  },
+  {
+    "id": "po-hapur-doohri",
+    "type": "village",
+    "name_en": "Doohri (Gram Panchayat Area)",
+    "name_hi": "Doohri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245304"
+    ]
+  },
+  {
+    "id": "po-hapur-madrasa-sadat",
+    "type": "village",
+    "name_en": "Madrasa Sadat (Gram Panchayat Area)",
+    "name_hi": "Madrasa Sadat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-chamri",
+    "type": "village",
+    "name_en": "Chamri (Gram Panchayat Area)",
+    "name_hi": "Chamri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-ghungrala",
+    "type": "village",
+    "name_en": "Ghungrala (Gram Panchayat Area)",
+    "name_hi": "Ghungrala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-mathurawali",
+    "type": "village",
+    "name_en": "Mathurawali (Gram Panchayat Area)",
+    "name_hi": "Mathurawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-asaura",
+    "type": "village",
+    "name_en": "Asaura (Gram Panchayat Area)",
+    "name_hi": "Asaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-hafizpur-ubarpur",
+    "type": "village",
+    "name_en": "Hafizpur Ubarpur (Gram Panchayat Area)",
+    "name_hi": "Hafizpur Ubarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-bachlota",
+    "type": "village",
+    "name_en": "Bachlota (Gram Panchayat Area)",
+    "name_hi": "Bachlota (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245201"
+    ]
+  },
+  {
+    "id": "po-hapur-nali-hussainpur",
+    "type": "village",
+    "name_en": "Nali Hussainpur (Gram Panchayat Area)",
+    "name_hi": "Nali Hussainpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245201"
+    ]
+  },
+  {
+    "id": "po-hapur-sheikhpur",
+    "type": "village",
+    "name_en": "Sheikhpur (Gram Panchayat Area)",
+    "name_hi": "Sheikhpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245201"
+    ]
+  },
+  {
+    "id": "po-hapur-bhadsiana",
+    "type": "village",
+    "name_en": "Bhadsiana (Gram Panchayat Area)",
+    "name_hi": "Bhadsiana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245208"
+    ]
+  },
+  {
+    "id": "po-hapur-bhaina-dholpur",
+    "type": "village",
+    "name_en": "Bhaina Dholpur (Gram Panchayat Area)",
+    "name_hi": "Bhaina Dholpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "po-hapur-dehra-rampur",
+    "type": "village",
+    "name_en": "Dehra Rampur (Gram Panchayat Area)",
+    "name_hi": "Dehra Rampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "po-hapur-haidarpur",
+    "type": "village",
+    "name_en": "Haidarpur (Gram Panchayat Area)",
+    "name_hi": "Haidarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "po-hapur-khilwai",
+    "type": "village",
+    "name_en": "Khilwai (Gram Panchayat Area)",
+    "name_hi": "Khilwai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "po-hapur-muradpur-janupura",
+    "type": "village",
+    "name_en": "Muradpur Janupura (Gram Panchayat Area)",
+    "name_hi": "Muradpur Janupura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "po-hapur-sadullapur-lodhi",
+    "type": "village",
+    "name_en": "Sadullapur Lodhi (Gram Panchayat Area)",
+    "name_hi": "Sadullapur Lodhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "po-hapur-kastala",
+    "type": "village",
+    "name_en": "Kastala (Gram Panchayat Area)",
+    "name_hi": "Kastala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245304"
+    ]
+  },
+  {
+    "id": "po-hapur-khera",
+    "type": "village",
+    "name_en": "Khera (Gram Panchayat Area)",
+    "name_hi": "Khera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245304"
+    ]
+  },
+  {
+    "id": "po-hapur-rampur-puth",
+    "type": "village",
+    "name_en": "Rampur Puth (Gram Panchayat Area)",
+    "name_hi": "Rampur Puth (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-kharkhari",
+    "type": "village",
+    "name_en": "Kharkhari (Gram Panchayat Area)",
+    "name_hi": "Kharkhari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-sapnawat",
+    "type": "village",
+    "name_en": "Sapnawat (Gram Panchayat Area)",
+    "name_hi": "Sapnawat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-nan",
+    "type": "village",
+    "name_en": "Nan (Gram Panchayat Area)",
+    "name_hi": "Nan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-mahmoodpur-palwara",
+    "type": "village",
+    "name_en": "Mahmoodpur Palwara (Gram Panchayat Area)",
+    "name_hi": "Mahmoodpur Palwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245208"
+    ]
+  },
+  {
+    "id": "po-hapur-nek-nanpur-nanai",
+    "type": "village",
+    "name_en": "Nek Nanpur Nanai (Gram Panchayat Area)",
+    "name_hi": "Nek Nanpur Nanai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245208"
+    ]
+  },
+  {
+    "id": "po-hapur-sharpur",
+    "type": "village",
+    "name_en": "Sharpur (Gram Panchayat Area)",
+    "name_hi": "Sharpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245208"
+    ]
+  },
+  {
+    "id": "po-hapur-athsaini",
+    "type": "village",
+    "name_en": "Athsaini (Gram Panchayat Area)",
+    "name_hi": "Athsaini (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "po-hapur-shyampur-jatt",
+    "type": "village",
+    "name_en": "Shyampur Jatt (Gram Panchayat Area)",
+    "name_hi": "Shyampur Jatt (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "po-hapur-wait",
+    "type": "village",
+    "name_en": "Wait (Gram Panchayat Area)",
+    "name_hi": "Wait (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245207"
+    ]
+  },
+  {
+    "id": "po-hapur-achheja",
+    "type": "village",
+    "name_en": "Achheja (Gram Panchayat Area)",
+    "name_hi": "Achheja (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "po-hapur-baxur",
+    "type": "village",
+    "name_en": "Baxur (Gram Panchayat Area)",
+    "name_hi": "Baxur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245207"
+    ]
+  },
+  {
+    "id": "po-hapur-mubarikpur",
+    "type": "village",
+    "name_en": "Mubarikpur (Gram Panchayat Area)",
+    "name_hi": "Mubarikpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245207"
+    ]
+  },
+  {
+    "id": "po-hapur-rajethi",
+    "type": "village",
+    "name_en": "Rajethi (Gram Panchayat Area)",
+    "name_hi": "Rajethi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hapur",
+    "block_id": "hapur",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "245207"
+    ]
+  },
+  {
+    "id": "ward-hapur-ulb-hapur-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Hapur (All Wards)",
+    "name_hi": "हापुड़ नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-hapur-main",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-hapur-new-hapur",
+    "type": "ward",
+    "name_en": "New Hapur (Urban Ward / SO)",
+    "name_hi": "New Hapur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-hapur-main",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "town-hapur-dhaulana",
+    "type": "ward",
+    "name_en": "Dhaulana (Urban Ward / SO)",
+    "name_hi": "Dhaulana (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-hapur-main",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "245301"
+    ]
+  },
+  {
+    "id": "town-hapur-pilkhuwa",
+    "type": "ward",
+    "name_en": "Pilkhuwa (Urban Ward / SO)",
+    "name_hi": "Pilkhuwa (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-hapur-main",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "245304"
+    ]
+  },
+  {
+    "id": "town-hapur-hapur-mandi",
+    "type": "ward",
+    "name_en": "Hapur Mandi (Urban Ward / SO)",
+    "name_hi": "Hapur Mandi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-hapur-main",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "town-hapur-kishanganj-hapur",
+    "type": "ward",
+    "name_en": "Kishanganj Hapur (Urban Ward / SO)",
+    "name_hi": "Kishanganj Hapur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-hapur-main",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "town-hapur-new-market-pilkhauwa",
+    "type": "ward",
+    "name_en": "New Market Pilkhauwa (Urban Ward / SO)",
+    "name_hi": "New Market Pilkhauwa (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-hapur-main",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "245304"
+    ]
+  },
+  {
+    "id": "town-hapur-bahadurgarh",
+    "type": "ward",
+    "name_en": "Bahadurgarh (Urban Ward / SO)",
+    "name_hi": "Bahadurgarh (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-hapur-main",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "245208"
+    ]
+  },
+  {
+    "id": "town-hapur-garh-town",
+    "type": "ward",
+    "name_en": "Garh Town (Urban Ward / SO)",
+    "name_hi": "Garh Town (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-hapur-main",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "town-hapur-railway-road-hapur",
+    "type": "ward",
+    "name_en": "Railway Road Hapur (Urban Ward / SO)",
+    "name_hi": "Railway Road Hapur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-hapur-main",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "town-hapur-garhmukteshwar",
+    "type": "ward",
+    "name_en": "Garhmukteshwar (Urban Ward / SO)",
+    "name_hi": "Garhmukteshwar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-hapur-main",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "245205"
+    ]
+  },
+  {
+    "id": "town-hapur-gyan-lok-hapur",
+    "type": "ward",
+    "name_en": "Gyan Lok Hapur (Urban Ward / SO)",
+    "name_hi": "Gyan Lok Hapur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-hapur-main",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "245101"
+    ]
+  },
+  {
+    "id": "town-hapur-babugarh",
+    "type": "ward",
+    "name_en": "Babugarh (Urban Ward / SO)",
+    "name_hi": "Babugarh (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-hapur-main",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "245201"
+    ]
+  },
+  {
+    "id": "town-hapur-kuchesar-chopla",
+    "type": "ward",
+    "name_en": "Kuchesar Chopla (Urban Ward / SO)",
+    "name_hi": "Kuchesar Chopla (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-hapur-main",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "245201"
+    ]
+  },
+  {
+    "id": "town-hapur-simbhaoli",
+    "type": "ward",
+    "name_en": "Simbhaoli (Urban Ward / SO)",
+    "name_hi": "Simbhaoli (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-hapur-main",
+    "tehsil_id": "hapur",
+    "district_id": "hapur",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "245207"
+    ]
+  }
+]

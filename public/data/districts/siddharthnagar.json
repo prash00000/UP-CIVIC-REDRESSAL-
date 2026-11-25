@@ -21,7 +21,7 @@
       "covers": [
         "siddharthnagar"
       ],
-      "source_url": "https://siddharthnagar.nic.in/whos-who/",
+      "source_url": "https://siddharthnagar.nic.in/district-level/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Gaurav Singh Sogarwal",
@@ -46,7 +46,7 @@
       "covers": [
         "siddharthnagar"
       ],
-      "source_url": "https://siddharthnagar.nic.in/whos-who/",
+      "source_url": "https://siddharthnagar.nic.in/district-level/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Mr. Balram Singh",
@@ -73,14 +73,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Naugarh",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Naugarh",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454415936",
+          "type": "office",
+          "source_url": "https://siddharthnagar.nic.in/district-level/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.naugarh.sid-up@gov.in",
       "covers": [
         "naugarh"
       ],
-      "source_url": "https://siddharthnagar.nic.in/whos-who/",
+      "source_url": "https://siddharthnagar.nic.in/district-level/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Naugarh"
     },
     {
       "id": "up-siddharthnagar-sdm-bansi",
@@ -88,14 +97,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bansi",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bansi",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454415937",
+          "type": "office",
+          "source_url": "https://siddharthnagar.nic.in/district-level/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.bansi.sid-up@gov.in",
       "covers": [
         "bansi"
       ],
-      "source_url": "https://siddharthnagar.nic.in/whos-who/",
+      "source_url": "https://siddharthnagar.nic.in/district-level/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Bansi"
     },
     {
       "id": "up-siddharthnagar-sdm-itwa",
@@ -103,14 +121,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Itwa",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Itwa",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454415939",
+          "type": "office",
+          "source_url": "https://siddharthnagar.nic.in/district-level/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.itwa.sid-up@gov.in",
       "covers": [
         "itwa"
       ],
-      "source_url": "https://siddharthnagar.nic.in/whos-who/",
+      "source_url": "https://siddharthnagar.nic.in/district-level/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Itwa"
     },
     {
       "id": "up-siddharthnagar-sdm-domariyaganj",
@@ -148,14 +175,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Naugarh",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Naugarh",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464743",
+          "type": "office",
+          "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.naugarh.sid@gmail.com",
       "covers": [
         "naugarh"
       ],
-      "source_url": "https://siddharthnagar.nic.in/whos-who/",
+      "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-siddharthnagar-ado-naugarh",
@@ -169,7 +204,8 @@
       ],
       "source_url": "https://siddharthnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-siddharthnagar-bdo-naugarh"
     },
     {
       "id": "up-siddharthnagar-bdo-uska-bazar",
@@ -177,14 +213,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Uska Bazar",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Uska Bazar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464751",
+          "type": "office",
+          "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.uskabazar.sid@gmail.com",
       "covers": [
         "uska-bazar"
       ],
-      "source_url": "https://siddharthnagar.nic.in/whos-who/",
+      "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-siddharthnagar-ado-uska-bazar",
@@ -198,7 +242,8 @@
       ],
       "source_url": "https://siddharthnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-siddharthnagar-bdo-uska-bazar"
     },
     {
       "id": "up-siddharthnagar-bdo-birdpur",
@@ -206,14 +251,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Birdpur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Birdpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464748",
+          "type": "office",
+          "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.birdpur.sid@gmail.com",
       "covers": [
         "birdpur"
       ],
-      "source_url": "https://siddharthnagar.nic.in/whos-who/",
+      "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-siddharthnagar-ado-birdpur",
@@ -227,7 +280,8 @@
       ],
       "source_url": "https://siddharthnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-siddharthnagar-bdo-birdpur"
     },
     {
       "id": "up-siddharthnagar-bdo-lotan",
@@ -235,14 +289,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Lotan",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Lotan",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464759",
+          "type": "office",
+          "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.lotan.sid@gmail.com",
       "covers": [
         "lotan"
       ],
-      "source_url": "https://siddharthnagar.nic.in/whos-who/",
+      "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-siddharthnagar-ado-lotan",
@@ -256,7 +318,8 @@
       ],
       "source_url": "https://siddharthnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-siddharthnagar-bdo-lotan"
     },
     {
       "id": "up-siddharthnagar-bdo-jogia",
@@ -264,14 +327,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Jogia",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jogia",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464750",
+          "type": "office",
+          "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.jogia.sid@gmail.com",
       "covers": [
         "jogia"
       ],
-      "source_url": "https://siddharthnagar.nic.in/whos-who/",
+      "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-siddharthnagar-ado-jogia",
@@ -285,7 +356,8 @@
       ],
       "source_url": "https://siddharthnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-siddharthnagar-bdo-jogia"
     },
     {
       "id": "up-siddharthnagar-bdo-bansi",
@@ -293,14 +365,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bansi",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bansi",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464752",
+          "type": "office",
+          "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.bansi.sid@gmail.com",
       "covers": [
         "bansi"
       ],
-      "source_url": "https://siddharthnagar.nic.in/whos-who/",
+      "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-siddharthnagar-ado-bansi",
@@ -314,7 +394,8 @@
       ],
       "source_url": "https://siddharthnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-siddharthnagar-bdo-bansi"
     },
     {
       "id": "up-siddharthnagar-bdo-khesraha",
@@ -322,14 +403,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Khesraha",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khesraha",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464754",
+          "type": "office",
+          "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.khesraha.sid@gmail.com",
       "covers": [
         "khesraha"
       ],
-      "source_url": "https://siddharthnagar.nic.in/whos-who/",
+      "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-siddharthnagar-ado-khesraha",
@@ -343,7 +432,8 @@
       ],
       "source_url": "https://siddharthnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-siddharthnagar-bdo-khesraha"
     },
     {
       "id": "up-siddharthnagar-bdo-mithwal",
@@ -372,7 +462,8 @@
       ],
       "source_url": "https://siddharthnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-siddharthnagar-bdo-mithwal"
     },
     {
       "id": "up-siddharthnagar-bdo-itwa",
@@ -380,14 +471,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Itwa",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Itwa",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464756",
+          "type": "office",
+          "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.itwa.sid@gmail.com",
       "covers": [
         "itwa"
       ],
-      "source_url": "https://siddharthnagar.nic.in/whos-who/",
+      "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-siddharthnagar-ado-itwa",
@@ -401,7 +500,8 @@
       ],
       "source_url": "https://siddharthnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-siddharthnagar-bdo-itwa"
     },
     {
       "id": "up-siddharthnagar-bdo-barhni",
@@ -409,14 +509,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Barhni",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Barhni",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464746",
+          "type": "office",
+          "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.barhni.sid@gmail.com",
       "covers": [
         "barhni"
       ],
-      "source_url": "https://siddharthnagar.nic.in/whos-who/",
+      "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-siddharthnagar-ado-barhni",
@@ -430,7 +538,8 @@
       ],
       "source_url": "https://siddharthnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-siddharthnagar-bdo-barhni"
     },
     {
       "id": "up-siddharthnagar-bdo-khuniyaon",
@@ -438,14 +547,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Khuniyaon",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khuniyaon",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464757",
+          "type": "office",
+          "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.khuniyaon.sid@gmail.com",
       "covers": [
         "khuniyaon"
       ],
-      "source_url": "https://siddharthnagar.nic.in/whos-who/",
+      "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-siddharthnagar-ado-khuniyaon",
@@ -459,7 +576,8 @@
       ],
       "source_url": "https://siddharthnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-siddharthnagar-bdo-khuniyaon"
     },
     {
       "id": "up-siddharthnagar-bdo-domariyaganj",
@@ -488,7 +606,8 @@
       ],
       "source_url": "https://siddharthnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-siddharthnagar-bdo-domariyaganj"
     },
     {
       "id": "up-siddharthnagar-bdo-bhanwapur",
@@ -496,14 +615,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bhanwapur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhanwapur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464755",
+          "type": "office",
+          "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.bhanwapur.sid@gmail.com",
       "covers": [
         "bhanwapur"
       ],
-      "source_url": "https://siddharthnagar.nic.in/whos-who/",
+      "source_url": "https://siddharthnagar.nic.in/administrative-setup/development/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-siddharthnagar-ado-bhanwapur",
@@ -517,7 +644,8 @@
       ],
       "source_url": "https://siddharthnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-siddharthnagar-bdo-bhanwapur"
     },
     {
       "id": "up-siddharthnagar-bdo-shohratgarh",
@@ -546,7 +674,8 @@
       ],
       "source_url": "https://siddharthnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-siddharthnagar-bdo-shohratgarh"
     },
     {
       "id": "eo-siddharthnagar-main",
@@ -554,13 +683,23 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Siddharthnagar",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका सिद्धार्थनगर",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454400305",
+          "type": "office",
+          "source_url": "https://siddharthnagar.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-siddharthnagar-main"
       ],
-      "source_url": "https://siddharthnagar.nic.in/whos-who/",
+      "source_url": "https://siddharthnagar.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Gaurav Singh Sogarwal",
+      "address_en": "Collectorate, Siddharthnagar"
     }
   ]
 }

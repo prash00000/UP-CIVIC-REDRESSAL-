@@ -40,14 +40,23 @@
       "role": "cdo",
       "office_name_en": "Chief Development Officer (CDO), Hathras",
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), हाथरस",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465530",
+          "type": "office",
+          "source_url": "https://hathras.nic.in/telephone/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "cdo.hat-up@gov.in",
       "covers": [
         "hathras"
       ],
-      "source_url": "https://hathras.nic.in/whos-who/",
+      "source_url": "https://hathras.nic.in/telephone/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Pradeep Narayan Dixit"
     },
     {
       "id": "up-hathras-dpro",
@@ -55,14 +64,23 @@
       "role": "dpro",
       "office_name_en": "District Panchayat Raj Officer (DPRO), Hathras",
       "office_name_hi": "जिला पंचायत राज अधिकारी, हाथरस",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8936915000",
+          "type": "office",
+          "source_url": "https://hathras.nic.in/telephone/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "dpro-hat@nic.in",
       "covers": [
         "hathras"
       ],
-      "source_url": "https://hathras.nic.in/whos-who/",
+      "source_url": "https://hathras.nic.in/telephone/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Rakesh Babu"
     },
     {
       "id": "up-hathras-sdm-hathras",
@@ -70,14 +88,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Hathras",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Hathras",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417800",
+          "type": "office",
+          "source_url": "https://hathras.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.hathras.hat-up@gov.in",
       "covers": [
         "hathras"
       ],
-      "source_url": "https://hathras.nic.in/whos-who/",
+      "source_url": "https://hathras.nic.in/tehsil/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Hathras"
     },
     {
       "id": "up-hathras-sdm-sadabad",
@@ -85,14 +112,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadabad",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadabad",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417791",
+          "type": "office",
+          "source_url": "https://hathras.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.sadabad.hat-up@gov.in",
       "covers": [
         "sadabad"
       ],
-      "source_url": "https://hathras.nic.in/whos-who/",
+      "source_url": "https://hathras.nic.in/tehsil/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Sadabad"
     },
     {
       "id": "up-hathras-sdm-sikandra-rao",
@@ -100,14 +136,30 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sikandra Rao",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sikandra Rao",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05721-244216",
+          "type": "landline",
+          "source_url": "https://hathras.nic.in/telephone/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454417792",
+          "type": "office",
+          "source_url": "https://hathras.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.sikandrarao.hat-up@gov.in",
       "covers": [
         "sikandra-rao"
       ],
-      "source_url": "https://hathras.nic.in/whos-who/",
+      "source_url": "https://hathras.nic.in/telephone/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Sikandra Rao"
     },
     {
       "id": "up-hathras-sdm-sasni",
@@ -115,14 +167,30 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sasni",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sasni",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05661-280202",
+          "type": "landline",
+          "source_url": "https://hathras.nic.in/telephone/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454417793",
+          "type": "office",
+          "source_url": "https://hathras.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.sasni.hat-up@gov.in",
       "covers": [
         "sasni"
       ],
-      "source_url": "https://hathras.nic.in/whos-who/",
+      "source_url": "https://hathras.nic.in/telephone/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Sasni"
     },
     {
       "id": "up-hathras-bdo-hathras",
@@ -151,7 +219,8 @@
       ],
       "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hathras-bdo-hathras"
     },
     {
       "id": "up-hathras-bdo-mursan",
@@ -180,7 +249,8 @@
       ],
       "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hathras-bdo-mursan"
     },
     {
       "id": "up-hathras-bdo-sasni",
@@ -209,7 +279,8 @@
       ],
       "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hathras-bdo-sasni"
     },
     {
       "id": "up-hathras-bdo-sadabad",
@@ -238,7 +309,8 @@
       ],
       "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hathras-bdo-sadabad"
     },
     {
       "id": "up-hathras-bdo-sahpau",
@@ -267,7 +339,8 @@
       ],
       "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hathras-bdo-sahpau"
     },
     {
       "id": "up-hathras-bdo-sikandra-rao",
@@ -296,7 +369,8 @@
       ],
       "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hathras-bdo-sikandra-rao"
     },
     {
       "id": "up-hathras-bdo-hasayan",
@@ -325,7 +399,8 @@
       ],
       "source_url": "https://hathras.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hathras-bdo-hasayan"
     },
     {
       "id": "eo-hathras-main",

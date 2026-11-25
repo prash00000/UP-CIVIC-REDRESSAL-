@@ -22,7 +22,7 @@
       "covers": [
         "varanasi"
       ],
-      "source_url": "https://varanasi.nic.in/whos-who/",
+      "source_url": "https://varanasi.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Collectorate Katchehry Varanasi - 221002"
@@ -78,14 +78,29 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Pindra",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Pindra",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417043",
+          "type": "office",
+          "source_url": "https://varanasi.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454417039",
+          "type": "office",
+          "source_url": "https://varanasi.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.pindra.var-up@gov.in",
       "covers": [
         "pindra"
       ],
-      "source_url": "https://varanasi.nic.in/whos-who/",
+      "source_url": "https://varanasi.nic.in/collectrate/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-varanasi-sdm-raja-talab",
@@ -93,14 +108,29 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Raja Talab",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Raja Talab",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417044",
+          "type": "office",
+          "source_url": "https://varanasi.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454417037",
+          "type": "office",
+          "source_url": "https://varanasi.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.rajatalab.var-up@gov.in",
       "covers": [
         "raja-talab"
       ],
-      "source_url": "https://varanasi.nic.in/whos-who/",
+      "source_url": "https://varanasi.nic.in/collectrate/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-varanasi-bdo-kashi-vidyapeeth",
@@ -129,7 +159,8 @@
       ],
       "source_url": "https://varanasi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-varanasi-bdo-kashi-vidyapeeth"
     },
     {
       "id": "sec-kashi-vidyapeeth-1",
@@ -189,7 +220,8 @@
       ],
       "source_url": "https://varanasi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-varanasi-bdo-harhua"
     },
     {
       "id": "sec-harhua-1",
@@ -249,7 +281,8 @@
       ],
       "source_url": "https://varanasi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-varanasi-bdo-pindra"
     },
     {
       "id": "sec-pindra-1",
@@ -309,7 +342,8 @@
       ],
       "source_url": "https://varanasi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-varanasi-bdo-baragaon"
     },
     {
       "id": "sec-baragaon-1",
@@ -369,7 +403,8 @@
       ],
       "source_url": "https://varanasi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-varanasi-bdo-araziline"
     },
     {
       "id": "sec-araziline-1",
@@ -429,7 +464,8 @@
       ],
       "source_url": "https://varanasi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-varanasi-bdo-sewapuri"
     },
     {
       "id": "sec-sewapuri-1",
@@ -489,7 +525,8 @@
       ],
       "source_url": "https://varanasi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-varanasi-bdo-cholapur"
     },
     {
       "id": "sec-cholapur-1",
@@ -549,7 +586,8 @@
       ],
       "source_url": "https://varanasi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-varanasi-bdo-chiraigaon"
     },
     {
       "id": "sec-chiraigaon-1",
@@ -588,13 +626,30 @@
       "role": "commissioner",
       "office_name_en": "Municipal Commissioner, Nagar Nigam Varanasi",
       "office_name_hi": "नगर आयुक्त, नगर निगम वाराणसी",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8189077829",
+          "type": "cug",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0542-2282834",
+          "type": "landline",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-varanasi-main"
       ],
       "source_url": "https://varanasi.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "email": "8189077829mcvns1@gmail.com",
+      "officer_name_en": "श्री शिपू गिरी"
     }
   ]
 }

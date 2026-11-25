@@ -40,14 +40,24 @@
       "role": "cdo",
       "office_name_en": "Chief Development Officer (CDO), Sitapur",
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), सीतापुर",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465419",
+          "type": "office",
+          "source_url": "https://sitapur.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "cdo.sit-up@gov.in",
       "covers": [
         "sitapur"
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Smt. Diksha Joshi",
+      "address_en": "Vikas Bhavan Sitapur"
     },
     {
       "id": "up-sitapur-dpro",
@@ -196,7 +206,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-khairabad"
     },
     {
       "id": "up-sitapur-bdo-aliya",
@@ -225,7 +236,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-aliya"
     },
     {
       "id": "up-sitapur-bdo-hargaon",
@@ -254,7 +266,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-hargaon"
     },
     {
       "id": "up-sitapur-bdo-aisbgh",
@@ -283,7 +296,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-aisbgh"
     },
     {
       "id": "up-sitapur-bdo-parsendi",
@@ -312,7 +326,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-parsendi"
     },
     {
       "id": "up-sitapur-bdo-laharpur",
@@ -341,7 +356,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-laharpur"
     },
     {
       "id": "up-sitapur-bdo-behta",
@@ -370,7 +386,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-behta"
     },
     {
       "id": "up-sitapur-bdo-reusa",
@@ -399,7 +416,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-reusa"
     },
     {
       "id": "up-sitapur-bdo-sakran",
@@ -428,7 +446,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-sakran"
     },
     {
       "id": "up-sitapur-bdo-biswan",
@@ -457,7 +476,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-biswan"
     },
     {
       "id": "up-sitapur-bdo-pahala",
@@ -486,7 +506,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-pahala"
     },
     {
       "id": "up-sitapur-bdo-mahmoodabad",
@@ -515,7 +536,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-mahmoodabad"
     },
     {
       "id": "up-sitapur-bdo-rampur-mathura",
@@ -544,7 +566,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-rampur-mathura"
     },
     {
       "id": "up-sitapur-bdo-sidhauli",
@@ -573,7 +596,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-sidhauli"
     },
     {
       "id": "up-sitapur-bdo-kasmanda",
@@ -602,7 +626,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-kasmanda"
     },
     {
       "id": "up-sitapur-bdo-gondlamau",
@@ -631,7 +656,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-gondlamau"
     },
     {
       "id": "up-sitapur-bdo-misrikh",
@@ -660,7 +686,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-misrikh"
     },
     {
       "id": "up-sitapur-bdo-machhrehta",
@@ -689,7 +716,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-machhrehta"
     },
     {
       "id": "up-sitapur-bdo-pisawan",
@@ -718,7 +746,8 @@
       ],
       "source_url": "https://sitapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sitapur-bdo-pisawan"
     },
     {
       "id": "eo-sitapur-main",

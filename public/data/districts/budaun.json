@@ -102,14 +102,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bilsi",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bilsi",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454415836",
+          "type": "office",
+          "source_url": "https://budaun.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.bilsi.bdn-up@gov.in",
       "covers": [
         "bilsi"
       ],
-      "source_url": "https://budaun.nic.in/whos-who/",
+      "source_url": "https://budaun.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "S.D.M. BILSI"
     },
     {
       "id": "up-budaun-sdm-bisauli",
@@ -117,14 +126,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bisauli",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bisauli",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454415837",
+          "type": "office",
+          "source_url": "https://budaun.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.bisauli.bdn-up@gov.in",
       "covers": [
         "bisauli"
       ],
-      "source_url": "https://budaun.nic.in/whos-who/",
+      "source_url": "https://budaun.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "S.D.M. BISAULI"
     },
     {
       "id": "up-budaun-sdm-dataganj",
@@ -132,14 +150,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Dataganj",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Dataganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454415838",
+          "type": "office",
+          "source_url": "https://budaun.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.dataganj.bdn-up@gov.in",
       "covers": [
         "dataganj"
       ],
-      "source_url": "https://budaun.nic.in/whos-who/",
+      "source_url": "https://budaun.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "S.D.M. DATAGANJ"
     },
     {
       "id": "up-budaun-sdm-sahaswan",
@@ -162,14 +189,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Salarpur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Salarpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8303172210",
+          "type": "office",
+          "source_url": "https://budaun.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.salarpur.bdn@gmail.com",
       "covers": [
         "salarpur"
       ],
-      "source_url": "https://budaun.nic.in/whos-who/",
+      "source_url": "https://budaun.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "B.D.O. SALARPUR"
     },
     {
       "id": "up-budaun-ado-salarpur",
@@ -183,7 +219,8 @@
       ],
       "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-budaun-bdo-salarpur"
     },
     {
       "id": "up-budaun-bdo-ujhani",
@@ -191,14 +228,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Ujhani",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ujhani",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8303172213",
+          "type": "office",
+          "source_url": "https://budaun.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.ujhani.bdn@gmail.com",
       "covers": [
         "ujhani"
       ],
-      "source_url": "https://budaun.nic.in/whos-who/",
+      "source_url": "https://budaun.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "B.D.O. UJHANI"
     },
     {
       "id": "up-budaun-ado-ujhani",
@@ -212,7 +258,8 @@
       ],
       "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-budaun-bdo-ujhani"
     },
     {
       "id": "up-budaun-bdo-qadar-chowk",
@@ -220,14 +267,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Qadar Chowk",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Qadar Chowk",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8303172214",
+          "type": "office",
+          "source_url": "https://budaun.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.qadarchowk.bdn@gmail.com",
       "covers": [
         "qadar-chowk"
       ],
-      "source_url": "https://budaun.nic.in/whos-who/",
+      "source_url": "https://budaun.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "B.D.O. QADARCHOWK"
     },
     {
       "id": "up-budaun-ado-qadar-chowk",
@@ -241,7 +297,8 @@
       ],
       "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-budaun-bdo-qadar-chowk"
     },
     {
       "id": "up-budaun-bdo-jagat",
@@ -249,14 +306,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Jagat",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jagat",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8303172212",
+          "type": "office",
+          "source_url": "https://budaun.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.jagat.bdn@gmail.com",
       "covers": [
         "jagat"
       ],
-      "source_url": "https://budaun.nic.in/whos-who/",
+      "source_url": "https://budaun.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "B.D.O. JAGAT"
     },
     {
       "id": "up-budaun-ado-jagat",
@@ -270,7 +336,8 @@
       ],
       "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-budaun-bdo-jagat"
     },
     {
       "id": "up-budaun-bdo-bisauli",
@@ -278,14 +345,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bisauli",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bisauli",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8303172203",
+          "type": "office",
+          "source_url": "https://budaun.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.bisauli.bdn@gmail.com",
       "covers": [
         "bisauli"
       ],
-      "source_url": "https://budaun.nic.in/whos-who/",
+      "source_url": "https://budaun.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "B.D.O. BISAULI"
     },
     {
       "id": "up-budaun-ado-bisauli",
@@ -299,7 +375,8 @@
       ],
       "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-budaun-bdo-bisauli"
     },
     {
       "id": "up-budaun-bdo-asafpur",
@@ -307,14 +384,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Asafpur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Asafpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8303172201",
+          "type": "office",
+          "source_url": "https://budaun.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.asafpur.bdn@gmail.com",
       "covers": [
         "asafpur"
       ],
-      "source_url": "https://budaun.nic.in/whos-who/",
+      "source_url": "https://budaun.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "B.D.O. ASAFPUR"
     },
     {
       "id": "up-budaun-ado-asafpur",
@@ -328,7 +414,8 @@
       ],
       "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-budaun-bdo-asafpur"
     },
     {
       "id": "up-budaun-bdo-wazirganj",
@@ -336,14 +423,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Wazirganj",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Wazirganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8303172206",
+          "type": "office",
+          "source_url": "https://budaun.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.wazirganj.bdn@gmail.com",
       "covers": [
         "wazirganj"
       ],
-      "source_url": "https://budaun.nic.in/whos-who/",
+      "source_url": "https://budaun.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "B.D.O. WAZIRGANJ"
     },
     {
       "id": "up-budaun-ado-wazirganj",
@@ -357,7 +453,8 @@
       ],
       "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-budaun-bdo-wazirganj"
     },
     {
       "id": "up-budaun-bdo-sahaswan",
@@ -386,7 +483,8 @@
       ],
       "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-budaun-bdo-sahaswan"
     },
     {
       "id": "up-budaun-bdo-ambiapur",
@@ -394,14 +492,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Ambiapur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ambiapur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8303172208",
+          "type": "office",
+          "source_url": "https://budaun.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.ambiapur.bdn@gmail.com",
       "covers": [
         "ambiapur"
       ],
-      "source_url": "https://budaun.nic.in/whos-who/",
+      "source_url": "https://budaun.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "B.D.O. AMBIAPUR"
     },
     {
       "id": "up-budaun-ado-ambiapur",
@@ -415,7 +522,8 @@
       ],
       "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-budaun-bdo-ambiapur"
     },
     {
       "id": "up-budaun-bdo-bilsi",
@@ -444,7 +552,8 @@
       ],
       "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-budaun-bdo-bilsi"
     },
     {
       "id": "up-budaun-bdo-islamnagar",
@@ -452,14 +561,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Islamnagar",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Islamnagar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8303172202",
+          "type": "office",
+          "source_url": "https://budaun.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.islamnagar.bdn@gmail.com",
       "covers": [
         "islamnagar"
       ],
-      "source_url": "https://budaun.nic.in/whos-who/",
+      "source_url": "https://budaun.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "B.D.O. ISLAMNAGAR"
     },
     {
       "id": "up-budaun-ado-islamnagar",
@@ -473,7 +591,8 @@
       ],
       "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-budaun-bdo-islamnagar"
     },
     {
       "id": "up-budaun-bdo-dataganj",
@@ -481,14 +600,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Dataganj",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dataganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8303172197",
+          "type": "office",
+          "source_url": "https://budaun.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.dataganj.bdn@gmail.com",
       "covers": [
         "dataganj"
       ],
-      "source_url": "https://budaun.nic.in/whos-who/",
+      "source_url": "https://budaun.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "B.D.O. DATAGANJ"
     },
     {
       "id": "up-budaun-ado-dataganj",
@@ -502,7 +630,8 @@
       ],
       "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-budaun-bdo-dataganj"
     },
     {
       "id": "up-budaun-bdo-samrer",
@@ -510,14 +639,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Samrer",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Samrer",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8303172196",
+          "type": "office",
+          "source_url": "https://budaun.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.samrer.bdn@gmail.com",
       "covers": [
         "samrer"
       ],
-      "source_url": "https://budaun.nic.in/whos-who/",
+      "source_url": "https://budaun.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "B.D.O. SAMRER"
     },
     {
       "id": "up-budaun-ado-samrer",
@@ -531,7 +669,8 @@
       ],
       "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-budaun-bdo-samrer"
     },
     {
       "id": "up-budaun-bdo-miyanganj",
@@ -560,7 +699,8 @@
       ],
       "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-budaun-bdo-miyanganj"
     },
     {
       "id": "up-budaun-bdo-usawan",
@@ -568,14 +708,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Usawan",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Usawan",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8303172199",
+          "type": "office",
+          "source_url": "https://budaun.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.usawan.bdn@gmail.com",
       "covers": [
         "usawan"
       ],
-      "source_url": "https://budaun.nic.in/whos-who/",
+      "source_url": "https://budaun.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "B.D.O. USAWAN"
     },
     {
       "id": "up-budaun-ado-usawan",
@@ -589,7 +738,8 @@
       ],
       "source_url": "https://budaun.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-budaun-bdo-usawan"
     },
     {
       "id": "eo-budaun-main",

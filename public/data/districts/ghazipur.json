@@ -21,7 +21,7 @@
       "covers": [
         "ghazipur"
       ],
-      "source_url": "https://ghazipur.nic.in/whos-who/",
+      "source_url": "https://ghazipur.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Mr. Anupam Shukla I.A.S",
@@ -33,14 +33,29 @@
       "role": "cdo",
       "office_name_en": "Chief Development Officer (CDO), Ghazipur",
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), गाजीपुर",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417104",
+          "type": "office",
+          "source_url": "https://ghazipur.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9454465240",
+          "type": "office",
+          "source_url": "https://ghazipur.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "cdo.gzp-up@gov.in",
       "covers": [
         "ghazipur"
       ],
-      "source_url": "https://ghazipur.nic.in/whos-who/",
+      "source_url": "https://ghazipur.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-ghazipur-dpro",
@@ -78,14 +93,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mohammadabad",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mohammadabad",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417076",
+          "type": "office",
+          "source_url": "https://ghazipur.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.mohammadabad.gzp-up@gov.in",
       "covers": [
         "mohammadabad"
       ],
-      "source_url": "https://ghazipur.nic.in/whos-who/",
+      "source_url": "https://ghazipur.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-ghazipur-sdm-zamania",
@@ -93,14 +116,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Zamania",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Zamania",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417078",
+          "type": "office",
+          "source_url": "https://ghazipur.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.zamania.gzp-up@gov.in",
       "covers": [
         "zamania"
       ],
-      "source_url": "https://ghazipur.nic.in/whos-who/",
+      "source_url": "https://ghazipur.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-ghazipur-sdm-saidpur",
@@ -108,14 +139,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Saidpur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Saidpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417077",
+          "type": "office",
+          "source_url": "https://ghazipur.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.saidpur.gzp-up@gov.in",
       "covers": [
         "saidpur"
       ],
-      "source_url": "https://ghazipur.nic.in/whos-who/",
+      "source_url": "https://ghazipur.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-ghazipur-sdm-jakhania",
@@ -138,14 +177,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kasimabad",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kasimabad",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417105",
+          "type": "office",
+          "source_url": "https://ghazipur.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.kasimabad.gzp-up@gov.in",
       "covers": [
         "kasimabad"
       ],
-      "source_url": "https://ghazipur.nic.in/whos-who/",
+      "source_url": "https://ghazipur.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-ghazipur-sdm-sewarai",
@@ -189,7 +236,8 @@
       ],
       "source_url": "https://ghazipur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghazipur-bdo-ghazipur-sadar"
     },
     {
       "id": "up-ghazipur-bdo-mardah",
@@ -197,14 +245,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mardah",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mardah",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465249",
+          "type": "office",
+          "source_url": "https://ghazipur.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.mardah.gzp@gmail.com",
       "covers": [
         "mardah"
       ],
-      "source_url": "https://ghazipur.nic.in/whos-who/",
+      "source_url": "https://ghazipur.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-ghazipur-ado-mardah",
@@ -218,7 +274,8 @@
       ],
       "source_url": "https://ghazipur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghazipur-bdo-mardah"
     },
     {
       "id": "up-ghazipur-bdo-birno",
@@ -226,14 +283,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Birno",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Birno",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465248",
+          "type": "office",
+          "source_url": "https://ghazipur.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.birno.gzp@gmail.com",
       "covers": [
         "birno"
       ],
-      "source_url": "https://ghazipur.nic.in/whos-who/",
+      "source_url": "https://ghazipur.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-ghazipur-ado-birno",
@@ -247,7 +312,8 @@
       ],
       "source_url": "https://ghazipur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghazipur-bdo-birno"
     },
     {
       "id": "up-ghazipur-bdo-zamania",
@@ -255,14 +321,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Zamania",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Zamania",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465256",
+          "type": "office",
+          "source_url": "https://ghazipur.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.zamania.gzp@gmail.com",
       "covers": [
         "zamania"
       ],
-      "source_url": "https://ghazipur.nic.in/whos-who/",
+      "source_url": "https://ghazipur.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-ghazipur-ado-zamania",
@@ -276,7 +350,8 @@
       ],
       "source_url": "https://ghazipur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghazipur-bdo-zamania"
     },
     {
       "id": "up-ghazipur-bdo-saidpur",
@@ -284,14 +359,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Saidpur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Saidpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465246",
+          "type": "office",
+          "source_url": "https://ghazipur.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.saidpur.gzp@gmail.com",
       "covers": [
         "saidpur"
       ],
-      "source_url": "https://ghazipur.nic.in/whos-who/",
+      "source_url": "https://ghazipur.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-ghazipur-ado-saidpur",
@@ -305,7 +388,8 @@
       ],
       "source_url": "https://ghazipur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghazipur-bdo-saidpur"
     },
     {
       "id": "up-ghazipur-bdo-sadat",
@@ -313,14 +397,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sadat",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sadat",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465245",
+          "type": "office",
+          "source_url": "https://ghazipur.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.sadat.gzp@gmail.com",
       "covers": [
         "sadat"
       ],
-      "source_url": "https://ghazipur.nic.in/whos-who/",
+      "source_url": "https://ghazipur.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-ghazipur-ado-sadat",
@@ -334,7 +426,8 @@
       ],
       "source_url": "https://ghazipur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghazipur-bdo-sadat"
     },
     {
       "id": "up-ghazipur-bdo-deokali",
@@ -363,7 +456,8 @@
       ],
       "source_url": "https://ghazipur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghazipur-bdo-deokali"
     },
     {
       "id": "up-ghazipur-bdo-jakhania",
@@ -392,7 +486,8 @@
       ],
       "source_url": "https://ghazipur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghazipur-bdo-jakhania"
     },
     {
       "id": "up-ghazipur-bdo-manihari",
@@ -400,14 +495,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Manihari",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Manihari",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465244",
+          "type": "office",
+          "source_url": "https://ghazipur.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.manihari.gzp@gmail.com",
       "covers": [
         "manihari"
       ],
-      "source_url": "https://ghazipur.nic.in/whos-who/",
+      "source_url": "https://ghazipur.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-ghazipur-ado-manihari",
@@ -421,7 +524,8 @@
       ],
       "source_url": "https://ghazipur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghazipur-bdo-manihari"
     },
     {
       "id": "up-ghazipur-bdo-kasimabad",
@@ -429,14 +533,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kasimabad",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kasimabad",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465252",
+          "type": "office",
+          "source_url": "https://ghazipur.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.kasimabad.gzp@gmail.com",
       "covers": [
         "kasimabad"
       ],
-      "source_url": "https://ghazipur.nic.in/whos-who/",
+      "source_url": "https://ghazipur.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-ghazipur-ado-kasimabad",
@@ -450,7 +562,8 @@
       ],
       "source_url": "https://ghazipur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghazipur-bdo-kasimabad"
     },
     {
       "id": "up-ghazipur-bdo-varachakwar",
@@ -479,7 +592,8 @@
       ],
       "source_url": "https://ghazipur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghazipur-bdo-varachakwar"
     },
     {
       "id": "up-ghazipur-bdo-mohammadabad",
@@ -487,14 +601,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mohammadabad",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mohammadabad",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465254",
+          "type": "office",
+          "source_url": "https://ghazipur.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.mohammadabad.gzp@gmail.com",
       "covers": [
         "mohammadabad"
       ],
-      "source_url": "https://ghazipur.nic.in/whos-who/",
+      "source_url": "https://ghazipur.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-ghazipur-ado-mohammadabad",
@@ -508,7 +630,8 @@
       ],
       "source_url": "https://ghazipur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghazipur-bdo-mohammadabad"
     },
     {
       "id": "up-ghazipur-bdo-bhawarkol",
@@ -516,14 +639,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bhawarkol",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhawarkol",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465255",
+          "type": "office",
+          "source_url": "https://ghazipur.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.bhawarkol.gzp@gmail.com",
       "covers": [
         "bhawarkol"
       ],
-      "source_url": "https://ghazipur.nic.in/whos-who/",
+      "source_url": "https://ghazipur.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-ghazipur-ado-bhawarkol",
@@ -537,7 +668,8 @@
       ],
       "source_url": "https://ghazipur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghazipur-bdo-bhawarkol"
     },
     {
       "id": "up-ghazipur-bdo-karanda",
@@ -545,14 +677,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Karanda",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Karanda",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465251",
+          "type": "office",
+          "source_url": "https://ghazipur.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.karanda.gzp@gmail.com",
       "covers": [
         "karanda"
       ],
-      "source_url": "https://ghazipur.nic.in/whos-who/",
+      "source_url": "https://ghazipur.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-ghazipur-ado-karanda",
@@ -566,7 +706,8 @@
       ],
       "source_url": "https://ghazipur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghazipur-bdo-karanda"
     },
     {
       "id": "up-ghazipur-bdo-revatipur",
@@ -595,7 +736,8 @@
       ],
       "source_url": "https://ghazipur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghazipur-bdo-revatipur"
     },
     {
       "id": "up-ghazipur-bdo-sohawal",
@@ -624,7 +766,8 @@
       ],
       "source_url": "https://ghazipur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ghazipur-bdo-sohawal"
     },
     {
       "id": "eo-ghazipur-main",

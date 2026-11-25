@@ -22,7 +22,7 @@
       "covers": [
         "kushinagar"
       ],
-      "source_url": "https://kushinagar.nic.in/whos-who/",
+      "source_url": "https://kushinagar.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Collectorate Campus, Ravindranagar Dhoos, Padrauna District Kushinagar U.P."
@@ -46,9 +46,11 @@
       "covers": [
         "kushinagar"
       ],
-      "source_url": "https://kushinagar.nic.in/whos-who/",
+      "source_url": "https://kushinagar.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Vandita Srivastava IAS (CDO)",
+      "address_en": "Vikas Bhawan Ravindranagar Dhoos, Padrauna District Kushinagar U.P."
     },
     {
       "id": "up-kushinagar-dpro",
@@ -71,14 +73,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Padrauna",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Padrauna",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416283",
+          "type": "office",
+          "source_url": "https://kushinagar.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.padrauna.kush-up@gov.in",
       "covers": [
         "padrauna"
       ],
-      "source_url": "https://kushinagar.nic.in/whos-who/",
+      "source_url": "https://kushinagar.nic.in/std-pin-codes/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kushinagar-sdm-hata",
@@ -86,14 +96,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Hata",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Hata",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416285",
+          "type": "office",
+          "source_url": "https://kushinagar.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.hata.kush-up@gov.in",
       "covers": [
         "hata"
       ],
-      "source_url": "https://kushinagar.nic.in/whos-who/",
+      "source_url": "https://kushinagar.nic.in/std-pin-codes/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kushinagar-sdm-tamkuhi-raj",
@@ -101,14 +119,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Tamkuhi Raj",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Tamkuhi Raj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416286",
+          "type": "office",
+          "source_url": "https://kushinagar.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.tamkuhiraj.kush-up@gov.in",
       "covers": [
         "tamkuhi-raj"
       ],
-      "source_url": "https://kushinagar.nic.in/whos-who/",
+      "source_url": "https://kushinagar.nic.in/std-pin-codes/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kushinagar-sdm-kasia",
@@ -116,14 +142,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kasia",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kasia",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416284",
+          "type": "office",
+          "source_url": "https://kushinagar.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.kasia.kush-up@gov.in",
       "covers": [
         "kasia"
       ],
-      "source_url": "https://kushinagar.nic.in/whos-who/",
+      "source_url": "https://kushinagar.nic.in/std-pin-codes/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kushinagar-bdo-padrauna",
@@ -152,7 +186,8 @@
       ],
       "source_url": "https://kushinagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kushinagar-bdo-padrauna"
     },
     {
       "id": "up-kushinagar-bdo-vishunpura",
@@ -181,7 +216,8 @@
       ],
       "source_url": "https://kushinagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kushinagar-bdo-vishunpura"
     },
     {
       "id": "up-kushinagar-bdo-nebua-naurangiya",
@@ -210,7 +246,8 @@
       ],
       "source_url": "https://kushinagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kushinagar-bdo-nebua-naurangiya"
     },
     {
       "id": "up-kushinagar-bdo-khadda",
@@ -239,7 +276,8 @@
       ],
       "source_url": "https://kushinagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kushinagar-bdo-khadda"
     },
     {
       "id": "up-kushinagar-bdo-kasia",
@@ -268,7 +306,8 @@
       ],
       "source_url": "https://kushinagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kushinagar-bdo-kasia"
     },
     {
       "id": "up-kushinagar-bdo-fazilnagar",
@@ -297,7 +336,8 @@
       ],
       "source_url": "https://kushinagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kushinagar-bdo-fazilnagar"
     },
     {
       "id": "up-kushinagar-bdo-hata",
@@ -326,7 +366,8 @@
       ],
       "source_url": "https://kushinagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kushinagar-bdo-hata"
     },
     {
       "id": "up-kushinagar-bdo-kaptanganj",
@@ -355,7 +396,8 @@
       ],
       "source_url": "https://kushinagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kushinagar-bdo-kaptanganj"
     },
     {
       "id": "up-kushinagar-bdo-motichak",
@@ -384,7 +426,8 @@
       ],
       "source_url": "https://kushinagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kushinagar-bdo-motichak"
     },
     {
       "id": "up-kushinagar-bdo-sukrauli",
@@ -413,7 +456,8 @@
       ],
       "source_url": "https://kushinagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kushinagar-bdo-sukrauli"
     },
     {
       "id": "up-kushinagar-bdo-tamkuhi-raj",
@@ -442,7 +486,8 @@
       ],
       "source_url": "https://kushinagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kushinagar-bdo-tamkuhi-raj"
     },
     {
       "id": "up-kushinagar-bdo-seorahi",
@@ -471,7 +516,8 @@
       ],
       "source_url": "https://kushinagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kushinagar-bdo-seorahi"
     },
     {
       "id": "up-kushinagar-bdo-dudhai",
@@ -500,7 +546,8 @@
       ],
       "source_url": "https://kushinagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kushinagar-bdo-dudhai"
     },
     {
       "id": "up-kushinagar-bdo-ramkola",
@@ -529,7 +576,8 @@
       ],
       "source_url": "https://kushinagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kushinagar-bdo-ramkola"
     },
     {
       "id": "eo-kushinagar-main",
@@ -537,13 +585,24 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Kushinagar",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका कुशीनगर",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417616",
+          "type": "office",
+          "source_url": "https://kushinagar.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-kushinagar-main"
       ],
-      "source_url": "https://kushinagar.nic.in/whos-who/",
+      "source_url": "https://kushinagar.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Sanjay Chauhan IAS (DM).",
+      "email": "dmkus@nic.in",
+      "address_en": "Collectorate Campus, Ravindranagar Dhoos, Padrauna District Kushinagar U.P."
     }
   ]
 }

@@ -15,13 +15,20 @@
           "source_url": "https://pratapgarh.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "05342-220401",
+          "type": "landline",
+          "source_url": "https://pratapgarh.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmpra@nic.in",
       "covers": [
         "pratapgarh"
       ],
-      "source_url": "https://pratapgarh.nic.in/whos-who/",
+      "source_url": "https://pratapgarh.nic.in/contact-directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Abhishek Pandey",
@@ -63,9 +70,10 @@
       "covers": [
         "pratapgarh"
       ],
-      "source_url": "https://pratapgarh.nic.in/whos-who/",
+      "source_url": "https://pratapgarh.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "VIKAS BHAWAN"
     },
     {
       "id": "up-pratapgarh-sdm-sadar",
@@ -73,14 +81,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417891",
+          "type": "office",
+          "source_url": "https://pratapgarh.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.sadar.prt-up@gov.in",
       "covers": [
         "sadar"
       ],
-      "source_url": "https://pratapgarh.nic.in/whos-who/",
+      "source_url": "https://pratapgarh.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "SADAR"
     },
     {
       "id": "up-pratapgarh-sdm-kunda",
@@ -88,14 +105,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kunda",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kunda",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417892",
+          "type": "office",
+          "source_url": "https://pratapgarh.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.kunda.prt-up@gov.in",
       "covers": [
         "kunda"
       ],
-      "source_url": "https://pratapgarh.nic.in/whos-who/",
+      "source_url": "https://pratapgarh.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "KUNDA"
     },
     {
       "id": "up-pratapgarh-sdm-lalganj",
@@ -103,14 +129,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Lalganj",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Lalganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417895",
+          "type": "office",
+          "source_url": "https://pratapgarh.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.lalganj.prt-up@gov.in",
       "covers": [
         "lalganj"
       ],
-      "source_url": "https://pratapgarh.nic.in/whos-who/",
+      "source_url": "https://pratapgarh.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "LALGANJ"
     },
     {
       "id": "up-pratapgarh-sdm-patti",
@@ -118,14 +153,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Patti",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Patti",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417894",
+          "type": "office",
+          "source_url": "https://pratapgarh.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.patti.prt-up@gov.in",
       "covers": [
         "patti"
       ],
-      "source_url": "https://pratapgarh.nic.in/whos-who/",
+      "source_url": "https://pratapgarh.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "PATTI"
     },
     {
       "id": "up-pratapgarh-sdm-raniganj",
@@ -133,14 +177,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Raniganj",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Raniganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417893",
+          "type": "office",
+          "source_url": "https://pratapgarh.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.raniganj.prt-up@gov.in",
       "covers": [
         "raniganj"
       ],
-      "source_url": "https://pratapgarh.nic.in/whos-who/",
+      "source_url": "https://pratapgarh.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "RANIGANJ"
     },
     {
       "id": "up-pratapgarh-bdo-sadar",
@@ -169,7 +222,8 @@
       ],
       "source_url": "https://pratapgarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pratapgarh-bdo-sadar"
     },
     {
       "id": "up-pratapgarh-bdo-mandhata",
@@ -198,7 +252,8 @@
       ],
       "source_url": "https://pratapgarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pratapgarh-bdo-mandhata"
     },
     {
       "id": "up-pratapgarh-bdo-sandwa-chandrika",
@@ -227,7 +282,8 @@
       ],
       "source_url": "https://pratapgarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pratapgarh-bdo-sandwa-chandrika"
     },
     {
       "id": "up-pratapgarh-bdo-laxmanpur",
@@ -256,7 +312,8 @@
       ],
       "source_url": "https://pratapgarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pratapgarh-bdo-laxmanpur"
     },
     {
       "id": "up-pratapgarh-bdo-sangramgarh",
@@ -285,7 +342,8 @@
       ],
       "source_url": "https://pratapgarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pratapgarh-bdo-sangramgarh"
     },
     {
       "id": "up-pratapgarh-bdo-babaganj",
@@ -314,7 +372,8 @@
       ],
       "source_url": "https://pratapgarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pratapgarh-bdo-babaganj"
     },
     {
       "id": "up-pratapgarh-bdo-kunda",
@@ -343,7 +402,8 @@
       ],
       "source_url": "https://pratapgarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pratapgarh-bdo-kunda"
     },
     {
       "id": "up-pratapgarh-bdo-bihar",
@@ -372,7 +432,8 @@
       ],
       "source_url": "https://pratapgarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pratapgarh-bdo-bihar"
     },
     {
       "id": "up-pratapgarh-bdo-lalganj",
@@ -401,7 +462,8 @@
       ],
       "source_url": "https://pratapgarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pratapgarh-bdo-lalganj"
     },
     {
       "id": "up-pratapgarh-bdo-rampur-sangramgarh",
@@ -430,7 +492,8 @@
       ],
       "source_url": "https://pratapgarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pratapgarh-bdo-rampur-sangramgarh"
     },
     {
       "id": "up-pratapgarh-bdo-patti",
@@ -459,7 +522,8 @@
       ],
       "source_url": "https://pratapgarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pratapgarh-bdo-patti"
     },
     {
       "id": "up-pratapgarh-bdo-aspur-deosara",
@@ -488,7 +552,8 @@
       ],
       "source_url": "https://pratapgarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pratapgarh-bdo-aspur-deosara"
     },
     {
       "id": "up-pratapgarh-bdo-magraura",
@@ -517,7 +582,8 @@
       ],
       "source_url": "https://pratapgarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pratapgarh-bdo-magraura"
     },
     {
       "id": "up-pratapgarh-bdo-gaura",
@@ -546,7 +612,8 @@
       ],
       "source_url": "https://pratapgarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pratapgarh-bdo-gaura"
     },
     {
       "id": "up-pratapgarh-bdo-shivgarh",
@@ -575,7 +642,8 @@
       ],
       "source_url": "https://pratapgarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pratapgarh-bdo-shivgarh"
     },
     {
       "id": "up-pratapgarh-bdo-belha",
@@ -604,7 +672,8 @@
       ],
       "source_url": "https://pratapgarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pratapgarh-bdo-belha"
     },
     {
       "id": "up-pratapgarh-bdo-kalyanpur",
@@ -633,7 +702,8 @@
       ],
       "source_url": "https://pratapgarh.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-pratapgarh-bdo-kalyanpur"
     },
     {
       "id": "eo-pratapgarh-main",

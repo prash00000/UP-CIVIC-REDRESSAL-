@@ -22,7 +22,7 @@
       "covers": [
         "kanpur-nagar"
       ],
-      "source_url": "https://kanpurnagar.nic.in/whos-who/",
+      "source_url": "https://kanpurnagar.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "16/12, Civil Lines, Kanpur Nagar"
@@ -46,7 +46,7 @@
       "covers": [
         "kanpur-nagar"
       ],
-      "source_url": "https://kanpurnagar.nic.in/whos-who/",
+      "source_url": "https://kanpurnagar.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Abhinav J Jain IAS",
@@ -73,14 +73,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416385",
+          "type": "office",
+          "source_url": "https://kanpurnagar.nic.in/telephone/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.sadar.kan-up@gov.in",
       "covers": [
         "sadar"
       ],
-      "source_url": "https://kanpurnagar.nic.in/whos-who/",
+      "source_url": "https://kanpurnagar.nic.in/telephone/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kanpur-nagar-sdm-ghatampur",
@@ -88,14 +96,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Ghatampur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Ghatampur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416387",
+          "type": "office",
+          "source_url": "https://kanpurnagar.nic.in/telephone/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.ghatampur.kan-up@gov.in",
       "covers": [
         "ghatampur"
       ],
-      "source_url": "https://kanpurnagar.nic.in/whos-who/",
+      "source_url": "https://kanpurnagar.nic.in/telephone/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kanpur-nagar-sdm-bilhaur",
@@ -103,14 +119,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bilhaur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bilhaur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416386",
+          "type": "office",
+          "source_url": "https://kanpurnagar.nic.in/telephone/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.bilhaur.kan-up@gov.in",
       "covers": [
         "bilhaur"
       ],
-      "source_url": "https://kanpurnagar.nic.in/whos-who/",
+      "source_url": "https://kanpurnagar.nic.in/telephone/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kanpur-nagar-sdm-narwal",
@@ -138,9 +162,9 @@
       "covers": [
         "kalyanpur"
       ],
-      "source_url": "https://kanpurnagar.nic.in/whos-who/",
+      "source_url": "https://kanpurnagar.nic.in/development-department-contact-nos/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kanpur-nagar-ado-kalyanpur",
@@ -154,7 +178,8 @@
       ],
       "source_url": "https://kanpurnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-nagar-bdo-kalyanpur"
     },
     {
       "id": "up-kanpur-nagar-bdo-sarsaul",
@@ -167,9 +192,9 @@
       "covers": [
         "sarsaul"
       ],
-      "source_url": "https://kanpurnagar.nic.in/whos-who/",
+      "source_url": "https://kanpurnagar.nic.in/development-department-contact-nos/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kanpur-nagar-ado-sarsaul",
@@ -183,7 +208,8 @@
       ],
       "source_url": "https://kanpurnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-nagar-bdo-sarsaul"
     },
     {
       "id": "up-kanpur-nagar-bdo-bidnu",
@@ -212,7 +238,8 @@
       ],
       "source_url": "https://kanpurnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-nagar-bdo-bidnu"
     },
     {
       "id": "up-kanpur-nagar-bdo-bhitargaon",
@@ -225,9 +252,9 @@
       "covers": [
         "bhitargaon"
       ],
-      "source_url": "https://kanpurnagar.nic.in/whos-who/",
+      "source_url": "https://kanpurnagar.nic.in/development-department-contact-nos/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kanpur-nagar-ado-bhitargaon",
@@ -241,7 +268,8 @@
       ],
       "source_url": "https://kanpurnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-nagar-bdo-bhitargaon"
     },
     {
       "id": "up-kanpur-nagar-bdo-ghatampur",
@@ -254,9 +282,9 @@
       "covers": [
         "ghatampur"
       ],
-      "source_url": "https://kanpurnagar.nic.in/whos-who/",
+      "source_url": "https://kanpurnagar.nic.in/development-department-contact-nos/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kanpur-nagar-ado-ghatampur",
@@ -270,7 +298,8 @@
       ],
       "source_url": "https://kanpurnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-nagar-bdo-ghatampur"
     },
     {
       "id": "up-kanpur-nagar-bdo-patara",
@@ -283,9 +312,9 @@
       "covers": [
         "patara"
       ],
-      "source_url": "https://kanpurnagar.nic.in/whos-who/",
+      "source_url": "https://kanpurnagar.nic.in/development-department-contact-nos/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kanpur-nagar-ado-patara",
@@ -299,7 +328,8 @@
       ],
       "source_url": "https://kanpurnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-nagar-bdo-patara"
     },
     {
       "id": "up-kanpur-nagar-bdo-bilhaur",
@@ -312,9 +342,9 @@
       "covers": [
         "bilhaur"
       ],
-      "source_url": "https://kanpurnagar.nic.in/whos-who/",
+      "source_url": "https://kanpurnagar.nic.in/development-department-contact-nos/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kanpur-nagar-ado-bilhaur",
@@ -328,7 +358,8 @@
       ],
       "source_url": "https://kanpurnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-nagar-bdo-bilhaur"
     },
     {
       "id": "up-kanpur-nagar-bdo-shivrajpur",
@@ -341,9 +372,9 @@
       "covers": [
         "shivrajpur"
       ],
-      "source_url": "https://kanpurnagar.nic.in/whos-who/",
+      "source_url": "https://kanpurnagar.nic.in/development-department-contact-nos/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kanpur-nagar-ado-shivrajpur",
@@ -357,7 +388,8 @@
       ],
       "source_url": "https://kanpurnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-nagar-bdo-shivrajpur"
     },
     {
       "id": "up-kanpur-nagar-bdo-chaubepur",
@@ -386,7 +418,8 @@
       ],
       "source_url": "https://kanpurnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-nagar-bdo-chaubepur"
     },
     {
       "id": "up-kanpur-nagar-bdo-kakwan",
@@ -399,9 +432,9 @@
       "covers": [
         "kakwan"
       ],
-      "source_url": "https://kanpurnagar.nic.in/whos-who/",
+      "source_url": "https://kanpurnagar.nic.in/development-department-contact-nos/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kanpur-nagar-ado-kakwan",
@@ -415,7 +448,8 @@
       ],
       "source_url": "https://kanpurnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-nagar-bdo-kakwan"
     },
     {
       "id": "eo-kanpur-nagar-main",
@@ -423,13 +457,55 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Kanpur Nagar",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका कानपुर नगर",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454400285",
+          "type": "office",
+          "source_url": "https://kanpurnagar.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-kanpur-nagar-main"
       ],
-      "source_url": "https://kanpurnagar.nic.in/whos-who/",
+      "source_url": "https://kanpurnagar.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Abhinav J Jain IAS",
+      "email": "cdokap@nic.in",
+      "address_en": "Vikas Bhavan , Rawatpur , Kanpur Nagar"
+    },
+    {
+      "id": "up-kanpur-nagar-commissioner",
+      "level": "ulb",
+      "role": "commissioner",
+      "office_name_en": "Municipal Commissioner, Kanpur Nagar Nagar Nigam",
+      "office_name_hi": "नगर आयुक्त, कानपुर नगर नगर निगम",
+      "phones": [
+        {
+          "number": "8189077821",
+          "type": "cug",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0512-2541258",
+          "type": "landline",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "kanpur-nagar"
+      ],
+      "source_url": "https://localbodies.up.nic.in/listnn.htm",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "email": "8189077821mckanpur@yahoo.com",
+      "officer_name_en": "श्री शिव शणरप्पा जी०एन०"
     }
   ]
 }

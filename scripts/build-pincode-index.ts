@@ -191,13 +191,25 @@ async function buildPincodeIndex() {
     const entries: { district_id: string; tehsil_id?: string; locality_en?: string }[] = [];
 
     for (const [district_id, agg] of dMap.entries()) {
-      const firstBlock = [...agg.blocks][0];
+      // Deduplicate blocks ignoring spaces/hyphens/case and format in clean Title Case
+      const normBlocksMap = new Map<string, string>();
+      for (const b of agg.blocks) {
+        const key = b.toLowerCase().replace(/[^a-z0-9]/g, "");
+        const title = b
+          .toLowerCase()
+          .replace(/\b\w/g, (c) => c.toUpperCase());
+        if (key && !normBlocksMap.has(key)) {
+          normBlocksMap.set(key, title);
+        }
+      }
+      const uniqueBlocks = [...normBlocksMap.values()];
+      const firstBlock = uniqueBlocks[0];
       const tehsil_id = firstBlock
         ? firstBlock.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "")
         : undefined;
 
       const sampleOffices = [...agg.offices].slice(0, 3);
-      const blockList = [...agg.blocks].slice(0, 2);
+      const blockList = uniqueBlocks.slice(0, 2);
       const parts: string[] = [];
       if (sampleOffices.length > 0) parts.push(sampleOffices.join(", "));
       if (blockList.length > 0) parts.push(`Block: ${blockList.join(", ")}`);

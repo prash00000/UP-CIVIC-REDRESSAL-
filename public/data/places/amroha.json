@@ -1,0 +1,1491 @@
+[
+  {
+    "id": "v-amroha-amroha",
+    "type": "village",
+    "name_en": "Amroha Block (Gram Panchayats)",
+    "name_hi": "Amroha विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-amroha-dhanaura",
+    "type": "village",
+    "name_en": "Dhanaura Block (Gram Panchayats)",
+    "name_hi": "Dhanaura विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dhanaura",
+    "block_id": "dhanaura",
+    "tehsil_id": "dhanaura",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-amroha-gajraula",
+    "type": "village",
+    "name_en": "Gajraula Block (Gram Panchayats)",
+    "name_hi": "Gajraula विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gajraula",
+    "block_id": "gajraula",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-amroha-hasanpur",
+    "type": "village",
+    "name_en": "Hasanpur Block (Gram Panchayats)",
+    "name_hi": "Hasanpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-hasanpur",
+    "block_id": "hasanpur",
+    "tehsil_id": "hasanpur",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-amroha-joya",
+    "type": "village",
+    "name_en": "Joya Block (Gram Panchayats)",
+    "name_hi": "Joya विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-joya",
+    "block_id": "joya",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-amroha-gangeshwari",
+    "type": "village",
+    "name_en": "Gangeshwari Block (Gram Panchayats)",
+    "name_hi": "Gangeshwari विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gangeshwari",
+    "block_id": "gangeshwari",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-amroha-gajana",
+    "type": "village",
+    "name_en": "Gajana (Gram Panchayat Area)",
+    "name_hi": "Gajana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244221"
+    ]
+  },
+  {
+    "id": "po-amroha-jalajpur-dhana",
+    "type": "village",
+    "name_en": "Jalajpur Dhana (Gram Panchayat Area)",
+    "name_hi": "Jalajpur Dhana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244221"
+    ]
+  },
+  {
+    "id": "po-amroha-papsara",
+    "type": "village",
+    "name_en": "Papsara (Gram Panchayat Area)",
+    "name_hi": "Papsara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244221"
+    ]
+  },
+  {
+    "id": "po-amroha-telipurmali",
+    "type": "village",
+    "name_en": "Telipurmali (Gram Panchayat Area)",
+    "name_hi": "Telipurmali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244221"
+    ]
+  },
+  {
+    "id": "po-amroha-nanhera-aliarpur",
+    "type": "village",
+    "name_en": "Nanhera Aliarpur (Gram Panchayat Area)",
+    "name_hi": "Nanhera Aliarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244221"
+    ]
+  },
+  {
+    "id": "po-amroha-qazi-sarai-urf-kankar-sarai",
+    "type": "village",
+    "name_en": "Qazi Sarai Urf Kankar Sarai (Gram Panchayat Area)",
+    "name_hi": "Qazi Sarai Urf Kankar Sarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244221"
+    ]
+  },
+  {
+    "id": "po-amroha-buderna",
+    "type": "village",
+    "name_en": "Buderna (Gram Panchayat Area)",
+    "name_hi": "Buderna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244221"
+    ]
+  },
+  {
+    "id": "po-amroha-hajarpur-jamania",
+    "type": "village",
+    "name_en": "Hajarpur Jamania (Gram Panchayat Area)",
+    "name_hi": "Hajarpur Jamania (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244221"
+    ]
+  },
+  {
+    "id": "po-amroha-mundha-khera",
+    "type": "village",
+    "name_en": "Mundha Khera (Gram Panchayat Area)",
+    "name_hi": "Mundha Khera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244221"
+    ]
+  },
+  {
+    "id": "po-amroha-gulariya",
+    "type": "village",
+    "name_en": "Gulariya (Gram Panchayat Area)",
+    "name_hi": "Gulariya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244221"
+    ]
+  },
+  {
+    "id": "po-amroha-bahadur-pur-khurd",
+    "type": "village",
+    "name_en": "Bahadur Pur Khurd (Gram Panchayat Area)",
+    "name_hi": "Bahadur Pur Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244221"
+    ]
+  },
+  {
+    "id": "po-amroha-kailsa",
+    "type": "village",
+    "name_en": "Kailsa (Gram Panchayat Area)",
+    "name_hi": "Kailsa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244221"
+    ]
+  },
+  {
+    "id": "po-amroha-ahraula-mafi",
+    "type": "village",
+    "name_en": "Ahraula Mafi (Gram Panchayat Area)",
+    "name_hi": "Ahraula Mafi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244231"
+    ]
+  },
+  {
+    "id": "po-amroha-chuchelakalan",
+    "type": "village",
+    "name_en": "Chuchelakalan (Gram Panchayat Area)",
+    "name_hi": "Chuchelakalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244231"
+    ]
+  },
+  {
+    "id": "po-amroha-dingra",
+    "type": "village",
+    "name_en": "Dingra (Gram Panchayat Area)",
+    "name_hi": "Dingra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244231"
+    ]
+  },
+  {
+    "id": "po-amroha-iqbalpur-urf-kamelpor",
+    "type": "village",
+    "name_en": "Iqbalpur Urf Kamelpor (Gram Panchayat Area)",
+    "name_hi": "Iqbalpur Urf Kamelpor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244231"
+    ]
+  },
+  {
+    "id": "po-amroha-kapsua",
+    "type": "village",
+    "name_en": "Kapsua (Gram Panchayat Area)",
+    "name_hi": "Kapsua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244231"
+    ]
+  },
+  {
+    "id": "po-amroha-kankather",
+    "type": "village",
+    "name_en": "Kankather (Gram Panchayat Area)",
+    "name_hi": "Kankather (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244235"
+    ]
+  },
+  {
+    "id": "po-amroha-khadgujar",
+    "type": "village",
+    "name_en": "Khadgujar (Gram Panchayat Area)",
+    "name_hi": "Khadgujar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244235"
+    ]
+  },
+  {
+    "id": "po-amroha-nagliamev",
+    "type": "village",
+    "name_en": "Nagliamev (Gram Panchayat Area)",
+    "name_hi": "Nagliamev (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244235"
+    ]
+  },
+  {
+    "id": "po-amroha-pipalidaud",
+    "type": "village",
+    "name_en": "Pipalidaud (Gram Panchayat Area)",
+    "name_hi": "Pipalidaud (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244241"
+    ]
+  },
+  {
+    "id": "po-amroha-sihalijagir",
+    "type": "village",
+    "name_en": "Sihalijagir (Gram Panchayat Area)",
+    "name_hi": "Sihalijagir (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244241"
+    ]
+  },
+  {
+    "id": "po-amroha-yaqubpur",
+    "type": "village",
+    "name_en": "Yaqubpur (Gram Panchayat Area)",
+    "name_hi": "Yaqubpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244241"
+    ]
+  },
+  {
+    "id": "po-amroha-palaula",
+    "type": "village",
+    "name_en": "Palaula (Gram Panchayat Area)",
+    "name_hi": "Palaula (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244222"
+    ]
+  },
+  {
+    "id": "po-amroha-saghan-machharya",
+    "type": "village",
+    "name_en": "Saghan Machharya (Gram Panchayat Area)",
+    "name_hi": "Saghan Machharya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244222"
+    ]
+  },
+  {
+    "id": "po-amroha-lakarhat",
+    "type": "village",
+    "name_en": "Lakarhat (Gram Panchayat Area)",
+    "name_hi": "Lakarhat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244501"
+    ]
+  },
+  {
+    "id": "po-amroha-makhdoompur",
+    "type": "village",
+    "name_en": "Makhdoompur (Gram Panchayat Area)",
+    "name_hi": "Makhdoompur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244251"
+    ]
+  },
+  {
+    "id": "po-amroha-didaura",
+    "type": "village",
+    "name_en": "Didaura (Gram Panchayat Area)",
+    "name_hi": "Didaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244102"
+    ]
+  },
+  {
+    "id": "po-amroha-chand-nagar",
+    "type": "village",
+    "name_en": "Chand Nagar (Gram Panchayat Area)",
+    "name_hi": "Chand Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244236"
+    ]
+  },
+  {
+    "id": "po-amroha-khajuri",
+    "type": "village",
+    "name_en": "Khajuri (Gram Panchayat Area)",
+    "name_hi": "Khajuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244236"
+    ]
+  },
+  {
+    "id": "po-amroha-maheshra",
+    "type": "village",
+    "name_en": "Maheshra (Gram Panchayat Area)",
+    "name_hi": "Maheshra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244236"
+    ]
+  },
+  {
+    "id": "po-amroha-adampur",
+    "type": "village",
+    "name_en": "Adampur (Gram Panchayat Area)",
+    "name_hi": "Adampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244255"
+    ]
+  },
+  {
+    "id": "po-amroha-bartaura",
+    "type": "village",
+    "name_en": "Bartaura (Gram Panchayat Area)",
+    "name_hi": "Bartaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244255"
+    ]
+  },
+  {
+    "id": "po-amroha-bijnaura",
+    "type": "village",
+    "name_en": "Bijnaura (Gram Panchayat Area)",
+    "name_hi": "Bijnaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244242"
+    ]
+  },
+  {
+    "id": "po-amroha-chakooni",
+    "type": "village",
+    "name_en": "Chakooni (Gram Panchayat Area)",
+    "name_hi": "Chakooni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244242"
+    ]
+  },
+  {
+    "id": "po-amroha-chakanwala",
+    "type": "village",
+    "name_en": "Chakanwala (Gram Panchayat Area)",
+    "name_hi": "Chakanwala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244225"
+    ]
+  },
+  {
+    "id": "po-amroha-tomra",
+    "type": "village",
+    "name_en": "Tomra (Gram Panchayat Area)",
+    "name_hi": "Tomra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244225"
+    ]
+  },
+  {
+    "id": "po-amroha-ladanpur",
+    "type": "village",
+    "name_en": "Ladanpur (Gram Panchayat Area)",
+    "name_hi": "Ladanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244231"
+    ]
+  },
+  {
+    "id": "po-amroha-wasipur",
+    "type": "village",
+    "name_en": "Wasipur (Gram Panchayat Area)",
+    "name_hi": "Wasipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244231"
+    ]
+  },
+  {
+    "id": "po-amroha-salempurgosai",
+    "type": "village",
+    "name_en": "Salempurgosai (Gram Panchayat Area)",
+    "name_hi": "Salempurgosai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244235"
+    ]
+  },
+  {
+    "id": "po-amroha-burawali",
+    "type": "village",
+    "name_en": "Burawali (Gram Panchayat Area)",
+    "name_hi": "Burawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244241"
+    ]
+  },
+  {
+    "id": "po-amroha-mangraula",
+    "type": "village",
+    "name_en": "Mangraula (Gram Panchayat Area)",
+    "name_hi": "Mangraula (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244241"
+    ]
+  },
+  {
+    "id": "po-amroha-sarkari-ajij",
+    "type": "village",
+    "name_en": "Sarkari  Ajij (Gram Panchayat Area)",
+    "name_hi": "Sarkari  Ajij (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244222"
+    ]
+  },
+  {
+    "id": "po-amroha-tohfapur-bhawanipur",
+    "type": "village",
+    "name_en": "Tohfapur Bhawanipur (Gram Panchayat Area)",
+    "name_hi": "Tohfapur Bhawanipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244222"
+    ]
+  },
+  {
+    "id": "po-amroha-jamna-khas",
+    "type": "village",
+    "name_en": "Jamna Khas (Gram Panchayat Area)",
+    "name_hi": "Jamna Khas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244501"
+    ]
+  },
+  {
+    "id": "po-amroha-awalpur",
+    "type": "village",
+    "name_en": "Awalpur (Gram Panchayat Area)",
+    "name_hi": "Awalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244251"
+    ]
+  },
+  {
+    "id": "po-amroha-gajasthal",
+    "type": "village",
+    "name_en": "Gajasthal (Gram Panchayat Area)",
+    "name_hi": "Gajasthal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244251"
+    ]
+  },
+  {
+    "id": "po-amroha-kaural",
+    "type": "village",
+    "name_en": "Kaural (Gram Panchayat Area)",
+    "name_hi": "Kaural (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244251"
+    ]
+  },
+  {
+    "id": "po-amroha-chaudhar-pur",
+    "type": "village",
+    "name_en": "Chaudhar Pur (Gram Panchayat Area)",
+    "name_hi": "Chaudhar Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244102"
+    ]
+  },
+  {
+    "id": "po-amroha-painti-kalan",
+    "type": "village",
+    "name_en": "Painti Kalan (Gram Panchayat Area)",
+    "name_hi": "Painti Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244102"
+    ]
+  },
+  {
+    "id": "po-amroha-daryal-khadar",
+    "type": "village",
+    "name_en": "Daryal Khadar (Gram Panchayat Area)",
+    "name_hi": "Daryal Khadar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244255"
+    ]
+  },
+  {
+    "id": "po-amroha-imratpur",
+    "type": "village",
+    "name_en": "Imratpur (Gram Panchayat Area)",
+    "name_hi": "Imratpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244255"
+    ]
+  },
+  {
+    "id": "po-amroha-dehpa",
+    "type": "village",
+    "name_en": "Dehpa (Gram Panchayat Area)",
+    "name_hi": "Dehpa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244242"
+    ]
+  },
+  {
+    "id": "po-amroha-dhawarsi",
+    "type": "village",
+    "name_en": "Dhawarsi (Gram Panchayat Area)",
+    "name_hi": "Dhawarsi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244242"
+    ]
+  },
+  {
+    "id": "po-amroha-said-nagli",
+    "type": "village",
+    "name_en": "Said Nagli (Gram Panchayat Area)",
+    "name_hi": "Said Nagli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244242"
+    ]
+  },
+  {
+    "id": "po-amroha-phanderi",
+    "type": "village",
+    "name_en": "Phanderi (Gram Panchayat Area)",
+    "name_hi": "Phanderi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244231"
+    ]
+  },
+  {
+    "id": "po-amroha-gangacholi",
+    "type": "village",
+    "name_en": "Gangacholi (Gram Panchayat Area)",
+    "name_hi": "Gangacholi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244241"
+    ]
+  },
+  {
+    "id": "po-amroha-gangwar",
+    "type": "village",
+    "name_en": "Gangwar (Gram Panchayat Area)",
+    "name_hi": "Gangwar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244241"
+    ]
+  },
+  {
+    "id": "po-amroha-didauli",
+    "type": "village",
+    "name_en": "Didauli (Gram Panchayat Area)",
+    "name_hi": "Didauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244222"
+    ]
+  },
+  {
+    "id": "po-amroha-basera-taga",
+    "type": "village",
+    "name_en": "Basera Taga (Gram Panchayat Area)",
+    "name_hi": "Basera Taga (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244501"
+    ]
+  },
+  {
+    "id": "po-amroha-bibra-khurd",
+    "type": "village",
+    "name_en": "Bibra Khurd (Gram Panchayat Area)",
+    "name_hi": "Bibra Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244501"
+    ]
+  },
+  {
+    "id": "po-amroha-khera-apraula",
+    "type": "village",
+    "name_en": "Khera Apraula (Gram Panchayat Area)",
+    "name_hi": "Khera Apraula (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244251"
+    ]
+  },
+  {
+    "id": "po-amroha-deorhi-urf-hadipur",
+    "type": "village",
+    "name_en": "Deorhi Urf Hadipur (Gram Panchayat Area)",
+    "name_hi": "Deorhi Urf Hadipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244102"
+    ]
+  },
+  {
+    "id": "po-amroha-paurara",
+    "type": "village",
+    "name_en": "Paurara (Gram Panchayat Area)",
+    "name_hi": "Paurara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244255"
+    ]
+  },
+  {
+    "id": "po-amroha-lohari-bhoor",
+    "type": "village",
+    "name_en": "Lohari Bhoor (Gram Panchayat Area)",
+    "name_hi": "Lohari Bhoor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244242"
+    ]
+  },
+  {
+    "id": "po-amroha-osa-mafi",
+    "type": "village",
+    "name_en": "Osa Mafi (Gram Panchayat Area)",
+    "name_hi": "Osa Mafi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244242"
+    ]
+  },
+  {
+    "id": "po-amroha-sohat",
+    "type": "village",
+    "name_en": "Sohat (Gram Panchayat Area)",
+    "name_hi": "Sohat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244242"
+    ]
+  },
+  {
+    "id": "po-amroha-dhauti",
+    "type": "village",
+    "name_en": "Dhauti (Gram Panchayat Area)",
+    "name_hi": "Dhauti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244225"
+    ]
+  },
+  {
+    "id": "po-amroha-sherpur",
+    "type": "village",
+    "name_en": "Sherpur (Gram Panchayat Area)",
+    "name_hi": "Sherpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244225"
+    ]
+  },
+  {
+    "id": "po-amroha-kauralla",
+    "type": "village",
+    "name_en": "Kauralla (Gram Panchayat Area)",
+    "name_hi": "Kauralla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244231"
+    ]
+  },
+  {
+    "id": "po-amroha-papsari",
+    "type": "village",
+    "name_en": "Papsari (Gram Panchayat Area)",
+    "name_hi": "Papsari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244231"
+    ]
+  },
+  {
+    "id": "po-amroha-sr-dhanaura",
+    "type": "village",
+    "name_en": "SR Dhanaura (Gram Panchayat Area)",
+    "name_hi": "SR Dhanaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dhanaura",
+    "block_id": "dhanaura",
+    "tehsil_id": "dhanaura",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244231"
+    ]
+  },
+  {
+    "id": "po-amroha-bijaura",
+    "type": "village",
+    "name_en": "Bijaura (Gram Panchayat Area)",
+    "name_hi": "Bijaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244235"
+    ]
+  },
+  {
+    "id": "po-amroha-tigree",
+    "type": "village",
+    "name_en": "Tigree (Gram Panchayat Area)",
+    "name_hi": "Tigree (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244235"
+    ]
+  },
+  {
+    "id": "po-amroha-patai-bhoor",
+    "type": "village",
+    "name_en": "Patai Bhoor (Gram Panchayat Area)",
+    "name_hi": "Patai Bhoor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244241"
+    ]
+  },
+  {
+    "id": "po-amroha-sarkara-kamal",
+    "type": "village",
+    "name_en": "Sarkara Kamal (Gram Panchayat Area)",
+    "name_hi": "Sarkara Kamal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244222"
+    ]
+  },
+  {
+    "id": "po-amroha-kail-bakri",
+    "type": "village",
+    "name_en": "Kail Bakri (Gram Panchayat Area)",
+    "name_hi": "Kail Bakri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244501"
+    ]
+  },
+  {
+    "id": "po-amroha-jajroo",
+    "type": "village",
+    "name_en": "Jajroo (Gram Panchayat Area)",
+    "name_hi": "Jajroo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244251"
+    ]
+  },
+  {
+    "id": "po-amroha-patai-khalsa",
+    "type": "village",
+    "name_en": "Patai Khalsa (Gram Panchayat Area)",
+    "name_hi": "Patai Khalsa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244102"
+    ]
+  },
+  {
+    "id": "po-amroha-atrasikalan",
+    "type": "village",
+    "name_en": "Atrasikalan (Gram Panchayat Area)",
+    "name_hi": "Atrasikalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244236"
+    ]
+  },
+  {
+    "id": "po-amroha-karaundi",
+    "type": "village",
+    "name_en": "Karaundi (Gram Panchayat Area)",
+    "name_hi": "Karaundi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244236"
+    ]
+  },
+  {
+    "id": "po-amroha-piplikalan",
+    "type": "village",
+    "name_en": "Piplikalan (Gram Panchayat Area)",
+    "name_hi": "Piplikalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244236"
+    ]
+  },
+  {
+    "id": "po-amroha-chhapna",
+    "type": "village",
+    "name_en": "Chhapna (Gram Panchayat Area)",
+    "name_hi": "Chhapna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244255"
+    ]
+  },
+  {
+    "id": "po-amroha-gangeshwari",
+    "type": "village",
+    "name_en": "Gangeshwari (Gram Panchayat Area)",
+    "name_hi": "Gangeshwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-gangeshwari",
+    "block_id": "gangeshwari",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244255"
+    ]
+  },
+  {
+    "id": "po-amroha-jahtauli",
+    "type": "village",
+    "name_en": "Jahtauli (Gram Panchayat Area)",
+    "name_hi": "Jahtauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244255"
+    ]
+  },
+  {
+    "id": "po-amroha-dhakka",
+    "type": "village",
+    "name_en": "Dhakka (Gram Panchayat Area)",
+    "name_hi": "Dhakka (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244242"
+    ]
+  },
+  {
+    "id": "po-amroha-kunderki-bhoor",
+    "type": "village",
+    "name_en": "Kunderki Bhoor (Gram Panchayat Area)",
+    "name_hi": "Kunderki Bhoor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amroha",
+    "block_id": "amroha",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244242"
+    ]
+  },
+  {
+    "id": "ward-amroha-ulb-amroha-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Amroha (All Wards)",
+    "name_hi": "अमरोहा नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-amroha-main",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-amroha-amroha",
+    "type": "ward",
+    "name_en": "Amroha (Urban Ward / SO)",
+    "name_hi": "Amroha (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-amroha-main",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244221"
+    ]
+  },
+  {
+    "id": "town-amroha-gajraula",
+    "type": "ward",
+    "name_en": "Gajraula (Urban Ward / SO)",
+    "name_hi": "Gajraula (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-amroha-main",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244235"
+    ]
+  },
+  {
+    "id": "town-amroha-rajab-pur",
+    "type": "ward",
+    "name_en": "Rajab Pur (Urban Ward / SO)",
+    "name_hi": "Rajab Pur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-amroha-main",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244236"
+    ]
+  },
+  {
+    "id": "town-amroha-amroha-bazar",
+    "type": "ward",
+    "name_en": "Amroha Bazar (Urban Ward / SO)",
+    "name_hi": "Amroha Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-amroha-main",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244221"
+    ]
+  },
+  {
+    "id": "town-amroha-bhartiya-gram",
+    "type": "ward",
+    "name_en": "Bhartiya Gram (Urban Ward / SO)",
+    "name_hi": "Bhartiya Gram (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-amroha-main",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244223"
+    ]
+  },
+  {
+    "id": "town-amroha-joya",
+    "type": "ward",
+    "name_en": "Joya (Urban Ward / SO)",
+    "name_hi": "Joya (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-amroha-main",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244222"
+    ]
+  },
+  {
+    "id": "town-amroha-kundan-nagar",
+    "type": "ward",
+    "name_en": "Kundan Nagar (Urban Ward / SO)",
+    "name_hi": "Kundan Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-amroha-main",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244245"
+    ]
+  },
+  {
+    "id": "town-amroha-rehra",
+    "type": "ward",
+    "name_en": "Rehra (Urban Ward / SO)",
+    "name_hi": "Rehra (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-amroha-main",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244255"
+    ]
+  },
+  {
+    "id": "town-amroha-ujhari",
+    "type": "ward",
+    "name_en": "Ujhari (Urban Ward / SO)",
+    "name_hi": "Ujhari (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-amroha-main",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244242"
+    ]
+  },
+  {
+    "id": "town-amroha-amroha-shahi-chabutra",
+    "type": "ward",
+    "name_en": "Amroha Shahi Chabutra (Urban Ward / SO)",
+    "name_hi": "Amroha Shahi Chabutra (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-amroha-main",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244221"
+    ]
+  },
+  {
+    "id": "town-amroha-bachhraon",
+    "type": "ward",
+    "name_en": "Bachhraon (Urban Ward / SO)",
+    "name_hi": "Bachhraon (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-amroha-main",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244225"
+    ]
+  },
+  {
+    "id": "town-amroha-dhanaura",
+    "type": "ward",
+    "name_en": "Dhanaura (Urban Ward / SO)",
+    "name_hi": "Dhanaura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-amroha-main",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244231"
+    ]
+  },
+  {
+    "id": "town-amroha-hasanpur-so-jyotiba-phule-nagar",
+    "type": "ward",
+    "name_en": "Hasanpur SO Jyotiba Phule Nagar (Urban Ward / SO)",
+    "name_hi": "Hasanpur SO Jyotiba Phule Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-amroha-main",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244241"
+    ]
+  },
+  {
+    "id": "town-amroha-m-b-hasanpur",
+    "type": "ward",
+    "name_en": "M B Hasanpur (Urban Ward / SO)",
+    "name_hi": "M B Hasanpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-amroha-main",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244241"
+    ]
+  },
+  {
+    "id": "town-amroha-nawgawan",
+    "type": "ward",
+    "name_en": "Nawgawan (Urban Ward / SO)",
+    "name_hi": "Nawgawan (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-amroha-main",
+    "tehsil_id": "amroha",
+    "district_id": "amroha",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "244251"
+    ]
+  }
+]

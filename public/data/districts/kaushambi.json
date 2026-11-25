@@ -22,9 +22,9 @@
       "covers": [
         "kaushambi"
       ],
-      "source_url": "https://kaushambi.nic.in/whos-who/",
+      "source_url": "https://kaushambi.nic.in/collectrate/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kaushambi-cdo",
@@ -47,7 +47,7 @@
       ],
       "source_url": "https://kaushambi.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kaushambi-dpro",
@@ -55,14 +55,29 @@
       "role": "dpro",
       "office_name_en": "District Panchayat Raj Officer (DPRO), Kaushambi",
       "office_name_hi": "जिला पंचायत राज अधिकारी, कौशाम्बी",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9838447411",
+          "type": "office",
+          "source_url": "https://kaushambi.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9359209373",
+          "type": "office",
+          "source_url": "https://kaushambi.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "dpro-ksb@nic.in",
       "covers": [
         "kaushambi"
       ],
-      "source_url": "https://kaushambi.nic.in/whos-who/",
+      "source_url": "https://kaushambi.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kaushambi-sdm-manjhanpur",
@@ -77,6 +92,13 @@
           "source_url": "https://kaushambi.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454417880",
+          "type": "office",
+          "source_url": "https://kaushambi.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdm.manjhanpur.ksb-up@gov.in",
@@ -85,7 +107,7 @@
       ],
       "source_url": "https://kaushambi.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kaushambi-sdm-chail",
@@ -100,6 +122,13 @@
           "source_url": "https://kaushambi.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454417879",
+          "type": "office",
+          "source_url": "https://kaushambi.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdm.chail.ksb-up@gov.in",
@@ -108,7 +137,7 @@
       ],
       "source_url": "https://kaushambi.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kaushambi-sdm-sirathu",
@@ -123,6 +152,13 @@
           "source_url": "https://kaushambi.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454417881",
+          "type": "office",
+          "source_url": "https://kaushambi.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdm.sirathu.ksb-up@gov.in",
@@ -131,7 +167,7 @@
       ],
       "source_url": "https://kaushambi.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kaushambi-bdo-manjhanpur",
@@ -160,7 +196,8 @@
       ],
       "source_url": "https://kaushambi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kaushambi-bdo-manjhanpur"
     },
     {
       "id": "up-kaushambi-bdo-sarsawan",
@@ -183,7 +220,7 @@
       ],
       "source_url": "https://kaushambi.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kaushambi-ado-sarsawan",
@@ -197,7 +234,8 @@
       ],
       "source_url": "https://kaushambi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kaushambi-bdo-sarsawan"
     },
     {
       "id": "up-kaushambi-bdo-kaushambi",
@@ -220,7 +258,7 @@
       ],
       "source_url": "https://kaushambi.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kaushambi-ado-kaushambi",
@@ -234,7 +272,8 @@
       ],
       "source_url": "https://kaushambi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kaushambi-bdo-kaushambi"
     },
     {
       "id": "up-kaushambi-bdo-chail",
@@ -257,7 +296,7 @@
       ],
       "source_url": "https://kaushambi.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kaushambi-ado-chail",
@@ -271,7 +310,8 @@
       ],
       "source_url": "https://kaushambi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kaushambi-bdo-chail"
     },
     {
       "id": "up-kaushambi-bdo-nevada",
@@ -300,7 +340,8 @@
       ],
       "source_url": "https://kaushambi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kaushambi-bdo-nevada"
     },
     {
       "id": "up-kaushambi-bdo-muratganj",
@@ -308,14 +349,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Muratganj",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Muratganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464580",
+          "type": "office",
+          "source_url": "https://kaushambi.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.muratganj.ksb@gmail.com",
       "covers": [
         "muratganj"
       ],
       "source_url": "https://kaushambi.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kaushambi-ado-muratganj",
@@ -329,7 +378,8 @@
       ],
       "source_url": "https://kaushambi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kaushambi-bdo-muratganj"
     },
     {
       "id": "up-kaushambi-bdo-sirathu",
@@ -352,7 +402,7 @@
       ],
       "source_url": "https://kaushambi.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kaushambi-ado-sirathu",
@@ -366,7 +416,8 @@
       ],
       "source_url": "https://kaushambi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kaushambi-bdo-sirathu"
     },
     {
       "id": "up-kaushambi-bdo-kara",
@@ -395,7 +446,8 @@
       ],
       "source_url": "https://kaushambi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kaushambi-bdo-kara"
     },
     {
       "id": "eo-kaushambi-main",

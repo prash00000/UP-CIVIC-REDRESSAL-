@@ -1,0 +1,4316 @@
+[
+  {
+    "id": "v-bijnor-mohammedpur-deomal",
+    "type": "village",
+    "name_en": "Mohammedpur Deomal Block (Gram Panchayats)",
+    "name_hi": "Mohammedpur Deomal विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bijnor-haldaur",
+    "type": "village",
+    "name_en": "Haldaur Block (Gram Panchayats)",
+    "name_hi": "Haldaur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-haldaur",
+    "block_id": "haldaur",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bijnor-kiratpur",
+    "type": "village",
+    "name_en": "Kiratpur Block (Gram Panchayats)",
+    "name_hi": "Kiratpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kiratpur",
+    "block_id": "kiratpur",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bijnor-kotwali",
+    "type": "village",
+    "name_en": "Kotwali Block (Gram Panchayats)",
+    "name_hi": "Kotwali विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kotwali",
+    "block_id": "kotwali",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bijnor-najibabad",
+    "type": "village",
+    "name_en": "Najibabad Block (Gram Panchayats)",
+    "name_hi": "Najibabad विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-najibabad",
+    "block_id": "najibabad",
+    "tehsil_id": "najibabad",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bijnor-nehtaur",
+    "type": "village",
+    "name_en": "Nehtaur Block (Gram Panchayats)",
+    "name_hi": "Nehtaur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-nehtaur",
+    "block_id": "nehtaur",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bijnor-dhampur",
+    "type": "village",
+    "name_en": "Dhampur Block (Gram Panchayats)",
+    "name_hi": "Dhampur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dhampur",
+    "block_id": "dhampur",
+    "tehsil_id": "dhampur",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bijnor-afzalgarh",
+    "type": "village",
+    "name_en": "Afzalgarh Block (Gram Panchayats)",
+    "name_hi": "Afzalgarh विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-afzalgarh",
+    "block_id": "afzalgarh",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bijnor-allahpur",
+    "type": "village",
+    "name_en": "Allahpur Block (Gram Panchayats)",
+    "name_hi": "Allahpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-allahpur",
+    "block_id": "allahpur",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bijnor-noorpur",
+    "type": "village",
+    "name_en": "Noorpur Block (Gram Panchayats)",
+    "name_hi": "Noorpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-noorpur",
+    "block_id": "noorpur",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-bijnor-jalilpur",
+    "type": "village",
+    "name_en": "Jalilpur Block (Gram Panchayats)",
+    "name_hi": "Jalilpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-jalilpur",
+    "block_id": "jalilpur",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-bijnor-mehamdabad",
+    "type": "village",
+    "name_en": "Mehamdabad (Gram Panchayat Area)",
+    "name_hi": "Mehamdabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246726"
+    ]
+  },
+  {
+    "id": "po-bijnor-nagal-jat",
+    "type": "village",
+    "name_en": "Nagal Jat (Gram Panchayat Area)",
+    "name_hi": "Nagal Jat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246726"
+    ]
+  },
+  {
+    "id": "po-bijnor-paijaniya",
+    "type": "village",
+    "name_en": "Paijaniya (Gram Panchayat Area)",
+    "name_hi": "Paijaniya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246726"
+    ]
+  },
+  {
+    "id": "po-bijnor-pawati",
+    "type": "village",
+    "name_en": "Pawati (Gram Panchayat Area)",
+    "name_hi": "Pawati (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246726"
+    ]
+  },
+  {
+    "id": "po-bijnor-dhokalpur",
+    "type": "village",
+    "name_en": "Dhokalpur (Gram Panchayat Area)",
+    "name_hi": "Dhokalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246728"
+    ]
+  },
+  {
+    "id": "po-bijnor-khari",
+    "type": "village",
+    "name_en": "Khari (Gram Panchayat Area)",
+    "name_hi": "Khari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246728"
+    ]
+  },
+  {
+    "id": "po-bijnor-nawada",
+    "type": "village",
+    "name_en": "Nawada (Gram Panchayat Area)",
+    "name_hi": "Nawada (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246728"
+    ]
+  },
+  {
+    "id": "po-bijnor-umri",
+    "type": "village",
+    "name_en": "Umri (Gram Panchayat Area)",
+    "name_hi": "Umri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246728"
+    ]
+  },
+  {
+    "id": "po-bijnor-bhojpur",
+    "type": "village",
+    "name_en": "Bhojpur (Gram Panchayat Area)",
+    "name_hi": "Bhojpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246731"
+    ]
+  },
+  {
+    "id": "po-bijnor-sisauna",
+    "type": "village",
+    "name_en": "Sisauna (Gram Panchayat Area)",
+    "name_hi": "Sisauna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246729"
+    ]
+  },
+  {
+    "id": "po-bijnor-amhera",
+    "type": "village",
+    "name_en": "Amhera (Gram Panchayat Area)",
+    "name_hi": "Amhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246726"
+    ]
+  },
+  {
+    "id": "po-bijnor-sherpur-kalyan",
+    "type": "village",
+    "name_en": "Sherpur Kalyan (Gram Panchayat Area)",
+    "name_hi": "Sherpur Kalyan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246726"
+    ]
+  },
+  {
+    "id": "po-bijnor-bahupura",
+    "type": "village",
+    "name_en": "Bahupura (Gram Panchayat Area)",
+    "name_hi": "Bahupura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246731"
+    ]
+  },
+  {
+    "id": "po-bijnor-barampur",
+    "type": "village",
+    "name_en": "Barampur (Gram Panchayat Area)",
+    "name_hi": "Barampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246731"
+    ]
+  },
+  {
+    "id": "po-bijnor-maseet",
+    "type": "village",
+    "name_en": "Maseet (Gram Panchayat Area)",
+    "name_hi": "Maseet (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246729"
+    ]
+  },
+  {
+    "id": "po-bijnor-bilai",
+    "type": "village",
+    "name_en": "Bilai (Gram Panchayat Area)",
+    "name_hi": "Bilai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246726"
+    ]
+  },
+  {
+    "id": "po-bijnor-kumharpura-urf-ibrahimpur",
+    "type": "village",
+    "name_en": "Kumharpura Urf Ibrahimpur (Gram Panchayat Area)",
+    "name_hi": "Kumharpura Urf Ibrahimpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246726"
+    ]
+  },
+  {
+    "id": "po-bijnor-dhanaura",
+    "type": "village",
+    "name_en": "Dhanaura (Gram Panchayat Area)",
+    "name_hi": "Dhanaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246728"
+    ]
+  },
+  {
+    "id": "po-bijnor-chitawar",
+    "type": "village",
+    "name_en": "Chitawar (Gram Panchayat Area)",
+    "name_hi": "Chitawar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246731"
+    ]
+  },
+  {
+    "id": "po-bijnor-gandhore",
+    "type": "village",
+    "name_en": "Gandhore (Gram Panchayat Area)",
+    "name_hi": "Gandhore (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-imliya",
+    "type": "village",
+    "name_en": "Imliya (Gram Panchayat Area)",
+    "name_hi": "Imliya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-roniya",
+    "type": "village",
+    "name_en": "Roniya (Gram Panchayat Area)",
+    "name_hi": "Roniya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-saindwar",
+    "type": "village",
+    "name_en": "Saindwar (Gram Panchayat Area)",
+    "name_hi": "Saindwar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-siau",
+    "type": "village",
+    "name_en": "Siau (Gram Panchayat Area)",
+    "name_hi": "Siau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-nayak-nagla",
+    "type": "village",
+    "name_en": "Nayak Nagla (Gram Panchayat Area)",
+    "name_hi": "Nayak Nagla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246729"
+    ]
+  },
+  {
+    "id": "po-bijnor-baldiya",
+    "type": "village",
+    "name_en": "Baldiya (Gram Panchayat Area)",
+    "name_hi": "Baldiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246726"
+    ]
+  },
+  {
+    "id": "po-bijnor-chanda-nagli",
+    "type": "village",
+    "name_en": "Chanda Nagli (Gram Panchayat Area)",
+    "name_hi": "Chanda Nagli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246726"
+    ]
+  },
+  {
+    "id": "po-bijnor-chowkpuri",
+    "type": "village",
+    "name_en": "Chowkpuri (Gram Panchayat Area)",
+    "name_hi": "Chowkpuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246728"
+    ]
+  },
+  {
+    "id": "po-bijnor-heempur-deepa",
+    "type": "village",
+    "name_en": "Heempur Deepa (Gram Panchayat Area)",
+    "name_hi": "Heempur Deepa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-jalilpur",
+    "type": "village",
+    "name_en": "Jalilpur (Gram Panchayat Area)",
+    "name_hi": "Jalilpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-jalilpur",
+    "block_id": "jalilpur",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-sudnipur-rawati",
+    "type": "village",
+    "name_en": "Sudnipur Rawati (Gram Panchayat Area)",
+    "name_hi": "Sudnipur Rawati (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-fazalpur-dhaki",
+    "type": "village",
+    "name_en": "Fazalpur Dhaki (Gram Panchayat Area)",
+    "name_hi": "Fazalpur Dhaki (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246729"
+    ]
+  },
+  {
+    "id": "po-bijnor-naya-gaon",
+    "type": "village",
+    "name_en": "Naya Gaon (Gram Panchayat Area)",
+    "name_hi": "Naya Gaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-gajraula-shiv",
+    "type": "village",
+    "name_en": "Gajraula Shiv (Gram Panchayat Area)",
+    "name_hi": "Gajraula Shiv (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-kharak-jeetpur",
+    "type": "village",
+    "name_en": "Kharak Jeetpur (Gram Panchayat Area)",
+    "name_hi": "Kharak Jeetpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-agri",
+    "type": "village",
+    "name_en": "Agri (Gram Panchayat Area)",
+    "name_hi": "Agri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-sabdalpur-rehra",
+    "type": "village",
+    "name_en": "Sabdalpur Rehra (Gram Panchayat Area)",
+    "name_hi": "Sabdalpur Rehra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-daranagar-ganj",
+    "type": "village",
+    "name_en": "Daranagar Ganj (Gram Panchayat Area)",
+    "name_hi": "Daranagar Ganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-dharm-nagri",
+    "type": "village",
+    "name_en": "Dharm Nagri (Gram Panchayat Area)",
+    "name_hi": "Dharm Nagri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-mo-pur-mandawali",
+    "type": "village",
+    "name_en": "Mo Pur Mandawali (Gram Panchayat Area)",
+    "name_hi": "Mo Pur Mandawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-akondha",
+    "type": "village",
+    "name_en": "Akondha (Gram Panchayat Area)",
+    "name_hi": "Akondha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246736"
+    ]
+  },
+  {
+    "id": "po-bijnor-basantpur",
+    "type": "village",
+    "name_en": "Basantpur (Gram Panchayat Area)",
+    "name_hi": "Basantpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246736"
+    ]
+  },
+  {
+    "id": "po-bijnor-darbara",
+    "type": "village",
+    "name_en": "Darbara (Gram Panchayat Area)",
+    "name_hi": "Darbara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-datiyana",
+    "type": "village",
+    "name_en": "Datiyana (Gram Panchayat Area)",
+    "name_hi": "Datiyana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-shadipur",
+    "type": "village",
+    "name_en": "Shadipur (Gram Panchayat Area)",
+    "name_hi": "Shadipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246764"
+    ]
+  },
+  {
+    "id": "po-bijnor-bahadarpur-sherfuddin",
+    "type": "village",
+    "name_en": "Bahadarpur Sherfuddin (Gram Panchayat Area)",
+    "name_hi": "Bahadarpur Sherfuddin (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246721"
+    ]
+  },
+  {
+    "id": "po-bijnor-budgara",
+    "type": "village",
+    "name_en": "Budgara (Gram Panchayat Area)",
+    "name_hi": "Budgara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246721"
+    ]
+  },
+  {
+    "id": "po-bijnor-chandok-rs",
+    "type": "village",
+    "name_en": "Chandok RS (Gram Panchayat Area)",
+    "name_hi": "Chandok RS (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246721"
+    ]
+  },
+  {
+    "id": "po-bijnor-raipur-berisal",
+    "type": "village",
+    "name_en": "Raipur Berisal (Gram Panchayat Area)",
+    "name_hi": "Raipur Berisal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246721"
+    ]
+  },
+  {
+    "id": "po-bijnor-rawli",
+    "type": "village",
+    "name_en": "Rawli (Gram Panchayat Area)",
+    "name_hi": "Rawli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246721"
+    ]
+  },
+  {
+    "id": "po-bijnor-sabalpur-bitra",
+    "type": "village",
+    "name_en": "Sabalpur Bitra (Gram Panchayat Area)",
+    "name_hi": "Sabalpur Bitra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246732"
+    ]
+  },
+  {
+    "id": "po-bijnor-jogirampuri",
+    "type": "village",
+    "name_en": "Jogirampuri (Gram Panchayat Area)",
+    "name_hi": "Jogirampuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-kishanpur-aanwla",
+    "type": "village",
+    "name_en": "Kishanpur Aanwla (Gram Panchayat Area)",
+    "name_hi": "Kishanpur Aanwla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-bhaguwala",
+    "type": "village",
+    "name_en": "Bhaguwala (Gram Panchayat Area)",
+    "name_hi": "Bhaguwala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246749"
+    ]
+  },
+  {
+    "id": "po-bijnor-padli-basera",
+    "type": "village",
+    "name_en": "Padli Basera (Gram Panchayat Area)",
+    "name_hi": "Padli Basera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-bhatiyana-khushalpur",
+    "type": "village",
+    "name_en": "Bhatiyana Khushalpur (Gram Panchayat Area)",
+    "name_hi": "Bhatiyana Khushalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-mankuaa",
+    "type": "village",
+    "name_en": "Mankuaa (Gram Panchayat Area)",
+    "name_hi": "Mankuaa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-sarkara-chakrajmal",
+    "type": "village",
+    "name_en": "Sarkara Chakrajmal (Gram Panchayat Area)",
+    "name_hi": "Sarkara Chakrajmal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-dhakka-karamchand",
+    "type": "village",
+    "name_en": "Dhakka Karamchand (Gram Panchayat Area)",
+    "name_hi": "Dhakka Karamchand (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-gordhanpur",
+    "type": "village",
+    "name_en": "Gordhanpur (Gram Panchayat Area)",
+    "name_hi": "Gordhanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246722"
+    ]
+  },
+  {
+    "id": "po-bijnor-hidayatpur",
+    "type": "village",
+    "name_en": "Hidayatpur (Gram Panchayat Area)",
+    "name_hi": "Hidayatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246722"
+    ]
+  },
+  {
+    "id": "po-bijnor-kalluwala",
+    "type": "village",
+    "name_en": "Kalluwala (Gram Panchayat Area)",
+    "name_hi": "Kalluwala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246722"
+    ]
+  },
+  {
+    "id": "po-bijnor-kasampur-garhi",
+    "type": "village",
+    "name_en": "Kasampur Garhi (Gram Panchayat Area)",
+    "name_hi": "Kasampur Garhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246722"
+    ]
+  },
+  {
+    "id": "po-bijnor-sirwasuchand",
+    "type": "village",
+    "name_en": "Sirwasuchand (Gram Panchayat Area)",
+    "name_hi": "Sirwasuchand (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246722"
+    ]
+  },
+  {
+    "id": "po-bijnor-shahpur-kheri",
+    "type": "village",
+    "name_en": "Shahpur Kheri (Gram Panchayat Area)",
+    "name_hi": "Shahpur Kheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246727"
+    ]
+  },
+  {
+    "id": "po-bijnor-bhagwanpur",
+    "type": "village",
+    "name_en": "Bhagwanpur (Gram Panchayat Area)",
+    "name_hi": "Bhagwanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "po-bijnor-haijarpur",
+    "type": "village",
+    "name_en": "Haijarpur (Gram Panchayat Area)",
+    "name_hi": "Haijarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "po-bijnor-harbanspur-dharam",
+    "type": "village",
+    "name_en": "Harbanspur Dharam (Gram Panchayat Area)",
+    "name_hi": "Harbanspur Dharam (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "po-bijnor-jeetpur-paldi",
+    "type": "village",
+    "name_en": "Jeetpur Paldi (Gram Panchayat Area)",
+    "name_hi": "Jeetpur Paldi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "po-bijnor-majhera-shakroo",
+    "type": "village",
+    "name_en": "Majhera Shakroo (Gram Panchayat Area)",
+    "name_hi": "Majhera Shakroo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "po-bijnor-manawwarpur-said",
+    "type": "village",
+    "name_en": "Manawwarpur  Said (Gram Panchayat Area)",
+    "name_hi": "Manawwarpur  Said (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "po-bijnor-medpura-sultan",
+    "type": "village",
+    "name_en": "Medpura Sultan (Gram Panchayat Area)",
+    "name_hi": "Medpura Sultan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "po-bijnor-saidpuri-mahichand",
+    "type": "village",
+    "name_en": "Saidpuri Mahichand (Gram Panchayat Area)",
+    "name_hi": "Saidpuri Mahichand (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "po-bijnor-akhera",
+    "type": "village",
+    "name_en": "Akhera (Gram Panchayat Area)",
+    "name_hi": "Akhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-alhedalpur-mubarak",
+    "type": "village",
+    "name_en": "Alhedalpur Mubarak (Gram Panchayat Area)",
+    "name_hi": "Alhedalpur Mubarak (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-bairmabad-garhi",
+    "type": "village",
+    "name_en": "Bairmabad  Garhi (Gram Panchayat Area)",
+    "name_hi": "Bairmabad  Garhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-sedha",
+    "type": "village",
+    "name_en": "Sedha (Gram Panchayat Area)",
+    "name_hi": "Sedha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-sherpur-balla",
+    "type": "village",
+    "name_en": "Sherpur Balla (Gram Panchayat Area)",
+    "name_hi": "Sherpur Balla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-sikri-buzurg",
+    "type": "village",
+    "name_en": "Sikri Buzurg (Gram Panchayat Area)",
+    "name_hi": "Sikri Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-aheerpura",
+    "type": "village",
+    "name_en": "Aheerpura (Gram Panchayat Area)",
+    "name_hi": "Aheerpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246734"
+    ]
+  },
+  {
+    "id": "po-bijnor-allauddinpur",
+    "type": "village",
+    "name_en": "Allauddinpur (Gram Panchayat Area)",
+    "name_hi": "Allauddinpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246734"
+    ]
+  },
+  {
+    "id": "po-bijnor-azampur",
+    "type": "village",
+    "name_en": "Azampur (Gram Panchayat Area)",
+    "name_hi": "Azampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246734"
+    ]
+  },
+  {
+    "id": "po-bijnor-shadipur-milak",
+    "type": "village",
+    "name_en": "Shadipur Milak (Gram Panchayat Area)",
+    "name_hi": "Shadipur Milak (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246734"
+    ]
+  },
+  {
+    "id": "po-bijnor-mehmoodpur",
+    "type": "village",
+    "name_en": "Mehmoodpur (Gram Panchayat Area)",
+    "name_hi": "Mehmoodpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246745"
+    ]
+  },
+  {
+    "id": "po-bijnor-allhapurmohkam",
+    "type": "village",
+    "name_en": "Allhapurmohkam (Gram Panchayat Area)",
+    "name_hi": "Allhapurmohkam (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246747"
+    ]
+  },
+  {
+    "id": "po-bijnor-bhanauti",
+    "type": "village",
+    "name_en": "Bhanauti (Gram Panchayat Area)",
+    "name_hi": "Bhanauti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246747"
+    ]
+  },
+  {
+    "id": "po-bijnor-hafizabad",
+    "type": "village",
+    "name_en": "Hafizabad (Gram Panchayat Area)",
+    "name_hi": "Hafizabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246747"
+    ]
+  },
+  {
+    "id": "po-bijnor-haraivli",
+    "type": "village",
+    "name_en": "Haraivli (Gram Panchayat Area)",
+    "name_hi": "Haraivli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246747"
+    ]
+  },
+  {
+    "id": "po-bijnor-hussainpur",
+    "type": "village",
+    "name_en": "Hussainpur (Gram Panchayat Area)",
+    "name_hi": "Hussainpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246731"
+    ]
+  },
+  {
+    "id": "po-bijnor-mauzzampur-narayan",
+    "type": "village",
+    "name_en": "Mauzzampur Narayan (Gram Panchayat Area)",
+    "name_hi": "Mauzzampur Narayan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246731"
+    ]
+  },
+  {
+    "id": "po-bijnor-meman-bhanera",
+    "type": "village",
+    "name_en": "Meman Bhanera (Gram Panchayat Area)",
+    "name_hi": "Meman Bhanera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246731"
+    ]
+  },
+  {
+    "id": "po-bijnor-rajapur-sadat",
+    "type": "village",
+    "name_en": "Rajapur Sadat (Gram Panchayat Area)",
+    "name_hi": "Rajapur Sadat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246764"
+    ]
+  },
+  {
+    "id": "po-bijnor-qadrabad",
+    "type": "village",
+    "name_en": "Qadrabad (Gram Panchayat Area)",
+    "name_hi": "Qadrabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246722"
+    ]
+  },
+  {
+    "id": "po-bijnor-mohdpur-devmal",
+    "type": "village",
+    "name_en": "MohdPur Devmal (Gram Panchayat Area)",
+    "name_hi": "MohdPur Devmal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246721"
+    ]
+  },
+  {
+    "id": "po-bijnor-mohiddinpur",
+    "type": "village",
+    "name_en": "Mohiddinpur (Gram Panchayat Area)",
+    "name_hi": "Mohiddinpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246721"
+    ]
+  },
+  {
+    "id": "po-bijnor-narayanpur",
+    "type": "village",
+    "name_en": "Narayanpur (Gram Panchayat Area)",
+    "name_hi": "Narayanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246721"
+    ]
+  },
+  {
+    "id": "po-bijnor-chandanpura",
+    "type": "village",
+    "name_en": "Chandanpura (Gram Panchayat Area)",
+    "name_hi": "Chandanpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-dhansini",
+    "type": "village",
+    "name_en": "Dhansini (Gram Panchayat Area)",
+    "name_hi": "Dhansini (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-fazalpur",
+    "type": "village",
+    "name_en": "Fazalpur (Gram Panchayat Area)",
+    "name_hi": "Fazalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-jalalabad-bijnor",
+    "type": "village",
+    "name_en": "Jalalabad Bijnor (Gram Panchayat Area)",
+    "name_hi": "Jalalabad Bijnor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-jhakaki",
+    "type": "village",
+    "name_en": "Jhakaki (Gram Panchayat Area)",
+    "name_hi": "Jhakaki (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-kotkader",
+    "type": "village",
+    "name_en": "Kotkader (Gram Panchayat Area)",
+    "name_hi": "Kotkader (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-lal-dhang",
+    "type": "village",
+    "name_en": "Lal Dhang (Gram Panchayat Area)",
+    "name_hi": "Lal Dhang (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-mahawatpur-billoch",
+    "type": "village",
+    "name_en": "Mahawatpur Billoch (Gram Panchayat Area)",
+    "name_hi": "Mahawatpur Billoch (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-talipada",
+    "type": "village",
+    "name_en": "Talipada (Gram Panchayat Area)",
+    "name_hi": "Talipada (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-manpurshivpuri",
+    "type": "village",
+    "name_en": "Manpurshivpuri (Gram Panchayat Area)",
+    "name_hi": "Manpurshivpuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-saddobair",
+    "type": "village",
+    "name_en": "Saddobair (Gram Panchayat Area)",
+    "name_hi": "Saddobair (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-tibri",
+    "type": "village",
+    "name_en": "Tibri (Gram Panchayat Area)",
+    "name_hi": "Tibri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-athai-sheikh",
+    "type": "village",
+    "name_en": "Athai Sheikh (Gram Panchayat Area)",
+    "name_hi": "Athai Sheikh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-morna",
+    "type": "village",
+    "name_en": "Morna (Gram Panchayat Area)",
+    "name_hi": "Morna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-aasfabad-chaman",
+    "type": "village",
+    "name_en": "Aasfabad Chaman (Gram Panchayat Area)",
+    "name_hi": "Aasfabad Chaman (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246722"
+    ]
+  },
+  {
+    "id": "po-bijnor-alampur-ganvri",
+    "type": "village",
+    "name_en": "Alampur Ganvri (Gram Panchayat Area)",
+    "name_hi": "Alampur Ganvri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246722"
+    ]
+  },
+  {
+    "id": "po-bijnor-bheekhawala",
+    "type": "village",
+    "name_en": "Bheekhawala (Gram Panchayat Area)",
+    "name_hi": "Bheekhawala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246722"
+    ]
+  },
+  {
+    "id": "po-bijnor-udaipur",
+    "type": "village",
+    "name_en": "Udaipur (Gram Panchayat Area)",
+    "name_hi": "Udaipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246722"
+    ]
+  },
+  {
+    "id": "po-bijnor-asgaripur",
+    "type": "village",
+    "name_en": "Asgaripur (Gram Panchayat Area)",
+    "name_hi": "Asgaripur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246727"
+    ]
+  },
+  {
+    "id": "po-bijnor-bishanpur",
+    "type": "village",
+    "name_en": "Bishanpur (Gram Panchayat Area)",
+    "name_hi": "Bishanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246727"
+    ]
+  },
+  {
+    "id": "po-bijnor-manjhola-billoch",
+    "type": "village",
+    "name_en": "Manjhola Billoch (Gram Panchayat Area)",
+    "name_hi": "Manjhola Billoch (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246727"
+    ]
+  },
+  {
+    "id": "po-bijnor-nagli-pathwari",
+    "type": "village",
+    "name_en": "Nagli Pathwari (Gram Panchayat Area)",
+    "name_hi": "Nagli Pathwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246727"
+    ]
+  },
+  {
+    "id": "po-bijnor-islamabad",
+    "type": "village",
+    "name_en": "Islamabad (Gram Panchayat Area)",
+    "name_hi": "Islamabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "po-bijnor-milak-mukeempur",
+    "type": "village",
+    "name_en": "Milak Mukeempur (Gram Panchayat Area)",
+    "name_hi": "Milak Mukeempur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-mohammedpur-kamil",
+    "type": "village",
+    "name_en": "Mohammedpur Kamil (Gram Panchayat Area)",
+    "name_hi": "Mohammedpur Kamil (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-nakibpur-khajoori",
+    "type": "village",
+    "name_en": "Nakibpur Khajoori (Gram Panchayat Area)",
+    "name_hi": "Nakibpur Khajoori (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-narayan-kheri",
+    "type": "village",
+    "name_en": "Narayan Kheri (Gram Panchayat Area)",
+    "name_hi": "Narayan Kheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-khaspura",
+    "type": "village",
+    "name_en": "Khaspura (Gram Panchayat Area)",
+    "name_hi": "Khaspura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246734"
+    ]
+  },
+  {
+    "id": "po-bijnor-shiwala-kalan",
+    "type": "village",
+    "name_en": "Shiwala Kalan (Gram Panchayat Area)",
+    "name_hi": "Shiwala Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246734"
+    ]
+  },
+  {
+    "id": "po-bijnor-sabdalpur",
+    "type": "village",
+    "name_en": "Sabdalpur (Gram Panchayat Area)",
+    "name_hi": "Sabdalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246735"
+    ]
+  },
+  {
+    "id": "po-bijnor-haldua-mafi",
+    "type": "village",
+    "name_en": "Haldua Mafi (Gram Panchayat Area)",
+    "name_hi": "Haldua Mafi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246745"
+    ]
+  },
+  {
+    "id": "po-bijnor-kiwar",
+    "type": "village",
+    "name_en": "Kiwar (Gram Panchayat Area)",
+    "name_hi": "Kiwar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246745"
+    ]
+  },
+  {
+    "id": "po-bijnor-maqsoodpur",
+    "type": "village",
+    "name_en": "Maqsoodpur (Gram Panchayat Area)",
+    "name_hi": "Maqsoodpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246745"
+    ]
+  },
+  {
+    "id": "po-bijnor-daultabad",
+    "type": "village",
+    "name_en": "Daultabad (Gram Panchayat Area)",
+    "name_hi": "Daultabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246746"
+    ]
+  },
+  {
+    "id": "po-bijnor-shahnagar-kurali",
+    "type": "village",
+    "name_en": "Shahnagar Kurali (Gram Panchayat Area)",
+    "name_hi": "Shahnagar Kurali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246747"
+    ]
+  },
+  {
+    "id": "po-bijnor-shahzadpur",
+    "type": "village",
+    "name_en": "Shahzadpur (Gram Panchayat Area)",
+    "name_hi": "Shahzadpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246747"
+    ]
+  },
+  {
+    "id": "po-bijnor-suawala",
+    "type": "village",
+    "name_en": "Suawala (Gram Panchayat Area)",
+    "name_hi": "Suawala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246747"
+    ]
+  },
+  {
+    "id": "po-bijnor-kumhera",
+    "type": "village",
+    "name_en": "Kumhera (Gram Panchayat Area)",
+    "name_hi": "Kumhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246731"
+    ]
+  },
+  {
+    "id": "po-bijnor-padla",
+    "type": "village",
+    "name_en": "Padla (Gram Panchayat Area)",
+    "name_hi": "Padla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246731"
+    ]
+  },
+  {
+    "id": "po-bijnor-baibalpur",
+    "type": "village",
+    "name_en": "Baibalpur (Gram Panchayat Area)",
+    "name_hi": "Baibalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246764"
+    ]
+  },
+  {
+    "id": "po-bijnor-jhilmila",
+    "type": "village",
+    "name_en": "Jhilmila (Gram Panchayat Area)",
+    "name_hi": "Jhilmila (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246764"
+    ]
+  },
+  {
+    "id": "po-bijnor-lakhuwala",
+    "type": "village",
+    "name_en": "Lakhuwala (Gram Panchayat Area)",
+    "name_hi": "Lakhuwala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246764"
+    ]
+  },
+  {
+    "id": "po-bijnor-mirzapur-mahesh-urf-bankpur",
+    "type": "village",
+    "name_en": "Mirzapur Mahesh Urf Bankpur (Gram Panchayat Area)",
+    "name_hi": "Mirzapur Mahesh Urf Bankpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246764"
+    ]
+  },
+  {
+    "id": "po-bijnor-khanpur-madho",
+    "type": "village",
+    "name_en": "Khanpur Madho (Gram Panchayat Area)",
+    "name_hi": "Khanpur Madho (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246721"
+    ]
+  },
+  {
+    "id": "po-bijnor-jalpur",
+    "type": "village",
+    "name_en": "Jalpur (Gram Panchayat Area)",
+    "name_hi": "Jalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246732"
+    ]
+  },
+  {
+    "id": "po-bijnor-gaindi-khata",
+    "type": "village",
+    "name_en": "Gaindi Khata (Gram Panchayat Area)",
+    "name_hi": "Gaindi Khata (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-jahanabad-khobda",
+    "type": "village",
+    "name_en": "Jahanabad Khobda (Gram Panchayat Area)",
+    "name_hi": "Jahanabad Khobda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-mithi-beri",
+    "type": "village",
+    "name_en": "Mithi Beri (Gram Panchayat Area)",
+    "name_hi": "Mithi Beri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-raipur-sadat",
+    "type": "village",
+    "name_en": "Raipur Sadat (Gram Panchayat Area)",
+    "name_hi": "Raipur Sadat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-tanda-maidas",
+    "type": "village",
+    "name_en": "Tanda Maidas (Gram Panchayat Area)",
+    "name_hi": "Tanda Maidas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-bijauri",
+    "type": "village",
+    "name_en": "Bijauri (Gram Panchayat Area)",
+    "name_hi": "Bijauri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246749"
+    ]
+  },
+  {
+    "id": "po-bijnor-mandawali",
+    "type": "village",
+    "name_en": "Mandawali (Gram Panchayat Area)",
+    "name_hi": "Mandawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246749"
+    ]
+  },
+  {
+    "id": "po-bijnor-bakshanpur",
+    "type": "village",
+    "name_en": "Bakshanpur (Gram Panchayat Area)",
+    "name_hi": "Bakshanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-habibwala",
+    "type": "village",
+    "name_en": "Habibwala (Gram Panchayat Area)",
+    "name_hi": "Habibwala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-amkhera-sanjarpur",
+    "type": "village",
+    "name_en": "Amkhera  Sanjarpur (Gram Panchayat Area)",
+    "name_hi": "Amkhera  Sanjarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-heempur-buzurg",
+    "type": "village",
+    "name_en": "Heempur Buzurg (Gram Panchayat Area)",
+    "name_hi": "Heempur Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-ismailpur",
+    "type": "village",
+    "name_en": "Ismailpur (Gram Panchayat Area)",
+    "name_hi": "Ismailpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-mirzapur-khader",
+    "type": "village",
+    "name_en": "Mirzapur Khader (Gram Panchayat Area)",
+    "name_hi": "Mirzapur Khader (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-pipli-jat",
+    "type": "village",
+    "name_en": "Pipli Jat (Gram Panchayat Area)",
+    "name_hi": "Pipli Jat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-singha",
+    "type": "village",
+    "name_en": "Singha (Gram Panchayat Area)",
+    "name_hi": "Singha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-baberpur",
+    "type": "village",
+    "name_en": "Baberpur (Gram Panchayat Area)",
+    "name_hi": "Baberpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246729"
+    ]
+  },
+  {
+    "id": "po-bijnor-gangu-nagla",
+    "type": "village",
+    "name_en": "Gangu Nagla (Gram Panchayat Area)",
+    "name_hi": "Gangu Nagla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246729"
+    ]
+  },
+  {
+    "id": "po-bijnor-nasiri",
+    "type": "village",
+    "name_en": "Nasiri (Gram Panchayat Area)",
+    "name_hi": "Nasiri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-uledha",
+    "type": "village",
+    "name_en": "Uledha (Gram Panchayat Area)",
+    "name_hi": "Uledha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-qaziwala",
+    "type": "village",
+    "name_en": "Qaziwala (Gram Panchayat Area)",
+    "name_hi": "Qaziwala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-bakherpur-garhi",
+    "type": "village",
+    "name_en": "Bakherpur Garhi (Gram Panchayat Area)",
+    "name_hi": "Bakherpur Garhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-fatehpur-kalan",
+    "type": "village",
+    "name_en": "Fatehpur Kalan (Gram Panchayat Area)",
+    "name_hi": "Fatehpur Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-bharaira",
+    "type": "village",
+    "name_en": "Bharaira (Gram Panchayat Area)",
+    "name_hi": "Bharaira (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-suwheri",
+    "type": "village",
+    "name_en": "Suwheri (Gram Panchayat Area)",
+    "name_hi": "Suwheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-prathvipur",
+    "type": "village",
+    "name_en": "Prathvipur (Gram Panchayat Area)",
+    "name_hi": "Prathvipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-rasoolpur-nagla",
+    "type": "village",
+    "name_en": "Rasoolpur Nagla (Gram Panchayat Area)",
+    "name_hi": "Rasoolpur Nagla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246736"
+    ]
+  },
+  {
+    "id": "po-bijnor-ajdev-khanpur",
+    "type": "village",
+    "name_en": "Ajdev Khanpur (Gram Panchayat Area)",
+    "name_hi": "Ajdev Khanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-bahmanshora",
+    "type": "village",
+    "name_en": "Bahmanshora (Gram Panchayat Area)",
+    "name_hi": "Bahmanshora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-faridpur-bhogi",
+    "type": "village",
+    "name_en": "Faridpur Bhogi (Gram Panchayat Area)",
+    "name_hi": "Faridpur Bhogi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-sardhani",
+    "type": "village",
+    "name_en": "Sardhani (Gram Panchayat Area)",
+    "name_hi": "Sardhani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-mangolpura-roopchand",
+    "type": "village",
+    "name_en": "Mangolpura Roopchand (Gram Panchayat Area)",
+    "name_hi": "Mangolpura Roopchand (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-vidur-kuti",
+    "type": "village",
+    "name_en": "Vidur Kuti (Gram Panchayat Area)",
+    "name_hi": "Vidur Kuti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-saidabad",
+    "type": "village",
+    "name_en": "SaidaBad (Gram Panchayat Area)",
+    "name_hi": "SaidaBad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "po-bijnor-khirni-barkatpur",
+    "type": "village",
+    "name_en": "Khirni Barkatpur (Gram Panchayat Area)",
+    "name_hi": "Khirni Barkatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246723"
+    ]
+  },
+  {
+    "id": "po-bijnor-tisotra",
+    "type": "village",
+    "name_en": "Tisotra (Gram Panchayat Area)",
+    "name_hi": "Tisotra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246723"
+    ]
+  },
+  {
+    "id": "po-bijnor-bakaina",
+    "type": "village",
+    "name_en": "Bakaina (Gram Panchayat Area)",
+    "name_hi": "Bakaina (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246736"
+    ]
+  },
+  {
+    "id": "po-bijnor-aurangabad-urf-sikanderpur",
+    "type": "village",
+    "name_en": "Aurangabad Urf Sikanderpur (Gram Panchayat Area)",
+    "name_hi": "Aurangabad Urf Sikanderpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-bagarpur",
+    "type": "village",
+    "name_en": "Bagarpur (Gram Panchayat Area)",
+    "name_hi": "Bagarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "po-bijnor-doodhli",
+    "type": "village",
+    "name_en": "Doodhli (Gram Panchayat Area)",
+    "name_hi": "Doodhli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246731"
+    ]
+  },
+  {
+    "id": "po-bijnor-rampur-bishna",
+    "type": "village",
+    "name_en": "Rampur Bishna (Gram Panchayat Area)",
+    "name_hi": "Rampur Bishna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246731"
+    ]
+  },
+  {
+    "id": "po-bijnor-akbarabad",
+    "type": "village",
+    "name_en": "Akbarabad (Gram Panchayat Area)",
+    "name_hi": "Akbarabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246764"
+    ]
+  },
+  {
+    "id": "po-bijnor-barooki",
+    "type": "village",
+    "name_en": "Barooki (Gram Panchayat Area)",
+    "name_hi": "Barooki (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246764"
+    ]
+  },
+  {
+    "id": "po-bijnor-maheswari-jat",
+    "type": "village",
+    "name_en": "Maheswari Jat (Gram Panchayat Area)",
+    "name_hi": "Maheswari Jat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246764"
+    ]
+  },
+  {
+    "id": "po-bijnor-sunpata",
+    "type": "village",
+    "name_en": "Sunpata (Gram Panchayat Area)",
+    "name_hi": "Sunpata (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246764"
+    ]
+  },
+  {
+    "id": "po-bijnor-ganjalpur",
+    "type": "village",
+    "name_en": "Ganjalpur (Gram Panchayat Area)",
+    "name_hi": "Ganjalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246721"
+    ]
+  },
+  {
+    "id": "po-bijnor-maheswari-nagla",
+    "type": "village",
+    "name_en": "Maheswari Nagla (Gram Panchayat Area)",
+    "name_hi": "Maheswari Nagla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246721"
+    ]
+  },
+  {
+    "id": "po-bijnor-rajpur-nawada",
+    "type": "village",
+    "name_en": "Rajpur Nawada (Gram Panchayat Area)",
+    "name_hi": "Rajpur Nawada (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246732"
+    ]
+  },
+  {
+    "id": "po-bijnor-sofatpur",
+    "type": "village",
+    "name_en": "Sofatpur (Gram Panchayat Area)",
+    "name_hi": "Sofatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246732"
+    ]
+  },
+  {
+    "id": "po-bijnor-gajraula-paimar",
+    "type": "village",
+    "name_en": "Gajraula Paimar (Gram Panchayat Area)",
+    "name_hi": "Gajraula Paimar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-guniapur",
+    "type": "village",
+    "name_en": "Guniapur (Gram Panchayat Area)",
+    "name_hi": "Guniapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-sikanderpur-basi",
+    "type": "village",
+    "name_en": "Sikanderpur Basi (Gram Panchayat Area)",
+    "name_hi": "Sikanderpur Basi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "po-bijnor-jatpura-bonda",
+    "type": "village",
+    "name_en": "Jatpura Bonda (Gram Panchayat Area)",
+    "name_hi": "Jatpura Bonda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246749"
+    ]
+  },
+  {
+    "id": "po-bijnor-mohanpur",
+    "type": "village",
+    "name_en": "Mohanpur (Gram Panchayat Area)",
+    "name_hi": "Mohanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246749"
+    ]
+  },
+  {
+    "id": "po-bijnor-milak-puranpur",
+    "type": "village",
+    "name_en": "Milak Puranpur (Gram Panchayat Area)",
+    "name_hi": "Milak Puranpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-mauri-kedarpur",
+    "type": "village",
+    "name_en": "Mauri Kedarpur (Gram Panchayat Area)",
+    "name_hi": "Mauri Kedarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-nasirpur-banwari",
+    "type": "village",
+    "name_en": "Nasirpur Banwari (Gram Panchayat Area)",
+    "name_hi": "Nasirpur Banwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-neendru",
+    "type": "village",
+    "name_en": "Neendru (Gram Panchayat Area)",
+    "name_hi": "Neendru (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-sarkathal-sahni",
+    "type": "village",
+    "name_en": "Sarkathal Sahni (Gram Panchayat Area)",
+    "name_hi": "Sarkathal Sahni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-anwarpur-chandka",
+    "type": "village",
+    "name_en": "Anwarpur Chandka (Gram Panchayat Area)",
+    "name_hi": "Anwarpur Chandka (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246722"
+    ]
+  },
+  {
+    "id": "po-bijnor-jamanwala",
+    "type": "village",
+    "name_en": "Jamanwala (Gram Panchayat Area)",
+    "name_hi": "Jamanwala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246722"
+    ]
+  },
+  {
+    "id": "po-bijnor-maniyawala",
+    "type": "village",
+    "name_en": "Maniyawala (Gram Panchayat Area)",
+    "name_hi": "Maniyawala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246722"
+    ]
+  },
+  {
+    "id": "po-bijnor-rehar",
+    "type": "village",
+    "name_en": "Rehar (Gram Panchayat Area)",
+    "name_hi": "Rehar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246722"
+    ]
+  },
+  {
+    "id": "po-bijnor-barkhera",
+    "type": "village",
+    "name_en": "Barkhera (Gram Panchayat Area)",
+    "name_hi": "Barkhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246724"
+    ]
+  },
+  {
+    "id": "po-bijnor-lodhipur-milak",
+    "type": "village",
+    "name_en": "Lodhipur Milak (Gram Panchayat Area)",
+    "name_hi": "Lodhipur Milak (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246727"
+    ]
+  },
+  {
+    "id": "po-bijnor-alladinpur-bhogi",
+    "type": "village",
+    "name_en": "Alladinpur  Bhogi (Gram Panchayat Area)",
+    "name_hi": "Alladinpur  Bhogi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "po-bijnor-bhogli",
+    "type": "village",
+    "name_en": "Bhogli (Gram Panchayat Area)",
+    "name_hi": "Bhogli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "po-bijnor-harganpur",
+    "type": "village",
+    "name_en": "Harganpur (Gram Panchayat Area)",
+    "name_hi": "Harganpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "po-bijnor-nainpura",
+    "type": "village",
+    "name_en": "Nainpura (Gram Panchayat Area)",
+    "name_hi": "Nainpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "po-bijnor-harganpur-sajauli",
+    "type": "village",
+    "name_en": "Harganpur Sajauli (Gram Panchayat Area)",
+    "name_hi": "Harganpur Sajauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-meharlipur",
+    "type": "village",
+    "name_en": "Meharlipur (Gram Panchayat Area)",
+    "name_hi": "Meharlipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-phoolsanda",
+    "type": "village",
+    "name_en": "Phoolsanda (Gram Panchayat Area)",
+    "name_hi": "Phoolsanda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-rustampur-sherpali-jat",
+    "type": "village",
+    "name_en": "Rustampur Sherpali Jat (Gram Panchayat Area)",
+    "name_hi": "Rustampur Sherpali Jat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-taharpur-said",
+    "type": "village",
+    "name_en": "Taharpur Said (Gram Panchayat Area)",
+    "name_hi": "Taharpur Said (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-bakhrabad-urf-khatai",
+    "type": "village",
+    "name_en": "Bakhrabad  Urf Khatai (Gram Panchayat Area)",
+    "name_hi": "Bakhrabad  Urf Khatai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246734"
+    ]
+  },
+  {
+    "id": "po-bijnor-dharupur",
+    "type": "village",
+    "name_en": "Dharupur (Gram Panchayat Area)",
+    "name_hi": "Dharupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246734"
+    ]
+  },
+  {
+    "id": "po-bijnor-murhat",
+    "type": "village",
+    "name_en": "Murhat (Gram Panchayat Area)",
+    "name_hi": "Murhat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246734"
+    ]
+  },
+  {
+    "id": "po-bijnor-mustafabad",
+    "type": "village",
+    "name_en": "Mustafabad (Gram Panchayat Area)",
+    "name_hi": "Mustafabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246734"
+    ]
+  },
+  {
+    "id": "po-bijnor-ratagarh",
+    "type": "village",
+    "name_en": "Ratagarh (Gram Panchayat Area)",
+    "name_hi": "Ratagarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246734"
+    ]
+  },
+  {
+    "id": "po-bijnor-jamalpur-kirat",
+    "type": "village",
+    "name_en": "Jamalpur Kirat (Gram Panchayat Area)",
+    "name_hi": "Jamalpur Kirat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246735"
+    ]
+  },
+  {
+    "id": "po-bijnor-kolasagar",
+    "type": "village",
+    "name_en": "Kolasagar (Gram Panchayat Area)",
+    "name_hi": "Kolasagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246735"
+    ]
+  },
+  {
+    "id": "po-bijnor-mewa-nawada",
+    "type": "village",
+    "name_en": "Mewa Nawada (Gram Panchayat Area)",
+    "name_hi": "Mewa Nawada (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246745"
+    ]
+  },
+  {
+    "id": "po-bijnor-nawada-kesho",
+    "type": "village",
+    "name_en": "Nawada Kesho (Gram Panchayat Area)",
+    "name_hi": "Nawada Kesho (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246746"
+    ]
+  },
+  {
+    "id": "po-bijnor-sadafal",
+    "type": "village",
+    "name_en": "Sadafal (Gram Panchayat Area)",
+    "name_hi": "Sadafal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246746"
+    ]
+  },
+  {
+    "id": "po-bijnor-jatpura",
+    "type": "village",
+    "name_en": "Jatpura (Gram Panchayat Area)",
+    "name_hi": "Jatpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246747"
+    ]
+  },
+  {
+    "id": "po-bijnor-mohammedpur-rajauri",
+    "type": "village",
+    "name_en": "Mohammedpur Rajauri (Gram Panchayat Area)",
+    "name_hi": "Mohammedpur Rajauri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246747"
+    ]
+  },
+  {
+    "id": "po-bijnor-puraini",
+    "type": "village",
+    "name_en": "Puraini (Gram Panchayat Area)",
+    "name_hi": "Puraini (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-maujampur-suraj",
+    "type": "village",
+    "name_en": "Maujampur Suraj (Gram Panchayat Area)",
+    "name_hi": "Maujampur Suraj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-mauzampur-jaitra",
+    "type": "village",
+    "name_en": "Mauzampur Jaitra (Gram Panchayat Area)",
+    "name_hi": "Mauzampur Jaitra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-pipalsana",
+    "type": "village",
+    "name_en": "Pipalsana (Gram Panchayat Area)",
+    "name_hi": "Pipalsana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "po-bijnor-bhatpura",
+    "type": "village",
+    "name_en": "Bhatpura (Gram Panchayat Area)",
+    "name_hi": "Bhatpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246722"
+    ]
+  },
+  {
+    "id": "po-bijnor-birla-farm",
+    "type": "village",
+    "name_en": "Birla Farm (Gram Panchayat Area)",
+    "name_hi": "Birla Farm (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246722"
+    ]
+  },
+  {
+    "id": "po-bijnor-rasoolabad",
+    "type": "village",
+    "name_en": "Rasoolabad (Gram Panchayat Area)",
+    "name_hi": "Rasoolabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246722"
+    ]
+  },
+  {
+    "id": "po-bijnor-tanda-shahuwala",
+    "type": "village",
+    "name_en": "Tanda Shahuwala (Gram Panchayat Area)",
+    "name_hi": "Tanda Shahuwala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246724"
+    ]
+  },
+  {
+    "id": "po-bijnor-jheeran",
+    "type": "village",
+    "name_en": "Jheeran (Gram Panchayat Area)",
+    "name_hi": "Jheeran (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246727"
+    ]
+  },
+  {
+    "id": "po-bijnor-kmala",
+    "type": "village",
+    "name_en": "Kmala (Gram Panchayat Area)",
+    "name_hi": "Kmala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246727"
+    ]
+  },
+  {
+    "id": "po-bijnor-alaihdajpur-khajuba",
+    "type": "village",
+    "name_en": "Alaihdajpur Khajuba (Gram Panchayat Area)",
+    "name_hi": "Alaihdajpur Khajuba (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "po-bijnor-hirawali",
+    "type": "village",
+    "name_en": "Hirawali (Gram Panchayat Area)",
+    "name_hi": "Hirawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "po-bijnor-pakhanpur",
+    "type": "village",
+    "name_en": "Pakhanpur (Gram Panchayat Area)",
+    "name_hi": "Pakhanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "po-bijnor-begrajpur",
+    "type": "village",
+    "name_en": "Begrajpur (Gram Panchayat Area)",
+    "name_hi": "Begrajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-mahua",
+    "type": "village",
+    "name_en": "Mahua (Gram Panchayat Area)",
+    "name_hi": "Mahua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-rampur-bidar",
+    "type": "village",
+    "name_en": "Rampur Bidar (Gram Panchayat Area)",
+    "name_hi": "Rampur Bidar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-sadruddin-nagar",
+    "type": "village",
+    "name_en": "Sadruddin Nagar (Gram Panchayat Area)",
+    "name_hi": "Sadruddin Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "po-bijnor-bhaisa",
+    "type": "village",
+    "name_en": "Bhaisa (Gram Panchayat Area)",
+    "name_hi": "Bhaisa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246734"
+    ]
+  },
+  {
+    "id": "po-bijnor-gohawar",
+    "type": "village",
+    "name_en": "Gohawar (Gram Panchayat Area)",
+    "name_hi": "Gohawar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246734"
+    ]
+  },
+  {
+    "id": "po-bijnor-pheena",
+    "type": "village",
+    "name_en": "Pheena (Gram Panchayat Area)",
+    "name_hi": "Pheena (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246734"
+    ]
+  },
+  {
+    "id": "po-bijnor-bhogpur",
+    "type": "village",
+    "name_en": "Bhogpur (Gram Panchayat Area)",
+    "name_hi": "Bhogpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246735"
+    ]
+  },
+  {
+    "id": "po-bijnor-rawana-shikarpur",
+    "type": "village",
+    "name_en": "Rawana Shikarpur (Gram Panchayat Area)",
+    "name_hi": "Rawana Shikarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246735"
+    ]
+  },
+  {
+    "id": "po-bijnor-bagwara",
+    "type": "village",
+    "name_en": "Bagwara (Gram Panchayat Area)",
+    "name_hi": "Bagwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246745"
+    ]
+  },
+  {
+    "id": "po-bijnor-sadaranpur",
+    "type": "village",
+    "name_en": "Sadaranpur (Gram Panchayat Area)",
+    "name_hi": "Sadaranpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246745"
+    ]
+  },
+  {
+    "id": "po-bijnor-budhanpur",
+    "type": "village",
+    "name_en": "Budhanpur (Gram Panchayat Area)",
+    "name_hi": "Budhanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246746"
+    ]
+  },
+  {
+    "id": "po-bijnor-mukarabpuri",
+    "type": "village",
+    "name_en": "Mukarabpuri (Gram Panchayat Area)",
+    "name_hi": "Mukarabpuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246746"
+    ]
+  },
+  {
+    "id": "po-bijnor-palanpur",
+    "type": "village",
+    "name_en": "Palanpur (Gram Panchayat Area)",
+    "name_hi": "Palanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246746"
+    ]
+  },
+  {
+    "id": "po-bijnor-sipahiwala",
+    "type": "village",
+    "name_en": "Sipahiwala (Gram Panchayat Area)",
+    "name_hi": "Sipahiwala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246746"
+    ]
+  },
+  {
+    "id": "po-bijnor-mirzapur",
+    "type": "village",
+    "name_en": "Mirzapur (Gram Panchayat Area)",
+    "name_hi": "Mirzapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246747"
+    ]
+  },
+  {
+    "id": "po-bijnor-nwadasaidpur-jalal",
+    "type": "village",
+    "name_en": "Nwadasaidpur Jalal (Gram Panchayat Area)",
+    "name_hi": "Nwadasaidpur Jalal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246747"
+    ]
+  },
+  {
+    "id": "po-bijnor-shergarh",
+    "type": "village",
+    "name_en": "Shergarh (Gram Panchayat Area)",
+    "name_hi": "Shergarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammedpur-deomal",
+    "block_id": "mohammedpur-deomal",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "246747"
+    ]
+  },
+  {
+    "id": "ward-bijnor-ulb-bijnor-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Bijnor (All Wards)",
+    "name_hi": "बिजनौर नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-bijnor-bijnor",
+    "type": "ward",
+    "name_en": "Bijnor (Urban Ward / SO)",
+    "name_hi": "Bijnor (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "town-bijnor-dhampur",
+    "type": "ward",
+    "name_en": "Dhampur (Urban Ward / SO)",
+    "name_hi": "Dhampur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "town-bijnor-balawali",
+    "type": "ward",
+    "name_en": "Balawali (Urban Ward / SO)",
+    "name_hi": "Balawali (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246723"
+    ]
+  },
+  {
+    "id": "town-bijnor-bashta",
+    "type": "ward",
+    "name_en": "Bashta (Urban Ward / SO)",
+    "name_hi": "Bashta (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246736"
+    ]
+  },
+  {
+    "id": "town-bijnor-chandpur-sugar-factory",
+    "type": "ward",
+    "name_en": "Chandpur Sugar Factory (Urban Ward / SO)",
+    "name_hi": "Chandpur Sugar Factory (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246729"
+    ]
+  },
+  {
+    "id": "town-bijnor-civil-line",
+    "type": "ward",
+    "name_en": "Civil Line (Urban Ward / SO)",
+    "name_hi": "Civil Line (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "town-bijnor-khatriyan",
+    "type": "ward",
+    "name_en": "Khatriyan (Urban Ward / SO)",
+    "name_hi": "Khatriyan (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "town-bijnor-mandawar-so-bijnor",
+    "type": "ward",
+    "name_en": "Mandawar SO Bijnor (Urban Ward / SO)",
+    "name_hi": "Mandawar SO Bijnor (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246721"
+    ]
+  },
+  {
+    "id": "town-bijnor-nagal-so-bijnor",
+    "type": "ward",
+    "name_en": "Nagal SO Bijnor (Urban Ward / SO)",
+    "name_hi": "Nagal SO Bijnor (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246732"
+    ]
+  },
+  {
+    "id": "town-bijnor-najibabad-rs",
+    "type": "ward",
+    "name_en": "Najibabad RS (Urban Ward / SO)",
+    "name_hi": "Najibabad RS (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "town-bijnor-najibabad",
+    "type": "ward",
+    "name_en": "Najibabad (Urban Ward / SO)",
+    "name_hi": "Najibabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "town-bijnor-district-board",
+    "type": "ward",
+    "name_en": "District Board (Urban Ward / SO)",
+    "name_hi": "District Board (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "town-bijnor-chandpur-rs-po",
+    "type": "ward",
+    "name_en": "Chandpur RS PO (Urban Ward / SO)",
+    "name_hi": "Chandpur RS PO (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "town-bijnor-afzalgarh",
+    "type": "ward",
+    "name_en": "Afzalgarh (Urban Ward / SO)",
+    "name_hi": "Afzalgarh (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246722"
+    ]
+  },
+  {
+    "id": "town-bijnor-hassupura",
+    "type": "ward",
+    "name_en": "Hassupura (Urban Ward / SO)",
+    "name_hi": "Hassupura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246727"
+    ]
+  },
+  {
+    "id": "town-bijnor-nagina-so-bijnor",
+    "type": "ward",
+    "name_en": "Nagina SO Bijnor (Urban Ward / SO)",
+    "name_hi": "Nagina SO Bijnor (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "town-bijnor-nehtaur-bus-stand",
+    "type": "ward",
+    "name_en": "Nehtaur Bus Stand (Urban Ward / SO)",
+    "name_hi": "Nehtaur Bus Stand (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "town-bijnor-sahaspur-so-bijnor",
+    "type": "ward",
+    "name_en": "Sahaspur SO Bijnor (Urban Ward / SO)",
+    "name_hi": "Sahaspur SO Bijnor (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246745"
+    ]
+  },
+  {
+    "id": "town-bijnor-sherkot",
+    "type": "ward",
+    "name_en": "Sherkot (Urban Ward / SO)",
+    "name_hi": "Sherkot (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246747"
+    ]
+  },
+  {
+    "id": "town-bijnor-b-i-estate",
+    "type": "ward",
+    "name_en": "B I Estate (Urban Ward / SO)",
+    "name_hi": "B I Estate (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "town-bijnor-chandpur",
+    "type": "ward",
+    "name_en": "Chandpur (Urban Ward / SO)",
+    "name_hi": "Chandpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246725"
+    ]
+  },
+  {
+    "id": "town-bijnor-i-a-najibabad",
+    "type": "ward",
+    "name_en": "I A Najibabad (Urban Ward / SO)",
+    "name_hi": "I A Najibabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "town-bijnor-jatan",
+    "type": "ward",
+    "name_en": "Jatan (Urban Ward / SO)",
+    "name_hi": "Jatan (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "town-bijnor-kallooganj",
+    "type": "ward",
+    "name_en": "Kallooganj (Urban Ward / SO)",
+    "name_hi": "Kallooganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "town-bijnor-najibabad-tehsil",
+    "type": "ward",
+    "name_en": "Najibabad Tehsil (Urban Ward / SO)",
+    "name_hi": "Najibabad Tehsil (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246763"
+    ]
+  },
+  {
+    "id": "town-bijnor-badhapur",
+    "type": "ward",
+    "name_en": "Badhapur (Urban Ward / SO)",
+    "name_hi": "Badhapur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246724"
+    ]
+  },
+  {
+    "id": "town-bijnor-chotti-mandi-dhampur",
+    "type": "ward",
+    "name_en": "Chotti Mandi Dhampur (Urban Ward / SO)",
+    "name_hi": "Chotti Mandi Dhampur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "town-bijnor-dhampur-mandi",
+    "type": "ward",
+    "name_en": "Dhampur Mandi (Urban Ward / SO)",
+    "name_hi": "Dhampur Mandi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "town-bijnor-ganj-bazar-nagina",
+    "type": "ward",
+    "name_en": "Ganj Bazar Nagina (Urban Ward / SO)",
+    "name_hi": "Ganj Bazar Nagina (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "town-bijnor-main-bazar-nehtaur",
+    "type": "ward",
+    "name_en": "Main Bazar Nehtaur (Urban Ward / SO)",
+    "name_hi": "Main Bazar Nehtaur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "town-bijnor-nagina-bazar",
+    "type": "ward",
+    "name_en": "Nagina Bazar (Urban Ward / SO)",
+    "name_hi": "Nagina Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246762"
+    ]
+  },
+  {
+    "id": "town-bijnor-basi-kiratapur",
+    "type": "ward",
+    "name_en": "Basi Kiratapur (Urban Ward / SO)",
+    "name_hi": "Basi Kiratapur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246731"
+    ]
+  },
+  {
+    "id": "town-bijnor-haldaur",
+    "type": "ward",
+    "name_en": "Haldaur (Urban Ward / SO)",
+    "name_hi": "Haldaur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246726"
+    ]
+  },
+  {
+    "id": "town-bijnor-jhalu",
+    "type": "ward",
+    "name_en": "Jhalu (Urban Ward / SO)",
+    "name_hi": "Jhalu (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246728"
+    ]
+  },
+  {
+    "id": "town-bijnor-kotwali-so-bijnor",
+    "type": "ward",
+    "name_en": "Kotwali SO Bijnor (Urban Ward / SO)",
+    "name_hi": "Kotwali SO Bijnor (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246764"
+    ]
+  },
+  {
+    "id": "town-bijnor-noorpur",
+    "type": "ward",
+    "name_en": "Noorpur (Urban Ward / SO)",
+    "name_hi": "Noorpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246734"
+    ]
+  },
+  {
+    "id": "town-bijnor-rahu-nagli",
+    "type": "ward",
+    "name_en": "Rahu Nagli (Urban Ward / SO)",
+    "name_hi": "Rahu Nagli (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246737"
+    ]
+  },
+  {
+    "id": "town-bijnor-seohara-rs",
+    "type": "ward",
+    "name_en": "Seohara RS (Urban Ward / SO)",
+    "name_hi": "Seohara RS (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246746"
+    ]
+  },
+  {
+    "id": "town-bijnor-kiratpur",
+    "type": "ward",
+    "name_en": "Kiratpur (Urban Ward / SO)",
+    "name_hi": "Kiratpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246731"
+    ]
+  },
+  {
+    "id": "town-bijnor-nai-basti",
+    "type": "ward",
+    "name_en": "Nai Basti (Urban Ward / SO)",
+    "name_hi": "Nai Basti (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246701"
+    ]
+  },
+  {
+    "id": "town-bijnor-sahanpur",
+    "type": "ward",
+    "name_en": "Sahanpur (Urban Ward / SO)",
+    "name_hi": "Sahanpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246749"
+    ]
+  },
+  {
+    "id": "town-bijnor-dhampur-sugar-mill",
+    "type": "ward",
+    "name_en": "Dhampur Sugar Mill (Urban Ward / SO)",
+    "name_hi": "Dhampur Sugar Mill (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246761"
+    ]
+  },
+  {
+    "id": "town-bijnor-nehtaur",
+    "type": "ward",
+    "name_en": "Nehtaur (Urban Ward / SO)",
+    "name_hi": "Nehtaur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246733"
+    ]
+  },
+  {
+    "id": "town-bijnor-rajakatajpur",
+    "type": "ward",
+    "name_en": "Rajakatajpur (Urban Ward / SO)",
+    "name_hi": "Rajakatajpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246735"
+    ]
+  },
+  {
+    "id": "town-bijnor-seohara",
+    "type": "ward",
+    "name_en": "Seohara (Urban Ward / SO)",
+    "name_hi": "Seohara (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-bijnor-main",
+    "tehsil_id": "bijnor",
+    "district_id": "bijnor",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "246746"
+    ]
+  }
+]

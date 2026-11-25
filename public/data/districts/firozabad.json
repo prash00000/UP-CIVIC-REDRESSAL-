@@ -169,7 +169,8 @@
       ],
       "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-firozabad-bdo-firozabad"
     },
     {
       "id": "up-firozabad-bdo-narkhi",
@@ -198,7 +199,8 @@
       ],
       "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-firozabad-bdo-narkhi"
     },
     {
       "id": "up-firozabad-bdo-tundla",
@@ -227,7 +229,8 @@
       ],
       "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-firozabad-bdo-tundla"
     },
     {
       "id": "up-firozabad-bdo-shikohabad",
@@ -256,7 +259,8 @@
       ],
       "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-firozabad-bdo-shikohabad"
     },
     {
       "id": "up-firozabad-bdo-madanpur",
@@ -285,7 +289,8 @@
       ],
       "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-firozabad-bdo-madanpur"
     },
     {
       "id": "up-firozabad-bdo-jasrana",
@@ -314,7 +319,8 @@
       ],
       "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-firozabad-bdo-jasrana"
     },
     {
       "id": "up-firozabad-bdo-eka",
@@ -343,7 +349,8 @@
       ],
       "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-firozabad-bdo-eka"
     },
     {
       "id": "up-firozabad-bdo-hathwant",
@@ -372,7 +379,8 @@
       ],
       "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-firozabad-bdo-hathwant"
     },
     {
       "id": "up-firozabad-bdo-araon",
@@ -401,7 +409,8 @@
       ],
       "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-firozabad-bdo-araon"
     },
     {
       "id": "eo-firozabad-main",
@@ -416,6 +425,37 @@
       "source_url": "https://firozabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-firozabad-commissioner",
+      "level": "ulb",
+      "role": "commissioner",
+      "office_name_en": "Municipal Commissioner, Firozabad Nagar Nigam",
+      "office_name_hi": "नगर आयुक्त, फिरोजाबाद नगर निगम",
+      "phones": [
+        {
+          "number": "8189077817",
+          "type": "cug",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05612-233003",
+          "type": "landline",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "firozabad"
+      ],
+      "source_url": "https://localbodies.up.nic.in/listnn.htm",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "email": "8189077817nagarnigamfzd@gmail.com",
+      "officer_name_en": "श्री घनश्याम मीणा"
     }
   ]
 }

@@ -23,6 +23,13 @@
           "source_url": "https://bhadohi.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "05414-250203",
+          "type": "landline",
+          "source_url": "https://bhadohi.nic.in/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmbhd@nic.in",
@@ -47,13 +54,20 @@
           "source_url": "https://bhadohi.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "9454465122",
+          "type": "office",
+          "source_url": "https://bhadohi.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "cdo.bhd-up@gov.in",
       "covers": [
         "bhadohi"
       ],
-      "source_url": "https://bhadohi.nic.in/whos-who/",
+      "source_url": "https://bhadohi.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Bal Govind Shukla",
@@ -80,14 +94,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Gyanpur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Gyanpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416830",
+          "type": "office",
+          "source_url": "https://bhadohi.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.gyanpur.bhd-up@gov.in",
       "covers": [
         "gyanpur"
       ],
-      "source_url": "https://bhadohi.nic.in/whos-who/",
+      "source_url": "https://bhadohi.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bhadohi-sdm-bhadohi",
@@ -95,14 +117,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bhadohi",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bhadohi",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416831",
+          "type": "office",
+          "source_url": "https://bhadohi.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.bhadohi.bhd-up@gov.in",
       "covers": [
         "bhadohi"
       ],
-      "source_url": "https://bhadohi.nic.in/whos-who/",
+      "source_url": "https://bhadohi.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bhadohi-sdm-aurai",
@@ -110,14 +140,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Aurai",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Aurai",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416832",
+          "type": "office",
+          "source_url": "https://bhadohi.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.aurai.bhd-up@gov.in",
       "covers": [
         "aurai"
       ],
-      "source_url": "https://bhadohi.nic.in/whos-who/",
+      "source_url": "https://bhadohi.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bhadohi-bdo-gyanpur",
@@ -146,7 +184,8 @@
       ],
       "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bhadohi-bdo-gyanpur"
     },
     {
       "id": "up-bhadohi-bdo-deeh",
@@ -175,7 +214,8 @@
       ],
       "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bhadohi-bdo-deeh"
     },
     {
       "id": "up-bhadohi-bdo-abholi",
@@ -204,7 +244,8 @@
       ],
       "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bhadohi-bdo-abholi"
     },
     {
       "id": "up-bhadohi-bdo-bhadohi",
@@ -233,7 +274,8 @@
       ],
       "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bhadohi-bdo-bhadohi"
     },
     {
       "id": "up-bhadohi-bdo-suriyawan",
@@ -262,7 +304,8 @@
       ],
       "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bhadohi-bdo-suriyawan"
     },
     {
       "id": "up-bhadohi-bdo-aurai",
@@ -291,7 +334,8 @@
       ],
       "source_url": "https://bhadohi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bhadohi-bdo-aurai"
     },
     {
       "id": "eo-bhadohi-main",

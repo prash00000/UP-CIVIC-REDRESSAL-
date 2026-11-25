@@ -16,15 +16,29 @@
           "source_url": "https://raebareli.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "0535-2202302",
+          "type": "landline",
+          "source_url": "https://raebareli.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0535-2703301",
+          "type": "landline",
+          "source_url": "https://raebareli.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmrae@nic.in",
       "covers": [
         "raebareli"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-cdo",
@@ -39,15 +53,29 @@
           "source_url": "https://raebareli.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "0535-2203166",
+          "type": "landline",
+          "source_url": "https://raebareli.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0535-2703456",
+          "type": "landline",
+          "source_url": "https://raebareli.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "cdo.rae-up@gov.in",
       "covers": [
         "raebareli"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-dpro",
@@ -83,9 +111,9 @@
       "covers": [
         "sadar"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-sdm-dalmau",
@@ -106,9 +134,9 @@
       "covers": [
         "dalmau"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-sdm-lalganj",
@@ -129,9 +157,9 @@
       "covers": [
         "lalganj"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-sdm-maharajganj",
@@ -152,9 +180,9 @@
       "covers": [
         "maharajganj"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-sdm-salon",
@@ -175,9 +203,9 @@
       "covers": [
         "salon"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-sdm-unchahar",
@@ -198,9 +226,9 @@
       "covers": [
         "unchahar"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-bdo-rahi",
@@ -221,9 +249,9 @@
       "covers": [
         "rahi"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-ado-rahi",
@@ -237,7 +265,8 @@
       ],
       "source_url": "https://raebareli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-raebareli-bdo-rahi"
     },
     {
       "id": "up-raebareli-bdo-amawa",
@@ -258,9 +287,9 @@
       "covers": [
         "amawa"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-ado-amawa",
@@ -274,7 +303,8 @@
       ],
       "source_url": "https://raebareli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-raebareli-bdo-amawa"
     },
     {
       "id": "up-raebareli-bdo-harchandpur",
@@ -295,9 +325,9 @@
       "covers": [
         "harchandpur"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-ado-harchandpur",
@@ -311,7 +341,8 @@
       ],
       "source_url": "https://raebareli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-raebareli-bdo-harchandpur"
     },
     {
       "id": "up-raebareli-bdo-sataon",
@@ -332,9 +363,9 @@
       "covers": [
         "sataon"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-ado-sataon",
@@ -348,7 +379,8 @@
       ],
       "source_url": "https://raebareli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-raebareli-bdo-sataon"
     },
     {
       "id": "up-raebareli-bdo-bachhrawan",
@@ -369,9 +401,9 @@
       "covers": [
         "bachhrawan"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-ado-bachhrawan",
@@ -385,7 +417,8 @@
       ],
       "source_url": "https://raebareli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-raebareli-bdo-bachhrawan"
     },
     {
       "id": "up-raebareli-bdo-shivgarh",
@@ -406,9 +439,9 @@
       "covers": [
         "shivgarh"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-ado-shivgarh",
@@ -422,7 +455,8 @@
       ],
       "source_url": "https://raebareli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-raebareli-bdo-shivgarh"
     },
     {
       "id": "up-raebareli-bdo-sareni",
@@ -443,9 +477,9 @@
       "covers": [
         "sareni"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-ado-sareni",
@@ -459,7 +493,8 @@
       ],
       "source_url": "https://raebareli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-raebareli-bdo-sareni"
     },
     {
       "id": "up-raebareli-bdo-maharajganj",
@@ -480,9 +515,9 @@
       "covers": [
         "maharajganj"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-ado-maharajganj",
@@ -496,7 +531,8 @@
       ],
       "source_url": "https://raebareli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-raebareli-bdo-maharajganj"
     },
     {
       "id": "up-raebareli-bdo-salon",
@@ -517,9 +553,9 @@
       "covers": [
         "salon"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-ado-salon",
@@ -533,7 +569,8 @@
       ],
       "source_url": "https://raebareli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-raebareli-bdo-salon"
     },
     {
       "id": "up-raebareli-bdo-khiron",
@@ -554,9 +591,9 @@
       "covers": [
         "khiron"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-ado-khiron",
@@ -570,7 +607,8 @@
       ],
       "source_url": "https://raebareli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-raebareli-bdo-khiron"
     },
     {
       "id": "up-raebareli-bdo-chhatoh",
@@ -591,9 +629,9 @@
       "covers": [
         "chhatoh"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-ado-chhatoh",
@@ -607,7 +645,8 @@
       ],
       "source_url": "https://raebareli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-raebareli-bdo-chhatoh"
     },
     {
       "id": "up-raebareli-bdo-lalganj",
@@ -628,9 +667,9 @@
       "covers": [
         "lalganj"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-ado-lalganj",
@@ -644,7 +683,8 @@
       ],
       "source_url": "https://raebareli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-raebareli-bdo-lalganj"
     },
     {
       "id": "up-raebareli-bdo-jagatpur",
@@ -665,9 +705,9 @@
       "covers": [
         "jagatpur"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-ado-jagatpur",
@@ -681,7 +721,8 @@
       ],
       "source_url": "https://raebareli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-raebareli-bdo-jagatpur"
     },
     {
       "id": "up-raebareli-bdo-rohaniya",
@@ -702,9 +743,9 @@
       "covers": [
         "rohaniya"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-ado-rohaniya",
@@ -718,7 +759,8 @@
       ],
       "source_url": "https://raebareli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-raebareli-bdo-rohaniya"
     },
     {
       "id": "up-raebareli-bdo-unchahar",
@@ -739,9 +781,9 @@
       "covers": [
         "unchahar"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-ado-unchahar",
@@ -755,7 +797,8 @@
       ],
       "source_url": "https://raebareli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-raebareli-bdo-unchahar"
     },
     {
       "id": "up-raebareli-bdo-deenshah-gaura",
@@ -776,9 +819,9 @@
       "covers": [
         "deenshah-gaura"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-ado-deenshah-gaura",
@@ -792,7 +835,8 @@
       ],
       "source_url": "https://raebareli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-raebareli-bdo-deenshah-gaura"
     },
     {
       "id": "up-raebareli-bdo-dalmau",
@@ -813,9 +857,9 @@
       "covers": [
         "dalmau"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-ado-dalmau",
@@ -829,7 +873,8 @@
       ],
       "source_url": "https://raebareli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-raebareli-bdo-dalmau"
     },
     {
       "id": "up-raebareli-bdo-deeh",
@@ -850,9 +895,9 @@
       "covers": [
         "deeh"
       ],
-      "source_url": "https://raebareli.nic.in/whos-who/",
+      "source_url": "https://raebareli.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-raebareli-ado-deeh",
@@ -866,7 +911,8 @@
       ],
       "source_url": "https://raebareli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-raebareli-bdo-deeh"
     },
     {
       "id": "eo-raebareli-main",

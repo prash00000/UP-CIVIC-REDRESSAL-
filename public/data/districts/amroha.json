@@ -28,7 +28,7 @@
       "covers": [
         "amroha"
       ],
-      "source_url": "https://amroha.nic.in/whos-who/",
+      "source_url": "https://amroha.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Nitin Gaur, IAS District Magistrate",
@@ -53,7 +53,7 @@
       "covers": [
         "amroha"
       ],
-      "source_url": "https://amroha.nic.in/whos-who/",
+      "source_url": "https://amroha.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Umesh Chandra Tiwari, PDS Chief Development Officer",
@@ -70,9 +70,10 @@
       "covers": [
         "amroha"
       ],
-      "source_url": "https://amroha.nic.in/whos-who/",
+      "source_url": "https://amroha.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "DPRO"
     },
     {
       "id": "up-amroha-sdm-amroha",
@@ -80,14 +81,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Amroha",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Amroha",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416929",
+          "type": "office",
+          "source_url": "https://amroha.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.amroha.jpn-up@gov.in",
       "covers": [
         "amroha"
       ],
-      "source_url": "https://amroha.nic.in/whos-who/",
+      "source_url": "https://amroha.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM (Amroha)"
     },
     {
       "id": "up-amroha-sdm-dhanaura",
@@ -95,14 +105,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Dhanaura",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Dhanaura",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416930",
+          "type": "office",
+          "source_url": "https://amroha.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.dhanaura.jpn-up@gov.in",
       "covers": [
         "dhanaura"
       ],
-      "source_url": "https://amroha.nic.in/whos-who/",
+      "source_url": "https://amroha.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM (Dhanaura)"
     },
     {
       "id": "up-amroha-sdm-hasanpur",
@@ -110,14 +129,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Hasanpur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Hasanpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416931",
+          "type": "office",
+          "source_url": "https://amroha.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.hasanpur.jpn-up@gov.in",
       "covers": [
         "hasanpur"
       ],
-      "source_url": "https://amroha.nic.in/whos-who/",
+      "source_url": "https://amroha.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM (Hasanpur)"
     },
     {
       "id": "up-amroha-sdm-naugawan-sadat",
@@ -125,14 +153,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Naugawan Sadat",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Naugawan Sadat",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416940",
+          "type": "office",
+          "source_url": "https://amroha.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.naugawansadat.jpn-up@gov.in",
       "covers": [
         "naugawan-sadat"
       ],
-      "source_url": "https://amroha.nic.in/whos-who/",
+      "source_url": "https://amroha.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM (Naugawan Sadat)"
     },
     {
       "id": "up-amroha-bdo-amroha",
@@ -140,14 +177,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Amroha",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Amroha",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465166",
+          "type": "office",
+          "source_url": "https://amroha.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.amroha.jpn@gmail.com",
       "covers": [
         "amroha"
       ],
-      "source_url": "https://amroha.nic.in/whos-who/",
+      "source_url": "https://amroha.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Block Development Officer (BDO)-Amroha"
     },
     {
       "id": "up-amroha-ado-amroha",
@@ -161,7 +207,8 @@
       ],
       "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amroha-bdo-amroha"
     },
     {
       "id": "up-amroha-bdo-dhanaura",
@@ -169,14 +216,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Dhanaura",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dhanaura",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465161",
+          "type": "office",
+          "source_url": "https://amroha.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.dhanaura.jpn@gmail.com",
       "covers": [
         "dhanaura"
       ],
-      "source_url": "https://amroha.nic.in/whos-who/",
+      "source_url": "https://amroha.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Block Development Officer (BDO)-Dhanaura"
     },
     {
       "id": "up-amroha-ado-dhanaura",
@@ -190,7 +246,8 @@
       ],
       "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amroha-bdo-dhanaura"
     },
     {
       "id": "up-amroha-bdo-gajraula",
@@ -198,14 +255,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Gajraula",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gajraula",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465163",
+          "type": "office",
+          "source_url": "https://amroha.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.gajraula.jpn@gmail.com",
       "covers": [
         "gajraula"
       ],
-      "source_url": "https://amroha.nic.in/whos-who/",
+      "source_url": "https://amroha.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Block Development Officer (BDO)-Gajraula"
     },
     {
       "id": "up-amroha-ado-gajraula",
@@ -219,7 +285,8 @@
       ],
       "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amroha-bdo-gajraula"
     },
     {
       "id": "up-amroha-bdo-hasanpur",
@@ -227,14 +294,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Hasanpur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hasanpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465164",
+          "type": "office",
+          "source_url": "https://amroha.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.hasanpur.jpn@gmail.com",
       "covers": [
         "hasanpur"
       ],
-      "source_url": "https://amroha.nic.in/whos-who/",
+      "source_url": "https://amroha.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Block Development Officer (BDO)-Hasanpur"
     },
     {
       "id": "up-amroha-ado-hasanpur",
@@ -248,7 +324,8 @@
       ],
       "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amroha-bdo-hasanpur"
     },
     {
       "id": "up-amroha-bdo-joya",
@@ -256,14 +333,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Joya",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Joya",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465162",
+          "type": "office",
+          "source_url": "https://amroha.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.joya.jpn@gmail.com",
       "covers": [
         "joya"
       ],
-      "source_url": "https://amroha.nic.in/whos-who/",
+      "source_url": "https://amroha.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Block Development Officer (BDO)-Joya"
     },
     {
       "id": "up-amroha-ado-joya",
@@ -277,7 +363,8 @@
       ],
       "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amroha-bdo-joya"
     },
     {
       "id": "up-amroha-bdo-gangeshwari",
@@ -285,14 +372,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Gangeshwari",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gangeshwari",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454465165",
+          "type": "office",
+          "source_url": "https://amroha.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.gangeshwari.jpn@gmail.com",
       "covers": [
         "gangeshwari"
       ],
-      "source_url": "https://amroha.nic.in/whos-who/",
+      "source_url": "https://amroha.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Block Development Officer (BDO)-Gangeshwari"
     },
     {
       "id": "up-amroha-ado-gangeshwari",
@@ -306,7 +402,8 @@
       ],
       "source_url": "https://amroha.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-amroha-bdo-gangeshwari"
     },
     {
       "id": "eo-amroha-main",
@@ -314,13 +411,23 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Amroha",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका अमरोहा",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454401537",
+          "type": "office",
+          "source_url": "https://amroha.nic.in/telephone-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-amroha-main"
       ],
-      "source_url": "https://amroha.nic.in/whos-who/",
+      "source_url": "https://amroha.nic.in/telephone-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "C.O. (Amroha Nagar)",
+      "email": "dysp-city.jp@up.gov.in"
     }
   ]
 }

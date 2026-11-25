@@ -1,0 +1,2282 @@
+[
+  {
+    "id": "v-auraiya-auraiya",
+    "type": "village",
+    "name_en": "Auraiya Block (Gram Panchayats)",
+    "name_hi": "Auraiya विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-auraiya-ajitmal",
+    "type": "village",
+    "name_en": "Ajitmal Block (Gram Panchayats)",
+    "name_hi": "Ajitmal विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-ajitmal",
+    "block_id": "ajitmal",
+    "tehsil_id": "ajitmal",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-auraiya-bhagyanagar",
+    "type": "village",
+    "name_en": "Bhagyanagar Block (Gram Panchayats)",
+    "name_hi": "Bhagyanagar विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhagyanagar",
+    "block_id": "bhagyanagar",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-auraiya-bidhuna",
+    "type": "village",
+    "name_en": "Bidhuna Block (Gram Panchayats)",
+    "name_hi": "Bidhuna विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bidhuna",
+    "block_id": "bidhuna",
+    "tehsil_id": "bidhuna",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-auraiya-achhalda",
+    "type": "village",
+    "name_en": "Achhalda Block (Gram Panchayats)",
+    "name_hi": "Achhalda विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-achhalda",
+    "block_id": "achhalda",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-auraiya-sahar",
+    "type": "village",
+    "name_en": "Sahar Block (Gram Panchayats)",
+    "name_hi": "Sahar विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sahar",
+    "block_id": "sahar",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-auraiya-erwa-katra",
+    "type": "village",
+    "name_en": "Erwa Katra Block (Gram Panchayats)",
+    "name_hi": "Erwa Katra विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-erwa-katra",
+    "block_id": "erwa-katra",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-auraiya-bhaupur",
+    "type": "village",
+    "name_en": "Bhaupur (Gram Panchayat Area)",
+    "name_hi": "Bhaupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "po-auraiya-chirhuli",
+    "type": "village",
+    "name_en": "Chirhuli (Gram Panchayat Area)",
+    "name_hi": "Chirhuli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "po-auraiya-baghaipur",
+    "type": "village",
+    "name_en": "Baghaipur (Gram Panchayat Area)",
+    "name_hi": "Baghaipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206241"
+    ]
+  },
+  {
+    "id": "po-auraiya-bhainsol",
+    "type": "village",
+    "name_en": "Bhainsol (Gram Panchayat Area)",
+    "name_hi": "Bhainsol (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206241"
+    ]
+  },
+  {
+    "id": "po-auraiya-chhachhund",
+    "type": "village",
+    "name_en": "Chhachhund (Gram Panchayat Area)",
+    "name_hi": "Chhachhund (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206241"
+    ]
+  },
+  {
+    "id": "po-auraiya-ghasara",
+    "type": "village",
+    "name_en": "Ghasara (Gram Panchayat Area)",
+    "name_hi": "Ghasara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206241"
+    ]
+  },
+  {
+    "id": "po-auraiya-samayan",
+    "type": "village",
+    "name_en": "Samayan (Gram Panchayat Area)",
+    "name_hi": "Samayan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206252"
+    ]
+  },
+  {
+    "id": "po-auraiya-surendha",
+    "type": "village",
+    "name_en": "Surendha (Gram Panchayat Area)",
+    "name_hi": "Surendha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206252"
+    ]
+  },
+  {
+    "id": "po-auraiya-umrain",
+    "type": "village",
+    "name_en": "Umrain (Gram Panchayat Area)",
+    "name_hi": "Umrain (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206252"
+    ]
+  },
+  {
+    "id": "po-auraiya-juhikha",
+    "type": "village",
+    "name_en": "Juhikha (Gram Panchayat Area)",
+    "name_hi": "Juhikha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206121"
+    ]
+  },
+  {
+    "id": "po-auraiya-khetupur",
+    "type": "village",
+    "name_en": "Khetupur (Gram Panchayat Area)",
+    "name_hi": "Khetupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206121"
+    ]
+  },
+  {
+    "id": "po-auraiya-senganpur",
+    "type": "village",
+    "name_en": "Senganpur (Gram Panchayat Area)",
+    "name_hi": "Senganpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206121"
+    ]
+  },
+  {
+    "id": "po-auraiya-hardu",
+    "type": "village",
+    "name_en": "Hardu (Gram Panchayat Area)",
+    "name_hi": "Hardu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206251"
+    ]
+  },
+  {
+    "id": "po-auraiya-alipur",
+    "type": "village",
+    "name_en": "Alipur (Gram Panchayat Area)",
+    "name_hi": "Alipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206243"
+    ]
+  },
+  {
+    "id": "po-auraiya-bhikhara",
+    "type": "village",
+    "name_en": "Bhikhara (Gram Panchayat Area)",
+    "name_hi": "Bhikhara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206243"
+    ]
+  },
+  {
+    "id": "po-auraiya-luhiapur",
+    "type": "village",
+    "name_en": "Luhiapur (Gram Panchayat Area)",
+    "name_hi": "Luhiapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "po-auraiya-bharsen",
+    "type": "village",
+    "name_en": "Bharsen (Gram Panchayat Area)",
+    "name_hi": "Bharsen (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "po-auraiya-keontra",
+    "type": "village",
+    "name_en": "Keontra (Gram Panchayat Area)",
+    "name_hi": "Keontra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "po-auraiya-panhar",
+    "type": "village",
+    "name_en": "Panhar (Gram Panchayat Area)",
+    "name_hi": "Panhar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "po-auraiya-mohammdabad",
+    "type": "village",
+    "name_en": "Mohammdabad (Gram Panchayat Area)",
+    "name_hi": "Mohammdabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206241"
+    ]
+  },
+  {
+    "id": "po-auraiya-amavata",
+    "type": "village",
+    "name_en": "Amavata (Gram Panchayat Area)",
+    "name_hi": "Amavata (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206121"
+    ]
+  },
+  {
+    "id": "po-auraiya-atsoo",
+    "type": "village",
+    "name_en": "Atsoo (Gram Panchayat Area)",
+    "name_hi": "Atsoo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206121"
+    ]
+  },
+  {
+    "id": "po-auraiya-babain",
+    "type": "village",
+    "name_en": "Babain (Gram Panchayat Area)",
+    "name_hi": "Babain (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206121"
+    ]
+  },
+  {
+    "id": "po-auraiya-badera",
+    "type": "village",
+    "name_en": "Badera (Gram Panchayat Area)",
+    "name_hi": "Badera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206121"
+    ]
+  },
+  {
+    "id": "po-auraiya-goora",
+    "type": "village",
+    "name_en": "Goora (Gram Panchayat Area)",
+    "name_hi": "Goora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206243"
+    ]
+  },
+  {
+    "id": "po-auraiya-indapamau",
+    "type": "village",
+    "name_en": "Indapamau (Gram Panchayat Area)",
+    "name_hi": "Indapamau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206243"
+    ]
+  },
+  {
+    "id": "po-auraiya-kaithawa",
+    "type": "village",
+    "name_en": "Kaithawa (Gram Panchayat Area)",
+    "name_hi": "Kaithawa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206243"
+    ]
+  },
+  {
+    "id": "po-auraiya-pusauli",
+    "type": "village",
+    "name_en": "Pusauli (Gram Panchayat Area)",
+    "name_hi": "Pusauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206243"
+    ]
+  },
+  {
+    "id": "po-auraiya-rathgaon",
+    "type": "village",
+    "name_en": "Rathgaon (Gram Panchayat Area)",
+    "name_hi": "Rathgaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206243"
+    ]
+  },
+  {
+    "id": "po-auraiya-sabhad",
+    "type": "village",
+    "name_en": "Sabhad (Gram Panchayat Area)",
+    "name_hi": "Sabhad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206243"
+    ]
+  },
+  {
+    "id": "po-auraiya-dakhlipur",
+    "type": "village",
+    "name_en": "Dakhlipur (Gram Panchayat Area)",
+    "name_hi": "Dakhlipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206244"
+    ]
+  },
+  {
+    "id": "po-auraiya-dhupkari",
+    "type": "village",
+    "name_en": "Dhupkari (Gram Panchayat Area)",
+    "name_hi": "Dhupkari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206244"
+    ]
+  },
+  {
+    "id": "po-auraiya-gulariha",
+    "type": "village",
+    "name_en": "Gulariha (Gram Panchayat Area)",
+    "name_hi": "Gulariha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206244"
+    ]
+  },
+  {
+    "id": "po-auraiya-purakalan",
+    "type": "village",
+    "name_en": "Purakalan (Gram Panchayat Area)",
+    "name_hi": "Purakalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206244"
+    ]
+  },
+  {
+    "id": "po-auraiya-seengpurva-mana",
+    "type": "village",
+    "name_en": "Seengpurva Mana (Gram Panchayat Area)",
+    "name_hi": "Seengpurva Mana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206244"
+    ]
+  },
+  {
+    "id": "po-auraiya-sehud",
+    "type": "village",
+    "name_en": "Sehud (Gram Panchayat Area)",
+    "name_hi": "Sehud (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206244"
+    ]
+  },
+  {
+    "id": "po-auraiya-naugawan",
+    "type": "village",
+    "name_en": "Naugawan (Gram Panchayat Area)",
+    "name_hi": "Naugawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206246"
+    ]
+  },
+  {
+    "id": "po-auraiya-ailly",
+    "type": "village",
+    "name_en": "Ailly (Gram Panchayat Area)",
+    "name_hi": "Ailly (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206249"
+    ]
+  },
+  {
+    "id": "po-auraiya-masoodpur",
+    "type": "village",
+    "name_en": "Masoodpur (Gram Panchayat Area)",
+    "name_hi": "Masoodpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206249"
+    ]
+  },
+  {
+    "id": "po-auraiya-gapchariapur",
+    "type": "village",
+    "name_en": "Gapchariapur (Gram Panchayat Area)",
+    "name_hi": "Gapchariapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206248"
+    ]
+  },
+  {
+    "id": "po-auraiya-harbanspur",
+    "type": "village",
+    "name_en": "Harbanspur (Gram Panchayat Area)",
+    "name_hi": "Harbanspur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206248"
+    ]
+  },
+  {
+    "id": "po-auraiya-kursi",
+    "type": "village",
+    "name_en": "Kursi (Gram Panchayat Area)",
+    "name_hi": "Kursi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206248"
+    ]
+  },
+  {
+    "id": "po-auraiya-madokmeet",
+    "type": "village",
+    "name_en": "Madokmeet (Gram Panchayat Area)",
+    "name_hi": "Madokmeet (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206248"
+    ]
+  },
+  {
+    "id": "po-auraiya-purwa-bhikha",
+    "type": "village",
+    "name_en": "Purwa Bhikha (Gram Panchayat Area)",
+    "name_hi": "Purwa Bhikha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206248"
+    ]
+  },
+  {
+    "id": "po-auraiya-bhadsan",
+    "type": "village",
+    "name_en": "Bhadsan (Gram Panchayat Area)",
+    "name_hi": "Bhadsan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206120"
+    ]
+  },
+  {
+    "id": "po-auraiya-darbatpur",
+    "type": "village",
+    "name_en": "Darbatpur (Gram Panchayat Area)",
+    "name_hi": "Darbatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206120"
+    ]
+  },
+  {
+    "id": "po-auraiya-dondapur",
+    "type": "village",
+    "name_en": "Dondapur (Gram Panchayat Area)",
+    "name_hi": "Dondapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206243"
+    ]
+  },
+  {
+    "id": "po-auraiya-bijhai",
+    "type": "village",
+    "name_en": "Bijhai (Gram Panchayat Area)",
+    "name_hi": "Bijhai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206244"
+    ]
+  },
+  {
+    "id": "po-auraiya-sondhemau",
+    "type": "village",
+    "name_en": "Sondhemau (Gram Panchayat Area)",
+    "name_hi": "Sondhemau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206244"
+    ]
+  },
+  {
+    "id": "po-auraiya-umri",
+    "type": "village",
+    "name_en": "Umri (Gram Panchayat Area)",
+    "name_hi": "Umri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206244"
+    ]
+  },
+  {
+    "id": "po-auraiya-belhupur",
+    "type": "village",
+    "name_en": "Belhupur (Gram Panchayat Area)",
+    "name_hi": "Belhupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206246"
+    ]
+  },
+  {
+    "id": "po-auraiya-binpurapur",
+    "type": "village",
+    "name_en": "Binpurapur (Gram Panchayat Area)",
+    "name_hi": "Binpurapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206246"
+    ]
+  },
+  {
+    "id": "po-auraiya-piprauli-shiv",
+    "type": "village",
+    "name_en": "Piprauli Shiv (Gram Panchayat Area)",
+    "name_hi": "Piprauli Shiv (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206255"
+    ]
+  },
+  {
+    "id": "po-auraiya-yakubpur",
+    "type": "village",
+    "name_en": "Yakubpur (Gram Panchayat Area)",
+    "name_hi": "Yakubpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206255"
+    ]
+  },
+  {
+    "id": "po-auraiya-mahmoodpur",
+    "type": "village",
+    "name_en": "Mahmoodpur (Gram Panchayat Area)",
+    "name_hi": "Mahmoodpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206129"
+    ]
+  },
+  {
+    "id": "po-auraiya-nigra",
+    "type": "village",
+    "name_en": "Nigra (Gram Panchayat Area)",
+    "name_hi": "Nigra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206129"
+    ]
+  },
+  {
+    "id": "po-auraiya-phariha",
+    "type": "village",
+    "name_en": "Phariha (Gram Panchayat Area)",
+    "name_hi": "Phariha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206129"
+    ]
+  },
+  {
+    "id": "po-auraiya-uncha",
+    "type": "village",
+    "name_en": "Uncha (Gram Panchayat Area)",
+    "name_hi": "Uncha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206129"
+    ]
+  },
+  {
+    "id": "po-auraiya-adhasi",
+    "type": "village",
+    "name_en": "Adhasi (Gram Panchayat Area)",
+    "name_hi": "Adhasi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206247"
+    ]
+  },
+  {
+    "id": "po-auraiya-rurukalan",
+    "type": "village",
+    "name_en": "Rurukalan (Gram Panchayat Area)",
+    "name_hi": "Rurukalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206249"
+    ]
+  },
+  {
+    "id": "po-auraiya-sarai-sheesgram",
+    "type": "village",
+    "name_en": "Sarai Sheesgram (Gram Panchayat Area)",
+    "name_hi": "Sarai Sheesgram (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206249"
+    ]
+  },
+  {
+    "id": "po-auraiya-ikaurapur",
+    "type": "village",
+    "name_en": "Ikaurapur (Gram Panchayat Area)",
+    "name_hi": "Ikaurapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "po-auraiya-tilak-nagar",
+    "type": "village",
+    "name_en": "Tilak Nagar (Gram Panchayat Area)",
+    "name_hi": "Tilak Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "po-auraiya-jaitapur",
+    "type": "village",
+    "name_en": "Jaitapur (Gram Panchayat Area)",
+    "name_hi": "Jaitapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "po-auraiya-burhadana",
+    "type": "village",
+    "name_en": "Burhadana (Gram Panchayat Area)",
+    "name_hi": "Burhadana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "po-auraiya-kakhawatoo",
+    "type": "village",
+    "name_en": "Kakhawatoo (Gram Panchayat Area)",
+    "name_hi": "Kakhawatoo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "po-auraiya-itailly",
+    "type": "village",
+    "name_en": "Itailly (Gram Panchayat Area)",
+    "name_hi": "Itailly (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206241"
+    ]
+  },
+  {
+    "id": "po-auraiya-pata-rs",
+    "type": "village",
+    "name_en": "Pata RS (Gram Panchayat Area)",
+    "name_hi": "Pata RS (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206241"
+    ]
+  },
+  {
+    "id": "po-auraiya-barauna-kalan",
+    "type": "village",
+    "name_en": "Barauna Kalan (Gram Panchayat Area)",
+    "name_hi": "Barauna Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206252"
+    ]
+  },
+  {
+    "id": "po-auraiya-patna-airwa",
+    "type": "village",
+    "name_en": "Patna Airwa (Gram Panchayat Area)",
+    "name_hi": "Patna Airwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206252"
+    ]
+  },
+  {
+    "id": "po-auraiya-ballapur",
+    "type": "village",
+    "name_en": "Ballapur (Gram Panchayat Area)",
+    "name_hi": "Ballapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206121"
+    ]
+  },
+  {
+    "id": "po-auraiya-bhurepurkalan",
+    "type": "village",
+    "name_en": "Bhurepurkalan (Gram Panchayat Area)",
+    "name_hi": "Bhurepurkalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206121"
+    ]
+  },
+  {
+    "id": "po-auraiya-gauhani-kalan",
+    "type": "village",
+    "name_en": "Gauhani Kalan (Gram Panchayat Area)",
+    "name_hi": "Gauhani Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206121"
+    ]
+  },
+  {
+    "id": "po-auraiya-sanphar",
+    "type": "village",
+    "name_en": "Sanphar (Gram Panchayat Area)",
+    "name_hi": "Sanphar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206121"
+    ]
+  },
+  {
+    "id": "po-auraiya-gailly",
+    "type": "village",
+    "name_en": "Gailly (Gram Panchayat Area)",
+    "name_hi": "Gailly (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206251"
+    ]
+  },
+  {
+    "id": "po-auraiya-asjana",
+    "type": "village",
+    "name_en": "Asjana (Gram Panchayat Area)",
+    "name_hi": "Asjana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206243"
+    ]
+  },
+  {
+    "id": "po-auraiya-bhaipur",
+    "type": "village",
+    "name_en": "Bhaipur (Gram Panchayat Area)",
+    "name_hi": "Bhaipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206243"
+    ]
+  },
+  {
+    "id": "po-auraiya-kakor-buzurg",
+    "type": "village",
+    "name_en": "Kakor Buzurg (Gram Panchayat Area)",
+    "name_hi": "Kakor Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206244"
+    ]
+  },
+  {
+    "id": "po-auraiya-nauli",
+    "type": "village",
+    "name_en": "Nauli (Gram Panchayat Area)",
+    "name_hi": "Nauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206244"
+    ]
+  },
+  {
+    "id": "po-auraiya-sahayal",
+    "type": "village",
+    "name_en": "Sahayal (Gram Panchayat Area)",
+    "name_hi": "Sahayal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206244"
+    ]
+  },
+  {
+    "id": "po-auraiya-deoraon",
+    "type": "village",
+    "name_en": "Deoraon (Gram Panchayat Area)",
+    "name_hi": "Deoraon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206250"
+    ]
+  },
+  {
+    "id": "po-auraiya-rajuamau",
+    "type": "village",
+    "name_en": "Rajuamau (Gram Panchayat Area)",
+    "name_hi": "Rajuamau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206250"
+    ]
+  },
+  {
+    "id": "po-auraiya-dahgaon",
+    "type": "village",
+    "name_en": "Dahgaon (Gram Panchayat Area)",
+    "name_hi": "Dahgaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206246"
+    ]
+  },
+  {
+    "id": "po-auraiya-lahrapur",
+    "type": "village",
+    "name_en": "Lahrapur (Gram Panchayat Area)",
+    "name_hi": "Lahrapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206246"
+    ]
+  },
+  {
+    "id": "po-auraiya-daulatpur",
+    "type": "village",
+    "name_en": "Daulatpur (Gram Panchayat Area)",
+    "name_hi": "Daulatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "po-auraiya-sahabda",
+    "type": "village",
+    "name_en": "Sahabda (Gram Panchayat Area)",
+    "name_hi": "Sahabda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "po-auraiya-badharipur",
+    "type": "village",
+    "name_en": "Badharipur (Gram Panchayat Area)",
+    "name_hi": "Badharipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "po-auraiya-khanpur",
+    "type": "village",
+    "name_en": "Khanpur (Gram Panchayat Area)",
+    "name_hi": "Khanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "po-auraiya-kharka",
+    "type": "village",
+    "name_en": "Kharka (Gram Panchayat Area)",
+    "name_hi": "Kharka (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "po-auraiya-sherpur-saraiya",
+    "type": "village",
+    "name_en": "Sherpur Saraiya (Gram Panchayat Area)",
+    "name_hi": "Sherpur Saraiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "po-auraiya-bamuripur",
+    "type": "village",
+    "name_en": "Bamuripur (Gram Panchayat Area)",
+    "name_hi": "Bamuripur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "po-auraiya-bansi",
+    "type": "village",
+    "name_en": "Bansi (Gram Panchayat Area)",
+    "name_hi": "Bansi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206241"
+    ]
+  },
+  {
+    "id": "po-auraiya-dashera",
+    "type": "village",
+    "name_en": "Dashera (Gram Panchayat Area)",
+    "name_hi": "Dashera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206241"
+    ]
+  },
+  {
+    "id": "po-auraiya-gwari",
+    "type": "village",
+    "name_en": "Gwari (Gram Panchayat Area)",
+    "name_hi": "Gwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206241"
+    ]
+  },
+  {
+    "id": "po-auraiya-nagaria",
+    "type": "village",
+    "name_en": "Nagaria (Gram Panchayat Area)",
+    "name_hi": "Nagaria (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206241"
+    ]
+  },
+  {
+    "id": "po-auraiya-badhin",
+    "type": "village",
+    "name_en": "Badhin (Gram Panchayat Area)",
+    "name_hi": "Badhin (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206252"
+    ]
+  },
+  {
+    "id": "po-auraiya-bhedpur",
+    "type": "village",
+    "name_en": "Bhedpur (Gram Panchayat Area)",
+    "name_hi": "Bhedpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206252"
+    ]
+  },
+  {
+    "id": "po-auraiya-bilawan",
+    "type": "village",
+    "name_en": "Bilawan (Gram Panchayat Area)",
+    "name_hi": "Bilawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206121"
+    ]
+  },
+  {
+    "id": "po-auraiya-janishnagar",
+    "type": "village",
+    "name_en": "Janishnagar (Gram Panchayat Area)",
+    "name_hi": "Janishnagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206121"
+    ]
+  },
+  {
+    "id": "po-auraiya-sohari-garhia",
+    "type": "village",
+    "name_en": "Sohari Garhia (Gram Panchayat Area)",
+    "name_hi": "Sohari Garhia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206121"
+    ]
+  },
+  {
+    "id": "po-auraiya-mahu",
+    "type": "village",
+    "name_en": "Mahu (Gram Panchayat Area)",
+    "name_hi": "Mahu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206251"
+    ]
+  },
+  {
+    "id": "po-auraiya-bandhmau",
+    "type": "village",
+    "name_en": "Bandhmau (Gram Panchayat Area)",
+    "name_hi": "Bandhmau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206243"
+    ]
+  },
+  {
+    "id": "po-auraiya-banthara",
+    "type": "village",
+    "name_en": "Banthara (Gram Panchayat Area)",
+    "name_hi": "Banthara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206243"
+    ]
+  },
+  {
+    "id": "po-auraiya-tilakpur-farm",
+    "type": "village",
+    "name_en": "Tilakpur Farm (Gram Panchayat Area)",
+    "name_hi": "Tilakpur Farm (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206243"
+    ]
+  },
+  {
+    "id": "po-auraiya-aghara",
+    "type": "village",
+    "name_en": "Aghara (Gram Panchayat Area)",
+    "name_hi": "Aghara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206244"
+    ]
+  },
+  {
+    "id": "po-auraiya-piparpur",
+    "type": "village",
+    "name_en": "Piparpur (Gram Panchayat Area)",
+    "name_hi": "Piparpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206244"
+    ]
+  },
+  {
+    "id": "po-auraiya-kamara",
+    "type": "village",
+    "name_en": "Kamara (Gram Panchayat Area)",
+    "name_hi": "Kamara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206250"
+    ]
+  },
+  {
+    "id": "po-auraiya-saraipukhta",
+    "type": "village",
+    "name_en": "Saraipukhta (Gram Panchayat Area)",
+    "name_hi": "Saraipukhta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206250"
+    ]
+  },
+  {
+    "id": "po-auraiya-kanchausi",
+    "type": "village",
+    "name_en": "Kanchausi (Gram Panchayat Area)",
+    "name_hi": "Kanchausi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206246"
+    ]
+  },
+  {
+    "id": "po-auraiya-madhwapur",
+    "type": "village",
+    "name_en": "Madhwapur (Gram Panchayat Area)",
+    "name_hi": "Madhwapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206246"
+    ]
+  },
+  {
+    "id": "po-auraiya-jalalpur",
+    "type": "village",
+    "name_en": "Jalalpur (Gram Panchayat Area)",
+    "name_hi": "Jalalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206255"
+    ]
+  },
+  {
+    "id": "po-auraiya-bakhariya",
+    "type": "village",
+    "name_en": "Bakhariya (Gram Panchayat Area)",
+    "name_hi": "Bakhariya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206129"
+    ]
+  },
+  {
+    "id": "po-auraiya-bhikhepur",
+    "type": "village",
+    "name_en": "Bhikhepur (Gram Panchayat Area)",
+    "name_hi": "Bhikhepur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206129"
+    ]
+  },
+  {
+    "id": "po-auraiya-chapta",
+    "type": "village",
+    "name_en": "Chapta (Gram Panchayat Area)",
+    "name_hi": "Chapta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206129"
+    ]
+  },
+  {
+    "id": "po-auraiya-roshangpur",
+    "type": "village",
+    "name_en": "Roshangpur (Gram Panchayat Area)",
+    "name_hi": "Roshangpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206129"
+    ]
+  },
+  {
+    "id": "po-auraiya-haidarpur",
+    "type": "village",
+    "name_en": "Haidarpur (Gram Panchayat Area)",
+    "name_hi": "Haidarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206129"
+    ]
+  },
+  {
+    "id": "po-auraiya-bhagya-nagar",
+    "type": "village",
+    "name_en": "Bhagya Nagar (Gram Panchayat Area)",
+    "name_hi": "Bhagya Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhagyanagar",
+    "block_id": "bhagyanagar",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206247"
+    ]
+  },
+  {
+    "id": "po-auraiya-fatehpur-beni",
+    "type": "village",
+    "name_en": "Fatehpur Beni (Gram Panchayat Area)",
+    "name_hi": "Fatehpur Beni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206247"
+    ]
+  },
+  {
+    "id": "po-auraiya-murhi",
+    "type": "village",
+    "name_en": "Murhi (Gram Panchayat Area)",
+    "name_hi": "Murhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206247"
+    ]
+  },
+  {
+    "id": "po-auraiya-barahar",
+    "type": "village",
+    "name_en": "Barahar (Gram Panchayat Area)",
+    "name_hi": "Barahar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206249"
+    ]
+  },
+  {
+    "id": "po-auraiya-kudarkot",
+    "type": "village",
+    "name_en": "Kudarkot (Gram Panchayat Area)",
+    "name_hi": "Kudarkot (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206249"
+    ]
+  },
+  {
+    "id": "po-auraiya-narainpur",
+    "type": "village",
+    "name_en": "Narainpur (Gram Panchayat Area)",
+    "name_hi": "Narainpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206248"
+    ]
+  },
+  {
+    "id": "po-auraiya-marhadaspur",
+    "type": "village",
+    "name_en": "Marhadaspur (Gram Panchayat Area)",
+    "name_hi": "Marhadaspur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206255"
+    ]
+  },
+  {
+    "id": "po-auraiya-bhason",
+    "type": "village",
+    "name_en": "Bhason (Gram Panchayat Area)",
+    "name_hi": "Bhason (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206129"
+    ]
+  },
+  {
+    "id": "po-auraiya-birhuni",
+    "type": "village",
+    "name_en": "Birhuni (Gram Panchayat Area)",
+    "name_hi": "Birhuni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206129"
+    ]
+  },
+  {
+    "id": "po-auraiya-karampur",
+    "type": "village",
+    "name_en": "Karampur (Gram Panchayat Area)",
+    "name_hi": "Karampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206129"
+    ]
+  },
+  {
+    "id": "po-auraiya-sikharna",
+    "type": "village",
+    "name_en": "Sikharna (Gram Panchayat Area)",
+    "name_hi": "Sikharna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206129"
+    ]
+  },
+  {
+    "id": "po-auraiya-ayana",
+    "type": "village",
+    "name_en": "Ayana (Gram Panchayat Area)",
+    "name_hi": "Ayana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206129"
+    ]
+  },
+  {
+    "id": "po-auraiya-ata",
+    "type": "village",
+    "name_en": "Ata (Gram Panchayat Area)",
+    "name_hi": "Ata (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206247"
+    ]
+  },
+  {
+    "id": "po-auraiya-jua",
+    "type": "village",
+    "name_en": "Jua (Gram Panchayat Area)",
+    "name_hi": "Jua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206247"
+    ]
+  },
+  {
+    "id": "po-auraiya-salhapur",
+    "type": "village",
+    "name_en": "Salhapur (Gram Panchayat Area)",
+    "name_hi": "Salhapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206247"
+    ]
+  },
+  {
+    "id": "po-auraiya-kalabhoj",
+    "type": "village",
+    "name_en": "Kalabhoj (Gram Panchayat Area)",
+    "name_hi": "Kalabhoj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206249"
+    ]
+  },
+  {
+    "id": "po-auraiya-pasuwa",
+    "type": "village",
+    "name_en": "Pasuwa (Gram Panchayat Area)",
+    "name_hi": "Pasuwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206249"
+    ]
+  },
+  {
+    "id": "po-auraiya-purwa-jain",
+    "type": "village",
+    "name_en": "Purwa Jain (Gram Panchayat Area)",
+    "name_hi": "Purwa Jain (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206248"
+    ]
+  },
+  {
+    "id": "po-auraiya-shivganj",
+    "type": "village",
+    "name_en": "Shivganj (Gram Panchayat Area)",
+    "name_hi": "Shivganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206248"
+    ]
+  },
+  {
+    "id": "po-auraiya-sekhupur-adhar-singh",
+    "type": "village",
+    "name_en": "Sekhupur Adhar Singh (Gram Panchayat Area)",
+    "name_hi": "Sekhupur Adhar Singh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206120"
+    ]
+  },
+  {
+    "id": "po-auraiya-phoolpur",
+    "type": "village",
+    "name_en": "Phoolpur (Gram Panchayat Area)",
+    "name_hi": "Phoolpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206128"
+    ]
+  },
+  {
+    "id": "po-auraiya-anantram-sonasi",
+    "type": "village",
+    "name_en": "Anantram Sonasi (Gram Panchayat Area)",
+    "name_hi": "Anantram Sonasi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206128"
+    ]
+  },
+  {
+    "id": "po-auraiya-jagannathpur",
+    "type": "village",
+    "name_en": "Jagannathpur (Gram Panchayat Area)",
+    "name_hi": "Jagannathpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-auraiya",
+    "block_id": "auraiya",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "206128"
+    ]
+  },
+  {
+    "id": "ward-auraiya-ulb-auraiya-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Auraiya (All Wards)",
+    "name_hi": "औरैया नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-auraiya-babarpur-so-auraiya",
+    "type": "ward",
+    "name_en": "Babarpur SO Auraiya (Urban Ward / SO)",
+    "name_hi": "Babarpur SO Auraiya (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206121"
+    ]
+  },
+  {
+    "id": "town-auraiya-airwa-katra",
+    "type": "ward",
+    "name_en": "Airwa Katra (Urban Ward / SO)",
+    "name_hi": "Airwa Katra (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206252"
+    ]
+  },
+  {
+    "id": "town-auraiya-dibiapur-mandi",
+    "type": "ward",
+    "name_en": "Dibiapur Mandi (Urban Ward / SO)",
+    "name_hi": "Dibiapur Mandi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206244"
+    ]
+  },
+  {
+    "id": "town-auraiya-nevilganj",
+    "type": "ward",
+    "name_en": "Nevilganj (Urban Ward / SO)",
+    "name_hi": "Nevilganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206241"
+    ]
+  },
+  {
+    "id": "town-auraiya-achhalda",
+    "type": "ward",
+    "name_en": "Achhalda (Urban Ward / SO)",
+    "name_hi": "Achhalda (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206241"
+    ]
+  },
+  {
+    "id": "town-auraiya-ajitmal",
+    "type": "ward",
+    "name_en": "Ajitmal (Urban Ward / SO)",
+    "name_hi": "Ajitmal (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206121"
+    ]
+  },
+  {
+    "id": "town-auraiya-bidhuna",
+    "type": "ward",
+    "name_en": "Bidhuna (Urban Ward / SO)",
+    "name_hi": "Bidhuna (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206243"
+    ]
+  },
+  {
+    "id": "town-auraiya-dibiapur",
+    "type": "ward",
+    "name_en": "Dibiapur (Urban Ward / SO)",
+    "name_hi": "Dibiapur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206244"
+    ]
+  },
+  {
+    "id": "town-auraiya-malhosi",
+    "type": "ward",
+    "name_en": "Malhosi (Urban Ward / SO)",
+    "name_hi": "Malhosi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206255"
+    ]
+  },
+  {
+    "id": "town-auraiya-n-t-p-c-dibiapur",
+    "type": "ward",
+    "name_en": "N T P C Dibiapur (Urban Ward / SO)",
+    "name_hi": "N T P C Dibiapur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206244"
+    ]
+  },
+  {
+    "id": "town-auraiya-narainpur-so-auraiya",
+    "type": "ward",
+    "name_en": "Narainpur SO Auraiya (Urban Ward / SO)",
+    "name_hi": "Narainpur SO Auraiya (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "town-auraiya-phaphund",
+    "type": "ward",
+    "name_en": "Phaphund (Urban Ward / SO)",
+    "name_hi": "Phaphund (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206247"
+    ]
+  },
+  {
+    "id": "town-auraiya-auraiya",
+    "type": "ward",
+    "name_en": "Auraiya (Urban Ward / SO)",
+    "name_hi": "Auraiya (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206122"
+    ]
+  },
+  {
+    "id": "town-auraiya-bela-so-auraiya",
+    "type": "ward",
+    "name_en": "Bela SO Auraiya (Urban Ward / SO)",
+    "name_hi": "Bela SO Auraiya (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206251"
+    ]
+  },
+  {
+    "id": "town-auraiya-harchandpur-so-auraiya",
+    "type": "ward",
+    "name_en": "Harchandpur SO Auraiya (Urban Ward / SO)",
+    "name_hi": "Harchandpur SO Auraiya (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206250"
+    ]
+  },
+  {
+    "id": "town-auraiya-kanchausi-bazar",
+    "type": "ward",
+    "name_en": "Kanchausi Bazar (Urban Ward / SO)",
+    "name_hi": "Kanchausi Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206246"
+    ]
+  },
+  {
+    "id": "town-auraiya-muradganj",
+    "type": "ward",
+    "name_en": "Muradganj (Urban Ward / SO)",
+    "name_hi": "Muradganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206129"
+    ]
+  },
+  {
+    "id": "town-auraiya-ruruganj",
+    "type": "ward",
+    "name_en": "Ruruganj (Urban Ward / SO)",
+    "name_hi": "Ruruganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206249"
+    ]
+  },
+  {
+    "id": "town-auraiya-sahar-so-auraiya",
+    "type": "ward",
+    "name_en": "Sahar SO Auraiya (Urban Ward / SO)",
+    "name_hi": "Sahar SO Auraiya (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-auraiya-main",
+    "tehsil_id": "auraiya",
+    "district_id": "auraiya",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "206248"
+    ]
+  }
+]

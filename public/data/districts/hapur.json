@@ -28,7 +28,7 @@
       "covers": [
         "hapur"
       ],
-      "source_url": "https://hapur.nic.in/whos-who/",
+      "source_url": "https://hapur.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Collectorate Hapur"
@@ -52,7 +52,7 @@
       "covers": [
         "hapur"
       ],
-      "source_url": "https://hapur.nic.in/whos-who/",
+      "source_url": "https://hapur.nic.in/development-department/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Vikas Bhawan, Hapur"
@@ -123,14 +123,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Hapur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hapur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "7275554549",
+          "type": "office",
+          "source_url": "https://hapur.nic.in/development-department/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.hapur.hpr@gmail.com",
       "covers": [
         "hapur"
       ],
-      "source_url": "https://hapur.nic.in/whos-who/",
+      "source_url": "https://hapur.nic.in/development-department/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hapur-ado-hapur",
@@ -144,7 +152,8 @@
       ],
       "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hapur-bdo-hapur"
     },
     {
       "id": "up-hapur-bdo-simbhawali",
@@ -152,14 +161,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Simbhawali",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Simbhawali",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8765629597",
+          "type": "office",
+          "source_url": "https://hapur.nic.in/development-department/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.simbhawali.hpr@gmail.com",
       "covers": [
         "simbhawali"
       ],
-      "source_url": "https://hapur.nic.in/whos-who/",
+      "source_url": "https://hapur.nic.in/development-department/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hapur-ado-simbhawali",
@@ -173,7 +190,8 @@
       ],
       "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hapur-bdo-simbhawali"
     },
     {
       "id": "up-hapur-bdo-garhmukteshwar",
@@ -186,9 +204,9 @@
       "covers": [
         "garhmukteshwar"
       ],
-      "source_url": "https://hapur.nic.in/whos-who/",
+      "source_url": "https://hapur.nic.in/development-department/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hapur-ado-garhmukteshwar",
@@ -202,7 +220,8 @@
       ],
       "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hapur-bdo-garhmukteshwar"
     },
     {
       "id": "up-hapur-bdo-dhaulana",
@@ -210,14 +229,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Dhaulana",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dhaulana",
-      "phones": [],
+      "phones": [
+        {
+          "number": "0122-2376977",
+          "type": "landline",
+          "source_url": "https://hapur.nic.in/development-department/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.dhaulana.hpr@gmail.com",
       "covers": [
         "dhaulana"
       ],
-      "source_url": "https://hapur.nic.in/whos-who/",
+      "source_url": "https://hapur.nic.in/development-department/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-hapur-ado-dhaulana",
@@ -231,7 +258,8 @@
       ],
       "source_url": "https://hapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hapur-bdo-dhaulana"
     },
     {
       "id": "eo-hapur-main",

@@ -45,7 +45,7 @@
       "covers": [
         "mathura"
       ],
-      "source_url": "https://mathura.nic.in/whos-who/",
+      "source_url": "https://mathura.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Dr.Pooja Gupta( I.A.S)",
@@ -57,14 +57,23 @@
       "role": "dpro",
       "office_name_en": "District Panchayat Raj Officer (DPRO), Mathura",
       "office_name_hi": "जिला पंचायत राज अधिकारी, मथुरा",
-      "phones": [],
+      "phones": [
+        {
+          "number": "0565-2471084",
+          "type": "landline",
+          "source_url": "https://mathura.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "dpro-mat@nic.in",
       "covers": [
         "mathura"
       ],
-      "source_url": "https://mathura.nic.in/whos-who/",
+      "source_url": "https://mathura.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "DPRO"
     },
     {
       "id": "up-mathura-sdm-mathura",
@@ -92,9 +101,10 @@
       "covers": [
         "chhata"
       ],
-      "source_url": "https://mathura.nic.in/whos-who/",
+      "source_url": "https://mathura.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "S.D.M Chhata"
     },
     {
       "id": "up-mathura-sdm-mant",
@@ -107,9 +117,10 @@
       "covers": [
         "mant"
       ],
-      "source_url": "https://mathura.nic.in/whos-who/",
+      "source_url": "https://mathura.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "S.D.M Mant"
     },
     {
       "id": "up-mathura-sdm-goverdhan",
@@ -122,9 +133,10 @@
       "covers": [
         "goverdhan"
       ],
-      "source_url": "https://mathura.nic.in/whos-who/",
+      "source_url": "https://mathura.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "S.D.M Goverdhan"
     },
     {
       "id": "up-mathura-sdm-mahavan",
@@ -137,9 +149,10 @@
       "covers": [
         "mahavan"
       ],
-      "source_url": "https://mathura.nic.in/whos-who/",
+      "source_url": "https://mathura.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "S.D.M Mahavan"
     },
     {
       "id": "up-mathura-bdo-mathura",
@@ -147,14 +160,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mathura",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mathura",
-      "phones": [],
+      "phones": [
+        {
+          "number": "7375054643",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.mathura.mat@gmail.com",
       "covers": [
         "mathura"
       ],
-      "source_url": "https://mathura.nic.in/whos-who/",
+      "source_url": "https://mathura.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Jyoti Sharma"
     },
     {
       "id": "up-mathura-ado-mathura",
@@ -168,7 +190,8 @@
       ],
       "source_url": "https://mathura.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mathura-bdo-mathura"
     },
     {
       "id": "up-mathura-bdo-goverdhan",
@@ -176,14 +199,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Goverdhan",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Goverdhan",
-      "phones": [],
+      "phones": [
+        {
+          "number": "7983318977",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.goverdhan.mat@gmail.com",
       "covers": [
         "goverdhan"
       ],
-      "source_url": "https://mathura.nic.in/whos-who/",
+      "source_url": "https://mathura.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Devendrapal Singh"
     },
     {
       "id": "up-mathura-ado-goverdhan",
@@ -197,7 +229,8 @@
       ],
       "source_url": "https://mathura.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mathura-bdo-goverdhan"
     },
     {
       "id": "up-mathura-bdo-chhata",
@@ -205,14 +238,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Chhata",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chhata",
-      "phones": [],
+      "phones": [
+        {
+          "number": "7042483755",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.chhata.mat@gmail.com",
       "covers": [
         "chhata"
       ],
-      "source_url": "https://mathura.nic.in/whos-who/",
+      "source_url": "https://mathura.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Naresh Kumar"
     },
     {
       "id": "up-mathura-ado-chhata",
@@ -226,7 +268,8 @@
       ],
       "source_url": "https://mathura.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mathura-bdo-chhata"
     },
     {
       "id": "up-mathura-bdo-chaumuha",
@@ -234,14 +277,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Chaumuha",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chaumuha",
-      "phones": [],
+      "phones": [
+        {
+          "number": "0565-2970297",
+          "type": "landline",
+          "source_url": "https://mathura.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.chaumuha.mat@gmail.com",
       "covers": [
         "chaumuha"
       ],
-      "source_url": "https://mathura.nic.in/whos-who/",
+      "source_url": "https://mathura.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Rinku Singh"
     },
     {
       "id": "up-mathura-ado-chaumuha",
@@ -255,7 +307,8 @@
       ],
       "source_url": "https://mathura.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mathura-bdo-chaumuha"
     },
     {
       "id": "up-mathura-bdo-nandgaon",
@@ -268,9 +321,10 @@
       "covers": [
         "nandgaon"
       ],
-      "source_url": "https://mathura.nic.in/whos-who/",
+      "source_url": "https://mathura.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Naresh Kumar"
     },
     {
       "id": "up-mathura-ado-nandgaon",
@@ -284,7 +338,8 @@
       ],
       "source_url": "https://mathura.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mathura-bdo-nandgaon"
     },
     {
       "id": "up-mathura-bdo-mant",
@@ -292,14 +347,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mant",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mant",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8384896712",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.mant.mat@gmail.com",
       "covers": [
         "mant"
       ],
-      "source_url": "https://mathura.nic.in/whos-who/",
+      "source_url": "https://mathura.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Sumant Yadav"
     },
     {
       "id": "up-mathura-ado-mant",
@@ -313,7 +377,8 @@
       ],
       "source_url": "https://mathura.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mathura-bdo-mant"
     },
     {
       "id": "up-mathura-bdo-naujheel",
@@ -342,7 +407,8 @@
       ],
       "source_url": "https://mathura.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mathura-bdo-naujheel"
     },
     {
       "id": "up-mathura-bdo-raya",
@@ -350,14 +416,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Raya",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Raya",
-      "phones": [],
+      "phones": [
+        {
+          "number": "7668818223",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.raya.mat@gmail.com",
       "covers": [
         "raya"
       ],
-      "source_url": "https://mathura.nic.in/whos-who/",
+      "source_url": "https://mathura.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Satyendra Singh"
     },
     {
       "id": "up-mathura-ado-raya",
@@ -371,7 +446,8 @@
       ],
       "source_url": "https://mathura.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mathura-bdo-raya"
     },
     {
       "id": "up-mathura-bdo-farah",
@@ -379,14 +455,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Farah",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Farah",
-      "phones": [],
+      "phones": [
+        {
+          "number": "7531004422",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.farah.mat@gmail.com",
       "covers": [
         "farah"
       ],
-      "source_url": "https://mathura.nic.in/whos-who/",
+      "source_url": "https://mathura.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Neha Rawat"
     },
     {
       "id": "up-mathura-ado-farah",
@@ -400,7 +485,8 @@
       ],
       "source_url": "https://mathura.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mathura-bdo-farah"
     },
     {
       "id": "up-mathura-bdo-baldeo",
@@ -413,9 +499,10 @@
       "covers": [
         "baldeo"
       ],
-      "source_url": "https://mathura.nic.in/whos-who/",
+      "source_url": "https://mathura.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Neha Rawat"
     },
     {
       "id": "up-mathura-ado-baldeo",
@@ -429,7 +516,8 @@
       ],
       "source_url": "https://mathura.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mathura-bdo-baldeo"
     },
     {
       "id": "eo-mathura-main",
@@ -437,13 +525,56 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Mathura",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका मथुरा",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8218996301",
+          "type": "office",
+          "source_url": "https://mathura.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-mathura-main"
       ],
-      "source_url": "https://mathura.nic.in/whos-who/",
+      "source_url": "https://mathura.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Aojasvi Raj ( I.A.S)",
+      "email": "nagarayuktmathura@gmail.com",
+      "address_en": "Bhuteshwar jalkal compound, krishna Nagar, Mathura"
+    },
+    {
+      "id": "up-mathura-commissioner",
+      "level": "ulb",
+      "role": "commissioner",
+      "office_name_en": "Municipal Commissioner, Mathura Nagar Nigam",
+      "office_name_hi": "नगर आयुक्त, मथुरा नगर निगम",
+      "phones": [
+        {
+          "number": "8189077823",
+          "type": "cug",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0565-2500006",
+          "type": "landline",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "mathura"
+      ],
+      "source_url": "https://mathura.nic.in/about-district/whos-who/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "email": "8189077823nagarayuktmathura@gmail.com",
+      "officer_name_en": "श्री अनुनया झा",
+      "address_en": "Bhuteshwar jalkal compound, krishna Nagar, Mathura"
     }
   ]
 }

@@ -1,0 +1,2637 @@
+[
+  {
+    "id": "v-mainpuri-mainpuri",
+    "type": "village",
+    "name_en": "Mainpuri Block (Gram Panchayats)",
+    "name_hi": "Mainpuri विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mainpuri-ghiror",
+    "type": "village",
+    "name_en": "Ghiror Block (Gram Panchayats)",
+    "name_hi": "Ghiror विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-ghiror",
+    "block_id": "ghiror",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mainpuri-kuraoli",
+    "type": "village",
+    "name_en": "Kuraoli Block (Gram Panchayats)",
+    "name_hi": "Kuraoli विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kuraoli",
+    "block_id": "kuraoli",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mainpuri-kishni",
+    "type": "village",
+    "name_en": "Kishni Block (Gram Panchayats)",
+    "name_hi": "Kishni विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kishni",
+    "block_id": "kishni",
+    "tehsil_id": "kishni",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mainpuri-karhal",
+    "type": "village",
+    "name_en": "Karhal Block (Gram Panchayats)",
+    "name_hi": "Karhal विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-karhal",
+    "block_id": "karhal",
+    "tehsil_id": "karhal",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mainpuri-barnahal",
+    "type": "village",
+    "name_en": "Barnahal Block (Gram Panchayats)",
+    "name_hi": "Barnahal विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barnahal",
+    "block_id": "barnahal",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mainpuri-bewar",
+    "type": "village",
+    "name_en": "Bewar Block (Gram Panchayats)",
+    "name_hi": "Bewar विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bewar",
+    "block_id": "bewar",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mainpuri-bhongaon",
+    "type": "village",
+    "name_en": "Bhongaon Block (Gram Panchayats)",
+    "name_hi": "Bhongaon विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhongaon",
+    "block_id": "bhongaon",
+    "tehsil_id": "bhongaon",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mainpuri-sultanganj",
+    "type": "village",
+    "name_en": "Sultanganj Block (Gram Panchayats)",
+    "name_hi": "Sultanganj विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sultanganj",
+    "block_id": "sultanganj",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-mainpuri-daulatpur",
+    "type": "village",
+    "name_en": "Daulatpur (Gram Panchayat Area)",
+    "name_hi": "Daulatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-nagla-jula",
+    "type": "village",
+    "name_en": "Nagla Jula (Gram Panchayat Area)",
+    "name_hi": "Nagla Jula (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-jasmai",
+    "type": "village",
+    "name_en": "Jasmai (Gram Panchayat Area)",
+    "name_hi": "Jasmai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209720"
+    ]
+  },
+  {
+    "id": "po-mainpuri-jot",
+    "type": "village",
+    "name_en": "Jot (Gram Panchayat Area)",
+    "name_hi": "Jot (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209720"
+    ]
+  },
+  {
+    "id": "po-mainpuri-kaitholi",
+    "type": "village",
+    "name_en": "Kaitholi (Gram Panchayat Area)",
+    "name_hi": "Kaitholi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209720"
+    ]
+  },
+  {
+    "id": "po-mainpuri-ahirwa",
+    "type": "village",
+    "name_en": "Ahirwa (Gram Panchayat Area)",
+    "name_hi": "Ahirwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-badshahpur",
+    "type": "village",
+    "name_en": "Badshahpur (Gram Panchayat Area)",
+    "name_hi": "Badshahpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205121"
+    ]
+  },
+  {
+    "id": "po-mainpuri-baijua-khas",
+    "type": "village",
+    "name_en": "Baijua Khas (Gram Panchayat Area)",
+    "name_hi": "Baijua Khas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205121"
+    ]
+  },
+  {
+    "id": "po-mainpuri-bajhera-bujurg",
+    "type": "village",
+    "name_en": "Bajhera  Bujurg (Gram Panchayat Area)",
+    "name_hi": "Bajhera  Bujurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205121"
+    ]
+  },
+  {
+    "id": "po-mainpuri-johari-nagar",
+    "type": "village",
+    "name_en": "Johari Nagar (Gram Panchayat Area)",
+    "name_hi": "Johari Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205121"
+    ]
+  },
+  {
+    "id": "po-mainpuri-nauner",
+    "type": "village",
+    "name_en": "Nauner (Gram Panchayat Area)",
+    "name_hi": "Nauner (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-beonti-khurd",
+    "type": "village",
+    "name_en": "Beonti Khurd (Gram Panchayat Area)",
+    "name_hi": "Beonti Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-jic-nauner",
+    "type": "village",
+    "name_en": "JIC Nauner (Gram Panchayat Area)",
+    "name_hi": "JIC Nauner (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-sikandarpur",
+    "type": "village",
+    "name_en": "Sikandarpur (Gram Panchayat Area)",
+    "name_hi": "Sikandarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-aunha",
+    "type": "village",
+    "name_en": "Aunha (Gram Panchayat Area)",
+    "name_hi": "Aunha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205268"
+    ]
+  },
+  {
+    "id": "po-mainpuri-anjani",
+    "type": "village",
+    "name_en": "Anjani (Gram Panchayat Area)",
+    "name_hi": "Anjani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-lalupur",
+    "type": "village",
+    "name_en": "Lalupur (Gram Panchayat Area)",
+    "name_hi": "Lalupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-agautha",
+    "type": "village",
+    "name_en": "Agautha (Gram Panchayat Area)",
+    "name_hi": "Agautha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205247"
+    ]
+  },
+  {
+    "id": "po-mainpuri-pundari",
+    "type": "village",
+    "name_en": "Pundari (Gram Panchayat Area)",
+    "name_hi": "Pundari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205247"
+    ]
+  },
+  {
+    "id": "po-mainpuri-ratanpur-bara",
+    "type": "village",
+    "name_en": "Ratanpur Bara (Gram Panchayat Area)",
+    "name_hi": "Ratanpur Bara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205247"
+    ]
+  },
+  {
+    "id": "po-mainpuri-chandikara",
+    "type": "village",
+    "name_en": "Chandikara (Gram Panchayat Area)",
+    "name_hi": "Chandikara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205261"
+    ]
+  },
+  {
+    "id": "po-mainpuri-dihuli",
+    "type": "village",
+    "name_en": "Dihuli (Gram Panchayat Area)",
+    "name_hi": "Dihuli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205261"
+    ]
+  },
+  {
+    "id": "po-mainpuri-sukurullapur",
+    "type": "village",
+    "name_en": "Sukurullapur (Gram Panchayat Area)",
+    "name_hi": "Sukurullapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205261"
+    ]
+  },
+  {
+    "id": "po-mainpuri-garhia-chhinkaura",
+    "type": "village",
+    "name_en": "Garhia Chhinkaura (Gram Panchayat Area)",
+    "name_hi": "Garhia Chhinkaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205301"
+    ]
+  },
+  {
+    "id": "po-mainpuri-joga",
+    "type": "village",
+    "name_en": "Joga (Gram Panchayat Area)",
+    "name_hi": "Joga (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205301"
+    ]
+  },
+  {
+    "id": "po-mainpuri-mudai",
+    "type": "village",
+    "name_en": "MUDAI (Gram Panchayat Area)",
+    "name_hi": "MUDAI (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205301"
+    ]
+  },
+  {
+    "id": "po-mainpuri-aung",
+    "type": "village",
+    "name_en": "Aung (Gram Panchayat Area)",
+    "name_hi": "Aung (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205262"
+    ]
+  },
+  {
+    "id": "po-mainpuri-chhachha",
+    "type": "village",
+    "name_en": "Chhachha (Gram Panchayat Area)",
+    "name_hi": "Chhachha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205262"
+    ]
+  },
+  {
+    "id": "po-mainpuri-garhia-govindepur",
+    "type": "village",
+    "name_en": "Garhia Govindepur (Gram Panchayat Area)",
+    "name_hi": "Garhia Govindepur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205262"
+    ]
+  },
+  {
+    "id": "po-mainpuri-jamaura",
+    "type": "village",
+    "name_en": "Jamaura (Gram Panchayat Area)",
+    "name_hi": "Jamaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205262"
+    ]
+  },
+  {
+    "id": "po-mainpuri-mota",
+    "type": "village",
+    "name_en": "Mota (Gram Panchayat Area)",
+    "name_hi": "Mota (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205262"
+    ]
+  },
+  {
+    "id": "po-mainpuri-rajwana",
+    "type": "village",
+    "name_en": "Rajwana (Gram Panchayat Area)",
+    "name_hi": "Rajwana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205262"
+    ]
+  },
+  {
+    "id": "po-mainpuri-isai-gopalpur",
+    "type": "village",
+    "name_en": "Isai Gopalpur (Gram Panchayat Area)",
+    "name_hi": "Isai Gopalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205263"
+    ]
+  },
+  {
+    "id": "po-mainpuri-madhan",
+    "type": "village",
+    "name_en": "Madhan (Gram Panchayat Area)",
+    "name_hi": "Madhan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205263"
+    ]
+  },
+  {
+    "id": "po-mainpuri-manauna",
+    "type": "village",
+    "name_en": "Manauna (Gram Panchayat Area)",
+    "name_hi": "Manauna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205263"
+    ]
+  },
+  {
+    "id": "po-mainpuri-kirthua",
+    "type": "village",
+    "name_en": "Kirthua (Gram Panchayat Area)",
+    "name_hi": "Kirthua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205264"
+    ]
+  },
+  {
+    "id": "po-mainpuri-nagla-dik",
+    "type": "village",
+    "name_en": "Nagla Dik (Gram Panchayat Area)",
+    "name_hi": "Nagla Dik (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205264"
+    ]
+  },
+  {
+    "id": "po-mainpuri-nakau",
+    "type": "village",
+    "name_en": "Nakau (Gram Panchayat Area)",
+    "name_hi": "Nakau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205264"
+    ]
+  },
+  {
+    "id": "po-mainpuri-chauraipur",
+    "type": "village",
+    "name_en": "Chauraipur (Gram Panchayat Area)",
+    "name_hi": "Chauraipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205303"
+    ]
+  },
+  {
+    "id": "po-mainpuri-chitayan",
+    "type": "village",
+    "name_en": "Chitayan (Gram Panchayat Area)",
+    "name_hi": "Chitayan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205303"
+    ]
+  },
+  {
+    "id": "po-mainpuri-farenzi",
+    "type": "village",
+    "name_en": "Farenzi (Gram Panchayat Area)",
+    "name_hi": "Farenzi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205303"
+    ]
+  },
+  {
+    "id": "po-mainpuri-kutukpur",
+    "type": "village",
+    "name_en": "Kutukpur (Gram Panchayat Area)",
+    "name_hi": "Kutukpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205303"
+    ]
+  },
+  {
+    "id": "po-mainpuri-naigwan-kheria",
+    "type": "village",
+    "name_en": "Naigwan kheria (Gram Panchayat Area)",
+    "name_hi": "Naigwan kheria (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205303"
+    ]
+  },
+  {
+    "id": "po-mainpuri-belahar",
+    "type": "village",
+    "name_en": "Belahar (Gram Panchayat Area)",
+    "name_hi": "Belahar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205265"
+    ]
+  },
+  {
+    "id": "po-mainpuri-jakhaua",
+    "type": "village",
+    "name_en": "Jakhaua (Gram Panchayat Area)",
+    "name_hi": "Jakhaua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205265"
+    ]
+  },
+  {
+    "id": "po-mainpuri-salempur",
+    "type": "village",
+    "name_en": "Salempur (Gram Panchayat Area)",
+    "name_hi": "Salempur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205265"
+    ]
+  },
+  {
+    "id": "po-mainpuri-ghitauli",
+    "type": "village",
+    "name_en": "Ghitauli (Gram Panchayat Area)",
+    "name_hi": "Ghitauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-gola-bazar",
+    "type": "village",
+    "name_en": "Gola Bazar (Gram Panchayat Area)",
+    "name_hi": "Gola Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-kakan",
+    "type": "village",
+    "name_en": "Kakan (Gram Panchayat Area)",
+    "name_hi": "Kakan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-karimganj",
+    "type": "village",
+    "name_en": "Karimganj (Gram Panchayat Area)",
+    "name_hi": "Karimganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-musayatpur-kheriya",
+    "type": "village",
+    "name_en": "Musayatpur Kheriya (Gram Panchayat Area)",
+    "name_hi": "Musayatpur Kheriya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205121"
+    ]
+  },
+  {
+    "id": "po-mainpuri-shahjahanpur",
+    "type": "village",
+    "name_en": "Shahjahanpur (Gram Panchayat Area)",
+    "name_hi": "Shahjahanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205121"
+    ]
+  },
+  {
+    "id": "po-mainpuri-sagauni",
+    "type": "village",
+    "name_en": "Sagauni (Gram Panchayat Area)",
+    "name_hi": "Sagauni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-dharmangadpur",
+    "type": "village",
+    "name_en": "Dharmangadpur (Gram Panchayat Area)",
+    "name_hi": "Dharmangadpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205247"
+    ]
+  },
+  {
+    "id": "po-mainpuri-hathpau",
+    "type": "village",
+    "name_en": "Hathpau (Gram Panchayat Area)",
+    "name_hi": "Hathpau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205247"
+    ]
+  },
+  {
+    "id": "po-mainpuri-jagir",
+    "type": "village",
+    "name_en": "Jagir (Gram Panchayat Area)",
+    "name_hi": "Jagir (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205247"
+    ]
+  },
+  {
+    "id": "po-mainpuri-dalupur",
+    "type": "village",
+    "name_en": "Dalupur (Gram Panchayat Area)",
+    "name_hi": "Dalupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205261"
+    ]
+  },
+  {
+    "id": "po-mainpuri-dharau",
+    "type": "village",
+    "name_en": "Dharau (Gram Panchayat Area)",
+    "name_hi": "Dharau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-ninauli",
+    "type": "village",
+    "name_en": "Ninauli (Gram Panchayat Area)",
+    "name_hi": "Ninauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-auden-padaria",
+    "type": "village",
+    "name_en": "Auden Padaria (Gram Panchayat Area)",
+    "name_hi": "Auden Padaria (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-kharpari",
+    "type": "village",
+    "name_en": "Kharpari (Gram Panchayat Area)",
+    "name_hi": "Kharpari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-bhawat",
+    "type": "village",
+    "name_en": "Bhawat (Gram Panchayat Area)",
+    "name_hi": "Bhawat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205247"
+    ]
+  },
+  {
+    "id": "po-mainpuri-hazipur-nera",
+    "type": "village",
+    "name_en": "Hazipur Nera (Gram Panchayat Area)",
+    "name_hi": "Hazipur Nera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205261"
+    ]
+  },
+  {
+    "id": "po-mainpuri-lakhanmau",
+    "type": "village",
+    "name_en": "Lakhanmau (Gram Panchayat Area)",
+    "name_hi": "Lakhanmau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205261"
+    ]
+  },
+  {
+    "id": "po-mainpuri-sarakh",
+    "type": "village",
+    "name_en": "Sarakh (Gram Panchayat Area)",
+    "name_hi": "Sarakh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205261"
+    ]
+  },
+  {
+    "id": "po-mainpuri-bharaul",
+    "type": "village",
+    "name_en": "Bharaul (Gram Panchayat Area)",
+    "name_hi": "Bharaul (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205121"
+    ]
+  },
+  {
+    "id": "po-mainpuri-azmabad-araon",
+    "type": "village",
+    "name_en": "Azmabad Araon (Gram Panchayat Area)",
+    "name_hi": "Azmabad Araon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205121"
+    ]
+  },
+  {
+    "id": "po-mainpuri-kalhor",
+    "type": "village",
+    "name_en": "Kalhor (Gram Panchayat Area)",
+    "name_hi": "Kalhor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205121"
+    ]
+  },
+  {
+    "id": "po-mainpuri-pachawer",
+    "type": "village",
+    "name_en": "Pachawer (Gram Panchayat Area)",
+    "name_hi": "Pachawer (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205121"
+    ]
+  },
+  {
+    "id": "po-mainpuri-paronkha",
+    "type": "village",
+    "name_en": "Paronkha (Gram Panchayat Area)",
+    "name_hi": "Paronkha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205301"
+    ]
+  },
+  {
+    "id": "po-mainpuri-mahmudia",
+    "type": "village",
+    "name_en": "Mahmudia (Gram Panchayat Area)",
+    "name_hi": "Mahmudia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205301"
+    ]
+  },
+  {
+    "id": "po-mainpuri-aghar",
+    "type": "village",
+    "name_en": "Aghar (Gram Panchayat Area)",
+    "name_hi": "Aghar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205262"
+    ]
+  },
+  {
+    "id": "po-mainpuri-rui-sinaura",
+    "type": "village",
+    "name_en": "Rui Sinaura (Gram Panchayat Area)",
+    "name_hi": "Rui Sinaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205262"
+    ]
+  },
+  {
+    "id": "po-mainpuri-vinodpur",
+    "type": "village",
+    "name_en": "Vinodpur (Gram Panchayat Area)",
+    "name_hi": "Vinodpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205262"
+    ]
+  },
+  {
+    "id": "po-mainpuri-thorwa",
+    "type": "village",
+    "name_en": "Thorwa (Gram Panchayat Area)",
+    "name_hi": "Thorwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205263"
+    ]
+  },
+  {
+    "id": "po-mainpuri-bamtapur",
+    "type": "village",
+    "name_en": "Bamtapur (Gram Panchayat Area)",
+    "name_hi": "Bamtapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205264"
+    ]
+  },
+  {
+    "id": "po-mainpuri-chandpura",
+    "type": "village",
+    "name_en": "Chandpura (Gram Panchayat Area)",
+    "name_hi": "Chandpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205264"
+    ]
+  },
+  {
+    "id": "po-mainpuri-shjhajipur",
+    "type": "village",
+    "name_en": "Shjhajipur (Gram Panchayat Area)",
+    "name_hi": "Shjhajipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205264"
+    ]
+  },
+  {
+    "id": "po-mainpuri-saman",
+    "type": "village",
+    "name_en": "Saman (Gram Panchayat Area)",
+    "name_hi": "Saman (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205303"
+    ]
+  },
+  {
+    "id": "po-mainpuri-lakhaura",
+    "type": "village",
+    "name_en": "Lakhaura (Gram Panchayat Area)",
+    "name_hi": "Lakhaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205265"
+    ]
+  },
+  {
+    "id": "po-mainpuri-nanamau",
+    "type": "village",
+    "name_en": "Nanamau (Gram Panchayat Area)",
+    "name_hi": "Nanamau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205265"
+    ]
+  },
+  {
+    "id": "po-mainpuri-aunchha",
+    "type": "village",
+    "name_en": "Aunchha (Gram Panchayat Area)",
+    "name_hi": "Aunchha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205263"
+    ]
+  },
+  {
+    "id": "po-mainpuri-takharau",
+    "type": "village",
+    "name_en": "Takharau (Gram Panchayat Area)",
+    "name_hi": "Takharau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205268"
+    ]
+  },
+  {
+    "id": "po-mainpuri-vinayakpur",
+    "type": "village",
+    "name_en": "Vinayakpur (Gram Panchayat Area)",
+    "name_hi": "Vinayakpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205268"
+    ]
+  },
+  {
+    "id": "po-mainpuri-arsara",
+    "type": "village",
+    "name_en": "Arsara (Gram Panchayat Area)",
+    "name_hi": "Arsara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205304"
+    ]
+  },
+  {
+    "id": "po-mainpuri-elabans",
+    "type": "village",
+    "name_en": "Elabans (Gram Panchayat Area)",
+    "name_hi": "Elabans (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205304"
+    ]
+  },
+  {
+    "id": "po-mainpuri-ramnagar",
+    "type": "village",
+    "name_en": "Ramnagar (Gram Panchayat Area)",
+    "name_hi": "Ramnagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205304"
+    ]
+  },
+  {
+    "id": "po-mainpuri-dalippur-kailai",
+    "type": "village",
+    "name_en": "Dalippur Kailai (Gram Panchayat Area)",
+    "name_hi": "Dalippur Kailai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205267"
+    ]
+  },
+  {
+    "id": "po-mainpuri-kinhawar",
+    "type": "village",
+    "name_en": "Kinhawar (Gram Panchayat Area)",
+    "name_hi": "Kinhawar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205267"
+    ]
+  },
+  {
+    "id": "po-mainpuri-darwah",
+    "type": "village",
+    "name_en": "Darwah (Gram Panchayat Area)",
+    "name_hi": "Darwah (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205119"
+    ]
+  },
+  {
+    "id": "po-mainpuri-halpura",
+    "type": "village",
+    "name_en": "Halpura (Gram Panchayat Area)",
+    "name_hi": "Halpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205119"
+    ]
+  },
+  {
+    "id": "po-mainpuri-alipur-kherha",
+    "type": "village",
+    "name_en": "Alipur Kherha (Gram Panchayat Area)",
+    "name_hi": "Alipur Kherha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205262"
+    ]
+  },
+  {
+    "id": "po-mainpuri-bhadehi",
+    "type": "village",
+    "name_en": "Bhadehi (Gram Panchayat Area)",
+    "name_hi": "Bhadehi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209720"
+    ]
+  },
+  {
+    "id": "po-mainpuri-todarpur",
+    "type": "village",
+    "name_en": "Todarpur (Gram Panchayat Area)",
+    "name_hi": "Todarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209720"
+    ]
+  },
+  {
+    "id": "po-mainpuri-kapoorpur",
+    "type": "village",
+    "name_en": "Kapoorpur (Gram Panchayat Area)",
+    "name_hi": "Kapoorpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-raja-ki-bajria",
+    "type": "village",
+    "name_en": "Raja Ki Bajria (Gram Panchayat Area)",
+    "name_hi": "Raja Ki Bajria (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-karhal-gate-mainpuri",
+    "type": "village",
+    "name_en": "Karhal Gate Mainpuri (Gram Panchayat Area)",
+    "name_hi": "Karhal Gate Mainpuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-ratibhanpur",
+    "type": "village",
+    "name_en": "Ratibhanpur (Gram Panchayat Area)",
+    "name_hi": "Ratibhanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-auden-mandan",
+    "type": "village",
+    "name_en": "Auden Mandan (Gram Panchayat Area)",
+    "name_hi": "Auden Mandan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-manchhana",
+    "type": "village",
+    "name_en": "Manchhana (Gram Panchayat Area)",
+    "name_hi": "Manchhana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "po-mainpuri-allau",
+    "type": "village",
+    "name_en": "Allau (Gram Panchayat Area)",
+    "name_hi": "Allau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205247"
+    ]
+  },
+  {
+    "id": "po-mainpuri-sugaon",
+    "type": "village",
+    "name_en": "Sugaon (Gram Panchayat Area)",
+    "name_hi": "Sugaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205247"
+    ]
+  },
+  {
+    "id": "po-mainpuri-banigon",
+    "type": "village",
+    "name_en": "Banigon (Gram Panchayat Area)",
+    "name_hi": "Banigon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205261"
+    ]
+  },
+  {
+    "id": "po-mainpuri-nawa-terha",
+    "type": "village",
+    "name_en": "Nawa Terha (Gram Panchayat Area)",
+    "name_hi": "Nawa Terha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205261"
+    ]
+  },
+  {
+    "id": "po-mainpuri-talibpur",
+    "type": "village",
+    "name_en": "Talibpur (Gram Panchayat Area)",
+    "name_hi": "Talibpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205261"
+    ]
+  },
+  {
+    "id": "po-mainpuri-bajhera",
+    "type": "village",
+    "name_en": "Bajhera (Gram Panchayat Area)",
+    "name_hi": "Bajhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205301"
+    ]
+  },
+  {
+    "id": "po-mainpuri-kaua-tanda",
+    "type": "village",
+    "name_en": "Kaua Tanda (Gram Panchayat Area)",
+    "name_hi": "Kaua Tanda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205301"
+    ]
+  },
+  {
+    "id": "po-mainpuri-madhupuri",
+    "type": "village",
+    "name_en": "Madhupuri (Gram Panchayat Area)",
+    "name_hi": "Madhupuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205301"
+    ]
+  },
+  {
+    "id": "po-mainpuri-manpur-hari",
+    "type": "village",
+    "name_en": "Manpur Hari (Gram Panchayat Area)",
+    "name_hi": "Manpur Hari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205301"
+    ]
+  },
+  {
+    "id": "po-mainpuri-nabiganj",
+    "type": "village",
+    "name_en": "Nabiganj (Gram Panchayat Area)",
+    "name_hi": "Nabiganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205301"
+    ]
+  },
+  {
+    "id": "po-mainpuri-nagla-painth",
+    "type": "village",
+    "name_en": "Nagla Painth (Gram Panchayat Area)",
+    "name_hi": "Nagla Painth (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205301"
+    ]
+  },
+  {
+    "id": "po-mainpuri-paronkh",
+    "type": "village",
+    "name_en": "Paronkh (Gram Panchayat Area)",
+    "name_hi": "Paronkh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205263"
+    ]
+  },
+  {
+    "id": "po-mainpuri-andani",
+    "type": "village",
+    "name_en": "Andani (Gram Panchayat Area)",
+    "name_hi": "Andani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205264"
+    ]
+  },
+  {
+    "id": "po-mainpuri-atirajpur",
+    "type": "village",
+    "name_en": "Atirajpur (Gram Panchayat Area)",
+    "name_hi": "Atirajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205264"
+    ]
+  },
+  {
+    "id": "po-mainpuri-pairar-shahpur",
+    "type": "village",
+    "name_en": "Pairar Shahpur (Gram Panchayat Area)",
+    "name_hi": "Pairar Shahpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205264"
+    ]
+  },
+  {
+    "id": "po-mainpuri-urthan",
+    "type": "village",
+    "name_en": "Urthan (Gram Panchayat Area)",
+    "name_hi": "Urthan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205264"
+    ]
+  },
+  {
+    "id": "po-mainpuri-alupura",
+    "type": "village",
+    "name_en": "Alupura (Gram Panchayat Area)",
+    "name_hi": "Alupura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205265"
+    ]
+  },
+  {
+    "id": "po-mainpuri-sahan",
+    "type": "village",
+    "name_en": "Sahan (Gram Panchayat Area)",
+    "name_hi": "Sahan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205268"
+    ]
+  },
+  {
+    "id": "po-mainpuri-sauj",
+    "type": "village",
+    "name_en": "Sauj (Gram Panchayat Area)",
+    "name_hi": "Sauj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205268"
+    ]
+  },
+  {
+    "id": "po-mainpuri-kumhaul",
+    "type": "village",
+    "name_en": "Kumhaul (Gram Panchayat Area)",
+    "name_hi": "Kumhaul (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205304"
+    ]
+  },
+  {
+    "id": "po-mainpuri-kurhi",
+    "type": "village",
+    "name_en": "Kurhi (Gram Panchayat Area)",
+    "name_hi": "Kurhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205304"
+    ]
+  },
+  {
+    "id": "po-mainpuri-madhukarpur",
+    "type": "village",
+    "name_en": "Madhukarpur (Gram Panchayat Area)",
+    "name_hi": "Madhukarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205304"
+    ]
+  },
+  {
+    "id": "po-mainpuri-nagla-semar",
+    "type": "village",
+    "name_en": "Nagla Semar (Gram Panchayat Area)",
+    "name_hi": "Nagla Semar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205267"
+    ]
+  },
+  {
+    "id": "po-mainpuri-sahara",
+    "type": "village",
+    "name_en": "Sahara (Gram Panchayat Area)",
+    "name_hi": "Sahara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205267"
+    ]
+  },
+  {
+    "id": "po-mainpuri-simarai",
+    "type": "village",
+    "name_en": "Simarai (Gram Panchayat Area)",
+    "name_hi": "Simarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205267"
+    ]
+  },
+  {
+    "id": "po-mainpuri-tisauli",
+    "type": "village",
+    "name_en": "Tisauli (Gram Panchayat Area)",
+    "name_hi": "Tisauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205267"
+    ]
+  },
+  {
+    "id": "po-mainpuri-jabapur",
+    "type": "village",
+    "name_en": "Jabapur (Gram Panchayat Area)",
+    "name_hi": "Jabapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205119"
+    ]
+  },
+  {
+    "id": "po-mainpuri-kosma",
+    "type": "village",
+    "name_en": "Kosma (Gram Panchayat Area)",
+    "name_hi": "Kosma (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205119"
+    ]
+  },
+  {
+    "id": "po-mainpuri-kuchela",
+    "type": "village",
+    "name_en": "Kuchela (Gram Panchayat Area)",
+    "name_hi": "Kuchela (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205119"
+    ]
+  },
+  {
+    "id": "po-mainpuri-aramsarai",
+    "type": "village",
+    "name_en": "Aramsarai (Gram Panchayat Area)",
+    "name_hi": "Aramsarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205262"
+    ]
+  },
+  {
+    "id": "po-mainpuri-bhaisrauli",
+    "type": "village",
+    "name_en": "Bhaisrauli (Gram Panchayat Area)",
+    "name_hi": "Bhaisrauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205262"
+    ]
+  },
+  {
+    "id": "po-mainpuri-himaunpur",
+    "type": "village",
+    "name_en": "Himaunpur (Gram Panchayat Area)",
+    "name_hi": "Himaunpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205262"
+    ]
+  },
+  {
+    "id": "po-mainpuri-maujepur-havelia",
+    "type": "village",
+    "name_en": "Maujepur Havelia (Gram Panchayat Area)",
+    "name_hi": "Maujepur Havelia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205262"
+    ]
+  },
+  {
+    "id": "po-mainpuri-rakari",
+    "type": "village",
+    "name_en": "Rakari (Gram Panchayat Area)",
+    "name_hi": "Rakari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205262"
+    ]
+  },
+  {
+    "id": "po-mainpuri-town-hall",
+    "type": "village",
+    "name_en": "Town Hall (Gram Panchayat Area)",
+    "name_hi": "Town Hall (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205262"
+    ]
+  },
+  {
+    "id": "po-mainpuri-achalpur",
+    "type": "village",
+    "name_en": "Achalpur (Gram Panchayat Area)",
+    "name_hi": "Achalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205263"
+    ]
+  },
+  {
+    "id": "po-mainpuri-chetai",
+    "type": "village",
+    "name_en": "Chetai (Gram Panchayat Area)",
+    "name_hi": "Chetai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205263"
+    ]
+  },
+  {
+    "id": "po-mainpuri-ujhaiya-fakirpur",
+    "type": "village",
+    "name_en": "Ujhaiya Fakirpur (Gram Panchayat Area)",
+    "name_hi": "Ujhaiya Fakirpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205263"
+    ]
+  },
+  {
+    "id": "po-mainpuri-bhidaura",
+    "type": "village",
+    "name_en": "Bhidaura (Gram Panchayat Area)",
+    "name_hi": "Bhidaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205264"
+    ]
+  },
+  {
+    "id": "po-mainpuri-grhiya",
+    "type": "village",
+    "name_en": "Grhiya (Gram Panchayat Area)",
+    "name_hi": "Grhiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205264"
+    ]
+  },
+  {
+    "id": "po-mainpuri-basait",
+    "type": "village",
+    "name_en": "Basait (Gram Panchayat Area)",
+    "name_hi": "Basait (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205303"
+    ]
+  },
+  {
+    "id": "po-mainpuri-maholi-shamserganj",
+    "type": "village",
+    "name_en": "Maholi Shamserganj (Gram Panchayat Area)",
+    "name_hi": "Maholi Shamserganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205303"
+    ]
+  },
+  {
+    "id": "po-mainpuri-ratheh",
+    "type": "village",
+    "name_en": "Ratheh (Gram Panchayat Area)",
+    "name_hi": "Ratheh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205303"
+    ]
+  },
+  {
+    "id": "po-mainpuri-lahara",
+    "type": "village",
+    "name_en": "Lahara (Gram Panchayat Area)",
+    "name_hi": "Lahara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205265"
+    ]
+  },
+  {
+    "id": "po-mainpuri-naugaon",
+    "type": "village",
+    "name_en": "Naugaon (Gram Panchayat Area)",
+    "name_hi": "Naugaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205265"
+    ]
+  },
+  {
+    "id": "po-mainpuri-sharifpur",
+    "type": "village",
+    "name_en": "Sharifpur (Gram Panchayat Area)",
+    "name_hi": "Sharifpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205265"
+    ]
+  },
+  {
+    "id": "po-mainpuri-sonai",
+    "type": "village",
+    "name_en": "Sonai (Gram Panchayat Area)",
+    "name_hi": "Sonai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205265"
+    ]
+  },
+  {
+    "id": "po-mainpuri-mohabbatpur",
+    "type": "village",
+    "name_en": "Mohabbatpur (Gram Panchayat Area)",
+    "name_hi": "Mohabbatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205268"
+    ]
+  },
+  {
+    "id": "po-mainpuri-ranipur",
+    "type": "village",
+    "name_en": "Ranipur (Gram Panchayat Area)",
+    "name_hi": "Ranipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205268"
+    ]
+  },
+  {
+    "id": "po-mainpuri-ahimalpur",
+    "type": "village",
+    "name_en": "Ahimalpur (Gram Panchayat Area)",
+    "name_hi": "Ahimalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205304"
+    ]
+  },
+  {
+    "id": "po-mainpuri-mudausi",
+    "type": "village",
+    "name_en": "Mudausi (Gram Panchayat Area)",
+    "name_hi": "Mudausi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205304"
+    ]
+  },
+  {
+    "id": "po-mainpuri-bichhawan",
+    "type": "village",
+    "name_en": "Bichhawan (Gram Panchayat Area)",
+    "name_hi": "Bichhawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205267"
+    ]
+  },
+  {
+    "id": "po-mainpuri-jagatpur-b",
+    "type": "village",
+    "name_en": "Jagatpur B (Gram Panchayat Area)",
+    "name_hi": "Jagatpur B (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205267"
+    ]
+  },
+  {
+    "id": "po-mainpuri-gangsi",
+    "type": "village",
+    "name_en": "Gangsi (Gram Panchayat Area)",
+    "name_hi": "Gangsi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205119"
+    ]
+  },
+  {
+    "id": "po-mainpuri-patara",
+    "type": "village",
+    "name_en": "Patara (Gram Panchayat Area)",
+    "name_hi": "Patara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205268"
+    ]
+  },
+  {
+    "id": "po-mainpuri-manigaon",
+    "type": "village",
+    "name_en": "Manigaon (Gram Panchayat Area)",
+    "name_hi": "Manigaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205304"
+    ]
+  },
+  {
+    "id": "po-mainpuri-sakra",
+    "type": "village",
+    "name_en": "Sakra (Gram Panchayat Area)",
+    "name_hi": "Sakra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205304"
+    ]
+  },
+  {
+    "id": "po-mainpuri-uncha-islamabad",
+    "type": "village",
+    "name_en": "Uncha Islamabad (Gram Panchayat Area)",
+    "name_hi": "Uncha Islamabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205304"
+    ]
+  },
+  {
+    "id": "po-mainpuri-aurandh",
+    "type": "village",
+    "name_en": "Aurandh (Gram Panchayat Area)",
+    "name_hi": "Aurandh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205267"
+    ]
+  },
+  {
+    "id": "po-mainpuri-balarpur",
+    "type": "village",
+    "name_en": "Balarpur (Gram Panchayat Area)",
+    "name_hi": "Balarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mainpuri",
+    "block_id": "mainpuri",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "205267"
+    ]
+  },
+  {
+    "id": "ward-mainpuri-ulb-mainpuri-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Mainpuri (All Wards)",
+    "name_hi": "मैनपुरी नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-mainpuri-mainpuri",
+    "type": "ward",
+    "name_en": "Mainpuri (Urban Ward / SO)",
+    "name_hi": "Mainpuri (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "town-mainpuri-civil-court-so-mainpuri",
+    "type": "ward",
+    "name_en": "Civil Court SO Mainpuri (Urban Ward / SO)",
+    "name_hi": "Civil Court SO Mainpuri (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "town-mainpuri-kishni",
+    "type": "ward",
+    "name_en": "Kishni (Urban Ward / SO)",
+    "name_hi": "Kishni (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205303"
+    ]
+  },
+  {
+    "id": "town-mainpuri-kuraoli",
+    "type": "ward",
+    "name_en": "Kuraoli (Urban Ward / SO)",
+    "name_hi": "Kuraoli (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205265"
+    ]
+  },
+  {
+    "id": "town-mainpuri-kurra",
+    "type": "ward",
+    "name_en": "Kurra (Urban Ward / SO)",
+    "name_hi": "Kurra (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205268"
+    ]
+  },
+  {
+    "id": "town-mainpuri-kusmara",
+    "type": "ward",
+    "name_en": "Kusmara (Urban Ward / SO)",
+    "name_hi": "Kusmara (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205304"
+    ]
+  },
+  {
+    "id": "town-mainpuri-mainpuri-city",
+    "type": "ward",
+    "name_en": "Mainpuri City (Urban Ward / SO)",
+    "name_hi": "Mainpuri City (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "town-mainpuri-naya-bazar-bhongaon",
+    "type": "ward",
+    "name_en": "Naya Bazar Bhongaon (Urban Ward / SO)",
+    "name_hi": "Naya Bazar Bhongaon (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205262"
+    ]
+  },
+  {
+    "id": "town-mainpuri-awadh-nagar",
+    "type": "ward",
+    "name_en": "Awadh Nagar (Urban Ward / SO)",
+    "name_hi": "Awadh Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "town-mainpuri-bewar-so-mainpuri",
+    "type": "ward",
+    "name_en": "Bewar SO Mainpuri (Urban Ward / SO)",
+    "name_hi": "Bewar SO Mainpuri (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205301"
+    ]
+  },
+  {
+    "id": "town-mainpuri-mainpuri-r-s",
+    "type": "ward",
+    "name_en": "Mainpuri R S (Urban Ward / SO)",
+    "name_hi": "Mainpuri R S (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205001"
+    ]
+  },
+  {
+    "id": "town-mainpuri-baranahal",
+    "type": "ward",
+    "name_en": "Baranahal (Urban Ward / SO)",
+    "name_hi": "Baranahal (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205261"
+    ]
+  },
+  {
+    "id": "town-mainpuri-galla-mandi-kurawali",
+    "type": "ward",
+    "name_en": "Galla Mandi Kurawali (Urban Ward / SO)",
+    "name_hi": "Galla Mandi Kurawali (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205265"
+    ]
+  },
+  {
+    "id": "town-mainpuri-jeonti",
+    "type": "ward",
+    "name_en": "Jeonti (Urban Ward / SO)",
+    "name_hi": "Jeonti (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205263"
+    ]
+  },
+  {
+    "id": "town-mainpuri-karhal-so-mainpuri",
+    "type": "ward",
+    "name_en": "Karhal SO Mainpuri (Urban Ward / SO)",
+    "name_hi": "Karhal SO Mainpuri (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205264"
+    ]
+  },
+  {
+    "id": "town-mainpuri-ghiror",
+    "type": "ward",
+    "name_en": "Ghiror (Urban Ward / SO)",
+    "name_hi": "Ghiror (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205121"
+    ]
+  },
+  {
+    "id": "town-mainpuri-ajitganj",
+    "type": "ward",
+    "name_en": "Ajitganj (Urban Ward / SO)",
+    "name_hi": "Ajitganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205247"
+    ]
+  },
+  {
+    "id": "town-mainpuri-bewar-bazar",
+    "type": "ward",
+    "name_en": "Bewar Bazar (Urban Ward / SO)",
+    "name_hi": "Bewar Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205301"
+    ]
+  },
+  {
+    "id": "town-mainpuri-bhongaon",
+    "type": "ward",
+    "name_en": "Bhongaon (Urban Ward / SO)",
+    "name_hi": "Bhongaon (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205262"
+    ]
+  },
+  {
+    "id": "town-mainpuri-sultanganj-so-mainpuri",
+    "type": "ward",
+    "name_en": "Sultanganj SO Mainpuri (Urban Ward / SO)",
+    "name_hi": "Sultanganj SO Mainpuri (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205267"
+    ]
+  },
+  {
+    "id": "town-mainpuri-tindauli",
+    "type": "ward",
+    "name_en": "Tindauli (Urban Ward / SO)",
+    "name_hi": "Tindauli (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205119"
+    ]
+  },
+  {
+    "id": "town-mainpuri-zilla-parishad",
+    "type": "ward",
+    "name_en": "Zilla Parishad (Urban Ward / SO)",
+    "name_hi": "Zilla Parishad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mainpuri-main",
+    "tehsil_id": "mainpuri",
+    "district_id": "mainpuri",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "205001"
+    ]
+  }
+]

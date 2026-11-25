@@ -1,0 +1,3960 @@
+[
+  {
+    "id": "v-kanpur-nagar-kalyanpur",
+    "type": "village",
+    "name_en": "Kalyanpur Block (Gram Panchayats)",
+    "name_hi": "Kalyanpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kanpur-nagar-sarsaul",
+    "type": "village",
+    "name_en": "Sarsaul Block (Gram Panchayats)",
+    "name_hi": "Sarsaul विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sarsaul",
+    "block_id": "sarsaul",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kanpur-nagar-bidnu",
+    "type": "village",
+    "name_en": "Bidnu Block (Gram Panchayats)",
+    "name_hi": "Bidnu विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bidnu",
+    "block_id": "bidnu",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kanpur-nagar-bhitargaon",
+    "type": "village",
+    "name_en": "Bhitargaon Block (Gram Panchayats)",
+    "name_hi": "Bhitargaon विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhitargaon",
+    "block_id": "bhitargaon",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kanpur-nagar-ghatampur",
+    "type": "village",
+    "name_en": "Ghatampur Block (Gram Panchayats)",
+    "name_hi": "Ghatampur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-ghatampur",
+    "block_id": "ghatampur",
+    "tehsil_id": "ghatampur",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kanpur-nagar-patara",
+    "type": "village",
+    "name_en": "Patara Block (Gram Panchayats)",
+    "name_hi": "Patara विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-patara",
+    "block_id": "patara",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kanpur-nagar-bilhaur",
+    "type": "village",
+    "name_en": "Bilhaur Block (Gram Panchayats)",
+    "name_hi": "Bilhaur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bilhaur",
+    "block_id": "bilhaur",
+    "tehsil_id": "bilhaur",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kanpur-nagar-shivrajpur",
+    "type": "village",
+    "name_en": "Shivrajpur Block (Gram Panchayats)",
+    "name_hi": "Shivrajpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-shivrajpur",
+    "block_id": "shivrajpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kanpur-nagar-chaubepur",
+    "type": "village",
+    "name_en": "Chaubepur Block (Gram Panchayats)",
+    "name_hi": "Chaubepur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-chaubepur",
+    "block_id": "chaubepur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kanpur-nagar-kakwan",
+    "type": "village",
+    "name_en": "Kakwan Block (Gram Panchayats)",
+    "name_hi": "Kakwan विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kakwan",
+    "block_id": "kakwan",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-kanpur-nagar-majhawan",
+    "type": "village",
+    "name_en": "Majhawan (Gram Panchayat Area)",
+    "name_hi": "Majhawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209214"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-kasigaon",
+    "type": "village",
+    "name_en": "Kasigaon (Gram Panchayat Area)",
+    "name_hi": "Kasigaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "208021"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-sanigawan",
+    "type": "village",
+    "name_en": "Sanigawan (Gram Panchayat Area)",
+    "name_hi": "Sanigawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "208021"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-hardauli",
+    "type": "village",
+    "name_en": "Hardauli (Gram Panchayat Area)",
+    "name_hi": "Hardauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209214"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-ramaipur",
+    "type": "village",
+    "name_en": "Ramaipur (Gram Panchayat Area)",
+    "name_hi": "Ramaipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209214"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-baripal",
+    "type": "village",
+    "name_en": "Baripal (Gram Panchayat Area)",
+    "name_hi": "Baripal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-shambuhi",
+    "type": "village",
+    "name_en": "Shambuhi (Gram Panchayat Area)",
+    "name_hi": "Shambuhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-maitha",
+    "type": "village",
+    "name_en": "Maitha (Gram Panchayat Area)",
+    "name_hi": "Maitha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209307"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-maitha-rs",
+    "type": "village",
+    "name_en": "Maitha RS (Gram Panchayat Area)",
+    "name_hi": "Maitha RS (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209307"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-sapai",
+    "type": "village",
+    "name_en": "Sapai (Gram Panchayat Area)",
+    "name_hi": "Sapai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209214"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-sirhi-itra",
+    "type": "village",
+    "name_en": "Sirhi Itra (Gram Panchayat Area)",
+    "name_hi": "Sirhi Itra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209214"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-mardanpur",
+    "type": "village",
+    "name_en": "Mardanpur (Gram Panchayat Area)",
+    "name_hi": "Mardanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209305"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-kheora",
+    "type": "village",
+    "name_en": "Kheora (Gram Panchayat Area)",
+    "name_hi": "Kheora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "208017"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-pachor",
+    "type": "village",
+    "name_en": "Pachor (Gram Panchayat Area)",
+    "name_hi": "Pachor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209217"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-tikra",
+    "type": "village",
+    "name_en": "Tikra (Gram Panchayat Area)",
+    "name_hi": "Tikra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209217"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-aranjhami",
+    "type": "village",
+    "name_en": "Aranjhami (Gram Panchayat Area)",
+    "name_hi": "Aranjhami (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209401"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-baraigarh",
+    "type": "village",
+    "name_en": "Baraigarh (Gram Panchayat Area)",
+    "name_hi": "Baraigarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209401"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-subhauli",
+    "type": "village",
+    "name_en": "Subhauli (Gram Panchayat Area)",
+    "name_hi": "Subhauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-tilsahari",
+    "type": "village",
+    "name_en": "Tilsahari (Gram Panchayat Area)",
+    "name_hi": "Tilsahari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-karbigvan",
+    "type": "village",
+    "name_en": "Karbigvan (Gram Panchayat Area)",
+    "name_hi": "Karbigvan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-dehli-ujagar",
+    "type": "village",
+    "name_en": "Dehli Ujagar (Gram Panchayat Area)",
+    "name_hi": "Dehli Ujagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209214"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-deosarh",
+    "type": "village",
+    "name_en": "Deosarh (Gram Panchayat Area)",
+    "name_hi": "Deosarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209214"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-udaipur",
+    "type": "village",
+    "name_en": "Udaipur (Gram Panchayat Area)",
+    "name_hi": "Udaipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209214"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bhimsen",
+    "type": "village",
+    "name_en": "Bhimsen (Gram Panchayat Area)",
+    "name_hi": "Bhimsen (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209305"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-birhar",
+    "type": "village",
+    "name_en": "Birhar (Gram Panchayat Area)",
+    "name_hi": "Birhar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209209"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-pahewa",
+    "type": "village",
+    "name_en": "Pahewa (Gram Panchayat Area)",
+    "name_hi": "Pahewa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209209"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-pasikhera",
+    "type": "village",
+    "name_en": "Pasikhera (Gram Panchayat Area)",
+    "name_hi": "Pasikhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209209"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-anupur",
+    "type": "village",
+    "name_en": "Anupur (Gram Panchayat Area)",
+    "name_hi": "Anupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-behta-bujurg",
+    "type": "village",
+    "name_en": "Behta Bujurg (Gram Panchayat Area)",
+    "name_hi": "Behta Bujurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209209"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-baikunthpur",
+    "type": "village",
+    "name_en": "Baikunthpur (Gram Panchayat Area)",
+    "name_hi": "Baikunthpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209217"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bausar",
+    "type": "village",
+    "name_en": "Bausar (Gram Panchayat Area)",
+    "name_hi": "Bausar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209401"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-kudani",
+    "type": "village",
+    "name_en": "Kudani (Gram Panchayat Area)",
+    "name_hi": "Kudani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209401"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-nasra",
+    "type": "village",
+    "name_en": "Nasra (Gram Panchayat Area)",
+    "name_hi": "Nasra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209401"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-palhepur",
+    "type": "village",
+    "name_en": "Palhepur (Gram Panchayat Area)",
+    "name_hi": "Palhepur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209401"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-semarjhal",
+    "type": "village",
+    "name_en": "Semarjhal (Gram Panchayat Area)",
+    "name_hi": "Semarjhal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209401"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bisayakpur",
+    "type": "village",
+    "name_en": "Bisayakpur (Gram Panchayat Area)",
+    "name_hi": "Bisayakpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209304"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-jugrajpur",
+    "type": "village",
+    "name_en": "Jugrajpur (Gram Panchayat Area)",
+    "name_hi": "Jugrajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209304"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-parsauli",
+    "type": "village",
+    "name_en": "Parsauli (Gram Panchayat Area)",
+    "name_hi": "Parsauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209304"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-rania",
+    "type": "village",
+    "name_en": "Rania (Gram Panchayat Area)",
+    "name_hi": "Rania (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209304"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-jarkala",
+    "type": "village",
+    "name_en": "Jarkala (Gram Panchayat Area)",
+    "name_hi": "Jarkala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-kamalpur",
+    "type": "village",
+    "name_en": "Kamalpur (Gram Panchayat Area)",
+    "name_hi": "Kamalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-maharajpur",
+    "type": "village",
+    "name_en": "Maharajpur (Gram Panchayat Area)",
+    "name_hi": "Maharajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-phuphuwar",
+    "type": "village",
+    "name_en": "Phuphuwar (Gram Panchayat Area)",
+    "name_hi": "Phuphuwar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-parasadepur",
+    "type": "village",
+    "name_en": "Parasadepur (Gram Panchayat Area)",
+    "name_hi": "Parasadepur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bheoli",
+    "type": "village",
+    "name_en": "Bheoli (Gram Panchayat Area)",
+    "name_hi": "Bheoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-pipergaon",
+    "type": "village",
+    "name_en": "Pipergaon (Gram Panchayat Area)",
+    "name_hi": "Pipergaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "208021"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-taudhakpur",
+    "type": "village",
+    "name_en": "Taudhakpur (Gram Panchayat Area)",
+    "name_hi": "Taudhakpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "208021"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-maholi",
+    "type": "village",
+    "name_en": "Maholi (Gram Panchayat Area)",
+    "name_hi": "Maholi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bharu",
+    "type": "village",
+    "name_en": "Bharu (Gram Panchayat Area)",
+    "name_hi": "Bharu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209214"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-targaonw",
+    "type": "village",
+    "name_en": "Targaonw (Gram Panchayat Area)",
+    "name_hi": "Targaonw (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209308"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-tilsada",
+    "type": "village",
+    "name_en": "Tilsada (Gram Panchayat Area)",
+    "name_hi": "Tilsada (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209308"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-tejpur",
+    "type": "village",
+    "name_en": "Tejpur (Gram Panchayat Area)",
+    "name_hi": "Tejpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209308"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-ratanpur",
+    "type": "village",
+    "name_en": "Ratanpur (Gram Panchayat Area)",
+    "name_hi": "Ratanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-chaurai",
+    "type": "village",
+    "name_en": "Chaurai (Gram Panchayat Area)",
+    "name_hi": "Chaurai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209214"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-gayatri-seedh-peeth-khadeshar",
+    "type": "village",
+    "name_en": "Gayatri Seedh Peeth Khadeshar (Gram Panchayat Area)",
+    "name_hi": "Gayatri Seedh Peeth Khadeshar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209214"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-jamu",
+    "type": "village",
+    "name_en": "Jamu (Gram Panchayat Area)",
+    "name_hi": "Jamu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209214"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-kathara",
+    "type": "village",
+    "name_en": "Kathara (Gram Panchayat Area)",
+    "name_hi": "Kathara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209214"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-katherua",
+    "type": "village",
+    "name_en": "Katherua (Gram Panchayat Area)",
+    "name_hi": "Katherua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209214"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bhauti-pratappur",
+    "type": "village",
+    "name_en": "Bhauti Pratappur (Gram Panchayat Area)",
+    "name_hi": "Bhauti Pratappur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209305"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-itra",
+    "type": "village",
+    "name_en": "Itra (Gram Panchayat Area)",
+    "name_hi": "Itra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209217"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-pem",
+    "type": "village",
+    "name_en": "Pem (Gram Panchayat Area)",
+    "name_hi": "Pem (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209217"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bithoor",
+    "type": "village",
+    "name_en": "Bithoor (Gram Panchayat Area)",
+    "name_hi": "Bithoor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209217"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-gazipur",
+    "type": "village",
+    "name_en": "Gazipur (Gram Panchayat Area)",
+    "name_hi": "Gazipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209401"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-rasulpur-umra",
+    "type": "village",
+    "name_en": "Rasulpur Umra (Gram Panchayat Area)",
+    "name_hi": "Rasulpur Umra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209401"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-sarh",
+    "type": "village",
+    "name_en": "Sarh (Gram Panchayat Area)",
+    "name_hi": "Sarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209401"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bhadrsa",
+    "type": "village",
+    "name_en": "Bhadrsa (Gram Panchayat Area)",
+    "name_hi": "Bhadrsa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-salempur",
+    "type": "village",
+    "name_en": "Salempur (Gram Panchayat Area)",
+    "name_hi": "Salempur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-prempur-badagaon",
+    "type": "village",
+    "name_en": "Prempur Badagaon (Gram Panchayat Area)",
+    "name_hi": "Prempur Badagaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-mahua-gaon",
+    "type": "village",
+    "name_en": "Mahua Gaon (Gram Panchayat Area)",
+    "name_hi": "Mahua Gaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-sajeti",
+    "type": "village",
+    "name_en": "Sajeti (Gram Panchayat Area)",
+    "name_hi": "Sajeti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bauhar",
+    "type": "village",
+    "name_en": "Bauhar (Gram Panchayat Area)",
+    "name_hi": "Bauhar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209209"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-barnaow",
+    "type": "village",
+    "name_en": "Barnaow (Gram Panchayat Area)",
+    "name_hi": "Barnaow (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209308"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-padari-lalpur",
+    "type": "village",
+    "name_en": "Padari Lalpur (Gram Panchayat Area)",
+    "name_hi": "Padari Lalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209308"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-shambhuaa",
+    "type": "village",
+    "name_en": "Shambhuaa (Gram Panchayat Area)",
+    "name_hi": "Shambhuaa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209308"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-sarai-gadewa",
+    "type": "village",
+    "name_en": "Sarai Gadewa (Gram Panchayat Area)",
+    "name_hi": "Sarai Gadewa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209203"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-kathongar",
+    "type": "village",
+    "name_en": "Kathongar (Gram Panchayat Area)",
+    "name_hi": "Kathongar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "208021"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-chhatarpur",
+    "type": "village",
+    "name_en": "Chhatarpur (Gram Panchayat Area)",
+    "name_hi": "Chhatarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209214"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-kadari-champatpur",
+    "type": "village",
+    "name_en": "Kadari Champatpur (Gram Panchayat Area)",
+    "name_hi": "Kadari Champatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209214"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-kaindha",
+    "type": "village",
+    "name_en": "Kaindha (Gram Panchayat Area)",
+    "name_hi": "Kaindha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209214"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-senpara-paschim",
+    "type": "village",
+    "name_en": "Senpara Paschim (Gram Panchayat Area)",
+    "name_hi": "Senpara Paschim (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209305"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-tatya-ganj",
+    "type": "village",
+    "name_en": "Tatya Ganj (Gram Panchayat Area)",
+    "name_hi": "Tatya Ganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209217"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-amour",
+    "type": "village",
+    "name_en": "Amour (Gram Panchayat Area)",
+    "name_hi": "Amour (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209401"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-behta-gambhirpur",
+    "type": "village",
+    "name_en": "Behta Gambhirpur (Gram Panchayat Area)",
+    "name_hi": "Behta Gambhirpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209401"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-gopalpur",
+    "type": "village",
+    "name_en": "Gopalpur (Gram Panchayat Area)",
+    "name_hi": "Gopalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209401"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-harchandkhera",
+    "type": "village",
+    "name_en": "Harchandkhera (Gram Panchayat Area)",
+    "name_hi": "Harchandkhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209401"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-pali-bhogipur",
+    "type": "village",
+    "name_en": "Pali Bhogipur (Gram Panchayat Area)",
+    "name_hi": "Pali Bhogipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209401"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-sawaijpur",
+    "type": "village",
+    "name_en": "Sawaijpur (Gram Panchayat Area)",
+    "name_hi": "Sawaijpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209401"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-binour",
+    "type": "village",
+    "name_en": "Binour (Gram Panchayat Area)",
+    "name_hi": "Binour (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209304"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-fatehpur-roshnai",
+    "type": "village",
+    "name_en": "Fatehpur Roshnai (Gram Panchayat Area)",
+    "name_hi": "Fatehpur Roshnai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209304"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-raipur-kukhat",
+    "type": "village",
+    "name_en": "Raipur Kukhat (Gram Panchayat Area)",
+    "name_hi": "Raipur Kukhat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209304"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-hathigaon",
+    "type": "village",
+    "name_en": "Hathigaon (Gram Panchayat Area)",
+    "name_hi": "Hathigaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-purwameer",
+    "type": "village",
+    "name_en": "Purwameer (Gram Panchayat Area)",
+    "name_hi": "Purwameer (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-kulgaon",
+    "type": "village",
+    "name_en": "Kulgaon (Gram Panchayat Area)",
+    "name_hi": "Kulgaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-rooma",
+    "type": "village",
+    "name_en": "Rooma (Gram Panchayat Area)",
+    "name_hi": "Rooma (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-durooli",
+    "type": "village",
+    "name_en": "Durooli (Gram Panchayat Area)",
+    "name_hi": "Durooli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209121"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-jahangirabad",
+    "type": "village",
+    "name_en": "Jahangirabad (Gram Panchayat Area)",
+    "name_hi": "Jahangirabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209308"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-umri",
+    "type": "village",
+    "name_en": "Umri (Gram Panchayat Area)",
+    "name_hi": "Umri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209209"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-surar",
+    "type": "village",
+    "name_en": "Surar (Gram Panchayat Area)",
+    "name_hi": "Surar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209307"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bachhna",
+    "type": "village",
+    "name_en": "Bachhna (Gram Panchayat Area)",
+    "name_hi": "Bachhna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bedi-alipur",
+    "type": "village",
+    "name_en": "Bedi Alipur (Gram Panchayat Area)",
+    "name_hi": "Bedi Alipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-kamsaan",
+    "type": "village",
+    "name_en": "Kamsaan (Gram Panchayat Area)",
+    "name_hi": "Kamsaan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-makanpur",
+    "type": "village",
+    "name_en": "Makanpur (Gram Panchayat Area)",
+    "name_hi": "Makanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-tisti",
+    "type": "village",
+    "name_en": "Tisti (Gram Panchayat Area)",
+    "name_hi": "Tisti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-rautapur-kalan",
+    "type": "village",
+    "name_en": "Rautapur Kalan (Gram Panchayat Area)",
+    "name_hi": "Rautapur Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209203"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-tari-pathakpur",
+    "type": "village",
+    "name_en": "Tari Pathakpur (Gram Panchayat Area)",
+    "name_hi": "Tari Pathakpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209203"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-akbarpur-birbal",
+    "type": "village",
+    "name_en": "Akbarpur Birbal (Gram Panchayat Area)",
+    "name_hi": "Akbarpur Birbal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-dhamna-bujurg",
+    "type": "village",
+    "name_en": "Dhamna Bujurg (Gram Panchayat Area)",
+    "name_hi": "Dhamna Bujurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-harbansh-pur",
+    "type": "village",
+    "name_en": "Harbansh Pur (Gram Panchayat Area)",
+    "name_hi": "Harbansh Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-kohara",
+    "type": "village",
+    "name_en": "Kohara (Gram Panchayat Area)",
+    "name_hi": "Kohara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-kuwankhera",
+    "type": "village",
+    "name_en": "Kuwankhera (Gram Panchayat Area)",
+    "name_hi": "Kuwankhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-rawatpur-chaudhriyan",
+    "type": "village",
+    "name_en": "Rawatpur Chaudhriyan (Gram Panchayat Area)",
+    "name_hi": "Rawatpur Chaudhriyan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209209"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-baranda",
+    "type": "village",
+    "name_en": "Baranda (Gram Panchayat Area)",
+    "name_hi": "Baranda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-devha",
+    "type": "village",
+    "name_en": "Devha (Gram Panchayat Area)",
+    "name_hi": "Devha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-gajna",
+    "type": "village",
+    "name_en": "Gajna (Gram Panchayat Area)",
+    "name_hi": "Gajna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-kakwan",
+    "type": "village",
+    "name_en": "Kakwan (Gram Panchayat Area)",
+    "name_hi": "Kakwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kakwan",
+    "block_id": "kakwan",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bakothi",
+    "type": "village",
+    "name_en": "Bakothi (Gram Panchayat Area)",
+    "name_hi": "Bakothi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-rahimpur-bisdhan",
+    "type": "village",
+    "name_en": "Rahimpur Bisdhan (Gram Panchayat Area)",
+    "name_hi": "Rahimpur Bisdhan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-gabdaha",
+    "type": "village",
+    "name_en": "Gabdaha (Gram Panchayat Area)",
+    "name_hi": "Gabdaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209203"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-jajpur",
+    "type": "village",
+    "name_en": "Jajpur (Gram Panchayat Area)",
+    "name_hi": "Jajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-kaitha",
+    "type": "village",
+    "name_en": "Kaitha (Gram Panchayat Area)",
+    "name_hi": "Kaitha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-nauranga",
+    "type": "village",
+    "name_en": "Nauranga (Gram Panchayat Area)",
+    "name_hi": "Nauranga (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bhool",
+    "type": "village",
+    "name_en": "Bhool (Gram Panchayat Area)",
+    "name_hi": "Bhool (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209307"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-dharmangadpur",
+    "type": "village",
+    "name_en": "Dharmangadpur (Gram Panchayat Area)",
+    "name_hi": "Dharmangadpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209307"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-aakeen",
+    "type": "village",
+    "name_en": "Aakeen (Gram Panchayat Area)",
+    "name_hi": "Aakeen (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-anaie",
+    "type": "village",
+    "name_en": "Anaie (Gram Panchayat Area)",
+    "name_hi": "Anaie (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-anta",
+    "type": "village",
+    "name_en": "Anta (Gram Panchayat Area)",
+    "name_hi": "Anta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-aurangpur-gahdeva",
+    "type": "village",
+    "name_en": "Aurangpur Gahdeva (Gram Panchayat Area)",
+    "name_hi": "Aurangpur Gahdeva (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-nanamau",
+    "type": "village",
+    "name_en": "Nanamau (Gram Panchayat Area)",
+    "name_hi": "Nanamau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-nashirapur",
+    "type": "village",
+    "name_en": "Nashirapur (Gram Panchayat Area)",
+    "name_hi": "Nashirapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-raipur",
+    "type": "village",
+    "name_en": "Raipur (Gram Panchayat Area)",
+    "name_hi": "Raipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209308"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-ghanshyampur",
+    "type": "village",
+    "name_en": "Ghanshyampur (Gram Panchayat Area)",
+    "name_hi": "Ghanshyampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209203"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bhaisau",
+    "type": "village",
+    "name_en": "Bhaisau (Gram Panchayat Area)",
+    "name_hi": "Bhaisau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209205"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-kakoopur",
+    "type": "village",
+    "name_en": "Kakoopur (Gram Panchayat Area)",
+    "name_hi": "Kakoopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209205"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-nadiha",
+    "type": "village",
+    "name_en": "Nadiha (Gram Panchayat Area)",
+    "name_hi": "Nadiha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209210"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-saibasu",
+    "type": "village",
+    "name_en": "Saibasu (Gram Panchayat Area)",
+    "name_hi": "Saibasu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209210"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bara-daulatpur",
+    "type": "village",
+    "name_en": "Bara Daulatpur (Gram Panchayat Area)",
+    "name_hi": "Bara Daulatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bari-mahtaen",
+    "type": "village",
+    "name_en": "Bari Mahtaen (Gram Panchayat Area)",
+    "name_hi": "Bari Mahtaen (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bhadras",
+    "type": "village",
+    "name_en": "Bhadras (Gram Panchayat Area)",
+    "name_hi": "Bhadras (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bhadwara",
+    "type": "village",
+    "name_en": "Bhadwara (Gram Panchayat Area)",
+    "name_hi": "Bhadwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-patrsa",
+    "type": "village",
+    "name_en": "Patrsa (Gram Panchayat Area)",
+    "name_hi": "Patrsa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-rar",
+    "type": "village",
+    "name_en": "Rar (Gram Panchayat Area)",
+    "name_hi": "Rar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-revna",
+    "type": "village",
+    "name_en": "Revna (Gram Panchayat Area)",
+    "name_hi": "Revna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-roop-nagar",
+    "type": "village",
+    "name_en": "Roop Nagar (Gram Panchayat Area)",
+    "name_hi": "Roop Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bhairampur",
+    "type": "village",
+    "name_en": "Bhairampur (Gram Panchayat Area)",
+    "name_hi": "Bhairampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209305"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-sadar-bazar-ghatampur",
+    "type": "village",
+    "name_en": "Sadar Bazar Ghatampur (Gram Panchayat Area)",
+    "name_hi": "Sadar Bazar Ghatampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-ghatampur",
+    "block_id": "ghatampur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-srinagar",
+    "type": "village",
+    "name_en": "Srinagar (Gram Panchayat Area)",
+    "name_hi": "Srinagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-virsinghpur",
+    "type": "village",
+    "name_en": "Virsinghpur (Gram Panchayat Area)",
+    "name_hi": "Virsinghpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209209"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-araul",
+    "type": "village",
+    "name_en": "Araul (Gram Panchayat Area)",
+    "name_hi": "Araul (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-panki-ganga-ganj",
+    "type": "village",
+    "name_en": "Panki Ganga Ganj (Gram Panchayat Area)",
+    "name_hi": "Panki Ganga Ganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "208020"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-aurotahar-pur",
+    "type": "village",
+    "name_en": "Aurotahar Pur (Gram Panchayat Area)",
+    "name_hi": "Aurotahar Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-khera-kurshi",
+    "type": "village",
+    "name_en": "Khera Kurshi (Gram Panchayat Area)",
+    "name_hi": "Khera Kurshi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-maujampur",
+    "type": "village",
+    "name_en": "Maujampur (Gram Panchayat Area)",
+    "name_hi": "Maujampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-pihani-majbootnagar",
+    "type": "village",
+    "name_en": "Pihani Majbootnagar (Gram Panchayat Area)",
+    "name_hi": "Pihani Majbootnagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-uttha",
+    "type": "village",
+    "name_en": "Uttha (Gram Panchayat Area)",
+    "name_hi": "Uttha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-gauri-bhagwantpur",
+    "type": "village",
+    "name_en": "Gauri Bhagwantpur (Gram Panchayat Area)",
+    "name_hi": "Gauri Bhagwantpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209203"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-malon",
+    "type": "village",
+    "name_en": "Malon (Gram Panchayat Area)",
+    "name_hi": "Malon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209203"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-asdhna",
+    "type": "village",
+    "name_en": "Asdhna (Gram Panchayat Area)",
+    "name_hi": "Asdhna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-chanwar",
+    "type": "village",
+    "name_en": "Chanwar (Gram Panchayat Area)",
+    "name_hi": "Chanwar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-gujela",
+    "type": "village",
+    "name_en": "Gujela (Gram Panchayat Area)",
+    "name_hi": "Gujela (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-itrra",
+    "type": "village",
+    "name_en": "Itrra (Gram Panchayat Area)",
+    "name_hi": "Itrra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-korea",
+    "type": "village",
+    "name_en": "Korea (Gram Panchayat Area)",
+    "name_hi": "Korea (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-parachand",
+    "type": "village",
+    "name_en": "Parachand (Gram Panchayat Area)",
+    "name_hi": "Parachand (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-pras",
+    "type": "village",
+    "name_en": "Pras (Gram Panchayat Area)",
+    "name_hi": "Pras (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-rawaipur",
+    "type": "village",
+    "name_en": "Rawaipur (Gram Panchayat Area)",
+    "name_hi": "Rawaipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-kotra-makrandpur",
+    "type": "village",
+    "name_en": "Kotra Makrandpur (Gram Panchayat Area)",
+    "name_hi": "Kotra Makrandpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-girsi",
+    "type": "village",
+    "name_en": "Girsi (Gram Panchayat Area)",
+    "name_hi": "Girsi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209311"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-sugarardeva-eup-9346",
+    "type": "village",
+    "name_en": "Sugarardeva EUP  9346 (Gram Panchayat Area)",
+    "name_hi": "Sugarardeva EUP  9346 (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209210"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-sambhalpur",
+    "type": "village",
+    "name_en": "Sambhalpur (Gram Panchayat Area)",
+    "name_hi": "Sambhalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209205"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-dudwa",
+    "type": "village",
+    "name_en": "Dudwa (Gram Panchayat Area)",
+    "name_hi": "Dudwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209210"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-radhan-eup5857",
+    "type": "village",
+    "name_en": "Radhan  EUP5857 (Gram Panchayat Area)",
+    "name_hi": "Radhan  EUP5857 (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209210"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bibipur",
+    "type": "village",
+    "name_en": "Bibipur (Gram Panchayat Area)",
+    "name_hi": "Bibipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-oriya",
+    "type": "village",
+    "name_en": "Oriya (Gram Panchayat Area)",
+    "name_hi": "Oriya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bhausana",
+    "type": "village",
+    "name_en": "Bhausana (Gram Panchayat Area)",
+    "name_hi": "Bhausana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209205"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-beeramau",
+    "type": "village",
+    "name_en": "Beeramau (Gram Panchayat Area)",
+    "name_hi": "Beeramau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209210"
+    ]
+  },
+  {
+    "id": "po-kanpur-nagar-bairi-akbarpur",
+    "type": "village",
+    "name_en": "Bairi Akbarpur (Gram Panchayat Area)",
+    "name_hi": "Bairi Akbarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kalyanpur",
+    "block_id": "kalyanpur",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "208017"
+    ]
+  },
+  {
+    "id": "ward-kanpur-nagar-nigam",
+    "type": "ward",
+    "name_en": "Kanpur Nagar Municipal Corporation (All Wards)",
+    "name_hi": "कानपुर नगर नगर निगम (सभी वार्ड)",
+    "ulb_id": "kanpur-nagar",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam"
+  },
+  {
+    "id": "ward-kanpur-nagar-ulb-kanpur-nagar-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Kanpur Nagar (All Wards)",
+    "name_hi": "कानपुर नगर नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-kanpur-nagar-ndc-kanpur",
+    "type": "ward",
+    "name_en": "NDC Kanpur (Urban Ward / SO)",
+    "name_hi": "NDC Kanpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-kanpur-cantt",
+    "type": "ward",
+    "name_en": "Kanpur Cantt (Urban Ward / SO)",
+    "name_hi": "Kanpur Cantt (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208004"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-nawabganj",
+    "type": "ward",
+    "name_en": "Nawabganj (Urban Ward / SO)",
+    "name_hi": "Nawabganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208002"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-kanpur",
+    "type": "ward",
+    "name_en": "Kanpur (Urban Ward / SO)",
+    "name_hi": "Kanpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-barra",
+    "type": "ward",
+    "name_en": "Barra (Urban Ward / SO)",
+    "name_hi": "Barra (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208027"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-cod-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "COD SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "COD SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208013"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-meerpur-cantt",
+    "type": "ward",
+    "name_en": "Meerpur Cantt (Urban Ward / SO)",
+    "name_hi": "Meerpur Cantt (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208004"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-barra-vishwa-bank-sectora",
+    "type": "ward",
+    "name_en": "Barra Vishwa Bank SectorA (Urban Ward / SO)",
+    "name_hi": "Barra Vishwa Bank SectorA (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208027"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-birhana-raod",
+    "type": "ward",
+    "name_en": "Birhana Raod (Urban Ward / SO)",
+    "name_hi": "Birhana Raod (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-harjinder-nagar",
+    "type": "ward",
+    "name_en": "Harjinder Nagar (Urban Ward / SO)",
+    "name_hi": "Harjinder Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208007"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-khapra-mohal",
+    "type": "ward",
+    "name_en": "Khapra Mohal (Urban Ward / SO)",
+    "name_hi": "Khapra Mohal (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208004"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-n-h-road",
+    "type": "ward",
+    "name_en": "N H Road (Urban Ward / SO)",
+    "name_hi": "N H Road (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208021"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-napier-road",
+    "type": "ward",
+    "name_en": "Napier Road (Urban Ward / SO)",
+    "name_hi": "Napier Road (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208004"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-naubasta",
+    "type": "ward",
+    "name_en": "Naubasta (Urban Ward / SO)",
+    "name_hi": "Naubasta (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208021"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-nayaganj",
+    "type": "ward",
+    "name_en": "Nayaganj (Urban Ward / SO)",
+    "name_hi": "Nayaganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-shyam-nagar-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Shyam Nagar SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Shyam Nagar SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208013"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-colonelganj-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Colonelganj SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Colonelganj SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-farrashkhana",
+    "type": "ward",
+    "name_en": "Farrashkhana (Urban Ward / SO)",
+    "name_hi": "Farrashkhana (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-k-m-street",
+    "type": "ward",
+    "name_en": "K M Street (Urban Ward / SO)",
+    "name_hi": "K M Street (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-agriculture-college",
+    "type": "ward",
+    "name_en": "Agriculture College (Urban Ward / SO)",
+    "name_hi": "Agriculture College (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208002"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-gsvm-medical-college",
+    "type": "ward",
+    "name_en": "Gsvm Medical College (Urban Ward / SO)",
+    "name_hi": "Gsvm Medical College (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208002"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-bbgaon",
+    "type": "ward",
+    "name_en": "BBGaon (Urban Ward / SO)",
+    "name_hi": "BBGaon (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "209209"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-bilhaur",
+    "type": "ward",
+    "name_en": "BILHAUR (Urban Ward / SO)",
+    "name_hi": "BILHAUR (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "209202"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-ghatampur",
+    "type": "ward",
+    "name_en": "Ghatampur (Urban Ward / SO)",
+    "name_hi": "Ghatampur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "209206"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-uttaripura",
+    "type": "ward",
+    "name_en": "Uttaripura (Urban Ward / SO)",
+    "name_hi": "Uttaripura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "209210"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-hns-nagar",
+    "type": "ward",
+    "name_en": "Hns Nagar (Urban Ward / SO)",
+    "name_hi": "Hns Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208005"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-industrial-estate-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Industrial Estate SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Industrial Estate SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208012"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-jawahar-nagar-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Jawahar Nagar SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Jawahar Nagar SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208012"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-n-c-line",
+    "type": "ward",
+    "name_en": "N C Line (Urban Ward / SO)",
+    "name_hi": "N C Line (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208002"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-naveen-nagar",
+    "type": "ward",
+    "name_en": "Naveen Nagar (Urban Ward / SO)",
+    "name_hi": "Naveen Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208025"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-munshipurwa",
+    "type": "ward",
+    "name_en": "Munshipurwa (Urban Ward / SO)",
+    "name_hi": "Munshipurwa (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208023"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-oe-factory",
+    "type": "ward",
+    "name_en": "Oe Factory (Urban Ward / SO)",
+    "name_hi": "Oe Factory (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-philkhana",
+    "type": "ward",
+    "name_en": "Philkhana (Urban Ward / SO)",
+    "name_hi": "Philkhana (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-t-p-nagar",
+    "type": "ward",
+    "name_en": "T P Nagar (Urban Ward / SO)",
+    "name_hi": "T P Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208023"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-chakarpur",
+    "type": "ward",
+    "name_en": "Chakarpur (Urban Ward / SO)",
+    "name_hi": "Chakarpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "209305"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-cotton-mill",
+    "type": "ward",
+    "name_en": "Cotton Mill (Urban Ward / SO)",
+    "name_hi": "Cotton Mill (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-gwaltoli",
+    "type": "ward",
+    "name_en": "Gwaltoli (Urban Ward / SO)",
+    "name_hi": "Gwaltoli (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-kanpur-court",
+    "type": "ward",
+    "name_en": "Kanpur Court (Urban Ward / SO)",
+    "name_hi": "Kanpur Court (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-keshav-puram-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Keshav Puram SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Keshav Puram SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208017"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-armapore-estate",
+    "type": "ward",
+    "name_en": "Armapore Estate (Urban Ward / SO)",
+    "name_hi": "Armapore Estate (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208009"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-armapore",
+    "type": "ward",
+    "name_en": "Armapore (Urban Ward / SO)",
+    "name_hi": "Armapore (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208009"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-bima-vihar",
+    "type": "ward",
+    "name_en": "Bima Vihar (Urban Ward / SO)",
+    "name_hi": "Bima Vihar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208024"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-d-o-oil-mill",
+    "type": "ward",
+    "name_en": "D O Oil Mill (Urban Ward / SO)",
+    "name_hi": "D O Oil Mill (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208012"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-indira-nagar-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Indira Nagar SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Indira Nagar SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208026"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-kalyanpur-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Kalyanpur SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Kalyanpur SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208017"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-kaushalpuri",
+    "type": "ward",
+    "name_en": "Kaushalpuri (Urban Ward / SO)",
+    "name_hi": "Kaushalpuri (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208012"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-motijheel-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Motijheel SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Motijheel SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208002"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-anand-nagar-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Anand Nagar SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Anand Nagar SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208011"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-anwarganj",
+    "type": "ward",
+    "name_en": "Anwarganj (Urban Ward / SO)",
+    "name_hi": "Anwarganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208003"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-cambridge-road",
+    "type": "ward",
+    "name_en": "Cambridge Road (Urban Ward / SO)",
+    "name_hi": "Cambridge Road (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208007"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-chakeri-aerodrum",
+    "type": "ward",
+    "name_en": "Chakeri Aerodrum (Urban Ward / SO)",
+    "name_hi": "Chakeri Aerodrum (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208008"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-govind-nagar-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Govind Nagar SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Govind Nagar SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208006"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-krishna-nagar-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Krishna Nagar SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Krishna Nagar SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208007"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-new-pac-lines",
+    "type": "ward",
+    "name_en": "New Pac Lines (Urban Ward / SO)",
+    "name_hi": "New Pac Lines (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208015"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-railganj",
+    "type": "ward",
+    "name_en": "Railganj (Urban Ward / SO)",
+    "name_hi": "Railganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208004"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-rbi-colony",
+    "type": "ward",
+    "name_en": "RBI Colony (Urban Ward / SO)",
+    "name_hi": "RBI Colony (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208011"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-fahimabad",
+    "type": "ward",
+    "name_en": "Fahimabad (Urban Ward / SO)",
+    "name_hi": "Fahimabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-b-n-shukla-sons",
+    "type": "ward",
+    "name_en": "B N Shukla  Sons (Urban Ward / SO)",
+    "name_hi": "B N Shukla  Sons (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-cat",
+    "type": "ward",
+    "name_en": "CAT (Urban Ward / SO)",
+    "name_hi": "CAT (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208008"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-dhankutti",
+    "type": "ward",
+    "name_en": "Dhankutti (Urban Ward / SO)",
+    "name_hi": "Dhankutti (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-dmsrde",
+    "type": "ward",
+    "name_en": "Dmsrde (Urban Ward / SO)",
+    "name_hi": "Dmsrde (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208013"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-gandhi-grame",
+    "type": "ward",
+    "name_en": "Gandhi Grame (Urban Ward / SO)",
+    "name_hi": "Gandhi Grame (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208007"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-govind-nagar-west",
+    "type": "ward",
+    "name_en": "Govind Nagar West (Urban Ward / SO)",
+    "name_hi": "Govind Nagar West (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208006"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-hal-colony",
+    "type": "ward",
+    "name_en": "Hal Colony (Urban Ward / SO)",
+    "name_hi": "Hal Colony (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208007"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-hatia-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Hatia SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Hatia SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-j-k-puri",
+    "type": "ward",
+    "name_en": "J K Puri (Urban Ward / SO)",
+    "name_hi": "J K Puri (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208010"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-juhi-colony",
+    "type": "ward",
+    "name_en": "Juhi Colony (Urban Ward / SO)",
+    "name_hi": "Juhi Colony (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208014"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-naramau",
+    "type": "ward",
+    "name_en": "Naramau (Urban Ward / SO)",
+    "name_hi": "Naramau (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "209217"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-panki-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Panki SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Panki SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208020"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-r-k-nagar-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "R K Nagar SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "R K Nagar SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208012"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-rawatpur",
+    "type": "ward",
+    "name_en": "Rawatpur (Urban Ward / SO)",
+    "name_hi": "Rawatpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208019"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-shivaji-nagar-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Shivaji Nagar SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Shivaji Nagar SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208005"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-kidwai-nagar-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Kidwai Nagar SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Kidwai Nagar SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208011"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-narona-exchange",
+    "type": "ward",
+    "name_en": "Narona Exchange (Urban Ward / SO)",
+    "name_hi": "Narona Exchange (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208004"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-nirala-nagar",
+    "type": "ward",
+    "name_en": "Nirala Nagar (Urban Ward / SO)",
+    "name_hi": "Nirala Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208014"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-shiwans-tanney",
+    "type": "ward",
+    "name_en": "Shiwans Tanney (Urban Ward / SO)",
+    "name_hi": "Shiwans Tanney (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208010"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-yashoda-nagar",
+    "type": "ward",
+    "name_en": "Yashoda Nagar (Urban Ward / SO)",
+    "name_hi": "Yashoda Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208011"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-bidhnoo",
+    "type": "ward",
+    "name_en": "Bidhnoo (Urban Ward / SO)",
+    "name_hi": "Bidhnoo (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "209214"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-elgin-mills",
+    "type": "ward",
+    "name_en": "Elgin Mills (Urban Ward / SO)",
+    "name_hi": "Elgin Mills (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-mandhana",
+    "type": "ward",
+    "name_en": "Mandhana (Urban Ward / SO)",
+    "name_hi": "Mandhana (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "209217"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-narwal",
+    "type": "ward",
+    "name_en": "Narwal (Urban Ward / SO)",
+    "name_hi": "Narwal (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "209401"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-naveen-market",
+    "type": "ward",
+    "name_en": "Naveen Market (Urban Ward / SO)",
+    "name_hi": "Naveen Market (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-sarsaul",
+    "type": "ward",
+    "name_en": "Sarsaul (Urban Ward / SO)",
+    "name_hi": "Sarsaul (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "209402"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-employeement-exchange",
+    "type": "ward",
+    "name_en": "Employeement Exchange (Urban Ward / SO)",
+    "name_hi": "Employeement Exchange (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208002"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-hbti",
+    "type": "ward",
+    "name_en": "Hbti (Urban Ward / SO)",
+    "name_hi": "Hbti (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208002"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-iit",
+    "type": "ward",
+    "name_en": "Iit (Urban Ward / SO)",
+    "name_hi": "Iit (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208016"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-k-p-university",
+    "type": "ward",
+    "name_en": "K P University (Urban Ward / SO)",
+    "name_hi": "K P University (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208024"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-nsi",
+    "type": "ward",
+    "name_en": "Nsi (Urban Ward / SO)",
+    "name_hi": "Nsi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208017"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-vijai-nagar-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Vijai Nagar SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Vijai Nagar SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208005"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-kanpur-west",
+    "type": "ward",
+    "name_en": "Kanpur West (Urban Ward / SO)",
+    "name_hi": "Kanpur West (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208001"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-sachendi",
+    "type": "ward",
+    "name_en": "Sachendi (Urban Ward / SO)",
+    "name_hi": "Sachendi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "209304"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-arya-nagar-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Arya Nagar SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Arya Nagar SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208002"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-avas-vikas-yojna-no-3",
+    "type": "ward",
+    "name_en": "Avas Vikas Yojna No 3 (Urban Ward / SO)",
+    "name_hi": "Avas Vikas Yojna No 3 (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208017"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-chauki-jarib",
+    "type": "ward",
+    "name_en": "Chauki Jarib (Urban Ward / SO)",
+    "name_hi": "Chauki Jarib (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208003"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-purana-kanpur",
+    "type": "ward",
+    "name_en": "Purana Kanpur (Urban Ward / SO)",
+    "name_hi": "Purana Kanpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208002"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-patara",
+    "type": "ward",
+    "name_en": "Patara (Urban Ward / SO)",
+    "name_hi": "Patara (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "209308"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-sheorajpur",
+    "type": "ward",
+    "name_en": "Sheorajpur (Urban Ward / SO)",
+    "name_hi": "Sheorajpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "209205"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-chaubepur",
+    "type": "ward",
+    "name_en": "Chaubepur (Urban Ward / SO)",
+    "name_hi": "Chaubepur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "209203"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-rambagh-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Rambagh SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Rambagh SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208012"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-ratan-lal-nagar",
+    "type": "ward",
+    "name_en": "Ratan Lal Nagar (Urban Ward / SO)",
+    "name_hi": "Ratan Lal Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208022"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-saketpuri",
+    "type": "ward",
+    "name_en": "Saketpuri (Urban Ward / SO)",
+    "name_hi": "Saketpuri (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208025"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-sisamau",
+    "type": "ward",
+    "name_en": "Sisamau (Urban Ward / SO)",
+    "name_hi": "Sisamau (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208012"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-syyed-nagar-post-office",
+    "type": "ward",
+    "name_en": "Syyed Nagar Post Office (Urban Ward / SO)",
+    "name_hi": "Syyed Nagar Post Office (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208019"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-udyog-nagar-so-kanpur-nagar",
+    "type": "ward",
+    "name_en": "Udyog Nagar SO Kanpur Nagar (Urban Ward / SO)",
+    "name_hi": "Udyog Nagar SO Kanpur Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208022"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-sarvodaya-nagar",
+    "type": "ward",
+    "name_en": "Sarvodaya Nagar (Urban Ward / SO)",
+    "name_hi": "Sarvodaya Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208005"
+    ]
+  },
+  {
+    "id": "town-kanpur-nagar-swarup-nagar",
+    "type": "ward",
+    "name_en": "Swarup Nagar (Urban Ward / SO)",
+    "name_hi": "Swarup Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kanpur-nagar-main",
+    "tehsil_id": "sadar",
+    "district_id": "kanpur-nagar",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "208002"
+    ]
+  }
+]

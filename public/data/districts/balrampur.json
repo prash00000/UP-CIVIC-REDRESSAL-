@@ -21,7 +21,7 @@
       "covers": [
         "balrampur"
       ],
-      "source_url": "https://balrampur.nic.in/whos-who/",
+      "source_url": "https://balrampur.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Mr. Vipin Kumar Jain",
@@ -46,7 +46,7 @@
       "covers": [
         "balrampur"
       ],
-      "source_url": "https://balrampur.nic.in/whos-who/",
+      "source_url": "https://balrampur.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Mr. Himanshu Gupta",
@@ -139,7 +139,8 @@
       ],
       "source_url": "https://balrampur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-balrampur-bdo-balrampur"
     },
     {
       "id": "up-balrampur-bdo-tulsipur",
@@ -168,7 +169,8 @@
       ],
       "source_url": "https://balrampur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-balrampur-bdo-tulsipur"
     },
     {
       "id": "up-balrampur-bdo-gainsari",
@@ -197,7 +199,8 @@
       ],
       "source_url": "https://balrampur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-balrampur-bdo-gainsari"
     },
     {
       "id": "up-balrampur-bdo-pachperwa",
@@ -226,7 +229,8 @@
       ],
       "source_url": "https://balrampur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-balrampur-bdo-pachperwa"
     },
     {
       "id": "up-balrampur-bdo-utraula",
@@ -255,7 +259,8 @@
       ],
       "source_url": "https://balrampur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-balrampur-bdo-utraula"
     },
     {
       "id": "up-balrampur-bdo-rehra-bazar",
@@ -284,7 +289,8 @@
       ],
       "source_url": "https://balrampur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-balrampur-bdo-rehra-bazar"
     },
     {
       "id": "up-balrampur-bdo-gaindas-bujurg",
@@ -313,7 +319,8 @@
       ],
       "source_url": "https://balrampur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-balrampur-bdo-gaindas-bujurg"
     },
     {
       "id": "up-balrampur-bdo-shriduttganj",
@@ -342,7 +349,8 @@
       ],
       "source_url": "https://balrampur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-balrampur-bdo-shriduttganj"
     },
     {
       "id": "up-balrampur-bdo-shivpura",
@@ -371,7 +379,8 @@
       ],
       "source_url": "https://balrampur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-balrampur-bdo-shivpura"
     },
     {
       "id": "eo-balrampur-main",

@@ -22,7 +22,7 @@
       "covers": [
         "sambhal"
       ],
-      "source_url": "https://sambhal.nic.in/whos-who/",
+      "source_url": "https://sambhal.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Collectorate Bahjoi Sambhal"
@@ -46,7 +46,7 @@
       "covers": [
         "sambhal"
       ],
-      "source_url": "https://sambhal.nic.in/whos-who/",
+      "source_url": "https://sambhal.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Mr. Gorakhnath Bhatt",
@@ -86,7 +86,7 @@
       "covers": [
         "sambhal"
       ],
-      "source_url": "https://sambhal.nic.in/whos-who/",
+      "source_url": "https://sambhal.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Mr. Vikas Chandra",
@@ -111,7 +111,7 @@
       "covers": [
         "chandausi"
       ],
-      "source_url": "https://sambhal.nic.in/whos-who/",
+      "source_url": "https://sambhal.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Mr. Ashutosh Tiwari",
@@ -136,7 +136,7 @@
       "covers": [
         "gunnaur"
       ],
-      "source_url": "https://sambhal.nic.in/whos-who/",
+      "source_url": "https://sambhal.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Mr. Avadesh Kumar",
@@ -169,7 +169,8 @@
       ],
       "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sambhal-bdo-sambhal"
     },
     {
       "id": "up-sambhal-bdo-asmoli",
@@ -198,7 +199,8 @@
       ],
       "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sambhal-bdo-asmoli"
     },
     {
       "id": "up-sambhal-bdo-panwasa",
@@ -227,7 +229,8 @@
       ],
       "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sambhal-bdo-panwasa"
     },
     {
       "id": "up-sambhal-bdo-bahjoi",
@@ -256,7 +259,8 @@
       ],
       "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sambhal-bdo-bahjoi"
     },
     {
       "id": "up-sambhal-bdo-baniakhera",
@@ -285,7 +289,8 @@
       ],
       "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sambhal-bdo-baniakhera"
     },
     {
       "id": "up-sambhal-bdo-gunnaur",
@@ -314,7 +319,8 @@
       ],
       "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sambhal-bdo-gunnaur"
     },
     {
       "id": "up-sambhal-bdo-rajpura",
@@ -343,7 +349,8 @@
       ],
       "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sambhal-bdo-rajpura"
     },
     {
       "id": "up-sambhal-bdo-janawai",
@@ -372,7 +379,8 @@
       ],
       "source_url": "https://sambhal.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sambhal-bdo-janawai"
     },
     {
       "id": "eo-sambhal-main",

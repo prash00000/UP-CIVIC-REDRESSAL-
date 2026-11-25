@@ -21,7 +21,7 @@
       "covers": [
         "shamli"
       ],
-      "source_url": "https://shamli.nic.in/whos-who/",
+      "source_url": "https://shamli.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Praveen Verma"
@@ -39,13 +39,27 @@
           "source_url": "https://shamli.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "9454449617",
+          "type": "office",
+          "source_url": "https://shamli.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "01398-297041",
+          "type": "landline",
+          "source_url": "https://shamli.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "cdo-shm@up.gov.in",
       "covers": [
         "shamli"
       ],
-      "source_url": "https://shamli.nic.in/whos-who/",
+      "source_url": "https://shamli.nic.in/contact-directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Brijendra Shukla"
@@ -71,14 +85,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Shamli",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Shamli",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417006",
+          "type": "office",
+          "source_url": "https://shamli.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.shamli.sml-up@gov.in",
       "covers": [
         "shamli"
       ],
-      "source_url": "https://shamli.nic.in/whos-who/",
+      "source_url": "https://shamli.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-shamli-sdm-kairana",
@@ -86,14 +108,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kairana",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kairana",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417007",
+          "type": "office",
+          "source_url": "https://shamli.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.kairana.sml-up@gov.in",
       "covers": [
         "kairana"
       ],
-      "source_url": "https://shamli.nic.in/whos-who/",
+      "source_url": "https://shamli.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-shamli-sdm-unn",
@@ -137,7 +167,8 @@
       ],
       "source_url": "https://shamli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-shamli-bdo-shamli"
     },
     {
       "id": "up-shamli-bdo-kandhla",
@@ -166,7 +197,8 @@
       ],
       "source_url": "https://shamli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-shamli-bdo-kandhla"
     },
     {
       "id": "up-shamli-bdo-thanabhawan",
@@ -195,7 +227,8 @@
       ],
       "source_url": "https://shamli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-shamli-bdo-thanabhawan"
     },
     {
       "id": "up-shamli-bdo-kairana",
@@ -224,7 +257,8 @@
       ],
       "source_url": "https://shamli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-shamli-bdo-kairana"
     },
     {
       "id": "up-shamli-bdo-unn",
@@ -253,7 +287,8 @@
       ],
       "source_url": "https://shamli.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-shamli-bdo-unn"
     },
     {
       "id": "eo-shamli-main",

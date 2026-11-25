@@ -1,0 +1,1334 @@
+[
+  {
+    "id": "v-mahoba-kabrai",
+    "type": "village",
+    "name_en": "Kabrai Block (Gram Panchayats)",
+    "name_hi": "Kabrai विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mahoba-charkhari",
+    "type": "village",
+    "name_en": "Charkhari Block (Gram Panchayats)",
+    "name_hi": "Charkhari विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-charkhari",
+    "block_id": "charkhari",
+    "tehsil_id": "charkhari",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mahoba-jaitpur",
+    "type": "village",
+    "name_en": "Jaitpur Block (Gram Panchayats)",
+    "name_hi": "Jaitpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-jaitpur",
+    "block_id": "jaitpur",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mahoba-panwari",
+    "type": "village",
+    "name_en": "Panwari Block (Gram Panchayats)",
+    "name_hi": "Panwari विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-panwari",
+    "block_id": "panwari",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-mahoba-akona",
+    "type": "village",
+    "name_en": "Akona (Gram Panchayat Area)",
+    "name_hi": "Akona (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210423"
+    ]
+  },
+  {
+    "id": "po-mahoba-ari",
+    "type": "village",
+    "name_en": "Ari (Gram Panchayat Area)",
+    "name_hi": "Ari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-charkhari",
+    "block_id": "charkhari",
+    "tehsil_id": "charkhari",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210423"
+    ]
+  },
+  {
+    "id": "po-mahoba-budhwara",
+    "type": "village",
+    "name_en": "Budhwara (Gram Panchayat Area)",
+    "name_hi": "Budhwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210423"
+    ]
+  },
+  {
+    "id": "po-mahoba-sheohar",
+    "type": "village",
+    "name_en": "Sheohar (Gram Panchayat Area)",
+    "name_hi": "Sheohar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210424"
+    ]
+  },
+  {
+    "id": "po-mahoba-singhaupur-baghari",
+    "type": "village",
+    "name_en": "Singhaupur Baghari (Gram Panchayat Area)",
+    "name_hi": "Singhaupur Baghari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210424"
+    ]
+  },
+  {
+    "id": "po-mahoba-sukaura",
+    "type": "village",
+    "name_en": "Sukaura (Gram Panchayat Area)",
+    "name_hi": "Sukaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210424"
+    ]
+  },
+  {
+    "id": "po-mahoba-sirsi-khurd",
+    "type": "village",
+    "name_en": "Sirsi Khurd (Gram Panchayat Area)",
+    "name_hi": "Sirsi Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210504"
+    ]
+  },
+  {
+    "id": "po-mahoba-basaut",
+    "type": "village",
+    "name_en": "Basaut (Gram Panchayat Area)",
+    "name_hi": "Basaut (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210425"
+    ]
+  },
+  {
+    "id": "po-mahoba-bilbai",
+    "type": "village",
+    "name_en": "Bilbai (Gram Panchayat Area)",
+    "name_hi": "Bilbai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210427"
+    ]
+  },
+  {
+    "id": "po-mahoba-chikahra",
+    "type": "village",
+    "name_en": "Chikahra (Gram Panchayat Area)",
+    "name_hi": "Chikahra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210427"
+    ]
+  },
+  {
+    "id": "po-mahoba-sijahri",
+    "type": "village",
+    "name_en": "Sijahri (Gram Panchayat Area)",
+    "name_hi": "Sijahri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210427"
+    ]
+  },
+  {
+    "id": "po-mahoba-tikamau",
+    "type": "village",
+    "name_en": "Tikamau (Gram Panchayat Area)",
+    "name_hi": "Tikamau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210427"
+    ]
+  },
+  {
+    "id": "po-mahoba-gaurahari",
+    "type": "village",
+    "name_en": "Gaurahari (Gram Panchayat Area)",
+    "name_hi": "Gaurahari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-kaithi",
+    "type": "village",
+    "name_en": "Kaithi (Gram Panchayat Area)",
+    "name_hi": "Kaithi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-kankuwan",
+    "type": "village",
+    "name_en": "Kankuwan (Gram Panchayat Area)",
+    "name_hi": "Kankuwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-kashipur",
+    "type": "village",
+    "name_en": "Kashipur (Gram Panchayat Area)",
+    "name_hi": "Kashipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-kohaniya",
+    "type": "village",
+    "name_en": "Kohaniya (Gram Panchayat Area)",
+    "name_hi": "Kohaniya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-mahobkanth",
+    "type": "village",
+    "name_en": "Mahobkanth (Gram Panchayat Area)",
+    "name_hi": "Mahobkanth (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-dharaun",
+    "type": "village",
+    "name_en": "Dharaun (Gram Panchayat Area)",
+    "name_hi": "Dharaun (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210424"
+    ]
+  },
+  {
+    "id": "po-mahoba-garha",
+    "type": "village",
+    "name_en": "Garha (Gram Panchayat Area)",
+    "name_hi": "Garha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210424"
+    ]
+  },
+  {
+    "id": "po-mahoba-khajuriha-pahra",
+    "type": "village",
+    "name_en": "Khajuriha Pahra (Gram Panchayat Area)",
+    "name_hi": "Khajuriha Pahra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210424"
+    ]
+  },
+  {
+    "id": "po-mahoba-makarbai",
+    "type": "village",
+    "name_en": "Makarbai (Gram Panchayat Area)",
+    "name_hi": "Makarbai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210424"
+    ]
+  },
+  {
+    "id": "po-mahoba-chichara",
+    "type": "village",
+    "name_en": "Chichara (Gram Panchayat Area)",
+    "name_hi": "Chichara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210504"
+    ]
+  },
+  {
+    "id": "po-mahoba-kahra",
+    "type": "village",
+    "name_en": "Kahra (Gram Panchayat Area)",
+    "name_hi": "Kahra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210504"
+    ]
+  },
+  {
+    "id": "po-mahoba-karahiya",
+    "type": "village",
+    "name_en": "Karahiya (Gram Panchayat Area)",
+    "name_hi": "Karahiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210504"
+    ]
+  },
+  {
+    "id": "po-mahoba-khiruhi",
+    "type": "village",
+    "name_en": "Khiruhi (Gram Panchayat Area)",
+    "name_hi": "Khiruhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210504"
+    ]
+  },
+  {
+    "id": "po-mahoba-mawai-khurd",
+    "type": "village",
+    "name_en": "Mawai Khurd (Gram Panchayat Area)",
+    "name_hi": "Mawai Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210504"
+    ]
+  },
+  {
+    "id": "po-mahoba-ladpur",
+    "type": "village",
+    "name_en": "Ladpur (Gram Panchayat Area)",
+    "name_hi": "Ladpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210426"
+    ]
+  },
+  {
+    "id": "po-mahoba-mudhari",
+    "type": "village",
+    "name_en": "Mudhari (Gram Panchayat Area)",
+    "name_hi": "Mudhari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210426"
+    ]
+  },
+  {
+    "id": "po-mahoba-paswara",
+    "type": "village",
+    "name_en": "Paswara (Gram Panchayat Area)",
+    "name_hi": "Paswara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210427"
+    ]
+  },
+  {
+    "id": "po-mahoba-bahadurpur-kalan",
+    "type": "village",
+    "name_en": "Bahadurpur Kalan (Gram Panchayat Area)",
+    "name_hi": "Bahadurpur Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-bendo",
+    "type": "village",
+    "name_en": "Bendo (Gram Panchayat Area)",
+    "name_hi": "Bendo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-paharia",
+    "type": "village",
+    "name_en": "Paharia (Gram Panchayat Area)",
+    "name_hi": "Paharia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-syondhi",
+    "type": "village",
+    "name_en": "Syondhi (Gram Panchayat Area)",
+    "name_hi": "Syondhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-teiya",
+    "type": "village",
+    "name_en": "Teiya (Gram Panchayat Area)",
+    "name_hi": "Teiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-ajnar",
+    "type": "village",
+    "name_en": "Ajnar (Gram Panchayat Area)",
+    "name_hi": "Ajnar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210423"
+    ]
+  },
+  {
+    "id": "po-mahoba-baghanra",
+    "type": "village",
+    "name_en": "Baghanra (Gram Panchayat Area)",
+    "name_hi": "Baghanra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210423"
+    ]
+  },
+  {
+    "id": "po-mahoba-mahuabandh",
+    "type": "village",
+    "name_en": "Mahuabandh (Gram Panchayat Area)",
+    "name_hi": "Mahuabandh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210423"
+    ]
+  },
+  {
+    "id": "po-mahoba-pachara",
+    "type": "village",
+    "name_en": "Pachara (Gram Panchayat Area)",
+    "name_hi": "Pachara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210423"
+    ]
+  },
+  {
+    "id": "po-mahoba-bila-dakhin",
+    "type": "village",
+    "name_en": "Bila Dakhin (Gram Panchayat Area)",
+    "name_hi": "Bila Dakhin (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210424"
+    ]
+  },
+  {
+    "id": "po-mahoba-rewai-sunaicha",
+    "type": "village",
+    "name_en": "Rewai Sunaicha (Gram Panchayat Area)",
+    "name_hi": "Rewai Sunaicha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210424"
+    ]
+  },
+  {
+    "id": "po-mahoba-rewan",
+    "type": "village",
+    "name_en": "Rewan (Gram Panchayat Area)",
+    "name_hi": "Rewan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210504"
+    ]
+  },
+  {
+    "id": "po-mahoba-sirsi-kalan",
+    "type": "village",
+    "name_en": "Sirsi Kalan (Gram Panchayat Area)",
+    "name_hi": "Sirsi Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210504"
+    ]
+  },
+  {
+    "id": "po-mahoba-satari",
+    "type": "village",
+    "name_en": "Satari (Gram Panchayat Area)",
+    "name_hi": "Satari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210426"
+    ]
+  },
+  {
+    "id": "po-mahoba-mahoba-rs",
+    "type": "village",
+    "name_en": "Mahoba RS (Gram Panchayat Area)",
+    "name_hi": "Mahoba RS (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210427"
+    ]
+  },
+  {
+    "id": "po-mahoba-bharwara",
+    "type": "village",
+    "name_en": "Bharwara (Gram Panchayat Area)",
+    "name_hi": "Bharwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-budero",
+    "type": "village",
+    "name_en": "Budero (Gram Panchayat Area)",
+    "name_hi": "Budero (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-kilahua",
+    "type": "village",
+    "name_en": "Kilahua (Gram Panchayat Area)",
+    "name_hi": "Kilahua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-mahua",
+    "type": "village",
+    "name_en": "Mahua (Gram Panchayat Area)",
+    "name_hi": "Mahua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-nagradang",
+    "type": "village",
+    "name_en": "Nagradang (Gram Panchayat Area)",
+    "name_hi": "Nagradang (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210423"
+    ]
+  },
+  {
+    "id": "po-mahoba-tikaria",
+    "type": "village",
+    "name_en": "Tikaria (Gram Panchayat Area)",
+    "name_hi": "Tikaria (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210423"
+    ]
+  },
+  {
+    "id": "po-mahoba-chhani-kalan",
+    "type": "village",
+    "name_en": "Chhani Kalan (Gram Panchayat Area)",
+    "name_hi": "Chhani Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210424"
+    ]
+  },
+  {
+    "id": "po-mahoba-ganj",
+    "type": "village",
+    "name_en": "Ganj (Gram Panchayat Area)",
+    "name_hi": "Ganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210424"
+    ]
+  },
+  {
+    "id": "po-mahoba-mahewa",
+    "type": "village",
+    "name_en": "Mahewa (Gram Panchayat Area)",
+    "name_hi": "Mahewa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210424"
+    ]
+  },
+  {
+    "id": "po-mahoba-parsaha",
+    "type": "village",
+    "name_en": "Parsaha (Gram Panchayat Area)",
+    "name_hi": "Parsaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210424"
+    ]
+  },
+  {
+    "id": "po-mahoba-patha",
+    "type": "village",
+    "name_en": "Patha (Gram Panchayat Area)",
+    "name_hi": "Patha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210424"
+    ]
+  },
+  {
+    "id": "po-mahoba-chhirka",
+    "type": "village",
+    "name_en": "Chhirka (Gram Panchayat Area)",
+    "name_hi": "Chhirka (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210504"
+    ]
+  },
+  {
+    "id": "po-mahoba-ainchana",
+    "type": "village",
+    "name_en": "Ainchana (Gram Panchayat Area)",
+    "name_hi": "Ainchana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210425"
+    ]
+  },
+  {
+    "id": "po-mahoba-bagwaha",
+    "type": "village",
+    "name_en": "Bagwaha (Gram Panchayat Area)",
+    "name_hi": "Bagwaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210426"
+    ]
+  },
+  {
+    "id": "po-mahoba-sugira",
+    "type": "village",
+    "name_en": "Sugira (Gram Panchayat Area)",
+    "name_hi": "Sugira (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210426"
+    ]
+  },
+  {
+    "id": "po-mahoba-karahra-kalan",
+    "type": "village",
+    "name_en": "Karahra Kalan (Gram Panchayat Area)",
+    "name_hi": "Karahra Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210427"
+    ]
+  },
+  {
+    "id": "po-mahoba-bijaypur",
+    "type": "village",
+    "name_en": "Bijaypur (Gram Panchayat Area)",
+    "name_hi": "Bijaypur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-dulara",
+    "type": "village",
+    "name_en": "Dulara (Gram Panchayat Area)",
+    "name_hi": "Dulara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-masoodpura",
+    "type": "village",
+    "name_en": "Masoodpura (Gram Panchayat Area)",
+    "name_hi": "Masoodpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-roori-kalan",
+    "type": "village",
+    "name_en": "Roori Kalan (Gram Panchayat Area)",
+    "name_hi": "Roori Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-umari",
+    "type": "village",
+    "name_en": "Umari (Gram Panchayat Area)",
+    "name_hi": "Umari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "po-mahoba-atrarmaf",
+    "type": "village",
+    "name_en": "Atrarmaf (Gram Panchayat Area)",
+    "name_hi": "Atrarmaf (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210433"
+    ]
+  },
+  {
+    "id": "po-mahoba-bilkhi",
+    "type": "village",
+    "name_en": "Bilkhi (Gram Panchayat Area)",
+    "name_hi": "Bilkhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210433"
+    ]
+  },
+  {
+    "id": "po-mahoba-pawa",
+    "type": "village",
+    "name_en": "Pawa (Gram Panchayat Area)",
+    "name_hi": "Pawa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210433"
+    ]
+  },
+  {
+    "id": "po-mahoba-pipramaf",
+    "type": "village",
+    "name_en": "Pipramaf (Gram Panchayat Area)",
+    "name_hi": "Pipramaf (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210433"
+    ]
+  },
+  {
+    "id": "po-mahoba-salarpur",
+    "type": "village",
+    "name_en": "Salarpur (Gram Panchayat Area)",
+    "name_hi": "Salarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210433"
+    ]
+  },
+  {
+    "id": "po-mahoba-sijwaha",
+    "type": "village",
+    "name_en": "Sijwaha (Gram Panchayat Area)",
+    "name_hi": "Sijwaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210433"
+    ]
+  },
+  {
+    "id": "po-mahoba-supa",
+    "type": "village",
+    "name_en": "Supa (Gram Panchayat Area)",
+    "name_hi": "Supa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210421"
+    ]
+  },
+  {
+    "id": "po-mahoba-bhandra",
+    "type": "village",
+    "name_en": "Bhandra (Gram Panchayat Area)",
+    "name_hi": "Bhandra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210433"
+    ]
+  },
+  {
+    "id": "po-mahoba-nanaura",
+    "type": "village",
+    "name_en": "Nanaura (Gram Panchayat Area)",
+    "name_hi": "Nanaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210433"
+    ]
+  },
+  {
+    "id": "po-mahoba-aktaunhan",
+    "type": "village",
+    "name_en": "Aktaunhan (Gram Panchayat Area)",
+    "name_hi": "Aktaunhan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210421"
+    ]
+  },
+  {
+    "id": "po-mahoba-anghaura",
+    "type": "village",
+    "name_en": "Anghaura (Gram Panchayat Area)",
+    "name_hi": "Anghaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210421"
+    ]
+  },
+  {
+    "id": "po-mahoba-bamrara",
+    "type": "village",
+    "name_en": "Bamrara (Gram Panchayat Area)",
+    "name_hi": "Bamrara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210421"
+    ]
+  },
+  {
+    "id": "po-mahoba-rewai",
+    "type": "village",
+    "name_en": "Rewai (Gram Panchayat Area)",
+    "name_hi": "Rewai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210421"
+    ]
+  },
+  {
+    "id": "po-mahoba-bamhauri-kalan",
+    "type": "village",
+    "name_en": "Bamhauri Kalan (Gram Panchayat Area)",
+    "name_hi": "Bamhauri Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210421"
+    ]
+  },
+  {
+    "id": "po-mahoba-chandauli",
+    "type": "village",
+    "name_en": "Chandauli (Gram Panchayat Area)",
+    "name_hi": "Chandauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210421"
+    ]
+  },
+  {
+    "id": "po-mahoba-rainpura",
+    "type": "village",
+    "name_en": "Rainpura (Gram Panchayat Area)",
+    "name_hi": "Rainpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kabrai",
+    "block_id": "kabrai",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "210421"
+    ]
+  },
+  {
+    "id": "ward-mahoba-ulb-mahoba-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Mahoba (All Wards)",
+    "name_hi": "महोबा नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-mahoba-main",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-mahoba-gandhi-nagar-mahoba",
+    "type": "ward",
+    "name_en": "Gandhi Nagar Mahoba (Urban Ward / SO)",
+    "name_hi": "Gandhi Nagar Mahoba (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mahoba-main",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "210427"
+    ]
+  },
+  {
+    "id": "town-mahoba-kabrai",
+    "type": "ward",
+    "name_en": "Kabrai (Urban Ward / SO)",
+    "name_hi": "Kabrai (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mahoba-main",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "210424"
+    ]
+  },
+  {
+    "id": "town-mahoba-panwari",
+    "type": "ward",
+    "name_en": "Panwari (Urban Ward / SO)",
+    "name_hi": "Panwari (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mahoba-main",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "210429"
+    ]
+  },
+  {
+    "id": "town-mahoba-kulpahar",
+    "type": "ward",
+    "name_en": "Kulpahar (Urban Ward / SO)",
+    "name_hi": "Kulpahar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mahoba-main",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "210426"
+    ]
+  },
+  {
+    "id": "town-mahoba-mahoba",
+    "type": "ward",
+    "name_en": "Mahoba (Urban Ward / SO)",
+    "name_hi": "Mahoba (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mahoba-main",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "210427"
+    ]
+  },
+  {
+    "id": "town-mahoba-charkhari-state",
+    "type": "ward",
+    "name_en": "Charkhari State (Urban Ward / SO)",
+    "name_hi": "Charkhari State (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mahoba-main",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "210421"
+    ]
+  },
+  {
+    "id": "town-mahoba-jaitpur-so-mahoba",
+    "type": "ward",
+    "name_en": "Jaitpur SO Mahoba (Urban Ward / SO)",
+    "name_hi": "Jaitpur SO Mahoba (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mahoba-main",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "210423"
+    ]
+  },
+  {
+    "id": "town-mahoba-khanna",
+    "type": "ward",
+    "name_en": "Khanna (Urban Ward / SO)",
+    "name_hi": "Khanna (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mahoba-main",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "210504"
+    ]
+  },
+  {
+    "id": "town-mahoba-kharela",
+    "type": "ward",
+    "name_en": "Kharela (Urban Ward / SO)",
+    "name_hi": "Kharela (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mahoba-main",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "210425"
+    ]
+  },
+  {
+    "id": "town-mahoba-srinagar-so-mahoba",
+    "type": "ward",
+    "name_en": "Srinagar SO Mahoba (Urban Ward / SO)",
+    "name_hi": "Srinagar SO Mahoba (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mahoba-main",
+    "tehsil_id": "mahoba",
+    "district_id": "mahoba",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "210433"
+    ]
+  }
+]

@@ -21,7 +21,7 @@
       "covers": [
         "saharanpur"
       ],
-      "source_url": "https://saharanpur.nic.in/whos-who/",
+      "source_url": "https://saharanpur.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Arvind Kumar Chauhan (I.A.S.)",
@@ -46,7 +46,7 @@
       "covers": [
         "saharanpur"
       ],
-      "source_url": "https://saharanpur.nic.in/whos-who/",
+      "source_url": "https://saharanpur.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Sumit Rajesh Mahajan (I.A.S.)",
@@ -63,9 +63,10 @@
       "covers": [
         "saharanpur"
       ],
-      "source_url": "https://saharanpur.nic.in/whos-who/",
+      "source_url": "https://saharanpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "District Panchayati Raj Officer (DPRO)"
     },
     {
       "id": "up-saharanpur-sdm-saharanpur",
@@ -73,14 +74,24 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Saharanpur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Saharanpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416970",
+          "type": "office",
+          "source_url": "https://saharanpur.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.saharanpur.sre-up@gov.in",
       "covers": [
         "saharanpur"
       ],
-      "source_url": "https://saharanpur.nic.in/whos-who/",
+      "source_url": "https://saharanpur.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Subodh Kumar",
+      "address_en": "Tehsil Saharanpur, Collectorate Saharanpur"
     },
     {
       "id": "up-saharanpur-sdm-deoband",
@@ -95,15 +106,24 @@
           "source_url": "https://saharanpur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454416971",
+          "type": "office",
+          "source_url": "https://saharanpur.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdmsah-deoband@nic.in",
       "covers": [
         "deoband"
       ],
-      "source_url": "https://saharanpur.nic.in/whos-who/",
+      "source_url": "https://saharanpur.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Yuvraj Singh",
+      "address_en": "Deoband, District Saharanpur"
     },
     {
       "id": "up-saharanpur-sdm-nakur",
@@ -118,15 +138,24 @@
           "source_url": "https://saharanpur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454416973",
+          "type": "office",
+          "source_url": "https://saharanpur.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdmsah-nakur@nic.in",
       "covers": [
         "nakur"
       ],
-      "source_url": "https://saharanpur.nic.in/whos-who/",
+      "source_url": "https://saharanpur.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Surendra Kumar",
+      "address_en": "Tehsil Nakur Compound, District Saharanpur"
     },
     {
       "id": "up-saharanpur-sdm-behat",
@@ -147,9 +176,11 @@
       "covers": [
         "behat"
       ],
-      "source_url": "https://saharanpur.nic.in/whos-who/",
+      "source_url": "https://saharanpur.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Manvendra Singh",
+      "address_en": "Tehsil Behat Compound, District Saharanpur"
     },
     {
       "id": "up-saharanpur-sdm-rampur-maniharan",
@@ -164,15 +195,24 @@
           "source_url": "https://saharanpur.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454416974",
+          "type": "office",
+          "source_url": "https://saharanpur.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdmsah-rampur@nic.in",
       "covers": [
         "rampur-maniharan"
       ],
-      "source_url": "https://saharanpur.nic.in/whos-who/",
+      "source_url": "https://saharanpur.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Dr. Poorva Sharma",
+      "address_en": "Tehsil Rampur Maniharan, Saharanpur"
     },
     {
       "id": "up-saharanpur-bdo-ballia-kheri",
@@ -201,7 +241,8 @@
       ],
       "source_url": "https://saharanpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-saharanpur-bdo-ballia-kheri"
     },
     {
       "id": "up-saharanpur-bdo-puwaraka",
@@ -230,7 +271,8 @@
       ],
       "source_url": "https://saharanpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-saharanpur-bdo-puwaraka"
     },
     {
       "id": "up-saharanpur-bdo-sarsawa",
@@ -259,7 +301,8 @@
       ],
       "source_url": "https://saharanpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-saharanpur-bdo-sarsawa"
     },
     {
       "id": "up-saharanpur-bdo-nakur",
@@ -288,7 +331,8 @@
       ],
       "source_url": "https://saharanpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-saharanpur-bdo-nakur"
     },
     {
       "id": "up-saharanpur-bdo-gangoh",
@@ -317,7 +361,8 @@
       ],
       "source_url": "https://saharanpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-saharanpur-bdo-gangoh"
     },
     {
       "id": "up-saharanpur-bdo-deoband",
@@ -346,7 +391,8 @@
       ],
       "source_url": "https://saharanpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-saharanpur-bdo-deoband"
     },
     {
       "id": "up-saharanpur-bdo-nagal",
@@ -375,7 +421,8 @@
       ],
       "source_url": "https://saharanpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-saharanpur-bdo-nagal"
     },
     {
       "id": "up-saharanpur-bdo-rampur-maniharan",
@@ -404,7 +451,8 @@
       ],
       "source_url": "https://saharanpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-saharanpur-bdo-rampur-maniharan"
     },
     {
       "id": "up-saharanpur-bdo-nanauta",
@@ -433,7 +481,8 @@
       ],
       "source_url": "https://saharanpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-saharanpur-bdo-nanauta"
     },
     {
       "id": "up-saharanpur-bdo-sadauli-qadeem",
@@ -462,7 +511,8 @@
       ],
       "source_url": "https://saharanpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-saharanpur-bdo-sadauli-qadeem"
     },
     {
       "id": "up-saharanpur-bdo-muzaffarabad",
@@ -491,7 +541,8 @@
       ],
       "source_url": "https://saharanpur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-saharanpur-bdo-muzaffarabad"
     },
     {
       "id": "eo-saharanpur-main",
@@ -503,9 +554,42 @@
       "covers": [
         "ulb-saharanpur-main"
       ],
-      "source_url": "https://saharanpur.nic.in/whos-who/",
+      "source_url": "https://saharanpur.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "District Panchayat, Saharanpur",
+      "email": "nagarnigamsaharanpur@gmail.com"
+    },
+    {
+      "id": "up-saharanpur-commissioner",
+      "level": "ulb",
+      "role": "commissioner",
+      "office_name_en": "Municipal Commissioner, Saharanpur Nagar Nigam",
+      "office_name_hi": "नगर आयुक्त, सहारनपुर नगर निगम",
+      "phones": [
+        {
+          "number": "8189077827",
+          "type": "cug",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0132-2614730",
+          "type": "landline",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "saharanpur"
+      ],
+      "source_url": "https://saharanpur.nic.in/directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "email": "8189077827nagarnigamsaharanpur@gmail.com",
+      "officer_name_en": "सुश्री गजल भारद्वाज"
     }
   ]
 }

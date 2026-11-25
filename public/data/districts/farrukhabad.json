@@ -23,13 +23,20 @@
           "source_url": "https://farrukhabad.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "05692-234133",
+          "type": "landline",
+          "source_url": "https://farrukhabad.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmfar@nic.in",
       "covers": [
         "farrukhabad"
       ],
-      "source_url": "https://farrukhabad.nic.in/whos-who/",
+      "source_url": "https://farrukhabad.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "District Magistrate, Farrukhabad"
@@ -60,7 +67,7 @@
       "covers": [
         "farrukhabad"
       ],
-      "source_url": "https://farrukhabad.nic.in/whos-who/",
+      "source_url": "https://farrukhabad.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Chief Development Officer, Farrukhabad",
@@ -77,9 +84,10 @@
       "covers": [
         "farrukhabad"
       ],
-      "source_url": "https://farrukhabad.nic.in/whos-who/",
+      "source_url": "https://farrukhabad.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "D.P.R.O."
     },
     {
       "id": "up-farrukhabad-sdm-farrukhabad",
@@ -100,9 +108,10 @@
       "covers": [
         "farrukhabad"
       ],
-      "source_url": "https://farrukhabad.nic.in/whos-who/",
+      "source_url": "https://farrukhabad.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Sadar/Farrukhabad"
     },
     {
       "id": "up-farrukhabad-sdm-kaimganj",
@@ -117,15 +126,23 @@
           "source_url": "https://farrukhabad.nic.in",
           "checked_on": "2026-11-20",
           "status": "verified"
+        },
+        {
+          "number": "9454416455",
+          "type": "office",
+          "source_url": "https://farrukhabad.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "sdm.kaimganj.frd-up@gov.in",
       "covers": [
         "kaimganj"
       ],
-      "source_url": "https://farrukhabad.nic.in/whos-who/",
+      "source_url": "https://farrukhabad.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Kaimganj"
     },
     {
       "id": "up-farrukhabad-sdm-amritpur",
@@ -146,9 +163,10 @@
       "covers": [
         "amritpur"
       ],
-      "source_url": "https://farrukhabad.nic.in/whos-who/",
+      "source_url": "https://farrukhabad.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Amritpur"
     },
     {
       "id": "up-farrukhabad-bdo-barhpur",
@@ -177,7 +195,8 @@
       ],
       "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-farrukhabad-bdo-barhpur"
     },
     {
       "id": "up-farrukhabad-bdo-kamalganj",
@@ -198,9 +217,10 @@
       "covers": [
         "kamalganj"
       ],
-      "source_url": "https://farrukhabad.nic.in/whos-who/",
+      "source_url": "https://farrukhabad.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "BDO KamalGanj"
     },
     {
       "id": "up-farrukhabad-ado-kamalganj",
@@ -214,7 +234,8 @@
       ],
       "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-farrukhabad-bdo-kamalganj"
     },
     {
       "id": "up-farrukhabad-bdo-mohammadabad",
@@ -243,7 +264,8 @@
       ],
       "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-farrukhabad-bdo-mohammadabad"
     },
     {
       "id": "up-farrukhabad-bdo-kaimganj",
@@ -264,9 +286,10 @@
       "covers": [
         "kaimganj"
       ],
-      "source_url": "https://farrukhabad.nic.in/whos-who/",
+      "source_url": "https://farrukhabad.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "BDO Kaimganj"
     },
     {
       "id": "up-farrukhabad-ado-kaimganj",
@@ -280,7 +303,8 @@
       ],
       "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-farrukhabad-bdo-kaimganj"
     },
     {
       "id": "up-farrukhabad-bdo-nawabganj",
@@ -301,9 +325,10 @@
       "covers": [
         "nawabganj"
       ],
-      "source_url": "https://farrukhabad.nic.in/whos-who/",
+      "source_url": "https://farrukhabad.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "BDO NawabGanj"
     },
     {
       "id": "up-farrukhabad-ado-nawabganj",
@@ -317,7 +342,8 @@
       ],
       "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-farrukhabad-bdo-nawabganj"
     },
     {
       "id": "up-farrukhabad-bdo-shamsabad",
@@ -338,9 +364,10 @@
       "covers": [
         "shamsabad"
       ],
-      "source_url": "https://farrukhabad.nic.in/whos-who/",
+      "source_url": "https://farrukhabad.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "BDO Shamsabad"
     },
     {
       "id": "up-farrukhabad-ado-shamsabad",
@@ -354,7 +381,8 @@
       ],
       "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-farrukhabad-bdo-shamsabad"
     },
     {
       "id": "up-farrukhabad-bdo-rajepur",
@@ -375,9 +403,10 @@
       "covers": [
         "rajepur"
       ],
-      "source_url": "https://farrukhabad.nic.in/whos-who/",
+      "source_url": "https://farrukhabad.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "BDO Rajepur"
     },
     {
       "id": "up-farrukhabad-ado-rajepur",
@@ -391,7 +420,8 @@
       ],
       "source_url": "https://farrukhabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-farrukhabad-bdo-rajepur"
     },
     {
       "id": "eo-farrukhabad-main",
@@ -399,13 +429,22 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Farrukhabad",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका फर्रुखाबाद",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8189078150",
+          "type": "office",
+          "source_url": "https://farrukhabad.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-farrukhabad-main"
       ],
-      "source_url": "https://farrukhabad.nic.in/whos-who/",
+      "source_url": "https://farrukhabad.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Executive Officer, Nagar Palika Praishad , Farrukhabad"
     }
   ]
 }

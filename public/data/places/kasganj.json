@@ -1,0 +1,1577 @@
+[
+  {
+    "id": "v-kasganj-kasganj",
+    "type": "village",
+    "name_en": "Kasganj Block (Gram Panchayats)",
+    "name_hi": "Kasganj विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kasganj-soron",
+    "type": "village",
+    "name_en": "Soron Block (Gram Panchayats)",
+    "name_hi": "Soron विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-soron",
+    "block_id": "soron",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kasganj-sahaver",
+    "type": "village",
+    "name_en": "Sahaver Block (Gram Panchayats)",
+    "name_hi": "Sahaver विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sahaver",
+    "block_id": "sahaver",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kasganj-amanpur",
+    "type": "village",
+    "name_en": "Amanpur Block (Gram Panchayats)",
+    "name_hi": "Amanpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amanpur",
+    "block_id": "amanpur",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kasganj-patiyali",
+    "type": "village",
+    "name_en": "Patiyali Block (Gram Panchayats)",
+    "name_hi": "Patiyali विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-patiyali",
+    "block_id": "patiyali",
+    "tehsil_id": "patiyali",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kasganj-ganjdundwara",
+    "type": "village",
+    "name_en": "Ganjdundwara Block (Gram Panchayats)",
+    "name_hi": "Ganjdundwara विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-ganjdundwara",
+    "block_id": "ganjdundwara",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-kasganj-sidhpura",
+    "type": "village",
+    "name_en": "Sidhpura Block (Gram Panchayats)",
+    "name_hi": "Sidhpura विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sidhpura",
+    "block_id": "sidhpura",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-kasganj-nadarmai",
+    "type": "village",
+    "name_en": "Nadarmai (Gram Panchayat Area)",
+    "name_hi": "Nadarmai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207241"
+    ]
+  },
+  {
+    "id": "po-kasganj-sarsai-narau",
+    "type": "village",
+    "name_en": "Sarsai Narau (Gram Panchayat Area)",
+    "name_hi": "Sarsai Narau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207241"
+    ]
+  },
+  {
+    "id": "po-kasganj-harsena",
+    "type": "village",
+    "name_en": "Harsena (Gram Panchayat Area)",
+    "name_hi": "Harsena (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207124"
+    ]
+  },
+  {
+    "id": "po-kasganj-jakhera",
+    "type": "village",
+    "name_en": "Jakhera (Gram Panchayat Area)",
+    "name_hi": "Jakhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207124"
+    ]
+  },
+  {
+    "id": "po-kasganj-kudhar",
+    "type": "village",
+    "name_en": "Kudhar (Gram Panchayat Area)",
+    "name_hi": "Kudhar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207124"
+    ]
+  },
+  {
+    "id": "po-kasganj-mubarik-pur-mafi",
+    "type": "village",
+    "name_en": "Mubarik Pur Mafi (Gram Panchayat Area)",
+    "name_hi": "Mubarik Pur Mafi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207124"
+    ]
+  },
+  {
+    "id": "po-kasganj-kadarganj",
+    "type": "village",
+    "name_en": "Kadarganj (Gram Panchayat Area)",
+    "name_hi": "Kadarganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207242"
+    ]
+  },
+  {
+    "id": "po-kasganj-mohanpur",
+    "type": "village",
+    "name_en": "Mohanpur (Gram Panchayat Area)",
+    "name_hi": "Mohanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207242"
+    ]
+  },
+  {
+    "id": "po-kasganj-singpur",
+    "type": "village",
+    "name_en": "Singpur (Gram Panchayat Area)",
+    "name_hi": "Singpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207242"
+    ]
+  },
+  {
+    "id": "po-kasganj-sunngarhi",
+    "type": "village",
+    "name_en": "Sunngarhi (Gram Panchayat Area)",
+    "name_hi": "Sunngarhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207242"
+    ]
+  },
+  {
+    "id": "po-kasganj-behta",
+    "type": "village",
+    "name_en": "Behta (Gram Panchayat Area)",
+    "name_hi": "Behta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207123"
+    ]
+  },
+  {
+    "id": "po-kasganj-gorha",
+    "type": "village",
+    "name_en": "Gorha (Gram Panchayat Area)",
+    "name_hi": "Gorha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207123"
+    ]
+  },
+  {
+    "id": "po-kasganj-kayampur-baheria",
+    "type": "village",
+    "name_en": "Kayampur Baheria (Gram Panchayat Area)",
+    "name_hi": "Kayampur Baheria (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207123"
+    ]
+  },
+  {
+    "id": "po-kasganj-mahdava",
+    "type": "village",
+    "name_en": "Mahdava (Gram Panchayat Area)",
+    "name_hi": "Mahdava (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207123"
+    ]
+  },
+  {
+    "id": "po-kasganj-mihari",
+    "type": "village",
+    "name_en": "Mihari (Gram Panchayat Area)",
+    "name_hi": "Mihari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207123"
+    ]
+  },
+  {
+    "id": "po-kasganj-nagla-katila",
+    "type": "village",
+    "name_en": "Nagla Katila (Gram Panchayat Area)",
+    "name_hi": "Nagla Katila (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207123"
+    ]
+  },
+  {
+    "id": "po-kasganj-rekhpur",
+    "type": "village",
+    "name_en": "Rekhpur (Gram Panchayat Area)",
+    "name_hi": "Rekhpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207123"
+    ]
+  },
+  {
+    "id": "po-kasganj-baznagar",
+    "type": "village",
+    "name_en": "Baznagar (Gram Panchayat Area)",
+    "name_hi": "Baznagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207402"
+    ]
+  },
+  {
+    "id": "po-kasganj-jagpura",
+    "type": "village",
+    "name_en": "Jagpura (Gram Panchayat Area)",
+    "name_hi": "Jagpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207243"
+    ]
+  },
+  {
+    "id": "po-kasganj-khaduya",
+    "type": "village",
+    "name_en": "Khaduya (Gram Panchayat Area)",
+    "name_hi": "Khaduya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207243"
+    ]
+  },
+  {
+    "id": "po-kasganj-myau",
+    "type": "village",
+    "name_en": "Myau (Gram Panchayat Area)",
+    "name_hi": "Myau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207243"
+    ]
+  },
+  {
+    "id": "po-kasganj-bhargain",
+    "type": "village",
+    "name_en": "Bhargain (Gram Panchayat Area)",
+    "name_hi": "Bhargain (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207244"
+    ]
+  },
+  {
+    "id": "po-kasganj-kinawa",
+    "type": "village",
+    "name_en": "Kinawa (Gram Panchayat Area)",
+    "name_hi": "Kinawa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207124"
+    ]
+  },
+  {
+    "id": "po-kasganj-abhaipura",
+    "type": "village",
+    "name_en": "Abhaipura (Gram Panchayat Area)",
+    "name_hi": "Abhaipura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207241"
+    ]
+  },
+  {
+    "id": "po-kasganj-karsana",
+    "type": "village",
+    "name_en": "Karsana (Gram Panchayat Area)",
+    "name_hi": "Karsana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207241"
+    ]
+  },
+  {
+    "id": "po-kasganj-sujrai",
+    "type": "village",
+    "name_en": "Sujrai (Gram Panchayat Area)",
+    "name_hi": "Sujrai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207241"
+    ]
+  },
+  {
+    "id": "po-kasganj-kumraua",
+    "type": "village",
+    "name_en": "Kumraua (Gram Panchayat Area)",
+    "name_hi": "Kumraua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207124"
+    ]
+  },
+  {
+    "id": "po-kasganj-jasmai",
+    "type": "village",
+    "name_en": "Jasmai (Gram Panchayat Area)",
+    "name_hi": "Jasmai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207248"
+    ]
+  },
+  {
+    "id": "po-kasganj-bastarmau",
+    "type": "village",
+    "name_en": "Bastarmau (Gram Panchayat Area)",
+    "name_hi": "Bastarmau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207242"
+    ]
+  },
+  {
+    "id": "po-kasganj-midhola-bujurg",
+    "type": "village",
+    "name_en": "Midhola Bujurg (Gram Panchayat Area)",
+    "name_hi": "Midhola Bujurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207242"
+    ]
+  },
+  {
+    "id": "po-kasganj-sikehara",
+    "type": "village",
+    "name_en": "Sikehara (Gram Panchayat Area)",
+    "name_hi": "Sikehara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207242"
+    ]
+  },
+  {
+    "id": "po-kasganj-ballia",
+    "type": "village",
+    "name_en": "Ballia (Gram Panchayat Area)",
+    "name_hi": "Ballia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207243"
+    ]
+  },
+  {
+    "id": "po-kasganj-narthar",
+    "type": "village",
+    "name_en": "Narthar (Gram Panchayat Area)",
+    "name_hi": "Narthar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207243"
+    ]
+  },
+  {
+    "id": "po-kasganj-thana-darioganj",
+    "type": "village",
+    "name_en": "Thana Darioganj (Gram Panchayat Area)",
+    "name_hi": "Thana Darioganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207243"
+    ]
+  },
+  {
+    "id": "po-kasganj-kachhela",
+    "type": "village",
+    "name_en": "Kachhela (Gram Panchayat Area)",
+    "name_hi": "Kachhela (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207245"
+    ]
+  },
+  {
+    "id": "po-kasganj-myasur",
+    "type": "village",
+    "name_en": "Myasur (Gram Panchayat Area)",
+    "name_hi": "Myasur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207245"
+    ]
+  },
+  {
+    "id": "po-kasganj-pachgain",
+    "type": "village",
+    "name_en": "Pachgain (Gram Panchayat Area)",
+    "name_hi": "Pachgain (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207124"
+    ]
+  },
+  {
+    "id": "po-kasganj-bahrojpur",
+    "type": "village",
+    "name_en": "Bahrojpur (Gram Panchayat Area)",
+    "name_hi": "Bahrojpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207242"
+    ]
+  },
+  {
+    "id": "po-kasganj-chirola",
+    "type": "village",
+    "name_en": "Chirola (Gram Panchayat Area)",
+    "name_hi": "Chirola (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207242"
+    ]
+  },
+  {
+    "id": "po-kasganj-tilsai",
+    "type": "village",
+    "name_en": "Tilsai (Gram Panchayat Area)",
+    "name_hi": "Tilsai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207123"
+    ]
+  },
+  {
+    "id": "po-kasganj-ashokpur",
+    "type": "village",
+    "name_en": "Ashokpur (Gram Panchayat Area)",
+    "name_hi": "Ashokpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207243"
+    ]
+  },
+  {
+    "id": "po-kasganj-aurangabad",
+    "type": "village",
+    "name_en": "Aurangabad (Gram Panchayat Area)",
+    "name_hi": "Aurangabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207243"
+    ]
+  },
+  {
+    "id": "po-kasganj-bahdola",
+    "type": "village",
+    "name_en": "Bahdola (Gram Panchayat Area)",
+    "name_hi": "Bahdola (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207243"
+    ]
+  },
+  {
+    "id": "po-kasganj-raja-rijola",
+    "type": "village",
+    "name_en": "Raja Rijola (Gram Panchayat Area)",
+    "name_hi": "Raja Rijola (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207243"
+    ]
+  },
+  {
+    "id": "po-kasganj-rajepur-kurra",
+    "type": "village",
+    "name_en": "Rajepur Kurra (Gram Panchayat Area)",
+    "name_hi": "Rajepur Kurra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207243"
+    ]
+  },
+  {
+    "id": "po-kasganj-sahori",
+    "type": "village",
+    "name_en": "Sahori (Gram Panchayat Area)",
+    "name_hi": "Sahori (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207243"
+    ]
+  },
+  {
+    "id": "po-kasganj-sanauri-khas",
+    "type": "village",
+    "name_en": "Sanauri Khas (Gram Panchayat Area)",
+    "name_hi": "Sanauri Khas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207243"
+    ]
+  },
+  {
+    "id": "po-kasganj-amirasa",
+    "type": "village",
+    "name_en": "Amirasa (Gram Panchayat Area)",
+    "name_hi": "Amirasa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207245"
+    ]
+  },
+  {
+    "id": "po-kasganj-faroli",
+    "type": "village",
+    "name_en": "Faroli (Gram Panchayat Area)",
+    "name_hi": "Faroli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207245"
+    ]
+  },
+  {
+    "id": "po-kasganj-jahangirpur",
+    "type": "village",
+    "name_en": "Jahangirpur (Gram Panchayat Area)",
+    "name_hi": "Jahangirpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207245"
+    ]
+  },
+  {
+    "id": "po-kasganj-yakootganj",
+    "type": "village",
+    "name_en": "Yakootganj (Gram Panchayat Area)",
+    "name_hi": "Yakootganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207245"
+    ]
+  },
+  {
+    "id": "po-kasganj-arjunpur-nauabad",
+    "type": "village",
+    "name_en": "Arjunpur Nauabad (Gram Panchayat Area)",
+    "name_hi": "Arjunpur Nauabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207241"
+    ]
+  },
+  {
+    "id": "po-kasganj-tharachithara",
+    "type": "village",
+    "name_en": "Tharachithara (Gram Panchayat Area)",
+    "name_hi": "Tharachithara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207241"
+    ]
+  },
+  {
+    "id": "po-kasganj-kisarauli",
+    "type": "village",
+    "name_en": "Kisarauli (Gram Panchayat Area)",
+    "name_hi": "Kisarauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207124"
+    ]
+  },
+  {
+    "id": "po-kasganj-mahawar",
+    "type": "village",
+    "name_en": "Mahawar (Gram Panchayat Area)",
+    "name_hi": "Mahawar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207124"
+    ]
+  },
+  {
+    "id": "po-kasganj-nameni",
+    "type": "village",
+    "name_en": "Nameni (Gram Panchayat Area)",
+    "name_hi": "Nameni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207124"
+    ]
+  },
+  {
+    "id": "po-kasganj-sarawal",
+    "type": "village",
+    "name_en": "Sarawal (Gram Panchayat Area)",
+    "name_hi": "Sarawal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207248"
+    ]
+  },
+  {
+    "id": "po-kasganj-garka",
+    "type": "village",
+    "name_en": "Garka (Gram Panchayat Area)",
+    "name_hi": "Garka (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207242"
+    ]
+  },
+  {
+    "id": "po-kasganj-karampur",
+    "type": "village",
+    "name_en": "Karampur (Gram Panchayat Area)",
+    "name_hi": "Karampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207242"
+    ]
+  },
+  {
+    "id": "po-kasganj-nagla-bhimsen",
+    "type": "village",
+    "name_en": "Nagla Bhimsen (Gram Panchayat Area)",
+    "name_hi": "Nagla Bhimsen (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207242"
+    ]
+  },
+  {
+    "id": "po-kasganj-samaspur",
+    "type": "village",
+    "name_en": "Samaspur (Gram Panchayat Area)",
+    "name_hi": "Samaspur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207242"
+    ]
+  },
+  {
+    "id": "po-kasganj-pathreki",
+    "type": "village",
+    "name_en": "Pathreki (Gram Panchayat Area)",
+    "name_hi": "Pathreki (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207123"
+    ]
+  },
+  {
+    "id": "po-kasganj-salai",
+    "type": "village",
+    "name_en": "Salai (Gram Panchayat Area)",
+    "name_hi": "Salai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207123"
+    ]
+  },
+  {
+    "id": "po-kasganj-gaupura",
+    "type": "village",
+    "name_en": "Gaupura (Gram Panchayat Area)",
+    "name_hi": "Gaupura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207402"
+    ]
+  },
+  {
+    "id": "po-kasganj-roshan-nagar",
+    "type": "village",
+    "name_en": "Roshan Nagar (Gram Panchayat Area)",
+    "name_hi": "Roshan Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207402"
+    ]
+  },
+  {
+    "id": "po-kasganj-bahora",
+    "type": "village",
+    "name_en": "Bahora (Gram Panchayat Area)",
+    "name_hi": "Bahora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207243"
+    ]
+  },
+  {
+    "id": "po-kasganj-hathodaban",
+    "type": "village",
+    "name_en": "Hathodaban (Gram Panchayat Area)",
+    "name_hi": "Hathodaban (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207243"
+    ]
+  },
+  {
+    "id": "po-kasganj-nardoli",
+    "type": "village",
+    "name_en": "Nardoli (Gram Panchayat Area)",
+    "name_hi": "Nardoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207243"
+    ]
+  },
+  {
+    "id": "po-kasganj-khojpur",
+    "type": "village",
+    "name_en": "Khojpur (Gram Panchayat Area)",
+    "name_hi": "Khojpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207245"
+    ]
+  },
+  {
+    "id": "po-kasganj-devri-prahlad-pur",
+    "type": "village",
+    "name_en": "Devri Prahlad Pur (Gram Panchayat Area)",
+    "name_hi": "Devri Prahlad Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207403"
+    ]
+  },
+  {
+    "id": "po-kasganj-ganga-garh",
+    "type": "village",
+    "name_en": "Ganga Garh (Gram Panchayat Area)",
+    "name_hi": "Ganga Garh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207403"
+    ]
+  },
+  {
+    "id": "po-kasganj-badria",
+    "type": "village",
+    "name_en": "Badria (Gram Panchayat Area)",
+    "name_hi": "Badria (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207403"
+    ]
+  },
+  {
+    "id": "po-kasganj-wazirpur",
+    "type": "village",
+    "name_en": "Wazirpur (Gram Panchayat Area)",
+    "name_hi": "Wazirpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207123"
+    ]
+  },
+  {
+    "id": "po-kasganj-dholna",
+    "type": "village",
+    "name_en": "Dholna (Gram Panchayat Area)",
+    "name_hi": "Dholna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207124"
+    ]
+  },
+  {
+    "id": "po-kasganj-aun",
+    "type": "village",
+    "name_en": "Aun (Gram Panchayat Area)",
+    "name_hi": "Aun (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207246"
+    ]
+  },
+  {
+    "id": "po-kasganj-bhensrasi",
+    "type": "village",
+    "name_en": "Bhensrasi (Gram Panchayat Area)",
+    "name_hi": "Bhensrasi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207246"
+    ]
+  },
+  {
+    "id": "po-kasganj-nadrai",
+    "type": "village",
+    "name_en": "Nadrai (Gram Panchayat Area)",
+    "name_hi": "Nadrai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207123"
+    ]
+  },
+  {
+    "id": "po-kasganj-bhujpura",
+    "type": "village",
+    "name_en": "Bhujpura (Gram Panchayat Area)",
+    "name_hi": "Bhujpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207246"
+    ]
+  },
+  {
+    "id": "po-kasganj-dhondhara",
+    "type": "village",
+    "name_en": "Dhondhara (Gram Panchayat Area)",
+    "name_hi": "Dhondhara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207246"
+    ]
+  },
+  {
+    "id": "po-kasganj-magthara",
+    "type": "village",
+    "name_en": "Magthara (Gram Panchayat Area)",
+    "name_hi": "Magthara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207246"
+    ]
+  },
+  {
+    "id": "po-kasganj-goyati",
+    "type": "village",
+    "name_en": "Goyati (Gram Panchayat Area)",
+    "name_hi": "Goyati (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207403"
+    ]
+  },
+  {
+    "id": "po-kasganj-salempur-bebe",
+    "type": "village",
+    "name_en": "Salempur Bebe (Gram Panchayat Area)",
+    "name_hi": "Salempur Bebe (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207403"
+    ]
+  },
+  {
+    "id": "po-kasganj-sirawali",
+    "type": "village",
+    "name_en": "Sirawali (Gram Panchayat Area)",
+    "name_hi": "Sirawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207403"
+    ]
+  },
+  {
+    "id": "po-kasganj-virahampuri",
+    "type": "village",
+    "name_en": "Virahampuri (Gram Panchayat Area)",
+    "name_hi": "Virahampuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207403"
+    ]
+  },
+  {
+    "id": "po-kasganj-nawab-ganj",
+    "type": "village",
+    "name_en": "Nawab Ganj (Gram Panchayat Area)",
+    "name_hi": "Nawab Ganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207123"
+    ]
+  },
+  {
+    "id": "po-kasganj-fatehpur",
+    "type": "village",
+    "name_en": "Fatehpur (Gram Panchayat Area)",
+    "name_hi": "Fatehpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207246"
+    ]
+  },
+  {
+    "id": "po-kasganj-khiriya-patti",
+    "type": "village",
+    "name_en": "Khiriya Patti (Gram Panchayat Area)",
+    "name_hi": "Khiriya Patti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207246"
+    ]
+  },
+  {
+    "id": "po-kasganj-pilkhuni",
+    "type": "village",
+    "name_en": "Pilkhuni (Gram Panchayat Area)",
+    "name_hi": "Pilkhuni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207246"
+    ]
+  },
+  {
+    "id": "po-kasganj-kadarwadi",
+    "type": "village",
+    "name_en": "Kadarwadi (Gram Panchayat Area)",
+    "name_hi": "Kadarwadi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207403"
+    ]
+  },
+  {
+    "id": "po-kasganj-malikpur",
+    "type": "village",
+    "name_en": "Malikpur (Gram Panchayat Area)",
+    "name_hi": "Malikpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207403"
+    ]
+  },
+  {
+    "id": "po-kasganj-mehmood-pur-pukhata",
+    "type": "village",
+    "name_en": "Mehmood Pur Pukhata (Gram Panchayat Area)",
+    "name_hi": "Mehmood Pur Pukhata (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207403"
+    ]
+  },
+  {
+    "id": "po-kasganj-dhansinghpur",
+    "type": "village",
+    "name_en": "Dhansinghpur (Gram Panchayat Area)",
+    "name_hi": "Dhansinghpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207246"
+    ]
+  },
+  {
+    "id": "po-kasganj-kamalpur",
+    "type": "village",
+    "name_en": "Kamalpur (Gram Panchayat Area)",
+    "name_hi": "Kamalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207246"
+    ]
+  },
+  {
+    "id": "po-kasganj-naugaon",
+    "type": "village",
+    "name_en": "Naugaon (Gram Panchayat Area)",
+    "name_hi": "Naugaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207246"
+    ]
+  },
+  {
+    "id": "po-kasganj-pithanpur",
+    "type": "village",
+    "name_en": "Pithanpur (Gram Panchayat Area)",
+    "name_hi": "Pithanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207246"
+    ]
+  },
+  {
+    "id": "po-kasganj-sultanpur",
+    "type": "village",
+    "name_en": "Sultanpur (Gram Panchayat Area)",
+    "name_hi": "Sultanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207246"
+    ]
+  },
+  {
+    "id": "po-kasganj-khairpur",
+    "type": "village",
+    "name_en": "Khairpur (Gram Panchayat Area)",
+    "name_hi": "Khairpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kasganj",
+    "block_id": "kasganj",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207403"
+    ]
+  },
+  {
+    "id": "ward-kasganj-ulb-kasganj-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Kasganj (All Wards)",
+    "name_hi": "कासगंज नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-kasganj-main",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-kasganj-bilram",
+    "type": "ward",
+    "name_en": "Bilram (Urban Ward / SO)",
+    "name_hi": "Bilram (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kasganj-main",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207124"
+    ]
+  },
+  {
+    "id": "town-kasganj-soron",
+    "type": "ward",
+    "name_en": "Soron (Urban Ward / SO)",
+    "name_hi": "Soron (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kasganj-main",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207403"
+    ]
+  },
+  {
+    "id": "town-kasganj-gunjdundwara",
+    "type": "ward",
+    "name_en": "Gunjdundwara (Urban Ward / SO)",
+    "name_hi": "Gunjdundwara (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kasganj-main",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207242"
+    ]
+  },
+  {
+    "id": "town-kasganj-neoli",
+    "type": "ward",
+    "name_en": "Neoli (Urban Ward / SO)",
+    "name_hi": "Neoli (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kasganj-main",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207402"
+    ]
+  },
+  {
+    "id": "town-kasganj-barahdwari",
+    "type": "ward",
+    "name_en": "Barahdwari (Urban Ward / SO)",
+    "name_hi": "Barahdwari (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kasganj-main",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207123"
+    ]
+  },
+  {
+    "id": "town-kasganj-kasganj",
+    "type": "ward",
+    "name_en": "Kasganj (Urban Ward / SO)",
+    "name_hi": "Kasganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kasganj-main",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207123"
+    ]
+  },
+  {
+    "id": "town-kasganj-patiali",
+    "type": "ward",
+    "name_en": "Patiali (Urban Ward / SO)",
+    "name_hi": "Patiali (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kasganj-main",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207243"
+    ]
+  },
+  {
+    "id": "town-kasganj-sirhpura",
+    "type": "ward",
+    "name_en": "Sirhpura (Urban Ward / SO)",
+    "name_hi": "Sirhpura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kasganj-main",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207246"
+    ]
+  },
+  {
+    "id": "town-kasganj-kasganj-rs",
+    "type": "ward",
+    "name_en": "Kasganj RS (Urban Ward / SO)",
+    "name_hi": "Kasganj RS (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kasganj-main",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207123"
+    ]
+  },
+  {
+    "id": "town-kasganj-sahawar",
+    "type": "ward",
+    "name_en": "Sahawar (Urban Ward / SO)",
+    "name_hi": "Sahawar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-kasganj-main",
+    "tehsil_id": "kasganj",
+    "district_id": "kasganj",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207245"
+    ]
+  }
+]

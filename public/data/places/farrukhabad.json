@@ -1,0 +1,2222 @@
+[
+  {
+    "id": "v-farrukhabad-barhpur",
+    "type": "village",
+    "name_en": "Barhpur Block (Gram Panchayats)",
+    "name_hi": "Barhpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-farrukhabad-kamalganj",
+    "type": "village",
+    "name_en": "Kamalganj Block (Gram Panchayats)",
+    "name_hi": "Kamalganj विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kamalganj",
+    "block_id": "kamalganj",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-farrukhabad-mohammadabad",
+    "type": "village",
+    "name_en": "Mohammadabad Block (Gram Panchayats)",
+    "name_hi": "Mohammadabad विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mohammadabad",
+    "block_id": "mohammadabad",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-farrukhabad-kaimganj",
+    "type": "village",
+    "name_en": "Kaimganj Block (Gram Panchayats)",
+    "name_hi": "Kaimganj विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kaimganj",
+    "block_id": "kaimganj",
+    "tehsil_id": "kaimganj",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-farrukhabad-nawabganj",
+    "type": "village",
+    "name_en": "Nawabganj Block (Gram Panchayats)",
+    "name_hi": "Nawabganj विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-nawabganj",
+    "block_id": "nawabganj",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-farrukhabad-shamsabad",
+    "type": "village",
+    "name_en": "Shamsabad Block (Gram Panchayats)",
+    "name_hi": "Shamsabad विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-shamsabad",
+    "block_id": "shamsabad",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-farrukhabad-rajepur",
+    "type": "village",
+    "name_en": "Rajepur Block (Gram Panchayats)",
+    "name_hi": "Rajepur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-rajepur",
+    "block_id": "rajepur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-farrukhabad-mahoi",
+    "type": "village",
+    "name_en": "Mahoi (Gram Panchayat Area)",
+    "name_hi": "Mahoi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209743"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-sahaspur",
+    "type": "village",
+    "name_en": "Sahaspur (Gram Panchayat Area)",
+    "name_hi": "Sahaspur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209743"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-ugrapur-sultan-patti",
+    "type": "village",
+    "name_en": "Ugrapur Sultan Patti (Gram Panchayat Area)",
+    "name_hi": "Ugrapur Sultan Patti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209743"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-harsinghpur-goa",
+    "type": "village",
+    "name_en": "Harsinghpur Goa (Gram Panchayat Area)",
+    "name_hi": "Harsinghpur Goa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209504"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-khinmini",
+    "type": "village",
+    "name_en": "Khinmini (Gram Panchayat Area)",
+    "name_hi": "Khinmini (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209504"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-rasidpur-mai",
+    "type": "village",
+    "name_en": "Rasidpur Mai (Gram Panchayat Area)",
+    "name_hi": "Rasidpur Mai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209504"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-shukrullapur",
+    "type": "village",
+    "name_en": "Shukrullapur (Gram Panchayat Area)",
+    "name_hi": "Shukrullapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209504"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-nadaura",
+    "type": "village",
+    "name_en": "Nadaura (Gram Panchayat Area)",
+    "name_hi": "Nadaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209652"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-babna",
+    "type": "village",
+    "name_en": "Babna (Gram Panchayat Area)",
+    "name_hi": "Babna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209501"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-khalwara",
+    "type": "village",
+    "name_en": "Khalwara (Gram Panchayat Area)",
+    "name_hi": "Khalwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209501"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-bihar",
+    "type": "village",
+    "name_en": "Bihar (Gram Panchayat Area)",
+    "name_hi": "Bihar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209652"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-gosarpur",
+    "type": "village",
+    "name_en": "Gosarpur (Gram Panchayat Area)",
+    "name_hi": "Gosarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209651"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-rohila",
+    "type": "village",
+    "name_en": "Rohila (Gram Panchayat Area)",
+    "name_hi": "Rohila (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209651"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-sakwai",
+    "type": "village",
+    "name_en": "Sakwai (Gram Panchayat Area)",
+    "name_hi": "Sakwai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209651"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-tajpur",
+    "type": "village",
+    "name_en": "Tajpur (Gram Panchayat Area)",
+    "name_hi": "Tajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209651"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-pilkhana",
+    "type": "village",
+    "name_en": "Pilkhana (Gram Panchayat Area)",
+    "name_hi": "Pilkhana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209501"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-puthari",
+    "type": "village",
+    "name_en": "Puthari (Gram Panchayat Area)",
+    "name_hi": "Puthari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209501"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-sirmaura-banger",
+    "type": "village",
+    "name_en": "Sirmaura Banger (Gram Panchayat Area)",
+    "name_hi": "Sirmaura Banger (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209501"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-ukhra",
+    "type": "village",
+    "name_en": "Ukhra (Gram Panchayat Area)",
+    "name_hi": "Ukhra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209501"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-merapur",
+    "type": "village",
+    "name_en": "Merapur (Gram Panchayat Area)",
+    "name_hi": "Merapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209652"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-barakeshav",
+    "type": "village",
+    "name_en": "Barakeshav (Gram Panchayat Area)",
+    "name_hi": "Barakeshav (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209651"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-maudha",
+    "type": "village",
+    "name_en": "Maudha (Gram Panchayat Area)",
+    "name_hi": "Maudha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209651"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-sirauli",
+    "type": "village",
+    "name_en": "Sirauli (Gram Panchayat Area)",
+    "name_hi": "Sirauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209651"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-kanasi",
+    "type": "village",
+    "name_en": "Kanasi (Gram Panchayat Area)",
+    "name_hi": "Kanasi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209501"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-kurar",
+    "type": "village",
+    "name_en": "Kurar (Gram Panchayat Area)",
+    "name_hi": "Kurar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209501"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-arjunpur",
+    "type": "village",
+    "name_en": "Arjunpur (Gram Panchayat Area)",
+    "name_hi": "Arjunpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209652"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-barkhiriya",
+    "type": "village",
+    "name_en": "Barkhiriya (Gram Panchayat Area)",
+    "name_hi": "Barkhiriya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209652"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-guthina",
+    "type": "village",
+    "name_en": "Guthina (Gram Panchayat Area)",
+    "name_hi": "Guthina (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209652"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-rajendra-nagar",
+    "type": "village",
+    "name_en": "Rajendra Nagar (Gram Panchayat Area)",
+    "name_hi": "Rajendra Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209652"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-roop-nagar",
+    "type": "village",
+    "name_en": "Roop Nagar (Gram Panchayat Area)",
+    "name_hi": "Roop Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209652"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-sankisa",
+    "type": "village",
+    "name_en": "Sankisa (Gram Panchayat Area)",
+    "name_hi": "Sankisa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209652"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-nagla-nan",
+    "type": "village",
+    "name_en": "Nagla Nan (Gram Panchayat Area)",
+    "name_hi": "Nagla Nan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209745"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-chilsara",
+    "type": "village",
+    "name_en": "Chilsara (Gram Panchayat Area)",
+    "name_hi": "Chilsara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209745"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-ugarpur",
+    "type": "village",
+    "name_en": "Ugarpur (Gram Panchayat Area)",
+    "name_hi": "Ugarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209503"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-kisrauli",
+    "type": "village",
+    "name_en": "Kisrauli (Gram Panchayat Area)",
+    "name_hi": "Kisrauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209503"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-kuiyan-khera",
+    "type": "village",
+    "name_en": "Kuiyan Khera (Gram Panchayat Area)",
+    "name_hi": "Kuiyan Khera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209503"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-nagla-bagh-rathaura",
+    "type": "village",
+    "name_en": "Nagla Bagh Rathaura (Gram Panchayat Area)",
+    "name_hi": "Nagla Bagh Rathaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209652"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-nagla-kel-champat",
+    "type": "village",
+    "name_en": "Nagla Kel Champat (Gram Panchayat Area)",
+    "name_hi": "Nagla Kel Champat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209652"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-pakhna",
+    "type": "village",
+    "name_en": "Pakhna (Gram Panchayat Area)",
+    "name_hi": "Pakhna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209652"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-amlaiya-ashanand",
+    "type": "village",
+    "name_en": "Amlaiya Ashanand (Gram Panchayat Area)",
+    "name_hi": "Amlaiya Ashanand (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209745"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-bhojpur",
+    "type": "village",
+    "name_en": "Bhojpur (Gram Panchayat Area)",
+    "name_hi": "Bhojpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209749"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-sitauli",
+    "type": "village",
+    "name_en": "Sitauli (Gram Panchayat Area)",
+    "name_hi": "Sitauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209749"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-barai",
+    "type": "village",
+    "name_en": "Barai (Gram Panchayat Area)",
+    "name_hi": "Barai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209745"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-bharka",
+    "type": "village",
+    "name_en": "Bharka (Gram Panchayat Area)",
+    "name_hi": "Bharka (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209601"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-barhpur",
+    "type": "village",
+    "name_en": "Barhpur (Gram Panchayat Area)",
+    "name_hi": "Barhpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209601"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-khandauli",
+    "type": "village",
+    "name_en": "Khandauli (Gram Panchayat Area)",
+    "name_hi": "Khandauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209621"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-sabalpur",
+    "type": "village",
+    "name_en": "Sabalpur (Gram Panchayat Area)",
+    "name_hi": "Sabalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209621"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-harsinghpur",
+    "type": "village",
+    "name_en": "Harsinghpur (Gram Panchayat Area)",
+    "name_hi": "Harsinghpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209622"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-singanpur",
+    "type": "village",
+    "name_en": "Singanpur (Gram Panchayat Area)",
+    "name_hi": "Singanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209602"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-k-p-ghat",
+    "type": "village",
+    "name_en": "K P Ghat (Gram Panchayat Area)",
+    "name_hi": "K P Ghat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-kila",
+    "type": "village",
+    "name_en": "Kila (Gram Panchayat Area)",
+    "name_hi": "Kila (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-pachpukhra",
+    "type": "village",
+    "name_en": "Pachpukhra (Gram Panchayat Area)",
+    "name_hi": "Pachpukhra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-pipergaon",
+    "type": "village",
+    "name_en": "Pipergaon (Gram Panchayat Area)",
+    "name_hi": "Pipergaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-musakhiria",
+    "type": "village",
+    "name_en": "Musakhiria (Gram Panchayat Area)",
+    "name_hi": "Musakhiria (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209739"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-rajeypur-tappa-mandal",
+    "type": "village",
+    "name_en": "Rajeypur Tappa Mandal (Gram Panchayat Area)",
+    "name_hi": "Rajeypur Tappa Mandal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209739"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-barkhera",
+    "type": "village",
+    "name_en": "Barkhera (Gram Panchayat Area)",
+    "name_hi": "Barkhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-bhatasa",
+    "type": "village",
+    "name_en": "Bhatasa (Gram Panchayat Area)",
+    "name_hi": "Bhatasa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-college-rd-kaimganj",
+    "type": "village",
+    "name_en": "College Rd Kaimganj (Gram Panchayat Area)",
+    "name_hi": "College Rd Kaimganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kaimganj",
+    "block_id": "kaimganj",
+    "tehsil_id": "kaimganj",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-k-k-w",
+    "type": "village",
+    "name_en": "K K W (Gram Panchayat Area)",
+    "name_hi": "K K W (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-lahra",
+    "type": "village",
+    "name_en": "Lahra (Gram Panchayat Area)",
+    "name_hi": "Lahra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-lakhanpur",
+    "type": "village",
+    "name_en": "Lakhanpur (Gram Panchayat Area)",
+    "name_hi": "Lakhanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-rajipur",
+    "type": "village",
+    "name_en": "Rajipur (Gram Panchayat Area)",
+    "name_hi": "Rajipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209724"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-rampur-majhgaon",
+    "type": "village",
+    "name_en": "Rampur Majhgaon (Gram Panchayat Area)",
+    "name_hi": "Rampur Majhgaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209724"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-singhirampur",
+    "type": "village",
+    "name_en": "Singhirampur (Gram Panchayat Area)",
+    "name_hi": "Singhirampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209724"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-sarah",
+    "type": "village",
+    "name_en": "Sarah (Gram Panchayat Area)",
+    "name_hi": "Sarah (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209601"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-ghatiaghat",
+    "type": "village",
+    "name_en": "Ghatiaghat (Gram Panchayat Area)",
+    "name_hi": "Ghatiaghat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209601"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-jainpur-maheshpur",
+    "type": "village",
+    "name_en": "Jainpur Maheshpur (Gram Panchayat Area)",
+    "name_hi": "Jainpur Maheshpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209621"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-kumhraur",
+    "type": "village",
+    "name_en": "Kumhraur (Gram Panchayat Area)",
+    "name_hi": "Kumhraur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209622"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-pithnapur",
+    "type": "village",
+    "name_en": "Pithnapur (Gram Panchayat Area)",
+    "name_hi": "Pithnapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209622"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-gaisinghpur",
+    "type": "village",
+    "name_en": "Gaisinghpur (Gram Panchayat Area)",
+    "name_hi": "Gaisinghpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209602"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-kanjhiana",
+    "type": "village",
+    "name_en": "Kanjhiana (Gram Panchayat Area)",
+    "name_hi": "Kanjhiana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209602"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-baraun",
+    "type": "village",
+    "name_en": "Baraun (Gram Panchayat Area)",
+    "name_hi": "Baraun (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-gadanpur-turra",
+    "type": "village",
+    "name_en": "Gadanpur Turra (Gram Panchayat Area)",
+    "name_hi": "Gadanpur Turra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209739"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-jhasi",
+    "type": "village",
+    "name_en": "Jhasi (Gram Panchayat Area)",
+    "name_hi": "Jhasi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209739"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-ahmadganj",
+    "type": "village",
+    "name_en": "Ahmadganj (Gram Panchayat Area)",
+    "name_hi": "Ahmadganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-bara-biku",
+    "type": "village",
+    "name_en": "Bara Biku (Gram Panchayat Area)",
+    "name_hi": "Bara Biku (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-mau-rashidabad",
+    "type": "village",
+    "name_en": "Mau Rashidabad (Gram Panchayat Area)",
+    "name_hi": "Mau Rashidabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-paithan",
+    "type": "village",
+    "name_en": "Paithan (Gram Panchayat Area)",
+    "name_hi": "Paithan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-kadhar",
+    "type": "village",
+    "name_en": "Kadhar (Gram Panchayat Area)",
+    "name_hi": "Kadhar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209724"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-khudaganj",
+    "type": "village",
+    "name_en": "Khudaganj (Gram Panchayat Area)",
+    "name_hi": "Khudaganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209724"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-mistni-bahbalpur",
+    "type": "village",
+    "name_en": "Mistni Bahbalpur (Gram Panchayat Area)",
+    "name_hi": "Mistni Bahbalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209505"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-rudain",
+    "type": "village",
+    "name_en": "Rudain (Gram Panchayat Area)",
+    "name_hi": "Rudain (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209505"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-kanheypur",
+    "type": "village",
+    "name_en": "Kanheypur (Gram Panchayat Area)",
+    "name_hi": "Kanheypur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209743"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-chapra",
+    "type": "village",
+    "name_en": "Chapra (Gram Panchayat Area)",
+    "name_hi": "Chapra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209622"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-bhopat-patti",
+    "type": "village",
+    "name_en": "Bhopat Patti (Gram Panchayat Area)",
+    "name_hi": "Bhopat Patti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209602"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-danmandi",
+    "type": "village",
+    "name_en": "Danmandi (Gram Panchayat Area)",
+    "name_hi": "Danmandi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209739"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-daraura",
+    "type": "village",
+    "name_en": "Daraura (Gram Panchayat Area)",
+    "name_hi": "Daraura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209739"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-ataipur",
+    "type": "village",
+    "name_en": "Ataipur (Gram Panchayat Area)",
+    "name_hi": "Ataipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-raipur",
+    "type": "village",
+    "name_en": "Raipur (Gram Panchayat Area)",
+    "name_hi": "Raipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-rashidabad-tiwariyan",
+    "type": "village",
+    "name_en": "Rashidabad Tiwariyan (Gram Panchayat Area)",
+    "name_hi": "Rashidabad Tiwariyan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-rutaul",
+    "type": "village",
+    "name_en": "Rutaul (Gram Panchayat Area)",
+    "name_hi": "Rutaul (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-sikanderpur-khas",
+    "type": "village",
+    "name_en": "Sikanderpur Khas (Gram Panchayat Area)",
+    "name_hi": "Sikanderpur Khas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209505"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-siwara-khas",
+    "type": "village",
+    "name_en": "Siwara Khas (Gram Panchayat Area)",
+    "name_hi": "Siwara Khas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209505"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-dhirpur",
+    "type": "village",
+    "name_en": "Dhirpur (Gram Panchayat Area)",
+    "name_hi": "Dhirpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209743"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-jyonta",
+    "type": "village",
+    "name_en": "Jyonta (Gram Panchayat Area)",
+    "name_hi": "Jyonta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209743"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-maseni",
+    "type": "village",
+    "name_en": "Maseni (Gram Panchayat Area)",
+    "name_hi": "Maseni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209601"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-gandhi",
+    "type": "village",
+    "name_en": "Gandhi (Gram Panchayat Area)",
+    "name_hi": "Gandhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209621"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-kankapur",
+    "type": "village",
+    "name_en": "Kankapur (Gram Panchayat Area)",
+    "name_hi": "Kankapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209621"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-hariharpur",
+    "type": "village",
+    "name_en": "Hariharpur (Gram Panchayat Area)",
+    "name_hi": "Hariharpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209622"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-karanpur-dutt",
+    "type": "village",
+    "name_en": "Karanpur Dutt (Gram Panchayat Area)",
+    "name_hi": "Karanpur Dutt (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209622"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-jaitpur",
+    "type": "village",
+    "name_en": "Jaitpur (Gram Panchayat Area)",
+    "name_hi": "Jaitpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209602"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-runi",
+    "type": "village",
+    "name_en": "Runi (Gram Panchayat Area)",
+    "name_hi": "Runi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209602"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-awajpur",
+    "type": "village",
+    "name_en": "Awajpur (Gram Panchayat Area)",
+    "name_hi": "Awajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-gutasi",
+    "type": "village",
+    "name_en": "Gutasi (Gram Panchayat Area)",
+    "name_hi": "Gutasi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-civil-lines",
+    "type": "village",
+    "name_en": "Civil Lines (Gram Panchayat Area)",
+    "name_hi": "Civil Lines (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209601"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-jarari",
+    "type": "village",
+    "name_en": "Jarari (Gram Panchayat Area)",
+    "name_hi": "Jarari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209739"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-kandhrapur",
+    "type": "village",
+    "name_en": "Kandhrapur (Gram Panchayat Area)",
+    "name_hi": "Kandhrapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209739"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-barjhala",
+    "type": "village",
+    "name_en": "Barjhala (Gram Panchayat Area)",
+    "name_hi": "Barjhala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-behta-ballu",
+    "type": "village",
+    "name_en": "Behta Ballu (Gram Panchayat Area)",
+    "name_hi": "Behta Ballu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-ganga-darwaja-kmj",
+    "type": "village",
+    "name_en": "Ganga Darwaja Kmj (Gram Panchayat Area)",
+    "name_hi": "Ganga Darwaja Kmj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-narainamau",
+    "type": "village",
+    "name_en": "Narainamau (Gram Panchayat Area)",
+    "name_hi": "Narainamau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-pitaura",
+    "type": "village",
+    "name_en": "Pitaura (Gram Panchayat Area)",
+    "name_hi": "Pitaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-silsanda",
+    "type": "village",
+    "name_en": "Silsanda (Gram Panchayat Area)",
+    "name_hi": "Silsanda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-gadanpur-deorajpur",
+    "type": "village",
+    "name_en": "Gadanpur Deorajpur (Gram Panchayat Area)",
+    "name_hi": "Gadanpur Deorajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209724"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-katrauli-patti",
+    "type": "village",
+    "name_en": "Katrauli Patti (Gram Panchayat Area)",
+    "name_hi": "Katrauli Patti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209724"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-bilsari",
+    "type": "village",
+    "name_en": "Bilsari (Gram Panchayat Area)",
+    "name_hi": "Bilsari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209505"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-raukari",
+    "type": "village",
+    "name_en": "Raukari (Gram Panchayat Area)",
+    "name_hi": "Raukari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209505"
+    ]
+  },
+  {
+    "id": "po-farrukhabad-madanpur",
+    "type": "village",
+    "name_en": "Madanpur (Gram Panchayat Area)",
+    "name_hi": "Madanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-barhpur",
+    "block_id": "barhpur",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "209743"
+    ]
+  },
+  {
+    "id": "ward-farrukhabad-ulb-farrukhabad-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Farrukhabad (All Wards)",
+    "name_hi": "फर्रुखाबाद नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-farrukhabad-fatehgarh",
+    "type": "ward",
+    "name_en": "Fatehgarh (Urban Ward / SO)",
+    "name_hi": "Fatehgarh (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209601"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-farrukhabad-r-s",
+    "type": "ward",
+    "name_en": "Farrukhabad R S (Urban Ward / SO)",
+    "name_hi": "Farrukhabad R S (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-lindsayganj",
+    "type": "ward",
+    "name_en": "Lindsayganj (Urban Ward / SO)",
+    "name_hi": "Lindsayganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-neebkarori",
+    "type": "ward",
+    "name_en": "Neebkarori (Urban Ward / SO)",
+    "name_hi": "Neebkarori (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209652"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-roshnabad",
+    "type": "ward",
+    "name_en": "Roshnabad (Urban Ward / SO)",
+    "name_hi": "Roshnabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209745"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-yaqutganj",
+    "type": "ward",
+    "name_en": "Yaqutganj (Urban Ward / SO)",
+    "name_hi": "Yaqutganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209749"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-bholeypur",
+    "type": "ward",
+    "name_en": "Bholeypur (Urban Ward / SO)",
+    "name_hi": "Bholeypur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209601"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-distt-jail-so-farrukhabad",
+    "type": "ward",
+    "name_en": "Distt Jail SO Farrukhabad (Urban Ward / SO)",
+    "name_hi": "Distt Jail SO Farrukhabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209601"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-jahanganj",
+    "type": "ward",
+    "name_en": "Jahanganj (Urban Ward / SO)",
+    "name_hi": "Jahanganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209739"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-kutchery-fatehgarh",
+    "type": "ward",
+    "name_en": "Kutchery Fatehgarh (Urban Ward / SO)",
+    "name_hi": "Kutchery Fatehgarh (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209601"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-lal-sarai",
+    "type": "ward",
+    "name_en": "Lal Sarai (Urban Ward / SO)",
+    "name_hi": "Lal Sarai (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-mathia-devi",
+    "type": "ward",
+    "name_en": "Mathia Devi (Urban Ward / SO)",
+    "name_hi": "Mathia Devi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-nawabganj-so-farrukhabad",
+    "type": "ward",
+    "name_en": "Nawabganj SO Farrukhabad (Urban Ward / SO)",
+    "name_hi": "Nawabganj SO Farrukhabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209501"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-panda-bagh",
+    "type": "ward",
+    "name_en": "Panda Bagh (Urban Ward / SO)",
+    "name_hi": "Panda Bagh (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-avas-vikas-colony",
+    "type": "ward",
+    "name_en": "Avas Vikas Colony (Urban Ward / SO)",
+    "name_hi": "Avas Vikas Colony (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-central-jail",
+    "type": "ward",
+    "name_en": "Central Jail (Urban Ward / SO)",
+    "name_hi": "Central Jail (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209602"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-farrukhabad",
+    "type": "ward",
+    "name_en": "Farrukhabad (Urban Ward / SO)",
+    "name_hi": "Farrukhabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-fatehgarh-rs",
+    "type": "ward",
+    "name_en": "Fatehgarh RS (Urban Ward / SO)",
+    "name_hi": "Fatehgarh RS (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209601"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-ite",
+    "type": "ward",
+    "name_en": "ITE (Urban Ward / SO)",
+    "name_hi": "ITE (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-kaimganj",
+    "type": "ward",
+    "name_en": "Kaimganj (Urban Ward / SO)",
+    "name_hi": "Kaimganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-kamalganj",
+    "type": "ward",
+    "name_en": "Kamalganj (Urban Ward / SO)",
+    "name_hi": "Kamalganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209724"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-kampil",
+    "type": "ward",
+    "name_en": "Kampil (Urban Ward / SO)",
+    "name_hi": "Kampil (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209505"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-kotwali-road-ftg",
+    "type": "ward",
+    "name_en": "Kotwali Road Ftg (Urban Ward / SO)",
+    "name_hi": "Kotwali Road Ftg (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209601"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-manjhana",
+    "type": "ward",
+    "name_en": "Manjhana (Urban Ward / SO)",
+    "name_hi": "Manjhana (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209504"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-nehru-road-so-farrukhabad",
+    "type": "ward",
+    "name_en": "Nehru Road SO Farrukhabad (Urban Ward / SO)",
+    "name_hi": "Nehru Road SO Farrukhabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-nitganja",
+    "type": "ward",
+    "name_en": "Nitganja (Urban Ward / SO)",
+    "name_hi": "Nitganja (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-rly-road-kaimganj",
+    "type": "ward",
+    "name_en": "Rly Road Kaimganj (Urban Ward / SO)",
+    "name_hi": "Rly Road Kaimganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209502"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-aligarh-so-farrukhabad",
+    "type": "ward",
+    "name_en": "Aligarh SO Farrukhabad (Urban Ward / SO)",
+    "name_hi": "Aligarh SO Farrukhabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209621"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-amratpur",
+    "type": "ward",
+    "name_en": "Amratpur (Urban Ward / SO)",
+    "name_hi": "Amratpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209622"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-bazaria-farrukhabad",
+    "type": "ward",
+    "name_en": "Bazaria Farrukhabad (Urban Ward / SO)",
+    "name_hi": "Bazaria Farrukhabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-bazaza-bazar",
+    "type": "ward",
+    "name_en": "Bazaza Bazar (Urban Ward / SO)",
+    "name_hi": "Bazaza Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209601"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-bibiganj-so-farrukhabad",
+    "type": "ward",
+    "name_en": "Bibiganj SO Farrukhabad (Urban Ward / SO)",
+    "name_hi": "Bibiganj SO Farrukhabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209625"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-jnvroad",
+    "type": "ward",
+    "name_en": "JNVRoad (Urban Ward / SO)",
+    "name_hi": "JNVRoad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209601"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-khimseypur",
+    "type": "ward",
+    "name_en": "Khimseypur (Urban Ward / SO)",
+    "name_hi": "Khimseypur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209743"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-mohamdabad",
+    "type": "ward",
+    "name_en": "Mohamdabad (Urban Ward / SO)",
+    "name_hi": "Mohamdabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209651"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-rrc-fatehgarh",
+    "type": "ward",
+    "name_en": "RRC Fatehgarh (Urban Ward / SO)",
+    "name_hi": "RRC Fatehgarh (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209601"
+    ]
+  },
+  {
+    "id": "town-farrukhabad-shamsabad-so-farrukhabad",
+    "type": "ward",
+    "name_en": "Shamsabad SO Farrukhabad (Urban Ward / SO)",
+    "name_hi": "Shamsabad SO Farrukhabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-farrukhabad-main",
+    "tehsil_id": "farrukhabad",
+    "district_id": "farrukhabad",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "209503"
+    ]
+  }
+]

@@ -28,7 +28,7 @@
       "covers": [
         "gonda"
       ],
-      "source_url": "https://gonda.nic.in/whos-who/",
+      "source_url": "https://gonda.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Ramesh Ranjan (I.A.S.)",
@@ -60,7 +60,7 @@
       "covers": [
         "gonda"
       ],
-      "source_url": "https://gonda.nic.in/whos-who/",
+      "source_url": "https://gonda.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Dayanand Prasad, (I.A.S.)",
@@ -168,7 +168,8 @@
       ],
       "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gonda-bdo-jhanjhari"
     },
     {
       "id": "up-gonda-bdo-pandey-baba",
@@ -197,7 +198,8 @@
       ],
       "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gonda-bdo-pandey-baba"
     },
     {
       "id": "up-gonda-bdo-rupaidih",
@@ -226,7 +228,8 @@
       ],
       "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gonda-bdo-rupaidih"
     },
     {
       "id": "up-gonda-bdo-itiathok",
@@ -255,7 +258,8 @@
       ],
       "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gonda-bdo-itiathok"
     },
     {
       "id": "up-gonda-bdo-mujehna",
@@ -284,7 +288,8 @@
       ],
       "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gonda-bdo-mujehna"
     },
     {
       "id": "up-gonda-bdo-katra-bazar",
@@ -313,7 +318,8 @@
       ],
       "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gonda-bdo-katra-bazar"
     },
     {
       "id": "up-gonda-bdo-haldharmau",
@@ -342,7 +348,8 @@
       ],
       "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gonda-bdo-haldharmau"
     },
     {
       "id": "up-gonda-bdo-colonelganj",
@@ -371,7 +378,8 @@
       ],
       "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gonda-bdo-colonelganj"
     },
     {
       "id": "up-gonda-bdo-belsar",
@@ -400,7 +408,8 @@
       ],
       "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gonda-bdo-belsar"
     },
     {
       "id": "up-gonda-bdo-tarabganj",
@@ -429,7 +438,8 @@
       ],
       "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gonda-bdo-tarabganj"
     },
     {
       "id": "up-gonda-bdo-wazirganj",
@@ -458,7 +468,8 @@
       ],
       "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gonda-bdo-wazirganj"
     },
     {
       "id": "up-gonda-bdo-nawabganj",
@@ -487,7 +498,8 @@
       ],
       "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gonda-bdo-nawabganj"
     },
     {
       "id": "up-gonda-bdo-mankapur",
@@ -516,7 +528,8 @@
       ],
       "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gonda-bdo-mankapur"
     },
     {
       "id": "up-gonda-bdo-chhapia",
@@ -545,7 +558,8 @@
       ],
       "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gonda-bdo-chhapia"
     },
     {
       "id": "up-gonda-bdo-babhanjot",
@@ -574,7 +588,8 @@
       ],
       "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gonda-bdo-babhanjot"
     },
     {
       "id": "up-gonda-bdo-paraspur",
@@ -603,7 +618,8 @@
       ],
       "source_url": "https://gonda.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-gonda-bdo-paraspur"
     },
     {
       "id": "eo-gonda-main",

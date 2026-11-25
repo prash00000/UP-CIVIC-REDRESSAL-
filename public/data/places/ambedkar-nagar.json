@@ -1,0 +1,4671 @@
+[
+  {
+    "id": "v-ambedkar-nagar-akbarpur",
+    "type": "village",
+    "name_en": "Akbarpur Block (Gram Panchayats)",
+    "name_hi": "Akbarpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-ambedkar-nagar-tanda",
+    "type": "village",
+    "name_en": "Tanda Block (Gram Panchayats)",
+    "name_hi": "Tanda विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-tanda",
+    "block_id": "tanda",
+    "tehsil_id": "tanda",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-ambedkar-nagar-jalalpur",
+    "type": "village",
+    "name_en": "Jalalpur Block (Gram Panchayats)",
+    "name_hi": "Jalalpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-jalalpur",
+    "block_id": "jalalpur",
+    "tehsil_id": "jalalpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-ambedkar-nagar-katehari",
+    "type": "village",
+    "name_en": "Katehari Block (Gram Panchayats)",
+    "name_hi": "Katehari विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-katehari",
+    "block_id": "katehari",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-ambedkar-nagar-bhiyawan",
+    "type": "village",
+    "name_en": "Bhiyawan Block (Gram Panchayats)",
+    "name_hi": "Bhiyawan विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhiyawan",
+    "block_id": "bhiyawan",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-ambedkar-nagar-ramnagar",
+    "type": "village",
+    "name_en": "Ramnagar Block (Gram Panchayats)",
+    "name_hi": "Ramnagar विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-ramnagar",
+    "block_id": "ramnagar",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-ambedkar-nagar-jahangirganj",
+    "type": "village",
+    "name_en": "Jahangirganj Block (Gram Panchayats)",
+    "name_hi": "Jahangirganj विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-jahangirganj",
+    "block_id": "jahangirganj",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-ambedkar-nagar-bhiti",
+    "type": "village",
+    "name_en": "Bhiti Block (Gram Panchayats)",
+    "name_hi": "Bhiti विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhiti",
+    "block_id": "bhiti",
+    "tehsil_id": "bhiti",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-ambedkar-nagar-baskhari",
+    "type": "village",
+    "name_en": "Baskhari Block (Gram Panchayats)",
+    "name_hi": "Baskhari विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-baskhari",
+    "block_id": "baskhari",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-ambedkar-nagar-masorha",
+    "type": "village",
+    "name_en": "Masorha (Gram Panchayat Area)",
+    "name_hi": "Masorha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224183"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-barepur",
+    "type": "village",
+    "name_en": "Barepur (Gram Panchayat Area)",
+    "name_hi": "Barepur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224186"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-larpur",
+    "type": "village",
+    "name_en": "Larpur (Gram Panchayat Area)",
+    "name_hi": "Larpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224186"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-rukunuddinpur",
+    "type": "village",
+    "name_en": "Rukunuddinpur (Gram Panchayat Area)",
+    "name_hi": "Rukunuddinpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224186"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-maharajganj",
+    "type": "village",
+    "name_en": "Maharajganj (Gram Panchayat Area)",
+    "name_hi": "Maharajganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224227"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-mumrejpur",
+    "type": "village",
+    "name_en": "Mumrejpur (Gram Panchayat Area)",
+    "name_hi": "Mumrejpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224227"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-brahimpur-kusma",
+    "type": "village",
+    "name_en": "Brahimpur Kusma (Gram Panchayat Area)",
+    "name_hi": "Brahimpur Kusma (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-debipur",
+    "type": "village",
+    "name_en": "Debipur (Gram Panchayat Area)",
+    "name_hi": "Debipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-khaspur",
+    "type": "village",
+    "name_en": "Khaspur (Gram Panchayat Area)",
+    "name_hi": "Khaspur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-sarjupur",
+    "type": "village",
+    "name_en": "Sarjupur (Gram Panchayat Area)",
+    "name_hi": "Sarjupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224183"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-amartal",
+    "type": "village",
+    "name_en": "Amartal (Gram Panchayat Area)",
+    "name_hi": "Amartal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224186"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-gomunpur",
+    "type": "village",
+    "name_en": "Gomunpur (Gram Panchayat Area)",
+    "name_hi": "Gomunpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224186"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-hajpura",
+    "type": "village",
+    "name_en": "Hajpura (Gram Panchayat Area)",
+    "name_hi": "Hajpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224186"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-katui",
+    "type": "village",
+    "name_en": "Katui (Gram Panchayat Area)",
+    "name_hi": "Katui (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224186"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-sulhantara",
+    "type": "village",
+    "name_en": "Sulhantara (Gram Panchayat Area)",
+    "name_hi": "Sulhantara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224186"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-makhdumsarai",
+    "type": "village",
+    "name_en": "Makhdumsarai (Gram Panchayat Area)",
+    "name_hi": "Makhdumsarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224227"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-chhajapur",
+    "type": "village",
+    "name_en": "Chhajapur (Gram Panchayat Area)",
+    "name_hi": "Chhajapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-hajlapur",
+    "type": "village",
+    "name_en": "Hajlapur (Gram Panchayat Area)",
+    "name_hi": "Hajlapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-husainpur-sudnaha",
+    "type": "village",
+    "name_en": "Husainpur Sudnaha (Gram Panchayat Area)",
+    "name_hi": "Husainpur Sudnaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-makhdoom-nagar",
+    "type": "village",
+    "name_en": "Makhdoom Nagar (Gram Panchayat Area)",
+    "name_hi": "Makhdoom Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-tanda-city",
+    "type": "village",
+    "name_en": "Tanda City (Gram Panchayat Area)",
+    "name_hi": "Tanda City (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-tanda",
+    "block_id": "tanda",
+    "tehsil_id": "tanda",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-asgawan",
+    "type": "village",
+    "name_en": "Asgawan (Gram Panchayat Area)",
+    "name_hi": "Asgawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224141"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-basantpur",
+    "type": "village",
+    "name_en": "Basantpur (Gram Panchayat Area)",
+    "name_hi": "Basantpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224206"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-machhiligaon",
+    "type": "village",
+    "name_en": "Machhiligaon (Gram Panchayat Area)",
+    "name_hi": "Machhiligaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224186"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-baraura",
+    "type": "village",
+    "name_en": "Baraura (Gram Panchayat Area)",
+    "name_hi": "Baraura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224227"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-lodipur",
+    "type": "village",
+    "name_en": "Lodipur (Gram Panchayat Area)",
+    "name_hi": "Lodipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224227"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-husainpur-girant",
+    "type": "village",
+    "name_en": "Husainpur Girant (Gram Panchayat Area)",
+    "name_hi": "Husainpur Girant (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-lorpur",
+    "type": "village",
+    "name_en": "Lorpur (Gram Panchayat Area)",
+    "name_hi": "Lorpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224235"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-naugaon",
+    "type": "village",
+    "name_en": "Naugaon (Gram Panchayat Area)",
+    "name_hi": "Naugaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224235"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-sijhauli",
+    "type": "village",
+    "name_en": "Sijhauli (Gram Panchayat Area)",
+    "name_hi": "Sijhauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224235"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-katgharmusa",
+    "type": "village",
+    "name_en": "Katgharmusa (Gram Panchayat Area)",
+    "name_hi": "Katgharmusa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224186"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-sultangarh",
+    "type": "village",
+    "name_en": "Sultangarh (Gram Panchayat Area)",
+    "name_hi": "Sultangarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224186"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-rampur-mungradilla",
+    "type": "village",
+    "name_en": "Rampur Mungradilla (Gram Panchayat Area)",
+    "name_hi": "Rampur Mungradilla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224227"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-ajmeri-badshahpur",
+    "type": "village",
+    "name_en": "Ajmeri Badshahpur (Gram Panchayat Area)",
+    "name_hi": "Ajmeri Badshahpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-arsawan",
+    "type": "village",
+    "name_en": "Arsawan (Gram Panchayat Area)",
+    "name_hi": "Arsawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-asopur",
+    "type": "village",
+    "name_en": "Asopur (Gram Panchayat Area)",
+    "name_hi": "Asopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-balaiya-jagdishpur",
+    "type": "village",
+    "name_en": "Balaiya Jagdishpur (Gram Panchayat Area)",
+    "name_hi": "Balaiya Jagdishpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-mubarakpur",
+    "type": "village",
+    "name_en": "Mubarakpur (Gram Panchayat Area)",
+    "name_hi": "Mubarakpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-nandapur",
+    "type": "village",
+    "name_en": "Nandapur (Gram Panchayat Area)",
+    "name_hi": "Nandapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-pirthivipur",
+    "type": "village",
+    "name_en": "Pirthivipur (Gram Panchayat Area)",
+    "name_hi": "Pirthivipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-rampur-kalan",
+    "type": "village",
+    "name_en": "Rampur Kalan (Gram Panchayat Area)",
+    "name_hi": "Rampur Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-chahoraghat",
+    "type": "village",
+    "name_en": "Chahoraghat (Gram Panchayat Area)",
+    "name_hi": "Chahoraghat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-neeba",
+    "type": "village",
+    "name_en": "Neeba (Gram Panchayat Area)",
+    "name_hi": "Neeba (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-sarawan",
+    "type": "village",
+    "name_en": "Sarawan (Gram Panchayat Area)",
+    "name_hi": "Sarawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-shajana-hamjapur",
+    "type": "village",
+    "name_en": "Shajana Hamjapur (Gram Panchayat Area)",
+    "name_hi": "Shajana Hamjapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-majgaon",
+    "type": "village",
+    "name_en": "Majgaon (Gram Panchayat Area)",
+    "name_hi": "Majgaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224183"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bemaval",
+    "type": "village",
+    "name_en": "Bemaval (Gram Panchayat Area)",
+    "name_hi": "Bemaval (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bidhar",
+    "type": "village",
+    "name_en": "Bidhar (Gram Panchayat Area)",
+    "name_hi": "Bidhar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bsaiya-ganga-sagar",
+    "type": "village",
+    "name_en": "Bsaiya Ganga Sagar (Gram Panchayat Area)",
+    "name_hi": "Bsaiya Ganga Sagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-lakhmipur",
+    "type": "village",
+    "name_en": "Lakhmipur (Gram Panchayat Area)",
+    "name_hi": "Lakhmipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-lawaiya-pratappur",
+    "type": "village",
+    "name_en": "Lawaiya Pratappur (Gram Panchayat Area)",
+    "name_hi": "Lawaiya Pratappur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224183"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-kawahianjanpur",
+    "type": "village",
+    "name_en": "Kawahianjanpur (Gram Panchayat Area)",
+    "name_hi": "Kawahianjanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-lakhandih",
+    "type": "village",
+    "name_en": "Lakhandih (Gram Panchayat Area)",
+    "name_hi": "Lakhandih (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-lakhnipatti",
+    "type": "village",
+    "name_en": "Lakhnipatti (Gram Panchayat Area)",
+    "name_hi": "Lakhnipatti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-sutharpara",
+    "type": "village",
+    "name_en": "Sutharpara (Gram Panchayat Area)",
+    "name_hi": "Sutharpara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-hisamuddinpur-pipra",
+    "type": "village",
+    "name_en": "Hisamuddinpur Pipra (Gram Panchayat Area)",
+    "name_hi": "Hisamuddinpur Pipra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-shahpur-bangawan",
+    "type": "village",
+    "name_en": "Shahpur Bangawan (Gram Panchayat Area)",
+    "name_hi": "Shahpur Bangawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-yadavpur",
+    "type": "village",
+    "name_en": "Yadavpur (Gram Panchayat Area)",
+    "name_hi": "Yadavpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-mahulia",
+    "type": "village",
+    "name_en": "Mahulia (Gram Panchayat Area)",
+    "name_hi": "Mahulia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224183"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-mahuwari",
+    "type": "village",
+    "name_en": "Mahuwari (Gram Panchayat Area)",
+    "name_hi": "Mahuwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224234"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-atraura",
+    "type": "village",
+    "name_en": "Atraura (Gram Panchayat Area)",
+    "name_hi": "Atraura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224234"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-karampur-barsawan",
+    "type": "village",
+    "name_en": "Karampur Barsawan (Gram Panchayat Area)",
+    "name_hi": "Karampur Barsawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224234"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-utrethu",
+    "type": "village",
+    "name_en": "Utrethu (Gram Panchayat Area)",
+    "name_hi": "Utrethu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224234"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bhupatipur",
+    "type": "village",
+    "name_en": "Bhupatipur (Gram Panchayat Area)",
+    "name_hi": "Bhupatipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224122"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-ashapur",
+    "type": "village",
+    "name_en": "Ashapur (Gram Panchayat Area)",
+    "name_hi": "Ashapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224125"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-chakiya",
+    "type": "village",
+    "name_en": "Chakiya (Gram Panchayat Area)",
+    "name_hi": "Chakiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224125"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-purebadalhi",
+    "type": "village",
+    "name_en": "Purebadalhi (Gram Panchayat Area)",
+    "name_hi": "Purebadalhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224125"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-ratna",
+    "type": "village",
+    "name_en": "Ratna (Gram Panchayat Area)",
+    "name_hi": "Ratna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224125"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-khalispur",
+    "type": "village",
+    "name_en": "Khalispur (Gram Panchayat Area)",
+    "name_hi": "Khalispur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224159"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-makhdoom-baramadpur",
+    "type": "village",
+    "name_en": "Makhdoom Baramadpur (Gram Panchayat Area)",
+    "name_hi": "Makhdoom Baramadpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224159"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-paruiya-ashram",
+    "type": "village",
+    "name_en": "Paruiya Ashram (Gram Panchayat Area)",
+    "name_hi": "Paruiya Ashram (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224159"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-setha-kalan",
+    "type": "village",
+    "name_en": "Setha Kalan (Gram Panchayat Area)",
+    "name_hi": "Setha Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224159"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-surhurpur",
+    "type": "village",
+    "name_en": "Surhurpur (Gram Panchayat Area)",
+    "name_hi": "Surhurpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224159"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-deohat",
+    "type": "village",
+    "name_en": "Deohat (Gram Panchayat Area)",
+    "name_hi": "Deohat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224210"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-rampur-rampatti",
+    "type": "village",
+    "name_en": "Rampur Rampatti (Gram Panchayat Area)",
+    "name_hi": "Rampur Rampatti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224210"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-tendwa-paharpur",
+    "type": "village",
+    "name_en": "Tendwa Paharpur (Gram Panchayat Area)",
+    "name_hi": "Tendwa Paharpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224210"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-achhati",
+    "type": "village",
+    "name_en": "Achhati (Gram Panchayat Area)",
+    "name_hi": "Achhati (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224129"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-sultanpur-kabirpur",
+    "type": "village",
+    "name_en": "Sultanpur Kabirpur (Gram Panchayat Area)",
+    "name_hi": "Sultanpur Kabirpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224129"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-parwar-bhari",
+    "type": "village",
+    "name_en": "Parwar Bhari (Gram Panchayat Area)",
+    "name_hi": "Parwar Bhari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224132"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-umrawan",
+    "type": "village",
+    "name_en": "Umrawan (Gram Panchayat Area)",
+    "name_hi": "Umrawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224132"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-sikraura-kanchanpur",
+    "type": "village",
+    "name_en": "Sikraura Kanchanpur (Gram Panchayat Area)",
+    "name_hi": "Sikraura Kanchanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224137"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-tandwa-jalal",
+    "type": "village",
+    "name_en": "Tandwa Jalal (Gram Panchayat Area)",
+    "name_hi": "Tandwa Jalal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224137"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-tendwai-kalan",
+    "type": "village",
+    "name_en": "Tendwai Kalan (Gram Panchayat Area)",
+    "name_hi": "Tendwai Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224137"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-ahirauli-govind-sahab",
+    "type": "village",
+    "name_en": "Ahirauli Govind Sahab (Gram Panchayat Area)",
+    "name_hi": "Ahirauli Govind Sahab (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224139"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-ajmalpur",
+    "type": "village",
+    "name_en": "Ajmalpur (Gram Panchayat Area)",
+    "name_hi": "Ajmalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224139"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bhiyaon",
+    "type": "village",
+    "name_en": "Bhiyaon (Gram Panchayat Area)",
+    "name_hi": "Bhiyaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224139"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-marahara",
+    "type": "village",
+    "name_en": "Marahara (Gram Panchayat Area)",
+    "name_hi": "Marahara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224139"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-noorpur-kalan",
+    "type": "village",
+    "name_en": "Noorpur Kalan (Gram Panchayat Area)",
+    "name_hi": "Noorpur Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224139"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-pindoria",
+    "type": "village",
+    "name_en": "Pindoria (Gram Panchayat Area)",
+    "name_hi": "Pindoria (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224139"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-rasoolpur-mundera",
+    "type": "village",
+    "name_en": "Rasoolpur Mundera (Gram Panchayat Area)",
+    "name_hi": "Rasoolpur Mundera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224143"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-naipura",
+    "type": "village",
+    "name_en": "Naipura (Gram Panchayat Area)",
+    "name_hi": "Naipura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224145"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-husainpur",
+    "type": "village",
+    "name_en": "Husainpur (Gram Panchayat Area)",
+    "name_hi": "Husainpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224146"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-kartora",
+    "type": "village",
+    "name_en": "Kartora (Gram Panchayat Area)",
+    "name_hi": "Kartora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224146"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-saidapur",
+    "type": "village",
+    "name_en": "Saidapur (Gram Panchayat Area)",
+    "name_hi": "Saidapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224146"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-admapur",
+    "type": "village",
+    "name_en": "Admapur (Gram Panchayat Area)",
+    "name_hi": "Admapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-akhtara-narainpur",
+    "type": "village",
+    "name_en": "Akhtara Narainpur (Gram Panchayat Area)",
+    "name_hi": "Akhtara Narainpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-kannoopur",
+    "type": "village",
+    "name_en": "Kannoopur (Gram Panchayat Area)",
+    "name_hi": "Kannoopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-mainpur",
+    "type": "village",
+    "name_en": "Mainpur (Gram Panchayat Area)",
+    "name_hi": "Mainpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-mathia",
+    "type": "village",
+    "name_en": "Mathia (Gram Panchayat Area)",
+    "name_hi": "Mathia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-nagpur",
+    "type": "village",
+    "name_en": "Nagpur (Gram Panchayat Area)",
+    "name_hi": "Nagpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-paekauli-bazar",
+    "type": "village",
+    "name_en": "Paekauli Bazar (Gram Panchayat Area)",
+    "name_hi": "Paekauli Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-ashrafpur-barwa",
+    "type": "village",
+    "name_en": "Ashrafpur Barwa (Gram Panchayat Area)",
+    "name_hi": "Ashrafpur Barwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224151"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bhari-diha",
+    "type": "village",
+    "name_en": "Bhari Diha (Gram Panchayat Area)",
+    "name_hi": "Bhari Diha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224151"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-karampur",
+    "type": "village",
+    "name_en": "Karampur (Gram Panchayat Area)",
+    "name_hi": "Karampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224151"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-baragaon-brahimpur",
+    "type": "village",
+    "name_en": "Baragaon Brahimpur (Gram Panchayat Area)",
+    "name_hi": "Baragaon Brahimpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224230"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-dhiwa-daulatpur",
+    "type": "village",
+    "name_en": "Dhiwa Daulatpur (Gram Panchayat Area)",
+    "name_hi": "Dhiwa Daulatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224230"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-atwari",
+    "type": "village",
+    "name_en": "Atwari (Gram Panchayat Area)",
+    "name_hi": "Atwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224157"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-hath-pakar",
+    "type": "village",
+    "name_en": "Hath Pakar (Gram Panchayat Area)",
+    "name_hi": "Hath Pakar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224157"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-ramdas-patti",
+    "type": "village",
+    "name_en": "Ramdas Patti (Gram Panchayat Area)",
+    "name_hi": "Ramdas Patti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224157"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-dargah-rasoolpur",
+    "type": "village",
+    "name_en": "Dargah Rasoolpur (Gram Panchayat Area)",
+    "name_hi": "Dargah Rasoolpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224155"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-gaura-mohammadpur",
+    "type": "village",
+    "name_en": "Gaura Mohammadpur (Gram Panchayat Area)",
+    "name_hi": "Gaura Mohammadpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224155"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-hiri-pakaria",
+    "type": "village",
+    "name_en": "Hiri Pakaria (Gram Panchayat Area)",
+    "name_hi": "Hiri Pakaria (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224231"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-jaitoopur",
+    "type": "village",
+    "name_en": "Jaitoopur (Gram Panchayat Area)",
+    "name_hi": "Jaitoopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224231"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-ram-nagar-karri",
+    "type": "village",
+    "name_en": "Ram Nagar Karri (Gram Panchayat Area)",
+    "name_hi": "Ram Nagar Karri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-ramnagar",
+    "block_id": "ramnagar",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224231"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-rudaupur",
+    "type": "village",
+    "name_en": "Rudaupur (Gram Panchayat Area)",
+    "name_hi": "Rudaupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224152"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-samar-singhpur",
+    "type": "village",
+    "name_en": "Samar Singhpur (Gram Panchayat Area)",
+    "name_hi": "Samar Singhpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224152"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-kadipur-khas",
+    "type": "village",
+    "name_en": "Kadipur Khas (Gram Panchayat Area)",
+    "name_hi": "Kadipur Khas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224168"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-meerpur-sheikhpur",
+    "type": "village",
+    "name_en": "Meerpur Sheikhpur (Gram Panchayat Area)",
+    "name_hi": "Meerpur Sheikhpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224168"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-nasirpur",
+    "type": "village",
+    "name_en": "Nasirpur (Gram Panchayat Area)",
+    "name_hi": "Nasirpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224168"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-semari",
+    "type": "village",
+    "name_en": "Semari (Gram Panchayat Area)",
+    "name_hi": "Semari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224168"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-chak-bhadaya",
+    "type": "village",
+    "name_en": "Chak Bhadaya (Gram Panchayat Area)",
+    "name_hi": "Chak Bhadaya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224176"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bukia",
+    "type": "village",
+    "name_en": "Bukia (Gram Panchayat Area)",
+    "name_hi": "Bukia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224129"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-indaipur",
+    "type": "village",
+    "name_en": "Indaipur (Gram Panchayat Area)",
+    "name_hi": "Indaipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224129"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-kaurahi",
+    "type": "village",
+    "name_en": "Kaurahi (Gram Panchayat Area)",
+    "name_hi": "Kaurahi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224129"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bathua",
+    "type": "village",
+    "name_en": "Bathua (Gram Panchayat Area)",
+    "name_hi": "Bathua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224132"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bhadar",
+    "type": "village",
+    "name_en": "Bhadar (Gram Panchayat Area)",
+    "name_hi": "Bhadar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224132"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-kahi",
+    "type": "village",
+    "name_en": "Kahi (Gram Panchayat Area)",
+    "name_hi": "Kahi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224132"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-karnaipur",
+    "type": "village",
+    "name_en": "Karnaipur (Gram Panchayat Area)",
+    "name_hi": "Karnaipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224132"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-ahirauli-ranimau",
+    "type": "village",
+    "name_en": "Ahirauli Ranimau (Gram Panchayat Area)",
+    "name_hi": "Ahirauli Ranimau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224137"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-persanpur",
+    "type": "village",
+    "name_en": "Persanpur (Gram Panchayat Area)",
+    "name_hi": "Persanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224137"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-samdih",
+    "type": "village",
+    "name_en": "Samdih (Gram Panchayat Area)",
+    "name_hi": "Samdih (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224137"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-neori",
+    "type": "village",
+    "name_en": "Neori (Gram Panchayat Area)",
+    "name_hi": "Neori (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224139"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-rakba-amola",
+    "type": "village",
+    "name_en": "Rakba Amola (Gram Panchayat Area)",
+    "name_hi": "Rakba Amola (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224139"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-aribpur",
+    "type": "village",
+    "name_en": "Aribpur (Gram Panchayat Area)",
+    "name_hi": "Aribpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224143"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-dhenkara",
+    "type": "village",
+    "name_en": "Dhenkara (Gram Panchayat Area)",
+    "name_hi": "Dhenkara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224143"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-gohila",
+    "type": "village",
+    "name_en": "Gohila (Gram Panchayat Area)",
+    "name_hi": "Gohila (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224143"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-haridaspur",
+    "type": "village",
+    "name_en": "Haridaspur (Gram Panchayat Area)",
+    "name_hi": "Haridaspur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224143"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-sabukpur",
+    "type": "village",
+    "name_en": "Sabukpur (Gram Panchayat Area)",
+    "name_hi": "Sabukpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224143"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-saidpur-lurvadih",
+    "type": "village",
+    "name_en": "Saidpur Lurvadih (Gram Panchayat Area)",
+    "name_hi": "Saidpur Lurvadih (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224143"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-semaur",
+    "type": "village",
+    "name_en": "Semaur (Gram Panchayat Area)",
+    "name_hi": "Semaur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224143"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-semra-nasirpur",
+    "type": "village",
+    "name_en": "Semra Nasirpur (Gram Panchayat Area)",
+    "name_hi": "Semra Nasirpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224143"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-tarauli-mubarakpur",
+    "type": "village",
+    "name_en": "Tarauli Mubarakpur (Gram Panchayat Area)",
+    "name_hi": "Tarauli Mubarakpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224143"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-ainawa",
+    "type": "village",
+    "name_en": "Ainawa (Gram Panchayat Area)",
+    "name_hi": "Ainawa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224145"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-avsanpur",
+    "type": "village",
+    "name_en": "Avsanpur (Gram Panchayat Area)",
+    "name_hi": "Avsanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224145"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-saidpur-bhitari",
+    "type": "village",
+    "name_en": "Saidpur Bhitari (Gram Panchayat Area)",
+    "name_hi": "Saidpur Bhitari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224146"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-shikrohar",
+    "type": "village",
+    "name_en": "Shikrohar (Gram Panchayat Area)",
+    "name_hi": "Shikrohar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224146"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-tara-khurd",
+    "type": "village",
+    "name_en": "Tara Khurd (Gram Panchayat Area)",
+    "name_hi": "Tara Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224146"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-hariharpur",
+    "type": "village",
+    "name_en": "Hariharpur (Gram Panchayat Area)",
+    "name_hi": "Hariharpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-jainti",
+    "type": "village",
+    "name_en": "Jainti (Gram Panchayat Area)",
+    "name_hi": "Jainti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-kalyanpur",
+    "type": "village",
+    "name_en": "Kalyanpur (Gram Panchayat Area)",
+    "name_hi": "Kalyanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-khamariyanghat",
+    "type": "village",
+    "name_en": "Khamariyanghat (Gram Panchayat Area)",
+    "name_hi": "Khamariyanghat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-madainiya",
+    "type": "village",
+    "name_en": "Madainiya (Gram Panchayat Area)",
+    "name_hi": "Madainiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-madarmau",
+    "type": "village",
+    "name_en": "Madarmau (Gram Panchayat Area)",
+    "name_hi": "Madarmau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-rambag-baragaon",
+    "type": "village",
+    "name_en": "Rambag Baragaon (Gram Panchayat Area)",
+    "name_hi": "Rambag Baragaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-ambarpur",
+    "type": "village",
+    "name_en": "Ambarpur (Gram Panchayat Area)",
+    "name_hi": "Ambarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-arai",
+    "type": "village",
+    "name_en": "Arai (Gram Panchayat Area)",
+    "name_hi": "Arai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-ashrafpur-majhagawan",
+    "type": "village",
+    "name_en": "Ashrafpur Majhagawan (Gram Panchayat Area)",
+    "name_hi": "Ashrafpur Majhagawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-baragaon-sheikhpur",
+    "type": "village",
+    "name_en": "Baragaon Sheikhpur (Gram Panchayat Area)",
+    "name_hi": "Baragaon Sheikhpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-rukunpur-kasimpur",
+    "type": "village",
+    "name_en": "Rukunpur Kasimpur (Gram Panchayat Area)",
+    "name_hi": "Rukunpur Kasimpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-pyare-pur",
+    "type": "village",
+    "name_en": "Pyare Pur (Gram Panchayat Area)",
+    "name_hi": "Pyare Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224151"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-yarkee",
+    "type": "village",
+    "name_en": "Yarkee (Gram Panchayat Area)",
+    "name_hi": "Yarkee (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224151"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-gayaspur-samsuddinpur",
+    "type": "village",
+    "name_en": "Gayaspur Samsuddinpur (Gram Panchayat Area)",
+    "name_hi": "Gayaspur Samsuddinpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224155"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-jeewat",
+    "type": "village",
+    "name_en": "Jeewat (Gram Panchayat Area)",
+    "name_hi": "Jeewat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224155"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-daridiha",
+    "type": "village",
+    "name_en": "Daridiha (Gram Panchayat Area)",
+    "name_hi": "Daridiha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224231"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-itauri",
+    "type": "village",
+    "name_en": "Itauri (Gram Panchayat Area)",
+    "name_hi": "Itauri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224159"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-kalepur-mahuwal",
+    "type": "village",
+    "name_en": "Kalepur Mahuwal (Gram Panchayat Area)",
+    "name_hi": "Kalepur Mahuwal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224159"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-kar-misripur",
+    "type": "village",
+    "name_en": "Kar Misripur (Gram Panchayat Area)",
+    "name_hi": "Kar Misripur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224159"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-khajuri",
+    "type": "village",
+    "name_en": "Khajuri (Gram Panchayat Area)",
+    "name_hi": "Khajuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224159"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-arjunpur",
+    "type": "village",
+    "name_en": "Arjunpur (Gram Panchayat Area)",
+    "name_hi": "Arjunpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224152"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-basohari",
+    "type": "village",
+    "name_en": "Basohari (Gram Panchayat Area)",
+    "name_hi": "Basohari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224152"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-tewaripur-sabna",
+    "type": "village",
+    "name_en": "Tewaripur Sabna (Gram Panchayat Area)",
+    "name_hi": "Tewaripur Sabna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224152"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-adampur-tiloni",
+    "type": "village",
+    "name_en": "Adampur Tiloni (Gram Panchayat Area)",
+    "name_hi": "Adampur Tiloni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224168"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bandan-deeh",
+    "type": "village",
+    "name_en": "Bandan Deeh (Gram Panchayat Area)",
+    "name_hi": "Bandan Deeh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224168"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-baramadpur-jariyari",
+    "type": "village",
+    "name_en": "Baramadpur Jariyari (Gram Panchayat Area)",
+    "name_hi": "Baramadpur Jariyari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224168"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bhikharipur",
+    "type": "village",
+    "name_en": "Bhikharipur (Gram Panchayat Area)",
+    "name_hi": "Bhikharipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224168"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-madhupur",
+    "type": "village",
+    "name_en": "Madhupur (Gram Panchayat Area)",
+    "name_hi": "Madhupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224125"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-mundehra",
+    "type": "village",
+    "name_en": "Mundehra (Gram Panchayat Area)",
+    "name_hi": "Mundehra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224125"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bhaupur",
+    "type": "village",
+    "name_en": "Bhaupur (Gram Panchayat Area)",
+    "name_hi": "Bhaupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224210"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bela-parsa",
+    "type": "village",
+    "name_en": "Bela Parsa (Gram Panchayat Area)",
+    "name_hi": "Bela Parsa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224129"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-garha",
+    "type": "village",
+    "name_en": "Garha (Gram Panchayat Area)",
+    "name_hi": "Garha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224129"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-lakhanpur",
+    "type": "village",
+    "name_en": "Lakhanpur (Gram Panchayat Area)",
+    "name_hi": "Lakhanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224129"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-mujahidpur",
+    "type": "village",
+    "name_en": "Mujahidpur (Gram Panchayat Area)",
+    "name_hi": "Mujahidpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224129"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-sukul-bazar",
+    "type": "village",
+    "name_en": "Sukul Bazar (Gram Panchayat Area)",
+    "name_hi": "Sukul Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224129"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-madarbhari",
+    "type": "village",
+    "name_en": "Madarbhari (Gram Panchayat Area)",
+    "name_hi": "Madarbhari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224132"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-pariyawan",
+    "type": "village",
+    "name_en": "Pariyawan (Gram Panchayat Area)",
+    "name_hi": "Pariyawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224132"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-alauddinur",
+    "type": "village",
+    "name_en": "Alauddinur (Gram Panchayat Area)",
+    "name_hi": "Alauddinur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224137"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-nikaspur",
+    "type": "village",
+    "name_en": "Nikaspur (Gram Panchayat Area)",
+    "name_hi": "Nikaspur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224137"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bishambharpur",
+    "type": "village",
+    "name_en": "Bishambharpur (Gram Panchayat Area)",
+    "name_hi": "Bishambharpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224139"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-manikpur",
+    "type": "village",
+    "name_en": "Manikpur (Gram Panchayat Area)",
+    "name_hi": "Manikpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224143"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-naurahni-rampur",
+    "type": "village",
+    "name_en": "Naurahni Rampur (Gram Panchayat Area)",
+    "name_hi": "Naurahni Rampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224143"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-zainuddinpur",
+    "type": "village",
+    "name_en": "Zainuddinpur (Gram Panchayat Area)",
+    "name_hi": "Zainuddinpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224143"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bharsari",
+    "type": "village",
+    "name_en": "Bharsari (Gram Panchayat Area)",
+    "name_hi": "Bharsari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224145"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-faridpur-kalan",
+    "type": "village",
+    "name_en": "Faridpur Kalan (Gram Panchayat Area)",
+    "name_hi": "Faridpur Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224145"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-asnara",
+    "type": "village",
+    "name_en": "Asnara (Gram Panchayat Area)",
+    "name_hi": "Asnara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-chandipur-khurd",
+    "type": "village",
+    "name_en": "Chandipur Khurd (Gram Panchayat Area)",
+    "name_hi": "Chandipur Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-jamaloopur",
+    "type": "village",
+    "name_en": "Jamaloopur (Gram Panchayat Area)",
+    "name_hi": "Jamaloopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-narwa-pitambarpur",
+    "type": "village",
+    "name_en": "Narwa Pitambarpur (Gram Panchayat Area)",
+    "name_hi": "Narwa Pitambarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-tikoria-buzurg",
+    "type": "village",
+    "name_en": "Tikoria Buzurg (Gram Panchayat Area)",
+    "name_hi": "Tikoria Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bhaukuwan",
+    "type": "village",
+    "name_en": "Bhaukuwan (Gram Panchayat Area)",
+    "name_hi": "Bhaukuwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-daulatabad",
+    "type": "village",
+    "name_en": "Daulatabad (Gram Panchayat Area)",
+    "name_hi": "Daulatabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-rajepur-kopa",
+    "type": "village",
+    "name_en": "Rajepur Kopa (Gram Panchayat Area)",
+    "name_hi": "Rajepur Kopa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-sheopal",
+    "type": "village",
+    "name_en": "Sheopal (Gram Panchayat Area)",
+    "name_hi": "Sheopal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-udaipur",
+    "type": "village",
+    "name_en": "Udaipur (Gram Panchayat Area)",
+    "name_hi": "Udaipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-khajawan",
+    "type": "village",
+    "name_en": "Khajawan (Gram Panchayat Area)",
+    "name_hi": "Khajawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224151"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-marthua-saraiya",
+    "type": "village",
+    "name_en": "Marthua Saraiya (Gram Panchayat Area)",
+    "name_hi": "Marthua Saraiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224151"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-shadipur",
+    "type": "village",
+    "name_en": "Shadipur (Gram Panchayat Area)",
+    "name_hi": "Shadipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224230"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-ahirauli",
+    "type": "village",
+    "name_en": "Ahirauli (Gram Panchayat Area)",
+    "name_hi": "Ahirauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224157"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-sonawan",
+    "type": "village",
+    "name_en": "Sonawan (Gram Panchayat Area)",
+    "name_hi": "Sonawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224157"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bhidur",
+    "type": "village",
+    "name_en": "Bhidur (Gram Panchayat Area)",
+    "name_hi": "Bhidur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224155"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-tandwa-maulai",
+    "type": "village",
+    "name_en": "Tandwa Maulai (Gram Panchayat Area)",
+    "name_hi": "Tandwa Maulai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224155"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bela",
+    "type": "village",
+    "name_en": "Bela (Gram Panchayat Area)",
+    "name_hi": "Bela (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224231"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-chiotipara",
+    "type": "village",
+    "name_en": "Chiotipara (Gram Panchayat Area)",
+    "name_hi": "Chiotipara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224231"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-jamu-kalan",
+    "type": "village",
+    "name_en": "Jamu Kalan (Gram Panchayat Area)",
+    "name_hi": "Jamu Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224231"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-narharpur",
+    "type": "village",
+    "name_en": "Narharpur (Gram Panchayat Area)",
+    "name_hi": "Narharpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224231"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-dhaurua",
+    "type": "village",
+    "name_en": "Dhaurua (Gram Panchayat Area)",
+    "name_hi": "Dhaurua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224159"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-benipur",
+    "type": "village",
+    "name_en": "Benipur (Gram Panchayat Area)",
+    "name_hi": "Benipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224152"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-lohjhara",
+    "type": "village",
+    "name_en": "Lohjhara (Gram Panchayat Area)",
+    "name_hi": "Lohjhara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224152"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-rambaba",
+    "type": "village",
+    "name_en": "Rambaba (Gram Panchayat Area)",
+    "name_hi": "Rambaba (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224152"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-dandupur",
+    "type": "village",
+    "name_en": "Dandupur (Gram Panchayat Area)",
+    "name_hi": "Dandupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224168"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-mansapur",
+    "type": "village",
+    "name_en": "Mansapur (Gram Panchayat Area)",
+    "name_hi": "Mansapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224168"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bijli-tihayatpur",
+    "type": "village",
+    "name_en": "Bijli Tihayatpur (Gram Panchayat Area)",
+    "name_hi": "Bijli Tihayatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224176"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-lalmanpur",
+    "type": "village",
+    "name_en": "Lalmanpur (Gram Panchayat Area)",
+    "name_hi": "Lalmanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224176"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-annapur",
+    "type": "village",
+    "name_en": "Annapur (Gram Panchayat Area)",
+    "name_hi": "Annapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-aribpur-ramnagar",
+    "type": "village",
+    "name_en": "Aribpur Ramnagar (Gram Panchayat Area)",
+    "name_hi": "Aribpur Ramnagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-ramnagar",
+    "block_id": "ramnagar",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-mubarakpurpikar",
+    "type": "village",
+    "name_en": "Mubarakpurpikar (Gram Panchayat Area)",
+    "name_hi": "Mubarakpurpikar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224176"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-mundiyari",
+    "type": "village",
+    "name_en": "Mundiyari (Gram Panchayat Area)",
+    "name_hi": "Mundiyari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224176"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-tandwa-bharatpur",
+    "type": "village",
+    "name_en": "Tandwa Bharatpur (Gram Panchayat Area)",
+    "name_hi": "Tandwa Bharatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224176"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-mirzapur",
+    "type": "village",
+    "name_en": "Mirzapur (Gram Panchayat Area)",
+    "name_hi": "Mirzapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224125"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-pakhanpurbichaila",
+    "type": "village",
+    "name_en": "Pakhanpurbichaila (Gram Panchayat Area)",
+    "name_hi": "Pakhanpurbichaila (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224125"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bhadohi",
+    "type": "village",
+    "name_en": "Bhadohi (Gram Panchayat Area)",
+    "name_hi": "Bhadohi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224159"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-dharamganj",
+    "type": "village",
+    "name_en": "Dharamganj (Gram Panchayat Area)",
+    "name_hi": "Dharamganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224152"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-mustafabad",
+    "type": "village",
+    "name_en": "Mustafabad (Gram Panchayat Area)",
+    "name_hi": "Mustafabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224152"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-saya",
+    "type": "village",
+    "name_en": "Saya (Gram Panchayat Area)",
+    "name_hi": "Saya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224152"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bahorikpur",
+    "type": "village",
+    "name_en": "Bahorikpur (Gram Panchayat Area)",
+    "name_hi": "Bahorikpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224168"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-baramadpur-lohra",
+    "type": "village",
+    "name_en": "Baramadpur Lohra (Gram Panchayat Area)",
+    "name_hi": "Baramadpur Lohra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224168"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-chanaipur",
+    "type": "village",
+    "name_en": "Chanaipur (Gram Panchayat Area)",
+    "name_hi": "Chanaipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224168"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-kudia-chitauna",
+    "type": "village",
+    "name_en": "Kudia Chitauna (Gram Panchayat Area)",
+    "name_hi": "Kudia Chitauna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224168"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-subhakarpur",
+    "type": "village",
+    "name_en": "Subhakarpur (Gram Panchayat Area)",
+    "name_hi": "Subhakarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224168"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bankata-bujurg",
+    "type": "village",
+    "name_en": "Bankata Bujurg (Gram Panchayat Area)",
+    "name_hi": "Bankata Bujurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224176"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-katariya-yaqubpur",
+    "type": "village",
+    "name_en": "Katariya Yaqubpur (Gram Panchayat Area)",
+    "name_hi": "Katariya Yaqubpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224122"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-mubarakpur-daiyadeeh",
+    "type": "village",
+    "name_en": "Mubarakpur Daiyadeeh (Gram Panchayat Area)",
+    "name_hi": "Mubarakpur Daiyadeeh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224122"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-rampur-jaisingh",
+    "type": "village",
+    "name_en": "Rampur Jaisingh (Gram Panchayat Area)",
+    "name_hi": "Rampur Jaisingh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224122"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bewana",
+    "type": "village",
+    "name_en": "Bewana (Gram Panchayat Area)",
+    "name_hi": "Bewana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224122"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-tajpur",
+    "type": "village",
+    "name_en": "Tajpur (Gram Panchayat Area)",
+    "name_hi": "Tajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224122"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-daudpur",
+    "type": "village",
+    "name_en": "Daudpur (Gram Panchayat Area)",
+    "name_hi": "Daudpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224210"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-kurki-bazar",
+    "type": "village",
+    "name_en": "Kurki Bazar (Gram Panchayat Area)",
+    "name_hi": "Kurki Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224210"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-baniyani",
+    "type": "village",
+    "name_en": "Baniyani (Gram Panchayat Area)",
+    "name_hi": "Baniyani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224129"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-majhgawan",
+    "type": "village",
+    "name_en": "Majhgawan (Gram Panchayat Area)",
+    "name_hi": "Majhgawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224129"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-makoiya",
+    "type": "village",
+    "name_en": "Makoiya (Gram Panchayat Area)",
+    "name_hi": "Makoiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224129"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-sheotara",
+    "type": "village",
+    "name_en": "Sheotara (Gram Panchayat Area)",
+    "name_hi": "Sheotara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224129"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bangaon",
+    "type": "village",
+    "name_en": "Bangaon (Gram Panchayat Area)",
+    "name_hi": "Bangaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224132"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-kela-lal-khan",
+    "type": "village",
+    "name_en": "Kela Lal Khan (Gram Panchayat Area)",
+    "name_hi": "Kela Lal Khan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224132"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-malawan",
+    "type": "village",
+    "name_en": "Malawan (Gram Panchayat Area)",
+    "name_hi": "Malawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224132"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-gharwal",
+    "type": "village",
+    "name_en": "Gharwal (Gram Panchayat Area)",
+    "name_hi": "Gharwal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224137"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-kharuwaon",
+    "type": "village",
+    "name_en": "Kharuwaon (Gram Panchayat Area)",
+    "name_hi": "Kharuwaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224137"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-amari",
+    "type": "village",
+    "name_en": "Amari (Gram Panchayat Area)",
+    "name_hi": "Amari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224139"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-deeh-bhilon",
+    "type": "village",
+    "name_en": "Deeh Bhilon (Gram Panchayat Area)",
+    "name_hi": "Deeh Bhilon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224139"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-mathura-rasoolpur",
+    "type": "village",
+    "name_en": "Mathura Rasoolpur (Gram Panchayat Area)",
+    "name_hi": "Mathura Rasoolpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224139"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-makrahi",
+    "type": "village",
+    "name_en": "Makrahi (Gram Panchayat Area)",
+    "name_hi": "Makrahi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224143"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-musepur",
+    "type": "village",
+    "name_en": "Musepur (Gram Panchayat Area)",
+    "name_hi": "Musepur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224143"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-chitoi",
+    "type": "village",
+    "name_en": "Chitoi (Gram Panchayat Area)",
+    "name_hi": "Chitoi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224145"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-khukhutara",
+    "type": "village",
+    "name_en": "Khukhutara (Gram Panchayat Area)",
+    "name_hi": "Khukhutara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224145"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-kakardilla",
+    "type": "village",
+    "name_en": "Kakardilla (Gram Panchayat Area)",
+    "name_hi": "Kakardilla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224146"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-alaupur",
+    "type": "village",
+    "name_en": "Alaupur (Gram Panchayat Area)",
+    "name_hi": "Alaupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bairi-buzurg",
+    "type": "village",
+    "name_en": "Bairi Buzurg (Gram Panchayat Area)",
+    "name_hi": "Bairi Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-jogipur-dhanikpur",
+    "type": "village",
+    "name_en": "Jogipur Dhanikpur (Gram Panchayat Area)",
+    "name_hi": "Jogipur Dhanikpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-nariyawa",
+    "type": "village",
+    "name_en": "Nariyawa (Gram Panchayat Area)",
+    "name_hi": "Nariyawa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-umari-jalal",
+    "type": "village",
+    "name_en": "Umari Jalal (Gram Panchayat Area)",
+    "name_hi": "Umari Jalal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-begikol",
+    "type": "village",
+    "name_en": "Begikol (Gram Panchayat Area)",
+    "name_hi": "Begikol (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bhujgi",
+    "type": "village",
+    "name_en": "Bhujgi (Gram Panchayat Area)",
+    "name_hi": "Bhujgi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-fatehpur",
+    "type": "village",
+    "name_en": "Fatehpur (Gram Panchayat Area)",
+    "name_hi": "Fatehpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-ismailpur-tahepur",
+    "type": "village",
+    "name_en": "Ismailpur Tahepur (Gram Panchayat Area)",
+    "name_hi": "Ismailpur Tahepur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-nathu-pur-laudhana",
+    "type": "village",
+    "name_en": "Nathu Pur Laudhana (Gram Panchayat Area)",
+    "name_hi": "Nathu Pur Laudhana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-pethia",
+    "type": "village",
+    "name_en": "Pethia (Gram Panchayat Area)",
+    "name_hi": "Pethia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-tighara",
+    "type": "village",
+    "name_en": "Tighara (Gram Panchayat Area)",
+    "name_hi": "Tighara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-khewar",
+    "type": "village",
+    "name_en": "Khewar (Gram Panchayat Area)",
+    "name_hi": "Khewar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224151"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-pratappur-chamurkha",
+    "type": "village",
+    "name_en": "Pratappur Chamurkha (Gram Panchayat Area)",
+    "name_hi": "Pratappur Chamurkha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224151"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-chandpur",
+    "type": "village",
+    "name_en": "Chandpur (Gram Panchayat Area)",
+    "name_hi": "Chandpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224230"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-jamunipur",
+    "type": "village",
+    "name_en": "Jamunipur (Gram Panchayat Area)",
+    "name_hi": "Jamunipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224230"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-fatehpur-belabagh",
+    "type": "village",
+    "name_en": "Fatehpur Belabagh (Gram Panchayat Area)",
+    "name_hi": "Fatehpur Belabagh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224157"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-paras-katui",
+    "type": "village",
+    "name_en": "Paras Katui (Gram Panchayat Area)",
+    "name_hi": "Paras Katui (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224155"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-chapra",
+    "type": "village",
+    "name_en": "Chapra (Gram Panchayat Area)",
+    "name_hi": "Chapra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224231"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-keotahi",
+    "type": "village",
+    "name_en": "Keotahi (Gram Panchayat Area)",
+    "name_hi": "Keotahi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224231"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-mathani",
+    "type": "village",
+    "name_en": "Mathani (Gram Panchayat Area)",
+    "name_hi": "Mathani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224231"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-sehra-jalalpur",
+    "type": "village",
+    "name_en": "Sehra Jalalpur (Gram Panchayat Area)",
+    "name_hi": "Sehra Jalalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-jalalpur",
+    "block_id": "jalalpur",
+    "tehsil_id": "jalalpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224231"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-mungari-samaisa",
+    "type": "village",
+    "name_en": "Mungari Samaisa (Gram Panchayat Area)",
+    "name_hi": "Mungari Samaisa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224122"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-bangaondihwa",
+    "type": "village",
+    "name_en": "Bangaondihwa (Gram Panchayat Area)",
+    "name_hi": "Bangaondihwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224122"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-rampursakarwari",
+    "type": "village",
+    "name_en": "Rampursakarwari (Gram Panchayat Area)",
+    "name_hi": "Rampursakarwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224122"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-sirsiya-jamunipur",
+    "type": "village",
+    "name_en": "Sirsiya Jamunipur (Gram Panchayat Area)",
+    "name_hi": "Sirsiya Jamunipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224176"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-amadarveshpur",
+    "type": "village",
+    "name_en": "Amadarveshpur (Gram Panchayat Area)",
+    "name_hi": "Amadarveshpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-kalhuwa-kaura",
+    "type": "village",
+    "name_en": "Kalhuwa Kaura (Gram Panchayat Area)",
+    "name_hi": "Kalhuwa Kaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224122"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-kotwa-mohamadpur",
+    "type": "village",
+    "name_en": "Kotwa Mohamadpur (Gram Panchayat Area)",
+    "name_hi": "Kotwa Mohamadpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224122"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-seehmaikarirat",
+    "type": "village",
+    "name_en": "Seehmaikarirat (Gram Panchayat Area)",
+    "name_hi": "Seehmaikarirat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224122"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-songaon",
+    "type": "village",
+    "name_en": "Songaon (Gram Panchayat Area)",
+    "name_hi": "Songaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224122"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-kurcha",
+    "type": "village",
+    "name_en": "Kurcha (Gram Panchayat Area)",
+    "name_hi": "Kurcha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224122"
+    ]
+  },
+  {
+    "id": "po-ambedkar-nagar-muslim-jagdishpur",
+    "type": "village",
+    "name_en": "Muslim Jagdishpur (Gram Panchayat Area)",
+    "name_hi": "Muslim Jagdishpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-akbarpur",
+    "block_id": "akbarpur",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224122"
+    ]
+  },
+  {
+    "id": "ward-ambedkar-nagar-ulb-ambedkar-nagar-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Ambedkar Nagar (All Wards)",
+    "name_hi": "अंबेडकर नगर नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-ambedkar-nagar-akbarpur",
+    "type": "ward",
+    "name_en": "Akbarpur (Urban Ward / SO)",
+    "name_hi": "Akbarpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224122"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-iltifatganj",
+    "type": "ward",
+    "name_en": "Iltifatganj (Urban Ward / SO)",
+    "name_hi": "Iltifatganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224145"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-katehari",
+    "type": "ward",
+    "name_en": "Katehari (Urban Ward / SO)",
+    "name_hi": "Katehari (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224151"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-khemapur",
+    "type": "ward",
+    "name_en": "Khemapur (Urban Ward / SO)",
+    "name_hi": "Khemapur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224157"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-kichhauccha",
+    "type": "ward",
+    "name_en": "Kichhauccha (Urban Ward / SO)",
+    "name_hi": "Kichhauccha (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224155"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-rajesultanpur",
+    "type": "ward",
+    "name_en": "Rajesultanpur (Urban Ward / SO)",
+    "name_hi": "Rajesultanpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224176"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-ram-nagar-so-ambedkar-nagar",
+    "type": "ward",
+    "name_en": "Ram Nagar SO Ambedkar Nagar (Urban Ward / SO)",
+    "name_hi": "Ram Nagar SO Ambedkar Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224181"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-surapur",
+    "type": "ward",
+    "name_en": "Surapur (Urban Ward / SO)",
+    "name_hi": "Surapur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224227"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-tanda-so-ambedkar-nagar",
+    "type": "ward",
+    "name_en": "Tanda SO Ambedkar Nagar (Urban Ward / SO)",
+    "name_hi": "Tanda SO Ambedkar Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-bandipur",
+    "type": "ward",
+    "name_en": "Bandipur (Urban Ward / SO)",
+    "name_hi": "Bandipur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224125"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-baskhari",
+    "type": "ward",
+    "name_en": "Baskhari (Urban Ward / SO)",
+    "name_hi": "Baskhari (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224129"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-deoria-so-ambedkar-nagar",
+    "type": "ward",
+    "name_en": "Deoria SO Ambedkar Nagar (Urban Ward / SO)",
+    "name_hi": "Deoria SO Ambedkar Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224137"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-kedarnagar",
+    "type": "ward",
+    "name_en": "Kedarnagar (Urban Ward / SO)",
+    "name_hi": "Kedarnagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224230"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-malipur",
+    "type": "ward",
+    "name_en": "Malipur (Urban Ward / SO)",
+    "name_hi": "Malipur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224159"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-pahitipur",
+    "type": "ward",
+    "name_en": "Pahitipur (Urban Ward / SO)",
+    "name_hi": "Pahitipur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224168"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-saidahi",
+    "type": "ward",
+    "name_en": "Saidahi (Urban Ward / SO)",
+    "name_hi": "Saidahi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224183"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-tanda-tehseel",
+    "type": "ward",
+    "name_en": "Tanda Tehseel (Urban Ward / SO)",
+    "name_hi": "Tanda Tehseel (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224190"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-bariyawan",
+    "type": "ward",
+    "name_en": "Bariyawan (Urban Ward / SO)",
+    "name_hi": "Bariyawan (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224210"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-bhiti",
+    "type": "ward",
+    "name_en": "Bhiti (Urban Ward / SO)",
+    "name_hi": "Bhiti (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224132"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-hakeem-pur",
+    "type": "ward",
+    "name_en": "Hakeem Pur (Urban Ward / SO)",
+    "name_hi": "Hakeem Pur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224232"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-hanswar",
+    "type": "ward",
+    "name_en": "Hanswar (Urban Ward / SO)",
+    "name_hi": "Hanswar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224143"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-jafarganj",
+    "type": "ward",
+    "name_en": "Jafarganj (Urban Ward / SO)",
+    "name_hi": "Jafarganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224146"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-jahangirganj",
+    "type": "ward",
+    "name_en": "Jahangirganj (Urban Ward / SO)",
+    "name_hi": "Jahangirganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224147"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-jalalpur-so-ambedkar-nagar",
+    "type": "ward",
+    "name_en": "Jalalpur SO Ambedkar Nagar (Urban Ward / SO)",
+    "name_hi": "Jalalpur SO Ambedkar Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224149"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-sahzadpur",
+    "type": "ward",
+    "name_en": "Sahzadpur (Urban Ward / SO)",
+    "name_hi": "Sahzadpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224122"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-vidhut-nagar",
+    "type": "ward",
+    "name_en": "Vidhut Nagar (Urban Ward / SO)",
+    "name_hi": "Vidhut Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224238"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-bus-station-akbarpur",
+    "type": "ward",
+    "name_en": "Bus Station Akbarpur (Urban Ward / SO)",
+    "name_hi": "Bus Station Akbarpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224122"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-dulahoopur",
+    "type": "ward",
+    "name_en": "Dulahoopur (Urban Ward / SO)",
+    "name_hi": "Dulahoopur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224139"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-maharuwa-gola",
+    "type": "ward",
+    "name_en": "Maharuwa Gola (Urban Ward / SO)",
+    "name_hi": "Maharuwa Gola (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224231"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-mijhaura",
+    "type": "ward",
+    "name_en": "Mijhaura (Urban Ward / SO)",
+    "name_hi": "Mijhaura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224152"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-sikandarpur-so-ambedkar-nagar",
+    "type": "ward",
+    "name_en": "Sikandarpur SO Ambedkar Nagar (Urban Ward / SO)",
+    "name_hi": "Sikandarpur SO Ambedkar Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224186"
+    ]
+  },
+  {
+    "id": "town-ambedkar-nagar-upss-mill",
+    "type": "ward",
+    "name_en": "UPSS Mill (Urban Ward / SO)",
+    "name_hi": "UPSS Mill (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ambedkar-nagar-main",
+    "tehsil_id": "akbarpur",
+    "district_id": "ambedkar-nagar",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "224235"
+    ]
+  }
+]

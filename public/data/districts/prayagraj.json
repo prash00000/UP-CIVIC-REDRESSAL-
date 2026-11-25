@@ -22,7 +22,7 @@
       "covers": [
         "prayagraj"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "District Magistrate Office, Collectorate, Prayagraj"
@@ -46,7 +46,7 @@
       "covers": [
         "prayagraj"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Smt Harshika Singh, IAS",
@@ -73,14 +73,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417814",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.sadar.all-up@gov.in",
       "covers": [
         "sadar"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-sdm-phulpur",
@@ -88,14 +96,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Phulpur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Phulpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417816",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.phulpur.all-up@gov.in",
       "covers": [
         "phulpur"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-sdm-soraon",
@@ -103,14 +119,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Soraon",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Soraon",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417815",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.soraon.all-up@gov.in",
       "covers": [
         "soraon"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-sdm-koraon",
@@ -118,14 +142,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Koraon",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Koraon",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417821",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.koraon.all-up@gov.in",
       "covers": [
         "koraon"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-sdm-meja",
@@ -133,14 +165,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Meja",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Meja",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417820",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.meja.all-up@gov.in",
       "covers": [
         "meja"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-sdm-karchhana",
@@ -148,14 +188,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Karchhana",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Karchhana",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417818",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.karchhana.all-up@gov.in",
       "covers": [
         "karchhana"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-sdm-bara",
@@ -163,14 +211,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bara",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bara",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417819",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.bara.all-up@gov.in",
       "covers": [
         "bara"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-sdm-handia",
@@ -178,14 +234,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Handia",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Handia",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417817",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.handia.all-up@gov.in",
       "covers": [
         "handia"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-bdo-bahria",
@@ -214,7 +278,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-bahria"
     },
     {
       "id": "sec-bahria-1",
@@ -253,14 +318,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Phulpur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Phulpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464540",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.phulpur.all@gmail.com",
       "covers": [
         "phulpur"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-ado-phulpur",
@@ -274,7 +347,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-phulpur"
     },
     {
       "id": "sec-phulpur-1",
@@ -313,14 +387,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Pratappur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pratappur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464547",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.pratappur.all@gmail.com",
       "covers": [
         "pratappur"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-ado-pratappur",
@@ -334,7 +416,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-pratappur"
     },
     {
       "id": "sec-pratappur-1",
@@ -373,14 +456,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mauaima",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mauaima",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464537",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.mauaima.all@gmail.com",
       "covers": [
         "mauaima"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-ado-mauaima",
@@ -394,7 +485,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-mauaima"
     },
     {
       "id": "sec-mauaima-1",
@@ -433,14 +525,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Holagarh",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Holagarh",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464536",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.holagarh.all@gmail.com",
       "covers": [
         "holagarh"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-ado-holagarh",
@@ -454,7 +554,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-holagarh"
     },
     {
       "id": "sec-holagarh-1",
@@ -493,14 +594,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Soraon",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Soraon",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464538",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.soraon.all@gmail.com",
       "covers": [
         "soraon"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-ado-soraon",
@@ -514,7 +623,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-soraon"
     },
     {
       "id": "sec-soraon-1",
@@ -553,14 +663,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kaurihar",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kaurihar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464535",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.kaurihar.all@gmail.com",
       "covers": [
         "kaurihar"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-ado-kaurihar",
@@ -574,7 +692,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-kaurihar"
     },
     {
       "id": "sec-kaurihar-1",
@@ -634,7 +753,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-shringverpur"
     },
     {
       "id": "sec-shringverpur-1",
@@ -673,14 +793,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Jasra",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jasra",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464542",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.jasra.all@gmail.com",
       "covers": [
         "jasra"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-ado-jasra",
@@ -694,7 +822,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-jasra"
     },
     {
       "id": "sec-jasra-1",
@@ -733,14 +862,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Shankargarh",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shankargarh",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464543",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.shankargarh.all@gmail.com",
       "covers": [
         "shankargarh"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-ado-shankargarh",
@@ -754,7 +891,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-shankargarh"
     },
     {
       "id": "sec-shankargarh-1",
@@ -814,7 +952,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-bara"
     },
     {
       "id": "sec-bara-1",
@@ -853,14 +992,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Karchhana",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Karchhana",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464546",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.karchhana.all@gmail.com",
       "covers": [
         "karchhana"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-ado-karchhana",
@@ -874,7 +1021,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-karchhana"
     },
     {
       "id": "sec-karchhana-1",
@@ -913,14 +1061,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Chaka",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chaka",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464544",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.chaka.all@gmail.com",
       "covers": [
         "chaka"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-ado-chaka",
@@ -934,7 +1090,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-chaka"
     },
     {
       "id": "sec-chaka-1",
@@ -973,14 +1130,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kaundhiyara",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kaundhiyara",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464545",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.kaundhiyara.all@gmail.com",
       "covers": [
         "kaundhiyara"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-ado-kaundhiyara",
@@ -994,7 +1159,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-kaundhiyara"
     },
     {
       "id": "sec-kaundhiyara-1",
@@ -1033,14 +1199,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Meja",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Meja",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464551",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.meja.all@gmail.com",
       "covers": [
         "meja"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-ado-meja",
@@ -1054,7 +1228,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-meja"
     },
     {
       "id": "sec-meja-1",
@@ -1114,7 +1289,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-urwa"
     },
     {
       "id": "sec-urwa-1",
@@ -1153,14 +1329,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Manda",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Manda",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464554",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.manda.all@gmail.com",
       "covers": [
         "manda"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-ado-manda",
@@ -1174,7 +1358,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-manda"
     },
     {
       "id": "sec-manda-1",
@@ -1213,14 +1398,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Koraon",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Koraon",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464552",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.koraon.all@gmail.com",
       "covers": [
         "koraon"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-ado-koraon",
@@ -1234,7 +1427,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-koraon"
     },
     {
       "id": "sec-koraon-1",
@@ -1273,14 +1467,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Handia",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Handia",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464550",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.handia.all@gmail.com",
       "covers": [
         "handia"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-ado-handia",
@@ -1294,7 +1496,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-handia"
     },
     {
       "id": "sec-handia-1",
@@ -1333,14 +1536,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Dhanupur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dhanupur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464548",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.dhanupur.all@gmail.com",
       "covers": [
         "dhanupur"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-ado-dhanupur",
@@ -1354,7 +1565,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-dhanupur"
     },
     {
       "id": "sec-dhanupur-1",
@@ -1393,14 +1605,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Saidabad",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Saidabad",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464549",
+          "type": "office",
+          "source_url": "https://prayagraj.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.saidabad.all@gmail.com",
       "covers": [
         "saidabad"
       ],
-      "source_url": "https://prayagraj.nic.in/whos-who/",
+      "source_url": "https://prayagraj.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-prayagraj-ado-saidabad",
@@ -1414,7 +1634,8 @@
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-prayagraj-bdo-saidabad"
     },
     {
       "id": "sec-saidabad-1",
@@ -1453,13 +1674,30 @@
       "role": "commissioner",
       "office_name_en": "Municipal Commissioner, Nagar Nigam Prayagraj",
       "office_name_hi": "नगर आयुक्त, नगर निगम प्रयागराज",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8189077826",
+          "type": "cug",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0532-2427221",
+          "type": "landline",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-prayagraj-main"
       ],
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "email": "8189077826osnagarnigam@rediffmail.com",
+      "officer_name_en": "श्री चन्द्र मोहन गर्ग"
     }
   ]
 }

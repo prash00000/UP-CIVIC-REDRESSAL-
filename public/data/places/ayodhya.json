@@ -1,0 +1,5198 @@
+[
+  {
+    "id": "v-ayodhya-masodha",
+    "type": "village",
+    "name_en": "Masodha Block (Gram Panchayats)",
+    "name_hi": "Masodha विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-ayodhya-pura-bazar",
+    "type": "village",
+    "name_en": "Pura Bazar Block (Gram Panchayats)",
+    "name_hi": "Pura Bazar विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pura-bazar",
+    "block_id": "pura-bazar",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-ayodhya-maya-bazar",
+    "type": "village",
+    "name_en": "Maya Bazar Block (Gram Panchayats)",
+    "name_hi": "Maya Bazar विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-maya-bazar",
+    "block_id": "maya-bazar",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-ayodhya-amaniganj",
+    "type": "village",
+    "name_en": "Amaniganj Block (Gram Panchayats)",
+    "name_hi": "Amaniganj विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-amaniganj",
+    "block_id": "amaniganj",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-ayodhya-milkipur",
+    "type": "village",
+    "name_en": "Milkipur Block (Gram Panchayats)",
+    "name_hi": "Milkipur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-milkipur",
+    "block_id": "milkipur",
+    "tehsil_id": "milkipur",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-ayodhya-harringtonganj",
+    "type": "village",
+    "name_en": "Harringtonganj Block (Gram Panchayats)",
+    "name_hi": "Harringtonganj विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-harringtonganj",
+    "block_id": "harringtonganj",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-ayodhya-bikapur",
+    "type": "village",
+    "name_en": "Bikapur Block (Gram Panchayats)",
+    "name_hi": "Bikapur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bikapur",
+    "block_id": "bikapur",
+    "tehsil_id": "bikapur",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-ayodhya-tarun",
+    "type": "village",
+    "name_en": "Tarun Block (Gram Panchayats)",
+    "name_hi": "Tarun विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-tarun",
+    "block_id": "tarun",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-ayodhya-rudauli",
+    "type": "village",
+    "name_en": "Rudauli Block (Gram Panchayats)",
+    "name_hi": "Rudauli विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-rudauli",
+    "block_id": "rudauli",
+    "tehsil_id": "rudauli",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-ayodhya-mawai",
+    "type": "village",
+    "name_en": "Mawai Block (Gram Panchayats)",
+    "name_hi": "Mawai विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mawai",
+    "block_id": "mawai",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-ayodhya-sohawal",
+    "type": "village",
+    "name_en": "Sohawal Block (Gram Panchayats)",
+    "name_hi": "Sohawal विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sohawal",
+    "block_id": "sohawal",
+    "tehsil_id": "sohawal",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-ayodhya-chirra-mohammad-pur",
+    "type": "village",
+    "name_en": "Chirra Mohammad Pur (Gram Panchayat Area)",
+    "name_hi": "Chirra Mohammad Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "po-ayodhya-hardoiya",
+    "type": "village",
+    "name_en": "Hardoiya (Gram Panchayat Area)",
+    "name_hi": "Hardoiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224225"
+    ]
+  },
+  {
+    "id": "po-ayodhya-mawai-kalan",
+    "type": "village",
+    "name_en": "Mawai Kalan (Gram Panchayat Area)",
+    "name_hi": "Mawai Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-mawai",
+    "block_id": "mawai",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224225"
+    ]
+  },
+  {
+    "id": "po-ayodhya-dharauli",
+    "type": "village",
+    "name_en": "Dharauli (Gram Panchayat Area)",
+    "name_hi": "Dharauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224121"
+    ]
+  },
+  {
+    "id": "po-ayodhya-gaddopur",
+    "type": "village",
+    "name_en": "Gaddopur (Gram Panchayat Area)",
+    "name_hi": "Gaddopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224121"
+    ]
+  },
+  {
+    "id": "po-ayodhya-mahuwa",
+    "type": "village",
+    "name_en": "Mahuwa (Gram Panchayat Area)",
+    "name_hi": "Mahuwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224121"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sarauli",
+    "type": "village",
+    "name_en": "Sarauli (Gram Panchayat Area)",
+    "name_hi": "Sarauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224121"
+    ]
+  },
+  {
+    "id": "po-ayodhya-taldholi",
+    "type": "village",
+    "name_en": "Taldholi (Gram Panchayat Area)",
+    "name_hi": "Taldholi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224121"
+    ]
+  },
+  {
+    "id": "po-ayodhya-narain-ashram",
+    "type": "village",
+    "name_en": "Narain Ashram (Gram Panchayat Area)",
+    "name_hi": "Narain Ashram (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224123"
+    ]
+  },
+  {
+    "id": "po-ayodhya-raiganj",
+    "type": "village",
+    "name_en": "Raiganj (Gram Panchayat Area)",
+    "name_hi": "Raiganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224123"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kareru",
+    "type": "village",
+    "name_en": "Kareru (Gram Panchayat Area)",
+    "name_hi": "Kareru (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224126"
+    ]
+  },
+  {
+    "id": "po-ayodhya-pirkhauli",
+    "type": "village",
+    "name_en": "Pirkhauli (Gram Panchayat Area)",
+    "name_hi": "Pirkhauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224126"
+    ]
+  },
+  {
+    "id": "po-ayodhya-seewar",
+    "type": "village",
+    "name_en": "Seewar (Gram Panchayat Area)",
+    "name_hi": "Seewar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224126"
+    ]
+  },
+  {
+    "id": "po-ayodhya-gauhanna-qanoongo",
+    "type": "village",
+    "name_en": "Gauhanna Qanoongo (Gram Panchayat Area)",
+    "name_hi": "Gauhanna Qanoongo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224127"
+    ]
+  },
+  {
+    "id": "po-ayodhya-naipura",
+    "type": "village",
+    "name_en": "Naipura (Gram Panchayat Area)",
+    "name_hi": "Naipura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224202"
+    ]
+  },
+  {
+    "id": "po-ayodhya-akhtiyarpur",
+    "type": "village",
+    "name_en": "Akhtiyarpur (Gram Panchayat Area)",
+    "name_hi": "Akhtiyarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224116"
+    ]
+  },
+  {
+    "id": "po-ayodhya-jarail-kalan",
+    "type": "village",
+    "name_en": "Jarail Kalan (Gram Panchayat Area)",
+    "name_hi": "Jarail Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224116"
+    ]
+  },
+  {
+    "id": "po-ayodhya-banket",
+    "type": "village",
+    "name_en": "Banket (Gram Panchayat Area)",
+    "name_hi": "Banket (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "po-ayodhya-chwardhar",
+    "type": "village",
+    "name_en": "Chwardhar (Gram Panchayat Area)",
+    "name_hi": "Chwardhar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "po-ayodhya-gundhaur",
+    "type": "village",
+    "name_en": "Gundhaur (Gram Panchayat Area)",
+    "name_hi": "Gundhaur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "po-ayodhya-saraibhanauli",
+    "type": "village",
+    "name_en": "Saraibhanauli (Gram Panchayat Area)",
+    "name_hi": "Saraibhanauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "po-ayodhya-arsath",
+    "type": "village",
+    "name_en": "Arsath (Gram Panchayat Area)",
+    "name_hi": "Arsath (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224209"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kannawan",
+    "type": "village",
+    "name_en": "Kannawan (Gram Panchayat Area)",
+    "name_hi": "Kannawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224209"
+    ]
+  },
+  {
+    "id": "po-ayodhya-paroma",
+    "type": "village",
+    "name_en": "Paroma (Gram Panchayat Area)",
+    "name_hi": "Paroma (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224209"
+    ]
+  },
+  {
+    "id": "po-ayodhya-rauhari",
+    "type": "village",
+    "name_en": "Rauhari (Gram Panchayat Area)",
+    "name_hi": "Rauhari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224209"
+    ]
+  },
+  {
+    "id": "po-ayodhya-tharia-kalan",
+    "type": "village",
+    "name_en": "Tharia Kalan (Gram Panchayat Area)",
+    "name_hi": "Tharia Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224209"
+    ]
+  },
+  {
+    "id": "po-ayodhya-dadera",
+    "type": "village",
+    "name_en": "Dadera (Gram Panchayat Area)",
+    "name_hi": "Dadera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224135"
+    ]
+  },
+  {
+    "id": "po-ayodhya-ismail-nagar-singra",
+    "type": "village",
+    "name_en": "Ismail Nagar Singra (Gram Panchayat Area)",
+    "name_hi": "Ismail Nagar Singra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224189"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kundurkha-khurd",
+    "type": "village",
+    "name_en": "Kundurkha Khurd (Gram Panchayat Area)",
+    "name_hi": "Kundurkha Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224189"
+    ]
+  },
+  {
+    "id": "po-ayodhya-deokali",
+    "type": "village",
+    "name_en": "Deokali (Gram Panchayat Area)",
+    "name_hi": "Deokali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bandanpur",
+    "type": "village",
+    "name_en": "Bandanpur (Gram Panchayat Area)",
+    "name_hi": "Bandanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224141"
+    ]
+  },
+  {
+    "id": "po-ayodhya-ramapur",
+    "type": "village",
+    "name_en": "Ramapur (Gram Panchayat Area)",
+    "name_hi": "Ramapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224141"
+    ]
+  },
+  {
+    "id": "po-ayodhya-raniwan",
+    "type": "village",
+    "name_en": "Raniwan (Gram Panchayat Area)",
+    "name_hi": "Raniwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224141"
+    ]
+  },
+  {
+    "id": "po-ayodhya-teliagarh",
+    "type": "village",
+    "name_en": "Teliagarh (Gram Panchayat Area)",
+    "name_hi": "Teliagarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224141"
+    ]
+  },
+  {
+    "id": "po-ayodhya-mian-ganj",
+    "type": "village",
+    "name_en": "Mian Ganj (Gram Panchayat Area)",
+    "name_hi": "Mian Ganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224208"
+    ]
+  },
+  {
+    "id": "po-ayodhya-paraspur-sathra",
+    "type": "village",
+    "name_en": "Paraspur Sathra (Gram Panchayat Area)",
+    "name_hi": "Paraspur Sathra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224208"
+    ]
+  },
+  {
+    "id": "po-ayodhya-urwa-vaish",
+    "type": "village",
+    "name_en": "Urwa Vaish (Gram Panchayat Area)",
+    "name_hi": "Urwa Vaish (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224208"
+    ]
+  },
+  {
+    "id": "po-ayodhya-basawan",
+    "type": "village",
+    "name_en": "Basawan (Gram Panchayat Area)",
+    "name_hi": "Basawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224228"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kadanpur",
+    "type": "village",
+    "name_en": "Kadanpur (Gram Panchayat Area)",
+    "name_hi": "Kadanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224228"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bhav-nathpur",
+    "type": "village",
+    "name_en": "Bhav Nathpur (Gram Panchayat Area)",
+    "name_hi": "Bhav Nathpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224206"
+    ]
+  },
+  {
+    "id": "po-ayodhya-mangari",
+    "type": "village",
+    "name_en": "Mangari (Gram Panchayat Area)",
+    "name_hi": "Mangari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224206"
+    ]
+  },
+  {
+    "id": "po-ayodhya-mumtaj-nagar",
+    "type": "village",
+    "name_en": "Mumtaj Nagar (Gram Panchayat Area)",
+    "name_hi": "Mumtaj Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sariyawan",
+    "type": "village",
+    "name_en": "Sariyawan (Gram Panchayat Area)",
+    "name_hi": "Sariyawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "po-ayodhya-gopalpur",
+    "type": "village",
+    "name_en": "Gopalpur (Gram Panchayat Area)",
+    "name_hi": "Gopalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kalyanpur-keotani",
+    "type": "village",
+    "name_en": "Kalyanpur Keotani (Gram Panchayat Area)",
+    "name_hi": "Kalyanpur Keotani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224225"
+    ]
+  },
+  {
+    "id": "po-ayodhya-paliya-pratapshah",
+    "type": "village",
+    "name_en": "Paliya Pratapshah (Gram Panchayat Area)",
+    "name_hi": "Paliya Pratapshah (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224225"
+    ]
+  },
+  {
+    "id": "po-ayodhya-chandaura",
+    "type": "village",
+    "name_en": "Chandaura (Gram Panchayat Area)",
+    "name_hi": "Chandaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224121"
+    ]
+  },
+  {
+    "id": "po-ayodhya-gauhania",
+    "type": "village",
+    "name_en": "Gauhania (Gram Panchayat Area)",
+    "name_hi": "Gauhania (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224121"
+    ]
+  },
+  {
+    "id": "po-ayodhya-manudiha",
+    "type": "village",
+    "name_en": "Manudiha (Gram Panchayat Area)",
+    "name_hi": "Manudiha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224121"
+    ]
+  },
+  {
+    "id": "po-ayodhya-ramnagar-amawan-sufi",
+    "type": "village",
+    "name_en": "Ramnagar Amawan Sufi (Gram Panchayat Area)",
+    "name_hi": "Ramnagar Amawan Sufi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224121"
+    ]
+  },
+  {
+    "id": "po-ayodhya-gurukul",
+    "type": "village",
+    "name_en": "Gurukul (Gram Panchayat Area)",
+    "name_hi": "Gurukul (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224123"
+    ]
+  },
+  {
+    "id": "po-ayodhya-hajipur",
+    "type": "village",
+    "name_en": "Hajipur (Gram Panchayat Area)",
+    "name_hi": "Hajipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224126"
+    ]
+  },
+  {
+    "id": "po-ayodhya-maholi-uprahar",
+    "type": "village",
+    "name_en": "Maholi Uprahar (Gram Panchayat Area)",
+    "name_hi": "Maholi Uprahar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224126"
+    ]
+  },
+  {
+    "id": "po-ayodhya-gothwara",
+    "type": "village",
+    "name_en": "Gothwara (Gram Panchayat Area)",
+    "name_hi": "Gothwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224127"
+    ]
+  },
+  {
+    "id": "po-ayodhya-mehnauna",
+    "type": "village",
+    "name_en": "Mehnauna (Gram Panchayat Area)",
+    "name_hi": "Mehnauna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224127"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kailkeshopur",
+    "type": "village",
+    "name_en": "Kailkeshopur (Gram Panchayat Area)",
+    "name_hi": "Kailkeshopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224202"
+    ]
+  },
+  {
+    "id": "po-ayodhya-raithua",
+    "type": "village",
+    "name_en": "Raithua (Gram Panchayat Area)",
+    "name_hi": "Raithua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224202"
+    ]
+  },
+  {
+    "id": "po-ayodhya-shujaganj",
+    "type": "village",
+    "name_en": "Shujaganj (Gram Panchayat Area)",
+    "name_hi": "Shujaganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224116"
+    ]
+  },
+  {
+    "id": "po-ayodhya-ballipur",
+    "type": "village",
+    "name_en": "Ballipur (Gram Panchayat Area)",
+    "name_hi": "Ballipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bhawapur",
+    "type": "village",
+    "name_en": "Bhawapur (Gram Panchayat Area)",
+    "name_hi": "Bhawapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "po-ayodhya-malethukanak",
+    "type": "village",
+    "name_en": "Malethukanak (Gram Panchayat Area)",
+    "name_hi": "Malethukanak (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "po-ayodhya-ruroo",
+    "type": "village",
+    "name_en": "Ruroo (Gram Panchayat Area)",
+    "name_hi": "Ruroo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bainti",
+    "type": "village",
+    "name_en": "Bainti (Gram Panchayat Area)",
+    "name_hi": "Bainti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224209"
+    ]
+  },
+  {
+    "id": "po-ayodhya-janjwara",
+    "type": "village",
+    "name_en": "Janjwara (Gram Panchayat Area)",
+    "name_hi": "Janjwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224209"
+    ]
+  },
+  {
+    "id": "po-ayodhya-ninhiyawan-bazar",
+    "type": "village",
+    "name_en": "Ninhiyawan Bazar (Gram Panchayat Area)",
+    "name_hi": "Ninhiyawan Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224209"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sulhepur",
+    "type": "village",
+    "name_en": "Sulhepur (Gram Panchayat Area)",
+    "name_hi": "Sulhepur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224209"
+    ]
+  },
+  {
+    "id": "po-ayodhya-alwalpur",
+    "type": "village",
+    "name_en": "Alwalpur (Gram Panchayat Area)",
+    "name_hi": "Alwalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224135"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kandai-kalan",
+    "type": "village",
+    "name_en": "Kandai Kalan (Gram Panchayat Area)",
+    "name_hi": "Kandai Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224189"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bala-paikauli",
+    "type": "village",
+    "name_en": "Bala Paikauli (Gram Panchayat Area)",
+    "name_hi": "Bala Paikauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224141"
+    ]
+  },
+  {
+    "id": "po-ayodhya-chachikpur",
+    "type": "village",
+    "name_en": "Chachikpur (Gram Panchayat Area)",
+    "name_hi": "Chachikpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224141"
+    ]
+  },
+  {
+    "id": "po-ayodhya-samda",
+    "type": "village",
+    "name_en": "Samda (Gram Panchayat Area)",
+    "name_hi": "Samda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224141"
+    ]
+  },
+  {
+    "id": "po-ayodhya-malethu-buzurg",
+    "type": "village",
+    "name_en": "Malethu Buzurg (Gram Panchayat Area)",
+    "name_hi": "Malethu Buzurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224208"
+    ]
+  },
+  {
+    "id": "po-ayodhya-para-tajpur",
+    "type": "village",
+    "name_en": "Para Tajpur (Gram Panchayat Area)",
+    "name_hi": "Para Tajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224208"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sonbarsa",
+    "type": "village",
+    "name_en": "Sonbarsa (Gram Panchayat Area)",
+    "name_hi": "Sonbarsa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224208"
+    ]
+  },
+  {
+    "id": "po-ayodhya-chirauli",
+    "type": "village",
+    "name_en": "Chirauli (Gram Panchayat Area)",
+    "name_hi": "Chirauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224228"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kahuwa",
+    "type": "village",
+    "name_en": "Kahuwa (Gram Panchayat Area)",
+    "name_hi": "Kahuwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224228"
+    ]
+  },
+  {
+    "id": "po-ayodhya-gadopur-majhwa",
+    "type": "village",
+    "name_en": "Gadopur Majhwa (Gram Panchayat Area)",
+    "name_hi": "Gadopur Majhwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "po-ayodhya-mau-yaduwanshpur",
+    "type": "village",
+    "name_en": "Mau Yaduwanshpur (Gram Panchayat Area)",
+    "name_hi": "Mau Yaduwanshpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "po-ayodhya-haripur-jalalabad",
+    "type": "village",
+    "name_en": "Haripur Jalalabad (Gram Panchayat Area)",
+    "name_hi": "Haripur Jalalabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kot-sarai",
+    "type": "village",
+    "name_en": "Kot Sarai (Gram Panchayat Area)",
+    "name_hi": "Kot Sarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "po-ayodhya-ahiran-subansh",
+    "type": "village",
+    "name_en": "Ahiran Subansh (Gram Panchayat Area)",
+    "name_hi": "Ahiran Subansh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224225"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bakauli",
+    "type": "village",
+    "name_en": "Bakauli (Gram Panchayat Area)",
+    "name_hi": "Bakauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224121"
+    ]
+  },
+  {
+    "id": "po-ayodhya-harakhpur",
+    "type": "village",
+    "name_en": "Harakhpur (Gram Panchayat Area)",
+    "name_hi": "Harakhpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224121"
+    ]
+  },
+  {
+    "id": "po-ayodhya-mahmedpur",
+    "type": "village",
+    "name_en": "Mahmedpur (Gram Panchayat Area)",
+    "name_hi": "Mahmedpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224121"
+    ]
+  },
+  {
+    "id": "po-ayodhya-ranopali",
+    "type": "village",
+    "name_en": "Ranopali (Gram Panchayat Area)",
+    "name_hi": "Ranopali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224123"
+    ]
+  },
+  {
+    "id": "po-ayodhya-swarg-dwar",
+    "type": "village",
+    "name_en": "Swarg Dwar (Gram Panchayat Area)",
+    "name_hi": "Swarg Dwar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224123"
+    ]
+  },
+  {
+    "id": "po-ayodhya-gondwa",
+    "type": "village",
+    "name_en": "Gondwa (Gram Panchayat Area)",
+    "name_hi": "Gondwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224126"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kadipur",
+    "type": "village",
+    "name_en": "Kadipur (Gram Panchayat Area)",
+    "name_hi": "Kadipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224127"
+    ]
+  },
+  {
+    "id": "po-ayodhya-rani-bazar",
+    "type": "village",
+    "name_en": "Rani Bazar (Gram Panchayat Area)",
+    "name_hi": "Rani Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224127"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sari",
+    "type": "village",
+    "name_en": "Sari (Gram Panchayat Area)",
+    "name_hi": "Sari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224127"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sirhir",
+    "type": "village",
+    "name_en": "Sirhir (Gram Panchayat Area)",
+    "name_hi": "Sirhir (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224127"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sohkhawan",
+    "type": "village",
+    "name_en": "Sohkhawan (Gram Panchayat Area)",
+    "name_hi": "Sohkhawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224127"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sondhiyawan",
+    "type": "village",
+    "name_en": "Sondhiyawan (Gram Panchayat Area)",
+    "name_hi": "Sondhiyawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224127"
+    ]
+  },
+  {
+    "id": "po-ayodhya-saraitha",
+    "type": "village",
+    "name_en": "Saraitha (Gram Panchayat Area)",
+    "name_hi": "Saraitha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224116"
+    ]
+  },
+  {
+    "id": "po-ayodhya-khapraila-bazar",
+    "type": "village",
+    "name_en": "Khapraila Bazar (Gram Panchayat Area)",
+    "name_hi": "Khapraila Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kurha",
+    "type": "village",
+    "name_en": "Kurha (Gram Panchayat Area)",
+    "name_hi": "Kurha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "po-ayodhya-pohpi",
+    "type": "village",
+    "name_en": "Pohpi (Gram Panchayat Area)",
+    "name_hi": "Pohpi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "po-ayodhya-benipur-chandauli",
+    "type": "village",
+    "name_en": "Benipur Chandauli (Gram Panchayat Area)",
+    "name_hi": "Benipur Chandauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224209"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bhitergaon",
+    "type": "village",
+    "name_en": "Bhitergaon (Gram Panchayat Area)",
+    "name_hi": "Bhitergaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224209"
+    ]
+  },
+  {
+    "id": "po-ayodhya-hathigo",
+    "type": "village",
+    "name_en": "Hathigo (Gram Panchayat Area)",
+    "name_hi": "Hathigo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224209"
+    ]
+  },
+  {
+    "id": "po-ayodhya-dhrampur",
+    "type": "village",
+    "name_en": "Dhrampur (Gram Panchayat Area)",
+    "name_hi": "Dhrampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224135"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sanethu",
+    "type": "village",
+    "name_en": "Sanethu (Gram Panchayat Area)",
+    "name_hi": "Sanethu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224135"
+    ]
+  },
+  {
+    "id": "po-ayodhya-shahnawan",
+    "type": "village",
+    "name_en": "Shahnawan (Gram Panchayat Area)",
+    "name_hi": "Shahnawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224135"
+    ]
+  },
+  {
+    "id": "po-ayodhya-baidarapur",
+    "type": "village",
+    "name_en": "Baidarapur (Gram Panchayat Area)",
+    "name_hi": "Baidarapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224189"
+    ]
+  },
+  {
+    "id": "po-ayodhya-dillisaraiya",
+    "type": "village",
+    "name_en": "Dillisaraiya (Gram Panchayat Area)",
+    "name_hi": "Dillisaraiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224189"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sahadatganj",
+    "type": "village",
+    "name_en": "Sahadatganj (Gram Panchayat Area)",
+    "name_hi": "Sahadatganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "po-ayodhya-chandrikaganj",
+    "type": "village",
+    "name_en": "Chandrikaganj (Gram Panchayat Area)",
+    "name_hi": "Chandrikaganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224141"
+    ]
+  },
+  {
+    "id": "po-ayodhya-fatehpur-kamasin",
+    "type": "village",
+    "name_en": "Fatehpur Kamasin (Gram Panchayat Area)",
+    "name_hi": "Fatehpur Kamasin (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224141"
+    ]
+  },
+  {
+    "id": "po-ayodhya-jaitpur-nidhiyawan",
+    "type": "village",
+    "name_en": "Jaitpur Nidhiyawan (Gram Panchayat Area)",
+    "name_hi": "Jaitpur Nidhiyawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224141"
+    ]
+  },
+  {
+    "id": "po-ayodhya-adilpur",
+    "type": "village",
+    "name_en": "Adilpur (Gram Panchayat Area)",
+    "name_hi": "Adilpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224208"
+    ]
+  },
+  {
+    "id": "po-ayodhya-banswar-kalan",
+    "type": "village",
+    "name_en": "Banswar Kalan (Gram Panchayat Area)",
+    "name_hi": "Banswar Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224208"
+    ]
+  },
+  {
+    "id": "po-ayodhya-chamela",
+    "type": "village",
+    "name_en": "Chamela (Gram Panchayat Area)",
+    "name_hi": "Chamela (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224208"
+    ]
+  },
+  {
+    "id": "po-ayodhya-aghiyari",
+    "type": "village",
+    "name_en": "Aghiyari (Gram Panchayat Area)",
+    "name_hi": "Aghiyari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224228"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bodahari",
+    "type": "village",
+    "name_en": "Bodahari (Gram Panchayat Area)",
+    "name_hi": "Bodahari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224206"
+    ]
+  },
+  {
+    "id": "po-ayodhya-katari",
+    "type": "village",
+    "name_en": "Katari (Gram Panchayat Area)",
+    "name_hi": "Katari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224206"
+    ]
+  },
+  {
+    "id": "po-ayodhya-mahawan",
+    "type": "village",
+    "name_en": "Mahawan (Gram Panchayat Area)",
+    "name_hi": "Mahawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224206"
+    ]
+  },
+  {
+    "id": "po-ayodhya-manapur",
+    "type": "village",
+    "name_en": "Manapur (Gram Panchayat Area)",
+    "name_hi": "Manapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "po-ayodhya-naka-muzzafra",
+    "type": "village",
+    "name_en": "Naka Muzzafra (Gram Panchayat Area)",
+    "name_hi": "Naka Muzzafra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "po-ayodhya-reona",
+    "type": "village",
+    "name_en": "Reona (Gram Panchayat Area)",
+    "name_hi": "Reona (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224225"
+    ]
+  },
+  {
+    "id": "po-ayodhya-nandauli",
+    "type": "village",
+    "name_en": "Nandauli (Gram Panchayat Area)",
+    "name_hi": "Nandauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224121"
+    ]
+  },
+  {
+    "id": "po-ayodhya-raipatti",
+    "type": "village",
+    "name_en": "Raipatti (Gram Panchayat Area)",
+    "name_hi": "Raipatti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224121"
+    ]
+  },
+  {
+    "id": "po-ayodhya-golaghat",
+    "type": "village",
+    "name_en": "Golaghat (Gram Panchayat Area)",
+    "name_hi": "Golaghat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224123"
+    ]
+  },
+  {
+    "id": "po-ayodhya-ramnagar-dhaurahra",
+    "type": "village",
+    "name_en": "Ramnagar Dhaurahra (Gram Panchayat Area)",
+    "name_hi": "Ramnagar Dhaurahra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224126"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sarangpur",
+    "type": "village",
+    "name_en": "Sarangpur (Gram Panchayat Area)",
+    "name_hi": "Sarangpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224126"
+    ]
+  },
+  {
+    "id": "po-ayodhya-abboopur",
+    "type": "village",
+    "name_en": "Abboopur (Gram Panchayat Area)",
+    "name_hi": "Abboopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224116"
+    ]
+  },
+  {
+    "id": "po-ayodhya-karaundi",
+    "type": "village",
+    "name_en": "Karaundi (Gram Panchayat Area)",
+    "name_hi": "Karaundi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224116"
+    ]
+  },
+  {
+    "id": "po-ayodhya-khairi",
+    "type": "village",
+    "name_en": "Khairi (Gram Panchayat Area)",
+    "name_hi": "Khairi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224116"
+    ]
+  },
+  {
+    "id": "po-ayodhya-rauzagaon",
+    "type": "village",
+    "name_en": "Rauzagaon (Gram Panchayat Area)",
+    "name_hi": "Rauzagaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224116"
+    ]
+  },
+  {
+    "id": "po-ayodhya-dashrathpur",
+    "type": "village",
+    "name_en": "Dashrathpur (Gram Panchayat Area)",
+    "name_hi": "Dashrathpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "po-ayodhya-dharehata-dashrathpur",
+    "type": "village",
+    "name_en": "Dharehata Dashrathpur (Gram Panchayat Area)",
+    "name_hi": "Dharehata Dashrathpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "po-ayodhya-gaura",
+    "type": "village",
+    "name_en": "Gaura (Gram Panchayat Area)",
+    "name_hi": "Gaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "po-ayodhya-gayaspur",
+    "type": "village",
+    "name_en": "Gayaspur (Gram Panchayat Area)",
+    "name_hi": "Gayaspur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sherpur-para",
+    "type": "village",
+    "name_en": "Sherpur Para (Gram Panchayat Area)",
+    "name_hi": "Sherpur Para (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sohawal-saloni",
+    "type": "village",
+    "name_en": "Sohawal Saloni (Gram Panchayat Area)",
+    "name_hi": "Sohawal Saloni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sohawal",
+    "block_id": "sohawal",
+    "tehsil_id": "sohawal",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "po-ayodhya-toron-darab-ganj",
+    "type": "village",
+    "name_en": "Toron Darab Ganj (Gram Panchayat Area)",
+    "name_hi": "Toron Darab Ganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "po-ayodhya-jyoti-sadan",
+    "type": "village",
+    "name_en": "Jyoti Sadan (Gram Panchayat Area)",
+    "name_hi": "Jyoti Sadan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224133"
+    ]
+  },
+  {
+    "id": "po-ayodhya-mubarakganj",
+    "type": "village",
+    "name_en": "Mubarakganj (Gram Panchayat Area)",
+    "name_hi": "Mubarakganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224189"
+    ]
+  },
+  {
+    "id": "po-ayodhya-pilkhawan",
+    "type": "village",
+    "name_en": "Pilkhawan (Gram Panchayat Area)",
+    "name_hi": "Pilkhawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224189"
+    ]
+  },
+  {
+    "id": "po-ayodhya-surwari",
+    "type": "village",
+    "name_en": "Surwari (Gram Panchayat Area)",
+    "name_hi": "Surwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224189"
+    ]
+  },
+  {
+    "id": "po-ayodhya-tandwa",
+    "type": "village",
+    "name_en": "Tandwa (Gram Panchayat Area)",
+    "name_hi": "Tandwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224189"
+    ]
+  },
+  {
+    "id": "po-ayodhya-water-works",
+    "type": "village",
+    "name_en": "Water Works (Gram Panchayat Area)",
+    "name_hi": "Water Works (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "po-ayodhya-amsin",
+    "type": "village",
+    "name_en": "Amsin (Gram Panchayat Area)",
+    "name_hi": "Amsin (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224141"
+    ]
+  },
+  {
+    "id": "po-ayodhya-ankaripur",
+    "type": "village",
+    "name_en": "Ankaripur (Gram Panchayat Area)",
+    "name_hi": "Ankaripur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224141"
+    ]
+  },
+  {
+    "id": "po-ayodhya-rajapur-sraiya",
+    "type": "village",
+    "name_en": "Rajapur Sraiya (Gram Panchayat Area)",
+    "name_hi": "Rajapur Sraiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224141"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sagar-pati-pandhula",
+    "type": "village",
+    "name_en": "Sagar Pati Pandhula (Gram Panchayat Area)",
+    "name_hi": "Sagar Pati Pandhula (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224208"
+    ]
+  },
+  {
+    "id": "po-ayodhya-singhora",
+    "type": "village",
+    "name_en": "Singhora (Gram Panchayat Area)",
+    "name_hi": "Singhora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224208"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kinauli",
+    "type": "village",
+    "name_en": "Kinauli (Gram Panchayat Area)",
+    "name_hi": "Kinauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224228"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bhaironpur-tikari",
+    "type": "village",
+    "name_en": "Bhaironpur Tikari (Gram Panchayat Area)",
+    "name_hi": "Bhaironpur Tikari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224206"
+    ]
+  },
+  {
+    "id": "po-ayodhya-koro-raghopur",
+    "type": "village",
+    "name_en": "Koro Raghopur (Gram Panchayat Area)",
+    "name_hi": "Koro Raghopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224206"
+    ]
+  },
+  {
+    "id": "po-ayodhya-marui-sahai-singh",
+    "type": "village",
+    "name_en": "Marui Sahai Singh (Gram Panchayat Area)",
+    "name_hi": "Marui Sahai Singh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224206"
+    ]
+  },
+  {
+    "id": "po-ayodhya-ramnagar-chaukia",
+    "type": "village",
+    "name_en": "Ramnagar Chaukia (Gram Panchayat Area)",
+    "name_hi": "Ramnagar Chaukia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224206"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sidhari-bazar",
+    "type": "village",
+    "name_en": "Sidhari Bazar (Gram Panchayat Area)",
+    "name_hi": "Sidhari Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224153"
+    ]
+  },
+  {
+    "id": "po-ayodhya-pachiyana",
+    "type": "village",
+    "name_en": "Pachiyana (Gram Panchayat Area)",
+    "name_hi": "Pachiyana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224205"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sihipur",
+    "type": "village",
+    "name_en": "Sihipur (Gram Panchayat Area)",
+    "name_hi": "Sihipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224205"
+    ]
+  },
+  {
+    "id": "po-ayodhya-udharna",
+    "type": "village",
+    "name_en": "Udharna (Gram Panchayat Area)",
+    "name_hi": "Udharna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224205"
+    ]
+  },
+  {
+    "id": "po-ayodhya-khanpur",
+    "type": "village",
+    "name_en": "Khanpur (Gram Panchayat Area)",
+    "name_hi": "Khanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224158"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kinhupur",
+    "type": "village",
+    "name_en": "Kinhupur (Gram Panchayat Area)",
+    "name_hi": "Kinhupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224158"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kotdeeh",
+    "type": "village",
+    "name_en": "Kotdeeh (Gram Panchayat Area)",
+    "name_hi": "Kotdeeh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224158"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kumbhi",
+    "type": "village",
+    "name_en": "Kumbhi (Gram Panchayat Area)",
+    "name_hi": "Kumbhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224158"
+    ]
+  },
+  {
+    "id": "po-ayodhya-dehriyawan",
+    "type": "village",
+    "name_en": "Dehriyawan (Gram Panchayat Area)",
+    "name_hi": "Dehriyawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224207"
+    ]
+  },
+  {
+    "id": "po-ayodhya-gayasuddinpur",
+    "type": "village",
+    "name_en": "Gayasuddinpur (Gram Panchayat Area)",
+    "name_hi": "Gayasuddinpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224207"
+    ]
+  },
+  {
+    "id": "po-ayodhya-jalapur-bhaggoo",
+    "type": "village",
+    "name_en": "Jalapur Bhaggoo (Gram Panchayat Area)",
+    "name_hi": "Jalapur Bhaggoo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224207"
+    ]
+  },
+  {
+    "id": "po-ayodhya-konchha",
+    "type": "village",
+    "name_en": "Konchha (Gram Panchayat Area)",
+    "name_hi": "Konchha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224207"
+    ]
+  },
+  {
+    "id": "po-ayodhya-manjanpur",
+    "type": "village",
+    "name_en": "Manjanpur (Gram Panchayat Area)",
+    "name_hi": "Manjanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224117"
+    ]
+  },
+  {
+    "id": "po-ayodhya-narauli",
+    "type": "village",
+    "name_en": "Narauli (Gram Panchayat Area)",
+    "name_hi": "Narauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224117"
+    ]
+  },
+  {
+    "id": "po-ayodhya-alnabhari",
+    "type": "village",
+    "name_en": "Alnabhari (Gram Panchayat Area)",
+    "name_hi": "Alnabhari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224161"
+    ]
+  },
+  {
+    "id": "po-ayodhya-babuapur",
+    "type": "village",
+    "name_en": "Babuapur (Gram Panchayat Area)",
+    "name_hi": "Babuapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224161"
+    ]
+  },
+  {
+    "id": "po-ayodhya-baihari",
+    "type": "village",
+    "name_en": "Baihari (Gram Panchayat Area)",
+    "name_hi": "Baihari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224161"
+    ]
+  },
+  {
+    "id": "po-ayodhya-beraspur",
+    "type": "village",
+    "name_en": "Beraspur (Gram Panchayat Area)",
+    "name_hi": "Beraspur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224161"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kasari",
+    "type": "village",
+    "name_en": "Kasari (Gram Panchayat Area)",
+    "name_hi": "Kasari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224118"
+    ]
+  },
+  {
+    "id": "po-ayodhya-paharpur",
+    "type": "village",
+    "name_en": "Paharpur (Gram Panchayat Area)",
+    "name_hi": "Paharpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224118"
+    ]
+  },
+  {
+    "id": "po-ayodhya-rampur-janak",
+    "type": "village",
+    "name_en": "Rampur Janak (Gram Panchayat Area)",
+    "name_hi": "Rampur Janak (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224118"
+    ]
+  },
+  {
+    "id": "po-ayodhya-anjrauli",
+    "type": "village",
+    "name_en": "Anjrauli (Gram Panchayat Area)",
+    "name_hi": "Anjrauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224164"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bhimatali",
+    "type": "village",
+    "name_en": "Bhimatali (Gram Panchayat Area)",
+    "name_hi": "Bhimatali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224164"
+    ]
+  },
+  {
+    "id": "po-ayodhya-parsawan-khurd",
+    "type": "village",
+    "name_en": "Parsawan Khurd (Gram Panchayat Area)",
+    "name_hi": "Parsawan Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224164"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kondri",
+    "type": "village",
+    "name_en": "Kondri (Gram Panchayat Area)",
+    "name_hi": "Kondri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224201"
+    ]
+  },
+  {
+    "id": "po-ayodhya-narainpur",
+    "type": "village",
+    "name_en": "Narainpur (Gram Panchayat Area)",
+    "name_hi": "Narainpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224201"
+    ]
+  },
+  {
+    "id": "po-ayodhya-pora",
+    "type": "village",
+    "name_en": "Pora (Gram Panchayat Area)",
+    "name_hi": "Pora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224201"
+    ]
+  },
+  {
+    "id": "po-ayodhya-giraunda",
+    "type": "village",
+    "name_en": "Giraunda (Gram Panchayat Area)",
+    "name_hi": "Giraunda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224119"
+    ]
+  },
+  {
+    "id": "po-ayodhya-hunhuna",
+    "type": "village",
+    "name_en": "Hunhuna (Gram Panchayat Area)",
+    "name_hi": "Hunhuna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224119"
+    ]
+  },
+  {
+    "id": "po-ayodhya-deogarh",
+    "type": "village",
+    "name_en": "Deogarh (Gram Panchayat Area)",
+    "name_hi": "Deogarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224171"
+    ]
+  },
+  {
+    "id": "po-ayodhya-gyanpur",
+    "type": "village",
+    "name_en": "Gyanpur (Gram Panchayat Area)",
+    "name_hi": "Gyanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224171"
+    ]
+  },
+  {
+    "id": "po-ayodhya-baraon",
+    "type": "village",
+    "name_en": "Baraon (Gram Panchayat Area)",
+    "name_hi": "Baraon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224203"
+    ]
+  },
+  {
+    "id": "po-ayodhya-beni-gaddopur",
+    "type": "village",
+    "name_en": "Beni Gaddopur (Gram Panchayat Area)",
+    "name_hi": "Beni Gaddopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224203"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kodaila",
+    "type": "village",
+    "name_en": "Kodaila (Gram Panchayat Area)",
+    "name_hi": "Kodaila (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224203"
+    ]
+  },
+  {
+    "id": "po-ayodhya-hariharpur-kayasthan",
+    "type": "village",
+    "name_en": "Hariharpur Kayasthan (Gram Panchayat Area)",
+    "name_hi": "Hariharpur Kayasthan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224120"
+    ]
+  },
+  {
+    "id": "po-ayodhya-neoti",
+    "type": "village",
+    "name_en": "Neoti (Gram Panchayat Area)",
+    "name_hi": "Neoti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224120"
+    ]
+  },
+  {
+    "id": "po-ayodhya-rudauli-city",
+    "type": "village",
+    "name_en": "Rudauli City (Gram Panchayat Area)",
+    "name_hi": "Rudauli City (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-rudauli",
+    "block_id": "rudauli",
+    "tehsil_id": "rudauli",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224120"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bhitaura",
+    "type": "village",
+    "name_en": "Bhitaura (Gram Panchayat Area)",
+    "name_hi": "Bhitaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224188"
+    ]
+  },
+  {
+    "id": "po-ayodhya-jaganpur",
+    "type": "village",
+    "name_en": "Jaganpur (Gram Panchayat Area)",
+    "name_hi": "Jaganpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224188"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kesharuabujurg",
+    "type": "village",
+    "name_en": "Kesharuabujurg (Gram Panchayat Area)",
+    "name_hi": "Kesharuabujurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224203"
+    ]
+  },
+  {
+    "id": "po-ayodhya-khamipurnidhiywan",
+    "type": "village",
+    "name_en": "Khamipurnidhiywan (Gram Panchayat Area)",
+    "name_hi": "Khamipurnidhiywan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224195"
+    ]
+  },
+  {
+    "id": "po-ayodhya-paliachalpur",
+    "type": "village",
+    "name_en": "Paliachalpur (Gram Panchayat Area)",
+    "name_hi": "Paliachalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224195"
+    ]
+  },
+  {
+    "id": "po-ayodhya-barauli",
+    "type": "village",
+    "name_en": "Barauli (Gram Panchayat Area)",
+    "name_hi": "Barauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224153"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bhakhauli",
+    "type": "village",
+    "name_en": "Bhakhauli (Gram Panchayat Area)",
+    "name_hi": "Bhakhauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224153"
+    ]
+  },
+  {
+    "id": "po-ayodhya-deogaon",
+    "type": "village",
+    "name_en": "Deogaon (Gram Panchayat Area)",
+    "name_hi": "Deogaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224153"
+    ]
+  },
+  {
+    "id": "po-ayodhya-ghorwal",
+    "type": "village",
+    "name_en": "Ghorwal (Gram Panchayat Area)",
+    "name_hi": "Ghorwal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224153"
+    ]
+  },
+  {
+    "id": "po-ayodhya-janabazar",
+    "type": "village",
+    "name_en": "Janabazar (Gram Panchayat Area)",
+    "name_hi": "Janabazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224205"
+    ]
+  },
+  {
+    "id": "po-ayodhya-pachgawan",
+    "type": "village",
+    "name_en": "Pachgawan (Gram Panchayat Area)",
+    "name_hi": "Pachgawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224205"
+    ]
+  },
+  {
+    "id": "po-ayodhya-shekhanpur",
+    "type": "village",
+    "name_en": "Shekhanpur (Gram Panchayat Area)",
+    "name_hi": "Shekhanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224158"
+    ]
+  },
+  {
+    "id": "po-ayodhya-jorium",
+    "type": "village",
+    "name_en": "Jorium (Gram Panchayat Area)",
+    "name_hi": "Jorium (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224229"
+    ]
+  },
+  {
+    "id": "po-ayodhya-lalpur",
+    "type": "village",
+    "name_en": "Lalpur (Gram Panchayat Area)",
+    "name_hi": "Lalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224234"
+    ]
+  },
+  {
+    "id": "po-ayodhya-pausara",
+    "type": "village",
+    "name_en": "Pausara (Gram Panchayat Area)",
+    "name_hi": "Pausara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224234"
+    ]
+  },
+  {
+    "id": "po-ayodhya-rohiyawan",
+    "type": "village",
+    "name_en": "Rohiyawan (Gram Panchayat Area)",
+    "name_hi": "Rohiyawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224234"
+    ]
+  },
+  {
+    "id": "po-ayodhya-mumrej-nagar",
+    "type": "village",
+    "name_en": "Mumrej Nagar (Gram Panchayat Area)",
+    "name_hi": "Mumrej Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224207"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bhoya",
+    "type": "village",
+    "name_en": "Bhoya (Gram Panchayat Area)",
+    "name_hi": "Bhoya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224161"
+    ]
+  },
+  {
+    "id": "po-ayodhya-dalpatpur",
+    "type": "village",
+    "name_en": "Dalpatpur (Gram Panchayat Area)",
+    "name_hi": "Dalpatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224161"
+    ]
+  },
+  {
+    "id": "po-ayodhya-dilasiganj",
+    "type": "village",
+    "name_en": "Dilasiganj (Gram Panchayat Area)",
+    "name_hi": "Dilasiganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224161"
+    ]
+  },
+  {
+    "id": "po-ayodhya-jkic-arwat",
+    "type": "village",
+    "name_en": "JKIC  Arwat (Gram Panchayat Area)",
+    "name_hi": "JKIC  Arwat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224161"
+    ]
+  },
+  {
+    "id": "po-ayodhya-jarhi",
+    "type": "village",
+    "name_en": "Jarhi (Gram Panchayat Area)",
+    "name_hi": "Jarhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224161"
+    ]
+  },
+  {
+    "id": "po-ayodhya-rauwa-lohangpur",
+    "type": "village",
+    "name_en": "Rauwa Lohangpur (Gram Panchayat Area)",
+    "name_hi": "Rauwa Lohangpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224161"
+    ]
+  },
+  {
+    "id": "po-ayodhya-amraigaon",
+    "type": "village",
+    "name_en": "Amraigaon (Gram Panchayat Area)",
+    "name_hi": "Amraigaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224118"
+    ]
+  },
+  {
+    "id": "po-ayodhya-talgaon",
+    "type": "village",
+    "name_en": "Talgaon (Gram Panchayat Area)",
+    "name_hi": "Talgaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224118"
+    ]
+  },
+  {
+    "id": "po-ayodhya-umapur",
+    "type": "village",
+    "name_en": "Umapur (Gram Panchayat Area)",
+    "name_hi": "Umapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224118"
+    ]
+  },
+  {
+    "id": "po-ayodhya-chitaura",
+    "type": "village",
+    "name_en": "Chitaura (Gram Panchayat Area)",
+    "name_hi": "Chitaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224164"
+    ]
+  },
+  {
+    "id": "po-ayodhya-dhanaicha",
+    "type": "village",
+    "name_en": "Dhanaicha (Gram Panchayat Area)",
+    "name_hi": "Dhanaicha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224164"
+    ]
+  },
+  {
+    "id": "po-ayodhya-nimari",
+    "type": "village",
+    "name_en": "Nimari (Gram Panchayat Area)",
+    "name_hi": "Nimari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224164"
+    ]
+  },
+  {
+    "id": "po-ayodhya-barwa",
+    "type": "village",
+    "name_en": "Barwa (Gram Panchayat Area)",
+    "name_hi": "Barwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224182"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sanaha",
+    "type": "village",
+    "name_en": "Sanaha (Gram Panchayat Area)",
+    "name_hi": "Sanaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224182"
+    ]
+  },
+  {
+    "id": "po-ayodhya-aihar",
+    "type": "village",
+    "name_en": "Aihar (Gram Panchayat Area)",
+    "name_hi": "Aihar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224120"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bari",
+    "type": "village",
+    "name_en": "Bari (Gram Panchayat Area)",
+    "name_hi": "Bari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224120"
+    ]
+  },
+  {
+    "id": "po-ayodhya-ferozpur-makhdoomi",
+    "type": "village",
+    "name_en": "Ferozpur Makhdoomi (Gram Panchayat Area)",
+    "name_hi": "Ferozpur Makhdoomi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224120"
+    ]
+  },
+  {
+    "id": "po-ayodhya-astikaan",
+    "type": "village",
+    "name_en": "Astikaan (Gram Panchayat Area)",
+    "name_hi": "Astikaan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224284"
+    ]
+  },
+  {
+    "id": "po-ayodhya-khirauni",
+    "type": "village",
+    "name_en": "Khirauni (Gram Panchayat Area)",
+    "name_hi": "Khirauni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224188"
+    ]
+  },
+  {
+    "id": "po-ayodhya-magalsi",
+    "type": "village",
+    "name_en": "Magalsi (Gram Panchayat Area)",
+    "name_hi": "Magalsi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224188"
+    ]
+  },
+  {
+    "id": "po-ayodhya-barehta",
+    "type": "village",
+    "name_en": "Barehta (Gram Panchayat Area)",
+    "name_hi": "Barehta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224195"
+    ]
+  },
+  {
+    "id": "po-ayodhya-ghuritikar",
+    "type": "village",
+    "name_en": "Ghuritikar (Gram Panchayat Area)",
+    "name_hi": "Ghuritikar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224195"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sonaura-gaupur",
+    "type": "village",
+    "name_en": "Sonaura Gaupur (Gram Panchayat Area)",
+    "name_hi": "Sonaura Gaupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224195"
+    ]
+  },
+  {
+    "id": "po-ayodhya-mewapur",
+    "type": "village",
+    "name_en": "Mewapur (Gram Panchayat Area)",
+    "name_hi": "Mewapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224153"
+    ]
+  },
+  {
+    "id": "po-ayodhya-rasoolpur-lilha",
+    "type": "village",
+    "name_en": "Rasoolpur Lilha (Gram Panchayat Area)",
+    "name_hi": "Rasoolpur Lilha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224153"
+    ]
+  },
+  {
+    "id": "po-ayodhya-banghusara",
+    "type": "village",
+    "name_en": "Banghusara (Gram Panchayat Area)",
+    "name_hi": "Banghusara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224205"
+    ]
+  },
+  {
+    "id": "po-ayodhya-haiderganj",
+    "type": "village",
+    "name_en": "Haiderganj (Gram Panchayat Area)",
+    "name_hi": "Haiderganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224205"
+    ]
+  },
+  {
+    "id": "po-ayodhya-majnai",
+    "type": "village",
+    "name_en": "Majnai (Gram Panchayat Area)",
+    "name_hi": "Majnai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224158"
+    ]
+  },
+  {
+    "id": "po-ayodhya-seora",
+    "type": "village",
+    "name_en": "Seora (Gram Panchayat Area)",
+    "name_hi": "Seora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224158"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bawan",
+    "type": "village",
+    "name_en": "Bawan (Gram Panchayat Area)",
+    "name_hi": "Bawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224229"
+    ]
+  },
+  {
+    "id": "po-ayodhya-pithila",
+    "type": "village",
+    "name_en": "Pithila (Gram Panchayat Area)",
+    "name_hi": "Pithila (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224229"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sherawa-ghat",
+    "type": "village",
+    "name_en": "Sherawa Ghat (Gram Panchayat Area)",
+    "name_hi": "Sherawa Ghat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224234"
+    ]
+  },
+  {
+    "id": "po-ayodhya-asrewa",
+    "type": "village",
+    "name_en": "Asrewa (Gram Panchayat Area)",
+    "name_hi": "Asrewa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224207"
+    ]
+  },
+  {
+    "id": "po-ayodhya-neora",
+    "type": "village",
+    "name_en": "Neora (Gram Panchayat Area)",
+    "name_hi": "Neora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224117"
+    ]
+  },
+  {
+    "id": "po-ayodhya-seonrahara",
+    "type": "village",
+    "name_en": "Seonrahara (Gram Panchayat Area)",
+    "name_hi": "Seonrahara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224117"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bakarganj",
+    "type": "village",
+    "name_en": "Bakarganj (Gram Panchayat Area)",
+    "name_hi": "Bakarganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224161"
+    ]
+  },
+  {
+    "id": "po-ayodhya-benawa",
+    "type": "village",
+    "name_en": "Benawa (Gram Panchayat Area)",
+    "name_hi": "Benawa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224161"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sarai-sagar",
+    "type": "village",
+    "name_en": "Sarai Sagar (Gram Panchayat Area)",
+    "name_hi": "Sarai Sagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224161"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bihara",
+    "type": "village",
+    "name_en": "Bihara (Gram Panchayat Area)",
+    "name_hi": "Bihara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224118"
+    ]
+  },
+  {
+    "id": "po-ayodhya-dewait",
+    "type": "village",
+    "name_en": "Dewait (Gram Panchayat Area)",
+    "name_hi": "Dewait (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224118"
+    ]
+  },
+  {
+    "id": "po-ayodhya-mathanewada",
+    "type": "village",
+    "name_en": "Mathanewada (Gram Panchayat Area)",
+    "name_hi": "Mathanewada (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224118"
+    ]
+  },
+  {
+    "id": "po-ayodhya-saidpur",
+    "type": "village",
+    "name_en": "Saidpur (Gram Panchayat Area)",
+    "name_hi": "Saidpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224118"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sherpur",
+    "type": "village",
+    "name_en": "Sherpur (Gram Panchayat Area)",
+    "name_hi": "Sherpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224118"
+    ]
+  },
+  {
+    "id": "po-ayodhya-gokula",
+    "type": "village",
+    "name_en": "Gokula (Gram Panchayat Area)",
+    "name_hi": "Gokula (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224164"
+    ]
+  },
+  {
+    "id": "po-ayodhya-manjhanpur",
+    "type": "village",
+    "name_en": "Manjhanpur (Gram Panchayat Area)",
+    "name_hi": "Manjhanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224164"
+    ]
+  },
+  {
+    "id": "po-ayodhya-tendha-khurd",
+    "type": "village",
+    "name_en": "Tendha Khurd (Gram Panchayat Area)",
+    "name_hi": "Tendha Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224164"
+    ]
+  },
+  {
+    "id": "po-ayodhya-upadhyapur",
+    "type": "village",
+    "name_en": "Upadhyapur (Gram Panchayat Area)",
+    "name_hi": "Upadhyapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224164"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bankegaon",
+    "type": "village",
+    "name_en": "Bankegaon (Gram Panchayat Area)",
+    "name_hi": "Bankegaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224201"
+    ]
+  },
+  {
+    "id": "po-ayodhya-itaura",
+    "type": "village",
+    "name_en": "Itaura (Gram Panchayat Area)",
+    "name_hi": "Itaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224201"
+    ]
+  },
+  {
+    "id": "po-ayodhya-rampur-sardha",
+    "type": "village",
+    "name_en": "Rampur Sardha (Gram Panchayat Area)",
+    "name_hi": "Rampur Sardha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224201"
+    ]
+  },
+  {
+    "id": "po-ayodhya-pure-kamgar",
+    "type": "village",
+    "name_en": "Pure Kamgar (Gram Panchayat Area)",
+    "name_hi": "Pure Kamgar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224119"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sithauli",
+    "type": "village",
+    "name_en": "Sithauli (Gram Panchayat Area)",
+    "name_hi": "Sithauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224119"
+    ]
+  },
+  {
+    "id": "po-ayodhya-madna",
+    "type": "village",
+    "name_en": "Madna (Gram Panchayat Area)",
+    "name_hi": "Madna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224171"
+    ]
+  },
+  {
+    "id": "po-ayodhya-srai-rasi",
+    "type": "village",
+    "name_en": "Srai Rasi (Gram Panchayat Area)",
+    "name_hi": "Srai Rasi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224171"
+    ]
+  },
+  {
+    "id": "po-ayodhya-netwari-chaturpur",
+    "type": "village",
+    "name_en": "Netwari Chaturpur (Gram Panchayat Area)",
+    "name_hi": "Netwari Chaturpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224203"
+    ]
+  },
+  {
+    "id": "po-ayodhya-parsawan",
+    "type": "village",
+    "name_en": "Parsawan (Gram Panchayat Area)",
+    "name_hi": "Parsawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224203"
+    ]
+  },
+  {
+    "id": "po-ayodhya-taarun-blgara",
+    "type": "village",
+    "name_en": "Taarun Blgara (Gram Panchayat Area)",
+    "name_hi": "Taarun Blgara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224203"
+    ]
+  },
+  {
+    "id": "po-ayodhya-lakhauri",
+    "type": "village",
+    "name_en": "Lakhauri (Gram Panchayat Area)",
+    "name_hi": "Lakhauri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224182"
+    ]
+  },
+  {
+    "id": "po-ayodhya-shahpur",
+    "type": "village",
+    "name_en": "Shahpur (Gram Panchayat Area)",
+    "name_hi": "Shahpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224120"
+    ]
+  },
+  {
+    "id": "po-ayodhya-station-road-rudauli",
+    "type": "village",
+    "name_en": "Station Road Rudauli (Gram Panchayat Area)",
+    "name_hi": "Station Road Rudauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-rudauli",
+    "block_id": "rudauli",
+    "tehsil_id": "rudauli",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224120"
+    ]
+  },
+  {
+    "id": "po-ayodhya-ghurehta",
+    "type": "village",
+    "name_en": "Ghurehta (Gram Panchayat Area)",
+    "name_hi": "Ghurehta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224284"
+    ]
+  },
+  {
+    "id": "po-ayodhya-taksara",
+    "type": "village",
+    "name_en": "Taksara (Gram Panchayat Area)",
+    "name_hi": "Taksara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224284"
+    ]
+  },
+  {
+    "id": "po-ayodhya-arthar",
+    "type": "village",
+    "name_en": "Arthar (Gram Panchayat Area)",
+    "name_hi": "Arthar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224188"
+    ]
+  },
+  {
+    "id": "po-ayodhya-meerpur",
+    "type": "village",
+    "name_en": "Meerpur (Gram Panchayat Area)",
+    "name_hi": "Meerpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224188"
+    ]
+  },
+  {
+    "id": "po-ayodhya-moiyabegumganj",
+    "type": "village",
+    "name_en": "Moiyabegumganj (Gram Panchayat Area)",
+    "name_hi": "Moiyabegumganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224188"
+    ]
+  },
+  {
+    "id": "po-ayodhya-jaishingmau",
+    "type": "village",
+    "name_en": "Jaishingmau (Gram Panchayat Area)",
+    "name_hi": "Jaishingmau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224195"
+    ]
+  },
+  {
+    "id": "po-ayodhya-nuawan-baidara",
+    "type": "village",
+    "name_en": "Nuawan Baidara (Gram Panchayat Area)",
+    "name_hi": "Nuawan Baidara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224206"
+    ]
+  },
+  {
+    "id": "po-ayodhya-bakchuna",
+    "type": "village",
+    "name_en": "Bakchuna (Gram Panchayat Area)",
+    "name_hi": "Bakchuna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224153"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kotiya",
+    "type": "village",
+    "name_en": "Kotiya (Gram Panchayat Area)",
+    "name_hi": "Kotiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224153"
+    ]
+  },
+  {
+    "id": "po-ayodhya-palpur",
+    "type": "village",
+    "name_en": "Palpur (Gram Panchayat Area)",
+    "name_hi": "Palpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224153"
+    ]
+  },
+  {
+    "id": "po-ayodhya-rautawan",
+    "type": "village",
+    "name_en": "Rautawan (Gram Panchayat Area)",
+    "name_hi": "Rautawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224153"
+    ]
+  },
+  {
+    "id": "po-ayodhya-belarambagh",
+    "type": "village",
+    "name_en": "Belarambagh (Gram Panchayat Area)",
+    "name_hi": "Belarambagh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224205"
+    ]
+  },
+  {
+    "id": "po-ayodhya-dahema",
+    "type": "village",
+    "name_en": "Dahema (Gram Panchayat Area)",
+    "name_hi": "Dahema (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224205"
+    ]
+  },
+  {
+    "id": "po-ayodhya-teria",
+    "type": "village",
+    "name_en": "Teria (Gram Panchayat Area)",
+    "name_hi": "Teria (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224205"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kurawan",
+    "type": "village",
+    "name_en": "Kurawan (Gram Panchayat Area)",
+    "name_hi": "Kurawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224158"
+    ]
+  },
+  {
+    "id": "po-ayodhya-palia-jagmohan-singh",
+    "type": "village",
+    "name_en": "Palia Jagmohan Singh (Gram Panchayat Area)",
+    "name_hi": "Palia Jagmohan Singh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224158"
+    ]
+  },
+  {
+    "id": "po-ayodhya-tarauli",
+    "type": "village",
+    "name_en": "Tarauli (Gram Panchayat Area)",
+    "name_hi": "Tarauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224158"
+    ]
+  },
+  {
+    "id": "po-ayodhya-uchhahpali",
+    "type": "village",
+    "name_en": "Uchhahpali (Gram Panchayat Area)",
+    "name_hi": "Uchhahpali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224158"
+    ]
+  },
+  {
+    "id": "po-ayodhya-birauli",
+    "type": "village",
+    "name_en": "Birauli (Gram Panchayat Area)",
+    "name_hi": "Birauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224229"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sidhauna",
+    "type": "village",
+    "name_en": "Sidhauna (Gram Panchayat Area)",
+    "name_hi": "Sidhauna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224229"
+    ]
+  },
+  {
+    "id": "po-ayodhya-tindauli",
+    "type": "village",
+    "name_en": "Tindauli (Gram Panchayat Area)",
+    "name_hi": "Tindauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224229"
+    ]
+  },
+  {
+    "id": "po-ayodhya-basantpur",
+    "type": "village",
+    "name_en": "Basantpur (Gram Panchayat Area)",
+    "name_hi": "Basantpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224234"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sarai-khargi",
+    "type": "village",
+    "name_en": "Sarai Khargi (Gram Panchayat Area)",
+    "name_hi": "Sarai Khargi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224207"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sandawa",
+    "type": "village",
+    "name_en": "Sandawa (Gram Panchayat Area)",
+    "name_hi": "Sandawa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224117"
+    ]
+  },
+  {
+    "id": "po-ayodhya-balrampur",
+    "type": "village",
+    "name_en": "Balrampur (Gram Panchayat Area)",
+    "name_hi": "Balrampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224161"
+    ]
+  },
+  {
+    "id": "po-ayodhya-tandauli",
+    "type": "village",
+    "name_en": "Tandauli (Gram Panchayat Area)",
+    "name_hi": "Tandauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224161"
+    ]
+  },
+  {
+    "id": "po-ayodhya-chandramau",
+    "type": "village",
+    "name_en": "Chandramau (Gram Panchayat Area)",
+    "name_hi": "Chandramau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224118"
+    ]
+  },
+  {
+    "id": "po-ayodhya-hansrajpur",
+    "type": "village",
+    "name_en": "Hansrajpur (Gram Panchayat Area)",
+    "name_hi": "Hansrajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224118"
+    ]
+  },
+  {
+    "id": "po-ayodhya-saimsi",
+    "type": "village",
+    "name_en": "Saimsi (Gram Panchayat Area)",
+    "name_hi": "Saimsi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224118"
+    ]
+  },
+  {
+    "id": "po-ayodhya-sunba",
+    "type": "village",
+    "name_en": "Sunba (Gram Panchayat Area)",
+    "name_hi": "Sunba (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224118"
+    ]
+  },
+  {
+    "id": "po-ayodhya-lodhaura",
+    "type": "village",
+    "name_en": "Lodhaura (Gram Panchayat Area)",
+    "name_hi": "Lodhaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224118"
+    ]
+  },
+  {
+    "id": "po-ayodhya-ghatauli",
+    "type": "village",
+    "name_en": "Ghatauli (Gram Panchayat Area)",
+    "name_hi": "Ghatauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224164"
+    ]
+  },
+  {
+    "id": "po-ayodhya-marui-ganeshpur",
+    "type": "village",
+    "name_en": "Marui Ganeshpur (Gram Panchayat Area)",
+    "name_hi": "Marui Ganeshpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224164"
+    ]
+  },
+  {
+    "id": "po-ayodhya-ranapur",
+    "type": "village",
+    "name_en": "Ranapur (Gram Panchayat Area)",
+    "name_hi": "Ranapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224164"
+    ]
+  },
+  {
+    "id": "po-ayodhya-dasauli",
+    "type": "village",
+    "name_en": "Dasauli (Gram Panchayat Area)",
+    "name_hi": "Dasauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224201"
+    ]
+  },
+  {
+    "id": "po-ayodhya-jakhauli",
+    "type": "village",
+    "name_en": "Jakhauli (Gram Panchayat Area)",
+    "name_hi": "Jakhauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224119"
+    ]
+  },
+  {
+    "id": "po-ayodhya-rani-mau-bhatthi",
+    "type": "village",
+    "name_en": "Rani Mau Bhatthi (Gram Panchayat Area)",
+    "name_hi": "Rani Mau Bhatthi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224119"
+    ]
+  },
+  {
+    "id": "po-ayodhya-janapur",
+    "type": "village",
+    "name_en": "Janapur (Gram Panchayat Area)",
+    "name_hi": "Janapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224171"
+    ]
+  },
+  {
+    "id": "po-ayodhya-nawada",
+    "type": "village",
+    "name_en": "Nawada (Gram Panchayat Area)",
+    "name_hi": "Nawada (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224182"
+    ]
+  },
+  {
+    "id": "po-ayodhya-tanda-sufi",
+    "type": "village",
+    "name_en": "Tanda Sufi (Gram Panchayat Area)",
+    "name_hi": "Tanda Sufi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224120"
+    ]
+  },
+  {
+    "id": "po-ayodhya-dhema-vaish",
+    "type": "village",
+    "name_en": "Dhema Vaish (Gram Panchayat Area)",
+    "name_hi": "Dhema Vaish (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224284"
+    ]
+  },
+  {
+    "id": "po-ayodhya-mubarakpur-umarni",
+    "type": "village",
+    "name_en": "Mubarakpur Umarni (Gram Panchayat Area)",
+    "name_hi": "Mubarakpur Umarni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224284"
+    ]
+  },
+  {
+    "id": "po-ayodhya-majnawa",
+    "type": "village",
+    "name_en": "Majnawa (Gram Panchayat Area)",
+    "name_hi": "Majnawa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224188"
+    ]
+  },
+  {
+    "id": "po-ayodhya-panditpur",
+    "type": "village",
+    "name_en": "Panditpur (Gram Panchayat Area)",
+    "name_hi": "Panditpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224188"
+    ]
+  },
+  {
+    "id": "po-ayodhya-kakauli",
+    "type": "village",
+    "name_en": "Kakauli (Gram Panchayat Area)",
+    "name_hi": "Kakauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masodha",
+    "block_id": "masodha",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "224195"
+    ]
+  },
+  {
+    "id": "ward-ayodhya-nigam",
+    "type": "ward",
+    "name_en": "Ayodhya Municipal Corporation (All Wards)",
+    "name_hi": "अयोध्या नगर निगम (सभी वार्ड)",
+    "ulb_id": "ayodhya",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam"
+  },
+  {
+    "id": "ward-ayodhya-ulb-ayodhya-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Ayodhya (All Wards)",
+    "name_hi": "अयोध्या नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-ayodhya-faizabad",
+    "type": "ward",
+    "name_en": "Faizabad (Urban Ward / SO)",
+    "name_hi": "Faizabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "town-ayodhya-achhora",
+    "type": "ward",
+    "name_en": "Achhora (Urban Ward / SO)",
+    "name_hi": "Achhora (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224225"
+    ]
+  },
+  {
+    "id": "town-ayodhya-amaniganj",
+    "type": "ward",
+    "name_en": "Amaniganj (Urban Ward / SO)",
+    "name_hi": "Amaniganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224121"
+    ]
+  },
+  {
+    "id": "town-ayodhya-ayodhya-rs",
+    "type": "ward",
+    "name_en": "Ayodhya RS (Urban Ward / SO)",
+    "name_hi": "Ayodhya RS (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224123"
+    ]
+  },
+  {
+    "id": "town-ayodhya-barun-so-ambedkar-nagar",
+    "type": "ward",
+    "name_en": "Barun SO Ambedkar Nagar (Urban Ward / SO)",
+    "name_hi": "Barun SO Ambedkar Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224127"
+    ]
+  },
+  {
+    "id": "town-ayodhya-bhilsar",
+    "type": "ward",
+    "name_en": "Bhilsar (Urban Ward / SO)",
+    "name_hi": "Bhilsar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224116"
+    ]
+  },
+  {
+    "id": "town-ayodhya-dabha-samer",
+    "type": "ward",
+    "name_en": "Dabha Samer (Urban Ward / SO)",
+    "name_hi": "Dabha Samer (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224133"
+    ]
+  },
+  {
+    "id": "town-ayodhya-faizabad-rs",
+    "type": "ward",
+    "name_en": "Faizabad RS (Urban Ward / SO)",
+    "name_hi": "Faizabad RS (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "town-ayodhya-fatehganj",
+    "type": "ward",
+    "name_en": "Fatehganj (Urban Ward / SO)",
+    "name_hi": "Fatehganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "town-ayodhya-acharya-nagar",
+    "type": "ward",
+    "name_en": "Acharya Nagar (Urban Ward / SO)",
+    "name_hi": "Acharya Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "town-ayodhya-baragaon-rs",
+    "type": "ward",
+    "name_en": "Baragaon RS (Urban Ward / SO)",
+    "name_hi": "Baragaon RS (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224126"
+    ]
+  },
+  {
+    "id": "town-ayodhya-dharamarg",
+    "type": "ward",
+    "name_en": "Dharamarg (Urban Ward / SO)",
+    "name_hi": "Dharamarg (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "town-ayodhya-faizabad-cantt",
+    "type": "ward",
+    "name_en": "Faizabad Cantt (Urban Ward / SO)",
+    "name_hi": "Faizabad Cantt (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "town-ayodhya-faizabad-kutchery",
+    "type": "ward",
+    "name_en": "Faizabad Kutchery (Urban Ward / SO)",
+    "name_hi": "Faizabad Kutchery (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "town-ayodhya-kandhari-bazar",
+    "type": "ward",
+    "name_en": "Kandhari Bazar (Urban Ward / SO)",
+    "name_hi": "Kandhari Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "town-ayodhya-kuchera",
+    "type": "ward",
+    "name_en": "Kuchera (Urban Ward / SO)",
+    "name_hi": "Kuchera (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224158"
+    ]
+  },
+  {
+    "id": "town-ayodhya-kumarganj",
+    "type": "ward",
+    "name_en": "Kumarganj (Urban Ward / SO)",
+    "name_hi": "Kumarganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224229"
+    ]
+  },
+  {
+    "id": "town-ayodhya-ayodhya",
+    "type": "ward",
+    "name_en": "Ayodhya (Urban Ward / SO)",
+    "name_hi": "Ayodhya (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224123"
+    ]
+  },
+  {
+    "id": "town-ayodhya-bharatkund",
+    "type": "ward",
+    "name_en": "Bharatkund (Urban Ward / SO)",
+    "name_hi": "Bharatkund (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224202"
+    ]
+  },
+  {
+    "id": "town-ayodhya-deorhi",
+    "type": "ward",
+    "name_en": "Deorhi (Urban Ward / SO)",
+    "name_hi": "Deorhi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224189"
+    ]
+  },
+  {
+    "id": "town-ayodhya-faizabad-city",
+    "type": "ward",
+    "name_en": "Faizabad City (Urban Ward / SO)",
+    "name_hi": "Faizabad City (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "town-ayodhya-goshaiganj",
+    "type": "ward",
+    "name_en": "Goshaiganj (Urban Ward / SO)",
+    "name_hi": "Goshaiganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224141"
+    ]
+  },
+  {
+    "id": "town-ayodhya-harringtonganj",
+    "type": "ward",
+    "name_en": "Harringtonganj (Urban Ward / SO)",
+    "name_hi": "Harringtonganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224208"
+    ]
+  },
+  {
+    "id": "town-ayodhya-khajurahat",
+    "type": "ward",
+    "name_en": "Khajurahat (Urban Ward / SO)",
+    "name_hi": "Khajurahat (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224206"
+    ]
+  },
+  {
+    "id": "town-ayodhya-majurddinpur",
+    "type": "ward",
+    "name_en": "Majurddinpur (Urban Ward / SO)",
+    "name_hi": "Majurddinpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224207"
+    ]
+  },
+  {
+    "id": "town-ayodhya-motibagah",
+    "type": "ward",
+    "name_en": "Motibagah (Urban Ward / SO)",
+    "name_hi": "Motibagah (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "town-ayodhya-maya",
+    "type": "ward",
+    "name_en": "Maya (Urban Ward / SO)",
+    "name_hi": "Maya (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224161"
+    ]
+  },
+  {
+    "id": "town-ayodhya-meermau",
+    "type": "ward",
+    "name_en": "Meermau (Urban Ward / SO)",
+    "name_hi": "Meermau (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224118"
+    ]
+  },
+  {
+    "id": "town-ayodhya-milkipur",
+    "type": "ward",
+    "name_en": "Milkipur (Urban Ward / SO)",
+    "name_hi": "Milkipur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224164"
+    ]
+  },
+  {
+    "id": "town-ayodhya-niywan",
+    "type": "ward",
+    "name_en": "Niywan (Urban Ward / SO)",
+    "name_hi": "Niywan (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "town-ayodhya-patranga-rs",
+    "type": "ward",
+    "name_en": "Patranga RS (Urban Ward / SO)",
+    "name_hi": "Patranga RS (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224119"
+    ]
+  },
+  {
+    "id": "town-ayodhya-bikapur",
+    "type": "ward",
+    "name_en": "Bikapur (Urban Ward / SO)",
+    "name_hi": "Bikapur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224204"
+    ]
+  },
+  {
+    "id": "town-ayodhya-chaurebazar",
+    "type": "ward",
+    "name_en": "Chaurebazar (Urban Ward / SO)",
+    "name_hi": "Chaurebazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224209"
+    ]
+  },
+  {
+    "id": "town-ayodhya-darshan-nagar",
+    "type": "ward",
+    "name_en": "Darshan Nagar (Urban Ward / SO)",
+    "name_hi": "Darshan Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224135"
+    ]
+  },
+  {
+    "id": "town-ayodhya-inayatnagar",
+    "type": "ward",
+    "name_en": "Inayatnagar (Urban Ward / SO)",
+    "name_hi": "Inayatnagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224228"
+    ]
+  },
+  {
+    "id": "town-ayodhya-janpad-chikitsalaya",
+    "type": "ward",
+    "name_en": "Janpad Chikitsalaya (Urban Ward / SO)",
+    "name_hi": "Janpad Chikitsalaya (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "town-ayodhya-khandasa",
+    "type": "ward",
+    "name_en": "Khandasa (Urban Ward / SO)",
+    "name_hi": "Khandasa (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224153"
+    ]
+  },
+  {
+    "id": "town-ayodhya-khapradih",
+    "type": "ward",
+    "name_en": "Khapradih (Urban Ward / SO)",
+    "name_hi": "Khapradih (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224205"
+    ]
+  },
+  {
+    "id": "town-ayodhya-raunahi",
+    "type": "ward",
+    "name_en": "Raunahi (Urban Ward / SO)",
+    "name_hi": "Raunahi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224182"
+    ]
+  },
+  {
+    "id": "town-ayodhya-rudauli",
+    "type": "ward",
+    "name_en": "Rudauli (Urban Ward / SO)",
+    "name_hi": "Rudauli (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224120"
+    ]
+  },
+  {
+    "id": "town-ayodhya-sahebganj",
+    "type": "ward",
+    "name_en": "Sahebganj (Urban Ward / SO)",
+    "name_hi": "Sahebganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "town-ayodhya-sohawal-rs",
+    "type": "ward",
+    "name_en": "Sohawal RS (Urban Ward / SO)",
+    "name_hi": "Sohawal RS (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224188"
+    ]
+  },
+  {
+    "id": "town-ayodhya-terhi-bazar",
+    "type": "ward",
+    "name_en": "Terhi Bazar (Urban Ward / SO)",
+    "name_hi": "Terhi Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224123"
+    ]
+  },
+  {
+    "id": "town-ayodhya-tikari",
+    "type": "ward",
+    "name_en": "Tikari (Urban Ward / SO)",
+    "name_hi": "Tikari (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224195"
+    ]
+  },
+  {
+    "id": "town-ayodhya-mahboobganj",
+    "type": "ward",
+    "name_en": "Mahboobganj (Urban Ward / SO)",
+    "name_hi": "Mahboobganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224234"
+    ]
+  },
+  {
+    "id": "town-ayodhya-mandi-samiti",
+    "type": "ward",
+    "name_en": "Mandi Samiti (Urban Ward / SO)",
+    "name_hi": "Mandi Samiti (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "town-ayodhya-motinagar",
+    "type": "ward",
+    "name_en": "Motinagar (Urban Ward / SO)",
+    "name_hi": "Motinagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224201"
+    ]
+  },
+  {
+    "id": "town-ayodhya-purah",
+    "type": "ward",
+    "name_en": "Purah (Urban Ward / SO)",
+    "name_hi": "Purah (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224171"
+    ]
+  },
+  {
+    "id": "town-ayodhya-rampur-bhagan",
+    "type": "ward",
+    "name_en": "Rampur Bhagan (Urban Ward / SO)",
+    "name_hi": "Rampur Bhagan (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224203"
+    ]
+  },
+  {
+    "id": "town-ayodhya-sadar-bazar",
+    "type": "ward",
+    "name_en": "Sadar Bazar (Urban Ward / SO)",
+    "name_hi": "Sadar Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "town-ayodhya-shahganj",
+    "type": "ward",
+    "name_en": "Shahganj (Urban Ward / SO)",
+    "name_hi": "Shahganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224284"
+    ]
+  },
+  {
+    "id": "town-ayodhya-ramkot",
+    "type": "ward",
+    "name_en": "Ramkot (Urban Ward / SO)",
+    "name_hi": "Ramkot (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224123"
+    ]
+  },
+  {
+    "id": "town-ayodhya-ramnagar-colony",
+    "type": "ward",
+    "name_en": "Ramnagar Colony (Urban Ward / SO)",
+    "name_hi": "Ramnagar Colony (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "town-ayodhya-lalbagh",
+    "type": "ward",
+    "name_en": "Lalbagh (Urban Ward / SO)",
+    "name_hi": "Lalbagh (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224001"
+    ]
+  },
+  {
+    "id": "town-ayodhya-mawai",
+    "type": "ward",
+    "name_en": "Mawai (Urban Ward / SO)",
+    "name_hi": "Mawai (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-ayodhya-main",
+    "tehsil_id": "sadar",
+    "district_id": "ayodhya",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "224117"
+    ]
+  }
+]

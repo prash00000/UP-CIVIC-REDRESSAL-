@@ -1,0 +1,5149 @@
+[
+  {
+    "id": "v-barabanki-banki",
+    "type": "village",
+    "name_en": "Banki Block (Gram Panchayats)",
+    "name_hi": "Banki विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-barabanki-masauli",
+    "type": "village",
+    "name_en": "Masauli Block (Gram Panchayats)",
+    "name_hi": "Masauli विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-masauli",
+    "block_id": "masauli",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-barabanki-dewan",
+    "type": "village",
+    "name_en": "Dewan Block (Gram Panchayats)",
+    "name_hi": "Dewan विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dewan",
+    "block_id": "dewan",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-barabanki-fatehpur",
+    "type": "village",
+    "name_en": "Fatehpur Block (Gram Panchayats)",
+    "name_hi": "Fatehpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-fatehpur",
+    "block_id": "fatehpur",
+    "tehsil_id": "fatehpur",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-barabanki-nindoora",
+    "type": "village",
+    "name_en": "Nindoora Block (Gram Panchayats)",
+    "name_hi": "Nindoora विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-nindoora",
+    "block_id": "nindoora",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-barabanki-ramnagar",
+    "type": "village",
+    "name_en": "Ramnagar Block (Gram Panchayats)",
+    "name_hi": "Ramnagar विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-ramnagar",
+    "block_id": "ramnagar",
+    "tehsil_id": "ramnagar",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-barabanki-sirauli-ghauspur",
+    "type": "village",
+    "name_en": "Sirauli Ghauspur Block (Gram Panchayats)",
+    "name_hi": "Sirauli Ghauspur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sirauli-ghauspur",
+    "block_id": "sirauli-ghauspur",
+    "tehsil_id": "sirauli-ghauspur",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-barabanki-dariyabad",
+    "type": "village",
+    "name_en": "Dariyabad Block (Gram Panchayats)",
+    "name_hi": "Dariyabad विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dariyabad",
+    "block_id": "dariyabad",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-barabanki-suratganj",
+    "type": "village",
+    "name_en": "Suratganj Block (Gram Panchayats)",
+    "name_hi": "Suratganj विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-suratganj",
+    "block_id": "suratganj",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-barabanki-rudauli",
+    "type": "village",
+    "name_en": "Rudauli Block (Gram Panchayats)",
+    "name_hi": "Rudauli विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-rudauli",
+    "block_id": "rudauli",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-barabanki-bani-kodar",
+    "type": "village",
+    "name_en": "Bani Kodar Block (Gram Panchayats)",
+    "name_hi": "Bani Kodar विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bani-kodar",
+    "block_id": "bani-kodar",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-barabanki-haidergarh",
+    "type": "village",
+    "name_en": "Haidergarh Block (Gram Panchayats)",
+    "name_hi": "Haidergarh विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-haidergarh",
+    "block_id": "haidergarh",
+    "tehsil_id": "haidergarh",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-barabanki-siddhaur",
+    "type": "village",
+    "name_en": "Siddhaur Block (Gram Panchayats)",
+    "name_hi": "Siddhaur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-siddhaur",
+    "block_id": "siddhaur",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-barabanki-trivediganj",
+    "type": "village",
+    "name_en": "Trivediganj Block (Gram Panchayats)",
+    "name_hi": "Trivediganj विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-trivediganj",
+    "block_id": "trivediganj",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-barabanki-harakh",
+    "type": "village",
+    "name_en": "Harakh Block (Gram Panchayats)",
+    "name_hi": "Harakh विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-harakh",
+    "block_id": "harakh",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-barabanki-rasauli",
+    "type": "village",
+    "name_en": "Rasauli (Gram Panchayat Area)",
+    "name_hi": "Rasauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225001"
+    ]
+  },
+  {
+    "id": "po-barabanki-ram-van-kuteer",
+    "type": "village",
+    "name_en": "Ram Van Kuteer (Gram Panchayat Area)",
+    "name_hi": "Ram Van Kuteer (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225001"
+    ]
+  },
+  {
+    "id": "po-barabanki-badshahnagar",
+    "type": "village",
+    "name_en": "Badshahnagar (Gram Panchayat Area)",
+    "name_hi": "Badshahnagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225401"
+    ]
+  },
+  {
+    "id": "po-barabanki-chirra",
+    "type": "village",
+    "name_en": "Chirra (Gram Panchayat Area)",
+    "name_hi": "Chirra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225401"
+    ]
+  },
+  {
+    "id": "po-barabanki-sarai-barai",
+    "type": "village",
+    "name_en": "Sarai Barai (Gram Panchayat Area)",
+    "name_hi": "Sarai Barai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225401"
+    ]
+  },
+  {
+    "id": "po-barabanki-kheorajpur",
+    "type": "village",
+    "name_en": "Kheorajpur (Gram Panchayat Area)",
+    "name_hi": "Kheorajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225416"
+    ]
+  },
+  {
+    "id": "po-barabanki-tikariya-saidkhanpur",
+    "type": "village",
+    "name_en": "Tikariya Saidkhanpur (Gram Panchayat Area)",
+    "name_hi": "Tikariya Saidkhanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225416"
+    ]
+  },
+  {
+    "id": "po-barabanki-banarki",
+    "type": "village",
+    "name_en": "Banarki (Gram Panchayat Area)",
+    "name_hi": "Banarki (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225201"
+    ]
+  },
+  {
+    "id": "po-barabanki-bhitauli",
+    "type": "village",
+    "name_en": "Bhitauli (Gram Panchayat Area)",
+    "name_hi": "Bhitauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225201"
+    ]
+  },
+  {
+    "id": "po-barabanki-lodhaura",
+    "type": "village",
+    "name_en": "Lodhaura (Gram Panchayat Area)",
+    "name_hi": "Lodhaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225201"
+    ]
+  },
+  {
+    "id": "po-barabanki-mallapur",
+    "type": "village",
+    "name_en": "Mallapur (Gram Panchayat Area)",
+    "name_hi": "Mallapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225201"
+    ]
+  },
+  {
+    "id": "po-barabanki-sirauli-kalan",
+    "type": "village",
+    "name_en": "Sirauli Kalan (Gram Panchayat Area)",
+    "name_hi": "Sirauli Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225202"
+    ]
+  },
+  {
+    "id": "po-barabanki-telwari",
+    "type": "village",
+    "name_en": "Telwari (Gram Panchayat Area)",
+    "name_hi": "Telwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225202"
+    ]
+  },
+  {
+    "id": "po-barabanki-telyani",
+    "type": "village",
+    "name_en": "Telyani (Gram Panchayat Area)",
+    "name_hi": "Telyani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225202"
+    ]
+  },
+  {
+    "id": "po-barabanki-imliha",
+    "type": "village",
+    "name_en": "Imliha (Gram Panchayat Area)",
+    "name_hi": "Imliha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225403"
+    ]
+  },
+  {
+    "id": "po-barabanki-tarapur",
+    "type": "village",
+    "name_en": "Tarapur (Gram Panchayat Area)",
+    "name_hi": "Tarapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225403"
+    ]
+  },
+  {
+    "id": "po-barabanki-neoli-danapur",
+    "type": "village",
+    "name_en": "Neoli Danapur (Gram Panchayat Area)",
+    "name_hi": "Neoli Danapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225404"
+    ]
+  },
+  {
+    "id": "po-barabanki-gheri",
+    "type": "village",
+    "name_en": "Gheri (Gram Panchayat Area)",
+    "name_hi": "Gheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-harrai",
+    "type": "village",
+    "name_en": "Harrai (Gram Panchayat Area)",
+    "name_hi": "Harrai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-sarsaundi",
+    "type": "village",
+    "name_en": "Sarsaundi (Gram Panchayat Area)",
+    "name_hi": "Sarsaundi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-tera-kalan",
+    "type": "village",
+    "name_en": "Tera Kalan (Gram Panchayat Area)",
+    "name_hi": "Tera Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-ukhari",
+    "type": "village",
+    "name_en": "Ukhari (Gram Panchayat Area)",
+    "name_hi": "Ukhari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-bhitauli-kalan",
+    "type": "village",
+    "name_en": "Bhitauli Kalan (Gram Panchayat Area)",
+    "name_hi": "Bhitauli Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225003"
+    ]
+  },
+  {
+    "id": "po-barabanki-gadia",
+    "type": "village",
+    "name_en": "Gadia (Gram Panchayat Area)",
+    "name_hi": "Gadia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225003"
+    ]
+  },
+  {
+    "id": "po-barabanki-tindola",
+    "type": "village",
+    "name_en": "Tindola (Gram Panchayat Area)",
+    "name_hi": "Tindola (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225003"
+    ]
+  },
+  {
+    "id": "po-barabanki-kanwan",
+    "type": "village",
+    "name_en": "Kanwan (Gram Panchayat Area)",
+    "name_hi": "Kanwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "po-barabanki-khanpur",
+    "type": "village",
+    "name_en": "Khanpur (Gram Panchayat Area)",
+    "name_hi": "Khanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "po-barabanki-kharsatiya",
+    "type": "village",
+    "name_en": "Kharsatiya (Gram Panchayat Area)",
+    "name_hi": "Kharsatiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "po-barabanki-lahi",
+    "type": "village",
+    "name_en": "Lahi (Gram Panchayat Area)",
+    "name_hi": "Lahi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "po-barabanki-lohangpur",
+    "type": "village",
+    "name_en": "Lohangpur (Gram Panchayat Area)",
+    "name_hi": "Lohangpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "po-barabanki-ratauli",
+    "type": "village",
+    "name_en": "Ratauli (Gram Panchayat Area)",
+    "name_hi": "Ratauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "po-barabanki-bhanauli",
+    "type": "village",
+    "name_en": "Bhanauli (Gram Panchayat Area)",
+    "name_hi": "Bhanauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225121"
+    ]
+  },
+  {
+    "id": "po-barabanki-bhanmau",
+    "type": "village",
+    "name_en": "Bhanmau (Gram Panchayat Area)",
+    "name_hi": "Bhanmau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225121"
+    ]
+  },
+  {
+    "id": "po-barabanki-birahimabad",
+    "type": "village",
+    "name_en": "Birahimabad (Gram Panchayat Area)",
+    "name_hi": "Birahimabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225121"
+    ]
+  },
+  {
+    "id": "po-barabanki-daravpur",
+    "type": "village",
+    "name_en": "Daravpur (Gram Panchayat Area)",
+    "name_hi": "Daravpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225121"
+    ]
+  },
+  {
+    "id": "po-barabanki-sanauli",
+    "type": "village",
+    "name_en": "Sanauli (Gram Panchayat Area)",
+    "name_hi": "Sanauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225405"
+    ]
+  },
+  {
+    "id": "po-barabanki-thorthia",
+    "type": "village",
+    "name_en": "Thorthia (Gram Panchayat Area)",
+    "name_hi": "Thorthia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225405"
+    ]
+  },
+  {
+    "id": "po-barabanki-darhara",
+    "type": "village",
+    "name_en": "Darhara (Gram Panchayat Area)",
+    "name_hi": "Darhara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225203"
+    ]
+  },
+  {
+    "id": "po-barabanki-dayalpur",
+    "type": "village",
+    "name_en": "Dayalpur (Gram Panchayat Area)",
+    "name_hi": "Dayalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225119"
+    ]
+  },
+  {
+    "id": "po-barabanki-inayatpur",
+    "type": "village",
+    "name_en": "Inayatpur (Gram Panchayat Area)",
+    "name_hi": "Inayatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225119"
+    ]
+  },
+  {
+    "id": "po-barabanki-anwari",
+    "type": "village",
+    "name_en": "Anwari (Gram Panchayat Area)",
+    "name_hi": "Anwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225302"
+    ]
+  },
+  {
+    "id": "po-barabanki-atahara",
+    "type": "village",
+    "name_en": "Atahara (Gram Panchayat Area)",
+    "name_hi": "Atahara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225302"
+    ]
+  },
+  {
+    "id": "po-barabanki-darawan",
+    "type": "village",
+    "name_en": "Darawan (Gram Panchayat Area)",
+    "name_hi": "Darawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225302"
+    ]
+  },
+  {
+    "id": "po-barabanki-gariya-bazar",
+    "type": "village",
+    "name_en": "Gariya Bazar (Gram Panchayat Area)",
+    "name_hi": "Gariya Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225302"
+    ]
+  },
+  {
+    "id": "po-barabanki-dharoopur",
+    "type": "village",
+    "name_en": "Dharoopur (Gram Panchayat Area)",
+    "name_hi": "Dharoopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225416"
+    ]
+  },
+  {
+    "id": "po-barabanki-gajpatipur",
+    "type": "village",
+    "name_en": "Gajpatipur (Gram Panchayat Area)",
+    "name_hi": "Gajpatipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225416"
+    ]
+  },
+  {
+    "id": "po-barabanki-jarauli",
+    "type": "village",
+    "name_en": "Jarauli (Gram Panchayat Area)",
+    "name_hi": "Jarauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225416"
+    ]
+  },
+  {
+    "id": "po-barabanki-jargawan",
+    "type": "village",
+    "name_en": "Jargawan (Gram Panchayat Area)",
+    "name_hi": "Jargawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225416"
+    ]
+  },
+  {
+    "id": "po-barabanki-semrai",
+    "type": "village",
+    "name_en": "Semrai (Gram Panchayat Area)",
+    "name_hi": "Semrai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225202"
+    ]
+  },
+  {
+    "id": "po-barabanki-ismailpur",
+    "type": "village",
+    "name_en": "Ismailpur (Gram Panchayat Area)",
+    "name_hi": "Ismailpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-jaruwa",
+    "type": "village",
+    "name_en": "Jaruwa (Gram Panchayat Area)",
+    "name_hi": "Jaruwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-malookpur",
+    "type": "village",
+    "name_en": "Malookpur (Gram Panchayat Area)",
+    "name_hi": "Malookpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-mittai",
+    "type": "village",
+    "name_en": "Mittai (Gram Panchayat Area)",
+    "name_hi": "Mittai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-muradabad",
+    "type": "village",
+    "name_en": "Muradabad (Gram Panchayat Area)",
+    "name_hi": "Muradabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-peend",
+    "type": "village",
+    "name_en": "Peend (Gram Panchayat Area)",
+    "name_hi": "Peend (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-aseni",
+    "type": "village",
+    "name_en": "Aseni (Gram Panchayat Area)",
+    "name_hi": "Aseni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225003"
+    ]
+  },
+  {
+    "id": "po-barabanki-basti",
+    "type": "village",
+    "name_en": "Basti (Gram Panchayat Area)",
+    "name_hi": "Basti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225003"
+    ]
+  },
+  {
+    "id": "po-barabanki-ansari",
+    "type": "village",
+    "name_en": "Ansari (Gram Panchayat Area)",
+    "name_hi": "Ansari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "po-barabanki-beejapur",
+    "type": "village",
+    "name_en": "Beejapur (Gram Panchayat Area)",
+    "name_hi": "Beejapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "po-barabanki-thalwara",
+    "type": "village",
+    "name_en": "Thalwara (Gram Panchayat Area)",
+    "name_hi": "Thalwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "po-barabanki-umrawal-kirsia",
+    "type": "village",
+    "name_en": "Umrawal Kirsia (Gram Panchayat Area)",
+    "name_hi": "Umrawal Kirsia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "po-barabanki-manpur",
+    "type": "village",
+    "name_en": "Manpur (Gram Panchayat Area)",
+    "name_hi": "Manpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225121"
+    ]
+  },
+  {
+    "id": "po-barabanki-nanmau",
+    "type": "village",
+    "name_en": "Nanmau (Gram Panchayat Area)",
+    "name_hi": "Nanmau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225121"
+    ]
+  },
+  {
+    "id": "po-barabanki-neoli",
+    "type": "village",
+    "name_en": "Neoli (Gram Panchayat Area)",
+    "name_hi": "Neoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225121"
+    ]
+  },
+  {
+    "id": "po-barabanki-ghazipur",
+    "type": "village",
+    "name_en": "Ghazipur (Gram Panchayat Area)",
+    "name_hi": "Ghazipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225405"
+    ]
+  },
+  {
+    "id": "po-barabanki-hunsepur",
+    "type": "village",
+    "name_en": "Hunsepur (Gram Panchayat Area)",
+    "name_hi": "Hunsepur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225405"
+    ]
+  },
+  {
+    "id": "po-barabanki-jariyari",
+    "type": "village",
+    "name_en": "Jariyari (Gram Panchayat Area)",
+    "name_hi": "Jariyari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225405"
+    ]
+  },
+  {
+    "id": "po-barabanki-bibiapur",
+    "type": "village",
+    "name_en": "Bibiapur (Gram Panchayat Area)",
+    "name_hi": "Bibiapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225119"
+    ]
+  },
+  {
+    "id": "po-barabanki-ghunghter",
+    "type": "village",
+    "name_en": "Ghunghter (Gram Panchayat Area)",
+    "name_hi": "Ghunghter (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225302"
+    ]
+  },
+  {
+    "id": "po-barabanki-nindoora",
+    "type": "village",
+    "name_en": "Nindoora (Gram Panchayat Area)",
+    "name_hi": "Nindoora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-nindoora",
+    "block_id": "nindoora",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225302"
+    ]
+  },
+  {
+    "id": "po-barabanki-pandari",
+    "type": "village",
+    "name_en": "Pandari (Gram Panchayat Area)",
+    "name_hi": "Pandari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225302"
+    ]
+  },
+  {
+    "id": "po-barabanki-rasoolpur",
+    "type": "village",
+    "name_en": "Rasoolpur (Gram Panchayat Area)",
+    "name_hi": "Rasoolpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225302"
+    ]
+  },
+  {
+    "id": "po-barabanki-sirsaipur",
+    "type": "village",
+    "name_en": "Sirsaipur (Gram Panchayat Area)",
+    "name_hi": "Sirsaipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225302"
+    ]
+  },
+  {
+    "id": "po-barabanki-shahabpur",
+    "type": "village",
+    "name_en": "Shahabpur (Gram Panchayat Area)",
+    "name_hi": "Shahabpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225001"
+    ]
+  },
+  {
+    "id": "po-barabanki-khetasarai",
+    "type": "village",
+    "name_en": "Khetasarai (Gram Panchayat Area)",
+    "name_hi": "Khetasarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225401"
+    ]
+  },
+  {
+    "id": "po-barabanki-puredalai",
+    "type": "village",
+    "name_en": "Puredalai (Gram Panchayat Area)",
+    "name_hi": "Puredalai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225401"
+    ]
+  },
+  {
+    "id": "po-barabanki-dhanauli",
+    "type": "village",
+    "name_en": "Dhanauli (Gram Panchayat Area)",
+    "name_hi": "Dhanauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225416"
+    ]
+  },
+  {
+    "id": "po-barabanki-motikpur",
+    "type": "village",
+    "name_en": "Motikpur (Gram Panchayat Area)",
+    "name_hi": "Motikpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225416"
+    ]
+  },
+  {
+    "id": "po-barabanki-poore-chandraman",
+    "type": "village",
+    "name_en": "Poore Chandraman (Gram Panchayat Area)",
+    "name_hi": "Poore Chandraman (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225416"
+    ]
+  },
+  {
+    "id": "po-barabanki-nahamau",
+    "type": "village",
+    "name_en": "Nahamau (Gram Panchayat Area)",
+    "name_hi": "Nahamau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225202"
+    ]
+  },
+  {
+    "id": "po-barabanki-khutauli",
+    "type": "village",
+    "name_en": "Khutauli (Gram Panchayat Area)",
+    "name_hi": "Khutauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225403"
+    ]
+  },
+  {
+    "id": "po-barabanki-kusfar",
+    "type": "village",
+    "name_en": "Kusfar (Gram Panchayat Area)",
+    "name_hi": "Kusfar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225403"
+    ]
+  },
+  {
+    "id": "po-barabanki-patulki",
+    "type": "village",
+    "name_en": "Patulki (Gram Panchayat Area)",
+    "name_hi": "Patulki (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225404"
+    ]
+  },
+  {
+    "id": "po-barabanki-bishunpur",
+    "type": "village",
+    "name_en": "Bishunpur (Gram Panchayat Area)",
+    "name_hi": "Bishunpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-khanwaha",
+    "type": "village",
+    "name_en": "Khanwaha (Gram Panchayat Area)",
+    "name_hi": "Khanwaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-kheoli",
+    "type": "village",
+    "name_en": "Kheoli (Gram Panchayat Area)",
+    "name_hi": "Kheoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-mujeebpur",
+    "type": "village",
+    "name_en": "Mujeebpur (Gram Panchayat Area)",
+    "name_hi": "Mujeebpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-patna",
+    "type": "village",
+    "name_en": "Patna (Gram Panchayat Area)",
+    "name_hi": "Patna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-safedabad",
+    "type": "village",
+    "name_en": "Safedabad (Gram Panchayat Area)",
+    "name_hi": "Safedabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225003"
+    ]
+  },
+  {
+    "id": "po-barabanki-bhikhara",
+    "type": "village",
+    "name_en": "Bhikhara (Gram Panchayat Area)",
+    "name_hi": "Bhikhara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "po-barabanki-ghar-kuiyan",
+    "type": "village",
+    "name_en": "Ghar Kuiyan (Gram Panchayat Area)",
+    "name_hi": "Ghar Kuiyan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "po-barabanki-rauli",
+    "type": "village",
+    "name_en": "Rauli (Gram Panchayat Area)",
+    "name_hi": "Rauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sirauli-ghauspur",
+    "block_id": "sirauli-ghauspur",
+    "tehsil_id": "sirauli-ghauspur",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "po-barabanki-saalpur",
+    "type": "village",
+    "name_en": "Saalpur (Gram Panchayat Area)",
+    "name_hi": "Saalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "po-barabanki-galhamau",
+    "type": "village",
+    "name_en": "Galhamau (Gram Panchayat Area)",
+    "name_hi": "Galhamau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225121"
+    ]
+  },
+  {
+    "id": "po-barabanki-patmau",
+    "type": "village",
+    "name_en": "Patmau (Gram Panchayat Area)",
+    "name_hi": "Patmau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225121"
+    ]
+  },
+  {
+    "id": "po-barabanki-tikra",
+    "type": "village",
+    "name_en": "Tikra (Gram Panchayat Area)",
+    "name_hi": "Tikra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225121"
+    ]
+  },
+  {
+    "id": "po-barabanki-kithoori-daroga",
+    "type": "village",
+    "name_en": "Kithoori Daroga (Gram Panchayat Area)",
+    "name_hi": "Kithoori Daroga (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225405"
+    ]
+  },
+  {
+    "id": "po-barabanki-meruwa",
+    "type": "village",
+    "name_en": "Meruwa (Gram Panchayat Area)",
+    "name_hi": "Meruwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225405"
+    ]
+  },
+  {
+    "id": "po-barabanki-khijirpur",
+    "type": "village",
+    "name_en": "Khijirpur (Gram Panchayat Area)",
+    "name_hi": "Khijirpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225203"
+    ]
+  },
+  {
+    "id": "po-barabanki-dadera",
+    "type": "village",
+    "name_en": "Dadera (Gram Panchayat Area)",
+    "name_hi": "Dadera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225302"
+    ]
+  },
+  {
+    "id": "po-barabanki-mohsand",
+    "type": "village",
+    "name_en": "Mohsand (Gram Panchayat Area)",
+    "name_hi": "Mohsand (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225302"
+    ]
+  },
+  {
+    "id": "po-barabanki-tikaitganj",
+    "type": "village",
+    "name_en": "Tikaitganj (Gram Panchayat Area)",
+    "name_hi": "Tikaitganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225302"
+    ]
+  },
+  {
+    "id": "po-barabanki-bansa-sharif",
+    "type": "village",
+    "name_en": "Bansa Sharif (Gram Panchayat Area)",
+    "name_hi": "Bansa Sharif (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225204"
+    ]
+  },
+  {
+    "id": "po-barabanki-barail",
+    "type": "village",
+    "name_en": "Barail (Gram Panchayat Area)",
+    "name_hi": "Barail (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225001"
+    ]
+  },
+  {
+    "id": "po-barabanki-fattapur-kalan",
+    "type": "village",
+    "name_en": "Fattapur Kalan (Gram Panchayat Area)",
+    "name_hi": "Fattapur Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225401"
+    ]
+  },
+  {
+    "id": "po-barabanki-dandoopur",
+    "type": "village",
+    "name_en": "Dandoopur (Gram Panchayat Area)",
+    "name_hi": "Dandoopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225416"
+    ]
+  },
+  {
+    "id": "po-barabanki-mansara",
+    "type": "village",
+    "name_en": "Mansara (Gram Panchayat Area)",
+    "name_hi": "Mansara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225416"
+    ]
+  },
+  {
+    "id": "po-barabanki-paigamberpur",
+    "type": "village",
+    "name_en": "Paigamberpur (Gram Panchayat Area)",
+    "name_hi": "Paigamberpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225416"
+    ]
+  },
+  {
+    "id": "po-barabanki-silhaur",
+    "type": "village",
+    "name_en": "Silhaur (Gram Panchayat Area)",
+    "name_hi": "Silhaur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225416"
+    ]
+  },
+  {
+    "id": "po-barabanki-itaura",
+    "type": "village",
+    "name_en": "Itaura (Gram Panchayat Area)",
+    "name_hi": "Itaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225403"
+    ]
+  },
+  {
+    "id": "po-barabanki-qyampur",
+    "type": "village",
+    "name_en": "Qyampur (Gram Panchayat Area)",
+    "name_hi": "Qyampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225403"
+    ]
+  },
+  {
+    "id": "po-barabanki-pahroopur",
+    "type": "village",
+    "name_en": "Pahroopur (Gram Panchayat Area)",
+    "name_hi": "Pahroopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225404"
+    ]
+  },
+  {
+    "id": "po-barabanki-baburi-gaon",
+    "type": "village",
+    "name_en": "Baburi Gaon (Gram Panchayat Area)",
+    "name_hi": "Baburi Gaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-kasimganj",
+    "type": "village",
+    "name_en": "Kasimganj (Gram Panchayat Area)",
+    "name_hi": "Kasimganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-kondari",
+    "type": "village",
+    "name_en": "Kondari (Gram Panchayat Area)",
+    "name_hi": "Kondari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-narain-bhari",
+    "type": "village",
+    "name_en": "Narain Bhari (Gram Panchayat Area)",
+    "name_hi": "Narain Bhari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-shafipur",
+    "type": "village",
+    "name_en": "Shafipur (Gram Panchayat Area)",
+    "name_hi": "Shafipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "po-barabanki-madhopur",
+    "type": "village",
+    "name_en": "Madhopur (Gram Panchayat Area)",
+    "name_hi": "Madhopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225003"
+    ]
+  },
+  {
+    "id": "po-barabanki-chaubeesi",
+    "type": "village",
+    "name_en": "Chaubeesi (Gram Panchayat Area)",
+    "name_hi": "Chaubeesi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "po-barabanki-kamela",
+    "type": "village",
+    "name_en": "Kamela (Gram Panchayat Area)",
+    "name_hi": "Kamela (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "po-barabanki-ruknuddinpur",
+    "type": "village",
+    "name_en": "Ruknuddinpur (Gram Panchayat Area)",
+    "name_hi": "Ruknuddinpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "po-barabanki-sarai-rawat",
+    "type": "village",
+    "name_en": "Sarai Rawat (Gram Panchayat Area)",
+    "name_hi": "Sarai Rawat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "po-barabanki-barauli-malik",
+    "type": "village",
+    "name_en": "Barauli Malik (Gram Panchayat Area)",
+    "name_hi": "Barauli Malik (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225121"
+    ]
+  },
+  {
+    "id": "po-barabanki-bhayara",
+    "type": "village",
+    "name_en": "Bhayara (Gram Panchayat Area)",
+    "name_hi": "Bhayara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225204"
+    ]
+  },
+  {
+    "id": "po-barabanki-bindaura",
+    "type": "village",
+    "name_en": "Bindaura (Gram Panchayat Area)",
+    "name_hi": "Bindaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225204"
+    ]
+  },
+  {
+    "id": "po-barabanki-budhwara",
+    "type": "village",
+    "name_en": "Budhwara (Gram Panchayat Area)",
+    "name_hi": "Budhwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225204"
+    ]
+  },
+  {
+    "id": "po-barabanki-digsari",
+    "type": "village",
+    "name_en": "Digsari (Gram Panchayat Area)",
+    "name_hi": "Digsari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225409"
+    ]
+  },
+  {
+    "id": "po-barabanki-dilauna",
+    "type": "village",
+    "name_en": "Dilauna (Gram Panchayat Area)",
+    "name_hi": "Dilauna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225409"
+    ]
+  },
+  {
+    "id": "po-barabanki-hakami",
+    "type": "village",
+    "name_en": "Hakami (Gram Panchayat Area)",
+    "name_hi": "Hakami (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225409"
+    ]
+  },
+  {
+    "id": "po-barabanki-dadrauli-bhawaniapur",
+    "type": "village",
+    "name_en": "Dadrauli Bhawaniapur (Gram Panchayat Area)",
+    "name_hi": "Dadrauli Bhawaniapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225206"
+    ]
+  },
+  {
+    "id": "po-barabanki-kandhaipur",
+    "type": "village",
+    "name_en": "Kandhaipur (Gram Panchayat Area)",
+    "name_hi": "Kandhaipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225206"
+    ]
+  },
+  {
+    "id": "po-barabanki-mushkabad",
+    "type": "village",
+    "name_en": "Mushkabad (Gram Panchayat Area)",
+    "name_hi": "Mushkabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225206"
+    ]
+  },
+  {
+    "id": "po-barabanki-ambaur",
+    "type": "village",
+    "name_en": "Ambaur (Gram Panchayat Area)",
+    "name_hi": "Ambaur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225412"
+    ]
+  },
+  {
+    "id": "po-barabanki-baghaura",
+    "type": "village",
+    "name_en": "Baghaura (Gram Panchayat Area)",
+    "name_hi": "Baghaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225412"
+    ]
+  },
+  {
+    "id": "po-barabanki-mahmoodabad",
+    "type": "village",
+    "name_en": "Mahmoodabad (Gram Panchayat Area)",
+    "name_hi": "Mahmoodabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225412"
+    ]
+  },
+  {
+    "id": "po-barabanki-palhari",
+    "type": "village",
+    "name_en": "Palhari (Gram Panchayat Area)",
+    "name_hi": "Palhari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225412"
+    ]
+  },
+  {
+    "id": "po-barabanki-akhtiyarpur-sharifabad",
+    "type": "village",
+    "name_en": "Akhtiyarpur  Sharifabad (Gram Panchayat Area)",
+    "name_hi": "Akhtiyarpur  Sharifabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225122"
+    ]
+  },
+  {
+    "id": "po-barabanki-gehendwar",
+    "type": "village",
+    "name_en": "Gehendwar (Gram Panchayat Area)",
+    "name_hi": "Gehendwar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225122"
+    ]
+  },
+  {
+    "id": "po-barabanki-sarai-parsanda",
+    "type": "village",
+    "name_en": "Sarai Parsanda (Gram Panchayat Area)",
+    "name_hi": "Sarai Parsanda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225122"
+    ]
+  },
+  {
+    "id": "po-barabanki-baddoopur",
+    "type": "village",
+    "name_en": "Baddoopur (Gram Panchayat Area)",
+    "name_hi": "Baddoopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225306"
+    ]
+  },
+  {
+    "id": "po-barabanki-chiraiya",
+    "type": "village",
+    "name_en": "Chiraiya (Gram Panchayat Area)",
+    "name_hi": "Chiraiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225125"
+    ]
+  },
+  {
+    "id": "po-barabanki-kandarwal",
+    "type": "village",
+    "name_en": "Kandarwal (Gram Panchayat Area)",
+    "name_hi": "Kandarwal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225304"
+    ]
+  },
+  {
+    "id": "po-barabanki-lalpur-karauta",
+    "type": "village",
+    "name_en": "Lalpur Karauta (Gram Panchayat Area)",
+    "name_hi": "Lalpur Karauta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225304"
+    ]
+  },
+  {
+    "id": "po-barabanki-basara",
+    "type": "village",
+    "name_en": "Basara (Gram Panchayat Area)",
+    "name_hi": "Basara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-belahara",
+    "type": "village",
+    "name_en": "Belahara (Gram Panchayat Area)",
+    "name_hi": "Belahara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-bheriya",
+    "type": "village",
+    "name_en": "Bheriya (Gram Panchayat Area)",
+    "name_hi": "Bheriya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-jagsenda",
+    "type": "village",
+    "name_en": "Jagsenda (Gram Panchayat Area)",
+    "name_hi": "Jagsenda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-talgaon",
+    "type": "village",
+    "name_en": "Talgaon (Gram Panchayat Area)",
+    "name_hi": "Talgaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-bansgaon",
+    "type": "village",
+    "name_en": "Bansgaon (Gram Panchayat Area)",
+    "name_hi": "Bansgaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225415"
+    ]
+  },
+  {
+    "id": "po-barabanki-gidrapur",
+    "type": "village",
+    "name_en": "Gidrapur (Gram Panchayat Area)",
+    "name_hi": "Gidrapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225415"
+    ]
+  },
+  {
+    "id": "po-barabanki-hadha",
+    "type": "village",
+    "name_en": "Hadha (Gram Panchayat Area)",
+    "name_hi": "Hadha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225415"
+    ]
+  },
+  {
+    "id": "po-barabanki-hassaur",
+    "type": "village",
+    "name_en": "Hassaur (Gram Panchayat Area)",
+    "name_hi": "Hassaur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225415"
+    ]
+  },
+  {
+    "id": "po-barabanki-qusba-ichauli",
+    "type": "village",
+    "name_en": "Qusba Ichauli (Gram Panchayat Area)",
+    "name_hi": "Qusba Ichauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225415"
+    ]
+  },
+  {
+    "id": "po-barabanki-ranikatra",
+    "type": "village",
+    "name_en": "Ranikatra (Gram Panchayat Area)",
+    "name_hi": "Ranikatra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225415"
+    ]
+  },
+  {
+    "id": "po-barabanki-bhilwal",
+    "type": "village",
+    "name_en": "Bhilwal (Gram Panchayat Area)",
+    "name_hi": "Bhilwal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-ganehari",
+    "type": "village",
+    "name_en": "Ganehari (Gram Panchayat Area)",
+    "name_hi": "Ganehari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-garhi",
+    "type": "village",
+    "name_en": "Garhi (Gram Panchayat Area)",
+    "name_hi": "Garhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-hasanpur",
+    "type": "village",
+    "name_en": "Hasanpur (Gram Panchayat Area)",
+    "name_hi": "Hasanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-loni-katra",
+    "type": "village",
+    "name_en": "Loni Katra (Gram Panchayat Area)",
+    "name_hi": "Loni Katra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-manodharpur",
+    "type": "village",
+    "name_en": "Manodharpur (Gram Panchayat Area)",
+    "name_hi": "Manodharpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-mohammadpur",
+    "type": "village",
+    "name_en": "Mohammadpur (Gram Panchayat Area)",
+    "name_hi": "Mohammadpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-tejwapur",
+    "type": "village",
+    "name_en": "Tejwapur (Gram Panchayat Area)",
+    "name_hi": "Tejwapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-bibipur-garh",
+    "type": "village",
+    "name_en": "Bibipur Garh (Gram Panchayat Area)",
+    "name_hi": "Bibipur Garh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225120"
+    ]
+  },
+  {
+    "id": "po-barabanki-nainamau",
+    "type": "village",
+    "name_en": "Nainamau (Gram Panchayat Area)",
+    "name_hi": "Nainamau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225204"
+    ]
+  },
+  {
+    "id": "po-barabanki-neola-karsanda",
+    "type": "village",
+    "name_en": "Neola Karsanda (Gram Panchayat Area)",
+    "name_hi": "Neola Karsanda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225204"
+    ]
+  },
+  {
+    "id": "po-barabanki-ram-mandai",
+    "type": "village",
+    "name_en": "Ram Mandai (Gram Panchayat Area)",
+    "name_hi": "Ram Mandai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225303"
+    ]
+  },
+  {
+    "id": "po-barabanki-bhikharpur",
+    "type": "village",
+    "name_en": "Bhikharpur (Gram Panchayat Area)",
+    "name_hi": "Bhikharpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225409"
+    ]
+  },
+  {
+    "id": "po-barabanki-dhanauli-thakuran",
+    "type": "village",
+    "name_en": "Dhanauli Thakuran (Gram Panchayat Area)",
+    "name_hi": "Dhanauli Thakuran (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225409"
+    ]
+  },
+  {
+    "id": "po-barabanki-kithaiya",
+    "type": "village",
+    "name_en": "Kithaiya (Gram Panchayat Area)",
+    "name_hi": "Kithaiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225409"
+    ]
+  },
+  {
+    "id": "po-barabanki-shahpur",
+    "type": "village",
+    "name_en": "Shahpur (Gram Panchayat Area)",
+    "name_hi": "Shahpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225409"
+    ]
+  },
+  {
+    "id": "po-barabanki-bhainsuriya",
+    "type": "village",
+    "name_en": "Bhainsuriya (Gram Panchayat Area)",
+    "name_hi": "Bhainsuriya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225205"
+    ]
+  },
+  {
+    "id": "po-barabanki-madhawapur",
+    "type": "village",
+    "name_en": "Madhawapur (Gram Panchayat Area)",
+    "name_hi": "Madhawapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225205"
+    ]
+  },
+  {
+    "id": "po-barabanki-mailaraiganj",
+    "type": "village",
+    "name_en": "Mailaraiganj (Gram Panchayat Area)",
+    "name_hi": "Mailaraiganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225206"
+    ]
+  },
+  {
+    "id": "po-barabanki-maulabad",
+    "type": "village",
+    "name_en": "Maulabad (Gram Panchayat Area)",
+    "name_hi": "Maulabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225206"
+    ]
+  },
+  {
+    "id": "po-barabanki-dadra",
+    "type": "village",
+    "name_en": "Dadra (Gram Panchayat Area)",
+    "name_hi": "Dadra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225412"
+    ]
+  },
+  {
+    "id": "po-barabanki-lachhbar-bajaha",
+    "type": "village",
+    "name_en": "Lachhbar Bajaha (Gram Panchayat Area)",
+    "name_hi": "Lachhbar Bajaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225412"
+    ]
+  },
+  {
+    "id": "po-barabanki-sarai-kayasthan",
+    "type": "village",
+    "name_en": "Sarai Kayasthan (Gram Panchayat Area)",
+    "name_hi": "Sarai Kayasthan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225412"
+    ]
+  },
+  {
+    "id": "po-barabanki-barauli-jata",
+    "type": "village",
+    "name_en": "Barauli Jata (Gram Panchayat Area)",
+    "name_hi": "Barauli Jata (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225122"
+    ]
+  },
+  {
+    "id": "po-barabanki-markhapur",
+    "type": "village",
+    "name_en": "Markhapur (Gram Panchayat Area)",
+    "name_hi": "Markhapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225122"
+    ]
+  },
+  {
+    "id": "po-barabanki-teergaon",
+    "type": "village",
+    "name_en": "Teergaon (Gram Panchayat Area)",
+    "name_hi": "Teergaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225122"
+    ]
+  },
+  {
+    "id": "po-barabanki-bajgahni",
+    "type": "village",
+    "name_en": "Bajgahni (Gram Panchayat Area)",
+    "name_hi": "Bajgahni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225306"
+    ]
+  },
+  {
+    "id": "po-barabanki-basantpur",
+    "type": "village",
+    "name_en": "Basantpur (Gram Panchayat Area)",
+    "name_hi": "Basantpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225306"
+    ]
+  },
+  {
+    "id": "po-barabanki-shailie-keeratpur",
+    "type": "village",
+    "name_en": "Shailie Keeratpur (Gram Panchayat Area)",
+    "name_hi": "Shailie Keeratpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225306"
+    ]
+  },
+  {
+    "id": "po-barabanki-semrawan",
+    "type": "village",
+    "name_en": "Semrawan (Gram Panchayat Area)",
+    "name_hi": "Semrawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225413"
+    ]
+  },
+  {
+    "id": "po-barabanki-chaila",
+    "type": "village",
+    "name_en": "Chaila (Gram Panchayat Area)",
+    "name_hi": "Chaila (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225207"
+    ]
+  },
+  {
+    "id": "po-barabanki-khajuri",
+    "type": "village",
+    "name_en": "Khajuri (Gram Panchayat Area)",
+    "name_hi": "Khajuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225207"
+    ]
+  },
+  {
+    "id": "po-barabanki-markamau",
+    "type": "village",
+    "name_en": "Markamau (Gram Panchayat Area)",
+    "name_hi": "Markamau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225207"
+    ]
+  },
+  {
+    "id": "po-barabanki-gerawan",
+    "type": "village",
+    "name_en": "Gerawan (Gram Panchayat Area)",
+    "name_hi": "Gerawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225125"
+    ]
+  },
+  {
+    "id": "po-barabanki-sarai-gopi",
+    "type": "village",
+    "name_en": "Sarai Gopi (Gram Panchayat Area)",
+    "name_hi": "Sarai Gopi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225125"
+    ]
+  },
+  {
+    "id": "po-barabanki-daulatpur",
+    "type": "village",
+    "name_en": "Daulatpur (Gram Panchayat Area)",
+    "name_hi": "Daulatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225304"
+    ]
+  },
+  {
+    "id": "po-barabanki-hetmapur",
+    "type": "village",
+    "name_en": "Hetmapur (Gram Panchayat Area)",
+    "name_hi": "Hetmapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225304"
+    ]
+  },
+  {
+    "id": "po-barabanki-bindaura-dhartharia",
+    "type": "village",
+    "name_en": "Bindaura Dhartharia (Gram Panchayat Area)",
+    "name_hi": "Bindaura Dhartharia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-dhaurahra",
+    "type": "village",
+    "name_en": "Dhaurahra (Gram Panchayat Area)",
+    "name_hi": "Dhaurahra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225121"
+    ]
+  },
+  {
+    "id": "po-barabanki-sethmau",
+    "type": "village",
+    "name_en": "Sethmau (Gram Panchayat Area)",
+    "name_hi": "Sethmau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225121"
+    ]
+  },
+  {
+    "id": "po-barabanki-bhawaniyapur-kheoli",
+    "type": "village",
+    "name_en": "Bhawaniyapur Kheoli (Gram Panchayat Area)",
+    "name_hi": "Bhawaniyapur Kheoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225405"
+    ]
+  },
+  {
+    "id": "po-barabanki-kotwa-sarak",
+    "type": "village",
+    "name_en": "Kotwa Sarak (Gram Panchayat Area)",
+    "name_hi": "Kotwa Sarak (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225405"
+    ]
+  },
+  {
+    "id": "po-barabanki-said-khanpur",
+    "type": "village",
+    "name_en": "Said Khanpur (Gram Panchayat Area)",
+    "name_hi": "Said Khanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225405"
+    ]
+  },
+  {
+    "id": "po-barabanki-kamarkha",
+    "type": "village",
+    "name_en": "Kamarkha (Gram Panchayat Area)",
+    "name_hi": "Kamarkha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225203"
+    ]
+  },
+  {
+    "id": "po-barabanki-sadruddinpur",
+    "type": "village",
+    "name_en": "Sadruddinpur (Gram Panchayat Area)",
+    "name_hi": "Sadruddinpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225203"
+    ]
+  },
+  {
+    "id": "po-barabanki-bahrauli",
+    "type": "village",
+    "name_en": "Bahrauli (Gram Panchayat Area)",
+    "name_hi": "Bahrauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225302"
+    ]
+  },
+  {
+    "id": "po-barabanki-barhaidih-maholia",
+    "type": "village",
+    "name_en": "Barhaidih Maholia (Gram Panchayat Area)",
+    "name_hi": "Barhaidih Maholia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225302"
+    ]
+  },
+  {
+    "id": "po-barabanki-sulemabad",
+    "type": "village",
+    "name_en": "Sulemabad (Gram Panchayat Area)",
+    "name_hi": "Sulemabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225302"
+    ]
+  },
+  {
+    "id": "po-barabanki-dharampur",
+    "type": "village",
+    "name_en": "Dharampur (Gram Panchayat Area)",
+    "name_hi": "Dharampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-jagatpur",
+    "type": "village",
+    "name_en": "Jagatpur (Gram Panchayat Area)",
+    "name_hi": "Jagatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-kandraula",
+    "type": "village",
+    "name_en": "Kandraula (Gram Panchayat Area)",
+    "name_hi": "Kandraula (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-khansi-sarai",
+    "type": "village",
+    "name_en": "Khansi Sarai (Gram Panchayat Area)",
+    "name_hi": "Khansi Sarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-madanpur",
+    "type": "village",
+    "name_en": "Madanpur (Gram Panchayat Area)",
+    "name_hi": "Madanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-majhgawan-sharif",
+    "type": "village",
+    "name_en": "Majhgawan Sharif (Gram Panchayat Area)",
+    "name_hi": "Majhgawan Sharif (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-sirauli-surjanpur",
+    "type": "village",
+    "name_en": "Sirauli Surjanpur (Gram Panchayat Area)",
+    "name_hi": "Sirauli Surjanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-terhwa",
+    "type": "village",
+    "name_en": "Terhwa (Gram Panchayat Area)",
+    "name_hi": "Terhwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-nandna-kala",
+    "type": "village",
+    "name_en": "Nandna Kala (Gram Panchayat Area)",
+    "name_hi": "Nandna Kala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-bangawan",
+    "type": "village",
+    "name_en": "Bangawan (Gram Panchayat Area)",
+    "name_hi": "Bangawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225415"
+    ]
+  },
+  {
+    "id": "po-barabanki-kothri-gauriya",
+    "type": "village",
+    "name_en": "Kothri Gauriya (Gram Panchayat Area)",
+    "name_hi": "Kothri Gauriya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225415"
+    ]
+  },
+  {
+    "id": "po-barabanki-manjhela",
+    "type": "village",
+    "name_en": "Manjhela (Gram Panchayat Area)",
+    "name_hi": "Manjhela (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225415"
+    ]
+  },
+  {
+    "id": "po-barabanki-sarai-dunauli",
+    "type": "village",
+    "name_en": "Sarai Dunauli (Gram Panchayat Area)",
+    "name_hi": "Sarai Dunauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225415"
+    ]
+  },
+  {
+    "id": "po-barabanki-baburiha",
+    "type": "village",
+    "name_en": "Baburiha (Gram Panchayat Area)",
+    "name_hi": "Baburiha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225208"
+    ]
+  },
+  {
+    "id": "po-barabanki-bara",
+    "type": "village",
+    "name_en": "Bara (Gram Panchayat Area)",
+    "name_hi": "Bara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-jaurass",
+    "type": "village",
+    "name_en": "Jaurass (Gram Panchayat Area)",
+    "name_hi": "Jaurass (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-kakari",
+    "type": "village",
+    "name_en": "Kakari (Gram Panchayat Area)",
+    "name_hi": "Kakari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-pareewan",
+    "type": "village",
+    "name_en": "Pareewan (Gram Panchayat Area)",
+    "name_hi": "Pareewan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-pokhra",
+    "type": "village",
+    "name_en": "Pokhra (Gram Panchayat Area)",
+    "name_hi": "Pokhra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-shivnaam",
+    "type": "village",
+    "name_en": "Shivnaam (Gram Panchayat Area)",
+    "name_hi": "Shivnaam (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-mohabbatpur",
+    "type": "village",
+    "name_en": "Mohabbatpur (Gram Panchayat Area)",
+    "name_hi": "Mohabbatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225120"
+    ]
+  },
+  {
+    "id": "po-barabanki-sohawan",
+    "type": "village",
+    "name_en": "Sohawan (Gram Panchayat Area)",
+    "name_hi": "Sohawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225120"
+    ]
+  },
+  {
+    "id": "po-barabanki-kola",
+    "type": "village",
+    "name_en": "Kola (Gram Panchayat Area)",
+    "name_hi": "Kola (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225414"
+    ]
+  },
+  {
+    "id": "po-barabanki-basauli",
+    "type": "village",
+    "name_en": "Basauli (Gram Panchayat Area)",
+    "name_hi": "Basauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225303"
+    ]
+  },
+  {
+    "id": "po-barabanki-amahia",
+    "type": "village",
+    "name_en": "Amahia (Gram Panchayat Area)",
+    "name_hi": "Amahia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225409"
+    ]
+  },
+  {
+    "id": "po-barabanki-ashrafpur",
+    "type": "village",
+    "name_en": "Ashrafpur (Gram Panchayat Area)",
+    "name_hi": "Ashrafpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225409"
+    ]
+  },
+  {
+    "id": "po-barabanki-sukhipur",
+    "type": "village",
+    "name_en": "Sukhipur (Gram Panchayat Area)",
+    "name_hi": "Sukhipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225409"
+    ]
+  },
+  {
+    "id": "po-barabanki-surajpur",
+    "type": "village",
+    "name_en": "Surajpur (Gram Panchayat Area)",
+    "name_hi": "Surajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225409"
+    ]
+  },
+  {
+    "id": "po-barabanki-tiwaripur",
+    "type": "village",
+    "name_en": "Tiwaripur (Gram Panchayat Area)",
+    "name_hi": "Tiwaripur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225409"
+    ]
+  },
+  {
+    "id": "po-barabanki-sirkauli",
+    "type": "village",
+    "name_en": "Sirkauli (Gram Panchayat Area)",
+    "name_hi": "Sirkauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225205"
+    ]
+  },
+  {
+    "id": "po-barabanki-bilakhiya",
+    "type": "village",
+    "name_en": "Bilakhiya (Gram Panchayat Area)",
+    "name_hi": "Bilakhiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225205"
+    ]
+  },
+  {
+    "id": "po-barabanki-pyarepur",
+    "type": "village",
+    "name_en": "Pyarepur (Gram Panchayat Area)",
+    "name_hi": "Pyarepur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225206"
+    ]
+  },
+  {
+    "id": "po-barabanki-ram-sahai",
+    "type": "village",
+    "name_en": "Ram Sahai (Gram Panchayat Area)",
+    "name_hi": "Ram Sahai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225206"
+    ]
+  },
+  {
+    "id": "po-barabanki-rampur-katra",
+    "type": "village",
+    "name_en": "Rampur Katra (Gram Panchayat Area)",
+    "name_hi": "Rampur Katra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225206"
+    ]
+  },
+  {
+    "id": "po-barabanki-ahmadpur",
+    "type": "village",
+    "name_en": "Ahmadpur (Gram Panchayat Area)",
+    "name_hi": "Ahmadpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225412"
+    ]
+  },
+  {
+    "id": "po-barabanki-saifpur",
+    "type": "village",
+    "name_en": "Saifpur (Gram Panchayat Area)",
+    "name_hi": "Saifpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225412"
+    ]
+  },
+  {
+    "id": "po-barabanki-hansuwapara",
+    "type": "village",
+    "name_en": "Hansuwapara (Gram Panchayat Area)",
+    "name_hi": "Hansuwapara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225306"
+    ]
+  },
+  {
+    "id": "po-barabanki-kaji-behta",
+    "type": "village",
+    "name_en": "Kaji Behta (Gram Panchayat Area)",
+    "name_hi": "Kaji Behta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225306"
+    ]
+  },
+  {
+    "id": "po-barabanki-katuri-kalan",
+    "type": "village",
+    "name_en": "Katuri Kalan (Gram Panchayat Area)",
+    "name_hi": "Katuri Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225306"
+    ]
+  },
+  {
+    "id": "po-barabanki-khinjhana",
+    "type": "village",
+    "name_en": "Khinjhana (Gram Panchayat Area)",
+    "name_hi": "Khinjhana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225306"
+    ]
+  },
+  {
+    "id": "po-barabanki-rahilamau",
+    "type": "village",
+    "name_en": "Rahilamau (Gram Panchayat Area)",
+    "name_hi": "Rahilamau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225306"
+    ]
+  },
+  {
+    "id": "po-barabanki-sadrapur",
+    "type": "village",
+    "name_en": "Sadrapur (Gram Panchayat Area)",
+    "name_hi": "Sadrapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225306"
+    ]
+  },
+  {
+    "id": "po-barabanki-dhanaura",
+    "type": "village",
+    "name_en": "Dhanaura (Gram Panchayat Area)",
+    "name_hi": "Dhanaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225413"
+    ]
+  },
+  {
+    "id": "po-barabanki-malhauli",
+    "type": "village",
+    "name_en": "Malhauli (Gram Panchayat Area)",
+    "name_hi": "Malhauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225413"
+    ]
+  },
+  {
+    "id": "po-barabanki-maugorpur",
+    "type": "village",
+    "name_en": "Maugorpur (Gram Panchayat Area)",
+    "name_hi": "Maugorpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225413"
+    ]
+  },
+  {
+    "id": "po-barabanki-neochhana",
+    "type": "village",
+    "name_en": "Neochhana (Gram Panchayat Area)",
+    "name_hi": "Neochhana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225413"
+    ]
+  },
+  {
+    "id": "po-barabanki-addra",
+    "type": "village",
+    "name_en": "Addra (Gram Panchayat Area)",
+    "name_hi": "Addra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225207"
+    ]
+  },
+  {
+    "id": "po-barabanki-banwa",
+    "type": "village",
+    "name_en": "Banwa (Gram Panchayat Area)",
+    "name_hi": "Banwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225123"
+    ]
+  },
+  {
+    "id": "po-barabanki-magauwan",
+    "type": "village",
+    "name_en": "Magauwan (Gram Panchayat Area)",
+    "name_hi": "Magauwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225125"
+    ]
+  },
+  {
+    "id": "po-barabanki-sharifabad",
+    "type": "village",
+    "name_en": "Sharifabad (Gram Panchayat Area)",
+    "name_hi": "Sharifabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225125"
+    ]
+  },
+  {
+    "id": "po-barabanki-raniganj-bazar",
+    "type": "village",
+    "name_en": "Raniganj Bazar (Gram Panchayat Area)",
+    "name_hi": "Raniganj Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225304"
+    ]
+  },
+  {
+    "id": "po-barabanki-ruhera",
+    "type": "village",
+    "name_en": "Ruhera (Gram Panchayat Area)",
+    "name_hi": "Ruhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225304"
+    ]
+  },
+  {
+    "id": "po-barabanki-gudauli",
+    "type": "village",
+    "name_en": "Gudauli (Gram Panchayat Area)",
+    "name_hi": "Gudauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-hasanpur-tanda",
+    "type": "village",
+    "name_en": "Hasanpur Tanda (Gram Panchayat Area)",
+    "name_hi": "Hasanpur Tanda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-hazratpur",
+    "type": "village",
+    "name_en": "Hazratpur (Gram Panchayat Area)",
+    "name_hi": "Hazratpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-itaunja",
+    "type": "village",
+    "name_en": "Itaunja (Gram Panchayat Area)",
+    "name_hi": "Itaunja (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-mithwara",
+    "type": "village",
+    "name_en": "Mithwara (Gram Panchayat Area)",
+    "name_hi": "Mithwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-ralbhari",
+    "type": "village",
+    "name_en": "Ralbhari (Gram Panchayat Area)",
+    "name_hi": "Ralbhari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-sarhemau",
+    "type": "village",
+    "name_en": "Sarhemau (Gram Panchayat Area)",
+    "name_hi": "Sarhemau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-sarsawan",
+    "type": "village",
+    "name_en": "Sarsawan (Gram Panchayat Area)",
+    "name_hi": "Sarsawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-sikari-jeewal",
+    "type": "village",
+    "name_en": "Sikari Jeewal (Gram Panchayat Area)",
+    "name_hi": "Sikari Jeewal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225415"
+    ]
+  },
+  {
+    "id": "po-barabanki-udwat-nagar",
+    "type": "village",
+    "name_en": "Udwat Nagar (Gram Panchayat Area)",
+    "name_hi": "Udwat Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225415"
+    ]
+  },
+  {
+    "id": "po-barabanki-puremanbhawan-singh",
+    "type": "village",
+    "name_en": "Puremanbhawan Singh (Gram Panchayat Area)",
+    "name_hi": "Puremanbhawan Singh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225208"
+    ]
+  },
+  {
+    "id": "po-barabanki-khwajapur",
+    "type": "village",
+    "name_en": "Khwajapur (Gram Panchayat Area)",
+    "name_hi": "Khwajapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-tilokpur-usmanpur",
+    "type": "village",
+    "name_en": "Tilokpur Usmanpur (Gram Panchayat Area)",
+    "name_hi": "Tilokpur Usmanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-barain",
+    "type": "village",
+    "name_en": "Barain (Gram Panchayat Area)",
+    "name_hi": "Barain (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225414"
+    ]
+  },
+  {
+    "id": "po-barabanki-bhitaura-lakhan",
+    "type": "village",
+    "name_en": "Bhitaura Lakhan (Gram Panchayat Area)",
+    "name_hi": "Bhitaura Lakhan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225414"
+    ]
+  },
+  {
+    "id": "po-barabanki-garhi-rakhmau",
+    "type": "village",
+    "name_en": "Garhi Rakhmau (Gram Panchayat Area)",
+    "name_hi": "Garhi Rakhmau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225414"
+    ]
+  },
+  {
+    "id": "po-barabanki-naseernagar",
+    "type": "village",
+    "name_en": "Naseernagar (Gram Panchayat Area)",
+    "name_hi": "Naseernagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225204"
+    ]
+  },
+  {
+    "id": "po-barabanki-niyamatpur",
+    "type": "village",
+    "name_en": "Niyamatpur (Gram Panchayat Area)",
+    "name_hi": "Niyamatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225204"
+    ]
+  },
+  {
+    "id": "po-barabanki-belpur",
+    "type": "village",
+    "name_en": "Belpur (Gram Panchayat Area)",
+    "name_hi": "Belpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225409"
+    ]
+  },
+  {
+    "id": "po-barabanki-chauri-aladadpur",
+    "type": "village",
+    "name_en": "Chauri Aladadpur (Gram Panchayat Area)",
+    "name_hi": "Chauri Aladadpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225409"
+    ]
+  },
+  {
+    "id": "po-barabanki-maulahara",
+    "type": "village",
+    "name_en": "Maulahara (Gram Panchayat Area)",
+    "name_hi": "Maulahara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225409"
+    ]
+  },
+  {
+    "id": "po-barabanki-amoli-kalan",
+    "type": "village",
+    "name_en": "Amoli Kalan (Gram Panchayat Area)",
+    "name_hi": "Amoli Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225205"
+    ]
+  },
+  {
+    "id": "po-barabanki-katka",
+    "type": "village",
+    "name_en": "Katka (Gram Panchayat Area)",
+    "name_hi": "Katka (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225205"
+    ]
+  },
+  {
+    "id": "po-barabanki-malauli",
+    "type": "village",
+    "name_en": "Malauli (Gram Panchayat Area)",
+    "name_hi": "Malauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225206"
+    ]
+  },
+  {
+    "id": "po-barabanki-saidanpur",
+    "type": "village",
+    "name_en": "Saidanpur (Gram Panchayat Area)",
+    "name_hi": "Saidanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225206"
+    ]
+  },
+  {
+    "id": "po-barabanki-behta",
+    "type": "village",
+    "name_en": "Behta (Gram Panchayat Area)",
+    "name_hi": "Behta (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225412"
+    ]
+  },
+  {
+    "id": "po-barabanki-loharpur",
+    "type": "village",
+    "name_en": "Loharpur (Gram Panchayat Area)",
+    "name_hi": "Loharpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225412"
+    ]
+  },
+  {
+    "id": "po-barabanki-udhauli",
+    "type": "village",
+    "name_en": "Udhauli (Gram Panchayat Area)",
+    "name_hi": "Udhauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225412"
+    ]
+  },
+  {
+    "id": "po-barabanki-yakootganj",
+    "type": "village",
+    "name_en": "Yakootganj (Gram Panchayat Area)",
+    "name_hi": "Yakootganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225412"
+    ]
+  },
+  {
+    "id": "po-barabanki-laxmanpur",
+    "type": "village",
+    "name_en": "Laxmanpur (Gram Panchayat Area)",
+    "name_hi": "Laxmanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225122"
+    ]
+  },
+  {
+    "id": "po-barabanki-bandagi-nagar",
+    "type": "village",
+    "name_en": "Bandagi Nagar (Gram Panchayat Area)",
+    "name_hi": "Bandagi Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225306"
+    ]
+  },
+  {
+    "id": "po-barabanki-bhadras",
+    "type": "village",
+    "name_en": "Bhadras (Gram Panchayat Area)",
+    "name_hi": "Bhadras (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225306"
+    ]
+  },
+  {
+    "id": "po-barabanki-jharsawan",
+    "type": "village",
+    "name_en": "Jharsawan (Gram Panchayat Area)",
+    "name_hi": "Jharsawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225306"
+    ]
+  },
+  {
+    "id": "po-barabanki-salempur",
+    "type": "village",
+    "name_en": "Salempur (Gram Panchayat Area)",
+    "name_hi": "Salempur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225306"
+    ]
+  },
+  {
+    "id": "po-barabanki-sarsa",
+    "type": "village",
+    "name_en": "Sarsa (Gram Panchayat Area)",
+    "name_hi": "Sarsa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225413"
+    ]
+  },
+  {
+    "id": "po-barabanki-uchita",
+    "type": "village",
+    "name_en": "Uchita (Gram Panchayat Area)",
+    "name_hi": "Uchita (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225413"
+    ]
+  },
+  {
+    "id": "po-barabanki-badosarai",
+    "type": "village",
+    "name_en": "Badosarai (Gram Panchayat Area)",
+    "name_hi": "Badosarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225207"
+    ]
+  },
+  {
+    "id": "po-barabanki-danapur-shukla",
+    "type": "village",
+    "name_en": "Danapur Shukla (Gram Panchayat Area)",
+    "name_hi": "Danapur Shukla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225207"
+    ]
+  },
+  {
+    "id": "po-barabanki-kamoli",
+    "type": "village",
+    "name_en": "Kamoli (Gram Panchayat Area)",
+    "name_hi": "Kamoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225207"
+    ]
+  },
+  {
+    "id": "po-barabanki-kintoor",
+    "type": "village",
+    "name_en": "Kintoor (Gram Panchayat Area)",
+    "name_hi": "Kintoor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225207"
+    ]
+  },
+  {
+    "id": "po-barabanki-para-khandauli",
+    "type": "village",
+    "name_en": "Para Khandauli (Gram Panchayat Area)",
+    "name_hi": "Para Khandauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225123"
+    ]
+  },
+  {
+    "id": "po-barabanki-islampur",
+    "type": "village",
+    "name_en": "Islampur (Gram Panchayat Area)",
+    "name_hi": "Islampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225125"
+    ]
+  },
+  {
+    "id": "po-barabanki-jameen-husainabad",
+    "type": "village",
+    "name_en": "Jameen Husainabad (Gram Panchayat Area)",
+    "name_hi": "Jameen Husainabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225125"
+    ]
+  },
+  {
+    "id": "po-barabanki-palia",
+    "type": "village",
+    "name_en": "Palia (Gram Panchayat Area)",
+    "name_hi": "Palia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225125"
+    ]
+  },
+  {
+    "id": "po-barabanki-jhanjhari",
+    "type": "village",
+    "name_en": "Jhanjhari (Gram Panchayat Area)",
+    "name_hi": "Jhanjhari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225304"
+    ]
+  },
+  {
+    "id": "po-barabanki-chheda",
+    "type": "village",
+    "name_en": "Chheda (Gram Panchayat Area)",
+    "name_hi": "Chheda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-gaura",
+    "type": "village",
+    "name_en": "Gaura (Gram Panchayat Area)",
+    "name_hi": "Gaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-israuli",
+    "type": "village",
+    "name_en": "Israuli (Gram Panchayat Area)",
+    "name_hi": "Israuli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-jafarpur",
+    "type": "village",
+    "name_en": "Jafarpur (Gram Panchayat Area)",
+    "name_hi": "Jafarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-khapurwa",
+    "type": "village",
+    "name_en": "Khapurwa (Gram Panchayat Area)",
+    "name_hi": "Khapurwa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-kutloopur",
+    "type": "village",
+    "name_en": "Kutloopur (Gram Panchayat Area)",
+    "name_hi": "Kutloopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-mahmoodpur",
+    "type": "village",
+    "name_en": "Mahmoodpur (Gram Panchayat Area)",
+    "name_hi": "Mahmoodpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-sundhiyamau",
+    "type": "village",
+    "name_en": "Sundhiyamau (Gram Panchayat Area)",
+    "name_hi": "Sundhiyamau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-watia",
+    "type": "village",
+    "name_en": "Watia (Gram Panchayat Area)",
+    "name_hi": "Watia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "po-barabanki-kotwa-dham",
+    "type": "village",
+    "name_en": "Kotwa Dham (Gram Panchayat Area)",
+    "name_hi": "Kotwa Dham (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225415"
+    ]
+  },
+  {
+    "id": "po-barabanki-panapur",
+    "type": "village",
+    "name_en": "Panapur (Gram Panchayat Area)",
+    "name_hi": "Panapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225415"
+    ]
+  },
+  {
+    "id": "po-barabanki-ranimau-tarai",
+    "type": "village",
+    "name_en": "Ranimau Tarai (Gram Panchayat Area)",
+    "name_hi": "Ranimau Tarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225415"
+    ]
+  },
+  {
+    "id": "po-barabanki-achhechha",
+    "type": "village",
+    "name_en": "Achhechha (Gram Panchayat Area)",
+    "name_hi": "Achhechha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225208"
+    ]
+  },
+  {
+    "id": "po-barabanki-budhera",
+    "type": "village",
+    "name_en": "Budhera (Gram Panchayat Area)",
+    "name_hi": "Budhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225208"
+    ]
+  },
+  {
+    "id": "po-barabanki-sihali",
+    "type": "village",
+    "name_en": "Sihali (Gram Panchayat Area)",
+    "name_hi": "Sihali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225208"
+    ]
+  },
+  {
+    "id": "po-barabanki-kaboolpur",
+    "type": "village",
+    "name_en": "Kaboolpur (Gram Panchayat Area)",
+    "name_hi": "Kaboolpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-khaira-kankoo",
+    "type": "village",
+    "name_en": "Khaira Kankoo (Gram Panchayat Area)",
+    "name_hi": "Khaira Kankoo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-ramnagar-pareeva",
+    "type": "village",
+    "name_en": "Ramnagar Pareeva (Gram Panchayat Area)",
+    "name_hi": "Ramnagar Pareeva (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-ramnagar",
+    "block_id": "ramnagar",
+    "tehsil_id": "ramnagar",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "po-barabanki-baragaon",
+    "type": "village",
+    "name_en": "Baragaon (Gram Panchayat Area)",
+    "name_hi": "Baragaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-banki",
+    "block_id": "banki",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "225204"
+    ]
+  },
+  {
+    "id": "ward-barabanki-ulb-barabanki-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Barabanki (All Wards)",
+    "name_hi": "बाराबंकी नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-barabanki-barabanki",
+    "type": "ward",
+    "name_en": "Barabanki (Urban Ward / SO)",
+    "name_hi": "Barabanki (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225001"
+    ]
+  },
+  {
+    "id": "town-barabanki-asandra",
+    "type": "ward",
+    "name_en": "Asandra (Urban Ward / SO)",
+    "name_hi": "Asandra (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225416"
+    ]
+  },
+  {
+    "id": "town-barabanki-banki-so-barabanki",
+    "type": "ward",
+    "name_en": "Banki SO Barabanki (Urban Ward / SO)",
+    "name_hi": "Banki SO Barabanki (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225001"
+    ]
+  },
+  {
+    "id": "town-barabanki-barabanki-bazar",
+    "type": "ward",
+    "name_en": "Barabanki Bazar (Urban Ward / SO)",
+    "name_hi": "Barabanki Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225001"
+    ]
+  },
+  {
+    "id": "town-barabanki-bahramghat",
+    "type": "ward",
+    "name_en": "Bahramghat (Urban Ward / SO)",
+    "name_hi": "Bahramghat (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225201"
+    ]
+  },
+  {
+    "id": "town-barabanki-10th-bn-p-a-c-barabanki",
+    "type": "ward",
+    "name_en": "10th BN  P A C Barabanki (Urban Ward / SO)",
+    "name_hi": "10th BN  P A C Barabanki (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225001"
+    ]
+  },
+  {
+    "id": "town-barabanki-dewa-sharif",
+    "type": "ward",
+    "name_en": "Dewa Sharif (Urban Ward / SO)",
+    "name_hi": "Dewa Sharif (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225301"
+    ]
+  },
+  {
+    "id": "town-barabanki-gandhi-aashram",
+    "type": "ward",
+    "name_en": "Gandhi Aashram (Urban Ward / SO)",
+    "name_hi": "Gandhi Aashram (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225003"
+    ]
+  },
+  {
+    "id": "town-barabanki-kothi-so-barabanki",
+    "type": "ward",
+    "name_en": "Kothi SO Barabanki (Urban Ward / SO)",
+    "name_hi": "Kothi SO Barabanki (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225119"
+    ]
+  },
+  {
+    "id": "town-barabanki-aliabad",
+    "type": "ward",
+    "name_en": "Aliabad (Urban Ward / SO)",
+    "name_hi": "Aliabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225401"
+    ]
+  },
+  {
+    "id": "town-barabanki-haidergarh",
+    "type": "ward",
+    "name_en": "Haidergarh (Urban Ward / SO)",
+    "name_hi": "Haidergarh (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225124"
+    ]
+  },
+  {
+    "id": "town-barabanki-jahangeerabad-raj",
+    "type": "ward",
+    "name_en": "Jahangeerabad Raj (Urban Ward / SO)",
+    "name_hi": "Jahangeerabad Raj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225203"
+    ]
+  },
+  {
+    "id": "town-barabanki-barabanki-collectorate",
+    "type": "ward",
+    "name_en": "Barabanki Collectorate (Urban Ward / SO)",
+    "name_hi": "Barabanki Collectorate (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225001"
+    ]
+  },
+  {
+    "id": "town-barabanki-barabanki-sugar-mill",
+    "type": "ward",
+    "name_en": "Barabanki Sugar Mill (Urban Ward / SO)",
+    "name_hi": "Barabanki Sugar Mill (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225002"
+    ]
+  },
+  {
+    "id": "town-barabanki-burhwal-sugar-mill",
+    "type": "ward",
+    "name_en": "Burhwal Sugar Mill (Urban Ward / SO)",
+    "name_hi": "Burhwal Sugar Mill (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225202"
+    ]
+  },
+  {
+    "id": "town-barabanki-dariya-bad",
+    "type": "ward",
+    "name_en": "Dariya Bad (Urban Ward / SO)",
+    "name_hi": "Dariya Bad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225403"
+    ]
+  },
+  {
+    "id": "town-barabanki-dariyabad-rs",
+    "type": "ward",
+    "name_en": "Dariyabad RS (Urban Ward / SO)",
+    "name_hi": "Dariyabad RS (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225404"
+    ]
+  },
+  {
+    "id": "town-barabanki-harakh",
+    "type": "ward",
+    "name_en": "Harakh (Urban Ward / SO)",
+    "name_hi": "Harakh (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225121"
+    ]
+  },
+  {
+    "id": "town-barabanki-hathaunda",
+    "type": "ward",
+    "name_en": "Hathaunda (Urban Ward / SO)",
+    "name_hi": "Hathaunda (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225405"
+    ]
+  },
+  {
+    "id": "town-barabanki-mohammad-pur-khaley",
+    "type": "ward",
+    "name_en": "Mohammad Pur Khaley (Urban Ward / SO)",
+    "name_hi": "Mohammad Pur Khaley (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225303"
+    ]
+  },
+  {
+    "id": "town-barabanki-ramnagar-so-barabanki",
+    "type": "ward",
+    "name_en": "Ramnagar SO Barabanki (Urban Ward / SO)",
+    "name_hi": "Ramnagar SO Barabanki (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225205"
+    ]
+  },
+  {
+    "id": "town-barabanki-shahpur-bhagauli",
+    "type": "ward",
+    "name_en": "Shahpur Bhagauli (Urban Ward / SO)",
+    "name_hi": "Shahpur Bhagauli (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225306"
+    ]
+  },
+  {
+    "id": "town-barabanki-sidhaur",
+    "type": "ward",
+    "name_en": "Sidhaur (Urban Ward / SO)",
+    "name_hi": "Sidhaur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225413"
+    ]
+  },
+  {
+    "id": "town-barabanki-subeha",
+    "type": "ward",
+    "name_en": "Subeha (Urban Ward / SO)",
+    "name_hi": "Subeha (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225125"
+    ]
+  },
+  {
+    "id": "town-barabanki-suratganj",
+    "type": "ward",
+    "name_en": "Suratganj (Urban Ward / SO)",
+    "name_hi": "Suratganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225304"
+    ]
+  },
+  {
+    "id": "town-barabanki-tilokpur-so-barabanki",
+    "type": "ward",
+    "name_en": "Tilokpur SO Barabanki (Urban Ward / SO)",
+    "name_hi": "Tilokpur SO Barabanki (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225208"
+    ]
+  },
+  {
+    "id": "town-barabanki-trivediganj",
+    "type": "ward",
+    "name_en": "Trivediganj (Urban Ward / SO)",
+    "name_hi": "Trivediganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225126"
+    ]
+  },
+  {
+    "id": "town-barabanki-usmanpur",
+    "type": "ward",
+    "name_en": "Usmanpur (Urban Ward / SO)",
+    "name_hi": "Usmanpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225120"
+    ]
+  },
+  {
+    "id": "town-barabanki-zaidpur",
+    "type": "ward",
+    "name_en": "Zaidpur (Urban Ward / SO)",
+    "name_hi": "Zaidpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225414"
+    ]
+  },
+  {
+    "id": "town-barabanki-kursi",
+    "type": "ward",
+    "name_en": "Kursi (Urban Ward / SO)",
+    "name_hi": "Kursi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225302"
+    ]
+  },
+  {
+    "id": "town-barabanki-masauli",
+    "type": "ward",
+    "name_en": "Masauli (Urban Ward / SO)",
+    "name_hi": "Masauli (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225204"
+    ]
+  },
+  {
+    "id": "town-barabanki-munshiganj-so-barabanki",
+    "type": "ward",
+    "name_en": "Munshiganj SO Barabanki (Urban Ward / SO)",
+    "name_hi": "Munshiganj SO Barabanki (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225001"
+    ]
+  },
+  {
+    "id": "town-barabanki-satrikh",
+    "type": "ward",
+    "name_en": "Satrikh (Urban Ward / SO)",
+    "name_hi": "Satrikh (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225122"
+    ]
+  },
+  {
+    "id": "town-barabanki-tehsil-fateh-pur",
+    "type": "ward",
+    "name_en": "Tehsil Fateh Pur (Urban Ward / SO)",
+    "name_hi": "Tehsil Fateh Pur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225305"
+    ]
+  },
+  {
+    "id": "town-barabanki-ram-sanehi-ghat",
+    "type": "ward",
+    "name_en": "Ram Sanehi Ghat (Urban Ward / SO)",
+    "name_hi": "Ram Sanehi Ghat (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225409"
+    ]
+  },
+  {
+    "id": "town-barabanki-saadatganj-so-barabanki",
+    "type": "ward",
+    "name_en": "Saadatganj SO Barabanki (Urban Ward / SO)",
+    "name_hi": "Saadatganj SO Barabanki (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225206"
+    ]
+  },
+  {
+    "id": "town-barabanki-sirauli-gaus-pur",
+    "type": "ward",
+    "name_en": "Sirauli Gaus Pur (Urban Ward / SO)",
+    "name_hi": "Sirauli Gaus Pur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225207"
+    ]
+  },
+  {
+    "id": "town-barabanki-safderganj",
+    "type": "ward",
+    "name_en": "Safderganj (Urban Ward / SO)",
+    "name_hi": "Safderganj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225412"
+    ]
+  },
+  {
+    "id": "town-barabanki-somaiya-nagar",
+    "type": "ward",
+    "name_en": "Somaiya Nagar (Urban Ward / SO)",
+    "name_hi": "Somaiya Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225123"
+    ]
+  },
+  {
+    "id": "town-barabanki-tikait-nagar",
+    "type": "ward",
+    "name_en": "Tikait Nagar (Urban Ward / SO)",
+    "name_hi": "Tikait Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-barabanki-main",
+    "tehsil_id": "nawabganj",
+    "district_id": "barabanki",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "225415"
+    ]
+  }
+]

@@ -29,7 +29,7 @@
       "covers": [
         "chitrakoot"
       ],
-      "source_url": "https://chitrakoot.nic.in/whos-who/",
+      "source_url": "https://chitrakoot.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "New Collectorate, Karwi, Chitrakoot"
@@ -60,7 +60,7 @@
       "covers": [
         "chitrakoot"
       ],
-      "source_url": "https://chitrakoot.nic.in/whos-who/",
+      "source_url": "https://chitrakoot.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Devi Prasad Pal (I.A.S)",
@@ -77,9 +77,10 @@
       "covers": [
         "chitrakoot"
       ],
-      "source_url": "https://chitrakoot.nic.in/whos-who/",
+      "source_url": "https://chitrakoot.nic.in/std-pin-codes/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "D.P.R.O."
     },
     {
       "id": "up-chitrakoot-sdm-karwi",
@@ -100,7 +101,7 @@
       "covers": [
         "karwi"
       ],
-      "source_url": "https://chitrakoot.nic.in/whos-who/",
+      "source_url": "https://chitrakoot.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Ajay Kumar (P.C.S)",
@@ -125,7 +126,7 @@
       "covers": [
         "mau"
       ],
-      "source_url": "https://chitrakoot.nic.in/whos-who/",
+      "source_url": "https://chitrakoot.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Ram Rishi Raman (P.C.S)",
@@ -150,7 +151,7 @@
       "covers": [
         "manikpur"
       ],
-      "source_url": "https://chitrakoot.nic.in/whos-who/",
+      "source_url": "https://chitrakoot.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Vipin Kumar Diwedi (P.C.S)",
@@ -175,7 +176,7 @@
       "covers": [
         "rajapur"
       ],
-      "source_url": "https://chitrakoot.nic.in/whos-who/",
+      "source_url": "https://chitrakoot.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Pooja Gupta (P.C.S)",
@@ -187,14 +188,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Karwi",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Karwi",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464776",
+          "type": "office",
+          "source_url": "https://chitrakoot.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.karwi.ckt@gmail.com",
       "covers": [
         "karwi"
       ],
-      "source_url": "https://chitrakoot.nic.in/whos-who/",
+      "source_url": "https://chitrakoot.nic.in/std-pin-codes/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "BDO – Karwi"
     },
     {
       "id": "up-chitrakoot-ado-karwi",
@@ -208,7 +218,8 @@
       ],
       "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-chitrakoot-bdo-karwi"
     },
     {
       "id": "up-chitrakoot-bdo-pahari",
@@ -216,14 +227,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Pahari",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pahari",
-      "phones": [],
+      "phones": [
+        {
+          "number": "8887714324",
+          "type": "office",
+          "source_url": "https://chitrakoot.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.pahari.ckt@gmail.com",
       "covers": [
         "pahari"
       ],
-      "source_url": "https://chitrakoot.nic.in/whos-who/",
+      "source_url": "https://chitrakoot.nic.in/std-pin-codes/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "BDO – Pahari"
     },
     {
       "id": "up-chitrakoot-ado-pahari",
@@ -237,7 +257,8 @@
       ],
       "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-chitrakoot-bdo-pahari"
     },
     {
       "id": "up-chitrakoot-bdo-manikpur",
@@ -245,14 +266,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Manikpur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Manikpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464778",
+          "type": "office",
+          "source_url": "https://chitrakoot.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.manikpur.ckt@gmail.com",
       "covers": [
         "manikpur"
       ],
-      "source_url": "https://chitrakoot.nic.in/whos-who/",
+      "source_url": "https://chitrakoot.nic.in/std-pin-codes/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "BDO – Manikpur"
     },
     {
       "id": "up-chitrakoot-ado-manikpur",
@@ -266,7 +296,8 @@
       ],
       "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-chitrakoot-bdo-manikpur"
     },
     {
       "id": "up-chitrakoot-bdo-mau",
@@ -274,14 +305,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mau",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mau",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464780",
+          "type": "office",
+          "source_url": "https://chitrakoot.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.mau.ckt@gmail.com",
       "covers": [
         "mau"
       ],
-      "source_url": "https://chitrakoot.nic.in/whos-who/",
+      "source_url": "https://chitrakoot.nic.in/std-pin-codes/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "BDO – Mau"
     },
     {
       "id": "up-chitrakoot-ado-mau",
@@ -295,7 +335,8 @@
       ],
       "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-chitrakoot-bdo-mau"
     },
     {
       "id": "up-chitrakoot-bdo-ramnagar",
@@ -303,14 +344,23 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Ramnagar",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ramnagar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464779",
+          "type": "office",
+          "source_url": "https://chitrakoot.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.ramnagar.ckt@gmail.com",
       "covers": [
         "ramnagar"
       ],
-      "source_url": "https://chitrakoot.nic.in/whos-who/",
+      "source_url": "https://chitrakoot.nic.in/std-pin-codes/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "BDO – Ramnagar"
     },
     {
       "id": "up-chitrakoot-ado-ramnagar",
@@ -324,7 +374,8 @@
       ],
       "source_url": "https://chitrakoot.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-chitrakoot-bdo-ramnagar"
     },
     {
       "id": "eo-chitrakoot-main",

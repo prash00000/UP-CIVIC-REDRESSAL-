@@ -22,9 +22,9 @@
       "covers": [
         "kannauj"
       ],
-      "source_url": "https://kannauj.nic.in/whos-who/",
+      "source_url": "https://kannauj.nic.in/collectorate/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-kannauj-cdo",
@@ -62,14 +62,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kannauj",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kannauj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416467",
+          "type": "office",
+          "source_url": "https://kannauj.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.kannauj.knj-up@gov.in",
       "covers": [
         "kannauj"
       ],
-      "source_url": "https://kannauj.nic.in/whos-who/",
+      "source_url": "https://kannauj.nic.in/tehsil/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Kannauj"
     },
     {
       "id": "up-kannauj-sdm-chhibramau",
@@ -77,14 +86,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Chhibramau",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Chhibramau",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416468",
+          "type": "office",
+          "source_url": "https://kannauj.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.chhibramau.knj-up@gov.in",
       "covers": [
         "chhibramau"
       ],
-      "source_url": "https://kannauj.nic.in/whos-who/",
+      "source_url": "https://kannauj.nic.in/tehsil/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Chhibramau"
     },
     {
       "id": "up-kannauj-sdm-tirwa",
@@ -92,14 +110,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Tirwa",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Tirwa",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416469",
+          "type": "office",
+          "source_url": "https://kannauj.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.tirwa.knj-up@gov.in",
       "covers": [
         "tirwa"
       ],
-      "source_url": "https://kannauj.nic.in/whos-who/",
+      "source_url": "https://kannauj.nic.in/tehsil/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "SDM Tirwa"
     },
     {
       "id": "up-kannauj-bdo-kannauj",
@@ -128,7 +155,8 @@
       ],
       "source_url": "https://kannauj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kannauj-bdo-kannauj"
     },
     {
       "id": "up-kannauj-bdo-jalalabad",
@@ -157,7 +185,8 @@
       ],
       "source_url": "https://kannauj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kannauj-bdo-jalalabad"
     },
     {
       "id": "up-kannauj-bdo-guganpur",
@@ -186,7 +215,8 @@
       ],
       "source_url": "https://kannauj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kannauj-bdo-guganpur"
     },
     {
       "id": "up-kannauj-bdo-talgram",
@@ -215,7 +245,8 @@
       ],
       "source_url": "https://kannauj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kannauj-bdo-talgram"
     },
     {
       "id": "up-kannauj-bdo-chhibramau",
@@ -244,7 +275,8 @@
       ],
       "source_url": "https://kannauj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kannauj-bdo-chhibramau"
     },
     {
       "id": "up-kannauj-bdo-saurikh",
@@ -273,7 +305,8 @@
       ],
       "source_url": "https://kannauj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kannauj-bdo-saurikh"
     },
     {
       "id": "up-kannauj-bdo-tirwa",
@@ -302,7 +335,8 @@
       ],
       "source_url": "https://kannauj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kannauj-bdo-tirwa"
     },
     {
       "id": "up-kannauj-bdo-haseran",
@@ -331,7 +365,8 @@
       ],
       "source_url": "https://kannauj.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kannauj-bdo-haseran"
     },
     {
       "id": "eo-kannauj-main",

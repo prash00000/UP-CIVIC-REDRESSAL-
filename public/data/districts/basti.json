@@ -22,9 +22,9 @@
       "covers": [
         "basti"
       ],
-      "source_url": "https://basti.nic.in/whos-who/",
+      "source_url": "https://basti.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-basti-cdo",
@@ -64,14 +64,22 @@
       "role": "dpro",
       "office_name_en": "District Panchayat Raj Officer (DPRO), Basti",
       "office_name_hi": "जिला पंचायत राज अधिकारी, बस्ती",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05542-245596",
+          "type": "landline",
+          "source_url": "https://basti.nic.in/directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "dpro-bst@nic.in",
       "covers": [
         "basti"
       ],
-      "source_url": "https://basti.nic.in/whos-who/",
+      "source_url": "https://basti.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-basti-sdm-sadar",
@@ -160,7 +168,8 @@
       ],
       "source_url": "https://basti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-basti-bdo-basti-sadar"
     },
     {
       "id": "up-basti-bdo-bahadurpur",
@@ -168,14 +177,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bahadurpur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bahadurpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464728",
+          "type": "office",
+          "source_url": "https://basti.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.bahadurpur.bst@gmail.com",
       "covers": [
         "bahadurpur"
       ],
-      "source_url": "https://basti.nic.in/whos-who/",
+      "source_url": "https://basti.nic.in/subdivision-blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-basti-ado-bahadurpur",
@@ -189,7 +206,8 @@
       ],
       "source_url": "https://basti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-basti-bdo-bahadurpur"
     },
     {
       "id": "up-basti-bdo-bankati",
@@ -197,14 +215,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bankati",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bankati",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464727",
+          "type": "office",
+          "source_url": "https://basti.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.bankati.bst@gmail.com",
       "covers": [
         "bankati"
       ],
-      "source_url": "https://basti.nic.in/whos-who/",
+      "source_url": "https://basti.nic.in/subdivision-blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-basti-ado-bankati",
@@ -218,7 +244,8 @@
       ],
       "source_url": "https://basti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-basti-bdo-bankati"
     },
     {
       "id": "up-basti-bdo-kaptanganj",
@@ -226,14 +253,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kaptanganj",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kaptanganj",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464723",
+          "type": "office",
+          "source_url": "https://basti.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.kaptanganj.bst@gmail.com",
       "covers": [
         "kaptanganj"
       ],
-      "source_url": "https://basti.nic.in/whos-who/",
+      "source_url": "https://basti.nic.in/subdivision-blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-basti-ado-kaptanganj",
@@ -247,7 +282,8 @@
       ],
       "source_url": "https://basti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-basti-bdo-kaptanganj"
     },
     {
       "id": "up-basti-bdo-kudraha",
@@ -276,7 +312,8 @@
       ],
       "source_url": "https://basti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-basti-bdo-kudraha"
     },
     {
       "id": "up-basti-bdo-rampur-manjhari",
@@ -305,7 +342,8 @@
       ],
       "source_url": "https://basti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-basti-bdo-rampur-manjhari"
     },
     {
       "id": "up-basti-bdo-saunghat",
@@ -334,7 +372,8 @@
       ],
       "source_url": "https://basti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-basti-bdo-saunghat"
     },
     {
       "id": "up-basti-bdo-harraiya",
@@ -342,14 +381,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Harraiya",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Harraiya",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464721",
+          "type": "office",
+          "source_url": "https://basti.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.harraiya.bst@gmail.com",
       "covers": [
         "harraiya"
       ],
-      "source_url": "https://basti.nic.in/whos-who/",
+      "source_url": "https://basti.nic.in/subdivision-blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-basti-ado-harraiya",
@@ -363,7 +410,8 @@
       ],
       "source_url": "https://basti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-basti-bdo-harraiya"
     },
     {
       "id": "up-basti-bdo-vikram-jot",
@@ -371,14 +419,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Vikram Jot",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Vikram Jot",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464722",
+          "type": "office",
+          "source_url": "https://basti.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.vikramjot.bst@gmail.com",
       "covers": [
         "vikram-jot"
       ],
-      "source_url": "https://basti.nic.in/whos-who/",
+      "source_url": "https://basti.nic.in/subdivision-blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-basti-ado-vikram-jot",
@@ -392,7 +448,8 @@
       ],
       "source_url": "https://basti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-basti-bdo-vikram-jot"
     },
     {
       "id": "up-basti-bdo-paras-rampur",
@@ -400,14 +457,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Paras Rampur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Paras Rampur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464719",
+          "type": "office",
+          "source_url": "https://basti.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.parasrampur.bst@gmail.com",
       "covers": [
         "paras-rampur"
       ],
-      "source_url": "https://basti.nic.in/whos-who/",
+      "source_url": "https://basti.nic.in/subdivision-blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-basti-ado-paras-rampur",
@@ -421,7 +486,8 @@
       ],
       "source_url": "https://basti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-basti-bdo-paras-rampur"
     },
     {
       "id": "up-basti-bdo-gaur",
@@ -429,14 +495,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Gaur",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gaur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464720",
+          "type": "office",
+          "source_url": "https://basti.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.gaur.bst@gmail.com",
       "covers": [
         "gaur"
       ],
-      "source_url": "https://basti.nic.in/whos-who/",
+      "source_url": "https://basti.nic.in/subdivision-blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-basti-ado-gaur",
@@ -450,7 +524,8 @@
       ],
       "source_url": "https://basti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-basti-bdo-gaur"
     },
     {
       "id": "up-basti-bdo-chhitahi",
@@ -479,7 +554,8 @@
       ],
       "source_url": "https://basti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-basti-bdo-chhitahi"
     },
     {
       "id": "up-basti-bdo-bhanpur",
@@ -508,7 +584,8 @@
       ],
       "source_url": "https://basti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-basti-bdo-bhanpur"
     },
     {
       "id": "up-basti-bdo-ramnagar",
@@ -516,14 +593,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Ramnagar",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ramnagar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464717",
+          "type": "office",
+          "source_url": "https://basti.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.ramnagar.bst@gmail.com",
       "covers": [
         "ramnagar"
       ],
-      "source_url": "https://basti.nic.in/whos-who/",
+      "source_url": "https://basti.nic.in/subdivision-blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-basti-ado-ramnagar",
@@ -537,7 +622,8 @@
       ],
       "source_url": "https://basti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-basti-bdo-ramnagar"
     },
     {
       "id": "up-basti-bdo-rudhauli",
@@ -545,14 +631,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Rudhauli",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rudhauli",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464724",
+          "type": "office",
+          "source_url": "https://basti.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.rudhauli.bst@gmail.com",
       "covers": [
         "rudhauli"
       ],
-      "source_url": "https://basti.nic.in/whos-who/",
+      "source_url": "https://basti.nic.in/subdivision-blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-basti-ado-rudhauli",
@@ -566,7 +660,8 @@
       ],
       "source_url": "https://basti.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-basti-bdo-rudhauli"
     },
     {
       "id": "eo-basti-main",

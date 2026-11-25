@@ -18,7 +18,7 @@ export default function FeedbackButtons({ officeId }: FeedbackButtonsProps) {
     setLoading(true);
 
     try {
-      await fetch("/api/feedback", {
+      await fetch("/api/feedback/", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ office_id: officeId, worked }),

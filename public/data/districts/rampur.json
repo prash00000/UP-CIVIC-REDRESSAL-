@@ -78,9 +78,9 @@
       "covers": [
         "sadar"
       ],
-      "source_url": "https://rampur.nic.in/whos-who/",
+      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-rampur-sdm-bilaspur",
@@ -93,9 +93,9 @@
       "covers": [
         "bilaspur"
       ],
-      "source_url": "https://rampur.nic.in/whos-who/",
+      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-rampur-sdm-milak",
@@ -108,9 +108,9 @@
       "covers": [
         "milak"
       ],
-      "source_url": "https://rampur.nic.in/whos-who/",
+      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-rampur-sdm-shahabad",
@@ -123,9 +123,9 @@
       "covers": [
         "shahabad"
       ],
-      "source_url": "https://rampur.nic.in/whos-who/",
+      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-rampur-sdm-suar",
@@ -138,9 +138,9 @@
       "covers": [
         "suar"
       ],
-      "source_url": "https://rampur.nic.in/whos-who/",
+      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-rampur-bdo-chamraua",
@@ -153,9 +153,9 @@
       "covers": [
         "chamraua"
       ],
-      "source_url": "https://rampur.nic.in/whos-who/",
+      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-rampur-ado-chamraua",
@@ -169,7 +169,8 @@
       ],
       "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-rampur-bdo-chamraua"
     },
     {
       "id": "up-rampur-bdo-saidnagar",
@@ -182,9 +183,9 @@
       "covers": [
         "saidnagar"
       ],
-      "source_url": "https://rampur.nic.in/whos-who/",
+      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-rampur-ado-saidnagar",
@@ -198,7 +199,8 @@
       ],
       "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-rampur-bdo-saidnagar"
     },
     {
       "id": "up-rampur-bdo-shahabad",
@@ -211,9 +213,9 @@
       "covers": [
         "shahabad"
       ],
-      "source_url": "https://rampur.nic.in/whos-who/",
+      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-rampur-ado-shahabad",
@@ -227,7 +229,8 @@
       ],
       "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-rampur-bdo-shahabad"
     },
     {
       "id": "up-rampur-bdo-milak",
@@ -240,9 +243,9 @@
       "covers": [
         "milak"
       ],
-      "source_url": "https://rampur.nic.in/whos-who/",
+      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-rampur-ado-milak",
@@ -256,7 +259,8 @@
       ],
       "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-rampur-bdo-milak"
     },
     {
       "id": "up-rampur-bdo-bilaspur",
@@ -269,9 +273,9 @@
       "covers": [
         "bilaspur"
       ],
-      "source_url": "https://rampur.nic.in/whos-who/",
+      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-rampur-ado-bilaspur",
@@ -285,7 +289,8 @@
       ],
       "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-rampur-bdo-bilaspur"
     },
     {
       "id": "up-rampur-bdo-suar",
@@ -298,9 +303,9 @@
       "covers": [
         "suar"
       ],
-      "source_url": "https://rampur.nic.in/whos-who/",
+      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-rampur-ado-suar",
@@ -314,7 +319,8 @@
       ],
       "source_url": "https://rampur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-rampur-bdo-suar"
     },
     {
       "id": "eo-rampur-main",
@@ -326,9 +332,10 @@
       "covers": [
         "ulb-rampur-main"
       ],
-      "source_url": "https://rampur.nic.in/whos-who/",
+      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "email": "bdosaid.ra-up@gov.in"
     }
   ]
 }

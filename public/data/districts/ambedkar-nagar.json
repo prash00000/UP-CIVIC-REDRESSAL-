@@ -21,7 +21,7 @@
       "covers": [
         "ambedkar-nagar"
       ],
-      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
+      "source_url": "https://ambedkarnagar.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Smt. Eesha Priya",
@@ -33,14 +33,23 @@
       "role": "cdo",
       "office_name_en": "Chief Development Officer (CDO), Ambedkar Nagar",
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), अंबेडकर नगर",
-      "phones": [],
-      "email": "cdo.amb-up@gov.in",
+      "phones": [
+        {
+          "number": "9454465295",
+          "type": "cug",
+          "source_url": "https://ambedkarnagar.nic.in/en/notice/shri-vaibhav-mishra/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "email": "drda-amd@nic.in",
       "covers": [
         "ambedkar-nagar"
       ],
-      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
+      "source_url": "https://ambedkarnagar.nic.in/en/notice/shri-vaibhav-mishra/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Vaibhav Mishra, IAS"
     },
     {
       "id": "up-ambedkar-nagar-dpro",
@@ -159,7 +168,8 @@
       ],
       "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ambedkar-nagar-bdo-akbarpur"
     },
     {
       "id": "up-ambedkar-nagar-bdo-tanda",
@@ -188,7 +198,8 @@
       ],
       "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ambedkar-nagar-bdo-tanda"
     },
     {
       "id": "up-ambedkar-nagar-bdo-jalalpur",
@@ -217,7 +228,8 @@
       ],
       "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ambedkar-nagar-bdo-jalalpur"
     },
     {
       "id": "up-ambedkar-nagar-bdo-katehari",
@@ -246,7 +258,8 @@
       ],
       "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ambedkar-nagar-bdo-katehari"
     },
     {
       "id": "up-ambedkar-nagar-bdo-bhiyawan",
@@ -275,7 +288,8 @@
       ],
       "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ambedkar-nagar-bdo-bhiyawan"
     },
     {
       "id": "up-ambedkar-nagar-bdo-ramnagar",
@@ -304,7 +318,8 @@
       ],
       "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ambedkar-nagar-bdo-ramnagar"
     },
     {
       "id": "up-ambedkar-nagar-bdo-jahangirganj",
@@ -333,7 +348,8 @@
       ],
       "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ambedkar-nagar-bdo-jahangirganj"
     },
     {
       "id": "up-ambedkar-nagar-bdo-bhiti",
@@ -362,7 +378,8 @@
       ],
       "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ambedkar-nagar-bdo-bhiti"
     },
     {
       "id": "up-ambedkar-nagar-bdo-baskhari",
@@ -391,7 +408,8 @@
       ],
       "source_url": "https://ambedkarnagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-ambedkar-nagar-bdo-baskhari"
     },
     {
       "id": "eo-ambedkar-nagar-main",
@@ -399,13 +417,24 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Ambedkar Nagar",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका अंबेडकर नगर",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454400245",
+          "type": "office",
+          "source_url": "https://ambedkarnagar.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-ambedkar-nagar-main"
       ],
-      "source_url": "https://ambedkarnagar.nic.in/whos-who/",
+      "source_url": "https://ambedkarnagar.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Smt. Eesha Priya",
+      "email": "dmamb@nic.in",
+      "address_en": "Collectorate Campus tehsil-Akbarpur Ambedkarnagar(U.P)-224122"
     }
   ]
 }

@@ -22,7 +22,7 @@
       "covers": [
         "bijnor"
       ],
-      "source_url": "https://bijnor.nic.in/whos-who/",
+      "source_url": "https://bijnor.nic.in/directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Collectrate Compound Bijnor"
@@ -46,7 +46,7 @@
       "covers": [
         "bijnor"
       ],
-      "source_url": "https://bijnor.nic.in/whos-who/",
+      "source_url": "https://bijnor.nic.in/directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Ran Vijai Singh (IAS)",
@@ -71,9 +71,9 @@
       "covers": [
         "bijnor"
       ],
-      "source_url": "https://bijnor.nic.in/whos-who/",
+      "source_url": "https://bijnor.nic.in/telephone/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bijnor-sdm-bijnor",
@@ -94,9 +94,9 @@
       "covers": [
         "bijnor"
       ],
-      "source_url": "https://bijnor.nic.in/whos-who/",
+      "source_url": "https://bijnor.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bijnor-sdm-chandpur",
@@ -117,9 +117,9 @@
       "covers": [
         "chandpur"
       ],
-      "source_url": "https://bijnor.nic.in/whos-who/",
+      "source_url": "https://bijnor.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bijnor-sdm-dhampur",
@@ -140,9 +140,9 @@
       "covers": [
         "dhampur"
       ],
-      "source_url": "https://bijnor.nic.in/whos-who/",
+      "source_url": "https://bijnor.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bijnor-sdm-nagina",
@@ -163,9 +163,9 @@
       "covers": [
         "nagina"
       ],
-      "source_url": "https://bijnor.nic.in/whos-who/",
+      "source_url": "https://bijnor.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bijnor-sdm-najibabad",
@@ -186,9 +186,9 @@
       "covers": [
         "najibabad"
       ],
-      "source_url": "https://bijnor.nic.in/whos-who/",
+      "source_url": "https://bijnor.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bijnor-bdo-mohammedpur-deomal",
@@ -217,7 +217,8 @@
       ],
       "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bijnor-bdo-mohammedpur-deomal"
     },
     {
       "id": "up-bijnor-bdo-haldaur",
@@ -238,9 +239,9 @@
       "covers": [
         "haldaur"
       ],
-      "source_url": "https://bijnor.nic.in/whos-who/",
+      "source_url": "https://bijnor.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bijnor-ado-haldaur",
@@ -254,7 +255,8 @@
       ],
       "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bijnor-bdo-haldaur"
     },
     {
       "id": "up-bijnor-bdo-kiratpur",
@@ -275,9 +277,9 @@
       "covers": [
         "kiratpur"
       ],
-      "source_url": "https://bijnor.nic.in/whos-who/",
+      "source_url": "https://bijnor.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bijnor-ado-kiratpur",
@@ -291,7 +293,8 @@
       ],
       "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bijnor-bdo-kiratpur"
     },
     {
       "id": "up-bijnor-bdo-kotwali",
@@ -312,9 +315,9 @@
       "covers": [
         "kotwali"
       ],
-      "source_url": "https://bijnor.nic.in/whos-who/",
+      "source_url": "https://bijnor.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bijnor-ado-kotwali",
@@ -328,7 +331,8 @@
       ],
       "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bijnor-bdo-kotwali"
     },
     {
       "id": "up-bijnor-bdo-najibabad",
@@ -357,7 +361,8 @@
       ],
       "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bijnor-bdo-najibabad"
     },
     {
       "id": "up-bijnor-bdo-nehtaur",
@@ -378,9 +383,9 @@
       "covers": [
         "nehtaur"
       ],
-      "source_url": "https://bijnor.nic.in/whos-who/",
+      "source_url": "https://bijnor.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bijnor-ado-nehtaur",
@@ -394,7 +399,8 @@
       ],
       "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bijnor-bdo-nehtaur"
     },
     {
       "id": "up-bijnor-bdo-dhampur",
@@ -415,9 +421,9 @@
       "covers": [
         "dhampur"
       ],
-      "source_url": "https://bijnor.nic.in/whos-who/",
+      "source_url": "https://bijnor.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bijnor-ado-dhampur",
@@ -431,7 +437,8 @@
       ],
       "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bijnor-bdo-dhampur"
     },
     {
       "id": "up-bijnor-bdo-afzalgarh",
@@ -452,9 +459,9 @@
       "covers": [
         "afzalgarh"
       ],
-      "source_url": "https://bijnor.nic.in/whos-who/",
+      "source_url": "https://bijnor.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bijnor-ado-afzalgarh",
@@ -468,7 +475,8 @@
       ],
       "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bijnor-bdo-afzalgarh"
     },
     {
       "id": "up-bijnor-bdo-allahpur",
@@ -497,7 +505,8 @@
       ],
       "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bijnor-bdo-allahpur"
     },
     {
       "id": "up-bijnor-bdo-noorpur",
@@ -518,9 +527,9 @@
       "covers": [
         "noorpur"
       ],
-      "source_url": "https://bijnor.nic.in/whos-who/",
+      "source_url": "https://bijnor.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bijnor-ado-noorpur",
@@ -534,7 +543,8 @@
       ],
       "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bijnor-bdo-noorpur"
     },
     {
       "id": "up-bijnor-bdo-jalilpur",
@@ -547,9 +557,11 @@
       "covers": [
         "jalilpur"
       ],
-      "source_url": "https://bijnor.nic.in/whos-who/",
+      "source_url": "https://bijnor.nic.in/e-mail-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Block Development Officer, Jalilpur",
+      "address_en": "bdojalilpurbi-up@nic.in"
     },
     {
       "id": "up-bijnor-ado-jalilpur",
@@ -563,7 +575,8 @@
       ],
       "source_url": "https://bijnor.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-bijnor-bdo-jalilpur"
     },
     {
       "id": "eo-bijnor-main",

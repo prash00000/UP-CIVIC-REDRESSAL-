@@ -1,0 +1,2895 @@
+[
+  {
+    "id": "v-etah-sheetalpur",
+    "type": "village",
+    "name_en": "Sheetalpur Block (Gram Panchayats)",
+    "name_hi": "Sheetalpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-etah-sakit",
+    "type": "village",
+    "name_en": "Sakit Block (Gram Panchayats)",
+    "name_hi": "Sakit विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sakit",
+    "block_id": "sakit",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-etah-nidhauli-kalan",
+    "type": "village",
+    "name_en": "Nidhauli Kalan Block (Gram Panchayats)",
+    "name_hi": "Nidhauli Kalan विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-nidhauli-kalan",
+    "block_id": "nidhauli-kalan",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-etah-marehra",
+    "type": "village",
+    "name_en": "Marehra Block (Gram Panchayats)",
+    "name_hi": "Marehra विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-marehra",
+    "block_id": "marehra",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-etah-awagarh",
+    "type": "village",
+    "name_en": "Awagarh Block (Gram Panchayats)",
+    "name_hi": "Awagarh विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-awagarh",
+    "block_id": "awagarh",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-etah-jalesar",
+    "type": "village",
+    "name_en": "Jalesar Block (Gram Panchayats)",
+    "name_hi": "Jalesar विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-jalesar",
+    "block_id": "jalesar",
+    "tehsil_id": "jalesar",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-etah-aliganj",
+    "type": "village",
+    "name_en": "Aliganj Block (Gram Panchayats)",
+    "name_hi": "Aliganj विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-aliganj",
+    "block_id": "aliganj",
+    "tehsil_id": "aliganj",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-etah-jaithara",
+    "type": "village",
+    "name_en": "Jaithara Block (Gram Panchayats)",
+    "name_hi": "Jaithara विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-jaithara",
+    "block_id": "jaithara",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-etah-ahamdabad",
+    "type": "village",
+    "name_en": "Ahamdabad (Gram Panchayat Area)",
+    "name_hi": "Ahamdabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-rustamgarh",
+    "type": "village",
+    "name_en": "Rustamgarh (Gram Panchayat Area)",
+    "name_hi": "Rustamgarh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-chhachena",
+    "type": "village",
+    "name_en": "Chhachena (Gram Panchayat Area)",
+    "name_hi": "Chhachena (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-garhi",
+    "type": "village",
+    "name_en": "Garhi (Gram Panchayat Area)",
+    "name_hi": "Garhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-kantore",
+    "type": "village",
+    "name_en": "Kantore (Gram Panchayat Area)",
+    "name_hi": "Kantore (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207401"
+    ]
+  },
+  {
+    "id": "po-etah-nagla-galu",
+    "type": "village",
+    "name_en": "Nagla Galu (Gram Panchayat Area)",
+    "name_hi": "Nagla Galu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-neorai",
+    "type": "village",
+    "name_en": "Neorai (Gram Panchayat Area)",
+    "name_hi": "Neorai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-rarpatti",
+    "type": "village",
+    "name_en": "Rarpatti (Gram Panchayat Area)",
+    "name_hi": "Rarpatti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-angriya",
+    "type": "village",
+    "name_en": "Angriya (Gram Panchayat Area)",
+    "name_hi": "Angriya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207247"
+    ]
+  },
+  {
+    "id": "po-etah-daheliyapooth",
+    "type": "village",
+    "name_en": "Daheliyapooth (Gram Panchayat Area)",
+    "name_hi": "Daheliyapooth (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207247"
+    ]
+  },
+  {
+    "id": "po-etah-sarauth",
+    "type": "village",
+    "name_en": "Sarauth (Gram Panchayat Area)",
+    "name_hi": "Sarauth (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207247"
+    ]
+  },
+  {
+    "id": "po-etah-sarutiya",
+    "type": "village",
+    "name_en": "Sarutiya (Gram Panchayat Area)",
+    "name_hi": "Sarutiya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207247"
+    ]
+  },
+  {
+    "id": "po-etah-ubhai-asadnagar",
+    "type": "village",
+    "name_en": "Ubhai Asadnagar (Gram Panchayat Area)",
+    "name_hi": "Ubhai Asadnagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207247"
+    ]
+  },
+  {
+    "id": "po-etah-narura",
+    "type": "village",
+    "name_en": "Narura (Gram Panchayat Area)",
+    "name_hi": "Narura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207301"
+    ]
+  },
+  {
+    "id": "po-etah-pipehra",
+    "type": "village",
+    "name_en": "Pipehra (Gram Panchayat Area)",
+    "name_hi": "Pipehra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207301"
+    ]
+  },
+  {
+    "id": "po-etah-baroliya",
+    "type": "village",
+    "name_en": "Baroliya (Gram Panchayat Area)",
+    "name_hi": "Baroliya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207248"
+    ]
+  },
+  {
+    "id": "po-etah-fagnaul",
+    "type": "village",
+    "name_en": "Fagnaul (Gram Panchayat Area)",
+    "name_hi": "Fagnaul (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207248"
+    ]
+  },
+  {
+    "id": "po-etah-jalalpur-santhal",
+    "type": "village",
+    "name_en": "Jalalpur Santhal (Gram Panchayat Area)",
+    "name_hi": "Jalalpur Santhal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207248"
+    ]
+  },
+  {
+    "id": "po-etah-kasela",
+    "type": "village",
+    "name_en": "Kasela (Gram Panchayat Area)",
+    "name_hi": "Kasela (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207248"
+    ]
+  },
+  {
+    "id": "po-etah-chirgawan",
+    "type": "village",
+    "name_en": "Chirgawan (Gram Panchayat Area)",
+    "name_hi": "Chirgawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-ganehspur",
+    "type": "village",
+    "name_en": "Ganehspur (Gram Panchayat Area)",
+    "name_hi": "Ganehspur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-shakrauli",
+    "type": "village",
+    "name_en": "Shakrauli (Gram Panchayat Area)",
+    "name_hi": "Shakrauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-simrau",
+    "type": "village",
+    "name_en": "Simrau (Gram Panchayat Area)",
+    "name_hi": "Simrau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-takhawan",
+    "type": "village",
+    "name_en": "Takhawan (Gram Panchayat Area)",
+    "name_hi": "Takhawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-bahadurpur",
+    "type": "village",
+    "name_en": "Bahadurpur (Gram Panchayat Area)",
+    "name_hi": "Bahadurpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207401"
+    ]
+  },
+  {
+    "id": "po-etah-kanar-kheraa",
+    "type": "village",
+    "name_en": "Kanar Kheraa (Gram Panchayat Area)",
+    "name_hi": "Kanar Kheraa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207401"
+    ]
+  },
+  {
+    "id": "po-etah-kutukpur-kaseri",
+    "type": "village",
+    "name_en": "Kutukpur Kaseri (Gram Panchayat Area)",
+    "name_hi": "Kutukpur Kaseri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207401"
+    ]
+  },
+  {
+    "id": "po-etah-mohani-mamoorganj",
+    "type": "village",
+    "name_en": "Mohani Mamoorganj (Gram Panchayat Area)",
+    "name_hi": "Mohani Mamoorganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207401"
+    ]
+  },
+  {
+    "id": "po-etah-achalpur",
+    "type": "village",
+    "name_en": "Achalpur (Gram Panchayat Area)",
+    "name_hi": "Achalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207125"
+    ]
+  },
+  {
+    "id": "po-etah-banthal-kutukpur",
+    "type": "village",
+    "name_en": "Banthal Kutukpur (Gram Panchayat Area)",
+    "name_hi": "Banthal Kutukpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207125"
+    ]
+  },
+  {
+    "id": "po-etah-burhenabad",
+    "type": "village",
+    "name_en": "Burhenabad (Gram Panchayat Area)",
+    "name_hi": "Burhenabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207125"
+    ]
+  },
+  {
+    "id": "po-etah-dholeswar",
+    "type": "village",
+    "name_en": "Dholeswar (Gram Panchayat Area)",
+    "name_hi": "Dholeswar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207122"
+    ]
+  },
+  {
+    "id": "po-etah-magrauli",
+    "type": "village",
+    "name_en": "Magrauli (Gram Panchayat Area)",
+    "name_hi": "Magrauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207122"
+    ]
+  },
+  {
+    "id": "po-etah-margayan",
+    "type": "village",
+    "name_en": "Margayan (Gram Panchayat Area)",
+    "name_hi": "Margayan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207122"
+    ]
+  },
+  {
+    "id": "po-etah-mitraul",
+    "type": "village",
+    "name_en": "Mitraul (Gram Panchayat Area)",
+    "name_hi": "Mitraul (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207122"
+    ]
+  },
+  {
+    "id": "po-etah-muiddinpur",
+    "type": "village",
+    "name_en": "Muiddinpur (Gram Panchayat Area)",
+    "name_hi": "Muiddinpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207120"
+    ]
+  },
+  {
+    "id": "po-etah-ambarpur-rejor",
+    "type": "village",
+    "name_en": "Ambarpur Rejor (Gram Panchayat Area)",
+    "name_hi": "Ambarpur Rejor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207121"
+    ]
+  },
+  {
+    "id": "po-etah-angadpur",
+    "type": "village",
+    "name_en": "Angadpur (Gram Panchayat Area)",
+    "name_hi": "Angadpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207121"
+    ]
+  },
+  {
+    "id": "po-etah-bhartoli",
+    "type": "village",
+    "name_en": "Bhartoli (Gram Panchayat Area)",
+    "name_hi": "Bhartoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207121"
+    ]
+  },
+  {
+    "id": "po-etah-chaprai-sikandarpur",
+    "type": "village",
+    "name_en": "Chaprai Sikandarpur (Gram Panchayat Area)",
+    "name_hi": "Chaprai Sikandarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207121"
+    ]
+  },
+  {
+    "id": "po-etah-gahi",
+    "type": "village",
+    "name_en": "Gahi (Gram Panchayat Area)",
+    "name_hi": "Gahi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207247"
+    ]
+  },
+  {
+    "id": "po-etah-kaila",
+    "type": "village",
+    "name_en": "Kaila (Gram Panchayat Area)",
+    "name_hi": "Kaila (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207247"
+    ]
+  },
+  {
+    "id": "po-etah-kakora",
+    "type": "village",
+    "name_en": "Kakora (Gram Panchayat Area)",
+    "name_hi": "Kakora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207247"
+    ]
+  },
+  {
+    "id": "po-etah-partappur",
+    "type": "village",
+    "name_en": "Partappur (Gram Panchayat Area)",
+    "name_hi": "Partappur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207241"
+    ]
+  },
+  {
+    "id": "po-etah-samaspur-dengri",
+    "type": "village",
+    "name_en": "Samaspur Dengri (Gram Panchayat Area)",
+    "name_hi": "Samaspur Dengri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207241"
+    ]
+  },
+  {
+    "id": "po-etah-borakalan",
+    "type": "village",
+    "name_en": "Borakalan (Gram Panchayat Area)",
+    "name_hi": "Borakalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207301"
+    ]
+  },
+  {
+    "id": "po-etah-gahrana",
+    "type": "village",
+    "name_en": "Gahrana (Gram Panchayat Area)",
+    "name_hi": "Gahrana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207301"
+    ]
+  },
+  {
+    "id": "po-etah-jalukhera",
+    "type": "village",
+    "name_en": "Jalukhera (Gram Panchayat Area)",
+    "name_hi": "Jalukhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207301"
+    ]
+  },
+  {
+    "id": "po-etah-jarani-kalan",
+    "type": "village",
+    "name_en": "Jarani Kalan (Gram Panchayat Area)",
+    "name_hi": "Jarani Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207301"
+    ]
+  },
+  {
+    "id": "po-etah-shekhpura",
+    "type": "village",
+    "name_en": "Shekhpura (Gram Panchayat Area)",
+    "name_hi": "Shekhpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207248"
+    ]
+  },
+  {
+    "id": "po-etah-barna",
+    "type": "village",
+    "name_en": "Barna (Gram Panchayat Area)",
+    "name_hi": "Barna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207249"
+    ]
+  },
+  {
+    "id": "po-etah-daheliya",
+    "type": "village",
+    "name_en": "Daheliya (Gram Panchayat Area)",
+    "name_hi": "Daheliya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207249"
+    ]
+  },
+  {
+    "id": "po-etah-dharoli",
+    "type": "village",
+    "name_en": "Dharoli (Gram Panchayat Area)",
+    "name_hi": "Dharoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207249"
+    ]
+  },
+  {
+    "id": "po-etah-jiroliya",
+    "type": "village",
+    "name_en": "Jiroliya (Gram Panchayat Area)",
+    "name_hi": "Jiroliya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207249"
+    ]
+  },
+  {
+    "id": "po-etah-khirya-nagar-shah",
+    "type": "village",
+    "name_en": "Khirya Nagar Shah (Gram Panchayat Area)",
+    "name_hi": "Khirya Nagar Shah (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207249"
+    ]
+  },
+  {
+    "id": "po-etah-nagla-leeladhar",
+    "type": "village",
+    "name_en": "Nagla Leeladhar (Gram Panchayat Area)",
+    "name_hi": "Nagla Leeladhar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207249"
+    ]
+  },
+  {
+    "id": "po-etah-berni",
+    "type": "village",
+    "name_en": "Berni (Gram Panchayat Area)",
+    "name_hi": "Berni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-nagla-anni",
+    "type": "village",
+    "name_en": "Nagla Anni (Gram Panchayat Area)",
+    "name_hi": "Nagla Anni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-narau",
+    "type": "village",
+    "name_en": "Narau (Gram Panchayat Area)",
+    "name_hi": "Narau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-naukhera",
+    "type": "village",
+    "name_en": "Naukhera (Gram Panchayat Area)",
+    "name_hi": "Naukhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-neem-khera",
+    "type": "village",
+    "name_en": "Neem Khera (Gram Panchayat Area)",
+    "name_hi": "Neem Khera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-salempur-pironda",
+    "type": "village",
+    "name_en": "Salempur Pironda (Gram Panchayat Area)",
+    "name_hi": "Salempur Pironda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207401"
+    ]
+  },
+  {
+    "id": "po-etah-sirsa-tippu",
+    "type": "village",
+    "name_en": "Sirsa Tippu (Gram Panchayat Area)",
+    "name_hi": "Sirsa Tippu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207125"
+    ]
+  },
+  {
+    "id": "po-etah-barai",
+    "type": "village",
+    "name_en": "Barai (Gram Panchayat Area)",
+    "name_hi": "Barai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207120"
+    ]
+  },
+  {
+    "id": "po-etah-bijora",
+    "type": "village",
+    "name_en": "Bijora (Gram Panchayat Area)",
+    "name_hi": "Bijora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207244"
+    ]
+  },
+  {
+    "id": "po-etah-bilsad",
+    "type": "village",
+    "name_en": "Bilsad (Gram Panchayat Area)",
+    "name_hi": "Bilsad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207244"
+    ]
+  },
+  {
+    "id": "po-etah-gariya-jagannath",
+    "type": "village",
+    "name_en": "Gariya Jagannath (Gram Panchayat Area)",
+    "name_hi": "Gariya Jagannath (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207244"
+    ]
+  },
+  {
+    "id": "po-etah-lothra",
+    "type": "village",
+    "name_en": "Lothra (Gram Panchayat Area)",
+    "name_hi": "Lothra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207121"
+    ]
+  },
+  {
+    "id": "po-etah-nandpur-bailamay",
+    "type": "village",
+    "name_en": "Nandpur Bailamay (Gram Panchayat Area)",
+    "name_hi": "Nandpur Bailamay (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207121"
+    ]
+  },
+  {
+    "id": "po-etah-peepal-khairia",
+    "type": "village",
+    "name_en": "Peepal Khairia (Gram Panchayat Area)",
+    "name_hi": "Peepal Khairia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207121"
+    ]
+  },
+  {
+    "id": "po-etah-puraon",
+    "type": "village",
+    "name_en": "Puraon (Gram Panchayat Area)",
+    "name_hi": "Puraon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-amraulirattanpur",
+    "type": "village",
+    "name_en": "Amraulirattanpur (Gram Panchayat Area)",
+    "name_hi": "Amraulirattanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207247"
+    ]
+  },
+  {
+    "id": "po-etah-junedpur",
+    "type": "village",
+    "name_en": "Junedpur (Gram Panchayat Area)",
+    "name_hi": "Junedpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207247"
+    ]
+  },
+  {
+    "id": "po-etah-nadrala",
+    "type": "village",
+    "name_en": "Nadrala (Gram Panchayat Area)",
+    "name_hi": "Nadrala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207247"
+    ]
+  },
+  {
+    "id": "po-etah-pardanapur",
+    "type": "village",
+    "name_en": "Pardanapur (Gram Panchayat Area)",
+    "name_hi": "Pardanapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207247"
+    ]
+  },
+  {
+    "id": "po-etah-barabhodela",
+    "type": "village",
+    "name_en": "Barabhodela (Gram Panchayat Area)",
+    "name_hi": "Barabhodela (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207301"
+    ]
+  },
+  {
+    "id": "po-etah-basundhara",
+    "type": "village",
+    "name_en": "Basundhara (Gram Panchayat Area)",
+    "name_hi": "Basundhara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207301"
+    ]
+  },
+  {
+    "id": "po-etah-pondari",
+    "type": "village",
+    "name_en": "Pondari (Gram Panchayat Area)",
+    "name_hi": "Pondari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207301"
+    ]
+  },
+  {
+    "id": "po-etah-tikathar",
+    "type": "village",
+    "name_en": "Tikathar (Gram Panchayat Area)",
+    "name_hi": "Tikathar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207301"
+    ]
+  },
+  {
+    "id": "po-etah-datauli",
+    "type": "village",
+    "name_en": "Datauli (Gram Panchayat Area)",
+    "name_hi": "Datauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207248"
+    ]
+  },
+  {
+    "id": "po-etah-rupdhani",
+    "type": "village",
+    "name_en": "Rupdhani (Gram Panchayat Area)",
+    "name_hi": "Rupdhani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207248"
+    ]
+  },
+  {
+    "id": "po-etah-bhaupura",
+    "type": "village",
+    "name_en": "Bhaupura (Gram Panchayat Area)",
+    "name_hi": "Bhaupura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207249"
+    ]
+  },
+  {
+    "id": "po-etah-meidupura",
+    "type": "village",
+    "name_en": "Meidupura (Gram Panchayat Area)",
+    "name_hi": "Meidupura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207249"
+    ]
+  },
+  {
+    "id": "po-etah-sahadat-nagar",
+    "type": "village",
+    "name_en": "Sahadat Nagar (Gram Panchayat Area)",
+    "name_hi": "Sahadat Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207249"
+    ]
+  },
+  {
+    "id": "po-etah-targawan",
+    "type": "village",
+    "name_en": "Targawan (Gram Panchayat Area)",
+    "name_hi": "Targawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207249"
+    ]
+  },
+  {
+    "id": "po-etah-gudaun",
+    "type": "village",
+    "name_en": "Gudaun (Gram Panchayat Area)",
+    "name_hi": "Gudaun (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-isauli",
+    "type": "village",
+    "name_en": "Isauli (Gram Panchayat Area)",
+    "name_hi": "Isauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-jamon",
+    "type": "village",
+    "name_en": "Jamon (Gram Panchayat Area)",
+    "name_hi": "Jamon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-maksud-pur",
+    "type": "village",
+    "name_en": "Maksud Pur (Gram Panchayat Area)",
+    "name_hi": "Maksud Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-rejua",
+    "type": "village",
+    "name_en": "Rejua (Gram Panchayat Area)",
+    "name_hi": "Rejua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-shahnagar-timarua",
+    "type": "village",
+    "name_en": "Shahnagar Timarua (Gram Panchayat Area)",
+    "name_hi": "Shahnagar Timarua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-beri",
+    "type": "village",
+    "name_en": "Beri (Gram Panchayat Area)",
+    "name_hi": "Beri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207401"
+    ]
+  },
+  {
+    "id": "po-etah-mehni-sora",
+    "type": "village",
+    "name_en": "Mehni Sora (Gram Panchayat Area)",
+    "name_hi": "Mehni Sora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207401"
+    ]
+  },
+  {
+    "id": "po-etah-pidora",
+    "type": "village",
+    "name_en": "Pidora (Gram Panchayat Area)",
+    "name_hi": "Pidora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207401"
+    ]
+  },
+  {
+    "id": "po-etah-tirlokpur",
+    "type": "village",
+    "name_en": "Tirlokpur (Gram Panchayat Area)",
+    "name_hi": "Tirlokpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207401"
+    ]
+  },
+  {
+    "id": "po-etah-dhiramai",
+    "type": "village",
+    "name_en": "Dhiramai (Gram Panchayat Area)",
+    "name_hi": "Dhiramai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207125"
+    ]
+  },
+  {
+    "id": "po-etah-lodhamai",
+    "type": "village",
+    "name_en": "Lodhamai (Gram Panchayat Area)",
+    "name_hi": "Lodhamai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207125"
+    ]
+  },
+  {
+    "id": "po-etah-sheorai",
+    "type": "village",
+    "name_en": "Sheorai (Gram Panchayat Area)",
+    "name_hi": "Sheorai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207125"
+    ]
+  },
+  {
+    "id": "po-etah-dalshahpur",
+    "type": "village",
+    "name_en": "Dalshahpur (Gram Panchayat Area)",
+    "name_hi": "Dalshahpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207122"
+    ]
+  },
+  {
+    "id": "po-etah-gahaitoo",
+    "type": "village",
+    "name_en": "Gahaitoo (Gram Panchayat Area)",
+    "name_hi": "Gahaitoo (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207122"
+    ]
+  },
+  {
+    "id": "po-etah-manora",
+    "type": "village",
+    "name_en": "Manora (Gram Panchayat Area)",
+    "name_hi": "Manora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207122"
+    ]
+  },
+  {
+    "id": "po-etah-bhadwas",
+    "type": "village",
+    "name_en": "Bhadwas (Gram Panchayat Area)",
+    "name_hi": "Bhadwas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207120"
+    ]
+  },
+  {
+    "id": "po-etah-jogamai-kalan",
+    "type": "village",
+    "name_en": "Jogamai Kalan (Gram Panchayat Area)",
+    "name_hi": "Jogamai Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207120"
+    ]
+  },
+  {
+    "id": "po-etah-songra",
+    "type": "village",
+    "name_en": "Songra (Gram Panchayat Area)",
+    "name_hi": "Songra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207120"
+    ]
+  },
+  {
+    "id": "po-etah-alliyapur",
+    "type": "village",
+    "name_en": "Alliyapur (Gram Panchayat Area)",
+    "name_hi": "Alliyapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207244"
+    ]
+  },
+  {
+    "id": "po-etah-luhari-kherra",
+    "type": "village",
+    "name_en": "Luhari Kherra (Gram Panchayat Area)",
+    "name_hi": "Luhari Kherra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207244"
+    ]
+  },
+  {
+    "id": "po-etah-mokampur",
+    "type": "village",
+    "name_en": "Mokampur (Gram Panchayat Area)",
+    "name_hi": "Mokampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207244"
+    ]
+  },
+  {
+    "id": "po-etah-kawar",
+    "type": "village",
+    "name_en": "Kawar (Gram Panchayat Area)",
+    "name_hi": "Kawar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207121"
+    ]
+  },
+  {
+    "id": "po-etah-saina-kalan",
+    "type": "village",
+    "name_en": "Saina Kalan (Gram Panchayat Area)",
+    "name_hi": "Saina Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207121"
+    ]
+  },
+  {
+    "id": "po-etah-kartala",
+    "type": "village",
+    "name_en": "Kartala (Gram Panchayat Area)",
+    "name_hi": "Kartala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-akbarpurkot",
+    "type": "village",
+    "name_en": "Akbarpurkot (Gram Panchayat Area)",
+    "name_hi": "Akbarpurkot (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207247"
+    ]
+  },
+  {
+    "id": "po-etah-datingara",
+    "type": "village",
+    "name_en": "Datingara (Gram Panchayat Area)",
+    "name_hi": "Datingara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207247"
+    ]
+  },
+  {
+    "id": "po-etah-jasrathpur",
+    "type": "village",
+    "name_en": "Jasrathpur (Gram Panchayat Area)",
+    "name_hi": "Jasrathpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207247"
+    ]
+  },
+  {
+    "id": "po-etah-mohammadnagar-bajhera",
+    "type": "village",
+    "name_en": "Mohammadnagar Bajhera (Gram Panchayat Area)",
+    "name_hi": "Mohammadnagar Bajhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207247"
+    ]
+  },
+  {
+    "id": "po-etah-nagla-gajpat",
+    "type": "village",
+    "name_en": "Nagla Gajpat (Gram Panchayat Area)",
+    "name_hi": "Nagla Gajpat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207247"
+    ]
+  },
+  {
+    "id": "po-etah-baraikalyanpur",
+    "type": "village",
+    "name_en": "Baraikalyanpur (Gram Panchayat Area)",
+    "name_hi": "Baraikalyanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207301"
+    ]
+  },
+  {
+    "id": "po-etah-khatout",
+    "type": "village",
+    "name_en": "Khatout (Gram Panchayat Area)",
+    "name_hi": "Khatout (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207301"
+    ]
+  },
+  {
+    "id": "po-etah-rohina-mirjapur",
+    "type": "village",
+    "name_en": "Rohina Mirjapur (Gram Panchayat Area)",
+    "name_hi": "Rohina Mirjapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207301"
+    ]
+  },
+  {
+    "id": "po-etah-udaipura",
+    "type": "village",
+    "name_en": "Udaipura (Gram Panchayat Area)",
+    "name_hi": "Udaipura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207248"
+    ]
+  },
+  {
+    "id": "po-etah-barahpur",
+    "type": "village",
+    "name_en": "Barahpur (Gram Panchayat Area)",
+    "name_hi": "Barahpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207249"
+    ]
+  },
+  {
+    "id": "po-etah-bhalol",
+    "type": "village",
+    "name_en": "Bhalol (Gram Panchayat Area)",
+    "name_hi": "Bhalol (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207249"
+    ]
+  },
+  {
+    "id": "po-etah-pinjari",
+    "type": "village",
+    "name_en": "Pinjari (Gram Panchayat Area)",
+    "name_hi": "Pinjari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207249"
+    ]
+  },
+  {
+    "id": "po-etah-parauli-suhagpur",
+    "type": "village",
+    "name_en": "Parauli Suhagpur (Gram Panchayat Area)",
+    "name_hi": "Parauli Suhagpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207249"
+    ]
+  },
+  {
+    "id": "po-etah-badhawali",
+    "type": "village",
+    "name_en": "Badhawali (Gram Panchayat Area)",
+    "name_hi": "Badhawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-jainpura",
+    "type": "village",
+    "name_en": "Jainpura (Gram Panchayat Area)",
+    "name_hi": "Jainpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-misauli",
+    "type": "village",
+    "name_en": "Misauli (Gram Panchayat Area)",
+    "name_hi": "Misauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-pilkhatra",
+    "type": "village",
+    "name_en": "Pilkhatra (Gram Panchayat Area)",
+    "name_hi": "Pilkhatra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-punhera",
+    "type": "village",
+    "name_en": "Punhera (Gram Panchayat Area)",
+    "name_hi": "Punhera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-sarai-neem",
+    "type": "village",
+    "name_en": "Sarai Neem (Gram Panchayat Area)",
+    "name_hi": "Sarai Neem (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "po-etah-piwari",
+    "type": "village",
+    "name_en": "Piwari (Gram Panchayat Area)",
+    "name_hi": "Piwari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207401"
+    ]
+  },
+  {
+    "id": "po-etah-gobra",
+    "type": "village",
+    "name_en": "Gobra (Gram Panchayat Area)",
+    "name_hi": "Gobra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207125"
+    ]
+  },
+  {
+    "id": "po-etah-naya-bans",
+    "type": "village",
+    "name_en": "Naya  Bans (Gram Panchayat Area)",
+    "name_hi": "Naya  Bans (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207125"
+    ]
+  },
+  {
+    "id": "po-etah-jhinwar",
+    "type": "village",
+    "name_en": "Jhinwar (Gram Panchayat Area)",
+    "name_hi": "Jhinwar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207122"
+    ]
+  },
+  {
+    "id": "po-etah-barigawan",
+    "type": "village",
+    "name_en": "Barigawan (Gram Panchayat Area)",
+    "name_hi": "Barigawan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207120"
+    ]
+  },
+  {
+    "id": "po-etah-jitauli",
+    "type": "village",
+    "name_en": "Jitauli (Gram Panchayat Area)",
+    "name_hi": "Jitauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207120"
+    ]
+  },
+  {
+    "id": "po-etah-majhola",
+    "type": "village",
+    "name_en": "Majhola (Gram Panchayat Area)",
+    "name_hi": "Majhola (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207244"
+    ]
+  },
+  {
+    "id": "po-etah-nagla-pohpi",
+    "type": "village",
+    "name_en": "Nagla Pohpi (Gram Panchayat Area)",
+    "name_hi": "Nagla Pohpi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207244"
+    ]
+  },
+  {
+    "id": "po-etah-shahpur-tehla",
+    "type": "village",
+    "name_en": "Shahpur Tehla (Gram Panchayat Area)",
+    "name_hi": "Shahpur Tehla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207244"
+    ]
+  },
+  {
+    "id": "po-etah-ishara-purbi",
+    "type": "village",
+    "name_en": "Ishara Purbi (Gram Panchayat Area)",
+    "name_hi": "Ishara Purbi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207121"
+    ]
+  },
+  {
+    "id": "po-etah-khaddua",
+    "type": "village",
+    "name_en": "Khaddua (Gram Panchayat Area)",
+    "name_hi": "Khaddua (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-bhagwala",
+    "type": "village",
+    "name_en": "Bhagwala (Gram Panchayat Area)",
+    "name_hi": "Bhagwala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-jamlapur",
+    "type": "village",
+    "name_en": "Jamlapur (Gram Panchayat Area)",
+    "name_hi": "Jamlapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-bijauri",
+    "type": "village",
+    "name_en": "Bijauri (Gram Panchayat Area)",
+    "name_hi": "Bijauri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-nigoh-hasanpur",
+    "type": "village",
+    "name_en": "Nigoh Hasanpur (Gram Panchayat Area)",
+    "name_hi": "Nigoh Hasanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-parson",
+    "type": "village",
+    "name_en": "Parson (Gram Panchayat Area)",
+    "name_hi": "Parson (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-kangrol",
+    "type": "village",
+    "name_en": "Kangrol (Gram Panchayat Area)",
+    "name_hi": "Kangrol (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-loya-badshapur",
+    "type": "village",
+    "name_en": "Loya Badshapur (Gram Panchayat Area)",
+    "name_hi": "Loya Badshapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-nagla-khilli",
+    "type": "village",
+    "name_en": "Nagla Khilli (Gram Panchayat Area)",
+    "name_hi": "Nagla Khilli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-begaur",
+    "type": "village",
+    "name_en": "Begaur (Gram Panchayat Area)",
+    "name_hi": "Begaur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-manikpur",
+    "type": "village",
+    "name_en": "Manikpur (Gram Panchayat Area)",
+    "name_hi": "Manikpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-sarnau",
+    "type": "village",
+    "name_en": "Sarnau (Gram Panchayat Area)",
+    "name_hi": "Sarnau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-mohanpura",
+    "type": "village",
+    "name_en": "Mohanpura (Gram Panchayat Area)",
+    "name_hi": "Mohanpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207401"
+    ]
+  },
+  {
+    "id": "po-etah-chhoti-nidhaoli",
+    "type": "village",
+    "name_en": "Chhoti Nidhaoli (Gram Panchayat Area)",
+    "name_hi": "Chhoti Nidhaoli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-garia-sheelam",
+    "type": "village",
+    "name_en": "Garia Sheelam (Gram Panchayat Area)",
+    "name_hi": "Garia Sheelam (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-malwan",
+    "type": "village",
+    "name_en": "Malwan (Gram Panchayat Area)",
+    "name_hi": "Malwan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-rijor",
+    "type": "village",
+    "name_en": "Rijor (Gram Panchayat Area)",
+    "name_hi": "Rijor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-kashon",
+    "type": "village",
+    "name_en": "Kashon (Gram Panchayat Area)",
+    "name_hi": "Kashon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-sheetal-pur",
+    "type": "village",
+    "name_en": "Sheetal Pur (Gram Panchayat Area)",
+    "name_hi": "Sheetal Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-mahua-khaira",
+    "type": "village",
+    "name_en": "Mahua Khaira (Gram Panchayat Area)",
+    "name_hi": "Mahua Khaira (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-milawali",
+    "type": "village",
+    "name_en": "Milawali (Gram Panchayat Area)",
+    "name_hi": "Milawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-datai",
+    "type": "village",
+    "name_en": "Datai (Gram Panchayat Area)",
+    "name_hi": "Datai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-ahemadpur-nagla-dhanu",
+    "type": "village",
+    "name_en": "Ahemadpur Nagla Dhanu (Gram Panchayat Area)",
+    "name_hi": "Ahemadpur Nagla Dhanu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-kansuri",
+    "type": "village",
+    "name_en": "Kansuri (Gram Panchayat Area)",
+    "name_hi": "Kansuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-babsa",
+    "type": "village",
+    "name_en": "Babsa (Gram Panchayat Area)",
+    "name_hi": "Babsa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-alipur",
+    "type": "village",
+    "name_en": "Alipur (Gram Panchayat Area)",
+    "name_hi": "Alipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207250"
+    ]
+  },
+  {
+    "id": "po-etah-kalua-teel-pur",
+    "type": "village",
+    "name_en": "Kalua Teel Pur (Gram Panchayat Area)",
+    "name_hi": "Kalua Teel Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207250"
+    ]
+  },
+  {
+    "id": "po-etah-unchagaon",
+    "type": "village",
+    "name_en": "Unchagaon (Gram Panchayat Area)",
+    "name_hi": "Unchagaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "281104"
+    ]
+  },
+  {
+    "id": "po-etah-hirondi",
+    "type": "village",
+    "name_en": "Hirondi (Gram Panchayat Area)",
+    "name_hi": "Hirondi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-sonhar",
+    "type": "village",
+    "name_en": "Sonhar (Gram Panchayat Area)",
+    "name_hi": "Sonhar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-pamas",
+    "type": "village",
+    "name_en": "Pamas (Gram Panchayat Area)",
+    "name_hi": "Pamas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-phaphoto",
+    "type": "village",
+    "name_en": "Phaphoto (Gram Panchayat Area)",
+    "name_hi": "Phaphoto (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-kakrawali",
+    "type": "village",
+    "name_en": "Kakrawali (Gram Panchayat Area)",
+    "name_hi": "Kakrawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-nagla-pawal",
+    "type": "village",
+    "name_en": "Nagla Pawal (Gram Panchayat Area)",
+    "name_hi": "Nagla Pawal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-girora",
+    "type": "village",
+    "name_en": "Girora (Gram Panchayat Area)",
+    "name_hi": "Girora (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-jeskhpur",
+    "type": "village",
+    "name_en": "Jeskhpur (Gram Panchayat Area)",
+    "name_hi": "Jeskhpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-jirsimi",
+    "type": "village",
+    "name_en": "Jirsimi (Gram Panchayat Area)",
+    "name_hi": "Jirsimi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-marthara-bhagwandas",
+    "type": "village",
+    "name_en": "Marthara Bhagwandas (Gram Panchayat Area)",
+    "name_hi": "Marthara Bhagwandas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-sarvodaya-ashram",
+    "type": "village",
+    "name_en": "Sarvodaya Ashram (Gram Panchayat Area)",
+    "name_hi": "Sarvodaya Ashram (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-lalgarhi",
+    "type": "village",
+    "name_en": "Lalgarhi (Gram Panchayat Area)",
+    "name_hi": "Lalgarhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "po-etah-kharsulia",
+    "type": "village",
+    "name_en": "Kharsulia (Gram Panchayat Area)",
+    "name_hi": "Kharsulia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207250"
+    ]
+  },
+  {
+    "id": "po-etah-barauli",
+    "type": "village",
+    "name_en": "Barauli (Gram Panchayat Area)",
+    "name_hi": "Barauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "po-etah-rajpur",
+    "type": "village",
+    "name_en": "Rajpur (Gram Panchayat Area)",
+    "name_hi": "Rajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-sheetalpur",
+    "block_id": "sheetalpur",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "ward-etah-ulb-etah-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Etah (All Wards)",
+    "name_hi": "एटा नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-etah-aruna-nagar",
+    "type": "ward",
+    "name_en": "Aruna Nagar (Urban Ward / SO)",
+    "name_hi": "Aruna Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207002"
+    ]
+  },
+  {
+    "id": "town-etah-mirehachi",
+    "type": "ward",
+    "name_en": "Mirehachi (Urban Ward / SO)",
+    "name_hi": "Mirehachi (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207125"
+    ]
+  },
+  {
+    "id": "town-etah-patiali-gate",
+    "type": "ward",
+    "name_en": "Patiali Gate (Urban Ward / SO)",
+    "name_hi": "Patiali Gate (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207001"
+    ]
+  },
+  {
+    "id": "town-etah-raja-ka-rampur",
+    "type": "ward",
+    "name_en": "Raja Ka Rampur (Urban Ward / SO)",
+    "name_hi": "Raja Ka Rampur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207244"
+    ]
+  },
+  {
+    "id": "town-etah-sakeet",
+    "type": "ward",
+    "name_en": "Sakeet (Urban Ward / SO)",
+    "name_hi": "Sakeet (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207121"
+    ]
+  },
+  {
+    "id": "town-etah-aliganj-so-etah",
+    "type": "ward",
+    "name_en": "Aliganj SO Etah (Urban Ward / SO)",
+    "name_hi": "Aliganj SO Etah (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207247"
+    ]
+  },
+  {
+    "id": "town-etah-amanpur",
+    "type": "ward",
+    "name_en": "Amanpur (Urban Ward / SO)",
+    "name_hi": "Amanpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207241"
+    ]
+  },
+  {
+    "id": "town-etah-dhumri",
+    "type": "ward",
+    "name_en": "Dhumri (Urban Ward / SO)",
+    "name_hi": "Dhumri (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207248"
+    ]
+  },
+  {
+    "id": "town-etah-jaithra",
+    "type": "ward",
+    "name_en": "Jaithra (Urban Ward / SO)",
+    "name_hi": "Jaithra (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207249"
+    ]
+  },
+  {
+    "id": "town-etah-jalesar",
+    "type": "ward",
+    "name_en": "Jalesar (Urban Ward / SO)",
+    "name_hi": "Jalesar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207302"
+    ]
+  },
+  {
+    "id": "town-etah-nidholi-kalan",
+    "type": "ward",
+    "name_en": "Nidholi Kalan (Urban Ward / SO)",
+    "name_hi": "Nidholi Kalan (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207122"
+    ]
+  },
+  {
+    "id": "town-etah-awagarh",
+    "type": "ward",
+    "name_en": "Awagarh (Urban Ward / SO)",
+    "name_hi": "Awagarh (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207301"
+    ]
+  },
+  {
+    "id": "town-etah-brahm-sajiwan",
+    "type": "ward",
+    "name_en": "Brahm Sajiwan (Urban Ward / SO)",
+    "name_hi": "Brahm Sajiwan (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207003"
+    ]
+  },
+  {
+    "id": "town-etah-collectorate-compound",
+    "type": "ward",
+    "name_en": "Collectorate Compound (Urban Ward / SO)",
+    "name_hi": "Collectorate Compound (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207001"
+    ]
+  },
+  {
+    "id": "town-etah-pilua",
+    "type": "ward",
+    "name_en": "Pilua (Urban Ward / SO)",
+    "name_hi": "Pilua (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207120"
+    ]
+  },
+  {
+    "id": "town-etah-sarai-aghat",
+    "type": "ward",
+    "name_en": "Sarai Aghat (Urban Ward / SO)",
+    "name_hi": "Sarai Aghat (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207250"
+    ]
+  },
+  {
+    "id": "town-etah-etah",
+    "type": "ward",
+    "name_en": "Etah (Urban Ward / SO)",
+    "name_hi": "Etah (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207001"
+    ]
+  },
+  {
+    "id": "town-etah-gandhi-market-so-etah",
+    "type": "ward",
+    "name_en": "Gandhi Market SO Etah (Urban Ward / SO)",
+    "name_hi": "Gandhi Market SO Etah (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207001"
+    ]
+  },
+  {
+    "id": "town-etah-marehara",
+    "type": "ward",
+    "name_en": "Marehara (Urban Ward / SO)",
+    "name_hi": "Marehara (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-etah-main",
+    "tehsil_id": "etah",
+    "district_id": "etah",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "207401"
+    ]
+  }
+]

@@ -22,7 +22,7 @@
       "covers": [
         "mirzapur"
       ],
-      "source_url": "https://mirzapur.nic.in/whos-who/",
+      "source_url": "https://mirzapur.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -45,7 +45,7 @@
       "covers": [
         "mirzapur"
       ],
-      "source_url": "https://mirzapur.nic.in/whos-who/",
+      "source_url": "https://mirzapur.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Vijay Kumar Singh (I.A.S.)"
@@ -152,7 +152,8 @@
       ],
       "source_url": "https://mirzapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mirzapur-bdo-nagar-city"
     },
     {
       "id": "up-mirzapur-bdo-kon",
@@ -181,7 +182,8 @@
       ],
       "source_url": "https://mirzapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mirzapur-bdo-kon"
     },
     {
       "id": "up-mirzapur-bdo-majhawan",
@@ -210,7 +212,8 @@
       ],
       "source_url": "https://mirzapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mirzapur-bdo-majhawan"
     },
     {
       "id": "up-mirzapur-bdo-pahari",
@@ -239,7 +242,8 @@
       ],
       "source_url": "https://mirzapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mirzapur-bdo-pahari"
     },
     {
       "id": "up-mirzapur-bdo-chunar-narayanpur",
@@ -268,7 +272,8 @@
       ],
       "source_url": "https://mirzapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mirzapur-bdo-chunar-narayanpur"
     },
     {
       "id": "up-mirzapur-bdo-sikhar",
@@ -297,7 +302,8 @@
       ],
       "source_url": "https://mirzapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mirzapur-bdo-sikhar"
     },
     {
       "id": "up-mirzapur-bdo-jamalpur",
@@ -326,7 +332,8 @@
       ],
       "source_url": "https://mirzapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mirzapur-bdo-jamalpur"
     },
     {
       "id": "up-mirzapur-bdo-lalganj",
@@ -355,7 +362,8 @@
       ],
       "source_url": "https://mirzapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mirzapur-bdo-lalganj"
     },
     {
       "id": "up-mirzapur-bdo-halia",
@@ -384,7 +392,8 @@
       ],
       "source_url": "https://mirzapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mirzapur-bdo-halia"
     },
     {
       "id": "up-mirzapur-bdo-marihan",
@@ -413,7 +422,8 @@
       ],
       "source_url": "https://mirzapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mirzapur-bdo-marihan"
     },
     {
       "id": "up-mirzapur-bdo-rajgarh",
@@ -442,7 +452,8 @@
       ],
       "source_url": "https://mirzapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mirzapur-bdo-rajgarh"
     },
     {
       "id": "up-mirzapur-bdo-chhanbey",
@@ -471,7 +482,8 @@
       ],
       "source_url": "https://mirzapur.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-mirzapur-bdo-chhanbey"
     },
     {
       "id": "eo-mirzapur-main",

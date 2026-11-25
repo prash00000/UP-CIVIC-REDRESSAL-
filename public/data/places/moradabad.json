@@ -1,0 +1,2091 @@
+[
+  {
+    "id": "v-moradabad-moradabad-sadar",
+    "type": "village",
+    "name_en": "Moradabad Sadar Block (Gram Panchayats)",
+    "name_hi": "Moradabad Sadar विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-moradabad-munda-pandey",
+    "type": "village",
+    "name_en": "Munda Pandey Block (Gram Panchayats)",
+    "name_hi": "Munda Pandey विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-munda-pandey",
+    "block_id": "munda-pandey",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-moradabad-bhagatpur-tanda",
+    "type": "village",
+    "name_en": "Bhagatpur Tanda Block (Gram Panchayats)",
+    "name_hi": "Bhagatpur Tanda विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhagatpur-tanda",
+    "block_id": "bhagatpur-tanda",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-moradabad-kanth",
+    "type": "village",
+    "name_en": "Kanth Block (Gram Panchayats)",
+    "name_hi": "Kanth विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kanth",
+    "block_id": "kanth",
+    "tehsil_id": "kanth",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-moradabad-chhajlat",
+    "type": "village",
+    "name_en": "Chhajlat Block (Gram Panchayats)",
+    "name_hi": "Chhajlat विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-chhajlat",
+    "block_id": "chhajlat",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-moradabad-dilari",
+    "type": "village",
+    "name_en": "Dilari Block (Gram Panchayats)",
+    "name_hi": "Dilari विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dilari",
+    "block_id": "dilari",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-moradabad-thakurdwara",
+    "type": "village",
+    "name_en": "Thakurdwara Block (Gram Panchayats)",
+    "name_hi": "Thakurdwara विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-thakurdwara",
+    "block_id": "thakurdwara",
+    "tehsil_id": "thakurdwara",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-moradabad-bilari",
+    "type": "village",
+    "name_en": "Bilari Block (Gram Panchayats)",
+    "name_hi": "Bilari विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bilari",
+    "block_id": "bilari",
+    "tehsil_id": "bilari",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-moradabad-kundarki",
+    "type": "village",
+    "name_en": "Kundarki Block (Gram Panchayats)",
+    "name_hi": "Kundarki विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kundarki",
+    "block_id": "kundarki",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-moradabad-jahangirpur",
+    "type": "village",
+    "name_en": "Jahangirpur (Gram Panchayat Area)",
+    "name_hi": "Jahangirpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "po-moradabad-baheri-brahmnan",
+    "type": "village",
+    "name_en": "Baheri Brahmnan (Gram Panchayat Area)",
+    "name_hi": "Baheri Brahmnan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244402"
+    ]
+  },
+  {
+    "id": "po-moradabad-bhagatpur-tanda",
+    "type": "village",
+    "name_en": "Bhagatpur Tanda (Gram Panchayat Area)",
+    "name_hi": "Bhagatpur Tanda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-bhagatpur-tanda",
+    "block_id": "bhagatpur-tanda",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244402"
+    ]
+  },
+  {
+    "id": "po-moradabad-gopiwala",
+    "type": "village",
+    "name_en": "Gopiwala (Gram Panchayat Area)",
+    "name_hi": "Gopiwala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244601"
+    ]
+  },
+  {
+    "id": "po-moradabad-nanhuwala",
+    "type": "village",
+    "name_en": "Nanhuwala (Gram Panchayat Area)",
+    "name_hi": "Nanhuwala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244601"
+    ]
+  },
+  {
+    "id": "po-moradabad-pasiapura",
+    "type": "village",
+    "name_en": "Pasiapura (Gram Panchayat Area)",
+    "name_hi": "Pasiapura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244601"
+    ]
+  },
+  {
+    "id": "po-moradabad-raghowala",
+    "type": "village",
+    "name_en": "Raghowala (Gram Panchayat Area)",
+    "name_hi": "Raghowala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244601"
+    ]
+  },
+  {
+    "id": "po-moradabad-ratupura",
+    "type": "village",
+    "name_en": "Ratupura (Gram Panchayat Area)",
+    "name_hi": "Ratupura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244601"
+    ]
+  },
+  {
+    "id": "po-moradabad-padia-nagla",
+    "type": "village",
+    "name_en": "Padia Nagla (Gram Panchayat Area)",
+    "name_hi": "Padia Nagla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244402"
+    ]
+  },
+  {
+    "id": "po-moradabad-pipalsana",
+    "type": "village",
+    "name_en": "Pipalsana (Gram Panchayat Area)",
+    "name_hi": "Pipalsana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244402"
+    ]
+  },
+  {
+    "id": "po-moradabad-sidhlau-nazarpur",
+    "type": "village",
+    "name_en": "Sidhlau Nazarpur (Gram Panchayat Area)",
+    "name_hi": "Sidhlau Nazarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244402"
+    ]
+  },
+  {
+    "id": "po-moradabad-bahoranpur-narauli",
+    "type": "village",
+    "name_en": "Bahoranpur Narauli (Gram Panchayat Area)",
+    "name_hi": "Bahoranpur Narauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244415"
+    ]
+  },
+  {
+    "id": "po-moradabad-guarau",
+    "type": "village",
+    "name_en": "Guarau (Gram Panchayat Area)",
+    "name_hi": "Guarau (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244415"
+    ]
+  },
+  {
+    "id": "po-moradabad-darapur",
+    "type": "village",
+    "name_en": "Darapur (Gram Panchayat Area)",
+    "name_hi": "Darapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244602"
+    ]
+  },
+  {
+    "id": "po-moradabad-rajupur-kalan",
+    "type": "village",
+    "name_en": "Rajupur Kalan (Gram Panchayat Area)",
+    "name_hi": "Rajupur Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244602"
+    ]
+  },
+  {
+    "id": "po-moradabad-khawajpur",
+    "type": "village",
+    "name_en": "Khawajpur (Gram Panchayat Area)",
+    "name_hi": "Khawajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244601"
+    ]
+  },
+  {
+    "id": "po-moradabad-longi-kalan",
+    "type": "village",
+    "name_en": "Longi Kalan (Gram Panchayat Area)",
+    "name_hi": "Longi Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244601"
+    ]
+  },
+  {
+    "id": "po-moradabad-noorpur",
+    "type": "village",
+    "name_en": "Noorpur (Gram Panchayat Area)",
+    "name_hi": "Noorpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "po-moradabad-burhanpur",
+    "type": "village",
+    "name_en": "Burhanpur (Gram Panchayat Area)",
+    "name_hi": "Burhanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244402"
+    ]
+  },
+  {
+    "id": "po-moradabad-devipura",
+    "type": "village",
+    "name_en": "Devipura (Gram Panchayat Area)",
+    "name_hi": "Devipura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244402"
+    ]
+  },
+  {
+    "id": "po-moradabad-narainpur",
+    "type": "village",
+    "name_en": "Narainpur (Gram Panchayat Area)",
+    "name_hi": "Narainpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244415"
+    ]
+  },
+  {
+    "id": "po-moradabad-sherpur-patti",
+    "type": "village",
+    "name_en": "Sherpur Patti (Gram Panchayat Area)",
+    "name_hi": "Sherpur Patti (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244602"
+    ]
+  },
+  {
+    "id": "po-moradabad-fareed-nagar-mustqum",
+    "type": "village",
+    "name_en": "Fareed Nagar Mustqum (Gram Panchayat Area)",
+    "name_hi": "Fareed Nagar Mustqum (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244601"
+    ]
+  },
+  {
+    "id": "po-moradabad-kishanpur-gaonri",
+    "type": "village",
+    "name_en": "Kishanpur Gaonri (Gram Panchayat Area)",
+    "name_hi": "Kishanpur Gaonri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244601"
+    ]
+  },
+  {
+    "id": "po-moradabad-chandpur",
+    "type": "village",
+    "name_en": "Chandpur (Gram Panchayat Area)",
+    "name_hi": "Chandpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244402"
+    ]
+  },
+  {
+    "id": "po-moradabad-laloowala",
+    "type": "village",
+    "name_en": "Laloowala (Gram Panchayat Area)",
+    "name_hi": "Laloowala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244402"
+    ]
+  },
+  {
+    "id": "po-moradabad-rn-sahaspur",
+    "type": "village",
+    "name_en": "RN Sahaspur (Gram Panchayat Area)",
+    "name_hi": "RN Sahaspur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244415"
+    ]
+  },
+  {
+    "id": "po-moradabad-sharif-nagar",
+    "type": "village",
+    "name_en": "Sharif Nagar (Gram Panchayat Area)",
+    "name_hi": "Sharif Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244602"
+    ]
+  },
+  {
+    "id": "po-moradabad-tanda-afzal",
+    "type": "village",
+    "name_en": "Tanda Afzal (Gram Panchayat Area)",
+    "name_hi": "Tanda Afzal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244602"
+    ]
+  },
+  {
+    "id": "po-moradabad-bahadur-nagar",
+    "type": "village",
+    "name_en": "Bahadur Nagar (Gram Panchayat Area)",
+    "name_hi": "Bahadur Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244601"
+    ]
+  },
+  {
+    "id": "po-moradabad-kalajhanda",
+    "type": "village",
+    "name_en": "Kalajhanda (Gram Panchayat Area)",
+    "name_hi": "Kalajhanda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244601"
+    ]
+  },
+  {
+    "id": "po-moradabad-aliabad",
+    "type": "village",
+    "name_en": "Aliabad (Gram Panchayat Area)",
+    "name_hi": "Aliabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244401"
+    ]
+  },
+  {
+    "id": "po-moradabad-dhakia-jut",
+    "type": "village",
+    "name_en": "Dhakia Jut (Gram Panchayat Area)",
+    "name_hi": "Dhakia Jut (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244401"
+    ]
+  },
+  {
+    "id": "po-moradabad-akkadilari",
+    "type": "village",
+    "name_en": "Akkadilari (Gram Panchayat Area)",
+    "name_hi": "Akkadilari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-dilari",
+    "block_id": "dilari",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244104"
+    ]
+  },
+  {
+    "id": "po-moradabad-hiran-khera",
+    "type": "village",
+    "name_en": "Hiran Khera (Gram Panchayat Area)",
+    "name_hi": "Hiran Khera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244104"
+    ]
+  },
+  {
+    "id": "po-moradabad-kankar-khera",
+    "type": "village",
+    "name_en": "Kankar Khera (Gram Panchayat Area)",
+    "name_hi": "Kankar Khera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244104"
+    ]
+  },
+  {
+    "id": "po-moradabad-gakharpur",
+    "type": "village",
+    "name_en": "Gakharpur (Gram Panchayat Area)",
+    "name_hi": "Gakharpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244401"
+    ]
+  },
+  {
+    "id": "po-moradabad-rehta-mafi",
+    "type": "village",
+    "name_en": "Rehta Mafi (Gram Panchayat Area)",
+    "name_hi": "Rehta Mafi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244401"
+    ]
+  },
+  {
+    "id": "po-moradabad-majholi-khas",
+    "type": "village",
+    "name_en": "Majholi Khas (Gram Panchayat Area)",
+    "name_hi": "Majholi Khas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244413"
+    ]
+  },
+  {
+    "id": "po-moradabad-beerpur-than",
+    "type": "village",
+    "name_en": "Beerpur Than (Gram Panchayat Area)",
+    "name_hi": "Beerpur Than (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244104"
+    ]
+  },
+  {
+    "id": "po-moradabad-ganeshpur",
+    "type": "village",
+    "name_en": "Ganeshpur (Gram Panchayat Area)",
+    "name_hi": "Ganeshpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244104"
+    ]
+  },
+  {
+    "id": "po-moradabad-garhi-salempur",
+    "type": "village",
+    "name_en": "Garhi Salempur (Gram Panchayat Area)",
+    "name_hi": "Garhi Salempur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244501"
+    ]
+  },
+  {
+    "id": "po-moradabad-matlabpur-sadarpur",
+    "type": "village",
+    "name_en": "Matlabpur Sadarpur (Gram Panchayat Area)",
+    "name_hi": "Matlabpur Sadarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244501"
+    ]
+  },
+  {
+    "id": "po-moradabad-mundha-kheri",
+    "type": "village",
+    "name_en": "Mundha Kheri (Gram Panchayat Area)",
+    "name_hi": "Mundha Kheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244501"
+    ]
+  },
+  {
+    "id": "po-moradabad-umri-sabzi-pur",
+    "type": "village",
+    "name_en": "Umri Sabzi Pur (Gram Panchayat Area)",
+    "name_hi": "Umri Sabzi Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244102"
+    ]
+  },
+  {
+    "id": "po-moradabad-sitapuri",
+    "type": "village",
+    "name_en": "Sitapuri (Gram Panchayat Area)",
+    "name_hi": "Sitapuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "po-moradabad-sonakpur",
+    "type": "village",
+    "name_en": "Sonakpur (Gram Panchayat Area)",
+    "name_hi": "Sonakpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244105"
+    ]
+  },
+  {
+    "id": "po-moradabad-lakri-fazalpur",
+    "type": "village",
+    "name_en": "Lakri Fazalpur (Gram Panchayat Area)",
+    "name_hi": "Lakri Fazalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "po-moradabad-godhi",
+    "type": "village",
+    "name_en": "Godhi (Gram Panchayat Area)",
+    "name_hi": "Godhi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "po-moradabad-harthala-colony",
+    "type": "village",
+    "name_en": "Harthala Colony (Gram Panchayat Area)",
+    "name_hi": "Harthala Colony (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "po-moradabad-qazipura",
+    "type": "village",
+    "name_en": "Qazipura (Gram Panchayat Area)",
+    "name_hi": "Qazipura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244105"
+    ]
+  },
+  {
+    "id": "po-moradabad-amarpur-kashi",
+    "type": "village",
+    "name_en": "Amarpur Kashi (Gram Panchayat Area)",
+    "name_hi": "Amarpur Kashi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-moradabad-sanai",
+    "type": "village",
+    "name_en": "Sanai (Gram Panchayat Area)",
+    "name_hi": "Sanai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-moradabad-sarkara-bishnoi",
+    "type": "village",
+    "name_en": "Sarkara Bishnoi (Gram Panchayat Area)",
+    "name_hi": "Sarkara Bishnoi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244401"
+    ]
+  },
+  {
+    "id": "po-moradabad-sihali-khadar",
+    "type": "village",
+    "name_en": "Sihali Khadar (Gram Panchayat Area)",
+    "name_hi": "Sihali Khadar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244401"
+    ]
+  },
+  {
+    "id": "po-moradabad-haryana",
+    "type": "village",
+    "name_en": "Haryana (Gram Panchayat Area)",
+    "name_hi": "Haryana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244413"
+    ]
+  },
+  {
+    "id": "po-moradabad-hathipur-chandoi",
+    "type": "village",
+    "name_en": "Hathipur Chandoi (Gram Panchayat Area)",
+    "name_hi": "Hathipur Chandoi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244413"
+    ]
+  },
+  {
+    "id": "po-moradabad-sardar-nagar",
+    "type": "village",
+    "name_en": "Sardar Nagar (Gram Panchayat Area)",
+    "name_hi": "Sardar Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244104"
+    ]
+  },
+  {
+    "id": "po-moradabad-sarkara-khas",
+    "type": "village",
+    "name_en": "Sarkara Khas (Gram Panchayat Area)",
+    "name_hi": "Sarkara Khas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244104"
+    ]
+  },
+  {
+    "id": "po-moradabad-siras-khera",
+    "type": "village",
+    "name_en": "Siras Khera (Gram Panchayat Area)",
+    "name_hi": "Siras Khera (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244104"
+    ]
+  },
+  {
+    "id": "po-moradabad-akbarpur-sihali",
+    "type": "village",
+    "name_en": "Akbarpur Sihali (Gram Panchayat Area)",
+    "name_hi": "Akbarpur Sihali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244501"
+    ]
+  },
+  {
+    "id": "po-moradabad-chhajlet",
+    "type": "village",
+    "name_en": "Chhajlet (Gram Panchayat Area)",
+    "name_hi": "Chhajlet (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244501"
+    ]
+  },
+  {
+    "id": "po-moradabad-umari-kalan",
+    "type": "village",
+    "name_en": "Umari Kalan (Gram Panchayat Area)",
+    "name_hi": "Umari Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244501"
+    ]
+  },
+  {
+    "id": "po-moradabad-gumsani",
+    "type": "village",
+    "name_en": "Gumsani (Gram Panchayat Area)",
+    "name_hi": "Gumsani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244102"
+    ]
+  },
+  {
+    "id": "po-moradabad-devapur-mustkam-pur",
+    "type": "village",
+    "name_en": "Devapur Mustkam Pur (Gram Panchayat Area)",
+    "name_hi": "Devapur Mustkam Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "po-moradabad-hasanpur-katia",
+    "type": "village",
+    "name_en": "Hasanpur Katia (Gram Panchayat Area)",
+    "name_hi": "Hasanpur Katia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "po-moradabad-macharria",
+    "type": "village",
+    "name_en": "Macharria (Gram Panchayat Area)",
+    "name_hi": "Macharria (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "po-moradabad-fatehpur-vishnoi",
+    "type": "village",
+    "name_en": "Fatehpur Vishnoi (Gram Panchayat Area)",
+    "name_hi": "Fatehpur Vishnoi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244504"
+    ]
+  },
+  {
+    "id": "po-moradabad-kafiabad",
+    "type": "village",
+    "name_en": "Kafiabad (Gram Panchayat Area)",
+    "name_hi": "Kafiabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244504"
+    ]
+  },
+  {
+    "id": "po-moradabad-kuchawali",
+    "type": "village",
+    "name_en": "Kuchawali (Gram Panchayat Area)",
+    "name_hi": "Kuchawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244504"
+    ]
+  },
+  {
+    "id": "po-moradabad-ladawali",
+    "type": "village",
+    "name_en": "Ladawali (Gram Panchayat Area)",
+    "name_hi": "Ladawali (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244504"
+    ]
+  },
+  {
+    "id": "po-moradabad-chandrapur-kalan",
+    "type": "village",
+    "name_en": "Chandrapur Kalan (Gram Panchayat Area)",
+    "name_hi": "Chandrapur Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-moradabad-chhitauni",
+    "type": "village",
+    "name_en": "Chhitauni (Gram Panchayat Area)",
+    "name_hi": "Chhitauni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-moradabad-sagarpur",
+    "type": "village",
+    "name_en": "Sagarpur (Gram Panchayat Area)",
+    "name_hi": "Sagarpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-moradabad-kothi-khidmatpur",
+    "type": "village",
+    "name_en": "Kothi Khidmatpur (Gram Panchayat Area)",
+    "name_hi": "Kothi Khidmatpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244501"
+    ]
+  },
+  {
+    "id": "po-moradabad-kuri-rawana",
+    "type": "village",
+    "name_en": "Kuri Rawana (Gram Panchayat Area)",
+    "name_hi": "Kuri Rawana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244501"
+    ]
+  },
+  {
+    "id": "po-moradabad-madhpur",
+    "type": "village",
+    "name_en": "Madhpur (Gram Panchayat Area)",
+    "name_hi": "Madhpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244501"
+    ]
+  },
+  {
+    "id": "po-moradabad-ratanpur-kalan",
+    "type": "village",
+    "name_en": "Ratanpur Kalan (Gram Panchayat Area)",
+    "name_hi": "Ratanpur Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244102"
+    ]
+  },
+  {
+    "id": "po-moradabad-husainpur-hamir",
+    "type": "village",
+    "name_en": "Husainpur Hamir (Gram Panchayat Area)",
+    "name_hi": "Husainpur Hamir (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "po-moradabad-sultanpur-dost",
+    "type": "village",
+    "name_en": "Sultanpur Dost (Gram Panchayat Area)",
+    "name_hi": "Sultanpur Dost (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244601"
+    ]
+  },
+  {
+    "id": "po-moradabad-beejna",
+    "type": "village",
+    "name_en": "Beejna (Gram Panchayat Area)",
+    "name_hi": "Beejna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "po-moradabad-rajpur-kesaria",
+    "type": "village",
+    "name_en": "Rajpur Kesaria (Gram Panchayat Area)",
+    "name_hi": "Rajpur Kesaria (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "po-moradabad-faredi",
+    "type": "village",
+    "name_en": "Faredi (Gram Panchayat Area)",
+    "name_hi": "Faredi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "po-moradabad-gataura",
+    "type": "village",
+    "name_en": "Gataura (Gram Panchayat Area)",
+    "name_hi": "Gataura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-moradabad-jalalpur",
+    "type": "village",
+    "name_en": "Jalalpur (Gram Panchayat Area)",
+    "name_hi": "Jalalpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-moradabad-jargaon",
+    "type": "village",
+    "name_en": "Jargaon (Gram Panchayat Area)",
+    "name_hi": "Jargaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-moradabad-ronda",
+    "type": "village",
+    "name_en": "Ronda (Gram Panchayat Area)",
+    "name_hi": "Ronda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-moradabad-sihali-mala",
+    "type": "village",
+    "name_en": "Sihali Mala (Gram Panchayat Area)",
+    "name_hi": "Sihali Mala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-moradabad-malakpursemli",
+    "type": "village",
+    "name_en": "Malakpursemli (Gram Panchayat Area)",
+    "name_hi": "Malakpursemli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244401"
+    ]
+  },
+  {
+    "id": "po-moradabad-sahaspuri",
+    "type": "village",
+    "name_en": "Sahaspuri (Gram Panchayat Area)",
+    "name_hi": "Sahaspuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244401"
+    ]
+  },
+  {
+    "id": "po-moradabad-hathipur-chittu",
+    "type": "village",
+    "name_en": "Hathipur Chittu (Gram Panchayat Area)",
+    "name_hi": "Hathipur Chittu (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244413"
+    ]
+  },
+  {
+    "id": "po-moradabad-tewar-khas",
+    "type": "village",
+    "name_en": "Tewar Khas (Gram Panchayat Area)",
+    "name_hi": "Tewar Khas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244413"
+    ]
+  },
+  {
+    "id": "po-moradabad-chandanpur-isapur",
+    "type": "village",
+    "name_en": "Chandanpur Isapur (Gram Panchayat Area)",
+    "name_hi": "Chandanpur Isapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244104"
+    ]
+  },
+  {
+    "id": "po-moradabad-deolari",
+    "type": "village",
+    "name_en": "Deolari (Gram Panchayat Area)",
+    "name_hi": "Deolari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244104"
+    ]
+  },
+  {
+    "id": "po-moradabad-saifni",
+    "type": "village",
+    "name_en": "Saifni (Gram Panchayat Area)",
+    "name_hi": "Saifni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-moradabad-syaundara",
+    "type": "village",
+    "name_en": "Syaundara (Gram Panchayat Area)",
+    "name_hi": "Syaundara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-moradabad-thaonla",
+    "type": "village",
+    "name_en": "Thaonla (Gram Panchayat Area)",
+    "name_hi": "Thaonla (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-moradabad-jahangirpur-chakpheri",
+    "type": "village",
+    "name_en": "Jahangirpur Chakpheri (Gram Panchayat Area)",
+    "name_hi": "Jahangirpur Chakpheri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244501"
+    ]
+  },
+  {
+    "id": "po-moradabad-mohdpur-mafi",
+    "type": "village",
+    "name_en": "MohdPur Mafi (Gram Panchayat Area)",
+    "name_hi": "MohdPur Mafi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244501"
+    ]
+  },
+  {
+    "id": "po-moradabad-pathangi",
+    "type": "village",
+    "name_en": "Pathangi (Gram Panchayat Area)",
+    "name_hi": "Pathangi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244501"
+    ]
+  },
+  {
+    "id": "po-moradabad-yusufpur-naglia",
+    "type": "village",
+    "name_en": "Yusufpur Naglia (Gram Panchayat Area)",
+    "name_hi": "Yusufpur Naglia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244102"
+    ]
+  },
+  {
+    "id": "po-moradabad-mukarrabpur",
+    "type": "village",
+    "name_en": "Mukarrabpur (Gram Panchayat Area)",
+    "name_hi": "Mukarrabpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "po-moradabad-tumaria-kalan",
+    "type": "village",
+    "name_en": "Tumaria Kalan (Gram Panchayat Area)",
+    "name_hi": "Tumaria Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "po-moradabad-bhensia",
+    "type": "village",
+    "name_en": "Bhensia (Gram Panchayat Area)",
+    "name_hi": "Bhensia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "po-moradabad-modha",
+    "type": "village",
+    "name_en": "Modha (Gram Panchayat Area)",
+    "name_hi": "Modha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244504"
+    ]
+  },
+  {
+    "id": "po-moradabad-sarai-khajoor",
+    "type": "village",
+    "name_en": "Sarai Khajoor (Gram Panchayat Area)",
+    "name_hi": "Sarai Khajoor (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244504"
+    ]
+  },
+  {
+    "id": "po-moradabad-dharampur-kalan",
+    "type": "village",
+    "name_en": "Dharampur Kalan (Gram Panchayat Area)",
+    "name_hi": "Dharampur Kalan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-moradabad-kharsol",
+    "type": "village",
+    "name_en": "Kharsol (Gram Panchayat Area)",
+    "name_hi": "Kharsol (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-moradabad-khawari-awwal",
+    "type": "village",
+    "name_en": "Khawari Awwal (Gram Panchayat Area)",
+    "name_hi": "Khawari Awwal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-moradabad-mangoopura",
+    "type": "village",
+    "name_en": "Mangoopura (Gram Panchayat Area)",
+    "name_hi": "Mangoopura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "po-moradabad-uncha-gaon",
+    "type": "village",
+    "name_en": "Uncha Gaon (Gram Panchayat Area)",
+    "name_hi": "Uncha Gaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-moradabad-sadar",
+    "block_id": "moradabad-sadar",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "ward-moradabad-nigam",
+    "type": "ward",
+    "name_en": "Moradabad Municipal Corporation (All Wards)",
+    "name_hi": "मुरादाबाद नगर निगम (सभी वार्ड)",
+    "ulb_id": "moradabad",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam"
+  },
+  {
+    "id": "ward-moradabad-ulb-moradabad-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Moradabad (All Wards)",
+    "name_hi": "मुरादाबाद नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-moradabad-ndc-moradabad",
+    "type": "ward",
+    "name_en": "NDC Moradabad (Urban Ward / SO)",
+    "name_hi": "NDC Moradabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-moradabad",
+    "type": "ward",
+    "name_en": "Moradabad (Urban Ward / SO)",
+    "name_hi": "Moradabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-pakbara",
+    "type": "ward",
+    "name_en": "Pakbara (Urban Ward / SO)",
+    "name_hi": "Pakbara (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244102"
+    ]
+  },
+  {
+    "id": "town-moradabad-dilari",
+    "type": "ward",
+    "name_en": "Dilari (Urban Ward / SO)",
+    "name_hi": "Dilari (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244401"
+    ]
+  },
+  {
+    "id": "town-moradabad-moradabad-kutchery",
+    "type": "ward",
+    "name_en": "Moradabad Kutchery (Urban Ward / SO)",
+    "name_hi": "Moradabad Kutchery (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-nai-basti-so-moradabad",
+    "type": "ward",
+    "name_en": "Nai Basti SO Moradabad (Urban Ward / SO)",
+    "name_hi": "Nai Basti SO Moradabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-nawabpura",
+    "type": "ward",
+    "name_en": "Nawabpura (Urban Ward / SO)",
+    "name_hi": "Nawabpura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-vikas-bhawan-moradabad",
+    "type": "ward",
+    "name_en": "Vikas Bhawan Moradabad (Urban Ward / SO)",
+    "name_hi": "Vikas Bhawan Moradabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244105"
+    ]
+  },
+  {
+    "id": "town-moradabad-aghwanpur",
+    "type": "ward",
+    "name_en": "Aghwanpur (Urban Ward / SO)",
+    "name_hi": "Aghwanpur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244504"
+    ]
+  },
+  {
+    "id": "town-moradabad-gandhi-nagar-moradabad",
+    "type": "ward",
+    "name_en": "Gandhi Nagar Moradabad (Urban Ward / SO)",
+    "name_hi": "Gandhi Nagar Moradabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-katghar-so-moradabad",
+    "type": "ward",
+    "name_en": "Katghar SO Moradabad (Urban Ward / SO)",
+    "name_hi": "Katghar SO Moradabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-kundarki",
+    "type": "ward",
+    "name_en": "Kundarki (Urban Ward / SO)",
+    "name_hi": "Kundarki (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244413"
+    ]
+  },
+  {
+    "id": "town-moradabad-majhola-so-moradabad",
+    "type": "ward",
+    "name_en": "Majhola SO Moradabad (Urban Ward / SO)",
+    "name_hi": "Majhola SO Moradabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244103"
+    ]
+  },
+  {
+    "id": "town-moradabad-mandi-naj",
+    "type": "ward",
+    "name_en": "Mandi Naj (Urban Ward / SO)",
+    "name_hi": "Mandi Naj (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-moradabad-city",
+    "type": "ward",
+    "name_en": "Moradabad City (Urban Ward / SO)",
+    "name_hi": "Moradabad City (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-moradabad-rs",
+    "type": "ward",
+    "name_en": "Moradabad RS (Urban Ward / SO)",
+    "name_hi": "Moradabad RS (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-ptc-moradabad",
+    "type": "ward",
+    "name_en": "PTC Moradabad (Urban Ward / SO)",
+    "name_hi": "PTC Moradabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-r-n-area",
+    "type": "ward",
+    "name_en": "R N  Area (Urban Ward / SO)",
+    "name_hi": "R N  Area (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-pac-moradabad",
+    "type": "ward",
+    "name_en": "PAC Moradabad (Urban Ward / SO)",
+    "name_hi": "PAC Moradabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-raja-ka-sahaspur",
+    "type": "ward",
+    "name_en": "Raja Ka Sahaspur (Urban Ward / SO)",
+    "name_hi": "Raja Ka Sahaspur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244415"
+    ]
+  },
+  {
+    "id": "town-moradabad-stationroad",
+    "type": "ward",
+    "name_en": "Stationroad (Urban Ward / SO)",
+    "name_hi": "Stationroad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-bilari",
+    "type": "ward",
+    "name_en": "Bilari (Urban Ward / SO)",
+    "name_hi": "Bilari (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244411"
+    ]
+  },
+  {
+    "id": "town-moradabad-faij-ganj-bazar",
+    "type": "ward",
+    "name_en": "Faij Ganj Bazar (Urban Ward / SO)",
+    "name_hi": "Faij Ganj Bazar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-galshaheed",
+    "type": "ward",
+    "name_en": "Galshaheed (Urban Ward / SO)",
+    "name_hi": "Galshaheed (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-pipalsana-rs",
+    "type": "ward",
+    "name_en": "Pipalsana RS (Urban Ward / SO)",
+    "name_hi": "Pipalsana RS (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244402"
+    ]
+  },
+  {
+    "id": "town-moradabad-thakurdwara",
+    "type": "ward",
+    "name_en": "Thakurdwara (Urban Ward / SO)",
+    "name_hi": "Thakurdwara (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244601"
+    ]
+  },
+  {
+    "id": "town-moradabad-town-hall-so-moradabad",
+    "type": "ward",
+    "name_en": "Town Hall SO Moradabad (Urban Ward / SO)",
+    "name_hi": "Town Hall SO Moradabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-rts-moradabad",
+    "type": "ward",
+    "name_en": "RTS Moradabad (Urban Ward / SO)",
+    "name_hi": "RTS Moradabad (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-spf-mrd",
+    "type": "ward",
+    "name_en": "SPF Mrd (Urban Ward / SO)",
+    "name_hi": "SPF Mrd (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244001"
+    ]
+  },
+  {
+    "id": "town-moradabad-kanth",
+    "type": "ward",
+    "name_en": "Kanth (Urban Ward / SO)",
+    "name_hi": "Kanth (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244501"
+    ]
+  },
+  {
+    "id": "town-moradabad-mundha",
+    "type": "ward",
+    "name_en": "Mundha (Urban Ward / SO)",
+    "name_hi": "Mundha (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244104"
+    ]
+  },
+  {
+    "id": "town-moradabad-surjan-nagar",
+    "type": "ward",
+    "name_en": "Surjan Nagar (Urban Ward / SO)",
+    "name_hi": "Surjan Nagar (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-moradabad-main",
+    "tehsil_id": "moradabad",
+    "district_id": "moradabad",
+    "local_body_type": "nagar_nigam",
+    "pincodes": [
+      "244602"
+    ]
+  }
+]

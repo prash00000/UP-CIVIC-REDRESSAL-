@@ -29,7 +29,7 @@
       "covers": [
         "moradabad"
       ],
-      "source_url": "https://moradabad.nic.in/whos-who/",
+      "source_url": "https://moradabad.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Collectorate, Moradabad"
@@ -60,7 +60,7 @@
       "covers": [
         "moradabad"
       ],
-      "source_url": "https://moradabad.nic.in/whos-who/",
+      "source_url": "https://moradabad.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Ms.Mrunalee Avinash Joshi",
@@ -102,14 +102,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kanth",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kanth",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416873",
+          "type": "office",
+          "source_url": "https://moradabad.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.kanth.mrd-up@gov.in",
       "covers": [
         "kanth"
       ],
-      "source_url": "https://moradabad.nic.in/whos-who/",
+      "source_url": "https://moradabad.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Mayank Kundu"
     },
     {
       "id": "up-moradabad-sdm-bilari",
@@ -117,14 +126,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bilari",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bilari",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416874",
+          "type": "office",
+          "source_url": "https://moradabad.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.bilari.mrd-up@gov.in",
       "covers": [
         "bilari"
       ],
-      "source_url": "https://moradabad.nic.in/whos-who/",
+      "source_url": "https://moradabad.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Amit Singh"
     },
     {
       "id": "up-moradabad-sdm-thakurdwara",
@@ -132,14 +150,23 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Thakurdwara",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Thakurdwara",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416872",
+          "type": "office",
+          "source_url": "https://moradabad.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.thakurdwara.mrd-up@gov.in",
       "covers": [
         "thakurdwara"
       ],
-      "source_url": "https://moradabad.nic.in/whos-who/",
+      "source_url": "https://moradabad.nic.in/contact-directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Anjani Kumar Mishra"
     },
     {
       "id": "up-moradabad-bdo-moradabad-sadar",
@@ -168,7 +195,8 @@
       ],
       "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-moradabad-bdo-moradabad-sadar"
     },
     {
       "id": "up-moradabad-bdo-munda-pandey",
@@ -197,7 +225,8 @@
       ],
       "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-moradabad-bdo-munda-pandey"
     },
     {
       "id": "up-moradabad-bdo-bhagatpur-tanda",
@@ -226,7 +255,8 @@
       ],
       "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-moradabad-bdo-bhagatpur-tanda"
     },
     {
       "id": "up-moradabad-bdo-kanth",
@@ -255,7 +285,8 @@
       ],
       "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-moradabad-bdo-kanth"
     },
     {
       "id": "up-moradabad-bdo-chhajlat",
@@ -284,7 +315,8 @@
       ],
       "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-moradabad-bdo-chhajlat"
     },
     {
       "id": "up-moradabad-bdo-dilari",
@@ -313,7 +345,8 @@
       ],
       "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-moradabad-bdo-dilari"
     },
     {
       "id": "up-moradabad-bdo-thakurdwara",
@@ -342,7 +375,8 @@
       ],
       "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-moradabad-bdo-thakurdwara"
     },
     {
       "id": "up-moradabad-bdo-bilari",
@@ -371,7 +405,8 @@
       ],
       "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-moradabad-bdo-bilari"
     },
     {
       "id": "up-moradabad-bdo-kundarki",
@@ -400,7 +435,8 @@
       ],
       "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-moradabad-bdo-kundarki"
     },
     {
       "id": "eo-moradabad-main",
@@ -415,6 +451,44 @@
       "source_url": "https://moradabad.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20"
+    },
+    {
+      "id": "up-moradabad-commissioner",
+      "level": "ulb",
+      "role": "commissioner",
+      "office_name_en": "Municipal Commissioner, Moradabad Nagar Nigam",
+      "office_name_hi": "नगर आयुक्त, मुरादाबाद नगर निगम",
+      "phones": [
+        {
+          "number": "8189077825",
+          "type": "cug",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "0591-2315682",
+          "type": "landline",
+          "source_url": "https://localbodies.up.nic.in/listnn.htm",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "9105900500",
+          "type": "office",
+          "source_url": "https://moradabad.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "moradabad"
+      ],
+      "source_url": "https://moradabad.nic.in/contact-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "email": "8189077825moradabadnagarnigam@gmail.com",
+      "officer_name_en": "श्री संजय चौहान"
     }
   ]
 }

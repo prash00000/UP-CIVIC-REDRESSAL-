@@ -1,6 +1,6 @@
 {
   "district_id": "sultanpur",
-  "verified_on": "2026-11-20",
+  "verified_on": "2026-11-25",
   "offices": [
     {
       "id": "up-sultanpur-dm",
@@ -8,14 +8,22 @@
       "role": "dm",
       "office_name_en": "Office of District Magistrate, Sultanpur",
       "office_name_hi": "कार्यालय जिलाधिकारी, सुल्तानपुर",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05362-240202",
+          "type": "landline",
+          "source_url": "https://sultanpur.nic.in/officers-phones/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "dmsln@nic.in",
       "covers": [
         "sultanpur"
       ],
-      "source_url": "https://sultanpur.nic.in",
+      "source_url": "https://sultanpur.nic.in/officers-phones/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sultanpur-cdo",
@@ -23,14 +31,22 @@
       "role": "cdo",
       "office_name_en": "Chief Development Officer (CDO), Sultanpur",
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), सुल्तानपुर",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05362-240201",
+          "type": "landline",
+          "source_url": "https://sultanpur.nic.in/officers-phones/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "cdo.sln-up@gov.in",
       "covers": [
         "sultanpur"
       ],
-      "source_url": "https://sultanpur.nic.in",
+      "source_url": "https://sultanpur.nic.in/officers-phones/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sultanpur-dpro",
@@ -53,14 +69,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05362-226166",
+          "type": "landline",
+          "source_url": "https://sultanpur.nic.in/officers-phones/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.sadar.sln-up@gov.in",
       "covers": [
         "sadar"
       ],
-      "source_url": "https://sultanpur.nic.in",
+      "source_url": "https://sultanpur.nic.in/officers-phones/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sultanpur-sdm-kadipur",
@@ -68,14 +92,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kadipur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kadipur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05364-232253",
+          "type": "landline",
+          "source_url": "https://sultanpur.nic.in/officers-phones/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.kadipur.sln-up@gov.in",
       "covers": [
         "kadipur"
       ],
-      "source_url": "https://sultanpur.nic.in",
+      "source_url": "https://sultanpur.nic.in/officers-phones/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sultanpur-sdm-jaisinghpur",
@@ -83,14 +115,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Jaisinghpur",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Jaisinghpur",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05362-258275",
+          "type": "landline",
+          "source_url": "https://sultanpur.nic.in/officers-phones/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.jaisinghpur.sln-up@gov.in",
       "covers": [
         "jaisinghpur"
       ],
-      "source_url": "https://sultanpur.nic.in",
+      "source_url": "https://sultanpur.nic.in/officers-phones/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sultanpur-sdm-lambhua",
@@ -98,14 +138,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Lambhua",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Lambhua",
-      "phones": [],
+      "phones": [
+        {
+          "number": "05364-257072",
+          "type": "landline",
+          "source_url": "https://sultanpur.nic.in/officers-phones/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.lambhua.sln-up@gov.in",
       "covers": [
         "lambhua"
       ],
-      "source_url": "https://sultanpur.nic.in",
+      "source_url": "https://sultanpur.nic.in/officers-phones/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-sultanpur-bdo-dubeypur",
@@ -134,7 +182,8 @@
       ],
       "source_url": "https://sultanpur.nic.in",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sultanpur-bdo-dubeypur"
     },
     {
       "id": "up-sultanpur-bdo-kurebhar",
@@ -163,7 +212,8 @@
       ],
       "source_url": "https://sultanpur.nic.in",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sultanpur-bdo-kurebhar"
     },
     {
       "id": "up-sultanpur-bdo-jaisinghpur",
@@ -192,7 +242,8 @@
       ],
       "source_url": "https://sultanpur.nic.in",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sultanpur-bdo-jaisinghpur"
     },
     {
       "id": "up-sultanpur-bdo-dostpur",
@@ -221,7 +272,8 @@
       ],
       "source_url": "https://sultanpur.nic.in",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sultanpur-bdo-dostpur"
     },
     {
       "id": "up-sultanpur-bdo-akhand-nagar",
@@ -250,7 +302,8 @@
       ],
       "source_url": "https://sultanpur.nic.in",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sultanpur-bdo-akhand-nagar"
     },
     {
       "id": "up-sultanpur-bdo-kadipur",
@@ -279,7 +332,8 @@
       ],
       "source_url": "https://sultanpur.nic.in",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sultanpur-bdo-kadipur"
     },
     {
       "id": "up-sultanpur-bdo-karaundi-kala",
@@ -308,7 +362,8 @@
       ],
       "source_url": "https://sultanpur.nic.in",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sultanpur-bdo-karaundi-kala"
     },
     {
       "id": "up-sultanpur-bdo-lambhua",
@@ -337,7 +392,8 @@
       ],
       "source_url": "https://sultanpur.nic.in",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sultanpur-bdo-lambhua"
     },
     {
       "id": "up-sultanpur-bdo-pratappur-kamaicha",
@@ -366,7 +422,8 @@
       ],
       "source_url": "https://sultanpur.nic.in",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sultanpur-bdo-pratappur-kamaicha"
     },
     {
       "id": "up-sultanpur-bdo-bhadaiya",
@@ -395,7 +452,8 @@
       ],
       "source_url": "https://sultanpur.nic.in",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sultanpur-bdo-bhadaiya"
     },
     {
       "id": "up-sultanpur-bdo-motigarpur",
@@ -424,7 +482,8 @@
       ],
       "source_url": "https://sultanpur.nic.in",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sultanpur-bdo-motigarpur"
     },
     {
       "id": "up-sultanpur-bdo-kudwar",
@@ -453,7 +512,8 @@
       ],
       "source_url": "https://sultanpur.nic.in",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sultanpur-bdo-kudwar"
     },
     {
       "id": "up-sultanpur-bdo-dhanpatganj",
@@ -482,7 +542,8 @@
       ],
       "source_url": "https://sultanpur.nic.in",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sultanpur-bdo-dhanpatganj"
     },
     {
       "id": "up-sultanpur-bdo-baldirai",
@@ -511,7 +572,8 @@
       ],
       "source_url": "https://sultanpur.nic.in",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sultanpur-bdo-baldirai"
     },
     {
       "id": "eo-sultanpur-main",
@@ -523,9 +585,10 @@
       "covers": [
         "ulb-sultanpur-main"
       ],
-      "source_url": "https://sultanpur.nic.in",
+      "source_url": "https://sultanpur.nic.in/std-and-pin-codes/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shyamnagar S.O (Sultanpur)"
     }
   ]
 }

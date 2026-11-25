@@ -22,7 +22,7 @@
       "covers": [
         "auraiya"
       ],
-      "source_url": "https://auraiya.nic.in/whos-who/",
+      "source_url": "https://auraiya.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "DM Camp Office, Near Collectorate Campus (Mukhyalaya), Kakor Auraiya, Pin-206122 Telephone:-05683-246300"
@@ -46,7 +46,7 @@
       "covers": [
         "auraiya"
       ],
-      "source_url": "https://auraiya.nic.in/whos-who/",
+      "source_url": "https://auraiya.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Ram Kripal Chaudhari",
@@ -73,14 +73,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Auraiya",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Auraiya",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416435",
+          "type": "office",
+          "source_url": "https://auraiya.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.auraiya.aur-up@gov.in",
       "covers": [
         "auraiya"
       ],
-      "source_url": "https://auraiya.nic.in/whos-who/",
+      "source_url": "https://auraiya.nic.in/tehsil/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-auraiya-sdm-bidhuna",
@@ -88,14 +96,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bidhuna",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bidhuna",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416434",
+          "type": "office",
+          "source_url": "https://auraiya.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.bidhuna.aur-up@gov.in",
       "covers": [
         "bidhuna"
       ],
-      "source_url": "https://auraiya.nic.in/whos-who/",
+      "source_url": "https://auraiya.nic.in/tehsil/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-auraiya-sdm-ajitmal",
@@ -103,14 +119,22 @@
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Ajitmal",
       "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Ajitmal",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454416436",
+          "type": "office",
+          "source_url": "https://auraiya.nic.in/tehsil/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "sdm.ajitmal.aur-up@gov.in",
       "covers": [
         "ajitmal"
       ],
-      "source_url": "https://auraiya.nic.in/whos-who/",
+      "source_url": "https://auraiya.nic.in/tehsil/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-auraiya-bdo-auraiya",
@@ -118,14 +142,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Auraiya",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Auraiya",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9125779311",
+          "type": "office",
+          "source_url": "https://auraiya.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.auraiya.aur@gmail.com",
       "covers": [
         "auraiya"
       ],
-      "source_url": "https://auraiya.nic.in/whos-who/",
+      "source_url": "https://auraiya.nic.in/subdivision-blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-auraiya-ado-auraiya",
@@ -139,7 +171,8 @@
       ],
       "source_url": "https://auraiya.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-auraiya-bdo-auraiya"
     },
     {
       "id": "up-auraiya-bdo-ajitmal",
@@ -147,14 +180,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Ajitmal",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ajitmal",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9648769998",
+          "type": "office",
+          "source_url": "https://auraiya.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.ajitmal.aur@gmail.com",
       "covers": [
         "ajitmal"
       ],
-      "source_url": "https://auraiya.nic.in/whos-who/",
+      "source_url": "https://auraiya.nic.in/subdivision-blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-auraiya-ado-ajitmal",
@@ -168,7 +209,8 @@
       ],
       "source_url": "https://auraiya.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-auraiya-bdo-ajitmal"
     },
     {
       "id": "up-auraiya-bdo-bhagyanagar",
@@ -197,7 +239,8 @@
       ],
       "source_url": "https://auraiya.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-auraiya-bdo-bhagyanagar"
     },
     {
       "id": "up-auraiya-bdo-bidhuna",
@@ -226,7 +269,8 @@
       ],
       "source_url": "https://auraiya.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-auraiya-bdo-bidhuna"
     },
     {
       "id": "up-auraiya-bdo-achhalda",
@@ -255,7 +299,8 @@
       ],
       "source_url": "https://auraiya.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-auraiya-bdo-achhalda"
     },
     {
       "id": "up-auraiya-bdo-sahar",
@@ -263,14 +308,22 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sahar",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sahar",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9219270867",
+          "type": "office",
+          "source_url": "https://auraiya.nic.in/subdivision-blocks/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.sahar.aur@gmail.com",
       "covers": [
         "sahar"
       ],
-      "source_url": "https://auraiya.nic.in/whos-who/",
+      "source_url": "https://auraiya.nic.in/subdivision-blocks/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-auraiya-ado-sahar",
@@ -284,7 +337,8 @@
       ],
       "source_url": "https://auraiya.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-auraiya-bdo-sahar"
     },
     {
       "id": "up-auraiya-bdo-erwa-katra",
@@ -313,7 +367,8 @@
       ],
       "source_url": "https://auraiya.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-auraiya-bdo-erwa-katra"
     },
     {
       "id": "eo-auraiya-main",

@@ -22,7 +22,7 @@
       "covers": [
         "hardoi"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -45,9 +45,10 @@
       "covers": [
         "hardoi"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Ms. Neha Byadwal, IAS"
     },
     {
       "id": "up-hardoi-dpro",
@@ -68,9 +69,10 @@
       "covers": [
         "hardoi"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Ms. Shreya Upadhyay"
     },
     {
       "id": "up-hardoi-sdm-hardoi",
@@ -106,9 +108,10 @@
       "covers": [
         "shahabad"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Ankit Tiwari"
     },
     {
       "id": "up-hardoi-sdm-bilgram",
@@ -129,9 +132,10 @@
       "covers": [
         "bilgram"
       ],
-      "source_url": "https://hardoi.nic.in/whos-who/",
+      "source_url": "https://hardoi.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Shri Nanheram"
     },
     {
       "id": "up-hardoi-sdm-sandila",
@@ -198,7 +202,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-sursa"
     },
     {
       "id": "up-hardoi-bdo-bawan",
@@ -227,7 +232,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-bawan"
     },
     {
       "id": "up-hardoi-bdo-ahirori",
@@ -256,7 +262,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-ahirori"
     },
     {
       "id": "up-hardoi-bdo-tandiyawan",
@@ -285,7 +292,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-tandiyawan"
     },
     {
       "id": "up-hardoi-bdo-harpalpur",
@@ -314,7 +322,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-harpalpur"
     },
     {
       "id": "up-hardoi-bdo-sandi",
@@ -343,7 +352,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-sandi"
     },
     {
       "id": "up-hardoi-bdo-bilgram",
@@ -372,7 +382,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-bilgram"
     },
     {
       "id": "up-hardoi-bdo-madhavganj",
@@ -401,7 +412,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-madhavganj"
     },
     {
       "id": "up-hardoi-bdo-mallawan",
@@ -430,7 +442,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-mallawan"
     },
     {
       "id": "up-hardoi-bdo-kachhauna",
@@ -459,7 +472,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-kachhauna"
     },
     {
       "id": "up-hardoi-bdo-sandila",
@@ -488,7 +502,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-sandila"
     },
     {
       "id": "up-hardoi-bdo-behandar",
@@ -517,7 +532,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-behandar"
     },
     {
       "id": "up-hardoi-bdo-bharawan",
@@ -546,7 +562,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-bharawan"
     },
     {
       "id": "up-hardoi-bdo-kothawan",
@@ -575,7 +592,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-kothawan"
     },
     {
       "id": "up-hardoi-bdo-pihani",
@@ -604,7 +622,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-pihani"
     },
     {
       "id": "up-hardoi-bdo-shahabad",
@@ -633,7 +652,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-shahabad"
     },
     {
       "id": "up-hardoi-bdo-bharkhani",
@@ -662,7 +682,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-bharkhani"
     },
     {
       "id": "up-hardoi-bdo-hariyawan",
@@ -691,7 +712,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-hariyawan"
     },
     {
       "id": "up-hardoi-bdo-toderpur",
@@ -720,7 +742,8 @@
       ],
       "source_url": "https://hardoi.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-hardoi-bdo-toderpur"
     },
     {
       "id": "eo-hardoi-main",

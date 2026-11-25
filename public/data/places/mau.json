@@ -1,0 +1,2816 @@
+[
+  {
+    "id": "v-mau-pardaha",
+    "type": "village",
+    "name_en": "Pardaha Block (Gram Panchayats)",
+    "name_hi": "Pardaha विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mau-ratanpura",
+    "type": "village",
+    "name_en": "Ratanpura Block (Gram Panchayats)",
+    "name_hi": "Ratanpura विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-ratanpura",
+    "block_id": "ratanpura",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mau-ranipur",
+    "type": "village",
+    "name_en": "Ranipur Block (Gram Panchayats)",
+    "name_hi": "Ranipur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-ranipur",
+    "block_id": "ranipur",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mau-kopaganj",
+    "type": "village",
+    "name_en": "Kopaganj Block (Gram Panchayats)",
+    "name_hi": "Kopaganj विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-kopaganj",
+    "block_id": "kopaganj",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mau-ghosi",
+    "type": "village",
+    "name_en": "Ghosi Block (Gram Panchayats)",
+    "name_hi": "Ghosi विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-ghosi",
+    "block_id": "ghosi",
+    "tehsil_id": "ghosi",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mau-badraon",
+    "type": "village",
+    "name_en": "Badraon Block (Gram Panchayats)",
+    "name_hi": "Badraon विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badraon",
+    "block_id": "badraon",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mau-fatehpur-madaun",
+    "type": "village",
+    "name_en": "Fatehpur Madaun Block (Gram Panchayats)",
+    "name_hi": "Fatehpur Madaun विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-fatehpur-madaun",
+    "block_id": "fatehpur-madaun",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mau-doharighat",
+    "type": "village",
+    "name_en": "Doharighat Block (Gram Panchayats)",
+    "name_hi": "Doharighat विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-doharighat",
+    "block_id": "doharighat",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "v-mau-muhammadabad-gohna",
+    "type": "village",
+    "name_en": "Muhammadabad Gohna Block (Gram Panchayats)",
+    "name_hi": "Muhammadabad Gohna विकास खण्ड (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-muhammadabad-gohna",
+    "block_id": "muhammadabad-gohna",
+    "tehsil_id": "muhammadabad-gohna",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat"
+  },
+  {
+    "id": "po-mau-jogari",
+    "type": "village",
+    "name_en": "Jogari (Gram Panchayat Area)",
+    "name_hi": "Jogari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275306"
+    ]
+  },
+  {
+    "id": "po-mau-hathini",
+    "type": "village",
+    "name_en": "Hathini (Gram Panchayat Area)",
+    "name_hi": "Hathini (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275102"
+    ]
+  },
+  {
+    "id": "po-mau-itaura-dori-pur",
+    "type": "village",
+    "name_en": "Itaura Dori Pur (Gram Panchayat Area)",
+    "name_hi": "Itaura Dori Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275305"
+    ]
+  },
+  {
+    "id": "po-mau-mohammadpur-math",
+    "type": "village",
+    "name_en": "Mohammadpur Math (Gram Panchayat Area)",
+    "name_hi": "Mohammadpur Math (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275102"
+    ]
+  },
+  {
+    "id": "po-mau-dhawariya-sath",
+    "type": "village",
+    "name_en": "Dhawariya Sath (Gram Panchayat Area)",
+    "name_hi": "Dhawariya Sath (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275305"
+    ]
+  },
+  {
+    "id": "po-mau-mirpur-rahimabad",
+    "type": "village",
+    "name_en": "Mirpur Rahimabad (Gram Panchayat Area)",
+    "name_hi": "Mirpur Rahimabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275306"
+    ]
+  },
+  {
+    "id": "po-mau-ali-nagar",
+    "type": "village",
+    "name_en": "Ali Nagar (Gram Panchayat Area)",
+    "name_hi": "Ali Nagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275102"
+    ]
+  },
+  {
+    "id": "po-mau-tajopur",
+    "type": "village",
+    "name_en": "Tajopur (Gram Panchayat Area)",
+    "name_hi": "Tajopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275305"
+    ]
+  },
+  {
+    "id": "po-mau-undura",
+    "type": "village",
+    "name_en": "Undura (Gram Panchayat Area)",
+    "name_hi": "Undura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221603"
+    ]
+  },
+  {
+    "id": "po-mau-kathtaraon",
+    "type": "village",
+    "name_en": "Kathtaraon (Gram Panchayat Area)",
+    "name_hi": "Kathtaraon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221602"
+    ]
+  },
+  {
+    "id": "po-mau-lakhnaur",
+    "type": "village",
+    "name_en": "Lakhnaur (Gram Panchayat Area)",
+    "name_hi": "Lakhnaur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221602"
+    ]
+  },
+  {
+    "id": "po-mau-nemdand",
+    "type": "village",
+    "name_en": "Nemdand (Gram Panchayat Area)",
+    "name_hi": "Nemdand (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221602"
+    ]
+  },
+  {
+    "id": "po-mau-rampur",
+    "type": "village",
+    "name_en": "Rampur (Gram Panchayat Area)",
+    "name_hi": "Rampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221602"
+    ]
+  },
+  {
+    "id": "po-mau-allauddinpur",
+    "type": "village",
+    "name_en": "Allauddinpur (Gram Panchayat Area)",
+    "name_hi": "Allauddinpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "po-mau-amarhar",
+    "type": "village",
+    "name_en": "Amarhar (Gram Panchayat Area)",
+    "name_hi": "Amarhar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "po-mau-ranipur",
+    "type": "village",
+    "name_en": "Ranipur (Gram Panchayat Area)",
+    "name_hi": "Ranipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-ranipur",
+    "block_id": "ranipur",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "po-mau-golauri",
+    "type": "village",
+    "name_en": "Golauri (Gram Panchayat Area)",
+    "name_hi": "Golauri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221706"
+    ]
+  },
+  {
+    "id": "po-mau-kanso",
+    "type": "village",
+    "name_en": "Kanso (Gram Panchayat Area)",
+    "name_hi": "Kanso (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221706"
+    ]
+  },
+  {
+    "id": "po-mau-meuri",
+    "type": "village",
+    "name_en": "Meuri (Gram Panchayat Area)",
+    "name_hi": "Meuri (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221706"
+    ]
+  },
+  {
+    "id": "po-mau-mustafa-bad",
+    "type": "village",
+    "name_en": "Mustafa Bad (Gram Panchayat Area)",
+    "name_hi": "Mustafa Bad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221706"
+    ]
+  },
+  {
+    "id": "po-mau-pindohari",
+    "type": "village",
+    "name_en": "Pindohari (Gram Panchayat Area)",
+    "name_hi": "Pindohari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221706"
+    ]
+  },
+  {
+    "id": "po-mau-dholana",
+    "type": "village",
+    "name_en": "Dholana (Gram Panchayat Area)",
+    "name_hi": "Dholana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276405"
+    ]
+  },
+  {
+    "id": "po-mau-bhela-bandh",
+    "type": "village",
+    "name_en": "Bhela Bandh (Gram Panchayat Area)",
+    "name_hi": "Bhela Bandh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275305"
+    ]
+  },
+  {
+    "id": "po-mau-faizullahpur",
+    "type": "village",
+    "name_en": "Faizullahpur (Gram Panchayat Area)",
+    "name_hi": "Faizullahpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275305"
+    ]
+  },
+  {
+    "id": "po-mau-kurthi-zafar-pur",
+    "type": "village",
+    "name_en": "Kurthi Zafar Pur (Gram Panchayat Area)",
+    "name_hi": "Kurthi Zafar Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275305"
+    ]
+  },
+  {
+    "id": "po-mau-badua-godam",
+    "type": "village",
+    "name_en": "Badua Godam (Gram Panchayat Area)",
+    "name_hi": "Badua Godam (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275305"
+    ]
+  },
+  {
+    "id": "po-mau-khiriya",
+    "type": "village",
+    "name_en": "Khiriya (Gram Panchayat Area)",
+    "name_hi": "Khiriya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275103"
+    ]
+  },
+  {
+    "id": "po-mau-bagali-pijra",
+    "type": "village",
+    "name_en": "Bagali Pijra (Gram Panchayat Area)",
+    "name_hi": "Bagali Pijra (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275103"
+    ]
+  },
+  {
+    "id": "po-mau-salahabad",
+    "type": "village",
+    "name_en": "Salahabad (Gram Panchayat Area)",
+    "name_hi": "Salahabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275103"
+    ]
+  },
+  {
+    "id": "po-mau-jajaauli",
+    "type": "village",
+    "name_en": "Jajaauli (Gram Panchayat Area)",
+    "name_hi": "Jajaauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221603"
+    ]
+  },
+  {
+    "id": "po-mau-katghar-shankar",
+    "type": "village",
+    "name_en": "Katghar Shankar (Gram Panchayat Area)",
+    "name_hi": "Katghar Shankar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221603"
+    ]
+  },
+  {
+    "id": "po-mau-lalanpur",
+    "type": "village",
+    "name_en": "Lalanpur (Gram Panchayat Area)",
+    "name_hi": "Lalanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221603"
+    ]
+  },
+  {
+    "id": "po-mau-daulasepur",
+    "type": "village",
+    "name_en": "Daulasepur (Gram Panchayat Area)",
+    "name_hi": "Daulasepur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "po-mau-kanjhakhurd",
+    "type": "village",
+    "name_en": "Kanjhakhurd (Gram Panchayat Area)",
+    "name_hi": "Kanjhakhurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "po-mau-khurhar",
+    "type": "village",
+    "name_en": "Khurhar (Gram Panchayat Area)",
+    "name_hi": "Khurhar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "po-mau-kolaura",
+    "type": "village",
+    "name_en": "Kolaura (Gram Panchayat Area)",
+    "name_hi": "Kolaura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "po-mau-makhuni",
+    "type": "village",
+    "name_en": "Makhuni (Gram Panchayat Area)",
+    "name_hi": "Makhuni (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "po-mau-pali-garh",
+    "type": "village",
+    "name_en": "Pali Garh (Gram Panchayat Area)",
+    "name_hi": "Pali Garh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "po-mau-palia",
+    "type": "village",
+    "name_en": "Palia (Gram Panchayat Area)",
+    "name_hi": "Palia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "po-mau-lalitpur",
+    "type": "village",
+    "name_en": "Lalitpur (Gram Panchayat Area)",
+    "name_hi": "Lalitpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275307"
+    ]
+  },
+  {
+    "id": "po-mau-majhwara",
+    "type": "village",
+    "name_en": "Majhwara (Gram Panchayat Area)",
+    "name_hi": "Majhwara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275307"
+    ]
+  },
+  {
+    "id": "po-mau-makhmelpur",
+    "type": "village",
+    "name_en": "Makhmelpur (Gram Panchayat Area)",
+    "name_hi": "Makhmelpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275307"
+    ]
+  },
+  {
+    "id": "po-mau-moongmas",
+    "type": "village",
+    "name_en": "Moongmas (Gram Panchayat Area)",
+    "name_hi": "Moongmas (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275307"
+    ]
+  },
+  {
+    "id": "po-mau-mohammadpur-hasanpur",
+    "type": "village",
+    "name_en": "Mohammadpur Hasanpur (Gram Panchayat Area)",
+    "name_hi": "Mohammadpur Hasanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276306"
+    ]
+  },
+  {
+    "id": "po-mau-rasoolpur",
+    "type": "village",
+    "name_en": "Rasoolpur (Gram Panchayat Area)",
+    "name_hi": "Rasoolpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276306"
+    ]
+  },
+  {
+    "id": "po-mau-sikari-kot",
+    "type": "village",
+    "name_en": "Sikari Kot (Gram Panchayat Area)",
+    "name_hi": "Sikari Kot (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276306"
+    ]
+  },
+  {
+    "id": "po-mau-bara",
+    "type": "village",
+    "name_en": "Bara (Gram Panchayat Area)",
+    "name_hi": "Bara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276405"
+    ]
+  },
+  {
+    "id": "po-mau-bhadir",
+    "type": "village",
+    "name_en": "Bhadir (Gram Panchayat Area)",
+    "name_hi": "Bhadir (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276405"
+    ]
+  },
+  {
+    "id": "po-mau-baundih",
+    "type": "village",
+    "name_en": "Baundih (Gram Panchayat Area)",
+    "name_hi": "Baundih (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221603"
+    ]
+  },
+  {
+    "id": "po-mau-fatehpur-talratoy",
+    "type": "village",
+    "name_en": "Fatehpur Talratoy (Gram Panchayat Area)",
+    "name_hi": "Fatehpur Talratoy (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221603"
+    ]
+  },
+  {
+    "id": "po-mau-saundih",
+    "type": "village",
+    "name_en": "Saundih (Gram Panchayat Area)",
+    "name_hi": "Saundih (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221603"
+    ]
+  },
+  {
+    "id": "po-mau-siddha-ahilashpur",
+    "type": "village",
+    "name_en": "Siddha Ahilashpur (Gram Panchayat Area)",
+    "name_hi": "Siddha Ahilashpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221603"
+    ]
+  },
+  {
+    "id": "po-mau-belauli",
+    "type": "village",
+    "name_en": "Belauli (Gram Panchayat Area)",
+    "name_hi": "Belauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221602"
+    ]
+  },
+  {
+    "id": "po-mau-halima-bad",
+    "type": "village",
+    "name_en": "Halima Bad (Gram Panchayat Area)",
+    "name_hi": "Halima Bad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "po-mau-surahu-pur",
+    "type": "village",
+    "name_en": "Surahu Pur (Gram Panchayat Area)",
+    "name_hi": "Surahu Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "po-mau-raini",
+    "type": "village",
+    "name_en": "Raini (Gram Panchayat Area)",
+    "name_hi": "Raini (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "po-mau-khairabad",
+    "type": "village",
+    "name_en": "Khairabad (Gram Panchayat Area)",
+    "name_hi": "Khairabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "po-mau-ailakhaimilia",
+    "type": "village",
+    "name_en": "Ailakhaimilia (Gram Panchayat Area)",
+    "name_hi": "Ailakhaimilia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221706"
+    ]
+  },
+  {
+    "id": "po-mau-belaujha",
+    "type": "village",
+    "name_en": "Belaujha (Gram Panchayat Area)",
+    "name_hi": "Belaujha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221706"
+    ]
+  },
+  {
+    "id": "po-mau-semrajpur",
+    "type": "village",
+    "name_en": "Semrajpur (Gram Panchayat Area)",
+    "name_hi": "Semrajpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221706"
+    ]
+  },
+  {
+    "id": "po-mau-bela-sultanpur",
+    "type": "village",
+    "name_en": "Bela Sultanpur (Gram Panchayat Area)",
+    "name_hi": "Bela Sultanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275307"
+    ]
+  },
+  {
+    "id": "po-mau-pawani",
+    "type": "village",
+    "name_en": "Pawani (Gram Panchayat Area)",
+    "name_hi": "Pawani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275307"
+    ]
+  },
+  {
+    "id": "po-mau-bibi-pur",
+    "type": "village",
+    "name_en": "Bibi Pur (Gram Panchayat Area)",
+    "name_hi": "Bibi Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276306"
+    ]
+  },
+  {
+    "id": "po-mau-kuranga",
+    "type": "village",
+    "name_en": "Kuranga (Gram Panchayat Area)",
+    "name_hi": "Kuranga (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276306"
+    ]
+  },
+  {
+    "id": "po-mau-dhaur-hara",
+    "type": "village",
+    "name_en": "Dhaur Hara (Gram Panchayat Area)",
+    "name_hi": "Dhaur Hara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276405"
+    ]
+  },
+  {
+    "id": "po-mau-hardas-pur",
+    "type": "village",
+    "name_en": "Hardas Pur (Gram Panchayat Area)",
+    "name_hi": "Hardas Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275305"
+    ]
+  },
+  {
+    "id": "po-mau-kasara",
+    "type": "village",
+    "name_en": "Kasara (Gram Panchayat Area)",
+    "name_hi": "Kasara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275102"
+    ]
+  },
+  {
+    "id": "po-mau-saharoj",
+    "type": "village",
+    "name_en": "Saharoj (Gram Panchayat Area)",
+    "name_hi": "Saharoj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275305"
+    ]
+  },
+  {
+    "id": "po-mau-baktawar-ganj",
+    "type": "village",
+    "name_en": "Baktawar Ganj (Gram Panchayat Area)",
+    "name_hi": "Baktawar Ganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275305"
+    ]
+  },
+  {
+    "id": "po-mau-piparidih",
+    "type": "village",
+    "name_en": "Piparidih (Gram Panchayat Area)",
+    "name_hi": "Piparidih (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275103"
+    ]
+  },
+  {
+    "id": "po-mau-raikwardeeh",
+    "type": "village",
+    "name_en": "Raikwardeeh (Gram Panchayat Area)",
+    "name_hi": "Raikwardeeh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275103"
+    ]
+  },
+  {
+    "id": "po-mau-banpokhara",
+    "type": "village",
+    "name_en": "Banpokhara (Gram Panchayat Area)",
+    "name_hi": "Banpokhara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221603"
+    ]
+  },
+  {
+    "id": "po-mau-bhairopur",
+    "type": "village",
+    "name_en": "Bhairopur (Gram Panchayat Area)",
+    "name_hi": "Bhairopur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221603"
+    ]
+  },
+  {
+    "id": "po-mau-nathupur",
+    "type": "village",
+    "name_en": "Nathupur (Gram Panchayat Area)",
+    "name_hi": "Nathupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221603"
+    ]
+  },
+  {
+    "id": "po-mau-sipaibrahima-bad",
+    "type": "village",
+    "name_en": "Sipaibrahima Bad (Gram Panchayat Area)",
+    "name_hi": "Sipaibrahima Bad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221603"
+    ]
+  },
+  {
+    "id": "po-mau-bahadurpur",
+    "type": "village",
+    "name_en": "Bahadurpur (Gram Panchayat Area)",
+    "name_hi": "Bahadurpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221602"
+    ]
+  },
+  {
+    "id": "po-mau-kamalsagar",
+    "type": "village",
+    "name_en": "Kamalsagar (Gram Panchayat Area)",
+    "name_hi": "Kamalsagar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221602"
+    ]
+  },
+  {
+    "id": "po-mau-bandikala",
+    "type": "village",
+    "name_en": "Bandikala (Gram Panchayat Area)",
+    "name_hi": "Bandikala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "po-mau-utarizpur",
+    "type": "village",
+    "name_en": "Utarizpur (Gram Panchayat Area)",
+    "name_hi": "Utarizpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "po-mau-ataraul-pandey",
+    "type": "village",
+    "name_en": "Ataraul Pandey (Gram Panchayat Area)",
+    "name_hi": "Ataraul Pandey (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221706"
+    ]
+  },
+  {
+    "id": "po-mau-chhichore",
+    "type": "village",
+    "name_en": "Chhichore (Gram Panchayat Area)",
+    "name_hi": "Chhichore (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221706"
+    ]
+  },
+  {
+    "id": "po-mau-nasira-bad-kala",
+    "type": "village",
+    "name_en": "Nasira Bad Kala (Gram Panchayat Area)",
+    "name_hi": "Nasira Bad Kala (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221706"
+    ]
+  },
+  {
+    "id": "po-mau-sidhwal",
+    "type": "village",
+    "name_en": "Sidhwal (Gram Panchayat Area)",
+    "name_hi": "Sidhwal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221706"
+    ]
+  },
+  {
+    "id": "po-mau-lakhani-mubarakpur",
+    "type": "village",
+    "name_en": "Lakhani Mubarakpur (Gram Panchayat Area)",
+    "name_hi": "Lakhani Mubarakpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275307"
+    ]
+  },
+  {
+    "id": "po-mau-parsupur",
+    "type": "village",
+    "name_en": "Parsupur (Gram Panchayat Area)",
+    "name_hi": "Parsupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275307"
+    ]
+  },
+  {
+    "id": "po-mau-bela-kasaila",
+    "type": "village",
+    "name_en": "Bela Kasaila (Gram Panchayat Area)",
+    "name_hi": "Bela Kasaila (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276306"
+    ]
+  },
+  {
+    "id": "po-mau-dargah",
+    "type": "village",
+    "name_en": "Dargah (Gram Panchayat Area)",
+    "name_hi": "Dargah (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276306"
+    ]
+  },
+  {
+    "id": "po-mau-misarauli",
+    "type": "village",
+    "name_en": "Misarauli (Gram Panchayat Area)",
+    "name_hi": "Misarauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276306"
+    ]
+  },
+  {
+    "id": "po-mau-dewal-ashram",
+    "type": "village",
+    "name_en": "Dewal Ashram (Gram Panchayat Area)",
+    "name_hi": "Dewal Ashram (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276405"
+    ]
+  },
+  {
+    "id": "po-mau-bada-gaon",
+    "type": "village",
+    "name_en": "Bada Gaon (Gram Panchayat Area)",
+    "name_hi": "Bada Gaon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "po-mau-rampur-sohand",
+    "type": "village",
+    "name_en": "Rampur Sohand (Gram Panchayat Area)",
+    "name_hi": "Rampur Sohand (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275301"
+    ]
+  },
+  {
+    "id": "po-mau-fateh-pur-tal-naraja",
+    "type": "village",
+    "name_en": "Fateh Pur Tal Naraja (Gram Panchayat Area)",
+    "name_hi": "Fateh Pur Tal Naraja (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275302"
+    ]
+  },
+  {
+    "id": "po-mau-bhagwat",
+    "type": "village",
+    "name_en": "Bhagwat (Gram Panchayat Area)",
+    "name_hi": "Bhagwat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276129"
+    ]
+  },
+  {
+    "id": "po-mau-bramhanpur",
+    "type": "village",
+    "name_en": "Bramhanpur (Gram Panchayat Area)",
+    "name_hi": "Bramhanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276129"
+    ]
+  },
+  {
+    "id": "po-mau-daulatabad",
+    "type": "village",
+    "name_en": "Daulatabad (Gram Panchayat Area)",
+    "name_hi": "Daulatabad (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276129"
+    ]
+  },
+  {
+    "id": "po-mau-canal-head",
+    "type": "village",
+    "name_en": "Canal Head (Gram Panchayat Area)",
+    "name_hi": "Canal Head (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275303"
+    ]
+  },
+  {
+    "id": "po-mau-gotha",
+    "type": "village",
+    "name_en": "Gotha (Gram Panchayat Area)",
+    "name_hi": "Gotha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275303"
+    ]
+  },
+  {
+    "id": "po-mau-mohammadabad-sipah",
+    "type": "village",
+    "name_en": "Mohammadabad Sipah (Gram Panchayat Area)",
+    "name_hi": "Mohammadabad Sipah (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275303"
+    ]
+  },
+  {
+    "id": "po-mau-bariyadih",
+    "type": "village",
+    "name_en": "Bariyadih (Gram Panchayat Area)",
+    "name_hi": "Bariyadih (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221601"
+    ]
+  },
+  {
+    "id": "po-mau-dhrampur-bisnupur",
+    "type": "village",
+    "name_en": "Dhrampur Bisnupur (Gram Panchayat Area)",
+    "name_hi": "Dhrampur Bisnupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221601"
+    ]
+  },
+  {
+    "id": "po-mau-molnapur",
+    "type": "village",
+    "name_en": "Molnapur (Gram Panchayat Area)",
+    "name_hi": "Molnapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221601"
+    ]
+  },
+  {
+    "id": "po-mau-manik-pur-haraura",
+    "type": "village",
+    "name_en": "Manik Pur Haraura (Gram Panchayat Area)",
+    "name_hi": "Manik Pur Haraura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275304"
+    ]
+  },
+  {
+    "id": "po-mau-pakari-bujurg",
+    "type": "village",
+    "name_en": "Pakari Bujurg (Gram Panchayat Area)",
+    "name_hi": "Pakari Bujurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275304"
+    ]
+  },
+  {
+    "id": "po-mau-sultan-pur",
+    "type": "village",
+    "name_en": "Sultan Pur (Gram Panchayat Area)",
+    "name_hi": "Sultan Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275304"
+    ]
+  },
+  {
+    "id": "po-mau-saravan",
+    "type": "village",
+    "name_en": "Saravan (Gram Panchayat Area)",
+    "name_hi": "Saravan (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221705"
+    ]
+  },
+  {
+    "id": "po-mau-gokulpura",
+    "type": "village",
+    "name_en": "Gokulpura (Gram Panchayat Area)",
+    "name_hi": "Gokulpura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276402"
+    ]
+  },
+  {
+    "id": "po-mau-kekai-hindola",
+    "type": "village",
+    "name_en": "Kekai Hindola (Gram Panchayat Area)",
+    "name_hi": "Kekai Hindola (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276402"
+    ]
+  },
+  {
+    "id": "po-mau-sulatanipur",
+    "type": "village",
+    "name_en": "Sulatanipur (Gram Panchayat Area)",
+    "name_hi": "Sulatanipur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276402"
+    ]
+  },
+  {
+    "id": "po-mau-sausarwa",
+    "type": "village",
+    "name_en": "SAUSARWA (Gram Panchayat Area)",
+    "name_hi": "SAUSARWA (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276402"
+    ]
+  },
+  {
+    "id": "po-mau-kamarawa",
+    "type": "village",
+    "name_en": "Kamarawa (Gram Panchayat Area)",
+    "name_hi": "Kamarawa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276129"
+    ]
+  },
+  {
+    "id": "po-mau-sachui",
+    "type": "village",
+    "name_en": "Sachui (Gram Panchayat Area)",
+    "name_hi": "Sachui (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276129"
+    ]
+  },
+  {
+    "id": "po-mau-sarauda",
+    "type": "village",
+    "name_en": "Sarauda (Gram Panchayat Area)",
+    "name_hi": "Sarauda (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276129"
+    ]
+  },
+  {
+    "id": "po-mau-ardauna",
+    "type": "village",
+    "name_en": "Ardauna (Gram Panchayat Area)",
+    "name_hi": "Ardauna (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221705"
+    ]
+  },
+  {
+    "id": "po-mau-chakara",
+    "type": "village",
+    "name_en": "Chakara (Gram Panchayat Area)",
+    "name_hi": "Chakara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221705"
+    ]
+  },
+  {
+    "id": "po-mau-talai-pur",
+    "type": "village",
+    "name_en": "Talai Pur (Gram Panchayat Area)",
+    "name_hi": "Talai Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221705"
+    ]
+  },
+  {
+    "id": "po-mau-umapur",
+    "type": "village",
+    "name_en": "Umapur (Gram Panchayat Area)",
+    "name_hi": "Umapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221705"
+    ]
+  },
+  {
+    "id": "po-mau-adari",
+    "type": "village",
+    "name_en": "Adari (Gram Panchayat Area)",
+    "name_hi": "Adari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275102"
+    ]
+  },
+  {
+    "id": "po-mau-pidhwal",
+    "type": "village",
+    "name_en": "Pidhwal (Gram Panchayat Area)",
+    "name_hi": "Pidhwal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275105"
+    ]
+  },
+  {
+    "id": "po-mau-sarai-ganesh",
+    "type": "village",
+    "name_en": "Sarai Ganesh (Gram Panchayat Area)",
+    "name_hi": "Sarai Ganesh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275105"
+    ]
+  },
+  {
+    "id": "po-mau-fatehpur",
+    "type": "village",
+    "name_en": "Fatehpur (Gram Panchayat Area)",
+    "name_hi": "Fatehpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-fatehpur-madaun",
+    "block_id": "fatehpur-madaun",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276402"
+    ]
+  },
+  {
+    "id": "po-mau-yakubpur",
+    "type": "village",
+    "name_en": "Yakubpur (Gram Panchayat Area)",
+    "name_hi": "Yakubpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276402"
+    ]
+  },
+  {
+    "id": "po-mau-piwatal",
+    "type": "village",
+    "name_en": "Piwatal (Gram Panchayat Area)",
+    "name_hi": "Piwatal (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275301"
+    ]
+  },
+  {
+    "id": "po-mau-usari-khurd",
+    "type": "village",
+    "name_en": "Usari Khurd (Gram Panchayat Area)",
+    "name_hi": "Usari Khurd (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275301"
+    ]
+  },
+  {
+    "id": "po-mau-hamid-pur",
+    "type": "village",
+    "name_en": "Hamid Pur (Gram Panchayat Area)",
+    "name_hi": "Hamid Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275302"
+    ]
+  },
+  {
+    "id": "po-mau-vijra-pura",
+    "type": "village",
+    "name_en": "Vijra Pura (Gram Panchayat Area)",
+    "name_hi": "Vijra Pura (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275302"
+    ]
+  },
+  {
+    "id": "po-mau-barahalaganj",
+    "type": "village",
+    "name_en": "Barahalaganj (Gram Panchayat Area)",
+    "name_hi": "Barahalaganj (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276129"
+    ]
+  },
+  {
+    "id": "po-mau-chhapara",
+    "type": "village",
+    "name_en": "Chhapara (Gram Panchayat Area)",
+    "name_hi": "Chhapara (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276129"
+    ]
+  },
+  {
+    "id": "po-mau-jigar-sandi",
+    "type": "village",
+    "name_en": "Jigar Sandi (Gram Panchayat Area)",
+    "name_hi": "Jigar Sandi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276129"
+    ]
+  },
+  {
+    "id": "po-mau-sherpur",
+    "type": "village",
+    "name_en": "Sherpur (Gram Panchayat Area)",
+    "name_hi": "Sherpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276129"
+    ]
+  },
+  {
+    "id": "po-mau-nai-bazar",
+    "type": "village",
+    "name_en": "Nai Bazar (Gram Panchayat Area)",
+    "name_hi": "Nai Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275303"
+    ]
+  },
+  {
+    "id": "po-mau-gagaupur",
+    "type": "village",
+    "name_en": "Gagaupur (Gram Panchayat Area)",
+    "name_hi": "Gagaupur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221601"
+    ]
+  },
+  {
+    "id": "po-mau-parasia",
+    "type": "village",
+    "name_en": "Parasia (Gram Panchayat Area)",
+    "name_hi": "Parasia (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221601"
+    ]
+  },
+  {
+    "id": "po-mau-jamdih",
+    "type": "village",
+    "name_en": "Jamdih (Gram Panchayat Area)",
+    "name_hi": "Jamdih (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275304"
+    ]
+  },
+  {
+    "id": "po-mau-gahani",
+    "type": "village",
+    "name_en": "Gahani (Gram Panchayat Area)",
+    "name_hi": "Gahani (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221705"
+    ]
+  },
+  {
+    "id": "po-mau-kirath-sarai",
+    "type": "village",
+    "name_en": "Kirath Sarai (Gram Panchayat Area)",
+    "name_hi": "Kirath Sarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221705"
+    ]
+  },
+  {
+    "id": "po-mau-pardaha",
+    "type": "village",
+    "name_en": "Pardaha (Gram Panchayat Area)",
+    "name_hi": "Pardaha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221705"
+    ]
+  },
+  {
+    "id": "po-mau-dumraon",
+    "type": "village",
+    "name_en": "Dumraon (Gram Panchayat Area)",
+    "name_hi": "Dumraon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221705"
+    ]
+  },
+  {
+    "id": "po-mau-inderpur-bhalya",
+    "type": "village",
+    "name_en": "Inderpur Bhalya (Gram Panchayat Area)",
+    "name_hi": "Inderpur Bhalya (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221705"
+    ]
+  },
+  {
+    "id": "po-mau-ariyaso",
+    "type": "village",
+    "name_en": "Ariyaso (Gram Panchayat Area)",
+    "name_hi": "Ariyaso (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275105"
+    ]
+  },
+  {
+    "id": "po-mau-kari-sath",
+    "type": "village",
+    "name_en": "Kari Sath (Gram Panchayat Area)",
+    "name_hi": "Kari Sath (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275105"
+    ]
+  },
+  {
+    "id": "po-mau-maur-bojh",
+    "type": "village",
+    "name_en": "Maur Bojh (Gram Panchayat Area)",
+    "name_hi": "Maur Bojh (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275105"
+    ]
+  },
+  {
+    "id": "po-mau-padari",
+    "type": "village",
+    "name_en": "Padari (Gram Panchayat Area)",
+    "name_hi": "Padari (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276402"
+    ]
+  },
+  {
+    "id": "po-mau-parasi",
+    "type": "village",
+    "name_en": "Parasi (Gram Panchayat Area)",
+    "name_hi": "Parasi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276402"
+    ]
+  },
+  {
+    "id": "po-mau-dangauli",
+    "type": "village",
+    "name_en": "Dangauli (Gram Panchayat Area)",
+    "name_hi": "Dangauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275306"
+    ]
+  },
+  {
+    "id": "po-mau-bhatmila",
+    "type": "village",
+    "name_en": "Bhatmila (Gram Panchayat Area)",
+    "name_hi": "Bhatmila (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275301"
+    ]
+  },
+  {
+    "id": "po-mau-bojhi-bazar",
+    "type": "village",
+    "name_en": "Bojhi Bazar (Gram Panchayat Area)",
+    "name_hi": "Bojhi Bazar (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275301"
+    ]
+  },
+  {
+    "id": "po-mau-taktewarampur",
+    "type": "village",
+    "name_en": "Taktewarampur (Gram Panchayat Area)",
+    "name_hi": "Taktewarampur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275301"
+    ]
+  },
+  {
+    "id": "po-mau-iraura-chaubey-pur",
+    "type": "village",
+    "name_en": "Iraura Chaubey Pur (Gram Panchayat Area)",
+    "name_hi": "Iraura Chaubey Pur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275302"
+    ]
+  },
+  {
+    "id": "po-mau-narawa-sarai",
+    "type": "village",
+    "name_en": "Narawa Sarai (Gram Panchayat Area)",
+    "name_hi": "Narawa Sarai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275302"
+    ]
+  },
+  {
+    "id": "po-mau-kajha",
+    "type": "village",
+    "name_en": "Kajha (Gram Panchayat Area)",
+    "name_hi": "Kajha (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276129"
+    ]
+  },
+  {
+    "id": "po-mau-karami",
+    "type": "village",
+    "name_en": "Karami (Gram Panchayat Area)",
+    "name_hi": "Karami (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276129"
+    ]
+  },
+  {
+    "id": "po-mau-mande",
+    "type": "village",
+    "name_en": "Mande (Gram Panchayat Area)",
+    "name_hi": "Mande (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276129"
+    ]
+  },
+  {
+    "id": "po-mau-rasepur",
+    "type": "village",
+    "name_en": "Rasepur (Gram Panchayat Area)",
+    "name_hi": "Rasepur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276129"
+    ]
+  },
+  {
+    "id": "po-mau-panail",
+    "type": "village",
+    "name_en": "Panail (Gram Panchayat Area)",
+    "name_hi": "Panail (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275303"
+    ]
+  },
+  {
+    "id": "po-mau-gajiyapur",
+    "type": "village",
+    "name_en": "Gajiyapur (Gram Panchayat Area)",
+    "name_hi": "Gajiyapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221601"
+    ]
+  },
+  {
+    "id": "po-mau-ahamadpur-asana",
+    "type": "village",
+    "name_en": "Ahamadpur Asana (Gram Panchayat Area)",
+    "name_hi": "Ahamadpur Asana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275304"
+    ]
+  },
+  {
+    "id": "po-mau-gahana",
+    "type": "village",
+    "name_en": "Gahana (Gram Panchayat Area)",
+    "name_hi": "Gahana (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221705"
+    ]
+  },
+  {
+    "id": "po-mau-badraon",
+    "type": "village",
+    "name_en": "Badraon (Gram Panchayat Area)",
+    "name_hi": "Badraon (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-badraon",
+    "block_id": "badraon",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275301"
+    ]
+  },
+  {
+    "id": "po-mau-pahasa",
+    "type": "village",
+    "name_en": "Pahasa (Gram Panchayat Area)",
+    "name_hi": "Pahasa (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "221705"
+    ]
+  },
+  {
+    "id": "po-mau-kalyanpur",
+    "type": "village",
+    "name_en": "Kalyanpur (Gram Panchayat Area)",
+    "name_hi": "Kalyanpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275105"
+    ]
+  },
+  {
+    "id": "po-mau-lilari-bharauli",
+    "type": "village",
+    "name_en": "Lilari Bharauli (Gram Panchayat Area)",
+    "name_hi": "Lilari Bharauli (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275105"
+    ]
+  },
+  {
+    "id": "po-mau-nagpur",
+    "type": "village",
+    "name_en": "Nagpur (Gram Panchayat Area)",
+    "name_hi": "Nagpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276402"
+    ]
+  },
+  {
+    "id": "po-mau-rajapur",
+    "type": "village",
+    "name_en": "Rajapur (Gram Panchayat Area)",
+    "name_hi": "Rajapur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276402"
+    ]
+  },
+  {
+    "id": "po-mau-bandi-ghat",
+    "type": "village",
+    "name_en": "Bandi Ghat (Gram Panchayat Area)",
+    "name_hi": "Bandi Ghat (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275306"
+    ]
+  },
+  {
+    "id": "po-mau-kahinaur",
+    "type": "village",
+    "name_en": "Kahinaur (Gram Panchayat Area)",
+    "name_hi": "Kahinaur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275101"
+    ]
+  },
+  {
+    "id": "po-mau-hemai",
+    "type": "village",
+    "name_en": "Hemai (Gram Panchayat Area)",
+    "name_hi": "Hemai (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275301"
+    ]
+  },
+  {
+    "id": "po-mau-piruth-singhpur",
+    "type": "village",
+    "name_en": "Piruth Singhpur (Gram Panchayat Area)",
+    "name_hi": "Piruth Singhpur (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275301"
+    ]
+  },
+  {
+    "id": "po-mau-katirahi-bugurg",
+    "type": "village",
+    "name_en": "Katirahi Bugurg (Gram Panchayat Area)",
+    "name_hi": "Katirahi Bugurg (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275301"
+    ]
+  },
+  {
+    "id": "po-mau-pilsui",
+    "type": "village",
+    "name_en": "Pilsui (Gram Panchayat Area)",
+    "name_hi": "Pilsui (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "275301"
+    ]
+  },
+  {
+    "id": "po-mau-sutarahi",
+    "type": "village",
+    "name_en": "Sutarahi (Gram Panchayat Area)",
+    "name_hi": "Sutarahi (ग्राम पंचायत क्षेत्र)",
+    "gp_id": "gp-pardaha",
+    "block_id": "pardaha",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "gram_panchayat",
+    "pincodes": [
+      "276406"
+    ]
+  },
+  {
+    "id": "ward-mau-ulb-mau-main",
+    "type": "ward",
+    "name_en": "Nagar Palika Parishad Mau (All Wards)",
+    "name_hi": "मऊ नगरीय निकाय (सभी वार्ड)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad"
+  },
+  {
+    "id": "town-mau-mau",
+    "type": "ward",
+    "name_en": "Mau (Urban Ward / SO)",
+    "name_hi": "Mau (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "275101"
+    ]
+  },
+  {
+    "id": "town-mau-haldharpur",
+    "type": "ward",
+    "name_en": "HALDHARPUR (Urban Ward / SO)",
+    "name_hi": "HALDHARPUR (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221705"
+    ]
+  },
+  {
+    "id": "town-mau-jamalmirzapur",
+    "type": "ward",
+    "name_en": "JAMALMIRZAPUR (Urban Ward / SO)",
+    "name_hi": "JAMALMIRZAPUR (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "275105"
+    ]
+  },
+  {
+    "id": "town-mau-koiriyapar",
+    "type": "ward",
+    "name_en": "KOIRIYAPAR (Urban Ward / SO)",
+    "name_hi": "KOIRIYAPAR (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "275306"
+    ]
+  },
+  {
+    "id": "town-mau-bhopaura",
+    "type": "ward",
+    "name_en": "Bhopaura (Urban Ward / SO)",
+    "name_hi": "Bhopaura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "275302"
+    ]
+  },
+  {
+    "id": "town-mau-dubari",
+    "type": "ward",
+    "name_en": "DUBARI (Urban Ward / SO)",
+    "name_hi": "DUBARI (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221601"
+    ]
+  },
+  {
+    "id": "town-mau-ghosi",
+    "type": "ward",
+    "name_en": "GHOSI (Urban Ward / SO)",
+    "name_hi": "GHOSI (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "275304"
+    ]
+  },
+  {
+    "id": "town-mau-chiraia-kot",
+    "type": "ward",
+    "name_en": "Chiraia Kot (Urban Ward / SO)",
+    "name_hi": "Chiraia Kot (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "276129"
+    ]
+  },
+  {
+    "id": "town-mau-kopaganj",
+    "type": "ward",
+    "name_en": "KOPAGANJ (Urban Ward / SO)",
+    "name_hi": "KOPAGANJ (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "275305"
+    ]
+  },
+  {
+    "id": "town-mau-kushmaur",
+    "type": "ward",
+    "name_en": "Kushmaur (Urban Ward / SO)",
+    "name_hi": "Kushmaur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "275103"
+    ]
+  },
+  {
+    "id": "town-mau-mau-town",
+    "type": "ward",
+    "name_en": "Mau Town (Urban Ward / SO)",
+    "name_hi": "Mau Town (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "275101"
+    ]
+  },
+  {
+    "id": "town-mau-mohammadabad-gohna",
+    "type": "ward",
+    "name_en": "Mohammadabad Gohna (Urban Ward / SO)",
+    "name_hi": "Mohammadabad Gohna (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "town-mau-mau-rs",
+    "type": "ward",
+    "name_en": "Mau RS (Urban Ward / SO)",
+    "name_hi": "Mau RS (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "275101"
+    ]
+  },
+  {
+    "id": "town-mau-ratan-pura",
+    "type": "ward",
+    "name_en": "Ratan Pura (Urban Ward / SO)",
+    "name_hi": "Ratan Pura (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221706"
+    ]
+  },
+  {
+    "id": "town-mau-semari-jamal-pur",
+    "type": "ward",
+    "name_en": "Semari Jamal Pur (Urban Ward / SO)",
+    "name_hi": "Semari Jamal Pur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "275307"
+    ]
+  },
+  {
+    "id": "town-mau-walid-pur",
+    "type": "ward",
+    "name_en": "Walid Pur (Urban Ward / SO)",
+    "name_hi": "Walid Pur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "276405"
+    ]
+  },
+  {
+    "id": "town-mau-amila",
+    "type": "ward",
+    "name_en": "Amila (Urban Ward / SO)",
+    "name_hi": "Amila (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "275301"
+    ]
+  },
+  {
+    "id": "town-mau-dohari-ghat",
+    "type": "ward",
+    "name_en": "Dohari  Ghat (Urban Ward / SO)",
+    "name_hi": "Dohari  Ghat (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "275303"
+    ]
+  },
+  {
+    "id": "town-mau-indara",
+    "type": "ward",
+    "name_en": "INDARA (Urban Ward / SO)",
+    "name_hi": "INDARA (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "275102"
+    ]
+  },
+  {
+    "id": "town-mau-karaha",
+    "type": "ward",
+    "name_en": "KARAHA (Urban Ward / SO)",
+    "name_hi": "KARAHA (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "276402"
+    ]
+  },
+  {
+    "id": "town-mau-madhu-ban",
+    "type": "ward",
+    "name_en": "Madhu Ban (Urban Ward / SO)",
+    "name_hi": "Madhu Ban (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221603"
+    ]
+  },
+  {
+    "id": "town-mau-maryadpur",
+    "type": "ward",
+    "name_en": "MARYADPUR (Urban Ward / SO)",
+    "name_hi": "MARYADPUR (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "221602"
+    ]
+  },
+  {
+    "id": "town-mau-mirjahadipura-chowk",
+    "type": "ward",
+    "name_en": "Mirjahadipura Chowk (Urban Ward / SO)",
+    "name_hi": "Mirjahadipura Chowk (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "275101"
+    ]
+  },
+  {
+    "id": "town-mau-mohammadabad-gohana-chowk",
+    "type": "ward",
+    "name_en": "Mohammadabad Gohana Chowk (Urban Ward / SO)",
+    "name_hi": "Mohammadabad Gohana Chowk (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "276403"
+    ]
+  },
+  {
+    "id": "town-mau-suraj-pur",
+    "type": "ward",
+    "name_en": "Suraj Pur (Urban Ward / SO)",
+    "name_hi": "Suraj Pur (शहरी वार्ड क्षेत्र)",
+    "ulb_id": "ulb-mau-main",
+    "tehsil_id": "mau-sadar",
+    "district_id": "mau",
+    "local_body_type": "nagar_palika_parishad",
+    "pincodes": [
+      "276306"
+    ]
+  }
+]

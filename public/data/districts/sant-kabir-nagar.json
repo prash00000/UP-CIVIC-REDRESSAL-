@@ -21,7 +21,7 @@
       "covers": [
         "sant-kabir-nagar"
       ],
-      "source_url": "https://sknagar.nic.in/whos-who/",
+      "source_url": "https://sknagar.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "District Magistrate",
@@ -46,7 +46,7 @@
       "covers": [
         "sant-kabir-nagar"
       ],
-      "source_url": "https://sknagar.nic.in/whos-who/",
+      "source_url": "https://sknagar.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Chief Development Officer",
@@ -86,7 +86,7 @@
       "covers": [
         "khalilabad"
       ],
-      "source_url": "https://sknagar.nic.in/whos-who/",
+      "source_url": "https://sknagar.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "SDM Khalilabad",
@@ -111,7 +111,7 @@
       "covers": [
         "mehdawal"
       ],
-      "source_url": "https://sknagar.nic.in/whos-who/",
+      "source_url": "https://sknagar.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "SDM Mehdawal",
@@ -136,7 +136,7 @@
       "covers": [
         "dhanghata"
       ],
-      "source_url": "https://sknagar.nic.in/whos-who/",
+      "source_url": "https://sknagar.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "SDM Dhanghata",
@@ -148,14 +148,24 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Khalilabad",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khalilabad",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464738",
+          "type": "office",
+          "source_url": "https://sknagar.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.khalilabad.skn@gmail.com",
       "covers": [
         "khalilabad"
       ],
-      "source_url": "https://sknagar.nic.in/whos-who/",
+      "source_url": "https://sknagar.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Block Development Officer Khalilabad",
+      "address_en": "Block Development Office Khalilabad"
     },
     {
       "id": "up-sant-kabir-nagar-ado-khalilabad",
@@ -169,7 +179,8 @@
       ],
       "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sant-kabir-nagar-bdo-khalilabad"
     },
     {
       "id": "up-sant-kabir-nagar-bdo-baghnagar",
@@ -198,7 +209,8 @@
       ],
       "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sant-kabir-nagar-bdo-baghnagar"
     },
     {
       "id": "up-sant-kabir-nagar-bdo-semariyawan",
@@ -227,7 +239,8 @@
       ],
       "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sant-kabir-nagar-bdo-semariyawan"
     },
     {
       "id": "up-sant-kabir-nagar-bdo-mehdawal",
@@ -235,14 +248,24 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mehdawal",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mehdawal",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464735",
+          "type": "office",
+          "source_url": "https://sknagar.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.mehdawal.skn@gmail.com",
       "covers": [
         "mehdawal"
       ],
-      "source_url": "https://sknagar.nic.in/whos-who/",
+      "source_url": "https://sknagar.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Block Development Officer Mehdawal",
+      "address_en": "Block Development Office Mehdawal"
     },
     {
       "id": "up-sant-kabir-nagar-ado-mehdawal",
@@ -256,7 +279,8 @@
       ],
       "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sant-kabir-nagar-bdo-mehdawal"
     },
     {
       "id": "up-sant-kabir-nagar-bdo-belhar-kala",
@@ -264,14 +288,24 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Belhar Kala",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Belhar Kala",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464741",
+          "type": "office",
+          "source_url": "https://sknagar.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.belharkala.skn@gmail.com",
       "covers": [
         "belhar-kala"
       ],
-      "source_url": "https://sknagar.nic.in/whos-who/",
+      "source_url": "https://sknagar.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Block Development Officer Belharkala",
+      "address_en": "Block Development Office Belharkala"
     },
     {
       "id": "up-sant-kabir-nagar-ado-belhar-kala",
@@ -285,7 +319,8 @@
       ],
       "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sant-kabir-nagar-bdo-belhar-kala"
     },
     {
       "id": "up-sant-kabir-nagar-bdo-satha",
@@ -314,7 +349,8 @@
       ],
       "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sant-kabir-nagar-bdo-satha"
     },
     {
       "id": "up-sant-kabir-nagar-bdo-dhanghata",
@@ -343,7 +379,8 @@
       ],
       "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sant-kabir-nagar-bdo-dhanghata"
     },
     {
       "id": "up-sant-kabir-nagar-bdo-hainsar-bazar",
@@ -372,7 +409,8 @@
       ],
       "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sant-kabir-nagar-bdo-hainsar-bazar"
     },
     {
       "id": "up-sant-kabir-nagar-bdo-pauli",
@@ -380,14 +418,24 @@
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Pauli",
       "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pauli",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454464742",
+          "type": "office",
+          "source_url": "https://sknagar.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdo.pauli.skn@gmail.com",
       "covers": [
         "pauli"
       ],
-      "source_url": "https://sknagar.nic.in/whos-who/",
+      "source_url": "https://sknagar.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "Block Development Officer Pauli",
+      "address_en": "Block Development Office Pauli"
     },
     {
       "id": "up-sant-kabir-nagar-ado-pauli",
@@ -401,7 +449,8 @@
       ],
       "source_url": "https://sknagar.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-sant-kabir-nagar-bdo-pauli"
     },
     {
       "id": "eo-sant-kabir-nagar-main",
@@ -409,13 +458,24 @@
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Sant Kabir Nagar",
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका संत कबीर नगर",
-      "phones": [],
+      "phones": [
+        {
+          "number": "9454417600",
+          "type": "office",
+          "source_url": "https://sknagar.nic.in/about-district/whos-who/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "ulb-sant-kabir-nagar-main"
       ],
-      "source_url": "https://sknagar.nic.in/whos-who/",
+      "source_url": "https://sknagar.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "officer_name_en": "District Magistrate",
+      "email": "dmskn@nic.in",
+      "address_en": "Collectorate Mehadawal Road Sant Kabir Nagar 272175"
     }
   ]
 }

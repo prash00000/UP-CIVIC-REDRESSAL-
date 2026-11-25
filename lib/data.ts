@@ -29,16 +29,8 @@ export async function loadDistrictData(districtId: string): Promise<DistrictData
   }
 }
 
-const PLACES_AVAILABLE_DISTRICTS = new Set([
-  "agra",
-  "jaunpur",
-  "lucknow",
-  "prayagraj",
-  "varanasi",
-]);
-
 export async function loadPlacesData(districtId: string): Promise<Place[]> {
-  if (!PLACES_AVAILABLE_DISTRICTS.has(districtId)) {
+  if (!districtId) {
     return [];
   }
   try {

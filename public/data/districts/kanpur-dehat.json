@@ -16,13 +16,34 @@
           "source_url": "https://kanpurdehat.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "05111-271266",
+          "type": "landline",
+          "source_url": "https://kanpurdehat.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05111-271366",
+          "type": "landline",
+          "source_url": "https://kanpurdehat.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05111-271443",
+          "type": "landline",
+          "source_url": "https://kanpurdehat.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "dmkan@nic.in",
       "covers": [
         "kanpur-dehat"
       ],
-      "source_url": "https://kanpurdehat.nic.in/whos-who/",
+      "source_url": "https://kanpurdehat.nic.in/contact-directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Collectorate, Mati, Akbarpur, Kanpur Dehat."
@@ -40,13 +61,34 @@
           "source_url": "https://kanpurdehat.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "05111-271229",
+          "type": "landline",
+          "source_url": "https://kanpurdehat.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05111-271396",
+          "type": "landline",
+          "source_url": "https://kanpurdehat.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05111-271383",
+          "type": "landline",
+          "source_url": "https://kanpurdehat.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "email": "cdokan@nic.in",
       "covers": [
         "kanpur-dehat"
       ],
-      "source_url": "https://kanpurdehat.nic.in/whos-who/",
+      "source_url": "https://kanpurdehat.nic.in/contact-directory/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri Vidhan Jaiswal, I.A.S.",
@@ -184,7 +226,8 @@
       ],
       "source_url": "https://kanpurdehat.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-dehat-bdo-akbarpur"
     },
     {
       "id": "up-kanpur-dehat-bdo-sarbankhera",
@@ -213,7 +256,8 @@
       ],
       "source_url": "https://kanpurdehat.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-dehat-bdo-sarbankhera"
     },
     {
       "id": "up-kanpur-dehat-bdo-malasa",
@@ -242,7 +286,8 @@
       ],
       "source_url": "https://kanpurdehat.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-dehat-bdo-malasa"
     },
     {
       "id": "up-kanpur-dehat-bdo-amraudha",
@@ -271,7 +316,8 @@
       ],
       "source_url": "https://kanpurdehat.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-dehat-bdo-amraudha"
     },
     {
       "id": "up-kanpur-dehat-bdo-rajpur",
@@ -300,7 +346,8 @@
       ],
       "source_url": "https://kanpurdehat.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-dehat-bdo-rajpur"
     },
     {
       "id": "up-kanpur-dehat-bdo-derapur",
@@ -329,7 +376,8 @@
       ],
       "source_url": "https://kanpurdehat.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-dehat-bdo-derapur"
     },
     {
       "id": "up-kanpur-dehat-bdo-jhinjhak",
@@ -358,7 +406,8 @@
       ],
       "source_url": "https://kanpurdehat.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-dehat-bdo-jhinjhak"
     },
     {
       "id": "up-kanpur-dehat-bdo-rasulabad",
@@ -387,7 +436,8 @@
       ],
       "source_url": "https://kanpurdehat.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-dehat-bdo-rasulabad"
     },
     {
       "id": "up-kanpur-dehat-bdo-sikandra",
@@ -416,7 +466,8 @@
       ],
       "source_url": "https://kanpurdehat.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-dehat-bdo-sikandra"
     },
     {
       "id": "up-kanpur-dehat-bdo-sandalpur",
@@ -445,7 +496,8 @@
       ],
       "source_url": "https://kanpurdehat.nic.in/whos-who/",
       "confidence": "medium",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-20",
+      "fallback_office_id": "up-kanpur-dehat-bdo-sandalpur"
     },
     {
       "id": "eo-kanpur-dehat-main",

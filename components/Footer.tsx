@@ -18,7 +18,7 @@ export default function Footer() {
             {t("footer.disclaimer")}
           </p>
           <p className="text-[12px] uppercase tracking-[0.08em] text-[#8FA4BA] pt-1">
-            UP Janhit Guarantee Act, 2011 · RTI Act, 2005
+            UP Janhit Guarantee Act, 2011 · RTI Act, 2005 · {t("footer.lastUpdated")}
           </p>
         </div>
 

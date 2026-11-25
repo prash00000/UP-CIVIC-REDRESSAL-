@@ -55,6 +55,7 @@ function WizardContent() {
     typeParam
   );
   const [selectedDistrict, setSelectedDistrict] = useState<string | null>(districtParam);
+  const [pinCandidateDistrict, setPinCandidateDistrict] = useState<string | null>(null);
   const [selectedPlace, setSelectedPlace] = useState<string | null>(placeParam);
   const [pincodeInput, setPincodeInput] = useState(pincodeParam || "");
   const [pincodeMatches, setPincodeMatches] = useState<PincodeMatch[] | null>(null);
@@ -166,18 +167,27 @@ function WizardContent() {
         setPincodeNotFound(false);
         if (res.matches.length === 1) {
           const match = res.matches[0];
-          // Preselect district immediately without unexpectedly skipping Step 2 mid-typing
-          setSelectedDistrict(match.district_id);
+          // On Step 1, preselect district so picking a ballot skips Step 2;
+          // On Step 2, stage in pinCandidateDistrict so user sees confirmation & clicks Continue
+          if (!selectedType) {
+            setSelectedDistrict(match.district_id);
+          } else {
+            setPinCandidateDistrict(match.district_id);
+          }
+        } else {
+          setPinCandidateDistrict(null);
         }
       } else {
         setPincodeMatches(null);
         setPincodeKind(null);
         setPincodeNotFound(true);
+        setPinCandidateDistrict(null);
       }
     } else {
       setPincodeMatches(null);
       setPincodeKind(null);
       setPincodeNotFound(false);
+      setPinCandidateDistrict(null);
     }
   };
 
@@ -187,6 +197,7 @@ function WizardContent() {
     setPincodeMatches(null);
     setPincodeKind(null);
     setPincodeNotFound(false);
+    setPinCandidateDistrict(null);
     setSelectedDistrict(null);
     updateUrl(selectedType, null, null, null);
   };
@@ -202,7 +213,13 @@ function WizardContent() {
 
   const placeOptions: SearchOption[] = useMemo(() => {
     if (!currentPlaces.length) return [];
-    return currentPlaces.map((p) => {
+    const filteredPlaces =
+      selectedType === "unknown" && unknownChoice
+        ? currentPlaces.filter((p) =>
+            unknownChoice === "village" ? p.type === "village" : p.type === "ward"
+          )
+        : currentPlaces;
+    return filteredPlaces.map((p) => {
       const name = getLocalized(p, "name", lang);
       let sub = "";
       if (p.type === "village") {
@@ -217,7 +234,7 @@ function WizardContent() {
         searchValue: `${p.name_en} ${p.name_hi} ${p.gp_id || ""} ${p.block_id || ""}`,
       };
     });
-  }, [currentPlaces, lang]);
+  }, [currentPlaces, selectedType, unknownChoice, lang]);
 
   const resolution: ResolutionResult | null = useMemo(() => {
     if (step !== 4 || !selectedDistrict || !currentDistrictData) return null;
@@ -265,6 +282,19 @@ function WizardContent() {
     updateUrl(ballot, effDistrict, ballot === "other" ? null : selectedPlace);
   };
 
+  const handleStepClick = (targetStep: number) => {
+    if (targetStep === 1) {
+      setSelectedType(null);
+      setSelectedPlace(null);
+      updateUrl(null, selectedDistrict, null);
+    } else if (targetStep === 2) {
+      userClearedDistrictRef.current = true;
+      setSelectedDistrict(null);
+      setSelectedPlace(null);
+      updateUrl(selectedType, null, null);
+    }
+  };
+
   return (
     <div className="max-w-form mx-auto">
       {step < 4 && (
@@ -273,6 +303,7 @@ function WizardContent() {
           totalSteps={3}
           canBack={step > 1}
           onBack={handleBack}
+          onStepClick={handleStepClick}
         />
       )}
 
@@ -457,7 +488,7 @@ function WizardContent() {
                 className="w-full min-h-btn px-4 py-2.5 bg-bg text-text text-[17px] font-medium tabular-nums border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none"
               />
 
-              {pincodeMatches && pincodeMatches.length === 1 && selectedDistrict && (
+              {pincodeMatches && pincodeMatches.length === 1 && (pinCandidateDistrict || selectedDistrict) && (
                 <Banner
                   status="success"
                   container="card"
@@ -466,7 +497,7 @@ function WizardContent() {
                     pincodeKind === "exact"
                       ? "flow.pincodeDetected"
                       : "flow.pincodePrefixDetected",
-                    { district: getDistrictName(selectedDistrict) }
+                    { district: getDistrictName((pinCandidateDistrict || selectedDistrict)!) }
                   )}
                 >
                   <div className="pt-2">
@@ -474,8 +505,14 @@ function WizardContent() {
                       type="button"
                       variant="primary"
                       size="sm"
-                      label={`${t("flow.continueDistrict", { district: getDistrictName(selectedDistrict) })} →`}
-                      onClick={() => updateUrl(selectedType, selectedDistrict, null, pincodeInput)}
+                      label={`${t("flow.continueDistrict", { district: getDistrictName((pinCandidateDistrict || selectedDistrict)!) })} →`}
+                      onClick={() => {
+                        const target = (pinCandidateDistrict || selectedDistrict)!;
+                        userClearedDistrictRef.current = false;
+                        setSelectedDistrict(target);
+                        setPinCandidateDistrict(null);
+                        updateUrl(selectedType, target, null, pincodeInput);
+                      }}
                     />
                   </div>
                 </Banner>
@@ -533,12 +570,15 @@ function WizardContent() {
       {step === 3 && (
         <section aria-labelledby="q3-heading" className="space-y-5">
           <h1 id="q3-heading" className="font-editorial text-[28px] sm:text-[34px] font-bold text-text leading-tight">
-            {selectedType === "gram_panchayat" ? t("flow.q3.village") : t("flow.q3.ward")}
+            {selectedType === "unknown" && !unknownChoice
+              ? t("flow.unknownHeading")
+              : selectedType === "gram_panchayat" || unknownChoice === "village"
+              ? t("flow.q3.village")
+              : t("flow.q3.ward")}
           </h1>
 
-          {selectedType === "unknown" && !unknownChoice && (
+          {selectedType === "unknown" && !unknownChoice && currentPlaces.length > 0 && (
             <div className="space-y-3 mb-4">
-              <h3 className="font-semibold text-[18px] text-text">{t("flow.villageOrTown")}</h3>
               <div className="grid grid-cols-2 gap-3">
                 <Button
                   type="button"
@@ -650,16 +690,32 @@ function WizardContent() {
           </h1>
 
           {resolution.place ? (
-            <div className="p-4 rounded-[6px] bg-surface border border-border border-l-4 border-l-[#154273] text-[15px] text-text font-medium">
-              {getLocalized(resolution.place, "name", lang)}
-              {resolution.place.gp_id && ` · GP: ${resolution.place.gp_id}`}
-              {resolution.place.block_id && ` · Block: ${resolution.place.block_id}`}
-              {resolution.place.tehsil_id && ` · Tehsil: ${resolution.place.tehsil_id}`}
-              {selectedDistrict && ` · ${getDistrictName(selectedDistrict)}`}
+            <div className="p-4 rounded-[6px] bg-surface border border-border border-l-4 border-l-[#154273] flex flex-wrap items-center justify-between gap-2 text-[15px] text-text font-medium">
+              <span>
+                {getLocalized(resolution.place, "name", lang)}
+                {resolution.place.gp_id && ` · GP: ${resolution.place.gp_id}`}
+                {resolution.place.block_id && ` · Block: ${resolution.place.block_id}`}
+                {resolution.place.tehsil_id && ` · Tehsil: ${resolution.place.tehsil_id}`}
+                {selectedDistrict && ` · ${getDistrictName(selectedDistrict)}`}
+              </span>
+              <button
+                type="button"
+                onClick={() => handleStepClick(2)}
+                className="text-[13px] font-semibold text-[#154273] underline underline-offset-4 hover:text-[#0F3156]"
+              >
+                {t("flow.change")}
+              </button>
             </div>
           ) : selectedDistrict ? (
-            <div className="p-4 rounded-[6px] bg-surface border border-border border-l-4 border-l-[#154273] text-[15px] text-text font-medium">
-              {getDistrictName(selectedDistrict)}
+            <div className="p-4 rounded-[6px] bg-surface border border-border border-l-4 border-l-[#154273] flex flex-wrap items-center justify-between gap-2 text-[15px] text-text font-medium">
+              <span>{getDistrictName(selectedDistrict)}</span>
+              <button
+                type="button"
+                onClick={() => handleStepClick(2)}
+                className="text-[13px] font-semibold text-[#154273] underline underline-offset-4 hover:text-[#0F3156]"
+              >
+                {t("flow.change")}
+              </button>
             </div>
           ) : null}
 
@@ -749,7 +805,9 @@ function WizardContent() {
               <Link
                 href={`/letter/?district=${encodeURIComponent(
                   selectedDistrict || ""
-                )}&place=${encodeURIComponent(selectedPlace || "")}`}
+                )}&place=${encodeURIComponent(selectedPlace || "")}&officer=${encodeURIComponent(
+                  resolution.officers[0] ? getLocalized(resolution.officers[0].office, "office_name", lang) : ""
+                )}`}
                 className="p-4 rounded-[4px] border border-borderStrong hover:border-[#154273] bg-surface text-text font-semibold text-center text-[15px] transition-colors"
               >
                 {t("results.letterBtn")}
@@ -757,7 +815,9 @@ function WizardContent() {
               <Link
                 href={`/rti/?district=${encodeURIComponent(
                   selectedDistrict || ""
-                )}&place=${encodeURIComponent(selectedPlace || "")}`}
+                )}&place=${encodeURIComponent(selectedPlace || "")}&officer=${encodeURIComponent(
+                  resolution.officers[0] ? getLocalized(resolution.officers[0].office, "office_name", lang) : ""
+                )}`}
                 className="p-4 rounded-[4px] border border-borderStrong hover:border-[#154273] bg-surface text-text font-semibold text-center text-[15px] transition-colors"
               >
                 {t("results.rtiBtn")}

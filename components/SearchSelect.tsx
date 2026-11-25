@@ -41,6 +41,8 @@ export default function SearchSelect({
       if (selected) {
         setQuery(selected.label);
       }
+    } else {
+      setQuery("");
     }
   }, [value, options]);
 
@@ -123,13 +125,30 @@ export default function SearchSelect({
           }}
           onFocus={() => setIsOpen(true)}
           onKeyDown={handleKeyDown}
-          className="w-full min-h-btn px-4 py-2.5 pr-10 bg-surface text-text text-[16px] border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none transition-colors"
+          className="w-full min-h-btn px-4 py-2.5 pr-16 bg-surface text-text text-[16px] border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none transition-colors"
         />
-        <div className="absolute right-3.5 top-1/2 -translate-y-1/2 text-muted pointer-events-none">
-          <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-            <circle cx="11" cy="11" r="8" />
-            <line x1="21" y1="21" x2="16.65" y2="16.65" />
-          </svg>
+        <div className="absolute right-3 top-1/2 -translate-y-1/2 flex items-center gap-1.5">
+          {query && (
+            <button
+              type="button"
+              aria-label={t("flow.pincodeClear")}
+              onClick={() => {
+                setQuery("");
+                setIsOpen(true);
+                setHighlightedIndex(0);
+                inputRef.current?.focus();
+              }}
+              className="text-muted hover:text-text px-1.5 py-0.5 text-[14px]"
+            >
+              ✕
+            </button>
+          )}
+          <div className="text-muted pointer-events-none">
+            <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <circle cx="11" cy="11" r="8" />
+              <line x1="21" y1="21" x2="16.65" y2="16.65" />
+            </svg>
+          </div>
         </div>
       </div>
 
@@ -139,6 +158,11 @@ export default function SearchSelect({
           role="listbox"
           className="absolute z-40 w-full mt-1 bg-surface border border-borderStrong rounded-[4px] shadow-md max-h-64 overflow-y-auto divide-y divide-border"
         >
+          {options.length > filtered.length && (
+            <li className="px-3.5 py-1.5 text-[12px] text-muted bg-bg tabular-nums">
+              {t("flow.showingTop", { shown: filtered.length, total: options.length })}
+            </li>
+          )}
           {filtered.length === 0 ? (
             <li className="p-3.5 text-[15px] text-muted text-center">
               {t("flow.noMatch")}

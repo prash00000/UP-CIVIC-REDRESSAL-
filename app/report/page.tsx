@@ -47,7 +47,7 @@ function ReportContent() {
         setErrorMsg(data.error || t("common.error"));
       }
     } catch {
-      setSubmitted(true);
+      setErrorMsg(t("common.error"));
     } finally {
       setSubmitting(false);
     }

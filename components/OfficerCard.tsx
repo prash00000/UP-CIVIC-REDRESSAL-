@@ -28,6 +28,7 @@ export default function OfficerCard({ item }: OfficerCardProps) {
   const address = getLocalized(office, "address", lang);
 
   const phone = office.phones && office.phones.length > 0 ? office.phones[0] : null;
+  const extraPhones = office.phones && office.phones.length > 1 ? office.phones.slice(1) : [];
 
   return (
     <article className="mb-4">
@@ -66,6 +67,39 @@ export default function OfficerCard({ item }: OfficerCardProps) {
           )}
 
           <Divider />
+
+          {/* Secondary Contact Metadata: Extra Phones, Email, Official Portal */}
+          {(extraPhones.length > 0 || office.email || office.source_url) && (
+            <div className="flex flex-wrap items-center gap-x-4 gap-y-1.5 text-[13px] text-muted">
+              {extraPhones.map((ep) => (
+                <a
+                  key={ep.number}
+                  href={`tel:${ep.number.replace(/[^\d+]/g, "")}`}
+                  className="hover:text-[#154273] underline underline-offset-4 tabular-nums"
+                >
+                  {t("results.altPhone")}: {ep.number}
+                </a>
+              ))}
+              {office.email && (
+                <a
+                  href={`mailto:${office.email}`}
+                  className="hover:text-[#154273] underline underline-offset-4 break-all"
+                >
+                  {t("results.emailLabel")}: {office.email}
+                </a>
+              )}
+              {office.source_url && (
+                <a
+                  href={office.source_url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-[#154273] underline underline-offset-4"
+                >
+                  {t("results.officialSource")} ↗
+                </a>
+              )}
+            </div>
+          )}
 
           {/* Action / Call Row */}
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pt-1">

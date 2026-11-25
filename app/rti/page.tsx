@@ -7,7 +7,7 @@ import { Banner } from "@astryxdesign/core/Banner";
 import { Button } from "@astryxdesign/core/Button";
 import { useT, useLang, getLocalized, formatDate } from "@/lib/i18n";
 import { DistrictData, Place } from "@/lib/types";
-import { loadDistrictData, loadPlacesData } from "@/lib/data";
+import { loadDistrictData, loadDistrictsIndex, loadPlacesData } from "@/lib/data";
 import PrintSheet from "@/components/PrintSheet";
 
 function RtiContent() {
@@ -17,15 +17,19 @@ function RtiContent() {
 
   const districtParam = searchParams.get("district") || "";
   const placeParam = searchParams.get("place") || "";
+  const officerParam = searchParams.get("officer") || "";
 
   const [applicantName, setApplicantName] = useState("");
   const [address, setAddress] = useState("");
-  const [publicAuthority, setPublicAuthority] = useState("");
+  const [publicAuthority, setPublicAuthority] = useState(
+    officerParam ? `Public Information Officer (PIO), ${officerParam}` : ""
+  );
   const [subjectKey, setSubjectKey] = useState("rti.subject1");
   const [details, setDetails] = useState("");
 
   const [districtData, setDistrictData] = useState<DistrictData | null>(null);
   const [places, setPlaces] = useState<Place[]>([]);
+  const [districtDisplay, setDistrictDisplay] = useState(districtParam);
 
   // [VERIFY: UP RTI Rules] Fee amount and specific form schedule under UP RTI Rules 2015/2016
   // As per Section 7.6, never hardcode fee amount in UI until formally verified.
@@ -35,23 +39,28 @@ function RtiContent() {
       Promise.all([
         loadDistrictData(districtParam),
         loadPlacesData(districtParam),
-      ]).then(([d, p]) => {
+        loadDistrictsIndex(),
+      ]).then(([d, p, idx]) => {
         setDistrictData(d);
         setPlaces(p);
+        const meta = idx.find((entry) => entry.id === districtParam);
+        if (meta) {
+          setDistrictDisplay(getLocalized(meta, "name", lang));
+        }
       });
     }
-  }, [districtParam]);
+  }, [districtParam, lang]);
 
   useEffect(() => {
     if (places.length > 0 && placeParam) {
       const pl = places.find((p) => p.id === placeParam);
       if (pl) {
         setAddress(
-          `${getLocalized(pl, "name", lang)}, ${pl.block_id || pl.tehsil_id || ""}, ${districtParam}`
+          `${getLocalized(pl, "name", lang)}, ${pl.block_id || pl.tehsil_id || ""}, ${districtDisplay}`
         );
       }
     }
-  }, [places, placeParam, districtParam, lang]);
+  }, [places, placeParam, districtDisplay, lang]);
 
   useEffect(() => {
     if (districtData?.offices && districtData.offices.length > 0 && !publicAuthority) {

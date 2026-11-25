@@ -6,7 +6,7 @@ import { Card } from "@astryxdesign/core/Card";
 import { Button } from "@astryxdesign/core/Button";
 import { useT, useLang, getLocalized, formatDate } from "@/lib/i18n";
 import { DistrictData, Place, IssueSlug } from "@/lib/types";
-import { loadDistrictData, loadPlacesData } from "@/lib/data";
+import { loadDistrictData, loadDistrictsIndex, loadPlacesData } from "@/lib/data";
 import PrintSheet from "@/components/PrintSheet";
 
 const ISSUES_LIST: { slug: IssueSlug; labelKey: string }[] = [
@@ -26,6 +26,7 @@ function LetterContent() {
   const districtParam = searchParams.get("district") || "";
   const placeParam = searchParams.get("place") || "";
   const issueParam = searchParams.get("issue") || "street-light";
+  const officerParam = searchParams.get("officer") || "";
 
   const [applicantName, setApplicantName] = useState("");
   const [mobile, setMobile] = useState("");
@@ -41,7 +42,7 @@ function LetterContent() {
     new Date().toISOString().split("T")[0]
   );
   const [earlierComplaint, setEarlierComplaint] = useState("");
-  const [addressedTo, setAddressedTo] = useState("");
+  const [addressedTo, setAddressedTo] = useState(officerParam);
 
   const [districtData, setDistrictData] = useState<DistrictData | null>(null);
   const [places, setPlaces] = useState<Place[]>([]);
@@ -52,12 +53,17 @@ function LetterContent() {
       Promise.all([
         loadDistrictData(districtParam),
         loadPlacesData(districtParam),
-      ]).then(([d, p]) => {
+        loadDistrictsIndex(),
+      ]).then(([d, p, idx]) => {
         setDistrictData(d);
         setPlaces(p);
+        const meta = idx.find((entry) => entry.id === districtParam);
+        if (meta) {
+          setDistrict(getLocalized(meta, "name", lang));
+        }
       });
     }
-  }, [districtParam]);
+  }, [districtParam, lang]);
 
   // Prefill fields when place is loaded
   useEffect(() => {

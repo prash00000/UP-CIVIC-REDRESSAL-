@@ -16,6 +16,7 @@ import {
   Place,
   PincodeMap,
   StateData,
+  IssueSlug,
 } from "@/lib/types";
 import { resolvePincode } from "@/lib/pincode";
 import { usePincodeLookup } from "@/lib/usePincodeLookup";
@@ -27,10 +28,16 @@ import {
   loadStateData,
 } from "@/lib/data";
 import { resolveOfficers, ResolutionResult } from "@/lib/resolver";
+import {
+  ISSUE_LIST,
+  getPrimaryOfficerForIssue,
+  getRelevantPortals,
+} from "@/lib/issue-routing";
 import Stepper from "@/components/Stepper";
 import ChoiceButton from "@/components/ChoiceButton";
 import SearchSelect, { SearchOption } from "@/components/SearchSelect";
 import OfficerCard from "@/components/OfficerCard";
+import CallButton from "@/components/CallButton";
 import CoverageBanner from "@/components/CoverageBanner";
 
 function WizardContent() {
@@ -43,6 +50,7 @@ function WizardContent() {
   const districtParam = searchParams.get("district");
   const placeParam = searchParams.get("place");
   const pincodeParam = searchParams.get("pincode");
+  const issueParam = searchParams.get("issue") as IssueSlug | null;
 
   const [districts, setDistricts] = useState<DistrictIndexEntry[]>([]);
   const [pincodesMap, setPincodesMap] = useState<PincodeMap>({});
@@ -58,8 +66,10 @@ function WizardContent() {
   const [selectedDistrict, setSelectedDistrict] = useState<string | null>(districtParam);
   const [pinCandidateDistrict, setPinCandidateDistrict] = useState<string | null>(null);
   const [selectedPlace, setSelectedPlace] = useState<string | null>(placeParam);
+  const [selectedIssue, setSelectedIssue] = useState<IssueSlug | null>(issueParam);
   const [pincodeInput, setPincodeInput] = useState(pincodeParam || "");
   const [unknownChoice, setUnknownChoice] = useState<"village" | "town" | null>(null);
+  const [placeFilter, setPlaceFilter] = useState<"all" | "village" | "block" | "ward">("all");
 
   // Prevents URL sync or Back/Change click from immediately re-auto-applying PIN over user's intent
   const userClearedDistrictRef = useRef(false);
@@ -81,7 +91,8 @@ function WizardContent() {
       setSelectedDistrict(null);
     }
     setSelectedPlace(placeParam);
-  }, [typeParam, districtParam, placeParam, pincodeParam]);
+    setSelectedIssue(issueParam);
+  }, [typeParam, districtParam, placeParam, pincodeParam, issueParam]);
 
   // Keep pincodeInput synced when URL ?pincode= changes
   useEffect(() => {
@@ -129,7 +140,8 @@ function WizardContent() {
     newType: string | null,
     newDistrict: string | null,
     newPlace: string | null,
-    newPin?: string | null
+    newPin?: string | null,
+    newIssue?: IssueSlug | null
   ) => {
     const params = new URLSearchParams();
     if (newType) params.set("type", newType);
@@ -137,6 +149,8 @@ function WizardContent() {
     if (newPlace) params.set("place", newPlace);
     const pin = newPin !== undefined ? newPin : pincodeInput;
     if (pin && pin.length === 6) params.set("pincode", pin);
+    const iss = newIssue !== undefined ? newIssue : selectedIssue;
+    if (iss) params.set("issue", iss);
     const qs = params.toString();
     router.replace(qs ? `/find/?${qs}` : `/find/`);
   };
@@ -182,28 +196,32 @@ function WizardContent() {
 
   const placeOptions: SearchOption[] = useMemo(() => {
     if (!currentPlaces.length) return [];
-    const filteredPlaces =
-      selectedType === "unknown" && unknownChoice
-        ? currentPlaces.filter((p) =>
-            unknownChoice === "village" ? p.type === "village" : p.type === "ward"
-          )
-        : currentPlaces;
+    const filteredPlaces = currentPlaces.filter((p) => {
+      if (selectedType === "unknown" && unknownChoice) {
+        if (unknownChoice === "village" && p.type !== "village") return false;
+        if (unknownChoice === "town" && p.type !== "ward") return false;
+      }
+      if (placeFilter === "block") return p.id.startsWith("block-");
+      if (placeFilter === "village") return p.type === "village" && !p.id.startsWith("block-");
+      if (placeFilter === "ward") return p.type === "ward";
+      return true;
+    });
     return filteredPlaces.map((p) => {
       const name = getLocalized(p, "name", lang);
       let sub = "";
       if (p.type === "village") {
-        sub = `GP: ${p.gp_id || "-"} | Block: ${p.block_id || "-"}`;
+        sub = `${p.block_id ? `Block: ${p.block_id}` : ""}${p.pincodes?.[0] ? ` · PIN ${p.pincodes[0]}` : ""}`;
       } else {
-        sub = `ULB: ${p.ulb_id || "-"}`;
+        sub = `${p.ulb_id || p.tehsil_id || "-"}${p.pincodes?.[0] ? ` · PIN ${p.pincodes[0]}` : ""}`;
       }
       return {
         id: p.id,
         label: name,
         sublabel: sub,
-        searchValue: `${p.name_en} ${p.name_hi} ${p.gp_id || ""} ${p.block_id || ""}`,
+        searchValue: `${p.name_en} ${p.name_hi} ${p.gp_id || ""} ${p.block_id || ""} ${p.pincodes?.join(" ") || ""}`,
       };
     });
-  }, [currentPlaces, selectedType, unknownChoice, lang]);
+  }, [currentPlaces, selectedType, unknownChoice, placeFilter, lang]);
 
   const resolution: ResolutionResult | null = useMemo(() => {
     if (step !== 4 || !selectedDistrict || !currentDistrictData) return null;
@@ -216,6 +234,17 @@ function WizardContent() {
       stateInfo || undefined
     );
   }, [step, selectedType, selectedDistrict, selectedPlace, currentDistrictData, currentPlaces, stateInfo]);
+
+  const activeIssueSlug: IssueSlug = selectedIssue || "street-light";
+  const primaryIssueOfficer = useMemo(() => {
+    if (!resolution || !selectedIssue) return resolution?.officers[0] || null;
+    return getPrimaryOfficerForIssue(selectedIssue, resolution);
+  }, [resolution, selectedIssue]);
+
+  const issuePortals = useMemo(() => {
+    const effLocalType = resolution?.place?.local_body_type || selectedType || "unknown";
+    return getRelevantPortals(activeIssueSlug, effLocalType, stateInfo);
+  }, [activeIssueSlug, resolution, selectedType, stateInfo]);
 
   const handleBack = () => {
     if (step === 4) {
@@ -279,6 +308,25 @@ function WizardContent() {
         />
       )}
 
+      {/* Selected Issue Context Banner when arriving from an issue page */}
+      {selectedIssue && step < 4 && (
+        <div className="mb-4 p-3 rounded-[4px] bg-[#FFF5F0] border border-[#C84B16]/30 flex flex-wrap items-center justify-between gap-2 text-[14px]">
+          <span className="font-semibold text-[#C84B16]">
+            {t("find.activeIssueLabel")}: {t(`issue.${selectedIssue}`)}
+          </span>
+          <button
+            type="button"
+            onClick={() => {
+              setSelectedIssue(null);
+              updateUrl(selectedType, selectedDistrict, selectedPlace, undefined, null);
+            }}
+            className="text-[13px] font-semibold text-muted underline hover:text-text"
+          >
+            {t("flow.pincodeClear")}
+          </button>
+        </div>
+      )}
+
       {/* Selected District Context Banner (visible on Steps 1 & 3 so PIN auto-detection is always transparent) */}
       {selectedDistrict && (step === 1 || step === 3) && (
         <div className="mb-5 p-3.5 rounded-[4px] bg-[#EBF1F6] border border-[#154273]/30 flex flex-wrap items-center justify-between gap-2 text-[14px]">
@@ -293,22 +341,33 @@ function WizardContent() {
               </span>
             )}
           </div>
-          <button
-            type="button"
-            onClick={() => {
-              userClearedDistrictRef.current = true;
-              setSelectedDistrict(null);
-              setSelectedPlace(null);
-              updateUrl(selectedType, null, null);
-            }}
-            className="text-[13px] font-semibold text-[#154273] underline hover:text-[#0F3156]"
-          >
-            {t("flow.changeDistrict")}
-          </button>
+          <div className="flex flex-wrap items-center gap-3">
+            {step === 1 && (
+              <button
+                type="button"
+                onClick={() => selectBallotAndProceed("unknown")}
+                className="text-[13px] font-semibold text-[#C84B16] underline hover:text-[#AD3E0F]"
+              >
+                {t("find.jumpToPlaceSearch")} →
+              </button>
+            )}
+            <button
+              type="button"
+              onClick={() => {
+                userClearedDistrictRef.current = true;
+                setSelectedDistrict(null);
+                setSelectedPlace(null);
+                updateUrl(selectedType, null, null);
+              }}
+              className="text-[13px] font-semibold text-[#154273] underline hover:text-[#0F3156]"
+            >
+              {t("flow.changeDistrict")}
+            </button>
+          </div>
         </div>
       )}
 
-      {/* STEP 1: Ballot Choice */}
+      {/* STEP 1: Ballot Choice + Optional Issue Quick Select */}
       {step === 1 && (
         <section aria-labelledby="q1-heading" className="space-y-5">
           <div>
@@ -316,8 +375,38 @@ function WizardContent() {
               {t("flow.q1")}
             </h1>
             <p className="text-[16px] text-muted leading-relaxed">
-              {t("home.step1Desc")}
+              {t("find.step1FriendlyHint")}
             </p>
+          </div>
+
+          {/* Optional Issue Pills so citizen can tag what they want to complain about upfront */}
+          <div className="space-y-2">
+            <p className="text-[12px] font-bold uppercase tracking-[0.06em] text-muted">
+              {t("find.optionalIssueTitle")}
+            </p>
+            <div className="flex flex-wrap gap-1.5">
+              {ISSUE_LIST.map((item) => {
+                const active = selectedIssue === item.slug;
+                return (
+                  <button
+                    key={item.slug}
+                    type="button"
+                    onClick={() => {
+                      const next = active ? null : item.slug;
+                      setSelectedIssue(next);
+                      updateUrl(selectedType, selectedDistrict, selectedPlace, undefined, next);
+                    }}
+                    className={`px-3 py-1.5 rounded-[4px] text-[13px] font-medium border transition-colors ${
+                      active
+                        ? "bg-[#C84B16] text-white border-[#C84B16]"
+                        : "bg-surface text-text border-border hover:border-[#154273]"
+                    }`}
+                  >
+                    {t(item.titleKey)}
+                  </button>
+                );
+              })}
+            </div>
           </div>
 
           <Card padding={4} variant="default" elevation="none">
@@ -660,9 +749,42 @@ function WizardContent() {
             </Banner>
           ) : (
             <div className="space-y-4">
+              {currentPlaces.length > 20 && (
+                <div className="flex flex-wrap items-center justify-between gap-2">
+                  <span className="text-[12px] font-bold uppercase tracking-[0.06em] text-muted">
+                    {t("issue.filterAreaType")}
+                  </span>
+                  <div className="flex flex-wrap gap-1.5">
+                    {(
+                      [
+                        { id: "all", key: "flow.filterAll" },
+                        { id: "village", key: "flow.filterVillage" },
+                        { id: "block", key: "flow.filterBlock" },
+                        { id: "ward", key: "flow.filterTown" },
+                      ] as const
+                    ).map((f) => (
+                      <button
+                        key={f.id}
+                        type="button"
+                        onClick={() => setPlaceFilter(f.id)}
+                        className={`px-2.5 py-1 text-[12px] font-semibold rounded-[4px] border transition-colors ${
+                          placeFilter === f.id
+                            ? "bg-[#154273] text-white border-[#154273]"
+                            : "bg-surface text-muted border-border hover:border-[#154273]"
+                        }`}
+                      >
+                        {t(f.key)}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+              )}
+
               <SearchSelect
                 label={
-                  selectedType === "gram_panchayat" || unknownChoice === "village"
+                  placeFilter === "block"
+                    ? t("flow.filterBlock")
+                    : selectedType === "gram_panchayat" || unknownChoice === "village"
                     ? t("flow.q3.village")
                     : t("flow.q3.ward")
                 }
@@ -674,14 +796,21 @@ function WizardContent() {
                 }}
               />
 
-              <div className="pt-1">
+              <div className="pt-1 flex flex-wrap items-center justify-between gap-2">
+                <button
+                  type="button"
+                  onClick={() => setPlaceFilter("block")}
+                  className="text-[14px] font-semibold text-[#154273] underline underline-offset-4 hover:text-[#0F3156]"
+                >
+                  {t("flow.pickBlockFallback")}
+                </button>
                 <button
                   type="button"
                   onClick={() => {
                     setSelectedPlace("district-hq");
                     updateUrl(selectedType, selectedDistrict, "district-hq");
                   }}
-                  className="text-[14px] font-semibold text-[#154273] underline underline-offset-4 hover:text-[#0F3156]"
+                  className="text-[13px] font-medium text-muted underline underline-offset-4 hover:text-text"
                 >
                   {t("flow.skipPlace")} →
                 </button>
@@ -764,6 +893,101 @@ function WizardContent() {
             />
           )}
 
+          {/* Dutch Civic Sequence Box: What problem are you fixing? Highlight 1st officer & exact actions */}
+          <Card padding={4} variant="default" elevation="none">
+            <div className="space-y-3">
+              <div className="flex flex-wrap items-center justify-between gap-2">
+                <div>
+                  <p className="text-[11px] font-bold uppercase tracking-[0.08em] text-[#C84B16]">
+                    {t("find.actionPlanEyebrow")}
+                  </p>
+                  <h2 className="font-editorial text-[20px] font-bold text-text">
+                    {t("find.pickProblemPrompt")}
+                  </h2>
+                </div>
+                {selectedIssue && (
+                  <Link
+                    href={`/issue/${selectedIssue}/?district=${encodeURIComponent(
+                      selectedDistrict || ""
+                    )}&place=${encodeURIComponent(
+                      selectedPlace === "district-hq" ? "" : selectedPlace || ""
+                    )}`}
+                    className="text-[13px] font-semibold text-[#154273] underline underline-offset-4 hover:text-[#0F3156]"
+                  >
+                    {t("find.viewFullLadder")} →
+                  </Link>
+                )}
+              </div>
+
+              <div className="flex flex-wrap gap-1.5">
+                {ISSUE_LIST.map((item) => {
+                  const active = selectedIssue === item.slug;
+                  return (
+                    <button
+                      key={item.slug}
+                      type="button"
+                      onClick={() => {
+                        setSelectedIssue(item.slug);
+                        updateUrl(selectedType, selectedDistrict, selectedPlace, undefined, item.slug);
+                      }}
+                      className={`px-3 py-1.5 rounded-[4px] text-[13px] font-medium border transition-colors ${
+                        active
+                          ? "bg-[#154273] text-white border-[#154273]"
+                          : "bg-bg text-text border-border hover:border-[#154273]"
+                      }`}
+                    >
+                      {t(item.titleKey)}
+                    </button>
+                  );
+                })}
+              </div>
+
+              {selectedIssue && primaryIssueOfficer && (
+                <div className="p-3.5 rounded-[4px] bg-[#EBF1F6]/70 border border-[#154273]/25 space-y-2.5">
+                  <div className="flex flex-wrap items-center justify-between gap-2">
+                    <div>
+                      <span className="text-[12px] font-bold uppercase tracking-[0.06em] text-[#C84B16] block">
+                        1. {t("issue.doFirstTitle")} — {t(`issue.${selectedIssue}`)}
+                      </span>
+                      <span className="font-semibold text-[16px] text-text block">
+                        {getLocalized(primaryIssueOfficer.office, "office_name", lang)}
+                      </span>
+                    </div>
+                    {primaryIssueOfficer.office.phones?.[0] && (
+                      <CallButton number={primaryIssueOfficer.office.phones[0].number} />
+                    )}
+                  </div>
+
+                  <div className="flex flex-wrap items-center gap-2.5 text-[13px]">
+                    <Link
+                      href={`/letter/?district=${encodeURIComponent(
+                        selectedDistrict || ""
+                      )}&place=${encodeURIComponent(
+                        selectedPlace === "district-hq" ? "" : selectedPlace || ""
+                      )}&issue=${encodeURIComponent(selectedIssue)}&officer=${encodeURIComponent(
+                        getLocalized(primaryIssueOfficer.office, "office_name", lang)
+                      )}`}
+                      className="px-3.5 py-1.5 rounded-[4px] bg-[#154273] text-white font-semibold hover:bg-[#0F3156]"
+                    >
+                      2. {t("issue.writeComplaintBtn")} →
+                    </Link>
+                    {issuePortals.map((portal) => (
+                      <a
+                        key={portal.id}
+                        href={portal.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="px-3 py-1.5 rounded-[4px] border border-borderStrong bg-surface text-text font-medium hover:border-[#154273]"
+                      >
+                        {lang === "hi" ? portal.name_hi : portal.name_en} ↗
+                      </a>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </div>
+          </Card>
+
           <div className="space-y-4" aria-live="polite">
             {resolution.officers.map((item) => (
               <OfficerCard key={`${item.office.id}-${item.resolvedRole}`} item={item} />
@@ -829,9 +1053,11 @@ function WizardContent() {
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
               <Link
-                href={`/issue/street-light/?district=${encodeURIComponent(
+                href={`/issue/${encodeURIComponent(activeIssueSlug)}/?district=${encodeURIComponent(
                   selectedDistrict || ""
-                )}&place=${encodeURIComponent(selectedPlace || "")}`}
+                )}&place=${encodeURIComponent(
+                  selectedPlace === "district-hq" ? "" : selectedPlace || ""
+                )}`}
                 className="p-4 rounded-[4px] border border-[#154273] bg-[#EBF1F6]/60 hover:bg-[#EBF1F6] text-[#154273] font-semibold text-center text-[15px] transition-colors"
               >
                 {t("results.ladderBtn")}
@@ -839,8 +1065,14 @@ function WizardContent() {
               <Link
                 href={`/letter/?district=${encodeURIComponent(
                   selectedDistrict || ""
-                )}&place=${encodeURIComponent(selectedPlace || "")}&officer=${encodeURIComponent(
-                  resolution.officers[0] ? getLocalized(resolution.officers[0].office, "office_name", lang) : ""
+                )}&place=${encodeURIComponent(
+                  selectedPlace === "district-hq" ? "" : selectedPlace || ""
+                )}&issue=${encodeURIComponent(activeIssueSlug)}&officer=${encodeURIComponent(
+                  primaryIssueOfficer
+                    ? getLocalized(primaryIssueOfficer.office, "office_name", lang)
+                    : resolution.officers[0]
+                    ? getLocalized(resolution.officers[0].office, "office_name", lang)
+                    : ""
                 )}`}
                 className="p-4 rounded-[4px] border border-borderStrong hover:border-[#154273] bg-surface text-text font-semibold text-center text-[15px] transition-colors"
               >
@@ -849,8 +1081,14 @@ function WizardContent() {
               <Link
                 href={`/rti/?district=${encodeURIComponent(
                   selectedDistrict || ""
-                )}&place=${encodeURIComponent(selectedPlace || "")}&officer=${encodeURIComponent(
-                  resolution.officers[0] ? getLocalized(resolution.officers[0].office, "office_name", lang) : ""
+                )}&place=${encodeURIComponent(
+                  selectedPlace === "district-hq" ? "" : selectedPlace || ""
+                )}&issue=${encodeURIComponent(activeIssueSlug)}&officer=${encodeURIComponent(
+                  primaryIssueOfficer
+                    ? getLocalized(primaryIssueOfficer.office, "office_name", lang)
+                    : resolution.officers[0]
+                    ? getLocalized(resolution.officers[0].office, "office_name", lang)
+                    : ""
                 )}`}
                 className="p-4 rounded-[4px] border border-borderStrong hover:border-[#154273] bg-surface text-text font-semibold text-center text-[15px] transition-colors"
               >

@@ -1,1783 +1,254 @@
 [
-  {
-    "id": "v-gautam-buddha-nagar-bisrakh",
-    "type": "village",
-    "name_en": "Bisrakh Block (Gram Panchayats)",
-    "name_hi": "Bisrakh विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "v-gautam-buddha-nagar-dadri",
-    "type": "village",
-    "name_en": "Dadri Block (Gram Panchayats)",
-    "name_hi": "Dadri विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-dadri",
-    "block_id": "dadri",
-    "tehsil_id": "dadri",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "v-gautam-buddha-nagar-dankaur",
-    "type": "village",
-    "name_en": "Dankaur Block (Gram Panchayats)",
-    "name_hi": "Dankaur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-dankaur",
-    "block_id": "dankaur",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "v-gautam-buddha-nagar-jewar",
-    "type": "village",
-    "name_en": "Jewar Block (Gram Panchayats)",
-    "name_hi": "Jewar विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-jewar",
-    "block_id": "jewar",
-    "tehsil_id": "jewar",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "po-gautam-buddha-nagar-chhapraula",
-    "type": "village",
-    "name_en": "Chhapraula (Gram Panchayat Area)",
-    "name_hi": "Chhapraula (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201009"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-parsol",
-    "type": "village",
-    "name_en": "Parsol (Gram Panchayat Area)",
-    "name_hi": "Parsol (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203201"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-chiti",
-    "type": "village",
-    "name_en": "Chiti (Gram Panchayat Area)",
-    "name_hi": "Chiti (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203202"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-rasool-pur-rithaury",
-    "type": "village",
-    "name_en": "Rasool pur  Rithaury (Gram Panchayat Area)",
-    "name_hi": "Rasool pur  Rithaury (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203202"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-wair",
-    "type": "village",
-    "name_en": "Wair (Gram Panchayat Area)",
-    "name_hi": "Wair (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203202"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-bilaspur",
-    "type": "village",
-    "name_en": "Bilaspur (Gram Panchayat Area)",
-    "name_hi": "Bilaspur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203202"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-bhunna-jattan",
-    "type": "village",
-    "name_en": "Bhunna  Jattan (Gram Panchayat Area)",
-    "name_hi": "Bhunna  Jattan (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203141"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-chingrawly",
-    "type": "village",
-    "name_en": "Chingrawly (Gram Panchayat Area)",
-    "name_hi": "Chingrawly (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203141"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-firoujpur",
-    "type": "village",
-    "name_en": "Firoujpur (Gram Panchayat Area)",
-    "name_hi": "Firoujpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203141"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-hasanpur",
-    "type": "village",
-    "name_en": "Hasanpur (Gram Panchayat Area)",
-    "name_hi": "Hasanpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203141"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-mangrauli",
-    "type": "village",
-    "name_en": "Mangrauli (Gram Panchayat Area)",
-    "name_hi": "Mangrauli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203135"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-sabota-zafrabad",
-    "type": "village",
-    "name_en": "Sabota Zafrabad (Gram Panchayat Area)",
-    "name_hi": "Sabota Zafrabad (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203135"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-mahmoodpur-jadon",
-    "type": "village",
-    "name_en": "Mahmoodpur Jadon (Gram Panchayat Area)",
-    "name_hi": "Mahmoodpur Jadon (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203203"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-salempur-jat",
-    "type": "village",
-    "name_en": "Salempur  Jat (Gram Panchayat Area)",
-    "name_hi": "Salempur  Jat (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203203"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-wailana",
-    "type": "village",
-    "name_en": "Wailana (Gram Panchayat Area)",
-    "name_hi": "Wailana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203203"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-ahamedpur-chauroli",
-    "type": "village",
-    "name_en": "Ahamedpur  Chauroli (Gram Panchayat Area)",
-    "name_hi": "Ahamedpur  Chauroli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203155"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-runhera",
-    "type": "village",
-    "name_en": "Runhera (Gram Panchayat Area)",
-    "name_hi": "Runhera (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203155"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-jawan",
-    "type": "village",
-    "name_en": "Jawan (Gram Panchayat Area)",
-    "name_hi": "Jawan (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203141"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-lodana",
-    "type": "village",
-    "name_en": "Lodana (Gram Panchayat Area)",
-    "name_hi": "Lodana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203141"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-narmohamadpur",
-    "type": "village",
-    "name_en": "Narmohamadpur (Gram Panchayat Area)",
-    "name_hi": "Narmohamadpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203141"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-ram-garhi",
-    "type": "village",
-    "name_en": "Ram  Garhi (Gram Panchayat Area)",
-    "name_hi": "Ram  Garhi (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203141"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-shahpur-kala",
-    "type": "village",
-    "name_en": "Shahpur  Kala (Gram Panchayat Area)",
-    "name_hi": "Shahpur  Kala (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203141"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-dayanatpur",
-    "type": "village",
-    "name_en": "Dayanatpur (Gram Panchayat Area)",
-    "name_hi": "Dayanatpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203135"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-banchaoli",
-    "type": "village",
-    "name_en": "Banchaoli (Gram Panchayat Area)",
-    "name_hi": "Banchaoli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203203"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-bichhat-sujanpur",
-    "type": "village",
-    "name_en": "Bichhat Sujanpur (Gram Panchayat Area)",
-    "name_hi": "Bichhat Sujanpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203203"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-biraundi-tajpur",
-    "type": "village",
-    "name_en": "Biraundi Tajpur (Gram Panchayat Area)",
-    "name_hi": "Biraundi Tajpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203203"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-ronija",
-    "type": "village",
-    "name_en": "Ronija (Gram Panchayat Area)",
-    "name_hi": "Ronija (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203209"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-tirthaly",
-    "type": "village",
-    "name_en": "Tirthaly (Gram Panchayat Area)",
-    "name_hi": "Tirthaly (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203209"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-bankapur",
-    "type": "village",
-    "name_en": "Bankapur (Gram Panchayat Area)",
-    "name_hi": "Bankapur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203155"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-chanchali",
-    "type": "village",
-    "name_en": "Chanchali (Gram Panchayat Area)",
-    "name_hi": "Chanchali (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203155"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-dhanouri-kalan",
-    "type": "village",
-    "name_en": "Dhanouri   Kalan (Gram Panchayat Area)",
-    "name_hi": "Dhanouri   Kalan (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203201"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-mirzapur-niloni",
-    "type": "village",
-    "name_en": "Mirzapur Niloni (Gram Panchayat Area)",
-    "name_hi": "Mirzapur Niloni (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203201"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-baroda",
-    "type": "village",
-    "name_en": "Baroda (Gram Panchayat Area)",
-    "name_hi": "Baroda (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203202"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-deota",
-    "type": "village",
-    "name_en": "Deota (Gram Panchayat Area)",
-    "name_hi": "Deota (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203202"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-salempur-gujar",
-    "type": "village",
-    "name_en": "Salempur  Gujar (Gram Panchayat Area)",
-    "name_hi": "Salempur  Gujar (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203202"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-bhaipur",
-    "type": "village",
-    "name_en": "Bhaipur (Gram Panchayat Area)",
-    "name_hi": "Bhaipur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203141"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-chhapana",
-    "type": "village",
-    "name_en": "Chhapana (Gram Panchayat Area)",
-    "name_hi": "Chhapana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203141"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-gotheny",
-    "type": "village",
-    "name_en": "Gotheny (Gram Panchayat Area)",
-    "name_hi": "Gotheny (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203141"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-faleda",
-    "type": "village",
-    "name_en": "Faleda (Gram Panchayat Area)",
-    "name_hi": "Faleda (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203135"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-kureb",
-    "type": "village",
-    "name_en": "Kureb (Gram Panchayat Area)",
-    "name_hi": "Kureb (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203135"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-chola",
-    "type": "village",
-    "name_en": "Chola (Gram Panchayat Area)",
-    "name_hi": "Chola (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203203"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-jhajhar",
-    "type": "village",
-    "name_en": "Jhajhar (Gram Panchayat Area)",
-    "name_hi": "Jhajhar (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203203"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-sunpera",
-    "type": "village",
-    "name_en": "Sunpera (Gram Panchayat Area)",
-    "name_hi": "Sunpera (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203203"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-karauli-banger",
-    "type": "village",
-    "name_en": "Karauli Banger (Gram Panchayat Area)",
-    "name_hi": "Karauli Banger (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203209"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-manchad",
-    "type": "village",
-    "name_en": "Manchad (Gram Panchayat Area)",
-    "name_hi": "Manchad (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203155"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-neemka",
-    "type": "village",
-    "name_en": "Neemka (Gram Panchayat Area)",
-    "name_hi": "Neemka (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203155"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-nawada",
-    "type": "village",
-    "name_en": "Nawada (Gram Panchayat Area)",
-    "name_hi": "Nawada (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203201"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-astauly",
-    "type": "village",
-    "name_en": "Astauly (Gram Panchayat Area)",
-    "name_hi": "Astauly (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203202"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-kanigarhi",
-    "type": "village",
-    "name_en": "Kanigarhi (Gram Panchayat Area)",
-    "name_hi": "Kanigarhi (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203135"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-dhanaura",
-    "type": "village",
-    "name_en": "Dhanaura (Gram Panchayat Area)",
-    "name_hi": "Dhanaura (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203203"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-khabra-khanpur",
-    "type": "village",
-    "name_en": "Khabra  Khanpur (Gram Panchayat Area)",
-    "name_hi": "Khabra  Khanpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203203"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-bhaipur-brahmanan",
-    "type": "village",
-    "name_en": "Bhaipur  Brahmanan (Gram Panchayat Area)",
-    "name_hi": "Bhaipur  Brahmanan (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203209"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-kishore-pur",
-    "type": "village",
-    "name_en": "Kishore Pur (Gram Panchayat Area)",
-    "name_hi": "Kishore Pur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203155"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-akbarpur-churai",
-    "type": "village",
-    "name_en": "Akbarpur Churai (Gram Panchayat Area)",
-    "name_hi": "Akbarpur Churai (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "212652"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-kot",
-    "type": "village",
-    "name_en": "Kot (Gram Panchayat Area)",
-    "name_hi": "Kot (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201314"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-luharli",
-    "type": "village",
-    "name_en": "Luharli (Gram Panchayat Area)",
-    "name_hi": "Luharli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201314"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-sainthli",
-    "type": "village",
-    "name_en": "Sainthli (Gram Panchayat Area)",
-    "name_hi": "Sainthli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201314"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-kasna",
-    "type": "village",
-    "name_en": "Kasna (Gram Panchayat Area)",
-    "name_hi": "Kasna (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201312"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-maicha",
-    "type": "village",
-    "name_en": "Maicha (Gram Panchayat Area)",
-    "name_hi": "Maicha (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201312"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-nagla-charandas",
-    "type": "village",
-    "name_en": "Nagla Charandas (Gram Panchayat Area)",
-    "name_hi": "Nagla Charandas (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201305"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-behrampur",
-    "type": "village",
-    "name_en": "Behrampur (Gram Panchayat Area)",
-    "name_hi": "Behrampur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201314"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-bambawar",
-    "type": "village",
-    "name_en": "Bambawar (Gram Panchayat Area)",
-    "name_hi": "Bambawar (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203207"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-chainsa",
-    "type": "village",
-    "name_en": "Chainsa (Gram Panchayat Area)",
-    "name_hi": "Chainsa (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201314"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-jarcha",
-    "type": "village",
-    "name_en": "Jarcha (Gram Panchayat Area)",
-    "name_hi": "Jarcha (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203207"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-khandera",
-    "type": "village",
-    "name_en": "Khandera (Gram Panchayat Area)",
-    "name_hi": "Khandera (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201314"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-kheri-bhanota",
-    "type": "village",
-    "name_en": "Kheri Bhanota (Gram Panchayat Area)",
-    "name_hi": "Kheri Bhanota (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201311"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-bedpura",
-    "type": "village",
-    "name_en": "Bedpura (Gram Panchayat Area)",
-    "name_hi": "Bedpura (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203207"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-sakipur",
-    "type": "village",
-    "name_en": "Sakipur (Gram Panchayat Area)",
-    "name_hi": "Sakipur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201310"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-baraula",
-    "type": "village",
-    "name_en": "Baraula (Gram Panchayat Area)",
-    "name_hi": "Baraula (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201304"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-gejha",
-    "type": "village",
-    "name_en": "Gejha (Gram Panchayat Area)",
-    "name_hi": "Gejha (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201304"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-sarfabad",
-    "type": "village",
-    "name_en": "Sarfabad (Gram Panchayat Area)",
-    "name_hi": "Sarfabad (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201307"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-piaoli",
-    "type": "village",
-    "name_en": "Piaoli (Gram Panchayat Area)",
-    "name_hi": "Piaoli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201008"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-achheja",
-    "type": "village",
-    "name_en": "Achheja (Gram Panchayat Area)",
-    "name_hi": "Achheja (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203207"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-kalaunda",
-    "type": "village",
-    "name_en": "Kalaunda (Gram Panchayat Area)",
-    "name_hi": "Kalaunda (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203207"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-khatana",
-    "type": "village",
-    "name_en": "Khatana (Gram Panchayat Area)",
-    "name_hi": "Khatana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203207"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-pali",
-    "type": "village",
-    "name_en": "Pali (Gram Panchayat Area)",
-    "name_hi": "Pali (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201311"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-kulesra",
-    "type": "village",
-    "name_en": "Kulesra (Gram Panchayat Area)",
-    "name_hi": "Kulesra (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201306"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-ghori",
-    "type": "village",
-    "name_en": "Ghori (Gram Panchayat Area)",
-    "name_hi": "Ghori (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201310"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-chhaprauli-bengar",
-    "type": "village",
-    "name_en": "Chhaprauli Bengar (Gram Panchayat Area)",
-    "name_hi": "Chhaprauli Bengar (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201304"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-salarpur-kalan",
-    "type": "village",
-    "name_en": "Salarpur Kalan (Gram Panchayat Area)",
-    "name_hi": "Salarpur Kalan (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201008"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-tilapta-karanwas",
-    "type": "village",
-    "name_en": "Tilapta Karanwas (Gram Panchayat Area)",
-    "name_hi": "Tilapta Karanwas (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201311"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-chholas",
-    "type": "village",
-    "name_en": "Chholas (Gram Panchayat Area)",
-    "name_hi": "Chholas (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201314"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-chithera",
-    "type": "village",
-    "name_en": "Chithera (Gram Panchayat Area)",
-    "name_hi": "Chithera (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201314"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-dhoom",
-    "type": "village",
-    "name_en": "Dhoom (Gram Panchayat Area)",
-    "name_hi": "Dhoom (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203207"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-dujana",
-    "type": "village",
-    "name_en": "Dujana (Gram Panchayat Area)",
-    "name_hi": "Dujana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203207"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-kachera-versabad",
-    "type": "village",
-    "name_en": "Kachera Versabad (Gram Panchayat Area)",
-    "name_hi": "Kachera Versabad (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "203207"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-chhajarsi",
-    "type": "village",
-    "name_en": "Chhajarsi (Gram Panchayat Area)",
-    "name_hi": "Chhajarsi (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201309"
-    ]
-  },
-  {
-    "id": "po-gautam-buddha-nagar-bisara",
-    "type": "village",
-    "name_en": "Bisara (Gram Panchayat Area)",
-    "name_hi": "Bisara (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bisrakh",
-    "block_id": "bisrakh",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201008"
-    ]
-  },
-  {
-    "id": "ward-gautam-buddha-nagar-ulb-gautam-buddha-nagar-main",
-    "type": "ward",
-    "name_en": "Nagar Palika Parishad Gautam Buddha Nagar (All Wards)",
-    "name_hi": "नगर पालिका गौतम बुद्ध नगर (सभी वार्ड)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad"
-  },
-  {
-    "id": "ward-gautam-buddha-nagar-ulb-greater-noida-industrial-development-authority",
-    "type": "ward",
-    "name_en": "Greater Noida Industrial Development Authority (All Wards)",
-    "name_hi": "Greater Noida Industrial Development Authority (सभी वार्ड)",
-    "ulb_id": "ulb-greater-noida-industrial-development-authority",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad"
-  },
-  {
-    "id": "ward-gautam-buddha-nagar-ulb-new-okhla-industrial-development-authority",
-    "type": "ward",
-    "name_en": "NEW OKHLA INDUSTRIAL DEVELOPMENT AUTHORITY (All Wards)",
-    "name_hi": "NEW OKHLA INDUSTRIAL DEVELOPMENT AUTHORITY (सभी वार्ड)",
-    "ulb_id": "ulb-new-okhla-industrial-development-authority",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad"
-  },
-  {
-    "id": "ward-gautam-buddha-nagar-ulb-gretar-noeda-audyogik-vikas-pradhikaran",
-    "type": "ward",
-    "name_en": "Gretar Noeda Audyogik Vikas Pradhikaran (All Wards)",
-    "name_hi": "ग्रेटर नोएडा औद्योगिक विकास प्राधिकरण (सभी वार्ड)",
-    "ulb_id": "ulb-gretar-noeda-audyogik-vikas-pradhikaran",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad"
-  },
-  {
-    "id": "ward-gautam-buddha-nagar-ulb-nai-okhala-audyogik-vikas-pradhikaran",
-    "type": "ward",
-    "name_en": "Nai Okhala Audyogik Vikas Pradhikaran (All Wards)",
-    "name_hi": "नई ओखला औद्योगिक विकास प्राधिकरण (सभी वार्ड)",
-    "ulb_id": "ulb-nai-okhala-audyogik-vikas-pradhikaran",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad"
-  },
-  {
-    "id": "town-gautam-buddha-nagar-gurukul-sikandrabad",
-    "type": "ward",
-    "name_en": "Gurukul  Sikandrabad (Urban Ward / SO)",
-    "name_hi": "Gurukul  Sikandrabad (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "203202"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-rabupura",
-    "type": "ward",
-    "name_en": "Rabupura (Urban Ward / SO)",
-    "name_hi": "Rabupura (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "203209"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-jewar",
-    "type": "ward",
-    "name_en": "Jewar (Urban Ward / SO)",
-    "name_hi": "Jewar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "jewar",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "203135"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-thora",
-    "type": "ward",
-    "name_en": "Thora (Urban Ward / SO)",
-    "name_hi": "Thora (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "203155"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-noida",
-    "type": "ward",
-    "name_en": "Noida (Urban Ward / SO)",
-    "name_hi": "Noida (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-greater-noida-industrial-development-authority",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201301"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-dankaur",
-    "type": "ward",
-    "name_en": "Dankaur (Urban Ward / SO)",
-    "name_hi": "Dankaur (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "203201"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-jahangirpur",
-    "type": "ward",
-    "name_en": "Jahangirpur (Urban Ward / SO)",
-    "name_hi": "Jahangirpur (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "203141"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-kakore",
-    "type": "ward",
-    "name_en": "Kakore (Urban Ward / SO)",
-    "name_hi": "Kakore (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "203203"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-knowledge-parki",
-    "type": "ward",
-    "name_en": "Knowledge ParkI (Urban Ward / SO)",
-    "name_hi": "Knowledge ParkI (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201310"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-sec-16-noida",
-    "type": "ward",
-    "name_en": "Sec 16 Noida (Urban Ward / SO)",
-    "name_hi": "Sec 16 Noida (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201301"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-sec37-noida",
-    "type": "ward",
-    "name_en": "Sec37 Noida (Urban Ward / SO)",
-    "name_hi": "Sec37 Noida (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201303"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-ndc-noida",
-    "type": "ward",
-    "name_en": "NDC Noida (Urban Ward / SO)",
-    "name_hi": "NDC Noida (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201302"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-container-depot",
-    "type": "ward",
-    "name_en": "Container Depot (Urban Ward / SO)",
-    "name_hi": "Container Depot (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201311"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-dadri",
-    "type": "ward",
-    "name_en": "Dadri (Urban Ward / SO)",
-    "name_hi": "Dadri (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "dadri",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "203207"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-sec-27-noida",
-    "type": "ward",
-    "name_en": "Sec 27 Noida (Urban Ward / SO)",
-    "name_hi": "Sec 27 Noida (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201301"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-sec41-noida",
-    "type": "ward",
-    "name_en": "Sec41 Noida (Urban Ward / SO)",
-    "name_hi": "Sec41 Noida (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201303"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-sec45-noida",
-    "type": "ward",
-    "name_en": "Sec45 Noida (Urban Ward / SO)",
-    "name_hi": "Sec45 Noida (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201303"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-vidyut-nagar",
-    "type": "ward",
-    "name_en": "Vidyut Nagar (Urban Ward / SO)",
-    "name_hi": "Vidyut Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201008"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-crpf-greater-noida",
-    "type": "ward",
-    "name_en": "CRPF Greater Noida (Urban Ward / SO)",
-    "name_hi": "CRPF Greater Noida (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201306"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-sec-122-noida",
-    "type": "ward",
-    "name_en": "Sec 122 Noida (Urban Ward / SO)",
-    "name_hi": "Sec 122 Noida (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201316"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-maharshi-nagar",
-    "type": "ward",
-    "name_en": "Maharshi Nagar (Urban Ward / SO)",
-    "name_hi": "Maharshi Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201304"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-nepz",
-    "type": "ward",
-    "name_en": "NEPZ (Urban Ward / SO)",
-    "name_hi": "NEPZ (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201305"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-sec34-noida",
-    "type": "ward",
-    "name_en": "Sec34 Noida (Urban Ward / SO)",
-    "name_hi": "Sec34 Noida (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201307"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-sec55-noida",
-    "type": "ward",
-    "name_en": "Sec55 Noida (Urban Ward / SO)",
-    "name_hi": "Sec55 Noida (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201309"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-sec62-noida",
-    "type": "ward",
-    "name_en": "Sec62 Noida (Urban Ward / SO)",
-    "name_hi": "Sec62 Noida (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201309"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-gurjinder-vihar",
-    "type": "ward",
-    "name_en": "Gurjinder Vihar (Urban Ward / SO)",
-    "name_hi": "Gurjinder Vihar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201315"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-alpha-greater-noida",
-    "type": "ward",
-    "name_en": "Alpha Greater Noida (Urban Ward / SO)",
-    "name_hi": "Alpha Greater Noida (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201310"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-amity-university",
-    "type": "ward",
-    "name_en": "Amity university (Urban Ward / SO)",
-    "name_hi": "Amity university (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201313"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-gautam-budh-university",
-    "type": "ward",
-    "name_en": "Gautam Budh University (Urban Ward / SO)",
-    "name_hi": "Gautam Budh University (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201312"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-ia-surajpur",
-    "type": "ward",
-    "name_en": "IA Surajpur (Urban Ward / SO)",
-    "name_hi": "IA Surajpur (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201306"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-sec-12-noida",
-    "type": "ward",
-    "name_en": "Sec 12 Noida (Urban Ward / SO)",
-    "name_hi": "Sec 12 Noida (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201307"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-sector-30-noida",
-    "type": "ward",
-    "name_en": "Sector 30 Noida (Urban Ward / SO)",
-    "name_hi": "Sector 30 Noida (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201303"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-shiv-nadar-university",
-    "type": "ward",
-    "name_en": "Shiv Nadar University (Urban Ward / SO)",
-    "name_hi": "Shiv Nadar University (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201314"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-sec-01-greater-noida",
-    "type": "ward",
-    "name_en": "Sec 01 Greater Noida (Urban Ward / SO)",
-    "name_hi": "Sec 01 Greater Noida (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201318"
-    ]
-  },
-  {
-    "id": "town-gautam-buddha-nagar-sec-128-noida",
-    "type": "ward",
-    "name_en": "Sec 128 Noida (Urban Ward / SO)",
-    "name_hi": "Sec 128 Noida (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-gautam-buddha-nagar-main",
-    "tehsil_id": "sadar-noida",
-    "district_id": "gautam-buddha-nagar",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201317"
-    ]
-  }
+{"id":"block-gautam-buddha-nagar-bisrakh","type":"village","name_en":"Bisrakh (Full Block / All Gram Panchayats)","name_hi":"Bisrakh (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat"},
+{"id":"block-gautam-buddha-nagar-dadri","type":"village","name_en":"Dadri (Full Block / All Gram Panchayats)","name_hi":"Dadri (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-dadri","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat"},
+{"id":"block-gautam-buddha-nagar-dankaur","type":"village","name_en":"Dankaur (Full Block / All Gram Panchayats)","name_hi":"Dankaur (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-dankaur","block_id":"dankaur","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat"},
+{"id":"block-gautam-buddha-nagar-jewar","type":"village","name_en":"Jewar (Full Block / All Gram Panchayats)","name_hi":"Jewar (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-jewar","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat"},
+{"id":"lgd-120114","type":"village","name_en":"Mahiuddin Pur Kanawni (GP)","name_hi":"Mahiuddin Pur Kanawni (ग्राम पंचायत)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat"},
+{"id":"lgd-120124","type":"village","name_en":"Girdharpur Sunarasi (GP)","name_hi":"Girdharpur Sunarasi (ग्राम पंचायत)","gp_id":"gp-girdharpur-sunarasi","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120125","type":"village","name_en":"Duriyai (GP)","name_hi":"Duriyai (ग्राम पंचायत)","gp_id":"gp-duriyai","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120126","type":"village","name_en":"Talabpur Urf Hathipur (GP: Duriyai)","name_hi":"Talabpur Urf Hathipur (ग्रा.पं.: Duriyai)","gp_id":"gp-duriyai","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120127","type":"village","name_en":"Bisnoli (GP)","name_hi":"Bisnoli (ग्राम पंचायत)","gp_id":"gp-bisnoli","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120129","type":"village","name_en":"Kachheda Warsabad (GP)","name_hi":"Kachheda Warsabad (ग्राम पंचायत)","gp_id":"gp-kachheda-warsabad","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120130","type":"village","name_en":"Dujana (GP)","name_hi":"Dujana (ग्राम पंचायत)","gp_id":"gp-dujana","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120131","type":"village","name_en":"Ibadullapur Urf Badalpur (GP: Badalpur)","name_hi":"Ibadullapur Urf Badalpur (ग्रा.पं.: Badalpur)","gp_id":"gp-badalpur","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120132","type":"village","name_en":"Sadipur Chhidoli (GP)","name_hi":"Sadipur Chhidoli (ग्राम पंचायत)","gp_id":"gp-sadipur-chhidoli","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201008"]},
+{"id":"lgd-120133","type":"village","name_en":"Islamabad Kalda (GP)","name_hi":"Islamabad Kalda (ग्राम पंचायत)","gp_id":"gp-islamabad-kalda","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120134","type":"village","name_en":"Bambawad (GP)","name_hi":"Bambawad (ग्राम पंचायत)","gp_id":"gp-bambawad","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120135","type":"village","name_en":"Akalpur Jagir (GP)","name_hi":"Akalpur Jagir (ग्राम पंचायत)","gp_id":"gp-akalpur-jagir","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120136","type":"village","name_en":"Mahamvad (GP)","name_hi":"Mahamvad (ग्राम पंचायत)","gp_id":"gp-mahamvad","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120137","type":"village","name_en":"Kudi Khera (GP)","name_hi":"Kudi Khera (ग्राम पंचायत)","gp_id":"gp-kudi-khera","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120157","type":"village","name_en":"Chak Sidipur (GP: Chauna)","name_hi":"Chak Sidipur (ग्रा.पं.: Chauna)","gp_id":"gp-chauna","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120158","type":"village","name_en":"Chauna (GP)","name_hi":"Chauna (ग्राम पंचायत)","gp_id":"gp-chauna","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201009"]},
+{"id":"lgd-120159","type":"village","name_en":"Sidipur (GP)","name_hi":"Sidipur (ग्राम पंचायत)","gp_id":"gp-sidipur","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201303"]},
+{"id":"lgd-120160","type":"village","name_en":"Tatarpur (GP)","name_hi":"Tatarpur (ग्राम पंचायत)","gp_id":"gp-tatarpur","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201009"]},
+{"id":"lgd-120161","type":"village","name_en":"Uncha Amipur (GP: Uncha Amirpur)","name_hi":"ऊॅचा अमीपुर (ग्रा.पं.: Uncha Amirpur)","gp_id":"gp-uncha-amirpur","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201008"]},
+{"id":"lgd-120162","type":"village","name_en":"Khangoda (GP)","name_hi":"Khangoda (ग्राम पंचायत)","gp_id":"gp-khangoda","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201008"]},
+{"id":"lgd-120163","type":"village","name_en":"Rajatpur Urf Iradatpur (GP: Bisahda)","name_hi":"राजतपुर ऊर्फ इरादतपुर (ग्रा.पं.: Bisahda)","gp_id":"gp-bisahda","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120164","type":"village","name_en":"Jaitwarpur (GP: Jaitwapur Navarpur)","name_hi":"जैतवारपुर (ग्रा.पं.: Jaitwapur Navarpur)","gp_id":"gp-jaitwapur-navarpur","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201008"]},
+{"id":"lgd-120165","type":"village","name_en":"Pyawali Tajpur (GP)","name_hi":"Pyawali Tajpur (ग्राम पंचायत)","gp_id":"gp-pyawali-tajpur","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201008"]},
+{"id":"lgd-120166","type":"village","name_en":"Tamolipur (GP: Bisahda)","name_hi":"Tamolipur (ग्रा.पं.: Bisahda)","gp_id":"gp-bisahda","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201008"]},
+{"id":"lgd-120167","type":"village","name_en":"Bisahda (GP)","name_hi":"Bisahda (ग्राम पंचायत)","gp_id":"gp-bisahda","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201008"]},
+{"id":"lgd-120168","type":"village","name_en":"Badhpura (GP)","name_hi":"Badhpura (ग्राम पंचायत)","gp_id":"gp-badhpura","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120169","type":"village","name_en":"Nagla Kirani (GP: Bisahda)","name_hi":"Nagla Kirani (ग्रा.पं.: Bisahda)","gp_id":"gp-bisahda","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120176","type":"village","name_en":"Ranoli Latifpur (GP)","name_hi":"Ranoli Latifpur (ग्राम पंचायत)","gp_id":"gp-ranoli-latifpur","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201008"]},
+{"id":"lgd-120177","type":"village","name_en":"Shahpur Khurd (GP)","name_hi":"Shahpur Khurd (ग्राम पंचायत)","gp_id":"gp-shahpur-khurd","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120178","type":"village","name_en":"Mahiuddinpur Urf Garavpur (GP: Ranoli Latifpur)","name_hi":"Mahiuddinpur Urf Garavpur (ग्रा.पं.: Ranoli Latifpur)","gp_id":"gp-ranoli-latifpur","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120179","type":"village","name_en":"Chithara (GP)","name_hi":"Chithara (ग्राम पंचायत)","gp_id":"gp-chithara","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201312"]},
+{"id":"lgd-120181","type":"village","name_en":"Datawali (GP)","name_hi":"Datawali (ग्राम पंचायत)","gp_id":"gp-datawali","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120182","type":"village","name_en":"Kathhera (GP)","name_hi":"Kathhera (ग्राम पंचायत)","gp_id":"gp-kathhera","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120186","type":"village","name_en":"Rasoolpur Dasana (GP)","name_hi":"Rasoolpur Dasana (ग्राम पंचायत)","gp_id":"gp-rasoolpur-dasana","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120187","type":"village","name_en":"Salarpur Kalan (GP)","name_hi":"Salarpur Kalan (ग्राम पंचायत)","gp_id":"gp-salarpur-kalan","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120188","type":"village","name_en":"Dadupur Khatana (GP)","name_hi":"Dadupur Khatana (ग्राम पंचायत)","gp_id":"gp-dadupur-khatana","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120189","type":"village","name_en":"Khatana Dhirkhera (GP)","name_hi":"Khatana Dhirkhera (ग्राम पंचायत)","gp_id":"gp-khatana-dhirkhera","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120190","type":"village","name_en":"Muthiyani (GP)","name_hi":"Muthiyani (ग्राम पंचायत)","gp_id":"gp-muthiyani","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201008"]},
+{"id":"lgd-120191","type":"village","name_en":"Gulaothi Khurd (GP)","name_hi":"Gulaothi Khurd (ग्राम पंचायत)","gp_id":"gp-gulaothi-khurd","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120192","type":"village","name_en":"Chak Senpur Urf Dhanibas (GP)","name_hi":"Chak Senpur Urf Dhanibas (ग्राम पंचायत)","gp_id":"gp-chak-senpur-urf-dhanibas","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120193","type":"village","name_en":"Uplarasi (GP)","name_hi":"Uplarasi (ग्राम पंचायत)","gp_id":"gp-uplarasi","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120194","type":"village","name_en":"Aurangabad (GP: Gulaothi Khurd)","name_hi":"Aurangabad (ग्रा.पं.: Gulaothi Khurd)","gp_id":"gp-gulaothi-khurd","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120195","type":"village","name_en":"Jarcha (GP)","name_hi":"Jarcha (ग्राम पंचायत)","gp_id":"gp-jarcha","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120196","type":"village","name_en":"Kalonda (GP)","name_hi":"Kalonda (ग्राम पंचायत)","gp_id":"gp-kalonda","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120197","type":"village","name_en":"Chholas (GP)","name_hi":"Chholas (ग्राम पंचायत)","gp_id":"gp-chholas","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120198","type":"village","name_en":"Chhayansa (GP)","name_hi":"Chhayansa (ग्राम पंचायत)","gp_id":"gp-chhayansa","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120199","type":"village","name_en":"Daya Nagar (GP: Chhayansa)","name_hi":"Daya Nagar (ग्रा.पं.: Chhayansa)","gp_id":"gp-chhayansa","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120200","type":"village","name_en":"Bairangpur Urf Nai Basti (GP)","name_hi":"Bairangpur Urf Nai Basti (ग्राम पंचायत)","gp_id":"gp-bairangpur-urf-nai-basti","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120201","type":"village","name_en":"Phoolpur (GP)","name_hi":"Phoolpur (ग्राम पंचायत)","gp_id":"gp-phoolpur","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120202","type":"village","name_en":"Anandpur (GP)","name_hi":"Anandpur (ग्राम पंचायत)","gp_id":"gp-anandpur","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120203","type":"village","name_en":"Khandera (GP: Khandera Girirajpur)","name_hi":"खण्डेरा (ग्रा.पं.: Khandera Girirajpur)","gp_id":"gp-khandera-girirajpur","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120204","type":"village","name_en":"Noorpur (GP)","name_hi":"Noorpur (ग्राम पंचायत)","gp_id":"gp-noorpur","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120205","type":"village","name_en":"Milak Khandera (GP: Khandera Girirajpur)","name_hi":"Milak Khandera (ग्रा.पं.: Khandera Girirajpur)","gp_id":"gp-khandera-girirajpur","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120206","type":"village","name_en":"Nagla Nainsukh (GP)","name_hi":"Nagla Nainsukh (ग्राम पंचायत)","gp_id":"gp-nagla-nainsukh","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120207","type":"village","name_en":"Saithali (GP)","name_hi":"Saithali (ग्राम पंचायत)","gp_id":"gp-saithali","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120208","type":"village","name_en":"Beel Akbarpur (GP)","name_hi":"Beel Akbarpur (ग्राम पंचायत)","gp_id":"gp-beel-akbarpur","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120209","type":"village","name_en":"Kot (GP)","name_hi":"Kot (ग्राम पंचायत)","gp_id":"gp-kot","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120210","type":"village","name_en":"Bhogpur (GP)","name_hi":"Bhogpur (ग्राम पंचायत)","gp_id":"gp-bhogpur","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120211","type":"village","name_en":"Luharli (GP: Luharli 139 Basantpur Bangar)","name_hi":"लुहारली (ग्रा.पं.: Luharli 139 Basantpur Bangar)","gp_id":"gp-luharli-139-basantpur-bangar","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120212","type":"village","name_en":"Basantpur Bangar (GP: Samauddinpur)","name_hi":"Basantpur Bangar (ग्रा.पं.: Samauddinpur)","gp_id":"gp-samauddinpur","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120213","type":"village","name_en":"Nagla Chamroo (GP)","name_hi":"Nagla Chamroo (ग्राम पंचायत)","gp_id":"gp-nagla-chamroo","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120215","type":"village","name_en":"Chamrawali Ramgarh (GP: Ramgarh Chamrawali)","name_hi":"Chamrawali Ramgarh (ग्रा.पं.: Ramgarh Chamrawali)","gp_id":"gp-ramgarh-chamrawali","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"lgd-120216","type":"village","name_en":"Kaimrala Chakrasenpur (GP)","name_hi":"Kaimrala Chakrasenpur (ग्राम पंचायत)","gp_id":"gp-kaimrala-chakrasenpur","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201310"]},
+{"id":"lgd-120218","type":"village","name_en":"Samauddinpur (GP)","name_hi":"Samauddinpur (ग्राम पंचायत)","gp_id":"gp-samauddinpur","block_id":"dadri","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201312"]},
+{"id":"lgd-120226","type":"village","name_en":"Patadi (Ct) (GP: Patadi)","name_hi":"Patadi (Ct) (ग्रा.पं.: Patadi)","gp_id":"gp-patadi","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201008"]},
+{"id":"lgd-120230","type":"village","name_en":"Basantpur (GP: Samauddinpur)","name_hi":"Basantpur (ग्रा.पं.: Samauddinpur)","gp_id":"gp-samauddinpur","block_id":"dadri","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201304"]},
+{"id":"lgd-120245","type":"village","name_en":"Dalelpur (GP)","name_hi":"Dalelpur (ग्राम पंचायत)","gp_id":"gp-dalelpur","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201306"]},
+{"id":"lgd-120269","type":"village","name_en":"Jaganpur Doab (GP: Dalelpur)","name_hi":"Jaganpur Doab (ग्रा.पं.: Dalelpur)","gp_id":"gp-dalelpur","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203201"]},
+{"id":"lgd-120275","type":"village","name_en":"Daularajpur (GP)","name_hi":"Daularajpur (ग्राम पंचायत)","gp_id":"gp-daularajpur","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203202"]},
+{"id":"lgd-120276","type":"village","name_en":"Salepur (GP)","name_hi":"Salepur (ग्राम पंचायत)","gp_id":"gp-salepur","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203202"]},
+{"id":"lgd-120277","type":"village","name_en":"Mandpa (GP)","name_hi":"Mandpa (ग्राम पंचायत)","gp_id":"gp-mandpa","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203205"]},
+{"id":"lgd-120278","type":"village","name_en":"Fazayalpur (GP: Shahpur Khurd)","name_hi":"Fazayalpur (ग्रा.पं.: Shahpur Khurd)","gp_id":"gp-shahpur-khurd","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203202"]},
+{"id":"lgd-120279","type":"village","name_en":"Shahpur Khurd (GP)","name_hi":"Shahpur Khurd (ग्राम पंचायत)","gp_id":"gp-shahpur-khurd","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"lgd-120280","type":"village","name_en":"Chandrawal (GP: Shahpur Khurd)","name_hi":"Chandrawal (ग्रा.पं.: Shahpur Khurd)","gp_id":"gp-shahpur-khurd","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203202"]},
+{"id":"lgd-120284","type":"village","name_en":"Rajpur Kalan (GP)","name_hi":"Rajpur Kalan (ग्राम पंचायत)","gp_id":"gp-rajpur-kalan","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201301"]},
+{"id":"lgd-120285","type":"village","name_en":"Jamalpur (GP)","name_hi":"Jamalpur (ग्राम पंचायत)","gp_id":"gp-jamalpur","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203205"]},
+{"id":"lgd-120287","type":"village","name_en":"Nagala Chiti (GP: Chiti)","name_hi":"Nagala Chiti (ग्रा.पं.: Chiti)","gp_id":"gp-chiti","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203202"]},
+{"id":"lgd-120288","type":"village","name_en":"Chiti (GP)","name_hi":"Chiti (ग्राम पंचायत)","gp_id":"gp-chiti","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203202"]},
+{"id":"lgd-120292","type":"village","name_en":"Sarakpur (GP: Bajarpur)","name_hi":"Sarakpur (ग्रा.पं.: Bajarpur)","gp_id":"gp-bajarpur","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203202"]},
+{"id":"lgd-120293","type":"village","name_en":"Vilaspur (GP)","name_hi":"Vilaspur (ग्राम पंचायत)","gp_id":"gp-jewar","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat"},
+{"id":"lgd-120294","type":"village","name_en":"Bajarpur (GP)","name_hi":"Bajarpur (ग्राम पंचायत)","gp_id":"gp-bajarpur","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203202"]},
+{"id":"lgd-120295","type":"village","name_en":"Chuharpur Bangar (GP)","name_hi":"Chuharpur Bangar (ग्राम पंचायत)","gp_id":"gp-chuharpur-bangar","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203202"]},
+{"id":"lgd-120321","type":"village","name_en":"Bela Khurd (GP: Dalelpur)","name_hi":"Bela Khurd (ग्रा.पं.: Dalelpur)","gp_id":"gp-dalelpur","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203201"]},
+{"id":"lgd-120333","type":"village","name_en":"Makanpur Khadar (GP)","name_hi":"Makanpur Khadar (ग्राम पंचायत)","gp_id":"gp-makanpur-khadar","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203201"]},
+{"id":"lgd-120346","type":"village","name_en":"Changauli (GP: Chachura)","name_hi":"Changauli (ग्रा.पं.: Chachura)","gp_id":"gp-chachura","block_id":"jewar","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203203"]},
+{"id":"lgd-120350","type":"village","name_en":"Chachura (GP)","name_hi":"Chachura (ग्राम पंचायत)","gp_id":"gp-chachura","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203203"]},
+{"id":"lgd-120363","type":"village","name_en":"Anvargarh Khadar (GP: Mahendipur Khadar)","name_hi":"Anvargarh Khadar (ग्रा.पं.: Mahendipur Khadar)","gp_id":"gp-mahendipur-khadar","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203209"]},
+{"id":"lgd-120364","type":"village","name_en":"Taquipur Khadar (GP: Mahendipur Khadar)","name_hi":"Taquipur Khadar (ग्रा.पं.: Mahendipur Khadar)","gp_id":"gp-mahendipur-khadar","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203209"]},
+{"id":"lgd-120365","type":"village","name_en":"Mahadipur Khadar (GP: Mahendipur Khadar)","name_hi":"Mahadipur Khadar (ग्रा.पं.: Mahendipur Khadar)","gp_id":"gp-mahendipur-khadar","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203209"]},
+{"id":"lgd-120372","type":"village","name_en":"Amanullapur Urf Mahara (GP: Mahara)","name_hi":"Amanullapur Urf Mahara (ग्रा.पं.: Mahara)","gp_id":"gp-mahara","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203203"]},
+{"id":"lgd-120378","type":"village","name_en":"Ismail Nagar Urf Bhoyra (GP: Mahara)","name_hi":"Ismail Nagar Urf Bhoyra (ग्रा.पं.: Mahara)","gp_id":"gp-mahara","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203141"]},
+{"id":"lgd-120392","type":"village","name_en":"Falaida Khadar (GP)","name_hi":"Falaida Khadar (ग्राम पंचायत)","gp_id":"gp-jewar","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"lgd-120394","type":"village","name_en":"Karauli Khadar (GP)","name_hi":"Karauli Khadar (ग्राम पंचायत)","gp_id":"gp-jewar","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203209"]},
+{"id":"lgd-120404","type":"village","name_en":"Ballabh Nagar Urf Karaulkhadar (GP: Sirsa Machipur)","name_hi":"Ballabh Nagar Urf Karaulkhadar (ग्रा.पं.: Sirsa Machipur)","gp_id":"gp-sirsa-machipur","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"lgd-120405","type":"village","name_en":"Ballabh Nagar Urf Karaul Bangar (GP)","name_hi":"Ballabh Nagar Urf Karaul Bangar (ग्राम पंचायत)","gp_id":"gp-jewar","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"lgd-120406","type":"village","name_en":"Rampur Banger (GP)","name_hi":"Rampur Banger (ग्राम पंचायत)","gp_id":"gp-jewar","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203209"]},
+{"id":"lgd-120407","type":"village","name_en":"Rampur Khader (GP: Makanpur Khadar)","name_hi":"Rampur Khader (ग्रा.पं.: Makanpur Khadar)","gp_id":"gp-makanpur-khadar","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203209"]},
+{"id":"lgd-120408","type":"village","name_en":"Sirsa (GP: Sirsa Machipur)","name_hi":"Sirsa (ग्रा.पं.: Sirsa Machipur)","gp_id":"gp-sirsa-machipur","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"lgd-120409","type":"village","name_en":"Jewar Khader (GP)","name_hi":"Jewar Khader (ग्राम पंचायत)","gp_id":"gp-jewar-khader","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"lgd-120410","type":"village","name_en":"Machhipur Bangar (GP)","name_hi":"माछीपुर बांगर (ग्राम पंचायत)","gp_id":"gp-jewar","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203209"]},
+{"id":"lgd-120411","type":"village","name_en":"Machhipur Khadar (GP)","name_hi":"Machhipur Khadar (ग्राम पंचायत)","gp_id":"gp-jewar","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203209"]},
+{"id":"lgd-120412","type":"village","name_en":"Allauddinnagar Urf Dudhera (GP)","name_hi":"Allauddinnagar Urf Dudhera (ग्राम पंचायत)","gp_id":"gp-jewar","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"lgd-120414","type":"village","name_en":"Govindgarh (GP)","name_hi":"Govindgarh (ग्राम पंचायत)","gp_id":"gp-govindgarh","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"lgd-120415","type":"village","name_en":"Mirpur Kachh Urf Kanigarhi (GP: Kanigarhi)","name_hi":"Mirpur Kachh Urf Kanigarhi (ग्रा.पं.: Kanigarhi)","gp_id":"gp-kanigarhi","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"lgd-120416","type":"village","name_en":"Shamsham Nagar (GP: Shamshamnagar)","name_hi":"Shamsham Nagar (ग्रा.पं.: Shamshamnagar)","gp_id":"gp-shamshamnagar","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"lgd-120417","type":"village","name_en":"Bhagwantpur Chhatanga (GP)","name_hi":"Bhagwantpur Chhatanga (ग्राम पंचायत)","gp_id":"gp-bhagwantpur-chhatanga","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203155"]},
+{"id":"lgd-120418","type":"village","name_en":"Jhuppa (GP)","name_hi":"Jhuppa (ग्राम पंचायत)","gp_id":"gp-jhuppa","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"lgd-120419","type":"village","name_en":"Chhatanga Khurd (GP: Jhuppa)","name_hi":"Chhatanga Khurd (ग्रा.पं.: Jhuppa)","gp_id":"gp-jhuppa","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"lgd-120420","type":"village","name_en":"Aliyabad Urf Mahdipur (GP: Aliabad Urf Mahendipur)","name_hi":"Aliyabad Urf Mahdipur (ग्रा.पं.: Aliabad Urf Mahendipur)","gp_id":"gp-aliabad-urf-mahendipur","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"lgd-120421","type":"village","name_en":"Mewla Gopalgarh (GP)","name_hi":"Mewla Gopalgarh (ग्राम पंचायत)","gp_id":"gp-mewla-gopalgarh","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"lgd-120424","type":"village","name_en":"Sadullapur Urf Madlepur (GP: Maadalpur)","name_hi":"Sadullapur Urf Madlepur (ग्रा.पं.: Maadalpur)","gp_id":"gp-maadalpur","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"lgd-120425","type":"village","name_en":"Mangroli (GP)","name_hi":"Mangroli (ग्राम पंचायत)","gp_id":"gp-mangroli","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"lgd-120426","type":"village","name_en":"Alawalpur (GP: Maadalpur)","name_hi":"Alawalpur (ग्रा.पं.: Maadalpur)","gp_id":"gp-maadalpur","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"lgd-120432","type":"village","name_en":"Mohblipur (GP)","name_hi":"मोहबलीपुर (ग्राम पंचायत)","gp_id":"gp-jewar","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203155"]},
+{"id":"lgd-120433","type":"village","name_en":"Chanchali (GP)","name_hi":"Chanchali (ग्राम पंचायत)","gp_id":"gp-jewar","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203155"]},
+{"id":"lgd-120435","type":"village","name_en":"Bhabokara (GP)","name_hi":"Bhabokara (ग्राम पंचायत)","gp_id":"gp-bhabokara","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203155"]},
+{"id":"lgd-120436","type":"village","name_en":"Jahangirpur (GP: Jahangirpur Dehat)","name_hi":"Jahangirpur (ग्रा.पं.: Jahangirpur Dehat)","gp_id":"gp-jahangirpur-dehat","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203141"]},
+{"id":"lgd-120437","type":"village","name_en":"Milk Karimabad (GP)","name_hi":"Milk Karimabad (ग्राम पंचायत)","gp_id":"gp-jewar","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203201"]},
+{"id":"lgd-120438","type":"village","name_en":"Alli Ahmadpur Urf Garhi (GP)","name_hi":"Alli Ahmadpur Urf Garhi (ग्राम पंचायत)","gp_id":"gp-jewar","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203155"]},
+{"id":"lgd-120439","type":"village","name_en":"Alampur Hatla Urf Lodona (GP: Lodona)","name_hi":"आलमपुर हटला उर्फ लौदोना (ग्रा.पं.: Lodona)","gp_id":"gp-lodona","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203141"]},
+{"id":"lgd-120440","type":"village","name_en":"Aurangabad Urf Humayunpur (GP: Bhabokara)","name_hi":"Aurangabad Urf Humayunpur (ग्रा.पं.: Bhabokara)","gp_id":"gp-bhabokara","block_id":"jewar","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203155"]},
+{"id":"lgd-942750","type":"village","name_en":"Dadri (GP: Bisahda)","name_hi":"दादरी (ग्रा.पं.: Bisahda)","gp_id":"gp-bisahda","block_id":"bisrakh","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"po-gautam-buddha-nagar-chhapraula","type":"village","name_en":"Chhapraula (Post / GP Area)","name_hi":"Chhapraula (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201009"]},
+{"id":"po-gautam-buddha-nagar-parsol","type":"village","name_en":"Parsol (Post / GP Area)","name_hi":"Parsol (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203201"]},
+{"id":"po-gautam-buddha-nagar-rasool-pur-rithaury","type":"village","name_en":"Rasool pur  Rithaury (Post / GP Area)","name_hi":"Rasool pur  Rithaury (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203202"]},
+{"id":"po-gautam-buddha-nagar-wair","type":"village","name_en":"Wair (Post / GP Area)","name_hi":"Wair (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203202"]},
+{"id":"po-gautam-buddha-nagar-bilaspur","type":"village","name_en":"Bilaspur (Post / GP Area)","name_hi":"Bilaspur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203202"]},
+{"id":"po-gautam-buddha-nagar-bhunna-jattan","type":"village","name_en":"Bhunna  Jattan (Post / GP Area)","name_hi":"Bhunna  Jattan (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203141"]},
+{"id":"po-gautam-buddha-nagar-chingrawly","type":"village","name_en":"Chingrawly (Post / GP Area)","name_hi":"Chingrawly (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203141"]},
+{"id":"po-gautam-buddha-nagar-firoujpur","type":"village","name_en":"Firoujpur (Post / GP Area)","name_hi":"Firoujpur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203141"]},
+{"id":"po-gautam-buddha-nagar-hasanpur","type":"village","name_en":"Hasanpur (Post / GP Area)","name_hi":"Hasanpur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203141"]},
+{"id":"po-gautam-buddha-nagar-sabota-zafrabad","type":"village","name_en":"Sabota Zafrabad (Post / GP Area)","name_hi":"Sabota Zafrabad (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"po-gautam-buddha-nagar-mahmoodpur-jadon","type":"village","name_en":"Mahmoodpur Jadon (Post / GP Area)","name_hi":"Mahmoodpur Jadon (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203203"]},
+{"id":"po-gautam-buddha-nagar-salempur-jat","type":"village","name_en":"Salempur  Jat (Post / GP Area)","name_hi":"Salempur  Jat (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203203"]},
+{"id":"po-gautam-buddha-nagar-wailana","type":"village","name_en":"Wailana (Post / GP Area)","name_hi":"Wailana (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203203"]},
+{"id":"po-gautam-buddha-nagar-ahamedpur-chauroli","type":"village","name_en":"Ahamedpur  Chauroli (Post / GP Area)","name_hi":"Ahamedpur  Chauroli (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203155"]},
+{"id":"po-gautam-buddha-nagar-runhera","type":"village","name_en":"Runhera (Post / GP Area)","name_hi":"Runhera (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203155"]},
+{"id":"po-gautam-buddha-nagar-jawan","type":"village","name_en":"Jawan (Post / GP Area)","name_hi":"Jawan (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203141"]},
+{"id":"po-gautam-buddha-nagar-lodana","type":"village","name_en":"Lodana (Post / GP Area)","name_hi":"Lodana (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203141"]},
+{"id":"po-gautam-buddha-nagar-narmohamadpur","type":"village","name_en":"Narmohamadpur (Post / GP Area)","name_hi":"Narmohamadpur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203141"]},
+{"id":"po-gautam-buddha-nagar-ram-garhi","type":"village","name_en":"Ram  Garhi (Post / GP Area)","name_hi":"Ram  Garhi (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203141"]},
+{"id":"po-gautam-buddha-nagar-shahpur-kala","type":"village","name_en":"Shahpur  Kala (Post / GP Area)","name_hi":"Shahpur  Kala (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203141"]},
+{"id":"po-gautam-buddha-nagar-dayanatpur","type":"village","name_en":"Dayanatpur (Post / GP Area)","name_hi":"Dayanatpur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"po-gautam-buddha-nagar-banchaoli","type":"village","name_en":"Banchaoli (Post / GP Area)","name_hi":"Banchaoli (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203203"]},
+{"id":"po-gautam-buddha-nagar-bichhat-sujanpur","type":"village","name_en":"Bichhat Sujanpur (Post / GP Area)","name_hi":"Bichhat Sujanpur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203203"]},
+{"id":"po-gautam-buddha-nagar-biraundi-tajpur","type":"village","name_en":"Biraundi Tajpur (Post / GP Area)","name_hi":"Biraundi Tajpur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203203"]},
+{"id":"po-gautam-buddha-nagar-ronija","type":"village","name_en":"Ronija (Post / GP Area)","name_hi":"Ronija (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203209"]},
+{"id":"po-gautam-buddha-nagar-tirthaly","type":"village","name_en":"Tirthaly (Post / GP Area)","name_hi":"Tirthaly (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203209"]},
+{"id":"po-gautam-buddha-nagar-bankapur","type":"village","name_en":"Bankapur (Post / GP Area)","name_hi":"Bankapur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203155"]},
+{"id":"po-gautam-buddha-nagar-dhanouri-kalan","type":"village","name_en":"Dhanouri   Kalan (Post / GP Area)","name_hi":"Dhanouri   Kalan (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203201"]},
+{"id":"po-gautam-buddha-nagar-mirzapur-niloni","type":"village","name_en":"Mirzapur Niloni (Post / GP Area)","name_hi":"Mirzapur Niloni (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203201"]},
+{"id":"po-gautam-buddha-nagar-baroda","type":"village","name_en":"Baroda (Post / GP Area)","name_hi":"Baroda (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203202"]},
+{"id":"po-gautam-buddha-nagar-deota","type":"village","name_en":"Deota (Post / GP Area)","name_hi":"Deota (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203202"]},
+{"id":"po-gautam-buddha-nagar-salempur-gujar","type":"village","name_en":"Salempur  Gujar (Post / GP Area)","name_hi":"Salempur  Gujar (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203202"]},
+{"id":"po-gautam-buddha-nagar-bhaipur","type":"village","name_en":"Bhaipur (Post / GP Area)","name_hi":"Bhaipur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203141"]},
+{"id":"po-gautam-buddha-nagar-chhapana","type":"village","name_en":"Chhapana (Post / GP Area)","name_hi":"Chhapana (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203141"]},
+{"id":"po-gautam-buddha-nagar-gotheny","type":"village","name_en":"Gotheny (Post / GP Area)","name_hi":"Gotheny (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203141"]},
+{"id":"po-gautam-buddha-nagar-faleda","type":"village","name_en":"Faleda (Post / GP Area)","name_hi":"Faleda (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"po-gautam-buddha-nagar-kureb","type":"village","name_en":"Kureb (Post / GP Area)","name_hi":"Kureb (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"po-gautam-buddha-nagar-chola","type":"village","name_en":"Chola (Post / GP Area)","name_hi":"Chola (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203203"]},
+{"id":"po-gautam-buddha-nagar-jhajhar","type":"village","name_en":"Jhajhar (Post / GP Area)","name_hi":"Jhajhar (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203203"]},
+{"id":"po-gautam-buddha-nagar-sunpera","type":"village","name_en":"Sunpera (Post / GP Area)","name_hi":"Sunpera (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203203"]},
+{"id":"po-gautam-buddha-nagar-karauli-banger","type":"village","name_en":"Karauli Banger (Post / GP Area)","name_hi":"Karauli Banger (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203209"]},
+{"id":"po-gautam-buddha-nagar-manchad","type":"village","name_en":"Manchad (Post / GP Area)","name_hi":"Manchad (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203155"]},
+{"id":"po-gautam-buddha-nagar-neemka","type":"village","name_en":"Neemka (Post / GP Area)","name_hi":"Neemka (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203155"]},
+{"id":"po-gautam-buddha-nagar-nawada","type":"village","name_en":"Nawada (Post / GP Area)","name_hi":"Nawada (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203201"]},
+{"id":"po-gautam-buddha-nagar-astauly","type":"village","name_en":"Astauly (Post / GP Area)","name_hi":"Astauly (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203202"]},
+{"id":"po-gautam-buddha-nagar-kanigarhi","type":"village","name_en":"Kanigarhi (Post / GP Area)","name_hi":"Kanigarhi (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203135"]},
+{"id":"po-gautam-buddha-nagar-dhanaura","type":"village","name_en":"Dhanaura (Post / GP Area)","name_hi":"Dhanaura (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203203"]},
+{"id":"po-gautam-buddha-nagar-khabra-khanpur","type":"village","name_en":"Khabra  Khanpur (Post / GP Area)","name_hi":"Khabra  Khanpur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203203"]},
+{"id":"po-gautam-buddha-nagar-bhaipur-brahmanan","type":"village","name_en":"Bhaipur  Brahmanan (Post / GP Area)","name_hi":"Bhaipur  Brahmanan (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203209"]},
+{"id":"po-gautam-buddha-nagar-kishore-pur","type":"village","name_en":"Kishore Pur (Post / GP Area)","name_hi":"Kishore Pur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203155"]},
+{"id":"po-gautam-buddha-nagar-akbarpur-churai","type":"village","name_en":"Akbarpur Churai (Post / GP Area)","name_hi":"Akbarpur Churai (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["212652"]},
+{"id":"po-gautam-buddha-nagar-sainthli","type":"village","name_en":"Sainthli (Post / GP Area)","name_hi":"Sainthli (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"po-gautam-buddha-nagar-kasna","type":"village","name_en":"Kasna (Post / GP Area)","name_hi":"Kasna (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201312"]},
+{"id":"po-gautam-buddha-nagar-maicha","type":"village","name_en":"Maicha (Post / GP Area)","name_hi":"Maicha (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201312"]},
+{"id":"po-gautam-buddha-nagar-nagla-charandas","type":"village","name_en":"Nagla Charandas (Post / GP Area)","name_hi":"Nagla Charandas (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201305"]},
+{"id":"po-gautam-buddha-nagar-behrampur","type":"village","name_en":"Behrampur (Post / GP Area)","name_hi":"Behrampur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"po-gautam-buddha-nagar-bambawar","type":"village","name_en":"Bambawar (Post / GP Area)","name_hi":"Bambawar (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"po-gautam-buddha-nagar-chainsa","type":"village","name_en":"Chainsa (Post / GP Area)","name_hi":"Chainsa (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"po-gautam-buddha-nagar-kheri-bhanota","type":"village","name_en":"Kheri Bhanota (Post / GP Area)","name_hi":"Kheri Bhanota (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201311"]},
+{"id":"po-gautam-buddha-nagar-bedpura","type":"village","name_en":"Bedpura (Post / GP Area)","name_hi":"Bedpura (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"po-gautam-buddha-nagar-sakipur","type":"village","name_en":"Sakipur (Post / GP Area)","name_hi":"Sakipur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201310"]},
+{"id":"po-gautam-buddha-nagar-baraula","type":"village","name_en":"Baraula (Post / GP Area)","name_hi":"Baraula (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201304"]},
+{"id":"po-gautam-buddha-nagar-gejha","type":"village","name_en":"Gejha (Post / GP Area)","name_hi":"Gejha (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201304"]},
+{"id":"po-gautam-buddha-nagar-sarfabad","type":"village","name_en":"Sarfabad (Post / GP Area)","name_hi":"Sarfabad (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201307"]},
+{"id":"po-gautam-buddha-nagar-piaoli","type":"village","name_en":"Piaoli (Post / GP Area)","name_hi":"Piaoli (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201008"]},
+{"id":"po-gautam-buddha-nagar-achheja","type":"village","name_en":"Achheja (Post / GP Area)","name_hi":"Achheja (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"po-gautam-buddha-nagar-khatana","type":"village","name_en":"Khatana (Post / GP Area)","name_hi":"Khatana (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"po-gautam-buddha-nagar-pali","type":"village","name_en":"Pali (Post / GP Area)","name_hi":"Pali (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201311"]},
+{"id":"po-gautam-buddha-nagar-kulesra","type":"village","name_en":"Kulesra (Post / GP Area)","name_hi":"Kulesra (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201306"]},
+{"id":"po-gautam-buddha-nagar-ghori","type":"village","name_en":"Ghori (Post / GP Area)","name_hi":"Ghori (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201310"]},
+{"id":"po-gautam-buddha-nagar-chhaprauli-bengar","type":"village","name_en":"Chhaprauli Bengar (Post / GP Area)","name_hi":"Chhaprauli Bengar (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201304"]},
+{"id":"po-gautam-buddha-nagar-tilapta-karanwas","type":"village","name_en":"Tilapta Karanwas (Post / GP Area)","name_hi":"Tilapta Karanwas (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201311"]},
+{"id":"po-gautam-buddha-nagar-chithera","type":"village","name_en":"Chithera (Post / GP Area)","name_hi":"Chithera (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201314"]},
+{"id":"po-gautam-buddha-nagar-dhoom","type":"village","name_en":"Dhoom (Post / GP Area)","name_hi":"Dhoom (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"po-gautam-buddha-nagar-kachera-versabad","type":"village","name_en":"Kachera Versabad (Post / GP Area)","name_hi":"Kachera Versabad (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["203207"]},
+{"id":"po-gautam-buddha-nagar-chhajarsi","type":"village","name_en":"Chhajarsi (Post / GP Area)","name_hi":"Chhajarsi (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201309"]},
+{"id":"po-gautam-buddha-nagar-bisara","type":"village","name_en":"Bisara (Post / GP Area)","name_hi":"Bisara (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-bisrakh","block_id":"bisrakh","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"gram_panchayat","pincodes":["201008"]},
+{"id":"ward-gautam-buddha-nagar-ulb-gautam-buddha-nagar-main","type":"ward","name_en":"Nagar Palika Parishad Gautam Buddha Nagar (All Wards)","name_hi":"नगर पालिका गौतम बुद्ध नगर (सभी वार्ड)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad"},
+{"id":"ward-gautam-buddha-nagar-ulb-greater-noida-industrial-development-authority","type":"ward","name_en":"Greater Noida Industrial Development Authority (All Wards)","name_hi":"Greater Noida Industrial Development Authority (सभी वार्ड)","ulb_id":"ulb-greater-noida-industrial-development-authority","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad"},
+{"id":"ward-gautam-buddha-nagar-ulb-new-okhla-industrial-development-authority","type":"ward","name_en":"NEW OKHLA INDUSTRIAL DEVELOPMENT AUTHORITY (All Wards)","name_hi":"NEW OKHLA INDUSTRIAL DEVELOPMENT AUTHORITY (सभी वार्ड)","ulb_id":"ulb-new-okhla-industrial-development-authority","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad"},
+{"id":"ward-gautam-buddha-nagar-ulb-gretar-noeda-audyogik-vikas-pradhikaran","type":"ward","name_en":"Gretar Noeda Audyogik Vikas Pradhikaran (All Wards)","name_hi":"ग्रेटर नोएडा औद्योगिक विकास प्राधिकरण (सभी वार्ड)","ulb_id":"ulb-gretar-noeda-audyogik-vikas-pradhikaran","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad"},
+{"id":"ward-gautam-buddha-nagar-ulb-nai-okhala-audyogik-vikas-pradhikaran","type":"ward","name_en":"Nai Okhala Audyogik Vikas Pradhikaran (All Wards)","name_hi":"नई ओखला औद्योगिक विकास प्राधिकरण (सभी वार्ड)","ulb_id":"ulb-nai-okhala-audyogik-vikas-pradhikaran","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad"},
+{"id":"lgd-ulb-248996","type":"ward","name_en":"Dadri (Nagar Palika Parishad)","name_hi":"Dadri (नगर पालिका परिषद)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["203207"]},
+{"id":"lgd-ulb-248997","type":"ward","name_en":"Bilaspur (Nagar Panchayat)","name_hi":"Bilaspur (नगर पंचायत)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_panchayat","pincodes":["244921"]},
+{"id":"lgd-ulb-248998","type":"ward","name_en":"Dankaur (Nagar Panchayat)","name_hi":"Dankaur (नगर पंचायत)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_panchayat","pincodes":["203201"]},
+{"id":"lgd-ulb-249000","type":"ward","name_en":"Rabupura (Nagar Panchayat)","name_hi":"Rabupura (नगर पंचायत)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"nagar_panchayat","pincodes":["203209"]},
+{"id":"lgd-ulb-249001","type":"ward","name_en":"Jahangirpur (Nagar Panchayat)","name_hi":"Jahangirpur (नगर पंचायत)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"nagar_panchayat","pincodes":["203141"]},
+{"id":"lgd-ulb-249002","type":"ward","name_en":"Jewar (Nagar Panchayat)","name_hi":"Jewar (नगर पंचायत)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"nagar_panchayat","pincodes":["203135"]},
+{"id":"lgd-ulb-274822","type":"ward","name_en":"Yeida (Industrial Authority)","name_hi":"Yeida (विकास प्राधिकरण)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"authority_area","pincodes":["201307"]},
+{"id":"lgd-ulb-274823","type":"ward","name_en":"Gnida (Industrial Authority)","name_hi":"Gnida (विकास प्राधिकरण)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"authority_area","pincodes":["201301"]},
+{"id":"lgd-ulb-301210","type":"ward","name_en":"Noida (Industrial Authority)","name_hi":"Noida (विकास प्राधिकरण)","ulb_id":"ulb-greater-noida-industrial-development-authority","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"authority_area"},
+{"id":"town-gautam-buddha-nagar-gurukul-sikandrabad","type":"ward","name_en":"Gurukul  Sikandrabad (Urban Area / SO)","name_hi":"Gurukul  Sikandrabad (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["203202"]},
+{"id":"town-gautam-buddha-nagar-rabupura","type":"ward","name_en":"Rabupura (Urban Area / SO)","name_hi":"Rabupura (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["203209"]},
+{"id":"town-gautam-buddha-nagar-jewar","type":"ward","name_en":"Jewar (Urban Area / SO)","name_hi":"Jewar (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"jewar","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["203135"]},
+{"id":"town-gautam-buddha-nagar-thora","type":"ward","name_en":"Thora (Urban Area / SO)","name_hi":"Thora (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["203155"]},
+{"id":"town-gautam-buddha-nagar-noida","type":"ward","name_en":"Noida (Urban Area / SO)","name_hi":"Noida (शहरी क्षेत्र)","ulb_id":"ulb-greater-noida-industrial-development-authority","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201301"]},
+{"id":"town-gautam-buddha-nagar-dankaur","type":"ward","name_en":"Dankaur (Urban Area / SO)","name_hi":"Dankaur (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["203201"]},
+{"id":"town-gautam-buddha-nagar-jahangirpur","type":"ward","name_en":"Jahangirpur (Urban Area / SO)","name_hi":"Jahangirpur (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["203141"]},
+{"id":"town-gautam-buddha-nagar-kakore","type":"ward","name_en":"Kakore (Urban Area / SO)","name_hi":"Kakore (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["203203"]},
+{"id":"town-gautam-buddha-nagar-knowledge-parki","type":"ward","name_en":"Knowledge ParkI (Urban Area / SO)","name_hi":"Knowledge ParkI (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201310"]},
+{"id":"town-gautam-buddha-nagar-sec-16-noida","type":"ward","name_en":"Sec 16 Noida (Urban Area / SO)","name_hi":"Sec 16 Noida (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201301"]},
+{"id":"town-gautam-buddha-nagar-sec37-noida","type":"ward","name_en":"Sec37 Noida (Urban Area / SO)","name_hi":"Sec37 Noida (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201303"]},
+{"id":"town-gautam-buddha-nagar-ndc-noida","type":"ward","name_en":"NDC Noida (Urban Area / SO)","name_hi":"NDC Noida (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201302"]},
+{"id":"town-gautam-buddha-nagar-container-depot","type":"ward","name_en":"Container Depot (Urban Area / SO)","name_hi":"Container Depot (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201311"]},
+{"id":"town-gautam-buddha-nagar-dadri","type":"ward","name_en":"Dadri (Urban Area / SO)","name_hi":"Dadri (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"dadri","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["203207"]},
+{"id":"town-gautam-buddha-nagar-sec-27-noida","type":"ward","name_en":"Sec 27 Noida (Urban Area / SO)","name_hi":"Sec 27 Noida (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201301"]},
+{"id":"town-gautam-buddha-nagar-sec41-noida","type":"ward","name_en":"Sec41 Noida (Urban Area / SO)","name_hi":"Sec41 Noida (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201303"]},
+{"id":"town-gautam-buddha-nagar-sec45-noida","type":"ward","name_en":"Sec45 Noida (Urban Area / SO)","name_hi":"Sec45 Noida (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201303"]},
+{"id":"town-gautam-buddha-nagar-vidyut-nagar","type":"ward","name_en":"Vidyut Nagar (Urban Area / SO)","name_hi":"Vidyut Nagar (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201008"]},
+{"id":"town-gautam-buddha-nagar-crpf-greater-noida","type":"ward","name_en":"CRPF Greater Noida (Urban Area / SO)","name_hi":"CRPF Greater Noida (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201306"]},
+{"id":"town-gautam-buddha-nagar-sec-122-noida","type":"ward","name_en":"Sec 122 Noida (Urban Area / SO)","name_hi":"Sec 122 Noida (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201316"]},
+{"id":"town-gautam-buddha-nagar-maharshi-nagar","type":"ward","name_en":"Maharshi Nagar (Urban Area / SO)","name_hi":"Maharshi Nagar (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201304"]},
+{"id":"town-gautam-buddha-nagar-nepz","type":"ward","name_en":"NEPZ (Urban Area / SO)","name_hi":"NEPZ (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201305"]},
+{"id":"town-gautam-buddha-nagar-sec34-noida","type":"ward","name_en":"Sec34 Noida (Urban Area / SO)","name_hi":"Sec34 Noida (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201307"]},
+{"id":"town-gautam-buddha-nagar-sec55-noida","type":"ward","name_en":"Sec55 Noida (Urban Area / SO)","name_hi":"Sec55 Noida (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201309"]},
+{"id":"town-gautam-buddha-nagar-sec62-noida","type":"ward","name_en":"Sec62 Noida (Urban Area / SO)","name_hi":"Sec62 Noida (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201309"]},
+{"id":"town-gautam-buddha-nagar-gurjinder-vihar","type":"ward","name_en":"Gurjinder Vihar (Urban Area / SO)","name_hi":"Gurjinder Vihar (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201315"]},
+{"id":"town-gautam-buddha-nagar-alpha-greater-noida","type":"ward","name_en":"Alpha Greater Noida (Urban Area / SO)","name_hi":"Alpha Greater Noida (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201310"]},
+{"id":"town-gautam-buddha-nagar-amity-university","type":"ward","name_en":"Amity university (Urban Area / SO)","name_hi":"Amity university (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201313"]},
+{"id":"town-gautam-buddha-nagar-gautam-budh-university","type":"ward","name_en":"Gautam Budh University (Urban Area / SO)","name_hi":"Gautam Budh University (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201312"]},
+{"id":"town-gautam-buddha-nagar-ia-surajpur","type":"ward","name_en":"IA Surajpur (Urban Area / SO)","name_hi":"IA Surajpur (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201306"]},
+{"id":"town-gautam-buddha-nagar-sec-12-noida","type":"ward","name_en":"Sec 12 Noida (Urban Area / SO)","name_hi":"Sec 12 Noida (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201307"]},
+{"id":"town-gautam-buddha-nagar-sector-30-noida","type":"ward","name_en":"Sector 30 Noida (Urban Area / SO)","name_hi":"Sector 30 Noida (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201303"]},
+{"id":"town-gautam-buddha-nagar-shiv-nadar-university","type":"ward","name_en":"Shiv Nadar University (Urban Area / SO)","name_hi":"Shiv Nadar University (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201314"]},
+{"id":"town-gautam-buddha-nagar-sec-01-greater-noida","type":"ward","name_en":"Sec 01 Greater Noida (Urban Area / SO)","name_hi":"Sec 01 Greater Noida (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201318"]},
+{"id":"town-gautam-buddha-nagar-sec-128-noida","type":"ward","name_en":"Sec 128 Noida (Urban Area / SO)","name_hi":"Sec 128 Noida (शहरी क्षेत्र)","ulb_id":"ulb-gautam-buddha-nagar-main","tehsil_id":"sadar-noida","district_id":"gautam-buddha-nagar","local_body_type":"nagar_palika_parishad","pincodes":["201317"]}
 ]

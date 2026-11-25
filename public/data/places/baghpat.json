@@ -1,2117 +1,389 @@
 [
-  {
-    "id": "v-baghpat-baghpat",
-    "type": "village",
-    "name_en": "Baghpat Block (Gram Panchayats)",
-    "name_hi": "Baghpat विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "v-baghpat-baraut",
-    "type": "village",
-    "name_en": "Baraut Block (Gram Panchayats)",
-    "name_hi": "Baraut विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baraut",
-    "block_id": "baraut",
-    "tehsil_id": "baraut",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "v-baghpat-binauli",
-    "type": "village",
-    "name_en": "Binauli Block (Gram Panchayats)",
-    "name_hi": "Binauli विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-binauli",
-    "block_id": "binauli",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "v-baghpat-chhaprauli",
-    "type": "village",
-    "name_en": "Chhaprauli Block (Gram Panchayats)",
-    "name_hi": "Chhaprauli विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-chhaprauli",
-    "block_id": "chhaprauli",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "v-baghpat-khekra",
-    "type": "village",
-    "name_en": "Khekra Block (Gram Panchayats)",
-    "name_hi": "Khekra विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-khekra",
-    "block_id": "khekra",
-    "tehsil_id": "khekra",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "v-baghpat-pilana",
-    "type": "village",
-    "name_en": "Pilana Block (Gram Panchayats)",
-    "name_hi": "Pilana विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-pilana",
-    "block_id": "pilana",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "po-baghpat-dolcha",
-    "type": "village",
-    "name_en": "Dolcha (Gram Panchayat Area)",
-    "name_hi": "Dolcha (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250626"
-    ]
-  },
-  {
-    "id": "po-baghpat-duttnagar",
-    "type": "village",
-    "name_en": "Duttnagar (Gram Panchayat Area)",
-    "name_hi": "Duttnagar (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250626"
-    ]
-  },
-  {
-    "id": "po-baghpat-mukri",
-    "type": "village",
-    "name_en": "Mukri (Gram Panchayat Area)",
-    "name_hi": "Mukri (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250626"
-    ]
-  },
-  {
-    "id": "po-baghpat-faizpur-ninana",
-    "type": "village",
-    "name_en": "Faizpur Ninana (Gram Panchayat Area)",
-    "name_hi": "Faizpur Ninana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250619"
-    ]
-  },
-  {
-    "id": "po-baghpat-gauripur",
-    "type": "village",
-    "name_en": "Gauripur (Gram Panchayat Area)",
-    "name_hi": "Gauripur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250619"
-    ]
-  },
-  {
-    "id": "po-baghpat-chaubli",
-    "type": "village",
-    "name_en": "Chaubli (Gram Panchayat Area)",
-    "name_hi": "Chaubli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-gurana",
-    "type": "village",
-    "name_en": "Gurana (Gram Panchayat Area)",
-    "name_hi": "Gurana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-basaudh",
-    "type": "village",
-    "name_en": "Basaudh (Gram Panchayat Area)",
-    "name_hi": "Basaudh (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250601"
-    ]
-  },
-  {
-    "id": "po-baghpat-daula",
-    "type": "village",
-    "name_en": "Daula (Gram Panchayat Area)",
-    "name_hi": "Daula (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250601"
-    ]
-  },
-  {
-    "id": "po-baghpat-garhi",
-    "type": "village",
-    "name_en": "Garhi (Gram Panchayat Area)",
-    "name_hi": "Garhi (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250601"
-    ]
-  },
-  {
-    "id": "po-baghpat-tera",
-    "type": "village",
-    "name_en": "Tera (Gram Panchayat Area)",
-    "name_hi": "Tera (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250606"
-    ]
-  },
-  {
-    "id": "po-baghpat-bijrol",
-    "type": "village",
-    "name_en": "Bijrol (Gram Panchayat Area)",
-    "name_hi": "Bijrol (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250620"
-    ]
-  },
-  {
-    "id": "po-baghpat-barnawa",
-    "type": "village",
-    "name_en": "Barnawa (Gram Panchayat Area)",
-    "name_hi": "Barnawa (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250345"
-    ]
-  },
-  {
-    "id": "po-baghpat-chandyan",
-    "type": "village",
-    "name_en": "Chandyan (Gram Panchayat Area)",
-    "name_hi": "Chandyan (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250345"
-    ]
-  },
-  {
-    "id": "po-baghpat-badarkha",
-    "type": "village",
-    "name_en": "Badarkha (Gram Panchayat Area)",
-    "name_hi": "Badarkha (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250617"
-    ]
-  },
-  {
-    "id": "po-baghpat-nangal",
-    "type": "village",
-    "name_en": "Nangal (Gram Panchayat Area)",
-    "name_hi": "Nangal (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250617"
-    ]
-  },
-  {
-    "id": "po-baghpat-rathaura",
-    "type": "village",
-    "name_en": "Rathaura (Gram Panchayat Area)",
-    "name_hi": "Rathaura (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250617"
-    ]
-  },
-  {
-    "id": "po-baghpat-hisawda",
-    "type": "village",
-    "name_en": "Hisawda (Gram Panchayat Area)",
-    "name_hi": "Hisawda (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250615"
-    ]
-  },
-  {
-    "id": "po-baghpat-khatta-prahladpur",
-    "type": "village",
-    "name_en": "Khatta Prahladpur (Gram Panchayat Area)",
-    "name_hi": "Khatta Prahladpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250615"
-    ]
-  },
-  {
-    "id": "po-baghpat-lalyana",
-    "type": "village",
-    "name_en": "Lalyana (Gram Panchayat Area)",
-    "name_hi": "Lalyana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250615"
-    ]
-  },
-  {
-    "id": "po-baghpat-bharal",
-    "type": "village",
-    "name_en": "Bharal (Gram Panchayat Area)",
-    "name_hi": "Bharal (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250622"
-    ]
-  },
-  {
-    "id": "po-baghpat-jhundpur",
-    "type": "village",
-    "name_en": "Jhundpur (Gram Panchayat Area)",
-    "name_hi": "Jhundpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250622"
-    ]
-  },
-  {
-    "id": "po-baghpat-kanhar",
-    "type": "village",
-    "name_en": "Kanhar (Gram Panchayat Area)",
-    "name_hi": "Kanhar (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250622"
-    ]
-  },
-  {
-    "id": "po-baghpat-muzaffarpur-kanwara",
-    "type": "village",
-    "name_en": "Muzaffarpur Kanwara (Gram Panchayat Area)",
-    "name_hi": "Muzaffarpur Kanwara (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250622"
-    ]
-  },
-  {
-    "id": "po-baghpat-pusar",
-    "type": "village",
-    "name_en": "Pusar (Gram Panchayat Area)",
-    "name_hi": "Pusar (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250622"
-    ]
-  },
-  {
-    "id": "po-baghpat-daha",
-    "type": "village",
-    "name_en": "Daha (Gram Panchayat Area)",
-    "name_hi": "Daha (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250622"
-    ]
-  },
-  {
-    "id": "po-baghpat-bhagot",
-    "type": "village",
-    "name_en": "Bhagot (Gram Panchayat Area)",
-    "name_hi": "Bhagot (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250101"
-    ]
-  },
-  {
-    "id": "po-baghpat-fakharpur",
-    "type": "village",
-    "name_en": "Fakharpur (Gram Panchayat Area)",
-    "name_hi": "Fakharpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250101"
-    ]
-  },
-  {
-    "id": "po-baghpat-garhi-kalanjiri",
-    "type": "village",
-    "name_en": "Garhi Kalanjiri (Gram Panchayat Area)",
-    "name_hi": "Garhi Kalanjiri (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250101"
-    ]
-  },
-  {
-    "id": "po-baghpat-khera-hatana",
-    "type": "village",
-    "name_en": "Khera Hatana (Gram Panchayat Area)",
-    "name_hi": "Khera Hatana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250619"
-    ]
-  },
-  {
-    "id": "po-baghpat-gangnauli",
-    "type": "village",
-    "name_en": "Gangnauli (Gram Panchayat Area)",
-    "name_hi": "Gangnauli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250625"
-    ]
-  },
-  {
-    "id": "po-baghpat-nirpura",
-    "type": "village",
-    "name_en": "Nirpura (Gram Panchayat Area)",
-    "name_hi": "Nirpura (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250625"
-    ]
-  },
-  {
-    "id": "po-baghpat-lohadda",
-    "type": "village",
-    "name_en": "Lohadda (Gram Panchayat Area)",
-    "name_hi": "Lohadda (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-shahpur-badholi",
-    "type": "village",
-    "name_en": "Shahpur Badholi (Gram Panchayat Area)",
-    "name_hi": "Shahpur Badholi (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-hilwari",
-    "type": "village",
-    "name_en": "Hilwari (Gram Panchayat Area)",
-    "name_hi": "Hilwari (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-khwaja-nagla",
-    "type": "village",
-    "name_en": "Khwaja Nagla (Gram Panchayat Area)",
-    "name_hi": "Khwaja Nagla (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-rajpur-khampur",
-    "type": "village",
-    "name_en": "Rajpur Khampur (Gram Panchayat Area)",
-    "name_hi": "Rajpur Khampur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-luhari",
-    "type": "village",
-    "name_en": "Luhari (Gram Panchayat Area)",
-    "name_hi": "Luhari (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-malakpur",
-    "type": "village",
-    "name_en": "Malakpur (Gram Panchayat Area)",
-    "name_hi": "Malakpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-bali",
-    "type": "village",
-    "name_en": "Bali (Gram Panchayat Area)",
-    "name_hi": "Bali (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250601"
-    ]
-  },
-  {
-    "id": "po-baghpat-bilochpura",
-    "type": "village",
-    "name_en": "Bilochpura (Gram Panchayat Area)",
-    "name_hi": "Bilochpura (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250606"
-    ]
-  },
-  {
-    "id": "po-baghpat-gwali-khera",
-    "type": "village",
-    "name_en": "Gwali Khera (Gram Panchayat Area)",
-    "name_hi": "Gwali Khera (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250606"
-    ]
-  },
-  {
-    "id": "po-baghpat-ram-nagar",
-    "type": "village",
-    "name_en": "Ram Nagar (Gram Panchayat Area)",
-    "name_hi": "Ram Nagar (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250606"
-    ]
-  },
-  {
-    "id": "po-baghpat-saidbhar",
-    "type": "village",
-    "name_en": "Saidbhar (Gram Panchayat Area)",
-    "name_hi": "Saidbhar (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250606"
-    ]
-  },
-  {
-    "id": "po-baghpat-baghpat-sugar-mill",
-    "type": "village",
-    "name_en": "Baghpat Sugar Mill (Gram Panchayat Area)",
-    "name_hi": "Baghpat Sugar Mill (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250609"
-    ]
-  },
-  {
-    "id": "po-baghpat-sisana",
-    "type": "village",
-    "name_en": "Sisana (Gram Panchayat Area)",
-    "name_hi": "Sisana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250609"
-    ]
-  },
-  {
-    "id": "po-baghpat-barwala",
-    "type": "village",
-    "name_en": "Barwala (Gram Panchayat Area)",
-    "name_hi": "Barwala (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250621"
-    ]
-  },
-  {
-    "id": "po-baghpat-gunga-kheri",
-    "type": "village",
-    "name_en": "Gunga Kheri (Gram Panchayat Area)",
-    "name_hi": "Gunga Kheri (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250621"
-    ]
-  },
-  {
-    "id": "po-baghpat-jalalpur",
-    "type": "village",
-    "name_en": "Jalalpur (Gram Panchayat Area)",
-    "name_hi": "Jalalpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250621"
-    ]
-  },
-  {
-    "id": "po-baghpat-johri",
-    "type": "village",
-    "name_en": "Johri (Gram Panchayat Area)",
-    "name_hi": "Johri (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250345"
-    ]
-  },
-  {
-    "id": "po-baghpat-soop",
-    "type": "village",
-    "name_en": "Soop (Gram Panchayat Area)",
-    "name_hi": "Soop (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250623"
-    ]
-  },
-  {
-    "id": "po-baghpat-sabga",
-    "type": "village",
-    "name_en": "Sabga (Gram Panchayat Area)",
-    "name_hi": "Sabga (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250617"
-    ]
-  },
-  {
-    "id": "po-baghpat-sherpur-luhari",
-    "type": "village",
-    "name_en": "Sherpur Luhari (Gram Panchayat Area)",
-    "name_hi": "Sherpur Luhari (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250617"
-    ]
-  },
-  {
-    "id": "po-baghpat-chamrawal",
-    "type": "village",
-    "name_en": "Chamrawal (Gram Panchayat Area)",
-    "name_hi": "Chamrawal (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250615"
-    ]
-  },
-  {
-    "id": "po-baghpat-azampur-mulsam",
-    "type": "village",
-    "name_en": "Azampur Mulsam (Gram Panchayat Area)",
-    "name_hi": "Azampur Mulsam (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250622"
-    ]
-  },
-  {
-    "id": "po-baghpat-begmabad-garhi",
-    "type": "village",
-    "name_en": "Begmabad Garhi (Gram Panchayat Area)",
-    "name_hi": "Begmabad Garhi (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250622"
-    ]
-  },
-  {
-    "id": "po-baghpat-gauna",
-    "type": "village",
-    "name_en": "Gauna (Gram Panchayat Area)",
-    "name_hi": "Gauna (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250101"
-    ]
-  },
-  {
-    "id": "po-baghpat-ibrahimpur-mazra",
-    "type": "village",
-    "name_en": "Ibrahimpur Mazra (Gram Panchayat Area)",
-    "name_hi": "Ibrahimpur Mazra (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250623"
-    ]
-  },
-  {
-    "id": "po-baghpat-jiwana",
-    "type": "village",
-    "name_en": "Jiwana (Gram Panchayat Area)",
-    "name_hi": "Jiwana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250623"
-    ]
-  },
-  {
-    "id": "po-baghpat-kakripur",
-    "type": "village",
-    "name_en": "Kakripur (Gram Panchayat Area)",
-    "name_hi": "Kakripur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250623"
-    ]
-  },
-  {
-    "id": "po-baghpat-kasimpur-khari",
-    "type": "village",
-    "name_en": "Kasimpur Khari (Gram Panchayat Area)",
-    "name_hi": "Kasimpur Khari (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250623"
-    ]
-  },
-  {
-    "id": "po-baghpat-lumb",
-    "type": "village",
-    "name_en": "Lumb (Gram Panchayat Area)",
-    "name_hi": "Lumb (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250623"
-    ]
-  },
-  {
-    "id": "po-baghpat-kirthal",
-    "type": "village",
-    "name_en": "Kirthal (Gram Panchayat Area)",
-    "name_hi": "Kirthal (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250623"
-    ]
-  },
-  {
-    "id": "po-baghpat-barka",
-    "type": "village",
-    "name_en": "Barka (Gram Panchayat Area)",
-    "name_hi": "Barka (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-dohja",
-    "type": "village",
-    "name_en": "Dohja (Gram Panchayat Area)",
-    "name_hi": "Dohja (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-dhikana",
-    "type": "village",
-    "name_en": "Dhikana (Gram Panchayat Area)",
-    "name_hi": "Dhikana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-dhanaura-silver-nagar",
-    "type": "village",
-    "name_en": "Dhanaura Silver Nagar (Gram Panchayat Area)",
-    "name_hi": "Dhanaura Silver Nagar (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-alwalpur",
-    "type": "village",
-    "name_en": "Alwalpur (Gram Panchayat Area)",
-    "name_hi": "Alwalpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-budhera",
-    "type": "village",
-    "name_en": "Budhera (Gram Panchayat Area)",
-    "name_hi": "Budhera (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-sadiqpur-sinoli",
-    "type": "village",
-    "name_en": "Sadiqpur Sinoli (Gram Panchayat Area)",
-    "name_hi": "Sadiqpur Sinoli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-mitli",
-    "type": "village",
-    "name_en": "Mitli (Gram Panchayat Area)",
-    "name_hi": "Mitli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250601"
-    ]
-  },
-  {
-    "id": "po-baghpat-nerojpur-gujar",
-    "type": "village",
-    "name_en": "Nerojpur Gujar (Gram Panchayat Area)",
-    "name_hi": "Nerojpur Gujar (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250601"
-    ]
-  },
-  {
-    "id": "po-baghpat-sujra",
-    "type": "village",
-    "name_en": "Sujra (Gram Panchayat Area)",
-    "name_hi": "Sujra (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250601"
-    ]
-  },
-  {
-    "id": "po-baghpat-garhi-hazurabad",
-    "type": "village",
-    "name_en": "Garhi Hazurabad (Gram Panchayat Area)",
-    "name_hi": "Garhi Hazurabad (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250606"
-    ]
-  },
-  {
-    "id": "po-baghpat-singhaoli-ahir",
-    "type": "village",
-    "name_en": "Singhaoli Ahir (Gram Panchayat Area)",
-    "name_hi": "Singhaoli Ahir (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250606"
-    ]
-  },
-  {
-    "id": "po-baghpat-bijwara",
-    "type": "village",
-    "name_en": "Bijwara (Gram Panchayat Area)",
-    "name_hi": "Bijwara (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250345"
-    ]
-  },
-  {
-    "id": "po-baghpat-fatehpur-poothi",
-    "type": "village",
-    "name_en": "Fatehpur Poothi (Gram Panchayat Area)",
-    "name_hi": "Fatehpur Poothi (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250345"
-    ]
-  },
-  {
-    "id": "po-baghpat-galheta",
-    "type": "village",
-    "name_en": "Galheta (Gram Panchayat Area)",
-    "name_hi": "Galheta (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250345"
-    ]
-  },
-  {
-    "id": "po-baghpat-sirsalgarh",
-    "type": "village",
-    "name_en": "Sirsalgarh (Gram Panchayat Area)",
-    "name_hi": "Sirsalgarh (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250345"
-    ]
-  },
-  {
-    "id": "po-baghpat-titroda",
-    "type": "village",
-    "name_en": "Titroda (Gram Panchayat Area)",
-    "name_hi": "Titroda (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250345"
-    ]
-  },
-  {
-    "id": "po-baghpat-bodha",
-    "type": "village",
-    "name_en": "Bodha (Gram Panchayat Area)",
-    "name_hi": "Bodha (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250617"
-    ]
-  },
-  {
-    "id": "po-baghpat-kurri",
-    "type": "village",
-    "name_en": "Kurri (Gram Panchayat Area)",
-    "name_hi": "Kurri (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250617"
-    ]
-  },
-  {
-    "id": "po-baghpat-tugana",
-    "type": "village",
-    "name_en": "Tugana (Gram Panchayat Area)",
-    "name_hi": "Tugana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250617"
-    ]
-  },
-  {
-    "id": "po-baghpat-pabla-begmabad",
-    "type": "village",
-    "name_en": "Pabla Begmabad (Gram Panchayat Area)",
-    "name_hi": "Pabla Begmabad (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250615"
-    ]
-  },
-  {
-    "id": "po-baghpat-pilana",
-    "type": "village",
-    "name_en": "Pilana (Gram Panchayat Area)",
-    "name_hi": "Pilana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-pilana",
-    "block_id": "pilana",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250615"
-    ]
-  },
-  {
-    "id": "po-baghpat-dhanaura-tikri",
-    "type": "village",
-    "name_en": "Dhanaura Tikri (Gram Panchayat Area)",
-    "name_hi": "Dhanaura Tikri (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250622"
-    ]
-  },
-  {
-    "id": "po-baghpat-idrishpur",
-    "type": "village",
-    "name_en": "Idrishpur (Gram Panchayat Area)",
-    "name_hi": "Idrishpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250622"
-    ]
-  },
-  {
-    "id": "po-baghpat-palri",
-    "type": "village",
-    "name_en": "Palri (Gram Panchayat Area)",
-    "name_hi": "Palri (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250622"
-    ]
-  },
-  {
-    "id": "po-baghpat-bassi",
-    "type": "village",
-    "name_en": "Bassi (Gram Panchayat Area)",
-    "name_hi": "Bassi (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250101"
-    ]
-  },
-  {
-    "id": "po-baghpat-gothra",
-    "type": "village",
-    "name_en": "Gothra (Gram Panchayat Area)",
-    "name_hi": "Gothra (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250101"
-    ]
-  },
-  {
-    "id": "po-baghpat-phulera",
-    "type": "village",
-    "name_en": "Phulera (Gram Panchayat Area)",
-    "name_hi": "Phulera (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250101"
-    ]
-  },
-  {
-    "id": "po-baghpat-rataul",
-    "type": "village",
-    "name_en": "Rataul (Gram Panchayat Area)",
-    "name_hi": "Rataul (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250101"
-    ]
-  },
-  {
-    "id": "po-baghpat-sunehra",
-    "type": "village",
-    "name_en": "Sunehra (Gram Panchayat Area)",
-    "name_hi": "Sunehra (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250101"
-    ]
-  },
-  {
-    "id": "po-baghpat-asarfabad-thal",
-    "type": "village",
-    "name_en": "Asarfabad Thal (Gram Panchayat Area)",
-    "name_hi": "Asarfabad Thal (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250623"
-    ]
-  },
-  {
-    "id": "po-baghpat-budhpur",
-    "type": "village",
-    "name_en": "Budhpur (Gram Panchayat Area)",
-    "name_hi": "Budhpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250623"
-    ]
-  },
-  {
-    "id": "po-baghpat-ramala",
-    "type": "village",
-    "name_en": "Ramala (Gram Panchayat Area)",
-    "name_hi": "Ramala (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250623"
-    ]
-  },
-  {
-    "id": "po-baghpat-kherki",
-    "type": "village",
-    "name_en": "Kherki (Gram Panchayat Area)",
-    "name_hi": "Kherki (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250619"
-    ]
-  },
-  {
-    "id": "po-baghpat-mozizabad-nangal",
-    "type": "village",
-    "name_en": "Mozizabad Nangal (Gram Panchayat Area)",
-    "name_hi": "Mozizabad Nangal (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250625"
-    ]
-  },
-  {
-    "id": "po-baghpat-sujti",
-    "type": "village",
-    "name_en": "Sujti (Gram Panchayat Area)",
-    "name_hi": "Sujti (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250625"
-    ]
-  },
-  {
-    "id": "po-baghpat-audhapur",
-    "type": "village",
-    "name_en": "Audhapur (Gram Panchayat Area)",
-    "name_hi": "Audhapur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-barawad",
-    "type": "village",
-    "name_en": "Barawad (Gram Panchayat Area)",
-    "name_hi": "Barawad (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-kotana",
-    "type": "village",
-    "name_en": "Kotana (Gram Panchayat Area)",
-    "name_hi": "Kotana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-shikohpur",
-    "type": "village",
-    "name_en": "Shikohpur (Gram Panchayat Area)",
-    "name_hi": "Shikohpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-jaunmana",
-    "type": "village",
-    "name_en": "Jaunmana (Gram Panchayat Area)",
-    "name_hi": "Jaunmana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-teodhi",
-    "type": "village",
-    "name_en": "Teodhi (Gram Panchayat Area)",
-    "name_hi": "Teodhi (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-bazidpur",
-    "type": "village",
-    "name_en": "Bazidpur (Gram Panchayat Area)",
-    "name_hi": "Bazidpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "po-baghpat-nibali",
-    "type": "village",
-    "name_en": "Nibali (Gram Panchayat Area)",
-    "name_hi": "Nibali (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250601"
-    ]
-  },
-  {
-    "id": "po-baghpat-budhsaini",
-    "type": "village",
-    "name_en": "Budhsaini (Gram Panchayat Area)",
-    "name_hi": "Budhsaini (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250606"
-    ]
-  },
-  {
-    "id": "po-baghpat-mawi-kalan",
-    "type": "village",
-    "name_en": "Mawi Kalan (Gram Panchayat Area)",
-    "name_hi": "Mawi Kalan (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250606"
-    ]
-  },
-  {
-    "id": "po-baghpat-ahera",
-    "type": "village",
-    "name_en": "Ahera (Gram Panchayat Area)",
-    "name_hi": "Ahera (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250609"
-    ]
-  },
-  {
-    "id": "po-baghpat-khatta",
-    "type": "village",
-    "name_en": "Khatta (Gram Panchayat Area)",
-    "name_hi": "Khatta (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250609"
-    ]
-  },
-  {
-    "id": "po-baghpat-kandera",
-    "type": "village",
-    "name_en": "Kandera (Gram Panchayat Area)",
-    "name_hi": "Kandera (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250620"
-    ]
-  },
-  {
-    "id": "po-baghpat-fazalpur",
-    "type": "village",
-    "name_en": "Fazalpur (Gram Panchayat Area)",
-    "name_hi": "Fazalpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250345"
-    ]
-  },
-  {
-    "id": "po-baghpat-jiwaana",
-    "type": "village",
-    "name_en": "Jiwaana (Gram Panchayat Area)",
-    "name_hi": "Jiwaana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250345"
-    ]
-  },
-  {
-    "id": "po-baghpat-muzampur-kamala",
-    "type": "village",
-    "name_en": "Muzampur Kamala (Gram Panchayat Area)",
-    "name_hi": "Muzampur Kamala (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250345"
-    ]
-  },
-  {
-    "id": "po-baghpat-ranchhar",
-    "type": "village",
-    "name_en": "Ranchhar (Gram Panchayat Area)",
-    "name_hi": "Ranchhar (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250345"
-    ]
-  },
-  {
-    "id": "po-baghpat-sirsali",
-    "type": "village",
-    "name_en": "Sirsali (Gram Panchayat Area)",
-    "name_hi": "Sirsali (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250345"
-    ]
-  },
-  {
-    "id": "po-baghpat-hewa",
-    "type": "village",
-    "name_en": "Hewa (Gram Panchayat Area)",
-    "name_hi": "Hewa (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250617"
-    ]
-  },
-  {
-    "id": "po-baghpat-kakor-kalan",
-    "type": "village",
-    "name_en": "Kakor Kalan (Gram Panchayat Area)",
-    "name_hi": "Kakor Kalan (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250617"
-    ]
-  },
-  {
-    "id": "po-baghpat-silana",
-    "type": "village",
-    "name_en": "Silana (Gram Panchayat Area)",
-    "name_hi": "Silana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250617"
-    ]
-  },
-  {
-    "id": "po-baghpat-halalpur",
-    "type": "village",
-    "name_en": "Halalpur (Gram Panchayat Area)",
-    "name_hi": "Halalpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250617"
-    ]
-  },
-  {
-    "id": "po-baghpat-gaidbara",
-    "type": "village",
-    "name_en": "Gaidbara (Gram Panchayat Area)",
-    "name_hi": "Gaidbara (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250622"
-    ]
-  },
-  {
-    "id": "po-baghpat-palra",
-    "type": "village",
-    "name_en": "Palra (Gram Panchayat Area)",
-    "name_hi": "Palra (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250622"
-    ]
-  },
-  {
-    "id": "po-baghpat-baragaon",
-    "type": "village",
-    "name_en": "Baragaon (Gram Panchayat Area)",
-    "name_hi": "Baragaon (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250101"
-    ]
-  },
-  {
-    "id": "po-baghpat-mubarikpur",
-    "type": "village",
-    "name_en": "Mubarikpur (Gram Panchayat Area)",
-    "name_hi": "Mubarikpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250101"
-    ]
-  },
-  {
-    "id": "po-baghpat-sankrodh",
-    "type": "village",
-    "name_en": "Sankrodh (Gram Panchayat Area)",
-    "name_hi": "Sankrodh (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250101"
-    ]
-  },
-  {
-    "id": "po-baghpat-asara",
-    "type": "village",
-    "name_en": "Asara (Gram Panchayat Area)",
-    "name_hi": "Asara (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250623"
-    ]
-  },
-  {
-    "id": "po-baghpat-basauli",
-    "type": "village",
-    "name_en": "Basauli (Gram Panchayat Area)",
-    "name_hi": "Basauli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-baghpat",
-    "block_id": "baghpat",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "250623"
-    ]
-  },
-  {
-    "id": "ward-baghpat-ulb-baghpat-main",
-    "type": "ward",
-    "name_en": "Nagar Palika Parishad Baghpat (All Wards)",
-    "name_hi": "नगर पालिका बागपत (सभी वार्ड)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad"
-  },
-  {
-    "id": "town-baghpat-baraut",
-    "type": "ward",
-    "name_en": "Baraut (Urban Ward / SO)",
-    "name_hi": "Baraut (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "baraut",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "town-baghpat-baleni",
-    "type": "ward",
-    "name_en": "Baleni (Urban Ward / SO)",
-    "name_hi": "Baleni (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250626"
-    ]
-  },
-  {
-    "id": "town-baghpat-khekra",
-    "type": "ward",
-    "name_en": "Khekra (Urban Ward / SO)",
-    "name_hi": "Khekra (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "khekra",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250101"
-    ]
-  },
-  {
-    "id": "town-baghpat-rly-road-khekra",
-    "type": "ward",
-    "name_en": "Rly Road Khekra (Urban Ward / SO)",
-    "name_hi": "Rly Road Khekra (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "khekra",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250101"
-    ]
-  },
-  {
-    "id": "town-baghpat-baghpat",
-    "type": "ward",
-    "name_en": "Baghpat (Urban Ward / SO)",
-    "name_hi": "Baghpat (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250609"
-    ]
-  },
-  {
-    "id": "town-baghpat-binauli",
-    "type": "ward",
-    "name_en": "Binauli (Urban Ward / SO)",
-    "name_hi": "Binauli (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250345"
-    ]
-  },
-  {
-    "id": "town-baghpat-dhikauli",
-    "type": "ward",
-    "name_en": "Dhikauli (Urban Ward / SO)",
-    "name_hi": "Dhikauli (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250615"
-    ]
-  },
-  {
-    "id": "town-baghpat-doghat",
-    "type": "ward",
-    "name_en": "Doghat (Urban Ward / SO)",
-    "name_hi": "Doghat (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250622"
-    ]
-  },
-  {
-    "id": "town-baghpat-tikri",
-    "type": "ward",
-    "name_en": "Tikri (Urban Ward / SO)",
-    "name_hi": "Tikri (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250625"
-    ]
-  },
-  {
-    "id": "town-baghpat-bamnauli",
-    "type": "ward",
-    "name_en": "Bamnauli (Urban Ward / SO)",
-    "name_hi": "Bamnauli (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250620"
-    ]
-  },
-  {
-    "id": "town-baghpat-kishanpur-baral",
-    "type": "ward",
-    "name_en": "Kishanpur Baral (Urban Ward / SO)",
-    "name_hi": "Kishanpur Baral (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250623"
-    ]
-  },
-  {
-    "id": "town-baghpat-nehru-rd-baraut",
-    "type": "ward",
-    "name_en": "Nehru Rd Baraut (Urban Ward / SO)",
-    "name_hi": "Nehru Rd Baraut (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "baraut",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "town-baghpat-sarurpur-kalan",
-    "type": "ward",
-    "name_en": "Sarurpur Kalan (Urban Ward / SO)",
-    "name_hi": "Sarurpur Kalan (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250619"
-    ]
-  },
-  {
-    "id": "town-baghpat-agarwal-mandi",
-    "type": "ward",
-    "name_en": "Agarwal Mandi (Urban Ward / SO)",
-    "name_hi": "Agarwal Mandi (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250601"
-    ]
-  },
-  {
-    "id": "town-baghpat-aminagar-sarai",
-    "type": "ward",
-    "name_en": "Aminagar Sarai (Urban Ward / SO)",
-    "name_hi": "Aminagar Sarai (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250606"
-    ]
-  },
-  {
-    "id": "town-baghpat-baoli",
-    "type": "ward",
-    "name_en": "Baoli (Urban Ward / SO)",
-    "name_hi": "Baoli (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250621"
-    ]
-  },
-  {
-    "id": "town-baghpat-chhaprauli",
-    "type": "ward",
-    "name_en": "Chhaprauli (Urban Ward / SO)",
-    "name_hi": "Chhaprauli (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "baghpat",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250617"
-    ]
-  },
-  {
-    "id": "town-baghpat-gandhi-chowk-baraut",
-    "type": "ward",
-    "name_en": "Gandhi Chowk Baraut (Urban Ward / SO)",
-    "name_hi": "Gandhi Chowk Baraut (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "baraut",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250611"
-    ]
-  },
-  {
-    "id": "town-baghpat-nai-mandi-baraut",
-    "type": "ward",
-    "name_en": "Nai Mandi Baraut (Urban Ward / SO)",
-    "name_hi": "Nai Mandi Baraut (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-baghpat-main",
-    "tehsil_id": "baraut",
-    "district_id": "baghpat",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "250611"
-    ]
-  }
+{"id":"block-baghpat-baghpat","type":"village","name_en":"Baghpat (Full Block / All Gram Panchayats)","name_hi":"Baghpat (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat"},
+{"id":"block-baghpat-baraut","type":"village","name_en":"Baraut (Full Block / All Gram Panchayats)","name_hi":"Baraut (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-baraut","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat"},
+{"id":"block-baghpat-binauli","type":"village","name_en":"Binauli (Full Block / All Gram Panchayats)","name_hi":"Binauli (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-binauli","block_id":"binauli","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat"},
+{"id":"block-baghpat-chhaprauli","type":"village","name_en":"Chhaprauli (Full Block / All Gram Panchayats)","name_hi":"Chhaprauli (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-chhaprauli","block_id":"chhaprauli","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat"},
+{"id":"block-baghpat-khekra","type":"village","name_en":"Khekra (Full Block / All Gram Panchayats)","name_hi":"Khekra (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-khekra","block_id":"khekra","tehsil_id":"khekra","district_id":"baghpat","local_body_type":"gram_panchayat"},
+{"id":"block-baghpat-pilana","type":"village","name_en":"Pilana (Full Block / All Gram Panchayats)","name_hi":"Pilana (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-pilana","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat"},
+{"id":"lgd-119238","type":"village","name_en":"Tanda (GP)","name_hi":"Tanda (ग्राम पंचायत)","gp_id":"gp-tanda","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119239","type":"village","name_en":"Bodha (GP)","name_hi":"Bodha (ग्राम पंचायत)","gp_id":"gp-bodha","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119240","type":"village","name_en":"Tugana (GP)","name_hi":"Tugana (ग्राम पंचायत)","gp_id":"gp-tugana","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119241","type":"village","name_en":"Nangal (GP)","name_hi":"Nangal (ग्राम पंचायत)","gp_id":"gp-nangal","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119242","type":"village","name_en":"Koori (GP)","name_hi":"Koori (ग्राम पंचायत)","gp_id":"gp-koori","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119243","type":"village","name_en":"Loomb (GP)","name_hi":"Loomb (ग्राम पंचायत)","gp_id":"gp-loomb","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119244","type":"village","name_en":"Kirthal (GP)","name_hi":"Kirthal (ग्राम पंचायत)","gp_id":"gp-kirthal","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119245","type":"village","name_en":"Kakripur (GP)","name_hi":"Kakripur (ग्राम पंचायत)","gp_id":"gp-kakripur","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119246","type":"village","name_en":"Asara (GP)","name_hi":"Asara (ग्राम पंचायत)","gp_id":"gp-asara","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119247","type":"village","name_en":"Vidhawati (GP: Asara)","name_hi":"Vidhawati (ग्रा.पं.: Asara)","gp_id":"gp-asara","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119248","type":"village","name_en":"Ramala (GP)","name_hi":"Ramala (ग्राम पंचायत)","gp_id":"gp-ramala","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119249","type":"village","name_en":"Hewa (GP)","name_hi":"Hewa (ग्राम पंचायत)","gp_id":"gp-hewa","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119250","type":"village","name_en":"Mirpur (GP: Hewa)","name_hi":"Mirpur (ग्रा.पं.: Hewa)","gp_id":"gp-hewa","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119251","type":"village","name_en":"Tilwara Sakin (GP)","name_hi":"Tilwara Sakin (ग्राम पंचायत)","gp_id":"gp-tilwara-sakin","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119252","type":"village","name_en":"Tilwara Patti (GP: Tilwara Sakin)","name_hi":"Tilwara Patti (ग्रा.पं.: Tilwara Sakin)","gp_id":"gp-tilwara-sakin","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119253","type":"village","name_en":"Rathaura (GP)","name_hi":"Rathaura (ग्राम पंचायत)","gp_id":"gp-rathaura","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119254","type":"village","name_en":"Silana (GP)","name_hi":"Silana (ग्राम पंचायत)","gp_id":"gp-silana","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119255","type":"village","name_en":"Halalpur (GP)","name_hi":"Halalpur (ग्राम पंचायत)","gp_id":"gp-halalpur","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119257","type":"village","name_en":"Badarkha (GP)","name_hi":"Badarkha (ग्राम पंचायत)","gp_id":"gp-badarkha","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119258","type":"village","name_en":"Khwajgipur Urf Chandanheri (GP)","name_hi":"Khwajgipur Urf Chandanheri (ग्राम पंचायत)","gp_id":"gp-khwajgipur-urf-chandanheri","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119259","type":"village","name_en":"Kakor Kalan (GP)","name_hi":"Kakor Kalan (ग्राम पंचायत)","gp_id":"gp-kakor-kalan","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119260","type":"village","name_en":"Bachhor (GP)","name_hi":"Bachhor (ग्राम पंचायत)","gp_id":"gp-bachhor","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119261","type":"village","name_en":"Khwaja Nagla (GP)","name_hi":"Khwaja Nagla (ग्राम पंचायत)","gp_id":"gp-khwaja-nagla","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119262","type":"village","name_en":"Mukandpur (GP)","name_hi":"Mukandpur (ग्राम पंचायत)","gp_id":"gp-mukandpur","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119263","type":"village","name_en":"Sonti (GP: Sothi)","name_hi":"सौन्टी (ग्रा.पं.: Sothi)","gp_id":"gp-sothi","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119264","type":"village","name_en":"Soop (GP)","name_hi":"Soop (ग्राम पंचायत)","gp_id":"gp-soop","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119265","type":"village","name_en":"Rajpur (GP: Soop)","name_hi":"Rajpur (ग्रा.पं.: Soop)","gp_id":"gp-soop","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119266","type":"village","name_en":"Basoli (GP)","name_hi":"Basoli (ग्राम पंचायत)","gp_id":"gp-basoli","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119267","type":"village","name_en":"Sherpur (GP)","name_hi":"Sherpur (ग्राम पंचायत)","gp_id":"gp-sherpur","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119268","type":"village","name_en":"Luhara (GP)","name_hi":"Luhara (ग्राम पंचायत)","gp_id":"gp-luhara","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119269","type":"village","name_en":"Bhudpur (GP)","name_hi":"Bhudpur (ग्राम पंचायत)","gp_id":"gp-bhudpur","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119270","type":"village","name_en":"Gopalpur Khadana (GP: Fatehpur Chak)","name_hi":"Gopalpur Khadana (ग्रा.पं.: Fatehpur Chak)","gp_id":"gp-fatehpur-chak","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119271","type":"village","name_en":"Ibrahimpur Majra (GP)","name_hi":"Ibrahimpur Majra (ग्राम पंचायत)","gp_id":"gp-ibrahimpur-majra","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119272","type":"village","name_en":"Fatehpur Chak (GP)","name_hi":"Fatehpur Chak (ग्राम पंचायत)","gp_id":"gp-fatehpur-chak","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119273","type":"village","name_en":"Asharfabad Thal (GP)","name_hi":"Asharfabad Thal (ग्राम पंचायत)","gp_id":"gp-asharfabad-thal","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119274","type":"village","name_en":"Kishanpur (GP)","name_hi":"Kishanpur (ग्राम पंचायत)","gp_id":"gp-kishanpur","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119275","type":"village","name_en":"Biral (GP)","name_hi":"Biral (ग्राम पंचायत)","gp_id":"gp-biral","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119276","type":"village","name_en":"Kasimpur Khedi (GP: Kasampur Kheri)","name_hi":"कासिमपुर खेडी (ग्रा.पं.: Kasampur Kheri)","gp_id":"gp-kasampur-kheri","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119277","type":"village","name_en":"Hasanpur Jiwani (GP)","name_hi":"Hasanpur Jiwani (ग्राम पंचायत)","gp_id":"gp-hasanpur-jiwani","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119278","type":"village","name_en":"Karimpur (GP: Hasanpur Jiwani)","name_hi":"Karimpur (ग्रा.पं.: Hasanpur Jiwani)","gp_id":"gp-hasanpur-jiwani","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119279","type":"village","name_en":"Jiwana (GP)","name_hi":"Jiwana (ग्राम पंचायत)","gp_id":"gp-jiwana","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"lgd-119280","type":"village","name_en":"Mukarrabpur Kandera (GP)","name_hi":"Mukarrabpur Kandera (ग्राम पंचायत)","gp_id":"gp-mukarrabpur-kandera","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250620"]},
+{"id":"lgd-119281","type":"village","name_en":"Acharaj Khera (GP: Goonga Kheri)","name_hi":"Acharaj Khera (ग्रा.पं.: Goonga Kheri)","gp_id":"gp-goonga-kheri","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250621"]},
+{"id":"lgd-119282","type":"village","name_en":"Goonga Kheri (GP)","name_hi":"Goonga Kheri (ग्राम पंचायत)","gp_id":"gp-goonga-kheri","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250621"]},
+{"id":"lgd-119283","type":"village","name_en":"Chhachharpur (GP)","name_hi":"Chhachharpur (ग्राम पंचायत)","gp_id":"gp-chhachharpur","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250621"]},
+{"id":"lgd-119284","type":"village","name_en":"Aurangabad Jathauli (GP: Baoli)","name_hi":"Aurangabad Jathauli (ग्रा.पं.: Baoli)","gp_id":"gp-baoli","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250621"]},
+{"id":"lgd-119285","type":"village","name_en":"Barwala (GP)","name_hi":"Barwala (ग्राम पंचायत)","gp_id":"gp-barwala","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250621"]},
+{"id":"lgd-119286","type":"village","name_en":"Bawali (GP: Baoli)","name_hi":"बावली (ग्रा.पं.: Baoli)","gp_id":"gp-baoli","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250621"]},
+{"id":"lgd-119287","type":"village","name_en":"Mahavatpur (GP)","name_hi":"Mahavatpur (ग्राम पंचायत)","gp_id":"gp-mahavatpur","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250621"]},
+{"id":"lgd-119288","type":"village","name_en":"Rustampur (GP)","name_hi":"Rustampur (ग्राम पंचायत)","gp_id":"gp-rustampur","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250621"]},
+{"id":"lgd-119289","type":"village","name_en":"Loyan (GP)","name_hi":"Loyan (ग्राम पंचायत)","gp_id":"gp-loyan","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119290","type":"village","name_en":"Malakpur (GP)","name_hi":"Malakpur (ग्राम पंचायत)","gp_id":"gp-malakpur","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119291","type":"village","name_en":"Shabga (GP)","name_hi":"Shabga (ग्राम पंचायत)","gp_id":"gp-shabga","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119292","type":"village","name_en":"Sadikpur Sinoli (GP: Sadakpur Sinoli)","name_hi":"सादिक पुर सिनौली (ग्रा.पं.: Sadakpur Sinoli)","gp_id":"gp-sadakpur-sinoli","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119293","type":"village","name_en":"Jafarpur Odhapur (GP)","name_hi":"Jafarpur Odhapur (ग्राम पंचायत)","gp_id":"gp-jafarpur-odhapur","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119294","type":"village","name_en":"Jagos (GP)","name_hi":"Jagos (ग्राम पंचायत)","gp_id":"gp-jagos","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119295","type":"village","name_en":"Adilabad (GP: Jafarpur Odhapur)","name_hi":"Adilabad (ग्रा.पं.: Jafarpur Odhapur)","gp_id":"gp-jafarpur-odhapur","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119296","type":"village","name_en":"Chaubli (GP)","name_hi":"Chaubli (ग्राम पंचायत)","gp_id":"gp-chaubli","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119297","type":"village","name_en":"Kotana (GP)","name_hi":"Kotana (ग्राम पंचायत)","gp_id":"gp-kotana","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119298","type":"village","name_en":"Akbarpur Thasaka (GP: Luhari)","name_hi":"Akbarpur Thasaka (ग्रा.पं.: Luhari)","gp_id":"gp-luhari","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119299","type":"village","name_en":"Bohla (GP: Chaubli)","name_hi":"Bohla (ग्रा.पं.: Chaubli)","gp_id":"gp-chaubli","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119300","type":"village","name_en":"Sadatpur Jonmana (GP: Sadakpur Jonmana)","name_hi":"सादतपुर जोनमाना (ग्रा.पं.: Sadakpur Jonmana)","gp_id":"gp-sadakpur-jonmana","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119302","type":"village","name_en":"Dhikana (GP)","name_hi":"Dhikana (ग्राम पंचायत)","gp_id":"gp-dhikana","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119303","type":"village","name_en":"Luhari (GP)","name_hi":"Luhari (ग्राम पंचायत)","gp_id":"gp-luhari","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"lgd-119304","type":"village","name_en":"Kheri Pradhan (GP: Kotana)","name_hi":"Kheri Pradhan (ग्रा.पं.: Kotana)","gp_id":"gp-kotana","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119305","type":"village","name_en":"Asafpur Kharkhari (GP)","name_hi":"Asafpur Kharkhari (ग्राम पंचायत)","gp_id":"gp-asafpur-kharkhari","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119306","type":"village","name_en":"Bijrol (GP)","name_hi":"Bijrol (ग्राम पंचायत)","gp_id":"gp-bijrol","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250620"]},
+{"id":"lgd-119307","type":"village","name_en":"Jalalpur (GP)","name_hi":"Jalalpur (ग्राम पंचायत)","gp_id":"gp-jalalpur","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119308","type":"village","name_en":"Lohadda (GP)","name_hi":"Lohadda (ग्राम पंचायत)","gp_id":"gp-lohadda","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119309","type":"village","name_en":"Vazidpur (GP)","name_hi":"Vazidpur (ग्राम पंचायत)","gp_id":"gp-vazidpur","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119310","type":"village","name_en":"Mirapur (GP)","name_hi":"Mirapur (ग्राम पंचायत)","gp_id":"gp-chhaprauli","block_id":"chhaprauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119311","type":"village","name_en":"Angadpur (GP)","name_hi":"Angadpur (ग्राम पंचायत)","gp_id":"gp-angadpur","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119312","type":"village","name_en":"Johri (GP)","name_hi":"Johri (ग्राम पंचायत)","gp_id":"gp-johri","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119313","type":"village","name_en":"Arifpur Kheri (GP)","name_hi":"Arifpur Kheri (ग्राम पंचायत)","gp_id":"gp-arifpur-kheri","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119314","type":"village","name_en":"Barawad (GP)","name_hi":"Barawad (ग्राम पंचायत)","gp_id":"gp-barawad","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119315","type":"village","name_en":"Latifpur Sabha Kheri (GP: Gurana)","name_hi":"Latifpur Sabha Kheri (ग्रा.पं.: Gurana)","gp_id":"gp-gurana","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119316","type":"village","name_en":"Gurana (GP)","name_hi":"Gurana (ग्राम पंचायत)","gp_id":"gp-gurana","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119317","type":"village","name_en":"Baraka (GP)","name_hi":"Baraka (ग्राम पंचायत)","gp_id":"gp-baraka","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119318","type":"village","name_en":"Shahpur Baroli (GP)","name_hi":"Shahpur Baroli (ग्राम पंचायत)","gp_id":"gp-shahpur-baroli","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119319","type":"village","name_en":"Debigarh Urf Phalera (GP: Baraka)","name_hi":"Debigarh Urf Phalera (ग्रा.पं.: Baraka)","gp_id":"gp-baraka","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119320","type":"village","name_en":"Idrispur (GP)","name_hi":"Idrispur (ग्राम पंचायत)","gp_id":"gp-idrispur","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119321","type":"village","name_en":"Hilwari (GP)","name_hi":"Hilwari (ग्राम पंचायत)","gp_id":"gp-hilwari","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119322","type":"village","name_en":"Osika (GP)","name_hi":"Osika (ग्राम पंचायत)","gp_id":"gp-osika","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119323","type":"village","name_en":"Bam (GP)","name_hi":"Bam (ग्राम पंचायत)","gp_id":"gp-bam","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119324","type":"village","name_en":"Alawalpur (GP)","name_hi":"Alawalpur (ग्राम पंचायत)","gp_id":"gp-alawalpur","block_id":"baraut","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119325","type":"village","name_en":"Himmatpur (GP: Sujti)","name_hi":"Himmatpur (ग्रा.पं.: Sujti)","gp_id":"gp-sujti","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250625"]},
+{"id":"lgd-119327","type":"village","name_en":"Sujti (GP)","name_hi":"Sujti (ग्राम पंचायत)","gp_id":"gp-sujti","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250625"]},
+{"id":"lgd-119328","type":"village","name_en":"Gangnauli (GP)","name_hi":"Gangnauli (ग्राम पंचायत)","gp_id":"gp-gangnauli","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250625"]},
+{"id":"lgd-119329","type":"village","name_en":"Mozizabad Nagal (GP)","name_hi":"Mozizabad Nagal (ग्राम पंचायत)","gp_id":"gp-mozizabad-nagal","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250625"]},
+{"id":"lgd-119330","type":"village","name_en":"Idrishpur (GP)","name_hi":"Idrishpur (ग्राम पंचायत)","gp_id":"gp-idrishpur","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119331","type":"village","name_en":"Nirpura (GP)","name_hi":"Nirpura (ग्राम पंचायत)","gp_id":"gp-nirpura","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250625"]},
+{"id":"lgd-119332","type":"village","name_en":"Bhadal (GP)","name_hi":"Bhadal (ग्राम पंचायत)","gp_id":"gp-bhadal","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119333","type":"village","name_en":"Dhanaura Tikri (GP)","name_hi":"Dhanaura Tikri (ग्राम पंचायत)","gp_id":"gp-dhanaura-tikri","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119334","type":"village","name_en":"Kheri Chittam (GP: Daha)","name_hi":"Kheri Chittam (ग्रा.पं.: Daha)","gp_id":"gp-daha","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119335","type":"village","name_en":"Daha (GP)","name_hi":"Daha (ग्राम पंचायत)","gp_id":"gp-daha","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119336","type":"village","name_en":"Gaidabra (GP)","name_hi":"Gaidabra (ग्राम पंचायत)","gp_id":"gp-gaidabra","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119337","type":"village","name_en":"Tabelagarhi (GP)","name_hi":"Tabelagarhi (ग्राम पंचायत)","gp_id":"gp-tabelagarhi","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119338","type":"village","name_en":"Bopura (GP)","name_hi":"Bopura (ग्राम पंचायत)","gp_id":"gp-bopura","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119339","type":"village","name_en":"Gadhi Kangran (GP: Garhi Kanmaran)","name_hi":"गढी कांगरान (ग्रा.पं.: Garhi Kanmaran)","gp_id":"gp-garhi-kanmaran","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119340","type":"village","name_en":"Fauladnagar (GP)","name_hi":"Fauladnagar (ग्राम पंचायत)","gp_id":"gp-fauladnagar","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119341","type":"village","name_en":"Sarora (GP: Tabelagarhi)","name_hi":"Sarora (ग्रा.पं.: Tabelagarhi)","gp_id":"gp-tabelagarhi","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119342","type":"village","name_en":"Jhundpur (GP)","name_hi":"Jhundpur (ग्राम पंचायत)","gp_id":"gp-jhundpur","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119343","type":"village","name_en":"Milana (GP)","name_hi":"Milana (ग्राम पंचायत)","gp_id":"gp-milana","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119344","type":"village","name_en":"Mujaffarpur Kanwara (GP)","name_hi":"Mujaffarpur Kanwara (ग्राम पंचायत)","gp_id":"gp-mujaffarpur-kanwara","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119345","type":"village","name_en":"Palra (GP)","name_hi":"Palra (ग्राम पंचायत)","gp_id":"gp-palra","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119346","type":"village","name_en":"Azampur Mulsam (GP)","name_hi":"Azampur Mulsam (ग्राम पंचायत)","gp_id":"gp-azampur-mulsam","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119347","type":"village","name_en":"Mohammadpur Khunti (GP: Azampur Mulsam)","name_hi":"Mohammadpur Khunti (ग्रा.पं.: Azampur Mulsam)","gp_id":"gp-azampur-mulsam","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119348","type":"village","name_en":"Jaibabad (GP: Jhundpur)","name_hi":"Jaibabad (ग्रा.पं.: Jhundpur)","gp_id":"gp-jhundpur","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119349","type":"village","name_en":"Khaprana (GP: Khaparana)","name_hi":"Khaprana (ग्रा.पं.: Khaparana)","gp_id":"gp-khaparana","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119351","type":"village","name_en":"Kanhar Talibpur (GP)","name_hi":"Kanhar Talibpur (ग्राम पंचायत)","gp_id":"gp-kanhar-talibpur","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119352","type":"village","name_en":"Palri (GP)","name_hi":"Palri (ग्राम पंचायत)","gp_id":"gp-palri","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119353","type":"village","name_en":"Pusar (GP)","name_hi":"Pusar (ग्राम पंचायत)","gp_id":"gp-pusar","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119354","type":"village","name_en":"Adampur (GP)","name_hi":"Adampur (ग्राम पंचायत)","gp_id":"gp-adampur","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119355","type":"village","name_en":"Bamnauli (GP)","name_hi":"Bamnauli (ग्राम पंचायत)","gp_id":"gp-bamnauli","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250620"]},
+{"id":"lgd-119356","type":"village","name_en":"Sirsali (GP)","name_hi":"Sirsali (ग्राम पंचायत)","gp_id":"gp-sirsali","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119357","type":"village","name_en":"Ranchhar (GP)","name_hi":"Ranchhar (ग्राम पंचायत)","gp_id":"gp-ranchhar","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119358","type":"village","name_en":"Rahatna (GP)","name_hi":"Rahatna (ग्राम पंचायत)","gp_id":"gp-rahatna","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119359","type":"village","name_en":"Mangrauli (GP)","name_hi":"Mangrauli (ग्राम पंचायत)","gp_id":"gp-mangrauli","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119360","type":"village","name_en":"Shahjahanpur (GP: Shahjahapur)","name_hi":"Shahjahanpur (ग्रा.पं.: Shahjahapur)","gp_id":"gp-shahjahapur","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119361","type":"village","name_en":"Chandayan (GP)","name_hi":"Chandayan (ग्राम पंचायत)","gp_id":"gp-chandayan","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119362","type":"village","name_en":"Kohnabad (GP: Jhundpur)","name_hi":"Kohnabad (ग्रा.पं.: Jhundpur)","gp_id":"gp-jhundpur","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119363","type":"village","name_en":"Shahpur Banganga (GP)","name_hi":"Shahpur Banganga (ग्राम पंचायत)","gp_id":"gp-shahpur-banganga","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119364","type":"village","name_en":"Baranawa (GP)","name_hi":"Baranawa (ग्राम पंचायत)","gp_id":"gp-baranawa","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119365","type":"village","name_en":"Begamabad Garhi (GP)","name_hi":"Begamabad Garhi (ग्राम पंचायत)","gp_id":"gp-begamabad-garhi","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"lgd-119366","type":"village","name_en":"Dadri (GP)","name_hi":"Dadri (ग्राम पंचायत)","gp_id":"gp-dadri","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119367","type":"village","name_en":"Fakharpur Shaikhpura (GP)","name_hi":"Fakharpur Shaikhpura (ग्राम पंचायत)","gp_id":"gp-fakharpur-shaikhpura","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119368","type":"village","name_en":"Binauli (GP)","name_hi":"Binauli (ग्राम पंचायत)","gp_id":"gp-binauli","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119369","type":"village","name_en":"Pichokra (GP)","name_hi":"Pichokra (ग्राम पंचायत)","gp_id":"gp-pichokra","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119370","type":"village","name_en":"Jiwana (GP)","name_hi":"Jiwana (ग्राम पंचायत)","gp_id":"gp-jiwana","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119371","type":"village","name_en":"Malmazra (GP: Malmazara)","name_hi":"Malmazra (ग्रा.पं.: Malmazara)","gp_id":"gp-malmazara","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119372","type":"village","name_en":"Sirsal Darkaoda (GP)","name_hi":"Sirsal Darkaoda (ग्राम पंचायत)","gp_id":"gp-sirsal-darkaoda","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119373","type":"village","name_en":"Mahakar (GP: Makhar)","name_hi":"महाकर (ग्रा.पं.: Makhar)","gp_id":"gp-makhar","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119374","type":"village","name_en":"Bijwara (GP)","name_hi":"Bijwara (ग्राम पंचायत)","gp_id":"gp-bijwara","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119375","type":"village","name_en":"Fazalpur (GP)","name_hi":"Fazalpur (ग्राम पंचायत)","gp_id":"gp-fazalpur","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119376","type":"village","name_en":"Titrouda (GP)","name_hi":"Titrouda (ग्राम पंचायत)","gp_id":"gp-titrouda","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119377","type":"village","name_en":"Nagla Rawa (GP)","name_hi":"Nagla Rawa (ग्राम पंचायत)","gp_id":"gp-nagla-rawa","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119378","type":"village","name_en":"Muzaffarpur Poes (GP)","name_hi":"Muzaffarpur Poes (ग्राम पंचायत)","gp_id":"gp-muzaffarpur-poes","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119379","type":"village","name_en":"Tera (GP)","name_hi":"Tera (ग्राम पंचायत)","gp_id":"gp-tera","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250609"]},
+{"id":"lgd-119380","type":"village","name_en":"Galheta (GP)","name_hi":"Galheta (ग्राम पंचायत)","gp_id":"gp-galheta","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119381","type":"village","name_en":"Jainuddinpur Chirchiya (GP: Jainuddinpur Chirchita)","name_hi":"Jainuddinpur Chirchiya (ग्रा.पं.: Jainuddinpur Chirchita)","gp_id":"gp-jainuddinpur-chirchita","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119382","type":"village","name_en":"Ahamadabad Garhi (GP: Sirsal Darkaoda)","name_hi":"Ahamadabad Garhi (ग्रा.पं.: Sirsal Darkaoda)","gp_id":"gp-sirsal-darkaoda","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119383","type":"village","name_en":"Muzaffarpur Kambala (GP)","name_hi":"Muzaffarpur Kambala (ग्राम पंचायत)","gp_id":"gp-muzaffarpur-kambala","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119384","type":"village","name_en":"Ibrahima Bad Gawri (GP: Muzaffarpur Kambala)","name_hi":"Ibrahima Bad Gawri (ग्रा.पं.: Muzaffarpur Kambala)","gp_id":"gp-muzaffarpur-kambala","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"lgd-119385","type":"village","name_en":"Sanjarpur Kaidwa (GP)","name_hi":"Sanjarpur Kaidwa (ग्राम पंचायत)","gp_id":"gp-sanjarpur-kaidwa","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119386","type":"village","name_en":"Hazurabad Garhi (GP)","name_hi":"Hazurabad Garhi (ग्राम पंचायत)","gp_id":"gp-hazurabad-garhi","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119387","type":"village","name_en":"Mawi Kalan (GP)","name_hi":"Mawi Kalan (ग्राम पंचायत)","gp_id":"gp-mawi-kalan","block_id":"binauli","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250609"]},
+{"id":"lgd-119388","type":"village","name_en":"Rajpur Khampur (GP)","name_hi":"Rajpur Khampur (ग्राम पंचायत)","gp_id":"gp-rajpur-khampur","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119389","type":"village","name_en":"Kherae Islampur (GP)","name_hi":"Kherae Islampur (ग्राम पंचायत)","gp_id":"gp-kherae-islampur","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250619"]},
+{"id":"lgd-119390","type":"village","name_en":"Sultanpur Hatana (GP)","name_hi":"Sultanpur Hatana (ग्राम पंचायत)","gp_id":"gp-sultanpur-hatana","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250619"]},
+{"id":"lgd-119391","type":"village","name_en":"Biharipur (GP)","name_hi":"Biharipur (ग्राम पंचायत)","gp_id":"gp-biharipur","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250619"]},
+{"id":"lgd-119392","type":"village","name_en":"Faizpur Ninana (GP)","name_hi":"Faizpur Ninana (ग्राम पंचायत)","gp_id":"gp-faizpur-ninana","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250619"]},
+{"id":"lgd-119393","type":"village","name_en":"Tyodhi (GP)","name_hi":"Tyodhi (ग्राम पंचायत)","gp_id":"gp-tyodhi","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119394","type":"village","name_en":"Shikohpur (GP)","name_hi":"Shikohpur (ग्राम पंचायत)","gp_id":"gp-shikohpur","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119395","type":"village","name_en":"Hasanpur Jakhaira Urf Chandpur (GP: Kheriki)","name_hi":"Hasanpur Jakhaira Urf Chandpur (ग्रा.पं.: Kheriki)","gp_id":"gp-kheriki","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"lgd-119396","type":"village","name_en":"Kheriki (GP)","name_hi":"Kheriki (ग्राम पंचायत)","gp_id":"gp-kheriki","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250619"]},
+{"id":"lgd-119397","type":"village","name_en":"Saroorpur Kalan (GP)","name_hi":"Saroorpur Kalan (ग्राम पंचायत)","gp_id":"gp-saroorpur-kalan","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250619"]},
+{"id":"lgd-119398","type":"village","name_en":"Faizullapur (GP)","name_hi":"Faizullapur (ग्राम पंचायत)","gp_id":"gp-faizullapur","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250619"]},
+{"id":"lgd-119399","type":"village","name_en":"Nethla (GP)","name_hi":"Nethla (ग्राम पंचायत)","gp_id":"gp-nethla","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250619"]},
+{"id":"lgd-119400","type":"village","name_en":"Sadullapur (GP: Dhodra)","name_hi":"Sadullapur (ग्रा.पं.: Dhodra)","gp_id":"gp-dhodra","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119401","type":"village","name_en":"Dhodra (GP)","name_hi":"Dhodra (ग्राम पंचायत)","gp_id":"gp-dhodra","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119402","type":"village","name_en":"Ahamadpur Gathina (GP)","name_hi":"Ahamadpur Gathina (ग्राम पंचायत)","gp_id":"gp-ahamadpur-gathina","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119403","type":"village","name_en":"Qyampur (GP)","name_hi":"Qyampur (ग्राम पंचायत)","gp_id":"gp-qyampur","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119404","type":"village","name_en":"Sujra (GP)","name_hi":"Sujra (ग्राम पंचायत)","gp_id":"gp-sujra","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119405","type":"village","name_en":"Jahangarh Urf Doja (GP)","name_hi":"Jahangarh Urf Doja (ग्राम पंचायत)","gp_id":"gp-jahangarh-urf-doja","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119406","type":"village","name_en":"Bari Nangla (GP: Jahangarh Urf Doja)","name_hi":"Bari Nangla (ग्रा.पं.: Jahangarh Urf Doja)","gp_id":"gp-jahangarh-urf-doja","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119407","type":"village","name_en":"Fatehpur Poothi (GP)","name_hi":"Fatehpur Poothi (ग्राम पंचायत)","gp_id":"gp-fatehpur-poothi","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119408","type":"village","name_en":"Dhanaura Silvernagar (GP)","name_hi":"Dhanaura Silvernagar (ग्राम पंचायत)","gp_id":"gp-dhanaura-silvernagar","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119409","type":"village","name_en":"Gwali Khera (GP)","name_hi":"Gwali Khera (ग्राम पंचायत)","gp_id":"gp-gwali-khera","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119410","type":"village","name_en":"Budhera (GP)","name_hi":"Budhera (ग्राम पंचायत)","gp_id":"gp-budhera","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"lgd-119411","type":"village","name_en":"Kanoli (GP: Bichpari)","name_hi":"Kanoli (ग्रा.पं.: Bichpari)","gp_id":"gp-bichpari","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119412","type":"village","name_en":"Bichpari (GP)","name_hi":"Bichpari (ग्राम पंचायत)","gp_id":"gp-bichpari","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119413","type":"village","name_en":"Jafarabad Nangla (GP)","name_hi":"Jafarabad Nangla (ग्राम पंचायत)","gp_id":"gp-jafarabad-nangla","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119414","type":"village","name_en":"Karam Alipur (GP)","name_hi":"Karam Alipur (ग्राम पंचायत)","gp_id":"gp-karam-alipur","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119415","type":"village","name_en":"Chopra Maheshpur (GP)","name_hi":"Chopra Maheshpur (ग्राम पंचायत)","gp_id":"gp-chopra-maheshpur","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119416","type":"village","name_en":"Gyasri Urf Gadhi (GP: Gyasi Urf Gadhi)","name_hi":"Gyasri Urf Gadhi (ग्रा.पं.: Gyasi Urf Gadhi)","gp_id":"gp-gyasi-urf-gadhi","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119417","type":"village","name_en":"Mukarampur (GP: Baghu)","name_hi":"Mukarampur (ग्रा.पं.: Baghu)","gp_id":"gp-baghu","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119418","type":"village","name_en":"Poothi Brahmnan (GP)","name_hi":"Poothi Brahmnan (ग्राम पंचायत)","gp_id":"gp-poothi-brahmnan","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119419","type":"village","name_en":"Niwali (GP)","name_hi":"Niwali (ग्राम पंचायत)","gp_id":"gp-niwali","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119420","type":"village","name_en":"Ahamadshahpur Padra (GP)","name_hi":"Ahamadshahpur Padra (ग्राम पंचायत)","gp_id":"gp-ahamadshahpur-padra","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119421","type":"village","name_en":"Ladhwari (GP)","name_hi":"Ladhwari (ग्राम पंचायत)","gp_id":"gp-ladhwari","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250619"]},
+{"id":"lgd-119422","type":"village","name_en":"Norozpur Goorjar (GP)","name_hi":"Norozpur Goorjar (ग्राम पंचायत)","gp_id":"gp-norozpur-goorjar","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119423","type":"village","name_en":"Santoshpur (GP)","name_hi":"Santoshpur (ग्राम पंचायत)","gp_id":"gp-santoshpur","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250609"]},
+{"id":"lgd-119424","type":"village","name_en":"Gauripur (GP: Goripur Jawahar Nagar)","name_hi":"Gauripur (ग्रा.पं.: Goripur Jawahar Nagar)","gp_id":"gp-goripur-jawahar-nagar","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119425","type":"village","name_en":"Niwara (GP)","name_hi":"Niwara (ग्राम पंचायत)","gp_id":"gp-niwara","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250619"]},
+{"id":"lgd-119426","type":"village","name_en":"Sisana (GP)","name_hi":"Sisana (ग्राम पंचायत)","gp_id":"gp-sisana","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250609"]},
+{"id":"lgd-119427","type":"village","name_en":"Baghu (GP)","name_hi":"Baghu (ग्राम पंचायत)","gp_id":"gp-baghu","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250609"]},
+{"id":"lgd-119428","type":"village","name_en":"Khandwari (GP: Sisana)","name_hi":"Khandwari (ग्रा.पं.: Sisana)","gp_id":"gp-sisana","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250609"]},
+{"id":"lgd-119429","type":"village","name_en":"Pali (GP)","name_hi":"Pali (ग्राम पंचायत)","gp_id":"gp-pali","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250609"]},
+{"id":"lgd-119431","type":"village","name_en":"Jawaharpur Mewla (GP: Bali)","name_hi":"Jawaharpur Mewla (ग्रा.पं.: Bali)","gp_id":"gp-bali","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119432","type":"village","name_en":"Bali (GP)","name_hi":"Bali (ग्राम पंचायत)","gp_id":"gp-bali","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119433","type":"village","name_en":"Meetli (GP)","name_hi":"Meetli (ग्राम पंचायत)","gp_id":"gp-meetli","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119434","type":"village","name_en":"Rampur Khurd (GP: Meetli)","name_hi":"Rampur Khurd (ग्रा.पं.: Meetli)","gp_id":"gp-meetli","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119435","type":"village","name_en":"Goripur Jawahar Nagar (GP: Gauripur Habibpur)","name_hi":"Goripur Jawahar Nagar (ग्रा.पं.: Gauripur Habibpur)","gp_id":"gp-gauripur-habibpur","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250619"]},
+{"id":"lgd-119436","type":"village","name_en":"Habibpur Majra (GP: Gauripur Habibpur)","name_hi":"Habibpur Majra (ग्रा.पं.: Gauripur Habibpur)","gp_id":"gp-gauripur-habibpur","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250626"]},
+{"id":"lgd-119437","type":"village","name_en":"Soorajpur Mahanwa (GP)","name_hi":"Soorajpur Mahanwa (ग्राम पंचायत)","gp_id":"gp-soorajpur-mahanwa","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119438","type":"village","name_en":"Qasamabad Urf Dudba (GP: Ahera)","name_hi":"Qasamabad Urf Dudba (ग्रा.पं.: Ahera)","gp_id":"gp-ahera","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250609"]},
+{"id":"lgd-119439","type":"village","name_en":"Baghpat (Rural) Hamedabad Mill (GP)","name_hi":"Baghpat (Rural) Hamedabad Mill (ग्राम पंचायत)","gp_id":"gp-baghpat-rural-hamedabad-mill","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250609"]},
+{"id":"lgd-119440","type":"village","name_en":"Ahera (GP)","name_hi":"Ahera (ग्राम पंचायत)","gp_id":"gp-ahera","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250609"]},
+{"id":"lgd-119441","type":"village","name_en":"Choulhada (GP)","name_hi":"Choulhada (ग्राम पंचायत)","gp_id":"gp-choulhada","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119442","type":"village","name_en":"Pawla Begmabad (GP)","name_hi":"Pawla Begmabad (ग्राम पंचायत)","gp_id":"gp-pawla-begmabad","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"lgd-119443","type":"village","name_en":"Bilochpura (GP)","name_hi":"Bilochpura (ग्राम पंचायत)","gp_id":"gp-bilochpura","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119444","type":"village","name_en":"Basaud (GP)","name_hi":"Basaud (ग्राम पंचायत)","gp_id":"gp-basaud","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119445","type":"village","name_en":"Gospur (GP)","name_hi":"Gospur (ग्राम पंचायत)","gp_id":"gp-gospur","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119446","type":"village","name_en":"Daula (GP)","name_hi":"Daula (ग्राम पंचायत)","gp_id":"gp-daula","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"lgd-119447","type":"village","name_en":"Fatehpur Majra (GP)","name_hi":"Fatehpur Majra (ग्राम पंचायत)","gp_id":"gp-fatehpur-mazra","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119448","type":"village","name_en":"Khindora (GP)","name_hi":"Khindora (ग्राम पंचायत)","gp_id":"gp-khindora","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119449","type":"village","name_en":"Ramnagar (GP)","name_hi":"Ramnagar (ग्राम पंचायत)","gp_id":"gp-ramnagar","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119450","type":"village","name_en":"Tilpani (GP)","name_hi":"Tilpani (ग्राम पंचायत)","gp_id":"gp-tilpani","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119451","type":"village","name_en":"Barsia (GP)","name_hi":"Barsia (ग्राम पंचायत)","gp_id":"gp-barsia","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119452","type":"village","name_en":"Luhara (GP)","name_hi":"Luhara (ग्राम पंचायत)","gp_id":"gp-luhara","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119454","type":"village","name_en":"Chakrasenpur Khurd (GP: Salawatpur Kheri)","name_hi":"Chakrasenpur Khurd (ग्रा.पं.: Salawatpur Kheri)","gp_id":"gp-salawatpur-kheri","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119455","type":"village","name_en":"Hisawada (GP)","name_hi":"Hisawada (ग्राम पंचायत)","gp_id":"gp-hisawada","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"lgd-119456","type":"village","name_en":"Dilavar Nagar (GP: Matanat Nagar)","name_hi":"Dilavar Nagar (ग्रा.पं.: Matanat Nagar)","gp_id":"gp-matanat-nagar","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119457","type":"village","name_en":"Mavi Khurd (GP)","name_hi":"Mavi Khurd (ग्राम पंचायत)","gp_id":"gp-mavi-khurd","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119458","type":"village","name_en":"Pura (GP)","name_hi":"Pura (ग्राम पंचायत)","gp_id":"gp-pura","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119459","type":"village","name_en":"Kansa Poothi (GP: Mavi Khurd)","name_hi":"Kansa Poothi (ग्रा.पं.: Mavi Khurd)","gp_id":"gp-mavi-khurd","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119460","type":"village","name_en":"Matanat Nagar (GP)","name_hi":"Matanat Nagar (ग्राम पंचायत)","gp_id":"gp-matanat-nagar","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119461","type":"village","name_en":"Budhseni (GP)","name_hi":"Budhseni (ग्राम पंचायत)","gp_id":"gp-budhseni","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119462","type":"village","name_en":"Saidbhar (GP)","name_hi":"Saidbhar (ग्राम पंचायत)","gp_id":"gp-saidbhar","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119463","type":"village","name_en":"Singhaoli Ahir (GP)","name_hi":"Singhaoli Ahir (ग्राम पंचायत)","gp_id":"gp-singhaoli-ahir","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119464","type":"village","name_en":"Shahjahanpur Tisotra Urf Nwada (GP: Shahjahanpur Tisotra Urf Nawada)","name_hi":"Shahjahanpur Tisotra Urf Nwada (ग्रा.पं.: Shahjahanpur Tisotra Urf Nawada)","gp_id":"gp-shahjahanpur-tisotra-urf-nawada","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119465","type":"village","name_en":"Haria Khera (GP)","name_hi":"Haria Khera (ग्राम पंचायत)","gp_id":"gp-haria-khera","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250626"]},
+{"id":"lgd-119466","type":"village","name_en":"Amipur Baleni (GP)","name_hi":"Amipur Baleni (ग्राम पंचायत)","gp_id":"gp-amipur-baleni","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250626"]},
+{"id":"lgd-119467","type":"village","name_en":"Mozzampur Urf Ladpur (GP: Amipur Baleni)","name_hi":"Mozzampur Urf Ladpur (ग्रा.पं.: Amipur Baleni)","gp_id":"gp-amipur-baleni","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250626"]},
+{"id":"lgd-119468","type":"village","name_en":"Bakharpur Baleni (GP: Baleni)","name_hi":"बाखरपुर बालेनी (ग्रा.पं.: Baleni)","gp_id":"gp-baleni","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250626"]},
+{"id":"lgd-119469","type":"village","name_en":"Habibpur Nagla (GP)","name_hi":"Habibpur Nagla (ग्राम पंचायत)","gp_id":"gp-habibpur-nagla","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250626"]},
+{"id":"lgd-119470","type":"village","name_en":"Dolcha (GP)","name_hi":"Dolcha (ग्राम पंचायत)","gp_id":"gp-dolcha","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250626"]},
+{"id":"lgd-119471","type":"village","name_en":"Mukarmatpur Chakbandi (GP: Dolcha)","name_hi":"Mukarmatpur Chakbandi (ग्रा.पं.: Dolcha)","gp_id":"gp-dolcha","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250626"]},
+{"id":"lgd-119472","type":"village","name_en":"Poother (GP)","name_hi":"Poother (ग्राम पंचायत)","gp_id":"gp-poother","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119473","type":"village","name_en":"Maniyar Bari (GP: Pilana)","name_hi":"Maniyar Bari (ग्रा.पं.: Pilana)","gp_id":"gp-pilana","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"lgd-119474","type":"village","name_en":"Jonmani (GP: Pilana)","name_hi":"Jonmani (ग्रा.पं.: Pilana)","gp_id":"gp-pilana","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"lgd-119475","type":"village","name_en":"Pilana (GP)","name_hi":"Pilana (ग्राम पंचायत)","gp_id":"gp-pilana","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"lgd-119476","type":"village","name_en":"Muradgaon Urf Roshangarh (GP)","name_hi":"Muradgaon Urf Roshangarh (ग्राम पंचायत)","gp_id":"gp-muradgaon-urf-roshangarh","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119477","type":"village","name_en":"Khera Viran (GP: Singhaoli Ahir)","name_hi":"Khera Viran (ग्रा.पं.: Singhaoli Ahir)","gp_id":"gp-singhaoli-ahir","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119478","type":"village","name_en":"Daulatpur (GP)","name_hi":"Daulatpur (ग्राम पंचायत)","gp_id":"gp-daulatpur","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119479","type":"village","name_en":"Saidpurkhurd Urf Nathmalpur (GP: Makarandpur Ogti)","name_hi":"Saidpurkhurd Urf Nathmalpur (ग्रा.पं.: Makarandpur Ogti)","gp_id":"gp-makarandpur-ogti","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119480","type":"village","name_en":"Rasoolpur Sankal Poothi (GP)","name_hi":"Rasoolpur Sankal Poothi (ग्राम पंचायत)","gp_id":"gp-rasoolpur-sankal-poothi","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119481","type":"village","name_en":"Basetikri (GP)","name_hi":"Basetikri (ग्राम पंचायत)","gp_id":"gp-basetikri","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"lgd-119482","type":"village","name_en":"Khatta Prahladpur (GP)","name_hi":"Khatta Prahladpur (ग्राम पंचायत)","gp_id":"gp-khatta-prahladpur","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"lgd-119483","type":"village","name_en":"Abdullapur Mewla (GP)","name_hi":"Abdullapur Mewla (ग्राम पंचायत)","gp_id":"gp-abdullapur-mevla","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119484","type":"village","name_en":"Kalyanpur (GP: Khatta Prahladpur)","name_hi":"Kalyanpur (ग्रा.पं.: Khatta Prahladpur)","gp_id":"gp-khatta-prahladpur","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"lgd-119485","type":"village","name_en":"Salawatpur Kheri (GP)","name_hi":"Salawatpur Kheri (ग्राम पंचायत)","gp_id":"gp-salawatpur-kheri","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119486","type":"village","name_en":"Sikhera (GP)","name_hi":"Sikhera (ग्राम पंचायत)","gp_id":"gp-sikhera","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"lgd-119487","type":"village","name_en":"Pathhouli (GP: Sikhera)","name_hi":"Pathhouli (ग्रा.पं.: Sikhera)","gp_id":"gp-sikhera","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119488","type":"village","name_en":"Makarandpur Ogti (GP)","name_hi":"Makarandpur Ogti (ग्राम पंचायत)","gp_id":"gp-makarandpur-ogti","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119489","type":"village","name_en":"Muzaffarpur Urf Ladpur (GP: Dhikoli)","name_hi":"Muzaffarpur Urf Ladpur (ग्रा.पं.: Dhikoli)","gp_id":"gp-dhikoli","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"lgd-119490","type":"village","name_en":"Dhikoli (GP)","name_hi":"Dhikoli (ग्राम पंचायत)","gp_id":"gp-dhikoli","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"lgd-119491","type":"village","name_en":"Ukaoli (GP: Dhikoli)","name_hi":"Ukaoli (ग्रा.पं.: Dhikoli)","gp_id":"gp-dhikoli","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"lgd-119492","type":"village","name_en":"Panchi (GP)","name_hi":"Panchi (ग्राम पंचायत)","gp_id":"gp-panchi","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"lgd-119493","type":"village","name_en":"Khaspur (GP: Panchi)","name_hi":"Khaspur (ग्रा.पं.: Panchi)","gp_id":"gp-panchi","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"lgd-119494","type":"village","name_en":"Sultanpur (GP: Latifpur Dattnagar)","name_hi":"Sultanpur (ग्रा.पं.: Latifpur Dattnagar)","gp_id":"gp-latifpur-dattnagar","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250626"]},
+{"id":"lgd-119495","type":"village","name_en":"Ghatoli (GP)","name_hi":"Ghatoli (ग्राम पंचायत)","gp_id":"gp-ghatoli","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250626"]},
+{"id":"lgd-119496","type":"village","name_en":"Mukari (GP)","name_hi":"Mukari (ग्राम पंचायत)","gp_id":"gp-mukari","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250626"]},
+{"id":"lgd-119497","type":"village","name_en":"Latifpur Dattnagar (GP)","name_hi":"Latifpur Dattnagar (ग्राम पंचायत)","gp_id":"gp-latifpur-dattnagar","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250626"]},
+{"id":"lgd-119498","type":"village","name_en":"Kaharka (GP)","name_hi":"Kaharka (ग्राम पंचायत)","gp_id":"gp-kaharka","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250626"]},
+{"id":"lgd-119499","type":"village","name_en":"Harsia (GP: Kaharka)","name_hi":"Harsia (ग्रा.पं.: Kaharka)","gp_id":"gp-kaharka","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250626"]},
+{"id":"lgd-119500","type":"village","name_en":"Chamrawal (GP)","name_hi":"Chamrawal (ग्राम पंचायत)","gp_id":"gp-chamrawal","block_id":"pilana","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"lgd-119501","type":"village","name_en":"Nagla Bahlolpur (GP: Katha)","name_hi":"Nagla Bahlolpur (ग्रा.पं.: Katha)","gp_id":"gp-katha","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250609"]},
+{"id":"lgd-119502","type":"village","name_en":"Katha (GP)","name_hi":"Katha (ग्राम पंचायत)","gp_id":"gp-katha","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250609"]},
+{"id":"lgd-119503","type":"village","name_en":"Harchandpur (GP)","name_hi":"Harchandpur (ग्राम पंचायत)","gp_id":"gp-harchandpur","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250609"]},
+{"id":"lgd-119504","type":"village","name_en":"Sunehra (GP)","name_hi":"Sunehra (ग्राम पंचायत)","gp_id":"gp-sunehra","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119505","type":"village","name_en":"Anandpur Urf Bandpur (GP)","name_hi":"Anandpur Urf Bandpur (ग्राम पंचायत)","gp_id":"gp-anandpur-urf-bandpur","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119506","type":"village","name_en":"Mavikala (GP)","name_hi":"Mavikala (ग्राम पंचायत)","gp_id":"gp-mavikala","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250609"]},
+{"id":"lgd-119508","type":"village","name_en":"Sikanderpur (GP: Fakharpur Mohammad Shahpur)","name_hi":"Sikanderpur (ग्रा.पं.: Fakharpur Mohammad Shahpur)","gp_id":"gp-fakharpur-mohammad-shahpur","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119509","type":"village","name_en":"Sankrod (GP)","name_hi":"Sankrod (ग्राम पंचायत)","gp_id":"gp-sankrod","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119510","type":"village","name_en":"Qutubpur Viran (GP: Sankrod)","name_hi":"Qutubpur Viran (ग्रा.पं.: Sankrod)","gp_id":"gp-sankrod","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119511","type":"village","name_en":"Fakharpur Viran (GP: Fakharpur Mohammad Shahpur)","name_hi":"Fakharpur Viran (ग्रा.पं.: Fakharpur Mohammad Shahpur)","gp_id":"gp-fakharpur-mohammad-shahpur","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119512","type":"village","name_en":"Noorpur Muzbida (GP)","name_hi":"Noorpur Muzbida (ग्राम पंचायत)","gp_id":"gp-noorpur-muzbida","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119513","type":"village","name_en":"Noorpur Khalsa (GP: Noorpur Muzbida)","name_hi":"Noorpur Khalsa (ग्रा.पं.: Noorpur Muzbida)","gp_id":"gp-noorpur-muzbida","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119514","type":"village","name_en":"Hasanpur Masoori (GP)","name_hi":"Hasanpur Masoori (ग्राम पंचायत)","gp_id":"gp-hasanpur-masoori","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119515","type":"village","name_en":"Jahangirpur Urf Dunda Hera (GP)","name_hi":"Jahangirpur Urf Dunda Hera (ग्राम पंचायत)","gp_id":"gp-jahangirpur-urf-dunda-hera","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119516","type":"village","name_en":"Hazipur Viran (GP: Jahangirpur Urf Dunda Hera)","name_hi":"Hazipur Viran (ग्रा.पं.: Jahangirpur Urf Dunda Hera)","gp_id":"gp-jahangirpur-urf-dunda-hera","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119517","type":"village","name_en":"Abdullapur (GP: Noorpur Muzbida)","name_hi":"Abdullapur (ग्रा.पं.: Noorpur Muzbida)","gp_id":"gp-noorpur-muzbida","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119518","type":"village","name_en":"Subhanpur (GP)","name_hi":"Subhanpur (ग्राम पंचायत)","gp_id":"gp-subhanpur","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119519","type":"village","name_en":"Basi (GP)","name_hi":"Basi (ग्राम पंचायत)","gp_id":"gp-basi","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119520","type":"village","name_en":"Maharampur (GP)","name_hi":"Maharampur (ग्राम पंचायत)","gp_id":"gp-maharampur","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"lgd-119521","type":"village","name_en":"Saidpur Kalan (GP)","name_hi":"Saidpur Kalan (ग्राम पंचायत)","gp_id":"gp-saidpur-kalan","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119522","type":"village","name_en":"Rawan Urf Baragoan (GP)","name_hi":"Rawan Urf Baragoan (ग्राम पंचायत)","gp_id":"gp-rawan-urf-baragoan","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119523","type":"village","name_en":"Khaila (GP)","name_hi":"Khaila (ग्राम पंचायत)","gp_id":"gp-khaila","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119524","type":"village","name_en":"Nagla Baheri (GP: Mubarikpur)","name_hi":"Nagla Baheri (ग्रा.पं.: Mubarikpur)","gp_id":"gp-mubarikpur","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119525","type":"village","name_en":"Mubarikpur (GP)","name_hi":"Mubarikpur (ग्राम पंचायत)","gp_id":"gp-mubarikpur","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119526","type":"village","name_en":"Norozpur Aima (GP)","name_hi":"Norozpur Aima (ग्राम पंचायत)","gp_id":"gp-norozpur-aima","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119527","type":"village","name_en":"Fakharpur Mohammad Shahpur (GP)","name_hi":"Fakharpur Mohammad Shahpur (ग्राम पंचायत)","gp_id":"gp-fakharpur-mohammad-shahpur","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119528","type":"village","name_en":"Firozpur (GP)","name_hi":"Firozpur (ग्राम पंचायत)","gp_id":"gp-firozpur","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119529","type":"village","name_en":"Nagla Badi (GP)","name_hi":"Nagla Badi (ग्राम पंचायत)","gp_id":"gp-nagla-badi","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119530","type":"village","name_en":"Ahamadnagar (GP)","name_hi":"Ahamadnagar (ग्राम पंचायत)","gp_id":"gp-ahamadnagar","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119531","type":"village","name_en":"Gothra (GP)","name_hi":"Gothra (ग्राम पंचायत)","gp_id":"gp-gothra","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119532","type":"village","name_en":"Ghitora (GP)","name_hi":"Ghitora (ग्राम पंचायत)","gp_id":"gp-ghitora","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119533","type":"village","name_en":"Rataul (GP)","name_hi":"Rataul (ग्राम पंचायत)","gp_id":"gp-khekra","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119534","type":"village","name_en":"Sheikhpuri (GP)","name_hi":"Sheikhpuri (ग्राम पंचायत)","gp_id":"gp-khekra","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119535","type":"village","name_en":"Nagla Vahan (GP)","name_hi":"Nagla Vahan (ग्राम पंचायत)","gp_id":"gp-khekra","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119536","type":"village","name_en":"Bhairapur (GP)","name_hi":"Bhairapur (ग्राम पंचायत)","gp_id":"gp-bhairapur","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119537","type":"village","name_en":"Vinaipur (GP)","name_hi":"Vinaipur (ग्राम पंचायत)","gp_id":"gp-vinaipur","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119538","type":"village","name_en":"Tigri (GP: Dagarpur)","name_hi":"Tigri (ग्रा.पं.: Dagarpur)","gp_id":"gp-dagarpur","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119539","type":"village","name_en":"Dagarpur (GP)","name_hi":"Dagarpur (ग्राम पंचायत)","gp_id":"gp-dagarpur","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119540","type":"village","name_en":"Mansoorpur (GP)","name_hi":"Mansoorpur (ग्राम पंचायत)","gp_id":"gp-mansoorpur","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119541","type":"village","name_en":"Lahchauda (GP)","name_hi":"Lahchauda (ग्राम पंचायत)","gp_id":"gp-lahchauda","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119542","type":"village","name_en":"Lalyana (GP)","name_hi":"Lalyana (ग्राम पंचायत)","gp_id":"gp-lalyana","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"lgd-119543","type":"village","name_en":"Shahbanpur (GP: Gauna)","name_hi":"Shahbanpur (ग्रा.पं.: Gauna)","gp_id":"gp-gauna","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119544","type":"village","name_en":"Gauna (GP)","name_hi":"Gauna (ग्राम पंचायत)","gp_id":"gp-gauna","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119545","type":"village","name_en":"Singholi Taga (GP)","name_hi":"Singholi Taga (ग्राम पंचायत)","gp_id":"gp-singholi-taga","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119546","type":"village","name_en":"Alamgirpur Urf Tukali (GP: Phulera)","name_hi":"Alamgirpur Urf Tukali (ग्रा.पं.: Phulera)","gp_id":"gp-phulera","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119547","type":"village","name_en":"Sharfabad (GP)","name_hi":"Sharfabad (ग्राम पंचायत)","gp_id":"gp-sharfabad","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119548","type":"village","name_en":"Phulera (GP)","name_hi":"Phulera (ग्राम पंचायत)","gp_id":"gp-phulera","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119549","type":"village","name_en":"Bhagot (GP)","name_hi":"Bhagot (ग्राम पंचायत)","gp_id":"gp-bhagot","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119550","type":"village","name_en":"Poornpur Nawada (GP)","name_hi":"Poornpur Nawada (ग्राम पंचायत)","gp_id":"gp-poornpur-nawada","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119551","type":"village","name_en":"Garhi Kalanjri (GP)","name_hi":"Garhi Kalanjri (ग्राम पंचायत)","gp_id":"gp-garhi-kalanjri","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"lgd-119552","type":"village","name_en":"Nagla Agri (GP: Bhagot)","name_hi":"Nagla Agri (ग्रा.पं.: Bhagot)","gp_id":"gp-bhagot","block_id":"khekra","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"po-baghpat-duttnagar","type":"village","name_en":"Duttnagar (Post / GP Area)","name_hi":"Duttnagar (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250626"]},
+{"id":"po-baghpat-mukri","type":"village","name_en":"Mukri (Post / GP Area)","name_hi":"Mukri (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250626"]},
+{"id":"po-baghpat-basaudh","type":"village","name_en":"Basaudh (Post / GP Area)","name_hi":"Basaudh (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"po-baghpat-garhi","type":"village","name_en":"Garhi (Post / GP Area)","name_hi":"Garhi (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"po-baghpat-barnawa","type":"village","name_en":"Barnawa (Post / GP Area)","name_hi":"Barnawa (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"po-baghpat-chandyan","type":"village","name_en":"Chandyan (Post / GP Area)","name_hi":"Chandyan (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"po-baghpat-hisawda","type":"village","name_en":"Hisawda (Post / GP Area)","name_hi":"Hisawda (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"po-baghpat-bharal","type":"village","name_en":"Bharal (Post / GP Area)","name_hi":"Bharal (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"po-baghpat-kanhar","type":"village","name_en":"Kanhar (Post / GP Area)","name_hi":"Kanhar (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"po-baghpat-fakharpur","type":"village","name_en":"Fakharpur (Post / GP Area)","name_hi":"Fakharpur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"po-baghpat-garhi-kalanjiri","type":"village","name_en":"Garhi Kalanjiri (Post / GP Area)","name_hi":"Garhi Kalanjiri (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"po-baghpat-khera-hatana","type":"village","name_en":"Khera Hatana (Post / GP Area)","name_hi":"Khera Hatana (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250619"]},
+{"id":"po-baghpat-shahpur-badholi","type":"village","name_en":"Shahpur Badholi (Post / GP Area)","name_hi":"Shahpur Badholi (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"po-baghpat-ram-nagar","type":"village","name_en":"Ram Nagar (Post / GP Area)","name_hi":"Ram Nagar (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"po-baghpat-baghpat-sugar-mill","type":"village","name_en":"Baghpat Sugar Mill (Post / GP Area)","name_hi":"Baghpat Sugar Mill (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250609"]},
+{"id":"po-baghpat-sherpur-luhari","type":"village","name_en":"Sherpur Luhari (Post / GP Area)","name_hi":"Sherpur Luhari (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"po-baghpat-begmabad-garhi","type":"village","name_en":"Begmabad Garhi (Post / GP Area)","name_hi":"Begmabad Garhi (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"po-baghpat-kasimpur-khari","type":"village","name_en":"Kasimpur Khari (Post / GP Area)","name_hi":"Kasimpur Khari (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"po-baghpat-barka","type":"village","name_en":"Barka (Post / GP Area)","name_hi":"Barka (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"po-baghpat-dohja","type":"village","name_en":"Dohja (Post / GP Area)","name_hi":"Dohja (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"po-baghpat-dhanaura-silver-nagar","type":"village","name_en":"Dhanaura Silver Nagar (Post / GP Area)","name_hi":"Dhanaura Silver Nagar (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"po-baghpat-alwalpur","type":"village","name_en":"Alwalpur (Post / GP Area)","name_hi":"Alwalpur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"po-baghpat-sadiqpur-sinoli","type":"village","name_en":"Sadiqpur Sinoli (Post / GP Area)","name_hi":"Sadiqpur Sinoli (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"po-baghpat-nerojpur-gujar","type":"village","name_en":"Nerojpur Gujar (Post / GP Area)","name_hi":"Nerojpur Gujar (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"po-baghpat-garhi-hazurabad","type":"village","name_en":"Garhi Hazurabad (Post / GP Area)","name_hi":"Garhi Hazurabad (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"po-baghpat-sirsalgarh","type":"village","name_en":"Sirsalgarh (Post / GP Area)","name_hi":"Sirsalgarh (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"po-baghpat-kurri","type":"village","name_en":"Kurri (Post / GP Area)","name_hi":"Kurri (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250617"]},
+{"id":"po-baghpat-pabla-begmabad","type":"village","name_en":"Pabla Begmabad (Post / GP Area)","name_hi":"Pabla Begmabad (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250615"]},
+{"id":"po-baghpat-bassi","type":"village","name_en":"Bassi (Post / GP Area)","name_hi":"Bassi (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"po-baghpat-budhpur","type":"village","name_en":"Budhpur (Post / GP Area)","name_hi":"Budhpur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250623"]},
+{"id":"po-baghpat-kherki","type":"village","name_en":"Kherki (Post / GP Area)","name_hi":"Kherki (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250619"]},
+{"id":"po-baghpat-mozizabad-nangal","type":"village","name_en":"Mozizabad Nangal (Post / GP Area)","name_hi":"Mozizabad Nangal (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250625"]},
+{"id":"po-baghpat-audhapur","type":"village","name_en":"Audhapur (Post / GP Area)","name_hi":"Audhapur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"po-baghpat-jaunmana","type":"village","name_en":"Jaunmana (Post / GP Area)","name_hi":"Jaunmana (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"po-baghpat-teodhi","type":"village","name_en":"Teodhi (Post / GP Area)","name_hi":"Teodhi (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"po-baghpat-bazidpur","type":"village","name_en":"Bazidpur (Post / GP Area)","name_hi":"Bazidpur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250611"]},
+{"id":"po-baghpat-nibali","type":"village","name_en":"Nibali (Post / GP Area)","name_hi":"Nibali (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250601"]},
+{"id":"po-baghpat-budhsaini","type":"village","name_en":"Budhsaini (Post / GP Area)","name_hi":"Budhsaini (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250606"]},
+{"id":"po-baghpat-khatta","type":"village","name_en":"Khatta (Post / GP Area)","name_hi":"Khatta (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250609"]},
+{"id":"po-baghpat-kandera","type":"village","name_en":"Kandera (Post / GP Area)","name_hi":"Kandera (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250620"]},
+{"id":"po-baghpat-muzampur-kamala","type":"village","name_en":"Muzampur Kamala (Post / GP Area)","name_hi":"Muzampur Kamala (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250345"]},
+{"id":"po-baghpat-gaidbara","type":"village","name_en":"Gaidbara (Post / GP Area)","name_hi":"Gaidbara (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250622"]},
+{"id":"po-baghpat-baragaon","type":"village","name_en":"Baragaon (Post / GP Area)","name_hi":"Baragaon (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"po-baghpat-sankrodh","type":"village","name_en":"Sankrodh (Post / GP Area)","name_hi":"Sankrodh (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-baghpat","block_id":"baghpat","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"gram_panchayat","pincodes":["250101"]},
+{"id":"ward-baghpat-ulb-baghpat-main","type":"ward","name_en":"Nagar Palika Parishad Baghpat (All Wards)","name_hi":"नगर पालिका बागपत (सभी वार्ड)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_palika_parishad"},
+{"id":"lgd-ulb-248969","type":"ward","name_en":"Chhaprauli (Nagar Panchayat)","name_hi":"Chhaprauli (नगर पंचायत)","ulb_id":"ulb-baghpat-main","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"nagar_panchayat","pincodes":["250617"]},
+{"id":"lgd-ulb-248970","type":"ward","name_en":"Tikri (Nagar Panchayat)","name_hi":"Tikri (नगर पंचायत)","ulb_id":"ulb-baghpat-main","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"nagar_panchayat","pincodes":["250625"]},
+{"id":"lgd-ulb-248971","type":"ward","name_en":"Doghat (Nagar Panchayat)","name_hi":"Doghat (नगर पंचायत)","ulb_id":"ulb-baghpat-main","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"nagar_panchayat","pincodes":["250622"]},
+{"id":"lgd-ulb-248972","type":"ward","name_en":"Baraut (Nagar Palika Parishad)","name_hi":"बड़ौत (नगर पालिका परिषद)","ulb_id":"ulb-baghpat-main","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250611"]},
+{"id":"lgd-ulb-248973","type":"ward","name_en":"Baghpat (Nagar Palika Parishad)","name_hi":"Baghpat (नगर पालिका परिषद)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250609"]},
+{"id":"lgd-ulb-248974","type":"ward","name_en":"Agarwal Mandi (Nagar Panchayat)","name_hi":"Agarwal Mandi (नगर पंचायत)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_panchayat","pincodes":["250601"]},
+{"id":"lgd-ulb-248975","type":"ward","name_en":"Aminagar Sarai (Nagar Panchayat)","name_hi":"Aminagar Sarai (नगर पंचायत)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_panchayat","pincodes":["250606"]},
+{"id":"lgd-ulb-297023","type":"ward","name_en":"Khekada (Nagar Palika Parishad)","name_hi":"Khekada (नगर पालिका परिषद)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250101"]},
+{"id":"lgd-ulb-297820","type":"ward","name_en":"Rataul (Nagar Panchayat)","name_hi":"Rataul (नगर पंचायत)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_panchayat","pincodes":["250101"]},
+{"id":"town-baghpat-baraut","type":"ward","name_en":"Baraut (Urban Area / SO)","name_hi":"Baraut (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250611"]},
+{"id":"town-baghpat-baleni","type":"ward","name_en":"Baleni (Urban Area / SO)","name_hi":"Baleni (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250626"]},
+{"id":"town-baghpat-khekra","type":"ward","name_en":"Khekra (Urban Area / SO)","name_hi":"Khekra (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"khekra","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250101"]},
+{"id":"town-baghpat-rly-road-khekra","type":"ward","name_en":"Rly Road Khekra (Urban Area / SO)","name_hi":"Rly Road Khekra (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"khekra","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250101"]},
+{"id":"town-baghpat-baghpat","type":"ward","name_en":"Baghpat (Urban Area / SO)","name_hi":"Baghpat (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250609"]},
+{"id":"town-baghpat-binauli","type":"ward","name_en":"Binauli (Urban Area / SO)","name_hi":"Binauli (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250345"]},
+{"id":"town-baghpat-dhikauli","type":"ward","name_en":"Dhikauli (Urban Area / SO)","name_hi":"Dhikauli (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250615"]},
+{"id":"town-baghpat-doghat","type":"ward","name_en":"Doghat (Urban Area / SO)","name_hi":"Doghat (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250622"]},
+{"id":"town-baghpat-tikri","type":"ward","name_en":"Tikri (Urban Area / SO)","name_hi":"Tikri (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250625"]},
+{"id":"town-baghpat-bamnauli","type":"ward","name_en":"Bamnauli (Urban Area / SO)","name_hi":"Bamnauli (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250620"]},
+{"id":"town-baghpat-kishanpur-baral","type":"ward","name_en":"Kishanpur Baral (Urban Area / SO)","name_hi":"Kishanpur Baral (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250623"]},
+{"id":"town-baghpat-nehru-rd-baraut","type":"ward","name_en":"Nehru Rd Baraut (Urban Area / SO)","name_hi":"Nehru Rd Baraut (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250611"]},
+{"id":"town-baghpat-sarurpur-kalan","type":"ward","name_en":"Sarurpur Kalan (Urban Area / SO)","name_hi":"Sarurpur Kalan (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250619"]},
+{"id":"town-baghpat-agarwal-mandi","type":"ward","name_en":"Agarwal Mandi (Urban Area / SO)","name_hi":"Agarwal Mandi (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250601"]},
+{"id":"town-baghpat-aminagar-sarai","type":"ward","name_en":"Aminagar Sarai (Urban Area / SO)","name_hi":"Aminagar Sarai (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250606"]},
+{"id":"town-baghpat-baoli","type":"ward","name_en":"Baoli (Urban Area / SO)","name_hi":"Baoli (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250621"]},
+{"id":"town-baghpat-chhaprauli","type":"ward","name_en":"Chhaprauli (Urban Area / SO)","name_hi":"Chhaprauli (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"baghpat","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250617"]},
+{"id":"town-baghpat-gandhi-chowk-baraut","type":"ward","name_en":"Gandhi Chowk Baraut (Urban Area / SO)","name_hi":"Gandhi Chowk Baraut (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250611"]},
+{"id":"town-baghpat-nai-mandi-baraut","type":"ward","name_en":"Nai Mandi Baraut (Urban Area / SO)","name_hi":"Nai Mandi Baraut (शहरी क्षेत्र)","ulb_id":"ulb-baghpat-main","tehsil_id":"baraut","district_id":"baghpat","local_body_type":"nagar_palika_parishad","pincodes":["250611"]}
 ]

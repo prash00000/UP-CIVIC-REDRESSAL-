@@ -68,4 +68,55 @@ test.describe("UP Civic Grievance E2E Flows", () => {
     }
     expect(rateLimited).toBe(true);
   });
+
+  test("Flow 4: Bottom problem card -> /issue/street-light -> select area & see callable officer + prefilled letter", async ({ page }) => {
+    await page.goto("/");
+
+    // Click the first problem card at the bottom of home
+    await page.locator("a[href*='/issue/street-light/']").click();
+    await expect(page).toHaveURL(/\/issue\/street-light\//);
+
+    // Inline location picker appears: pick Bulandshahr -> Khurja
+    const distInput = page.locator("input[role='combobox']").first();
+    await distInput.fill("Bulandshahr");
+    await page.locator("li[role='option']:has-text('Bulandshahr')").first().click();
+
+    // Click Towns / Wards filter and pick Khurja NPP
+    await page.locator("button:has-text('Towns / Wards')").click();
+    const placeInput = page.locator("input[role='combobox']").nth(1);
+    await expect(placeInput).toBeVisible();
+    await placeInput.fill("Khurja");
+    await page.locator("li[role='option']:has-text('Khurja')").first().click();
+
+    // Direct call button resolves right on the issue page (Khurja EO)
+    const callBtn = page.locator("main a[href^='tel:']").first();
+    await expect(callBtn).toBeVisible();
+
+    // Proceed to pre-filled Complaint Letter from inside <main>
+    await page.locator("main a[href^='/letter/']").first().click();
+    await expect(page).toHaveURL(/\/letter\/.*district=bulandshahr.*issue=street-light/);
+    await expect(page.locator("h1")).toContainText("Make a complaint letter");
+    await expect(page.locator("article")).toContainText("Bulandshahr");
+  });
+
+  test("Flow 5: Search real LGD village in Lucknow inside /find/?issue=garbage", async ({ page }) => {
+    await page.goto("/find/?issue=garbage");
+    await expect(page.locator("text=Active issue")).toBeVisible();
+
+    await page.locator("button:has-text('Gram Pradhan')").click();
+
+    const distInput = page.locator("input[role='combobox']");
+    await distInput.fill("Lucknow");
+    await page.locator("li[role='option']:has-text('Lucknow')").first().click();
+
+    // Step 3: Filter or search real LGD village in Lucknow
+    const villageInput = page.locator("input[role='combobox']");
+    await villageInput.fill("Mohanlalganj");
+    await page.locator("li[role='option']").first().click();
+
+    await expect(page.locator("h1")).toContainText("Your officers");
+    // Step 4 maintains garbage issue in next-step links (not hardcoded street-light)
+    const ladderHref = await page.locator("a[href*='/issue/']").first().getAttribute("href");
+    expect(ladderHref).toContain("/issue/garbage/");
+  });
 });

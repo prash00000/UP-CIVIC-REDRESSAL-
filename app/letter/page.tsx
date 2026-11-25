@@ -1,12 +1,15 @@
 "use client";
 
-import React, { useState, useEffect, Suspense } from "react";
+import React, { useState, useEffect, useMemo, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import { Card } from "@astryxdesign/core/Card";
 import { Button } from "@astryxdesign/core/Button";
 import { useT, useLang, getLocalized, formatDate } from "@/lib/i18n";
-import { DistrictData, Place, IssueSlug } from "@/lib/types";
+import { DistrictData, DistrictIndexEntry, Place, IssueSlug } from "@/lib/types";
 import { loadDistrictData, loadDistrictsIndex, loadPlacesData } from "@/lib/data";
+import { resolveOfficers } from "@/lib/resolver";
+import { getPrimaryOfficerForIssue } from "@/lib/issue-routing";
+import SearchSelect, { SearchOption } from "@/components/SearchSelect";
 import PrintSheet from "@/components/PrintSheet";
 
 const ISSUES_LIST: { slug: IssueSlug; labelKey: string }[] = [
@@ -44,46 +47,92 @@ function LetterContent() {
   const [earlierComplaint, setEarlierComplaint] = useState("");
   const [addressedTo, setAddressedTo] = useState(officerParam);
 
+  const [selectedDistId, setSelectedDistId] = useState(districtParam);
+  const [selectedPlaceId, setSelectedPlaceId] = useState(placeParam);
+  const [districtsIndex, setDistrictsIndex] = useState<DistrictIndexEntry[]>([]);
   const [districtData, setDistrictData] = useState<DistrictData | null>(null);
   const [places, setPlaces] = useState<Place[]>([]);
+  const [copied, setCopied] = useState(false);
 
-  // Load district and places data for prefilling
   useEffect(() => {
-    if (districtParam) {
-      Promise.all([
-        loadDistrictData(districtParam),
-        loadPlacesData(districtParam),
-        loadDistrictsIndex(),
-      ]).then(([d, p, idx]) => {
-        setDistrictData(d);
-        setPlaces(p);
-        const meta = idx.find((entry) => entry.id === districtParam);
-        if (meta) {
-          setDistrict(getLocalized(meta, "name", lang));
-        }
-      });
+    loadDistrictsIndex().then(setDistrictsIndex);
+  }, []);
+
+  // Load district and places data for prefilling (from URL or picker)
+  useEffect(() => {
+    if (!selectedDistId) {
+      setDistrictData(null);
+      setPlaces([]);
+      return;
     }
-  }, [districtParam, lang]);
+    Promise.all([
+      loadDistrictData(selectedDistId),
+      loadPlacesData(selectedDistId),
+    ]).then(([d, p]) => {
+      setDistrictData(d);
+      setPlaces(p);
+      const meta = districtsIndex.find((entry) => entry.id === selectedDistId);
+      if (meta) {
+        setDistrict(getLocalized(meta, "name", lang));
+      } else if (!district) {
+        setDistrict(selectedDistId);
+      }
+    });
+  }, [selectedDistId, districtsIndex, lang]);
 
-  // Prefill fields when place is loaded
+  const districtOptions: SearchOption[] = useMemo(
+    () =>
+      districtsIndex.map((d) => ({
+        id: d.id,
+        label: getLocalized(d, "name", lang),
+        searchValue: `${d.name_en} ${d.name_hi}`,
+      })),
+    [districtsIndex, lang]
+  );
+
+  const placeOptions: SearchOption[] = useMemo(
+    () =>
+      places.map((p) => ({
+        id: p.id,
+        label: getLocalized(p, "name", lang),
+        sublabel: p.block_id ? `Block: ${p.block_id}` : p.ulb_id || p.tehsil_id,
+        searchValue: `${p.name_en} ${p.name_hi} ${p.block_id || ""} ${p.gp_id || ""}`,
+      })),
+    [places, lang]
+  );
+
+  // Prefill fields when place or issue resolves exact competent officer
   useEffect(() => {
-    if (places.length > 0 && placeParam) {
-      const pl = places.find((p) => p.id === placeParam);
+    if (selectedPlaceId && places.length > 0) {
+      const pl = places.find((p) => p.id === selectedPlaceId);
       if (pl) {
         setVillageOrWard(getLocalized(pl, "name", lang));
         setLocalBody(pl.gp_id || pl.ulb_id || "");
         setBlockOrTehsil(pl.block_id || pl.tehsil_id || "");
+        if (districtData && !officerParam) {
+          const res = resolveOfficers(
+            pl.local_body_type,
+            selectedDistId,
+            pl.id,
+            districtData,
+            places
+          );
+          const primary = getPrimaryOfficerForIssue(issue, res);
+          if (primary) {
+            setAddressedTo(getLocalized(primary.office, "office_name", lang));
+          }
+        }
       }
     }
-  }, [places, placeParam, lang]);
+  }, [places, selectedPlaceId, districtData, selectedDistId, issue, officerParam, lang]);
 
-  // Set default addressedTo if districtData is loaded
+  // Fallback default addressedTo when only districtData is loaded
   useEffect(() => {
     if (districtData?.offices && districtData.offices.length > 0 && !addressedTo) {
       const defaultOff =
-        districtData.offices.find((o) => o.role === "secretary") ||
         districtData.offices.find((o) => o.role === "bdo") ||
         districtData.offices.find((o) => o.role === "eo") ||
+        districtData.offices.find((o) => o.role === "dm") ||
         districtData.offices[0];
       if (defaultOff) {
         setAddressedTo(getLocalized(defaultOff, "office_name", lang));
@@ -103,6 +152,35 @@ function LetterContent() {
     blockOrTehsil ? blockOrTehsil + ", " : ""
   }${district || ""}`;
 
+  const handleCopyText = async () => {
+    const lines = [
+      t("letter.template.to"),
+      addressedTo || "[Competent Officer]",
+      `${blockOrTehsil ? `${blockOrTehsil}, ` : ""}${district || "Uttar Pradesh"}`,
+      "",
+      t("letter.template.subject", { issue: issueName }),
+      "",
+      t("letter.template.sir"),
+      "",
+      t("letter.template.p1", {
+        location: fullLocation || "[Location]",
+        issue: issueName,
+        date: formattedDate || "[Date]",
+      }),
+      locationDetails ? t("letter.template.p2", { locationDetails }) : "",
+      earlierComplaint ? t("letter.template.prior", { priorRef: earlierComplaint }) : "",
+      t("letter.template.p3"),
+      t("letter.template.p4"),
+      "",
+      `${t("letter.template.closing")} ${applicantName || ""}${mobile ? ` (${mobile})` : ""}`,
+    ].filter(Boolean);
+    try {
+      await navigator.clipboard.writeText(lines.join("\n"));
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2500);
+    } catch {}
+  };
+
   return (
     <div className="max-w-[840px] mx-auto space-y-8">
       {/* Page Title (hidden on print) */}
@@ -116,7 +194,29 @@ function LetterContent() {
       </div>
 
       {/* FORM INPUTS (hidden on print) */}
-      <section aria-label="Letter Form" className="no-print">
+      <section aria-label="Letter Form" className="no-print space-y-5">
+        {/* Built-in Quick Area Picker placed outside Card so dropdown never clips */}
+        <div className="p-4 rounded-[6px] bg-surface border border-border grid grid-cols-1 sm:grid-cols-2 gap-3 overflow-visible">
+          <SearchSelect
+            label={t("flow.selectDistrict")}
+            options={districtOptions}
+            value={selectedDistId || null}
+            onSelect={(opt) => {
+              setSelectedDistId(opt.id);
+              setSelectedPlaceId("");
+              setAddressedTo("");
+            }}
+          />
+          {selectedDistId && places.length > 0 && (
+            <SearchSelect
+              label={t("letter.pickPlaceOptional")}
+              options={placeOptions}
+              value={selectedPlaceId || null}
+              onSelect={(opt) => setSelectedPlaceId(opt.id)}
+            />
+          )}
+        </div>
+
         <Card padding={5} variant="default" elevation="none">
           <div className="space-y-4">
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -269,21 +369,38 @@ function LetterContent() {
           </div>
         </div>
 
-        <div className="pt-2 flex justify-end">
-          <Button
-            type="button"
-            variant="primary"
-            size="md"
-            label={t("letter.print")}
-            onClick={handlePrint}
-            icon={
-              <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <polyline points="6 9 6 2 18 2 18 9" />
-                <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2" />
-                <rect x="6" y="14" width="12" height="8" />
-              </svg>
-            }
-          />
+        <div className="pt-2 flex flex-wrap items-center justify-between gap-3">
+          <a
+            href="https://jansunwai.up.nic.in"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[14px] font-semibold text-[#154273] underline underline-offset-4 hover:text-[#0F3156]"
+          >
+            {t("results.jansunwaiLinkText")} ↗
+          </a>
+          <div className="flex flex-wrap items-center gap-2.5">
+            <Button
+              type="button"
+              variant="secondary"
+              size="md"
+              label={copied ? t("common.copied") : t("common.copyText")}
+              onClick={handleCopyText}
+            />
+            <Button
+              type="button"
+              variant="primary"
+              size="md"
+              label={t("letter.print")}
+              onClick={handlePrint}
+              icon={
+                <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                  <polyline points="6 9 6 2 18 2 18 9" />
+                  <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2" />
+                  <rect x="6" y="14" width="12" height="8" />
+                </svg>
+              }
+            />
+          </div>
         </div>
           </div>
         </Card>

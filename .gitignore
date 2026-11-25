@@ -4,3 +4,7 @@ out/
 .env*.local
 *.log
 .DS_Store
+.cache/
+test-results/
+playwright-report/
+tsconfig.tsbuildinfo

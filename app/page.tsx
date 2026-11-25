@@ -198,6 +198,7 @@ export default function HomePage() {
                 <Banner
                   status="success"
                   container="card"
+                  collapsible={false}
                   title={t(
                     pinState.kind === "exact" || pinState.kind === "live"
                       ? "flow.pincodeDetected"
@@ -209,7 +210,23 @@ export default function HomePage() {
                       ? t("flow.pincodeAreaHint", { area: pinState.localitySummary })
                       : undefined
                   }
-                />
+                >
+                  <div className="pt-1.5">
+                    <Button
+                      type="button"
+                      size="sm"
+                      variant="primary"
+                      label={`${t("flow.continueDistrict", { district: getDistrictName(pinState.matches[0].district_id) })} →`}
+                      onClick={() =>
+                        router.push(
+                          `/find/?pincode=${homePin.replace(/\D/g, "")}&district=${encodeURIComponent(
+                            pinState.matches[0].district_id
+                          )}`
+                        )
+                      }
+                    />
+                  </div>
+                </Banner>
               )}
 
               {pinState.matches.length > 1 && (
@@ -336,28 +353,37 @@ export default function HomePage() {
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {ISSUES.map((issue) => (
-            <Link
-              key={issue.slug}
-              href={`/issue/${issue.slug}/`}
-              className="p-5 rounded-[6px] border border-border bg-surface hover:border-[#154273] transition-colors flex items-start gap-4 group"
-            >
-              <div className="w-10 h-10 rounded-[4px] bg-[#EBF1F6] text-[#154273] flex items-center justify-center flex-shrink-0 border border-[#D9E3EC]">
-                {issue.icon}
-              </div>
-              <div className="min-w-0 flex-1">
-                <h3 className="font-semibold text-[17px] text-text group-hover:text-[#154273] transition-colors leading-snug">
-                  {t(issue.titleKey)}
-                </h3>
-                <span className="inline-flex items-center gap-1.5 text-[13px] font-semibold text-[#154273] mt-2">
-                  <span>{t("results.ladderBtn")}</span>
-                  <span aria-hidden="true" className="group-hover:translate-x-0.5 transition-transform">
-                    →
+          {ISSUES.map((issue) => {
+            const cleanPin = homePin.replace(/\D/g, "");
+            const issueHref =
+              cleanPin.length === 6 && pinState.matches.length === 1
+                ? `/issue/${issue.slug}/?district=${encodeURIComponent(
+                    pinState.matches[0].district_id
+                  )}&pincode=${cleanPin}`
+                : `/issue/${issue.slug}/`;
+            return (
+              <Link
+                key={issue.slug}
+                href={issueHref}
+                className="p-5 rounded-[6px] border border-border bg-surface hover:border-[#154273] transition-colors flex items-start gap-4 group"
+              >
+                <div className="w-10 h-10 rounded-[4px] bg-[#EBF1F6] text-[#154273] flex items-center justify-center flex-shrink-0 border border-[#D9E3EC]">
+                  {issue.icon}
+                </div>
+                <div className="min-w-0 flex-1">
+                  <h3 className="font-semibold text-[17px] text-text group-hover:text-[#154273] transition-colors leading-snug">
+                    {t(issue.titleKey)}
+                  </h3>
+                  <span className="inline-flex items-center gap-1.5 text-[13px] font-semibold text-[#154273] mt-2">
+                    <span>{t("home.issueActionBtn")}</span>
+                    <span aria-hidden="true" className="group-hover:translate-x-0.5 transition-transform">
+                      →
+                    </span>
                   </span>
-                </span>
-              </div>
-            </Link>
-          ))}
+                </div>
+              </Link>
+            );
+          })}
         </div>
       </section>
     </div>

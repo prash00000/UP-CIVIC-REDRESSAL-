@@ -1,1704 +1,310 @@
 [
-  {
-    "id": "v-ghaziabad-razapur",
-    "type": "village",
-    "name_en": "Razapur Block (Gram Panchayats)",
-    "name_hi": "Razapur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "v-ghaziabad-bhojpur",
-    "type": "village",
-    "name_en": "Bhojpur Block (Gram Panchayats)",
-    "name_hi": "Bhojpur विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bhojpur",
-    "block_id": "bhojpur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "v-ghaziabad-loni",
-    "type": "village",
-    "name_en": "Loni Block (Gram Panchayats)",
-    "name_hi": "Loni विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-loni",
-    "block_id": "loni",
-    "tehsil_id": "loni",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "v-ghaziabad-muradnagar",
-    "type": "village",
-    "name_en": "Muradnagar Block (Gram Panchayats)",
-    "name_hi": "Muradnagar विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-muradnagar",
-    "block_id": "muradnagar",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "po-ghaziabad-dundaheda",
-    "type": "village",
-    "name_en": "Dundaheda (Gram Panchayat Area)",
-    "name_hi": "Dundaheda (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201009"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-jindal-nagar",
-    "type": "village",
-    "name_en": "Jindal Nagar (Gram Panchayat Area)",
-    "name_hi": "Jindal Nagar (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201015"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-kushlia",
-    "type": "village",
-    "name_en": "Kushlia (Gram Panchayat Area)",
-    "name_hi": "Kushlia (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201015"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-ingrahm-institute",
-    "type": "village",
-    "name_en": "Ingrahm Institute (Gram Panchayat Area)",
-    "name_hi": "Ingrahm Institute (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201002"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-behta-hazipur",
-    "type": "village",
-    "name_en": "Behta Hazipur (Gram Panchayat Area)",
-    "name_hi": "Behta Hazipur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201102"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-mandola",
-    "type": "village",
-    "name_en": "Mandola (Gram Panchayat Area)",
-    "name_hi": "Mandola (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201102"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-kaila",
-    "type": "village",
-    "name_en": "Kaila (Gram Panchayat Area)",
-    "name_hi": "Kaila (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201009"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-nasratpura",
-    "type": "village",
-    "name_en": "Nasratpura (Gram Panchayat Area)",
-    "name_hi": "Nasratpura (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201009"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-nahal",
-    "type": "village",
-    "name_en": "Nahal (Gram Panchayat Area)",
-    "name_hi": "Nahal (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201015"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-rajapur",
-    "type": "village",
-    "name_en": "Rajapur (Gram Panchayat Area)",
-    "name_hi": "Rajapur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201002"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-sadarpur",
-    "type": "village",
-    "name_en": "Sadarpur (Gram Panchayat Area)",
-    "name_hi": "Sadarpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201002"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-shahpur-bamheta",
-    "type": "village",
-    "name_en": "Shahpur Bamheta (Gram Panchayat Area)",
-    "name_hi": "Shahpur Bamheta (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201002"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-badshahpur-siroli",
-    "type": "village",
-    "name_en": "Badshahpur Siroli (Gram Panchayat Area)",
-    "name_hi": "Badshahpur Siroli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201102"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-chirori",
-    "type": "village",
-    "name_en": "Chirori (Gram Panchayat Area)",
-    "name_hi": "Chirori (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201102"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-jaoli",
-    "type": "village",
-    "name_en": "Jaoli (Gram Panchayat Area)",
-    "name_hi": "Jaoli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201102"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-roja-yakoobpur",
-    "type": "village",
-    "name_en": "Roja Yakoobpur (Gram Panchayat Area)",
-    "name_hi": "Roja Yakoobpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201009"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-adhyatmik-nagar",
-    "type": "village",
-    "name_en": "Adhyatmik Nagar (Gram Panchayat Area)",
-    "name_hi": "Adhyatmik Nagar (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201015"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-dasna",
-    "type": "village",
-    "name_en": "Dasna (Gram Panchayat Area)",
-    "name_hi": "Dasna (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201015"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-aurangabad-ristal",
-    "type": "village",
-    "name_en": "Aurangabad Ristal (Gram Panchayat Area)",
-    "name_hi": "Aurangabad Ristal (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201003"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-bubkheri",
-    "type": "village",
-    "name_en": "BubKheri (Gram Panchayat Area)",
-    "name_hi": "BubKheri (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201003"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-chipiana",
-    "type": "village",
-    "name_en": "Chipiana (Gram Panchayat Area)",
-    "name_hi": "Chipiana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201009"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-dasna-gate",
-    "type": "village",
-    "name_en": "Dasna Gate (Gram Panchayat Area)",
-    "name_hi": "Dasna Gate (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201009"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-dasna-rs",
-    "type": "village",
-    "name_en": "Dasna RS (Gram Panchayat Area)",
-    "name_hi": "Dasna RS (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201015"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-hasanpur-bhowapur",
-    "type": "village",
-    "name_en": "Hasanpur Bhowapur (Gram Panchayat Area)",
-    "name_hi": "Hasanpur Bhowapur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201010"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-raispur",
-    "type": "village",
-    "name_en": "Raispur (Gram Panchayat Area)",
-    "name_hi": "Raispur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201002"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-teela-shahbazpur",
-    "type": "village",
-    "name_en": "Teela Shahbazpur (Gram Panchayat Area)",
-    "name_hi": "Teela Shahbazpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201102"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-atore-nangla",
-    "type": "village",
-    "name_en": "Atore Nangla (Gram Panchayat Area)",
-    "name_hi": "Atore Nangla (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201003"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-abupur",
-    "type": "village",
-    "name_en": "Abupur (Gram Panchayat Area)",
-    "name_hi": "Abupur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-noorpur",
-    "type": "village",
-    "name_en": "Noorpur (Gram Panchayat Area)",
-    "name_hi": "Noorpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-raoli-kalan",
-    "type": "village",
-    "name_en": "Raoli Kalan (Gram Panchayat Area)",
-    "name_hi": "Raoli Kalan (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-shahpur",
-    "type": "village",
-    "name_en": "Shahpur (Gram Panchayat Area)",
-    "name_hi": "Shahpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-sultanpur",
-    "type": "village",
-    "name_en": "Sultanpur (Gram Panchayat Area)",
-    "name_hi": "Sultanpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-surana",
-    "type": "village",
-    "name_en": "Surana (Gram Panchayat Area)",
-    "name_hi": "Surana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-atrauli",
-    "type": "village",
-    "name_en": "Atrauli (Gram Panchayat Area)",
-    "name_hi": "Atrauli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "245304"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-bhadaula",
-    "type": "village",
-    "name_en": "Bhadaula (Gram Panchayat Area)",
-    "name_hi": "Bhadaula (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "245304"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-churiyala",
-    "type": "village",
-    "name_en": "Churiyala (Gram Panchayat Area)",
-    "name_hi": "Churiyala (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201201"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-rori",
-    "type": "village",
-    "name_en": "Rori (Gram Panchayat Area)",
-    "name_hi": "Rori (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201201"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-saidpur",
-    "type": "village",
-    "name_en": "Saidpur (Gram Panchayat Area)",
-    "name_hi": "Saidpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201201"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-nagla-akhu",
-    "type": "village",
-    "name_en": "Nagla Akhu (Gram Panchayat Area)",
-    "name_hi": "Nagla Akhu (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201204"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-niwari",
-    "type": "village",
-    "name_en": "Niwari (Gram Panchayat Area)",
-    "name_hi": "Niwari (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201204"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-painga",
-    "type": "village",
-    "name_en": "Painga (Gram Panchayat Area)",
-    "name_hi": "Painga (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201204"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-shahjahanpur",
-    "type": "village",
-    "name_en": "Shahjahanpur (Gram Panchayat Area)",
-    "name_hi": "Shahjahanpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201204"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-bhadauli",
-    "type": "village",
-    "name_en": "Bhadauli (Gram Panchayat Area)",
-    "name_hi": "Bhadauli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-didauli",
-    "type": "village",
-    "name_en": "Didauli (Gram Panchayat Area)",
-    "name_hi": "Didauli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-kumhera",
-    "type": "village",
-    "name_en": "Kumhera (Gram Panchayat Area)",
-    "name_hi": "Kumhera (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-nekpur",
-    "type": "village",
-    "name_en": "Nekpur (Gram Panchayat Area)",
-    "name_hi": "Nekpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-farrukh-ng",
-    "type": "village",
-    "name_en": "Farrukh Ng (Gram Panchayat Area)",
-    "name_hi": "Farrukh Ng (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201003"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-nistauli",
-    "type": "village",
-    "name_en": "Nistauli (Gram Panchayat Area)",
-    "name_hi": "Nistauli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201003"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-basantpur-sainthli",
-    "type": "village",
-    "name_en": "Basantpur Sainthli (Gram Panchayat Area)",
-    "name_hi": "Basantpur Sainthli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-bhikanpur",
-    "type": "village",
-    "name_en": "Bhikanpur (Gram Panchayat Area)",
-    "name_hi": "Bhikanpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-khimawti",
-    "type": "village",
-    "name_en": "Khimawti (Gram Panchayat Area)",
-    "name_hi": "Khimawti (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-murad-nagar-town",
-    "type": "village",
-    "name_en": "Murad Nagar Town (Gram Panchayat Area)",
-    "name_hi": "Murad Nagar Town (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-muradnagar",
-    "block_id": "muradnagar",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-bhojpur",
-    "type": "village",
-    "name_en": "Bhojpur (Gram Panchayat Area)",
-    "name_hi": "Bhojpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-bhojpur",
-    "block_id": "bhojpur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "245304"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-faridnagar",
-    "type": "village",
-    "name_en": "Faridnagar (Gram Panchayat Area)",
-    "name_hi": "Faridnagar (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "245304"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-kalchina",
-    "type": "village",
-    "name_en": "Kalchina (Gram Panchayat Area)",
-    "name_hi": "Kalchina (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "245304"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-samaipur",
-    "type": "village",
-    "name_en": "Samaipur (Gram Panchayat Area)",
-    "name_hi": "Samaipur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "245304"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-meerpur-hindu",
-    "type": "village",
-    "name_en": "Meerpur Hindu (Gram Panchayat Area)",
-    "name_hi": "Meerpur Hindu (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201103"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-talheta",
-    "type": "village",
-    "name_en": "Talheta (Gram Panchayat Area)",
-    "name_hi": "Talheta (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201201"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-begmabad",
-    "type": "village",
-    "name_en": "Begmabad (Gram Panchayat Area)",
-    "name_hi": "Begmabad (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201204"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-khanjarpur",
-    "type": "village",
-    "name_en": "Khanjarpur (Gram Panchayat Area)",
-    "name_hi": "Khanjarpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201204"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-tibra",
-    "type": "village",
-    "name_en": "Tibra (Gram Panchayat Area)",
-    "name_hi": "Tibra (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201204"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-tyori",
-    "type": "village",
-    "name_en": "Tyori (Gram Panchayat Area)",
-    "name_hi": "Tyori (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "245304"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-pasonda",
-    "type": "village",
-    "name_en": "Pasonda (Gram Panchayat Area)",
-    "name_hi": "Pasonda (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201005"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-gyaspur",
-    "type": "village",
-    "name_en": "Gyaspur (Gram Panchayat Area)",
-    "name_hi": "Gyaspur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201204"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-morta",
-    "type": "village",
-    "name_en": "Morta (Gram Panchayat Area)",
-    "name_hi": "Morta (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201003"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-dosa-banjarpur",
-    "type": "village",
-    "name_en": "Dosa Banjarpur (Gram Panchayat Area)",
-    "name_hi": "Dosa Banjarpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-duhai",
-    "type": "village",
-    "name_en": "Duhai (Gram Panchayat Area)",
-    "name_hi": "Duhai (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-jalalabad",
-    "type": "village",
-    "name_en": "Jalalabad (Gram Panchayat Area)",
-    "name_hi": "Jalalabad (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-jalalpur-dhindhar",
-    "type": "village",
-    "name_en": "Jalalpur Dhindhar (Gram Panchayat Area)",
-    "name_hi": "Jalalpur Dhindhar (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-kakra",
-    "type": "village",
-    "name_en": "Kakra (Gram Panchayat Area)",
-    "name_hi": "Kakra (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-kanauja",
-    "type": "village",
-    "name_en": "Kanauja (Gram Panchayat Area)",
-    "name_hi": "Kanauja (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-mukimpur",
-    "type": "village",
-    "name_en": "Mukimpur (Gram Panchayat Area)",
-    "name_hi": "Mukimpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "245304"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-sara",
-    "type": "village",
-    "name_en": "Sara (Gram Panchayat Area)",
-    "name_hi": "Sara (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201201"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-sikri-kalan",
-    "type": "village",
-    "name_en": "Sikri Kalan (Gram Panchayat Area)",
-    "name_hi": "Sikri Kalan (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201204"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-sikri-khurd",
-    "type": "village",
-    "name_en": "Sikri Khurd (Gram Panchayat Area)",
-    "name_hi": "Sikri Khurd (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201204"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-khindora",
-    "type": "village",
-    "name_en": "Khindora (Gram Panchayat Area)",
-    "name_hi": "Khindora (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201204"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-patla",
-    "type": "village",
-    "name_en": "Patla (Gram Panchayat Area)",
-    "name_hi": "Patla (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201204"
-    ]
-  },
-  {
-    "id": "po-ghaziabad-saunda",
-    "type": "village",
-    "name_en": "Saunda (Gram Panchayat Area)",
-    "name_hi": "Saunda (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-razapur",
-    "block_id": "razapur",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "201204"
-    ]
-  },
-  {
-    "id": "ward-ghaziabad-nigam",
-    "type": "ward",
-    "name_en": "Ghaziabad Municipal Corporation (All Wards)",
-    "name_hi": "गाजियाबाद नगर निगम (सभी वार्ड)",
-    "ulb_id": "ghaziabad",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam"
-  },
-  {
-    "id": "ward-ghaziabad-ulb-ghaziabad-main",
-    "type": "ward",
-    "name_en": "Nagar Palika Parishad Ghaziabad (All Wards)",
-    "name_hi": "नगर पालिका गाजियाबाद (सभी वार्ड)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_palika_parishad"
-  },
-  {
-    "id": "town-ghaziabad-ndc-ghaziabad",
-    "type": "ward",
-    "name_en": "NDC Ghaziabad (Urban Ward / SO)",
-    "name_hi": "NDC Ghaziabad (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201001"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-ghaziabad",
-    "type": "ward",
-    "name_en": "Ghaziabad (Urban Ward / SO)",
-    "name_hi": "Ghaziabad (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201001"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-arya-nagar",
-    "type": "ward",
-    "name_en": "Arya Nagar (Urban Ward / SO)",
-    "name_hi": "Arya Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201009"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-ashok-nagar",
-    "type": "ward",
-    "name_en": "Ashok Nagar (Urban Ward / SO)",
-    "name_hi": "Ashok Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201001"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-chandra-nagar",
-    "type": "ward",
-    "name_en": "Chandra Nagar (Urban Ward / SO)",
-    "name_hi": "Chandra Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201011"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-hindon-nagar",
-    "type": "ward",
-    "name_en": "Hindon Nagar (Urban Ward / SO)",
-    "name_hi": "Hindon Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201015"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-loni",
-    "type": "ward",
-    "name_en": "Loni (Urban Ward / SO)",
-    "name_hi": "Loni (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "loni",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201102"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-model-town",
-    "type": "ward",
-    "name_en": "Model Town (Urban Ward / SO)",
-    "name_hi": "Model Town (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201018"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-tronica-city",
-    "type": "ward",
-    "name_en": "Tronica City (Urban Ward / SO)",
-    "name_hi": "Tronica City (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201103"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-vijay-nagar",
-    "type": "ward",
-    "name_en": "Vijay Nagar (Urban Ward / SO)",
-    "name_hi": "Vijay Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201009"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-crossings-republik",
-    "type": "ward",
-    "name_en": "Crossings Republik (Urban Ward / SO)",
-    "name_hi": "Crossings Republik (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201016"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-shastri-nagar",
-    "type": "ward",
-    "name_en": "Shastri Nagar (Urban Ward / SO)",
-    "name_hi": "Shastri Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201002"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-govindpuri",
-    "type": "ward",
-    "name_en": "Govindpuri (Urban Ward / SO)",
-    "name_hi": "Govindpuri (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201201"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-chikamberpur",
-    "type": "ward",
-    "name_en": "Chikamberpur (Urban Ward / SO)",
-    "name_hi": "Chikamberpur (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201006"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-ghaziabad-city",
-    "type": "ward",
-    "name_en": "Ghaziabad City (Urban Ward / SO)",
-    "name_hi": "Ghaziabad City (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "201009"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-govindpuram",
-    "type": "ward",
-    "name_en": "Govindpuram (Urban Ward / SO)",
-    "name_hi": "Govindpuram (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201013"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-new-raj-nagar",
-    "type": "ward",
-    "name_en": "New Raj Nagar (Urban Ward / SO)",
-    "name_hi": "New Raj Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201002"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-police-line-harsaon",
-    "type": "ward",
-    "name_en": "Police Line Harsaon (Urban Ward / SO)",
-    "name_hi": "Police Line Harsaon (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201002"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-raj-nagar-extension",
-    "type": "ward",
-    "name_en": "Raj Nagar Extension (Urban Ward / SO)",
-    "name_hi": "Raj Nagar Extension (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201017"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-vasundhra",
-    "type": "ward",
-    "name_en": "Vasundhra (Urban Ward / SO)",
-    "name_hi": "Vasundhra (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201012"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-raknpa",
-    "type": "ward",
-    "name_en": "RAKNPA (Urban Ward / SO)",
-    "name_hi": "RAKNPA (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201002"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-harmukhpuri",
-    "type": "ward",
-    "name_en": "Harmukhpuri (Urban Ward / SO)",
-    "name_hi": "Harmukhpuri (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201201"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-bharat-nagar",
-    "type": "ward",
-    "name_en": "Bharat Nagar (Urban Ward / SO)",
-    "name_hi": "Bharat Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201010"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-hindon-air-field",
-    "type": "ward",
-    "name_en": "Hindon Air Field (Urban Ward / SO)",
-    "name_hi": "Hindon Air Field (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201004"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-meerut-road",
-    "type": "ward",
-    "name_en": "Meerut Road (Urban Ward / SO)",
-    "name_hi": "Meerut Road (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201003"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-nehru-nagar",
-    "type": "ward",
-    "name_en": "Nehru Nagar (Urban Ward / SO)",
-    "name_hi": "Nehru Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201001"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-shipra-sun-city",
-    "type": "ward",
-    "name_en": "Shipra Sun City (Urban Ward / SO)",
-    "name_hi": "Shipra Sun City (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201014"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-khora",
-    "type": "ward",
-    "name_en": "Khora (Urban Ward / SO)",
-    "name_hi": "Khora (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201020"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-iesahibabad",
-    "type": "ward",
-    "name_en": "IESahibabad (Urban Ward / SO)",
-    "name_hi": "IESahibabad (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201010"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-kamla-nehru-nagar",
-    "type": "ward",
-    "name_en": "Kamla Nehru Nagar (Urban Ward / SO)",
-    "name_hi": "Kamla Nehru Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201002"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-kaushambi",
-    "type": "ward",
-    "name_en": "Kaushambi (Urban Ward / SO)",
-    "name_hi": "Kaushambi (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201010"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-kavi-nagar",
-    "type": "ward",
-    "name_en": "Kavi Nagar (Urban Ward / SO)",
-    "name_hi": "Kavi Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201002"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-mohan-nagar",
-    "type": "ward",
-    "name_en": "Mohan Nagar (Urban Ward / SO)",
-    "name_hi": "Mohan Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201007"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-murad-nagar-bazar",
-    "type": "ward",
-    "name_en": "Murad Nagar Bazar (Urban Ward / SO)",
-    "name_hi": "Murad Nagar Bazar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-murad-nagar",
-    "type": "ward",
-    "name_en": "Murad Nagar (Urban Ward / SO)",
-    "name_hi": "Murad Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201206"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-ramte-ram-road",
-    "type": "ward",
-    "name_en": "Ramte Ram Road (Urban Ward / SO)",
-    "name_hi": "Ramte Ram Road (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201001"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-sahibabad",
-    "type": "ward",
-    "name_en": "Sahibabad (Urban Ward / SO)",
-    "name_hi": "Sahibabad (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201005"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-vivekanand-nagar",
-    "type": "ward",
-    "name_en": "Vivekanand Nagar (Urban Ward / SO)",
-    "name_hi": "Vivekanand Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201002"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-bhopura",
-    "type": "ward",
-    "name_en": "Bhopura (Urban Ward / SO)",
-    "name_hi": "Bhopura (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201006"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-vaishali",
-    "type": "ward",
-    "name_en": "Vaishali (Urban Ward / SO)",
-    "name_hi": "Vaishali (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201019"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-abhay-khand-03",
-    "type": "ward",
-    "name_en": "Abhay Khand 03 (Urban Ward / SO)",
-    "name_hi": "Abhay Khand 03 (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "ghaziabad",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201021"
-    ]
-  },
-  {
-    "id": "town-ghaziabad-modi-nagar",
-    "type": "ward",
-    "name_en": "Modi Nagar (Urban Ward / SO)",
-    "name_hi": "Modi Nagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-ghaziabad-main",
-    "tehsil_id": "modinagar",
-    "district_id": "ghaziabad",
-    "local_body_type": "nagar_nigam",
-    "pincodes": [
-      "201204"
-    ]
-  }
+{"id":"block-ghaziabad-razapur","type":"village","name_en":"Razapur (Full Block / All Gram Panchayats)","name_hi":"Razapur (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat"},
+{"id":"block-ghaziabad-bhojpur","type":"village","name_en":"Bhojpur (Full Block / All Gram Panchayats)","name_hi":"Bhojpur (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-bhojpur","block_id":"bhojpur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat"},
+{"id":"block-ghaziabad-loni","type":"village","name_en":"Loni (Full Block / All Gram Panchayats)","name_hi":"Loni (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-loni","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat"},
+{"id":"block-ghaziabad-muradnagar","type":"village","name_en":"Muradnagar (Full Block / All Gram Panchayats)","name_hi":"Muradnagar (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-muradnagar","block_id":"muradnagar","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat"},
+{"id":"lgd-119553","type":"village","name_en":"Mataur (GP)","name_hi":"Mataur (ग्राम पंचायत)","gp_id":"gp-mataur","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119554","type":"village","name_en":"Mohammadpur Amad Baghpat (GP: Mataur)","name_hi":"Mohammadpur Amad Baghpat (ग्रा.पं.: Mataur)","gp_id":"gp-mataur","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119555","type":"village","name_en":"Khindaura (GP)","name_hi":"Khindaura (ग्राम पंचायत)","gp_id":"gp-khindaura","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119556","type":"village","name_en":"Jahalawa (GP: Jhalawa)","name_hi":"Jahalawa (ग्रा.पं.: Jhalawa)","gp_id":"gp-jhalawa","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119557","type":"village","name_en":"Kunhaida (GP)","name_hi":"Kunhaida (ग्राम पंचायत)","gp_id":"gp-kunhaida","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119558","type":"village","name_en":"Alapur (GP: Surana)","name_hi":"Alapur (ग्रा.पं.: Surana)","gp_id":"gp-surana","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119559","type":"village","name_en":"Surana (GP)","name_hi":"Surana (ग्राम पंचायत)","gp_id":"gp-surana","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119560","type":"village","name_en":"Kadarnagar Buradi (GP: Surana)","name_hi":"कादरनगर बुराड़ी (ग्रा.पं.: Surana)","gp_id":"gp-surana","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119561","type":"village","name_en":"Gyaspur (GP)","name_hi":"Gyaspur (ग्राम पंचायत)","gp_id":"gp-gyaspur","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119562","type":"village","name_en":"Asadpur Nagal (GP)","name_hi":"Asadpur Nagal (ग्राम पंचायत)","gp_id":"gp-asadpur-nagal","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119563","type":"village","name_en":"Puthri (GP)","name_hi":"Puthri (ग्राम पंचायत)","gp_id":"gp-puthri","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119564","type":"village","name_en":"Nagla Akkhu (GP)","name_hi":"Nagla Akkhu (ग्राम पंचायत)","gp_id":"gp-nagla-akkhu","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119565","type":"village","name_en":"Suhana (GP)","name_hi":"Suhana (ग्राम पंचायत)","gp_id":"gp-suhana","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119566","type":"village","name_en":"Bhanaira (GP)","name_hi":"Bhanaira (ग्राम पंचायत)","gp_id":"gp-bhanaira","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119567","type":"village","name_en":"Kumahaida (GP: Kumhaida)","name_hi":"कुम्हैड़ा (ग्रा.पं.: Kumhaida)","gp_id":"gp-kumhaida","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119568","type":"village","name_en":"Amirpur Garhi (GP: Kumhaida)","name_hi":"Amirpur Garhi (ग्रा.पं.: Kumhaida)","gp_id":"gp-kumhaida","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119569","type":"village","name_en":"Painga (GP)","name_hi":"Painga (ग्राम पंचायत)","gp_id":"gp-painga","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119570","type":"village","name_en":"Asifpur Ujaira (GP)","name_hi":"आसिफपुर उजैड़ा (ग्राम पंचायत)","gp_id":"gp-asifpur-ujaira","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119571","type":"village","name_en":"Saunda (GP)","name_hi":"Saunda (ग्राम पंचायत)","gp_id":"gp-saunda","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119572","type":"village","name_en":"Fatehpur (GP: Sikhaida Hajari)","name_hi":"Fatehpur (ग्रा.पं.: Sikhaida Hajari)","gp_id":"gp-sikhaida-hajari","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119573","type":"village","name_en":"Mohammadpur Kadim (GP)","name_hi":"Mohammadpur Kadim (ग्राम पंचायत)","gp_id":"gp-mohammadpur-kadim","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119574","type":"village","name_en":"Sikhaida Hajari (GP)","name_hi":"Sikhaida Hajari (ग्राम पंचायत)","gp_id":"gp-sikhaida-hajari","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119575","type":"village","name_en":"Kaithwadi (GP: Firozpur)","name_hi":"Kaithwadi (ग्रा.पं.: Firozpur)","gp_id":"gp-firozpur","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119576","type":"village","name_en":"Alawalpur (GP: Dabana)","name_hi":"Alawalpur (ग्रा.पं.: Dabana)","gp_id":"gp-dabana","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201304"]},
+{"id":"lgd-119577","type":"village","name_en":"Dabana (GP)","name_hi":"Dabana (ग्राम पंचायत)","gp_id":"gp-dabana","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119578","type":"village","name_en":"Firozpur (GP)","name_hi":"Firozpur (ग्राम पंचायत)","gp_id":"gp-firozpur","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119579","type":"village","name_en":"Didauli (GP)","name_hi":"Didauli (ग्राम पंचायत)","gp_id":"gp-didauli","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119580","type":"village","name_en":"Bandipur (GP)","name_hi":"Bandipur (ग्राम पंचायत)","gp_id":"gp-bandipur","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119581","type":"village","name_en":"Kakra (GP)","name_hi":"Kakra (ग्राम पंचायत)","gp_id":"gp-kakra","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119582","type":"village","name_en":"Shahzadpur (GP)","name_hi":"Shahzadpur (ग्राम पंचायत)","gp_id":"gp-shahzadpur","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119583","type":"village","name_en":"Sadabad Jakhaiva (GP: Abupur)","name_hi":"Sadabad Jakhaiva (ग्रा.पं.: Abupur)","gp_id":"gp-abupur","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119584","type":"village","name_en":"Suthari (GP)","name_hi":"Suthari (ग्राम पंचायत)","gp_id":"gp-suthari","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119585","type":"village","name_en":"Ravli Kalan (GP: Raoli Kalan)","name_hi":"रावली कलां (ग्रा.पं.: Raoli Kalan)","gp_id":"gp-raoli-kalan","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119586","type":"village","name_en":"Nekpur Sabitnagar (GP)","name_hi":"Nekpur Sabitnagar (ग्राम पंचायत)","gp_id":"gp-nekpur-sabitnagar","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119587","type":"village","name_en":"Bihang (GP: Khorajpur Bihang)","name_hi":"Bihang (ग्रा.पं.: Khorajpur Bihang)","gp_id":"gp-khorajpur-bihang","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119588","type":"village","name_en":"Khorajpur (GP: Khorajpur Bihang)","name_hi":"Khorajpur (ग्रा.पं.: Khorajpur Bihang)","gp_id":"gp-khorajpur-bihang","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119589","type":"village","name_en":"Milak Ravli (GP: Milak Ravali)","name_hi":"मिलक रावली (ग्रा.पं.: Milak Ravali)","gp_id":"gp-milak-ravali","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119590","type":"village","name_en":"Jalalpur Didhar (GP: Jalalpur Dindhal)","name_hi":"Jalalpur Didhar (ग्रा.पं.: Jalalpur Dindhal)","gp_id":"gp-jalalpur-dindhal","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119591","type":"village","name_en":"Kharjivanpur Khimawati (GP)","name_hi":"Kharjivanpur Khimawati (ग्राम पंचायत)","gp_id":"gp-kharjivanpur-khimawati","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119592","type":"village","name_en":"Ruhelapur (GP: Rewadi Rewda)","name_hi":"Ruhelapur (ग्रा.पं.: Rewadi Rewda)","gp_id":"gp-rewadi-rewda","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119593","type":"village","name_en":"Husainpur (GP)","name_hi":"Husainpur (ग्राम पंचायत)","gp_id":"gp-husainpur","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119594","type":"village","name_en":"Rewadi Revda (GP)","name_hi":"रेवड़ी रेवड़ा (ग्राम पंचायत)","gp_id":"gp-rewadi-rewda","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119595","type":"village","name_en":"Manauli (GP)","name_hi":"Manauli (ग्राम पंचायत)","gp_id":"gp-manauli","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119596","type":"village","name_en":"Sultan Nagar Chhajjupur (GP: Manauli)","name_hi":"Sultan Nagar Chhajjupur (ग्रा.पं.: Manauli)","gp_id":"gp-manauli","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119597","type":"village","name_en":"Roshanpur Salaimabad Patti Pratap (GP: Roshanpur Salimabad Patti Pratap)","name_hi":"रो.स.बाद पटटी प्रताप (ग्रा.पं.: Roshanpur Salimabad Patti Pratap)","gp_id":"gp-roshanpur-salimabad-patti-pratap","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119598","type":"village","name_en":"Roshanpur Salaimabad Patti Jiram (GP: Roshanpur Salimabad Patti Pratap)","name_hi":"Roshanpur Salaimabad Patti Jiram (ग्रा.पं.: Roshanpur Salimabad Patti Pratap)","gp_id":"gp-roshanpur-salimabad-patti-pratap","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119599","type":"village","name_en":"Sultanpur (GP)","name_hi":"Sultanpur (ग्राम पंचायत)","gp_id":"gp-sultanpur","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119600","type":"village","name_en":"Kishan Chandpur Patti (GP: Manauli)","name_hi":"Kishan Chandpur Patti (ग्रा.पं.: Manauli)","gp_id":"gp-manauli","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119601","type":"village","name_en":"Bhadauli (GP)","name_hi":"Bhadauli (ग्राम पंचायत)","gp_id":"gp-bhadauli","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119602","type":"village","name_en":"Milak Chakarpur (GP)","name_hi":"मिलक चाकरपुर (ग्राम पंचायत)","gp_id":"gp-milak-chakarpur","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119603","type":"village","name_en":"Khurrampur (GP)","name_hi":"Khurrampur (ग्राम पंचायत)","gp_id":"gp-khurrampur","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119604","type":"village","name_en":"Ajabpur Mangavali (GP: Khurrampur)","name_hi":"Ajabpur Mangavali (ग्रा.पं.: Khurrampur)","gp_id":"gp-khurrampur","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119605","type":"village","name_en":"Sarna Murad Nagar (GP)","name_hi":"Sarna Murad Nagar (ग्राम पंचायत)","gp_id":"gp-muradnagar","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119606","type":"village","name_en":"Jalalpur Raghunathpur (GP)","name_hi":"Jalalpur Raghunathpur (ग्राम पंचायत)","gp_id":"gp-muradnagar","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119607","type":"village","name_en":"Sahbiswa (GP)","name_hi":"Sahbiswa (ग्राम पंचायत)","gp_id":"gp-muradnagar","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119608","type":"village","name_en":"Mohammadpur Dhedha (GP: Mohammadpur Dwedha)","name_hi":"मौहम्मदपुर धेदा (ग्रा.पं.: Mohammadpur Dwedha)","gp_id":"gp-mohammadpur-dwedha","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119609","type":"village","name_en":"Asalat Nagar (GP)","name_hi":"Asalat Nagar (ग्राम पंचायत)","gp_id":"gp-muradnagar","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119610","type":"village","name_en":"Shobhapur (GP: Basantpur Saitli)","name_hi":"Shobhapur (ग्रा.पं.: Basantpur Saitli)","gp_id":"gp-basantpur-saitli","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119611","type":"village","name_en":"Nabipur (GP: Sultanpur)","name_hi":"Nabipur (ग्रा.पं.: Sultanpur)","gp_id":"gp-sultanpur","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119612","type":"village","name_en":"Mahiuddinpur Hisali (GP: Muhiuddinpur Hisauli)","name_hi":"महीउद्दीनपुर हिसाली (ग्रा.पं.: Muhiuddinpur Hisauli)","gp_id":"gp-muhiuddinpur-hisauli","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119613","type":"village","name_en":"Baraka Arifpur (GP)","name_hi":"Baraka Arifpur (ग्राम पंचायत)","gp_id":"gp-baraka-arifpur","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119614","type":"village","name_en":"Yusufpur Manota (GP)","name_hi":"Yusufpur Manota (ग्राम पंचायत)","gp_id":"gp-yusufpur-manota","block_id":"razapur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119615","type":"village","name_en":"Kajampur (GP)","name_hi":"Kajampur (ग्राम पंचायत)","gp_id":"gp-kajampur","block_id":"razapur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119616","type":"village","name_en":"Abidpur Manki (GP: Abidpur Maniki)","name_hi":"आबिदपुर मानकी (ग्रा.पं.: Abidpur Maniki)","gp_id":"gp-abidpur-maniki","block_id":"razapur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119617","type":"village","name_en":"Ganga Rampur (GP: Abidpur Maniki)","name_hi":"Ganga Rampur (ग्रा.पं.: Abidpur Maniki)","gp_id":"gp-abidpur-maniki","block_id":"razapur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119618","type":"village","name_en":"Dausa Banjarpur (GP)","name_hi":"Dausa Banjarpur (ग्राम पंचायत)","gp_id":"gp-dausa-banjarpur","block_id":"razapur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119619","type":"village","name_en":"Sara (GP)","name_hi":"Sara (ग्राम पंचायत)","gp_id":"gp-sara","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201201"]},
+{"id":"lgd-119620","type":"village","name_en":"Makarmatpur Sikhera (GP)","name_hi":"Makarmatpur Sikhera (ग्राम पंचायत)","gp_id":"gp-makarmatpur-sikhera","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201201"]},
+{"id":"lgd-119621","type":"village","name_en":"Yakutpur Mavi (GP)","name_hi":"Yakutpur Mavi (ग्राम पंचायत)","gp_id":"gp-yakutpur-mavi","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119622","type":"village","name_en":"Kadrabad (GP)","name_hi":"कादराबाद (ग्राम पंचायत)","gp_id":"gp-bhojpur","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201201"]},
+{"id":"lgd-119623","type":"village","name_en":"Hirdaipur Bhandaula (GP: Hirdaipur Madaula)","name_hi":"हृदयपुर भन्डौला (ग्रा.पं.: Hirdaipur Madaula)","gp_id":"gp-hirdaipur-madaula","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119624","type":"village","name_en":"Shahjahanpur (GP)","name_hi":"Shahjahanpur (ग्राम पंचायत)","gp_id":"gp-shahjahanpur","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119625","type":"village","name_en":"Saidpur Husinpur Deelna (GP: Saidpur Husainpur Deelna)","name_hi":"सैदपुर हुसैनपुर डीलना (ग्रा.पं.: Saidpur Husainpur Deelna)","gp_id":"gp-saidpur-husainpur-deelna","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201201"]},
+{"id":"lgd-119626","type":"village","name_en":"Churiyala (GP)","name_hi":"Churiyala (ग्राम पंचायत)","gp_id":"gp-churiyala","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201201"]},
+{"id":"lgd-119627","type":"village","name_en":"Muradabad (GP: Moradabad)","name_hi":"मुरादाबाद (ग्रा.पं.: Moradabad)","gp_id":"gp-moradabad","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119628","type":"village","name_en":"Shakurpur (GP)","name_hi":"Shakurpur (ग्राम पंचायत)","gp_id":"gp-shakurpur","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201201"]},
+{"id":"lgd-119629","type":"village","name_en":"Bhatjan (GP)","name_hi":"Bhatjan (ग्राम पंचायत)","gp_id":"gp-bhatjan","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119630","type":"village","name_en":"Machhri (GP)","name_hi":"Machhri (ग्राम पंचायत)","gp_id":"gp-machhri","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119631","type":"village","name_en":"Palauta (GP: Bhatjan)","name_hi":"Palauta (ग्रा.पं.: Bhatjan)","gp_id":"gp-bhatjan","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119632","type":"village","name_en":"Zainuddinpur (GP: Talehaita)","name_hi":"Zainuddinpur (ग्रा.पं.: Talehaita)","gp_id":"gp-talehaita","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201304"]},
+{"id":"lgd-119633","type":"village","name_en":"Talehaita (GP)","name_hi":"Talehaita (ग्राम पंचायत)","gp_id":"gp-talehaita","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201201"]},
+{"id":"lgd-119634","type":"village","name_en":"Sherpur (GP)","name_hi":"Sherpur (ग्राम पंचायत)","gp_id":"gp-sherpur","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119635","type":"village","name_en":"Nagla Musa (GP: Nagala Musa)","name_hi":"नंगला मूसा (ग्रा.पं.: Nagala Musa)","gp_id":"gp-nagala-musa","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119636","type":"village","name_en":"Phaphrana (GP)","name_hi":"Phaphrana (ग्राम पंचायत)","gp_id":"gp-phaphrana","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119637","type":"village","name_en":"Sikri Khurd (GP)","name_hi":"Sikri Khurd (ग्राम पंचायत)","gp_id":"gp-bhojpur","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119638","type":"village","name_en":"Lalifpur Tibra (GP)","name_hi":"Lalifpur Tibra (ग्राम पंचायत)","gp_id":"gp-lalifpur-tibra","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119639","type":"village","name_en":"Bakharva (GP)","name_hi":"Bakharva (ग्राम पंचायत)","gp_id":"gp-bakharva","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119640","type":"village","name_en":"Vidyapur Safiabad (GP: Bakharva)","name_hi":"Vidyapur Safiabad (ग्रा.पं.: Bakharva)","gp_id":"gp-bakharva","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119641","type":"village","name_en":"Khanjarpur (GP)","name_hi":"Khanjarpur (ग्राम पंचायत)","gp_id":"gp-khanjarpur","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119642","type":"village","name_en":"Bhojpur (GP)","name_hi":"Bhojpur (ग्राम पंचायत)","gp_id":"gp-bhojpur","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119643","type":"village","name_en":"Patti (GP)","name_hi":"Patti (ग्राम पंचायत)","gp_id":"gp-patti","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119644","type":"village","name_en":"Jahangirpur (GP)","name_hi":"Jahangirpur (ग्राम पंचायत)","gp_id":"gp-jahangirpur","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119645","type":"village","name_en":"Yusufpur Naglabair (GP)","name_hi":"Yusufpur Naglabair (ग्राम पंचायत)","gp_id":"gp-yusufpur-naglabair","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119646","type":"village","name_en":"Kalchhina (GP)","name_hi":"Kalchhina (ग्राम पंचायत)","gp_id":"gp-kalchhina","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119647","type":"village","name_en":"Amrala (GP)","name_hi":"Amrala (ग्राम पंचायत)","gp_id":"gp-amrala","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119648","type":"village","name_en":"Aurangabad Fazalgarh (GP)","name_hi":"Aurangabad Fazalgarh (ग्राम पंचायत)","gp_id":"gp-aurangabad-fazalgarh","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119649","type":"village","name_en":"Tyori 13 Biswa (GP: Tauri 13 Biswa)","name_hi":"त्योड़ी तेरह बिस्वा (ग्रा.पं.: Tauri 13 Biswa)","gp_id":"gp-tauri-13-biswa","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119650","type":"village","name_en":"Tyori 7 Biswa (GP: Tauri 7 Biswa)","name_hi":"त्योड़ी सात बिस्वा (ग्रा.पं.: Tauri 7 Biswa)","gp_id":"gp-tauri-7-biswa","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119651","type":"village","name_en":"Raghunathpur (GP: Kilhauda Raghunathpur)","name_hi":"Raghunathpur (ग्रा.पं.: Kilhauda Raghunathpur)","gp_id":"gp-kilhauda-raghunathpur","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119652","type":"village","name_en":"Bhadaula (GP)","name_hi":"Bhadaula (ग्राम पंचायत)","gp_id":"gp-bhadaula","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119653","type":"village","name_en":"Yusufpur Isapur (GP)","name_hi":"Yusufpur Isapur (ग्राम पंचायत)","gp_id":"gp-yusufpur-isapur","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119654","type":"village","name_en":"Ishaq Nagar (GP)","name_hi":"Ishaq Nagar (ग्राम पंचायत)","gp_id":"gp-ishaq-nagar","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119655","type":"village","name_en":"Kilhauda (GP: Kilhauda Raghunathpur)","name_hi":"Kilhauda (ग्रा.पं.: Kilhauda Raghunathpur)","gp_id":"gp-kilhauda-raghunathpur","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119656","type":"village","name_en":"Nahali (GP)","name_hi":"Nahali (ग्राम पंचायत)","gp_id":"gp-nahali","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119657","type":"village","name_en":"Nagaula Amipur (GP: Nagaula Amirpur)","name_hi":"नंगौला अमीपुर (ग्रा.पं.: Nagaula Amirpur)","gp_id":"gp-nagaula-amirpur","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119658","type":"village","name_en":"Aurang Nagar Kinhapur (GP: Amipur Badayala)","name_hi":"Aurang Nagar Kinhapur (ग्रा.पं.: Amipur Badayala)","gp_id":"gp-amipur-badayala","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119659","type":"village","name_en":"Kasampur (GP: Mohd.Pur.Sujanpur Akhara)","name_hi":"Kasampur (ग्रा.पं.: Mohd.Pur.Sujanpur Akhara)","gp_id":"gp-mohd-pur-sujanpur-akhara","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119660","type":"village","name_en":"Amirpur Badayala (GP: Amipur Badayala)","name_hi":"अमीरपुर बड़ायला (ग्रा.पं.: Amipur Badayala)","gp_id":"gp-amipur-badayala","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119661","type":"village","name_en":"Mohammad Pur Sujanpur (GP: Mohd.Pur.Sujanpur Akhara)","name_hi":"Mohammad Pur Sujanpur (ग्रा.पं.: Mohd.Pur.Sujanpur Akhara)","gp_id":"gp-mohd-pur-sujanpur-akhara","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119662","type":"village","name_en":"Shamli (GP)","name_hi":"Shamli (ग्राम पंचायत)","gp_id":"gp-shamli","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119663","type":"village","name_en":"Afrashah Pur (GP: Shamli)","name_hi":"Afrashah Pur (ग्रा.पं.: Shamli)","gp_id":"gp-shamli","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119664","type":"village","name_en":"Atrauli (GP)","name_hi":"Atrauli (ग्राम पंचायत)","gp_id":"gp-atrauli","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119665","type":"village","name_en":"Avalpur (GP: Atrauli)","name_hi":"अवलपुर (ग्रा.पं.: Atrauli)","gp_id":"gp-atrauli","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119666","type":"village","name_en":"Joya (GP)","name_hi":"Joya (ग्राम पंचायत)","gp_id":"gp-joya","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119667","type":"village","name_en":"Kanakpur (GP)","name_hi":"Kanakpur (ग्राम पंचायत)","gp_id":"gp-kanakpur","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119668","type":"village","name_en":"Aurangabad Dateri (GP)","name_hi":"Aurangabad Dateri (ग्राम पंचायत)","gp_id":"gp-aurangabad-dateri","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119669","type":"village","name_en":"Abdulapur Dateri (GP: Aurangabad Dateri)","name_hi":"Abdulapur Dateri (ग्रा.पं.: Aurangabad Dateri)","gp_id":"gp-aurangabad-dateri","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119670","type":"village","name_en":"Mukimpur (GP)","name_hi":"Mukimpur (ग्राम पंचायत)","gp_id":"gp-mukimpur","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119671","type":"village","name_en":"Abupur (GP)","name_hi":"अबूपुर (ग्राम पंचायत)","gp_id":"gp-abupur","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119672","type":"village","name_en":"Basantpur Saitli (GP)","name_hi":"बसन्तपुर सैंतली (ग्राम पंचायत)","gp_id":"gp-basantpur-saitli","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119673","type":"village","name_en":"Muradgrampur Pursi (GP: Muradgam Pur Pursi)","name_hi":"मुरादग्रामपुर पुर्सी (ग्रा.पं.: Muradgam Pur Pursi)","gp_id":"gp-muradgam-pur-pursi","block_id":"muradnagar","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119674","type":"village","name_en":"Sikri Kalan (GP)","name_hi":"सीकरी कलां (ग्राम पंचायत)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119675","type":"village","name_en":"Rori (GP)","name_hi":"रोरी (ग्राम पंचायत)","gp_id":"gp-rori","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201201"]},
+{"id":"lgd-119676","type":"village","name_en":"Aurangabad Gadana (GP)","name_hi":"औरंगाबाद गदाना (ग्राम पंचायत)","gp_id":"gp-aurangabad-gadana","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119677","type":"village","name_en":"Bisokhar (GP)","name_hi":"बिसोखर (ग्राम पंचायत)","gp_id":"gp-bhojpur","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201201"]},
+{"id":"lgd-119678","type":"village","name_en":"Begumabad Budana (Bahar) (GP)","name_hi":"बेगमाबाद बुदाना(बाहर) (ग्राम पंचायत)","gp_id":"gp-bhojpur","block_id":"bhojpur","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119680","type":"village","name_en":"Nauraspur (GP: Allipur Noraspur)","name_hi":"Nauraspur (ग्रा.पं.: Allipur Noraspur)","gp_id":"gp-allipur-noraspur","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119681","type":"village","name_en":"Allipur (GP: Allipur Noraspur)","name_hi":"Allipur (ग्रा.पं.: Allipur Noraspur)","gp_id":"gp-allipur-noraspur","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119682","type":"village","name_en":"Nanu (GP)","name_hi":"Nanu (ग्राम पंचायत)","gp_id":"gp-nanu","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119683","type":"village","name_en":"Mandaula (GP: Madaula)","name_hi":"मंडौला (ग्रा.पं.: Madaula)","gp_id":"gp-madaula","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119684","type":"village","name_en":"Mirpur Hindu (GP)","name_hi":"Mirpur Hindu (ग्राम पंचायत)","gp_id":"gp-mirpur-hindu","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119685","type":"village","name_en":"Pachayara (GP: Panchayara)","name_hi":"पचायरा (ग्रा.पं.: Panchayara)","gp_id":"gp-panchayara","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119686","type":"village","name_en":"Badarpur (GP)","name_hi":"Badarpur (ग्राम पंचायत)","gp_id":"gp-badarpur","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119687","type":"village","name_en":"Lutfullapur Navada (GP: Badarpur)","name_hi":"लुत्फुल्लापुर नवादा (ग्रा.पं.: Badarpur)","gp_id":"gp-badarpur","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119688","type":"village","name_en":"Milk Bamla (GP: Madaula)","name_hi":"Milk Bamla (ग्रा.पं.: Madaula)","gp_id":"gp-madaula","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119689","type":"village","name_en":"Masudabad Bamla (GP: Mewala Bhatti)","name_hi":"Masudabad Bamla (ग्रा.पं.: Mewala Bhatti)","gp_id":"gp-mewala-bhatti","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119690","type":"village","name_en":"Agraula (GP)","name_hi":"Agraula (ग्राम पंचायत)","gp_id":"gp-loni","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119691","type":"village","name_en":"Harampur (GP: Badarpur)","name_hi":"Harampur (ग्रा.पं.: Badarpur)","gp_id":"gp-badarpur","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119692","type":"village","name_en":"Khanpur Japti (GP)","name_hi":"Khanpur Japti (ग्राम पंचायत)","gp_id":"gp-loni","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119693","type":"village","name_en":"Sadabad Dugraoli (GP)","name_hi":"सादाबाद डुगरावली (ग्राम पंचायत)","gp_id":"gp-loni","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119694","type":"village","name_en":"Aliabad (GP: Madaula)","name_hi":"Aliabad (ग्रा.पं.: Madaula)","gp_id":"gp-madaula","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119695","type":"village","name_en":"Ilaichipur (GP)","name_hi":"Ilaichipur (ग्राम पंचायत)","gp_id":"gp-loni","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119696","type":"village","name_en":"Tila Shahbazpur (GP)","name_hi":"Tila Shahbazpur (ग्राम पंचायत)","gp_id":"gp-loni","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119697","type":"village","name_en":"Daultabad Bhowapur (GP: Nurstabad Kharkhari)","name_hi":"Daultabad Bhowapur (ग्रा.पं.: Nurstabad Kharkhari)","gp_id":"gp-nurstabad-kharkhari","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119698","type":"village","name_en":"Jafarabad Ganauli (GP: Ganauli)","name_hi":"Jafarabad Ganauli (ग्रा.पं.: Ganauli)","gp_id":"gp-ganauli","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119699","type":"village","name_en":"Badshahpur Sirauli (GP: Sirauli)","name_hi":"Badshahpur Sirauli (ग्रा.पं.: Sirauli)","gp_id":"gp-sirauli","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119700","type":"village","name_en":"Dharipur (GP: Murtazabad Bhoopkheri)","name_hi":"Dharipur (ग्रा.पं.: Murtazabad Bhoopkheri)","gp_id":"gp-murtazabad-bhoopkheri","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119701","type":"village","name_en":"Mewla Bhatti (GP: Mewala Bhatti)","name_hi":"मेवला भट्टी (ग्रा.पं.: Mewala Bhatti)","gp_id":"gp-mewala-bhatti","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119702","type":"village","name_en":"Chirauri (GP)","name_hi":"Chirauri (ग्राम पंचायत)","gp_id":"gp-chirori","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119703","type":"village","name_en":"Nasartabad Kharkhari (GP: Nurstabad Kharkhari)","name_hi":"नसरताबाद खड़खड़ी (ग्रा.पं.: Nurstabad Kharkhari)","gp_id":"gp-nurstabad-kharkhari","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119704","type":"village","name_en":"Fatiyabad Nithora (GP: Nithaura)","name_hi":"फतियाबाद निठौरा (ग्रा.पं.: Nithaura)","gp_id":"gp-nithaura","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119705","type":"village","name_en":"Sikhrani (GP)","name_hi":"Sikhrani (ग्राम पंचायत)","gp_id":"gp-loni","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119706","type":"village","name_en":"Shakar Pulla (GP: Shakal Pura)","name_hi":"Shakar Pulla (ग्रा.पं.: Shakal Pura)","gp_id":"gp-shakal-pura","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119707","type":"village","name_en":"Kotwalpur (GP)","name_hi":"Kotwalpur (ग्राम पंचायत)","gp_id":"gp-kotwalpur","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119708","type":"village","name_en":"Afjalnagar Siti (GP: Murtazabad Bhoopkheri)","name_hi":"Afjalnagar Siti (ग्रा.पं.: Murtazabad Bhoopkheri)","gp_id":"gp-murtazabad-bhoopkheri","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119709","type":"village","name_en":"Sirora Salempur (GP)","name_hi":"Sirora Salempur (ग्राम पंचायत)","gp_id":"gp-sirora-salempur","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119710","type":"village","name_en":"Murtazabad Bhoopkheri (GP)","name_hi":"Murtazabad Bhoopkheri (ग्राम पंचायत)","gp_id":"gp-murtazabad-bhoopkheri","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"lgd-119711","type":"village","name_en":"Ahmadnagar Nayabans (GP: Murtazabad Bhoopkheri)","name_hi":"Ahmadnagar Nayabans (ग्रा.पं.: Murtazabad Bhoopkheri)","gp_id":"gp-murtazabad-bhoopkheri","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119712","type":"village","name_en":"Mahmoodpur (GP)","name_hi":"Mahmoodpur (ग्राम पंचायत)","gp_id":"gp-mahmoodpur","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"lgd-119713","type":"village","name_en":"Aurangabad Ristal (GP)","name_hi":"Aurangabad Ristal (ग्राम पंचायत)","gp_id":"gp-aurangabad-ristal","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119714","type":"village","name_en":"Sharfuddinpur Javli (GP)","name_hi":"Sharfuddinpur Javli (ग्राम पंचायत)","gp_id":"gp-loni","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119715","type":"village","name_en":"Narainnagar Urf Rampur (GP: Sharifabad Rajapur)","name_hi":"नरायननगर उर्फ रामपुर (ग्रा.पं.: Sharifabad Rajapur)","gp_id":"gp-sharifabad-rajapur","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119716","type":"village","name_en":"Bhanera Khurd (GP)","name_hi":"Bhanera Khurd (ग्राम पंचायत)","gp_id":"gp-bhanera-khurd","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"lgd-119717","type":"village","name_en":"Sharifabad Rajapur (GP)","name_hi":"Sharifabad Rajapur (ग्राम पंचायत)","gp_id":"gp-sharifabad-rajapur","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119718","type":"village","name_en":"Asalatpur (GP: Asalatpur Farakh Nagar)","name_hi":"असालतपुर (ग्रा.पं.: Asalatpur Farakh Nagar)","gp_id":"gp-asalatpur-farakh-nagar","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201001"]},
+{"id":"lgd-119719","type":"village","name_en":"Afzalpur (GP)","name_hi":"Afzalpur (ग्राम पंचायत)","gp_id":"gp-afzalpur","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"lgd-119720","type":"village","name_en":"Nistauli (GP)","name_hi":"Nistauli (ग्राम पंचायत)","gp_id":"gp-loni","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"lgd-119721","type":"village","name_en":"Makrmatpur Sikrod (GP)","name_hi":"मकरमतपुर सिकरोड (ग्राम पंचायत)","gp_id":"gp-loni","block_id":"loni","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201015"]},
+{"id":"lgd-119722","type":"village","name_en":"Makraida (GP)","name_hi":"Makraida (ग्राम पंचायत)","gp_id":"gp-makraida","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"lgd-119723","type":"village","name_en":"Bahadurpur (GP)","name_hi":"Bahadurpur (ग्राम पंचायत)","gp_id":"gp-bahadurpur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"lgd-119724","type":"village","name_en":"Shahpur Nij Morta (GP)","name_hi":"Shahpur Nij Morta (ग्राम पंचायत)","gp_id":"gp-shahpur-nij-morta","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"lgd-119725","type":"village","name_en":"Mathurapur (GP)","name_hi":"Mathurapur (ग्राम पंचायत)","gp_id":"gp-mathurapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"lgd-119726","type":"village","name_en":"Shamsher (GP)","name_hi":"Shamsher (ग्राम पंचायत)","gp_id":"gp-shamsher","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"lgd-119727","type":"village","name_en":"Champat Nagar (GP: Nagla Firoj Mohanpur)","name_hi":"Champat Nagar (ग्रा.पं.: Nagla Firoj Mohanpur)","gp_id":"gp-nagla-firoj-mohanpur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"lgd-119728","type":"village","name_en":"Nagla Firoj Mohanpur (GP)","name_hi":"Nagla Firoj Mohanpur (ग्राम पंचायत)","gp_id":"gp-nagla-firoj-mohanpur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"lgd-119729","type":"village","name_en":"Ataur (GP)","name_hi":"Ataur (ग्राम पंचायत)","gp_id":"gp-ataur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"lgd-119730","type":"village","name_en":"Morti (GP)","name_hi":"Morti (ग्राम पंचायत)","gp_id":"gp-morti","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"lgd-119731","type":"village","name_en":"Bhowapur (GP)","name_hi":"Bhowapur (ग्राम पंचायत)","gp_id":"gp-bhowapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"lgd-119732","type":"village","name_en":"Mahmudabad (GP: Makraida)","name_hi":"Mahmudabad (ग्रा.पं.: Makraida)","gp_id":"gp-makraida","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201001"]},
+{"id":"lgd-119733","type":"village","name_en":"Bhikkanpur (GP)","name_hi":"Bhikkanpur (ग्राम पंचायत)","gp_id":"gp-bhikkanpur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119734","type":"village","name_en":"Jagjivanpur (GP: Bhikkanpur)","name_hi":"Jagjivanpur (ग्रा.पं.: Bhikkanpur)","gp_id":"gp-bhikkanpur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"lgd-119735","type":"village","name_en":"Jalalabad (GP)","name_hi":"जलालाबाद (ग्राम पंचायत)","gp_id":"gp-jalalabad","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119736","type":"village","name_en":"Miswapur (GP: Jalalabad)","name_hi":"मिस्वापुर (ग्रा.पं.: Jalalabad)","gp_id":"gp-jalalabad","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119737","type":"village","name_en":"Bhawanipur (GP: Jalalabad)","name_hi":"Bhawanipur (ग्रा.पं.: Jalalabad)","gp_id":"gp-jalalabad","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119738","type":"village","name_en":"Noorpur (GP)","name_hi":"नूरपुर (ग्राम पंचायत)","gp_id":"gp-noorpur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119739","type":"village","name_en":"Kanauja (GP)","name_hi":"Kanauja (ग्राम पंचायत)","gp_id":"gp-kanauja","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"lgd-119740","type":"village","name_en":"Matiala (GP: Matiyala)","name_hi":"Matiala (ग्रा.पं.: Matiyala)","gp_id":"gp-matiyala","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201002"]},
+{"id":"lgd-119741","type":"village","name_en":"Rasoolpur Sikroda (GP: Rasulpur Sikrod)","name_hi":"रसूलपुर सिकरोडा (ग्रा.पं.: Rasulpur Sikrod)","gp_id":"gp-rasulpur-sikrod","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201015"]},
+{"id":"lgd-119742","type":"village","name_en":"Dasna (GP: Dasna Dehat)","name_hi":"डासना (ग्रा.पं.: Dasna Dehat)","gp_id":"gp-dasna-dehat","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201015"]},
+{"id":"lgd-119743","type":"village","name_en":"Didwari (GP: Chitora)","name_hi":"Didwari (ग्रा.पं.: Chitora)","gp_id":"gp-chitora","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201303"]},
+{"id":"lgd-119744","type":"village","name_en":"Kushaliya (GP)","name_hi":"Kushaliya (ग्राम पंचायत)","gp_id":"gp-kushaliya","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201015"]},
+{"id":"lgd-119745","type":"village","name_en":"Masuri (GP)","name_hi":"Masuri (ग्राम पंचायत)","gp_id":"gp-masuri","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201015"]},
+{"id":"lgd-119746","type":"village","name_en":"Nahal (GP)","name_hi":"Nahal (ग्राम पंचायत)","gp_id":"gp-nahal","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201015"]},
+{"id":"lgd-119747","type":"village","name_en":"Samaypur (GP)","name_hi":"Samaypur (ग्राम पंचायत)","gp_id":"gp-samaypur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201303"]},
+{"id":"lgd-119748","type":"village","name_en":"Karimnagar Katiyar Urf Akalpur (GP: Samaypur)","name_hi":"Karimnagar Katiyar Urf Akalpur (ग्रा.पं.: Samaypur)","gp_id":"gp-samaypur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201303"]},
+{"id":"lgd-119749","type":"village","name_en":"Nigrawati (GP)","name_hi":"Nigrawati (ग्राम पंचायत)","gp_id":"gp-nigrawati","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119750","type":"village","name_en":"Mahiudinpur Dhabarsi (GP: Muhiddinpur Dabarsi)","name_hi":"महीउद्दीनपुर ढबारसी (ग्रा.पं.: Muhiddinpur Dabarsi)","gp_id":"gp-muhiddinpur-dabarsi","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201015"]},
+{"id":"lgd-119751","type":"village","name_en":"Nidori (GP)","name_hi":"Nidori (ग्राम पंचायत)","gp_id":"gp-nidori","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119752","type":"village","name_en":"Masauta (GP)","name_hi":"Masauta (ग्राम पंचायत)","gp_id":"gp-masauta","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"lgd-119753","type":"village","name_en":"Sadat Nagar Ikla (GP)","name_hi":"Sadat Nagar Ikla (ग्राम पंचायत)","gp_id":"gp-sadat-nagar-ikla","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201002"]},
+{"id":"lgd-119754","type":"village","name_en":"Raghunath Pur (GP)","name_hi":"Raghunath Pur (ग्राम पंचायत)","gp_id":"gp-raghunath-pur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201001"]},
+{"id":"lgd-119755","type":"village","name_en":"Dinanathpur Puthi (GP)","name_hi":"Dinanathpur Puthi (ग्राम पंचायत)","gp_id":"gp-dinanathpur-puthi","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201001"]},
+{"id":"lgd-119756","type":"village","name_en":"Inayatpur (GP)","name_hi":"Inayatpur (ग्राम पंचायत)","gp_id":"gp-inayatpur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201001"]},
+{"id":"lgd-119757","type":"village","name_en":"Arifpur (GP: Inayatpur)","name_hi":"Arifpur (ग्रा.पं.: Inayatpur)","gp_id":"gp-inayatpur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201002"]},
+{"id":"lgd-119759","type":"village","name_en":"Haqiqatpur Urf Khudabans (GP)","name_hi":"हकीकतपुर उर्फ खुदाबांस (ग्राम पंचायत)","gp_id":"gp-loni","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-119760","type":"village","name_en":"Banthla (GP)","name_hi":"बन्थला (ग्राम पंचायत)","gp_id":"gp-loni","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-917025","type":"village","name_en":"Ahmadnagar Nawada (GP: Murtazabad Bhoopkheri)","name_hi":"Ahmadnagar Nawada (ग्रा.पं.: Murtazabad Bhoopkheri)","gp_id":"gp-murtazabad-bhoopkheri","block_id":"loni","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"lgd-942452","type":"village","name_en":"Makramatpur (GP: Afzalpur)","name_hi":"मकरमतपुर (ग्रा.पं.: Afzalpur)","gp_id":"gp-afzalpur","block_id":"loni","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201015"]},
+{"id":"po-ghaziabad-dundaheda","type":"village","name_en":"Dundaheda (Post / GP Area)","name_hi":"Dundaheda (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201009"]},
+{"id":"po-ghaziabad-jindal-nagar","type":"village","name_en":"Jindal Nagar (Post / GP Area)","name_hi":"Jindal Nagar (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201015"]},
+{"id":"po-ghaziabad-kushlia","type":"village","name_en":"Kushlia (Post / GP Area)","name_hi":"Kushlia (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201015"]},
+{"id":"po-ghaziabad-ingrahm-institute","type":"village","name_en":"Ingrahm Institute (Post / GP Area)","name_hi":"Ingrahm Institute (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201002"]},
+{"id":"po-ghaziabad-behta-hazipur","type":"village","name_en":"Behta Hazipur (Post / GP Area)","name_hi":"Behta Hazipur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"po-ghaziabad-kaila","type":"village","name_en":"Kaila (Post / GP Area)","name_hi":"Kaila (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201009"]},
+{"id":"po-ghaziabad-nasratpura","type":"village","name_en":"Nasratpura (Post / GP Area)","name_hi":"Nasratpura (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201009"]},
+{"id":"po-ghaziabad-rajapur","type":"village","name_en":"Rajapur (Post / GP Area)","name_hi":"Rajapur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201002"]},
+{"id":"po-ghaziabad-sadarpur","type":"village","name_en":"Sadarpur (Post / GP Area)","name_hi":"Sadarpur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201002"]},
+{"id":"po-ghaziabad-shahpur-bamheta","type":"village","name_en":"Shahpur Bamheta (Post / GP Area)","name_hi":"Shahpur Bamheta (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201002"]},
+{"id":"po-ghaziabad-jaoli","type":"village","name_en":"Jaoli (Post / GP Area)","name_hi":"Jaoli (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201102"]},
+{"id":"po-ghaziabad-roja-yakoobpur","type":"village","name_en":"Roja Yakoobpur (Post / GP Area)","name_hi":"Roja Yakoobpur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201009"]},
+{"id":"po-ghaziabad-adhyatmik-nagar","type":"village","name_en":"Adhyatmik Nagar (Post / GP Area)","name_hi":"Adhyatmik Nagar (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201015"]},
+{"id":"po-ghaziabad-bubkheri","type":"village","name_en":"BubKheri (Post / GP Area)","name_hi":"BubKheri (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"po-ghaziabad-chipiana","type":"village","name_en":"Chipiana (Post / GP Area)","name_hi":"Chipiana (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201009"]},
+{"id":"po-ghaziabad-dasna-gate","type":"village","name_en":"Dasna Gate (Post / GP Area)","name_hi":"Dasna Gate (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201009"]},
+{"id":"po-ghaziabad-dasna-rs","type":"village","name_en":"Dasna RS (Post / GP Area)","name_hi":"Dasna RS (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201015"]},
+{"id":"po-ghaziabad-hasanpur-bhowapur","type":"village","name_en":"Hasanpur Bhowapur (Post / GP Area)","name_hi":"Hasanpur Bhowapur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201010"]},
+{"id":"po-ghaziabad-raispur","type":"village","name_en":"Raispur (Post / GP Area)","name_hi":"Raispur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201002"]},
+{"id":"po-ghaziabad-atore-nangla","type":"village","name_en":"Atore Nangla (Post / GP Area)","name_hi":"Atore Nangla (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"po-ghaziabad-raoli-kalan","type":"village","name_en":"Raoli Kalan (Post / GP Area)","name_hi":"Raoli Kalan (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"po-ghaziabad-shahpur","type":"village","name_en":"Shahpur (Post / GP Area)","name_hi":"Shahpur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"po-ghaziabad-saidpur","type":"village","name_en":"Saidpur (Post / GP Area)","name_hi":"Saidpur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201201"]},
+{"id":"po-ghaziabad-nagla-akhu","type":"village","name_en":"Nagla Akhu (Post / GP Area)","name_hi":"Nagla Akhu (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"po-ghaziabad-niwari","type":"village","name_en":"Niwari (Post / GP Area)","name_hi":"Niwari (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"po-ghaziabad-kumhera","type":"village","name_en":"Kumhera (Post / GP Area)","name_hi":"Kumhera (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"po-ghaziabad-nekpur","type":"village","name_en":"Nekpur (Post / GP Area)","name_hi":"Nekpur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"po-ghaziabad-farrukh-ng","type":"village","name_en":"Farrukh Ng (Post / GP Area)","name_hi":"Farrukh Ng (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"po-ghaziabad-basantpur-sainthli","type":"village","name_en":"Basantpur Sainthli (Post / GP Area)","name_hi":"Basantpur Sainthli (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"po-ghaziabad-bhikanpur","type":"village","name_en":"Bhikanpur (Post / GP Area)","name_hi":"Bhikanpur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"po-ghaziabad-khimawti","type":"village","name_en":"Khimawti (Post / GP Area)","name_hi":"Khimawti (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"po-ghaziabad-murad-nagar-town","type":"village","name_en":"Murad Nagar Town (Post / GP Area)","name_hi":"Murad Nagar Town (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-muradnagar","block_id":"muradnagar","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"po-ghaziabad-faridnagar","type":"village","name_en":"Faridnagar (Post / GP Area)","name_hi":"Faridnagar (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"po-ghaziabad-samaipur","type":"village","name_en":"Samaipur (Post / GP Area)","name_hi":"Samaipur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"po-ghaziabad-talheta","type":"village","name_en":"Talheta (Post / GP Area)","name_hi":"Talheta (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201201"]},
+{"id":"po-ghaziabad-begmabad","type":"village","name_en":"Begmabad (Post / GP Area)","name_hi":"Begmabad (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"po-ghaziabad-tibra","type":"village","name_en":"Tibra (Post / GP Area)","name_hi":"Tibra (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"po-ghaziabad-tyori","type":"village","name_en":"Tyori (Post / GP Area)","name_hi":"Tyori (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["245304"]},
+{"id":"po-ghaziabad-pasonda","type":"village","name_en":"Pasonda (Post / GP Area)","name_hi":"Pasonda (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201005"]},
+{"id":"po-ghaziabad-morta","type":"village","name_en":"Morta (Post / GP Area)","name_hi":"Morta (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201003"]},
+{"id":"po-ghaziabad-duhai","type":"village","name_en":"Duhai (Post / GP Area)","name_hi":"Duhai (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"po-ghaziabad-jalalpur-dhindhar","type":"village","name_en":"Jalalpur Dhindhar (Post / GP Area)","name_hi":"Jalalpur Dhindhar (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201206"]},
+{"id":"po-ghaziabad-patla","type":"village","name_en":"Patla (Post / GP Area)","name_hi":"Patla (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-razapur","block_id":"razapur","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"gram_panchayat","pincodes":["201204"]},
+{"id":"ward-ghaziabad-nigam","type":"ward","name_en":"Ghaziabad Municipal Corporation (All Wards)","name_hi":"गाजियाबाद नगर निगम (सभी वार्ड)","ulb_id":"ghaziabad","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam"},
+{"id":"ward-ghaziabad-ulb-ghaziabad-main","type":"ward","name_en":"Nagar Palika Parishad Ghaziabad (All Wards)","name_hi":"नगर पालिका गाजियाबाद (सभी वार्ड)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_palika_parishad"},
+{"id":"lgd-ulb-248977","type":"ward","name_en":"Patla (Nagar Panchayat)","name_hi":"Patla (नगर पंचायत)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"nagar_panchayat","pincodes":["201204"]},
+{"id":"lgd-ulb-248978","type":"ward","name_en":"Niwari (Nagar Panchayat)","name_hi":"Niwari (नगर पंचायत)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"nagar_panchayat","pincodes":["201204"]},
+{"id":"lgd-ulb-248981","type":"ward","name_en":"Modinagar (Nagar Palika Parishad)","name_hi":"Modinagar (नगर पालिका परिषद)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"nagar_palika_parishad","pincodes":["201204"]},
+{"id":"lgd-ulb-248982","type":"ward","name_en":"Faridnagar (Nagar Panchayat)","name_hi":"Faridnagar (नगर पंचायत)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"nagar_panchayat","pincodes":["201004","245304"]},
+{"id":"lgd-ulb-248983","type":"ward","name_en":"Muradnagar (Nagar Palika Parishad)","name_hi":"Muradnagar (नगर पालिका परिषद)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"nagar_palika_parishad","pincodes":["201206"]},
+{"id":"lgd-ulb-248985","type":"ward","name_en":"Loni (Nagar Palika Parishad)","name_hi":"Loni (नगर पालिका परिषद)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"nagar_palika_parishad","pincodes":["201102"]},
+{"id":"lgd-ulb-248988","type":"ward","name_en":"Ghaziabad (Nagar Nigam)","name_hi":"Ghaziabad (नगर निगम)","ulb_id":"ghaziabad","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201001"]},
+{"id":"lgd-ulb-248989","type":"ward","name_en":"Dasna (Nagar Panchayat)","name_hi":"Dasna (नगर पंचायत)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_panchayat","pincodes":["201015"]},
+{"id":"lgd-ulb-274820","type":"ward","name_en":"Khoda Makanpur (Nagar Palika Parishad)","name_hi":"Khoda Makanpur (नगर पालिका परिषद)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_palika_parishad","pincodes":["201014"]},
+{"id":"town-ghaziabad-ndc-ghaziabad","type":"ward","name_en":"NDC Ghaziabad (Urban Area / SO)","name_hi":"NDC Ghaziabad (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_palika_parishad","pincodes":["201001"]},
+{"id":"town-ghaziabad-ghaziabad","type":"ward","name_en":"Ghaziabad (Urban Area / SO)","name_hi":"Ghaziabad (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_palika_parishad","pincodes":["201001"]},
+{"id":"town-ghaziabad-arya-nagar","type":"ward","name_en":"Arya Nagar (Urban Area / SO)","name_hi":"Arya Nagar (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201009"]},
+{"id":"town-ghaziabad-ashok-nagar","type":"ward","name_en":"Ashok Nagar (Urban Area / SO)","name_hi":"Ashok Nagar (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201001"]},
+{"id":"town-ghaziabad-chandra-nagar","type":"ward","name_en":"Chandra Nagar (Urban Area / SO)","name_hi":"Chandra Nagar (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201011"]},
+{"id":"town-ghaziabad-hindon-nagar","type":"ward","name_en":"Hindon Nagar (Urban Area / SO)","name_hi":"Hindon Nagar (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201015"]},
+{"id":"town-ghaziabad-loni","type":"ward","name_en":"Loni (Urban Area / SO)","name_hi":"Loni (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"loni","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201102"]},
+{"id":"town-ghaziabad-model-town","type":"ward","name_en":"Model Town (Urban Area / SO)","name_hi":"Model Town (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201018"]},
+{"id":"town-ghaziabad-tronica-city","type":"ward","name_en":"Tronica City (Urban Area / SO)","name_hi":"Tronica City (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201103"]},
+{"id":"town-ghaziabad-vijay-nagar","type":"ward","name_en":"Vijay Nagar (Urban Area / SO)","name_hi":"Vijay Nagar (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201009"]},
+{"id":"town-ghaziabad-crossings-republik","type":"ward","name_en":"Crossings Republik (Urban Area / SO)","name_hi":"Crossings Republik (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201016"]},
+{"id":"town-ghaziabad-shastri-nagar","type":"ward","name_en":"Shastri Nagar (Urban Area / SO)","name_hi":"Shastri Nagar (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201002"]},
+{"id":"town-ghaziabad-govindpuri","type":"ward","name_en":"Govindpuri (Urban Area / SO)","name_hi":"Govindpuri (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201201"]},
+{"id":"town-ghaziabad-chikamberpur","type":"ward","name_en":"Chikamberpur (Urban Area / SO)","name_hi":"Chikamberpur (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201006"]},
+{"id":"town-ghaziabad-ghaziabad-city","type":"ward","name_en":"Ghaziabad City (Urban Area / SO)","name_hi":"Ghaziabad City (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_palika_parishad","pincodes":["201009"]},
+{"id":"town-ghaziabad-govindpuram","type":"ward","name_en":"Govindpuram (Urban Area / SO)","name_hi":"Govindpuram (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201013"]},
+{"id":"town-ghaziabad-new-raj-nagar","type":"ward","name_en":"New Raj Nagar (Urban Area / SO)","name_hi":"New Raj Nagar (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201002"]},
+{"id":"town-ghaziabad-police-line-harsaon","type":"ward","name_en":"Police Line Harsaon (Urban Area / SO)","name_hi":"Police Line Harsaon (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201002"]},
+{"id":"town-ghaziabad-raj-nagar-extension","type":"ward","name_en":"Raj Nagar Extension (Urban Area / SO)","name_hi":"Raj Nagar Extension (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201017"]},
+{"id":"town-ghaziabad-vasundhra","type":"ward","name_en":"Vasundhra (Urban Area / SO)","name_hi":"Vasundhra (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201012"]},
+{"id":"town-ghaziabad-raknpa","type":"ward","name_en":"RAKNPA (Urban Area / SO)","name_hi":"RAKNPA (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201002"]},
+{"id":"town-ghaziabad-harmukhpuri","type":"ward","name_en":"Harmukhpuri (Urban Area / SO)","name_hi":"Harmukhpuri (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201201"]},
+{"id":"town-ghaziabad-bharat-nagar","type":"ward","name_en":"Bharat Nagar (Urban Area / SO)","name_hi":"Bharat Nagar (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201010"]},
+{"id":"town-ghaziabad-hindon-air-field","type":"ward","name_en":"Hindon Air Field (Urban Area / SO)","name_hi":"Hindon Air Field (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201004"]},
+{"id":"town-ghaziabad-meerut-road","type":"ward","name_en":"Meerut Road (Urban Area / SO)","name_hi":"Meerut Road (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201003"]},
+{"id":"town-ghaziabad-nehru-nagar","type":"ward","name_en":"Nehru Nagar (Urban Area / SO)","name_hi":"Nehru Nagar (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201001"]},
+{"id":"town-ghaziabad-shipra-sun-city","type":"ward","name_en":"Shipra Sun City (Urban Area / SO)","name_hi":"Shipra Sun City (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201014"]},
+{"id":"town-ghaziabad-khora","type":"ward","name_en":"Khora (Urban Area / SO)","name_hi":"Khora (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201020"]},
+{"id":"town-ghaziabad-iesahibabad","type":"ward","name_en":"IESahibabad (Urban Area / SO)","name_hi":"IESahibabad (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201010"]},
+{"id":"town-ghaziabad-kamla-nehru-nagar","type":"ward","name_en":"Kamla Nehru Nagar (Urban Area / SO)","name_hi":"Kamla Nehru Nagar (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201002"]},
+{"id":"town-ghaziabad-kaushambi","type":"ward","name_en":"Kaushambi (Urban Area / SO)","name_hi":"Kaushambi (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201010"]},
+{"id":"town-ghaziabad-kavi-nagar","type":"ward","name_en":"Kavi Nagar (Urban Area / SO)","name_hi":"Kavi Nagar (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201002"]},
+{"id":"town-ghaziabad-mohan-nagar","type":"ward","name_en":"Mohan Nagar (Urban Area / SO)","name_hi":"Mohan Nagar (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201007"]},
+{"id":"town-ghaziabad-murad-nagar-bazar","type":"ward","name_en":"Murad Nagar Bazar (Urban Area / SO)","name_hi":"Murad Nagar Bazar (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201206"]},
+{"id":"town-ghaziabad-murad-nagar","type":"ward","name_en":"Murad Nagar (Urban Area / SO)","name_hi":"Murad Nagar (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201206"]},
+{"id":"town-ghaziabad-ramte-ram-road","type":"ward","name_en":"Ramte Ram Road (Urban Area / SO)","name_hi":"Ramte Ram Road (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201001"]},
+{"id":"town-ghaziabad-sahibabad","type":"ward","name_en":"Sahibabad (Urban Area / SO)","name_hi":"Sahibabad (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201005"]},
+{"id":"town-ghaziabad-vivekanand-nagar","type":"ward","name_en":"Vivekanand Nagar (Urban Area / SO)","name_hi":"Vivekanand Nagar (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201002"]},
+{"id":"town-ghaziabad-bhopura","type":"ward","name_en":"Bhopura (Urban Area / SO)","name_hi":"Bhopura (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201006"]},
+{"id":"town-ghaziabad-vaishali","type":"ward","name_en":"Vaishali (Urban Area / SO)","name_hi":"Vaishali (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201019"]},
+{"id":"town-ghaziabad-abhay-khand-03","type":"ward","name_en":"Abhay Khand 03 (Urban Area / SO)","name_hi":"Abhay Khand 03 (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"ghaziabad","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201021"]},
+{"id":"town-ghaziabad-modi-nagar","type":"ward","name_en":"Modi Nagar (Urban Area / SO)","name_hi":"Modi Nagar (शहरी क्षेत्र)","ulb_id":"ulb-ghaziabad-main","tehsil_id":"modinagar","district_id":"ghaziabad","local_body_type":"nagar_nigam","pincodes":["201204"]}
 ]

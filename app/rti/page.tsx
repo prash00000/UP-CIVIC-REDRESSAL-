@@ -1,13 +1,16 @@
 "use client";
 
-import React, { useState, useEffect, Suspense } from "react";
+import React, { useState, useEffect, useMemo, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import { Card } from "@astryxdesign/core/Card";
 import { Banner } from "@astryxdesign/core/Banner";
 import { Button } from "@astryxdesign/core/Button";
 import { useT, useLang, getLocalized, formatDate } from "@/lib/i18n";
-import { DistrictData, Place } from "@/lib/types";
+import { DistrictData, DistrictIndexEntry, IssueSlug, Place } from "@/lib/types";
 import { loadDistrictData, loadDistrictsIndex, loadPlacesData } from "@/lib/data";
+import { resolveOfficers } from "@/lib/resolver";
+import { getPrimaryOfficerForIssue } from "@/lib/issue-routing";
+import SearchSelect, { SearchOption } from "@/components/SearchSelect";
 import PrintSheet from "@/components/PrintSheet";
 
 function RtiContent() {
@@ -27,40 +30,81 @@ function RtiContent() {
   const [subjectKey, setSubjectKey] = useState("rti.subject1");
   const [details, setDetails] = useState("");
 
+  const [selectedDistId, setSelectedDistId] = useState(districtParam);
+  const [selectedPlaceId, setSelectedPlaceId] = useState(placeParam);
+  const [districtsIndex, setDistrictsIndex] = useState<DistrictIndexEntry[]>([]);
   const [districtData, setDistrictData] = useState<DistrictData | null>(null);
   const [places, setPlaces] = useState<Place[]>([]);
   const [districtDisplay, setDistrictDisplay] = useState(districtParam);
+  const [copied, setCopied] = useState(false);
 
   // [VERIFY: UP RTI Rules] Fee amount and specific form schedule under UP RTI Rules 2015/2016
   // As per Section 7.6, never hardcode fee amount in UI until formally verified.
 
   useEffect(() => {
-    if (districtParam) {
-      Promise.all([
-        loadDistrictData(districtParam),
-        loadPlacesData(districtParam),
-        loadDistrictsIndex(),
-      ]).then(([d, p, idx]) => {
-        setDistrictData(d);
-        setPlaces(p);
-        const meta = idx.find((entry) => entry.id === districtParam);
-        if (meta) {
-          setDistrictDisplay(getLocalized(meta, "name", lang));
-        }
-      });
-    }
-  }, [districtParam, lang]);
+    loadDistrictsIndex().then(setDistrictsIndex);
+  }, []);
 
   useEffect(() => {
-    if (places.length > 0 && placeParam) {
-      const pl = places.find((p) => p.id === placeParam);
+    if (!selectedDistId) {
+      setDistrictData(null);
+      setPlaces([]);
+      return;
+    }
+    Promise.all([
+      loadDistrictData(selectedDistId),
+      loadPlacesData(selectedDistId),
+    ]).then(([d, p]) => {
+      setDistrictData(d);
+      setPlaces(p);
+      const meta = districtsIndex.find((entry) => entry.id === selectedDistId);
+      if (meta) {
+        setDistrictDisplay(getLocalized(meta, "name", lang));
+      } else {
+        setDistrictDisplay(selectedDistId);
+      }
+    });
+  }, [selectedDistId, districtsIndex, lang]);
+
+  const districtOptions: SearchOption[] = useMemo(
+    () =>
+      districtsIndex.map((d) => ({
+        id: d.id,
+        label: getLocalized(d, "name", lang),
+        searchValue: `${d.name_en} ${d.name_hi}`,
+      })),
+    [districtsIndex, lang]
+  );
+
+  const placeOptions: SearchOption[] = useMemo(
+    () =>
+      places.map((p) => ({
+        id: p.id,
+        label: getLocalized(p, "name", lang),
+        sublabel: p.block_id ? `Block: ${p.block_id}` : p.ulb_id || p.tehsil_id,
+        searchValue: `${p.name_en} ${p.name_hi} ${p.block_id || ""} ${p.gp_id || ""}`,
+      })),
+    [places, lang]
+  );
+
+  useEffect(() => {
+    if (places.length > 0 && selectedPlaceId) {
+      const pl = places.find((p) => p.id === selectedPlaceId);
       if (pl) {
         setAddress(
           `${getLocalized(pl, "name", lang)}, ${pl.block_id || pl.tehsil_id || ""}, ${districtDisplay}`
         );
+        if (districtData && !officerParam) {
+          const res = resolveOfficers(pl.local_body_type, selectedDistId, pl.id, districtData, places);
+          const issueSlug = (searchParams.get("issue") || "street-light") as IssueSlug;
+          const primary = getPrimaryOfficerForIssue(issueSlug, res);
+          if (primary) {
+            setPublicAuthority(`Public Information Officer (PIO), ${getLocalized(primary.office, "office_name", lang)}`);
+          }
+        }
       }
     }
-  }, [places, placeParam, districtDisplay, lang]);
+  }, [places, selectedPlaceId, districtDisplay, districtData, selectedDistId, officerParam, searchParams, lang]);
 
   useEffect(() => {
     if (districtData?.offices && districtData.offices.length > 0 && !publicAuthority) {
@@ -81,6 +125,33 @@ function RtiContent() {
   };
 
   const subjectText = t(subjectKey);
+  const handleCopyRtiText = async () => {
+    const text = [
+      `${t("rti.template.formA")} - ${t("rti.template.formTitle")}`,
+      "",
+      t("rti.template.toPIO"),
+      publicAuthority || "[Public Information Officer Office]",
+      address ? `${address}, Uttar Pradesh` : "Uttar Pradesh",
+      "",
+      t("rti.template.applicantDetails", {
+        name: applicantName || "____________________",
+        address: address || "____________________",
+      }),
+      t("rti.template.particulars", {
+        subject: subjectText,
+        details:
+          details ||
+          "1. Certified copy of Action Taken Report (ATR) on earlier complaint.\n2. Certified copies of Measurement Book (MB) entries and sanctioned estimates.",
+      }),
+      t("rti.template.point4"),
+      t("rti.template.declaration"),
+    ].join("\n");
+    try {
+      await navigator.clipboard.writeText(text);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2500);
+    } catch {}
+  };
 
   return (
     <div className="max-w-[840px] mx-auto space-y-8">
@@ -95,7 +166,28 @@ function RtiContent() {
       </div>
 
       {/* FORM INPUTS (hidden on print) */}
-      <section aria-label="RTI Form" className="no-print">
+      <section aria-label="RTI Form" className="no-print space-y-5">
+        <div className="p-4 rounded-[6px] bg-surface border border-border grid grid-cols-1 sm:grid-cols-2 gap-3 overflow-visible">
+          <SearchSelect
+            label={t("flow.selectDistrict")}
+            options={districtOptions}
+            value={selectedDistId || null}
+            onSelect={(opt) => {
+              setSelectedDistId(opt.id);
+              setSelectedPlaceId("");
+              setPublicAuthority("");
+            }}
+          />
+          {selectedDistId && places.length > 0 && (
+            <SearchSelect
+              label={t("letter.pickPlaceOptional")}
+              options={placeOptions}
+              value={selectedPlaceId || null}
+              onSelect={(opt) => setSelectedPlaceId(opt.id)}
+            />
+          )}
+        </div>
+
         <Card padding={5} variant="default" elevation="none">
           <div className="space-y-4">
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -187,7 +279,14 @@ function RtiContent() {
           </div>
         </Banner>
 
-        <div className="pt-2 flex justify-end">
+        <div className="pt-2 flex flex-wrap items-center justify-end gap-2.5">
+          <Button
+            type="button"
+            variant="secondary"
+            size="md"
+            label={copied ? t("common.copied") : t("common.copyText")}
+            onClick={handleCopyRtiText}
+          />
           <Button
             type="button"
             variant="primary"
@@ -260,7 +359,7 @@ function RtiContent() {
 
           <div className="pt-8 flex justify-between items-end text-[12pt]">
             <div>
-              <p>स्थान / Place: {districtParam || "UP"}</p>
+              <p>स्थान / Place: {districtDisplay || districtParam || "UP"}</p>
               <p>दिनांक / Date: {formatDate(new Date().toISOString().split("T")[0], lang)}</p>
             </div>
             <div className="text-right">

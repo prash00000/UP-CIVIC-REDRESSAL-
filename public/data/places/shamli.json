@@ -1,1411 +1,386 @@
 [
-  {
-    "id": "v-shamli-shamli",
-    "type": "village",
-    "name_en": "Shamli Block (Gram Panchayats)",
-    "name_hi": "Shamli विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "v-shamli-kandhla",
-    "type": "village",
-    "name_en": "Kandhla Block (Gram Panchayats)",
-    "name_hi": "Kandhla विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-kandhla",
-    "block_id": "kandhla",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "v-shamli-thanabhawan",
-    "type": "village",
-    "name_en": "Thanabhawan Block (Gram Panchayats)",
-    "name_hi": "Thanabhawan विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-thanabhawan",
-    "block_id": "thanabhawan",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "v-shamli-kairana",
-    "type": "village",
-    "name_en": "Kairana Block (Gram Panchayats)",
-    "name_hi": "Kairana विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-kairana",
-    "block_id": "kairana",
-    "tehsil_id": "kairana",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "v-shamli-unn",
-    "type": "village",
-    "name_en": "Unn Block (Gram Panchayats)",
-    "name_hi": "Unn विकास खण्ड (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-unn",
-    "block_id": "unn",
-    "tehsil_id": "unn",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat"
-  },
-  {
-    "id": "po-shamli-hiranwara",
-    "type": "village",
-    "name_en": "Hiranwara (Gram Panchayat Area)",
-    "name_hi": "Hiranwara (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "251305"
-    ]
-  },
-  {
-    "id": "po-shamli-karoda-hathi",
-    "type": "village",
-    "name_en": "Karoda Hathi (Gram Panchayat Area)",
-    "name_hi": "Karoda Hathi (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "251305"
-    ]
-  },
-  {
-    "id": "po-shamli-kedi",
-    "type": "village",
-    "name_en": "Kedi (Gram Panchayat Area)",
-    "name_hi": "Kedi (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "251305"
-    ]
-  },
-  {
-    "id": "po-shamli-kurmali",
-    "type": "village",
-    "name_en": "Kurmali (Gram Panchayat Area)",
-    "name_hi": "Kurmali (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "251305"
-    ]
-  },
-  {
-    "id": "po-shamli-butrara",
-    "type": "village",
-    "name_en": "Butrara (Gram Panchayat Area)",
-    "name_hi": "Butrara (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "251305"
-    ]
-  },
-  {
-    "id": "po-shamli-choonsa",
-    "type": "village",
-    "name_en": "Choonsa (Gram Panchayat Area)",
-    "name_hi": "Choonsa (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "251305"
-    ]
-  },
-  {
-    "id": "po-shamli-gogwan-jalalpur",
-    "type": "village",
-    "name_en": "Gogwan Jalalpur (Gram Panchayat Area)",
-    "name_hi": "Gogwan Jalalpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "251305"
-    ]
-  },
-  {
-    "id": "po-shamli-bharsi",
-    "type": "village",
-    "name_en": "Bharsi (Gram Panchayat Area)",
-    "name_hi": "Bharsi (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247771"
-    ]
-  },
-  {
-    "id": "po-shamli-nala",
-    "type": "village",
-    "name_en": "Nala (Gram Panchayat Area)",
-    "name_hi": "Nala (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247771"
-    ]
-  },
-  {
-    "id": "po-shamli-bhanera",
-    "type": "village",
-    "name_en": "Bhanera (Gram Panchayat Area)",
-    "name_hi": "Bhanera (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247771"
-    ]
-  },
-  {
-    "id": "po-shamli-pipal-hera",
-    "type": "village",
-    "name_en": "Pipal Hera (Gram Panchayat Area)",
-    "name_hi": "Pipal Hera (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "251305"
-    ]
-  },
-  {
-    "id": "po-shamli-maharampur",
-    "type": "village",
-    "name_en": "Maharampur (Gram Panchayat Area)",
-    "name_hi": "Maharampur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-malandi",
-    "type": "village",
-    "name_en": "Malandi (Gram Panchayat Area)",
-    "name_hi": "Malandi (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-bhaisani-islampur",
-    "type": "village",
-    "name_en": "Bhaisani Islampur (Gram Panchayat Area)",
-    "name_hi": "Bhaisani Islampur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247777"
-    ]
-  },
-  {
-    "id": "po-shamli-chausana",
-    "type": "village",
-    "name_en": "Chausana (Gram Panchayat Area)",
-    "name_hi": "Chausana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247778"
-    ]
-  },
-  {
-    "id": "po-shamli-gagaur",
-    "type": "village",
-    "name_en": "Gagaur (Gram Panchayat Area)",
-    "name_hi": "Gagaur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247778"
-    ]
-  },
-  {
-    "id": "po-shamli-garhi-hasanpur",
-    "type": "village",
-    "name_en": "Garhi Hasanpur (Gram Panchayat Area)",
-    "name_hi": "Garhi Hasanpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247778"
-    ]
-  },
-  {
-    "id": "po-shamli-kail-shikarpur",
-    "type": "village",
-    "name_en": "Kail Shikarpur (Gram Panchayat Area)",
-    "name_hi": "Kail Shikarpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247777"
-    ]
-  },
-  {
-    "id": "po-shamli-mundet-khadar",
-    "type": "village",
-    "name_en": "Mundet Khadar (Gram Panchayat Area)",
-    "name_hi": "Mundet Khadar (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247778"
-    ]
-  },
-  {
-    "id": "po-shamli-rangana",
-    "type": "village",
-    "name_en": "Rangana (Gram Panchayat Area)",
-    "name_hi": "Rangana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247778"
-    ]
-  },
-  {
-    "id": "po-shamli-khanpur",
-    "type": "village",
-    "name_en": "Khanpur (Gram Panchayat Area)",
-    "name_hi": "Khanpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247777"
-    ]
-  },
-  {
-    "id": "po-shamli-nojal",
-    "type": "village",
-    "name_en": "Nojal (Gram Panchayat Area)",
-    "name_hi": "Nojal (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247777"
-    ]
-  },
-  {
-    "id": "po-shamli-lank",
-    "type": "village",
-    "name_en": "Lank (Gram Panchayat Area)",
-    "name_hi": "Lank (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-taprana",
-    "type": "village",
-    "name_en": "Taprana (Gram Panchayat Area)",
-    "name_hi": "Taprana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-bhanera-jat",
-    "type": "village",
-    "name_en": "Bhanera Jat (Gram Panchayat Area)",
-    "name_hi": "Bhanera Jat (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "251319"
-    ]
-  },
-  {
-    "id": "po-shamli-harar-fatehpur",
-    "type": "village",
-    "name_en": "Harar Fatehpur (Gram Panchayat Area)",
-    "name_hi": "Harar Fatehpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247777"
-    ]
-  },
-  {
-    "id": "po-shamli-sonta",
-    "type": "village",
-    "name_en": "Sonta (Gram Panchayat Area)",
-    "name_hi": "Sonta (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "251301"
-    ]
-  },
-  {
-    "id": "po-shamli-banti-khera",
-    "type": "village",
-    "name_en": "Banti Khera (Gram Panchayat Area)",
-    "name_hi": "Banti Khera (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "251305"
-    ]
-  },
-  {
-    "id": "po-shamli-sonta-rasulpur",
-    "type": "village",
-    "name_en": "Sonta Rasulpur (Gram Panchayat Area)",
-    "name_hi": "Sonta Rasulpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247777"
-    ]
-  },
-  {
-    "id": "po-shamli-toda",
-    "type": "village",
-    "name_en": "Toda (Gram Panchayat Area)",
-    "name_hi": "Toda (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247778"
-    ]
-  },
-  {
-    "id": "po-shamli-garhi-abdulha-khan",
-    "type": "village",
-    "name_en": "Garhi Abdulha Khan (Gram Panchayat Area)",
-    "name_hi": "Garhi Abdulha Khan (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247778"
-    ]
-  },
-  {
-    "id": "po-shamli-hath-choya",
-    "type": "village",
-    "name_en": "Hath Choya (Gram Panchayat Area)",
-    "name_hi": "Hath Choya (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247778"
-    ]
-  },
-  {
-    "id": "po-shamli-pindora",
-    "type": "village",
-    "name_en": "Pindora (Gram Panchayat Area)",
-    "name_hi": "Pindora (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247778"
-    ]
-  },
-  {
-    "id": "po-shamli-lilon",
-    "type": "village",
-    "name_en": "Lilon (Gram Panchayat Area)",
-    "name_hi": "Lilon (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-silawar",
-    "type": "village",
-    "name_en": "Silawar (Gram Panchayat Area)",
-    "name_hi": "Silawar (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-titauli",
-    "type": "village",
-    "name_en": "Titauli (Gram Panchayat Area)",
-    "name_hi": "Titauli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-bhajju",
-    "type": "village",
-    "name_en": "Bhajju (Gram Panchayat Area)",
-    "name_hi": "Bhajju (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "251319"
-    ]
-  },
-  {
-    "id": "po-shamli-bhanera-udda",
-    "type": "village",
-    "name_en": "Bhanera Udda (Gram Panchayat Area)",
-    "name_hi": "Bhanera Udda (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247777"
-    ]
-  },
-  {
-    "id": "po-shamli-hind",
-    "type": "village",
-    "name_en": "Hind (Gram Panchayat Area)",
-    "name_hi": "Hind (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247777"
-    ]
-  },
-  {
-    "id": "po-shamli-chandena-mal",
-    "type": "village",
-    "name_en": "Chandena Mal (Gram Panchayat Area)",
-    "name_hi": "Chandena Mal (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247772"
-    ]
-  },
-  {
-    "id": "po-shamli-dakhori",
-    "type": "village",
-    "name_en": "Dakhori (Gram Panchayat Area)",
-    "name_hi": "Dakhori (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247772"
-    ]
-  },
-  {
-    "id": "po-shamli-gandewara",
-    "type": "village",
-    "name_en": "Gandewara (Gram Panchayat Area)",
-    "name_hi": "Gandewara (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247772"
-    ]
-  },
-  {
-    "id": "po-shamli-bhoora",
-    "type": "village",
-    "name_en": "Bhoora (Gram Panchayat Area)",
-    "name_hi": "Bhoora (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247774"
-    ]
-  },
-  {
-    "id": "po-shamli-hasanpur-luhari",
-    "type": "village",
-    "name_en": "Hasanpur Luhari (Gram Panchayat Area)",
-    "name_hi": "Hasanpur Luhari (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247772"
-    ]
-  },
-  {
-    "id": "po-shamli-tana",
-    "type": "village",
-    "name_en": "Tana (Gram Panchayat Area)",
-    "name_hi": "Tana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247773"
-    ]
-  },
-  {
-    "id": "po-shamli-kheri-buchha",
-    "type": "village",
-    "name_en": "Kheri Buchha (Gram Panchayat Area)",
-    "name_hi": "Kheri Buchha (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247774"
-    ]
-  },
-  {
-    "id": "po-shamli-uncha-gaon",
-    "type": "village",
-    "name_en": "Uncha Gaon (Gram Panchayat Area)",
-    "name_hi": "Uncha Gaon (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247774"
-    ]
-  },
-  {
-    "id": "po-shamli-dundu-khera",
-    "type": "village",
-    "name_en": "Dundu Khera (Gram Panchayat Area)",
-    "name_hi": "Dundu Khera (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247775"
-    ]
-  },
-  {
-    "id": "po-shamli-kiwana",
-    "type": "village",
-    "name_en": "Kiwana (Gram Panchayat Area)",
-    "name_hi": "Kiwana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247775"
-    ]
-  },
-  {
-    "id": "po-shamli-shamli-sugar-mills",
-    "type": "village",
-    "name_en": "Shamli Sugar Mills (Gram Panchayat Area)",
-    "name_hi": "Shamli Sugar Mills (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-badheo",
-    "type": "village",
-    "name_en": "Badheo (Gram Panchayat Area)",
-    "name_hi": "Badheo (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-balwa",
-    "type": "village",
-    "name_en": "Balwa (Gram Panchayat Area)",
-    "name_hi": "Balwa (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-garhi-pukhta",
-    "type": "village",
-    "name_en": "Garhi Pukhta (Gram Panchayat Area)",
-    "name_hi": "Garhi Pukhta (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-kudana",
-    "type": "village",
-    "name_en": "Kudana (Gram Panchayat Area)",
-    "name_hi": "Kudana (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-kandela",
-    "type": "village",
-    "name_en": "Kandela (Gram Panchayat Area)",
-    "name_hi": "Kandela (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247774"
-    ]
-  },
-  {
-    "id": "po-shamli-khurgaon-issopur",
-    "type": "village",
-    "name_en": "Khurgaon Issopur (Gram Panchayat Area)",
-    "name_hi": "Khurgaon Issopur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247774"
-    ]
-  },
-  {
-    "id": "po-shamli-garhi-daulat",
-    "type": "village",
-    "name_en": "Garhi Daulat (Gram Panchayat Area)",
-    "name_hi": "Garhi Daulat (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247775"
-    ]
-  },
-  {
-    "id": "po-shamli-islampur-ghasauli",
-    "type": "village",
-    "name_en": "Islampur Ghasauli (Gram Panchayat Area)",
-    "name_hi": "Islampur Ghasauli (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247775"
-    ]
-  },
-  {
-    "id": "po-shamli-isso-pur-teel",
-    "type": "village",
-    "name_en": "Isso Pur Teel (Gram Panchayat Area)",
-    "name_hi": "Isso Pur Teel (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247775"
-    ]
-  },
-  {
-    "id": "po-shamli-jasala",
-    "type": "village",
-    "name_en": "Jasala (Gram Panchayat Area)",
-    "name_hi": "Jasala (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247775"
-    ]
-  },
-  {
-    "id": "po-shamli-lisarh",
-    "type": "village",
-    "name_en": "Lisarh (Gram Panchayat Area)",
-    "name_hi": "Lisarh (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247775"
-    ]
-  },
-  {
-    "id": "po-shamli-banat",
-    "type": "village",
-    "name_en": "Banat (Gram Panchayat Area)",
-    "name_hi": "Banat (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-bahawari",
-    "type": "village",
-    "name_en": "Bahawari (Gram Panchayat Area)",
-    "name_hi": "Bahawari (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-dullakheri",
-    "type": "village",
-    "name_en": "Dullakheri (Gram Panchayat Area)",
-    "name_hi": "Dullakheri (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-jasana-urf-mastgarh",
-    "type": "village",
-    "name_en": "Jasana Urf Mastgarh (Gram Panchayat Area)",
-    "name_hi": "Jasana Urf Mastgarh (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-kabarout",
-    "type": "village",
-    "name_en": "Kabarout (Gram Panchayat Area)",
-    "name_hi": "Kabarout (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-nojjal",
-    "type": "village",
-    "name_en": "Nojjal (Gram Panchayat Area)",
-    "name_hi": "Nojjal (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247772"
-    ]
-  },
-  {
-    "id": "po-shamli-pawati-kalan",
-    "type": "village",
-    "name_en": "Pawati Kalan (Gram Panchayat Area)",
-    "name_hi": "Pawati Kalan (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247773"
-    ]
-  },
-  {
-    "id": "po-shamli-purmafi",
-    "type": "village",
-    "name_en": "Purmafi (Gram Panchayat Area)",
-    "name_hi": "Purmafi (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247773"
-    ]
-  },
-  {
-    "id": "po-shamli-udpur",
-    "type": "village",
-    "name_en": "Udpur (Gram Panchayat Area)",
-    "name_hi": "Udpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247773"
-    ]
-  },
-  {
-    "id": "po-shamli-beenra",
-    "type": "village",
-    "name_en": "Beenra (Gram Panchayat Area)",
-    "name_hi": "Beenra (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247774"
-    ]
-  },
-  {
-    "id": "po-shamli-titarwara",
-    "type": "village",
-    "name_en": "Titarwara (Gram Panchayat Area)",
-    "name_hi": "Titarwara (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247774"
-    ]
-  },
-  {
-    "id": "po-shamli-gangeru",
-    "type": "village",
-    "name_en": "Gangeru (Gram Panchayat Area)",
-    "name_hi": "Gangeru (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247775"
-    ]
-  },
-  {
-    "id": "po-shamli-khandrawali",
-    "type": "village",
-    "name_en": "Khandrawali (Gram Panchayat Area)",
-    "name_hi": "Khandrawali (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247775"
-    ]
-  },
-  {
-    "id": "po-shamli-makhmoolpur",
-    "type": "village",
-    "name_en": "Makhmoolpur (Gram Panchayat Area)",
-    "name_hi": "Makhmoolpur (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247775"
-    ]
-  },
-  {
-    "id": "po-shamli-rasulpur-gujran",
-    "type": "village",
-    "name_en": "Rasulpur Gujran (Gram Panchayat Area)",
-    "name_hi": "Rasulpur Gujran (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247775"
-    ]
-  },
-  {
-    "id": "po-shamli-tahirpur-bhabisa",
-    "type": "village",
-    "name_en": "Tahirpur Bhabisa (Gram Panchayat Area)",
-    "name_hi": "Tahirpur Bhabisa (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247775"
-    ]
-  },
-  {
-    "id": "po-shamli-bhainswal",
-    "type": "village",
-    "name_en": "Bhainswal (Gram Panchayat Area)",
-    "name_hi": "Bhainswal (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-kaserwa-kalan",
-    "type": "village",
-    "name_en": "Kaserwa Kalan (Gram Panchayat Area)",
-    "name_hi": "Kaserwa Kalan (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-kheri-karmu",
-    "type": "village",
-    "name_en": "Kheri Karmu (Gram Panchayat Area)",
-    "name_hi": "Kheri Karmu (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "po-shamli-gogwan",
-    "type": "village",
-    "name_en": "Gogwan (Gram Panchayat Area)",
-    "name_hi": "Gogwan (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247773"
-    ]
-  },
-  {
-    "id": "po-shamli-kairtoo",
-    "type": "village",
-    "name_en": "Kairtoo (Gram Panchayat Area)",
-    "name_hi": "Kairtoo (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-shamli",
-    "block_id": "shamli",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247773"
-    ]
-  },
-  {
-    "id": "po-shamli-sunna",
-    "type": "village",
-    "name_en": "Sunna (Gram Panchayat Area)",
-    "name_hi": "Sunna (ग्राम पंचायत क्षेत्र)",
-    "gp_id": "gp-unn",
-    "block_id": "unn",
-    "tehsil_id": "unn",
-    "district_id": "shamli",
-    "local_body_type": "gram_panchayat",
-    "pincodes": [
-      "247775"
-    ]
-  },
-  {
-    "id": "ward-shamli-ulb-shamli-main",
-    "type": "ward",
-    "name_en": "Nagar Palika Parishad Shamli (All Wards)",
-    "name_hi": "नगर पालिका शामली (सभी वार्ड)",
-    "ulb_id": "ulb-shamli-main",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "nagar_palika_parishad"
-  },
-  {
-    "id": "town-shamli-dhimanpura",
-    "type": "ward",
-    "name_en": "Dhimanpura (Urban Ward / SO)",
-    "name_hi": "Dhimanpura (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-shamli-main",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "town-shamli-jalalabad-so-muzaffarnagar",
-    "type": "ward",
-    "name_en": "Jalalabad SO Muzaffarnagar (Urban Ward / SO)",
-    "name_hi": "Jalalabad SO Muzaffarnagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-shamli-main",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "247772"
-    ]
-  },
-  {
-    "id": "town-shamli-shamli",
-    "type": "ward",
-    "name_en": "Shamli (Urban Ward / SO)",
-    "name_hi": "Shamli (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-shamli-main",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "town-shamli-thanabhawan",
-    "type": "ward",
-    "name_en": "Thanabhawan (Urban Ward / SO)",
-    "name_hi": "Thanabhawan (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-shamli-main",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "247777"
-    ]
-  },
-  {
-    "id": "town-shamli-un-so-muzaffarnagar",
-    "type": "ward",
-    "name_en": "Un SO Muzaffarnagar (Urban Ward / SO)",
-    "name_hi": "Un SO Muzaffarnagar (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-shamli-main",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "247778"
-    ]
-  },
-  {
-    "id": "town-shamli-babri",
-    "type": "ward",
-    "name_en": "Babri (Urban Ward / SO)",
-    "name_hi": "Babri (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-shamli-main",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "251305"
-    ]
-  },
-  {
-    "id": "town-shamli-jhinjhana",
-    "type": "ward",
-    "name_en": "Jhinjhana (Urban Ward / SO)",
-    "name_hi": "Jhinjhana (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-shamli-main",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "247773"
-    ]
-  },
-  {
-    "id": "town-shamli-kandhala",
-    "type": "ward",
-    "name_en": "Kandhala (Urban Ward / SO)",
-    "name_hi": "Kandhala (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-shamli-main",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "247775"
-    ]
-  },
-  {
-    "id": "town-shamli-shamli-mandi",
-    "type": "ward",
-    "name_en": "Shamli Mandi (Urban Ward / SO)",
-    "name_hi": "Shamli Mandi (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-shamli-main",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "town-shamli-bara-bazar-shamli",
-    "type": "ward",
-    "name_en": "Bara Bazar Shamli (Urban Ward / SO)",
-    "name_hi": "Bara Bazar Shamli (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-shamli-main",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "247776"
-    ]
-  },
-  {
-    "id": "town-shamli-kairana",
-    "type": "ward",
-    "name_en": "Kairana (Urban Ward / SO)",
-    "name_hi": "Kairana (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-shamli-main",
-    "tehsil_id": "kairana",
-    "district_id": "shamli",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "247774"
-    ]
-  },
-  {
-    "id": "town-shamli-ailum",
-    "type": "ward",
-    "name_en": "Ailum (Urban Ward / SO)",
-    "name_hi": "Ailum (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-shamli-main",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "247771"
-    ]
-  },
-  {
-    "id": "town-shamli-ganj-bazar-kandhala",
-    "type": "ward",
-    "name_en": "Ganj Bazar Kandhala (Urban Ward / SO)",
-    "name_hi": "Ganj Bazar Kandhala (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-shamli-main",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "247775"
-    ]
-  },
-  {
-    "id": "town-shamli-ganna-samiti-shamli",
-    "type": "ward",
-    "name_en": "Ganna Samiti Shamli (Urban Ward / SO)",
-    "name_hi": "Ganna Samiti Shamli (शहरी वार्ड क्षेत्र)",
-    "ulb_id": "ulb-shamli-main",
-    "tehsil_id": "shamli",
-    "district_id": "shamli",
-    "local_body_type": "nagar_palika_parishad",
-    "pincodes": [
-      "247776"
-    ]
-  }
+{"id":"block-shamli-shamli","type":"village","name_en":"Shamli (Full Block / All Gram Panchayats)","name_hi":"Shamli (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat"},
+{"id":"block-shamli-kandhla","type":"village","name_en":"Kandhla (Full Block / All Gram Panchayats)","name_hi":"Kandhla (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-kandhla","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat"},
+{"id":"block-shamli-thanabhawan","type":"village","name_en":"Thanabhawan (Full Block / All Gram Panchayats)","name_hi":"Thanabhawan (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-thanabhawan","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat"},
+{"id":"block-shamli-kairana","type":"village","name_en":"Kairana (Full Block / All Gram Panchayats)","name_hi":"Kairana (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-kairana","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat"},
+{"id":"block-shamli-unn","type":"village","name_en":"Unn (Full Block / All Gram Panchayats)","name_hi":"Unn (पूरा विकास खंड / सभी ग्राम पंचायतें)","gp_id":"gp-unn","block_id":"unn","tehsil_id":"unn","district_id":"shamli","local_body_type":"gram_panchayat"},
+{"id":"lgd-110461","type":"village","name_en":"Chausana Kadim (GP: Chausana)","name_hi":"Chausana Kadim (ग्रा.पं.: Chausana)","gp_id":"gp-chausana","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110462","type":"village","name_en":"Chausana Jaddid (GP: Chausana Jadid)","name_hi":"Chausana Jaddid (ग्रा.पं.: Chausana Jadid)","gp_id":"gp-chausana-jadid","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110463","type":"village","name_en":"Chausana Vishat Aht. (GP: Chausana)","name_hi":"Chausana Vishat Aht. (ग्रा.पं.: Chausana)","gp_id":"gp-chausana","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110464","type":"village","name_en":"Gangarampura (GP)","name_hi":"Gangarampura (ग्राम पंचायत)","gp_id":"gp-gangarampura","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110465","type":"village","name_en":"Jijaula (GP)","name_hi":"Jijaula (ग्राम पंचायत)","gp_id":"gp-jijaula","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110466","type":"village","name_en":"Alipura (GP: Jijaula)","name_hi":"Alipura (ग्रा.पं.: Jijaula)","gp_id":"gp-jijaula","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110467","type":"village","name_en":"Khorasama (GP)","name_hi":"Khorasama (ग्राम पंचायत)","gp_id":"gp-khorasama","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110468","type":"village","name_en":"Konthalpur (GP: Ballamazra)","name_hi":"Konthalpur (ग्रा.पं.: Ballamazra)","gp_id":"gp-ballamazra","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110469","type":"village","name_en":"Ballamazra (GP)","name_hi":"Ballamazra (ग्राम पंचायत)","gp_id":"gp-ballamazra","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110470","type":"village","name_en":"Toda (GP)","name_hi":"Toda (ग्राम पंचायत)","gp_id":"gp-toda","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110471","type":"village","name_en":"Bhogi Mazra (GP)","name_hi":"Bhogi Mazra (ग्राम पंचायत)","gp_id":"gp-bhogi-mazra","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110472","type":"village","name_en":"Harsana (GP)","name_hi":"Harsana (ग्राम पंचायत)","gp_id":"gp-harsana","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110473","type":"village","name_en":"Garhi Hasanpur (GP)","name_hi":"Garhi Hasanpur (ग्राम पंचायत)","gp_id":"gp-garhi-hasanpur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110474","type":"village","name_en":"Panthu Pura (GP)","name_hi":"Panthu Pura (ग्राम पंचायत)","gp_id":"gp-panthu-pura","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110475","type":"village","name_en":"Patti Panthu Pura (GP: Panthu Pura)","name_hi":"Patti Panthu Pura (ग्रा.पं.: Panthu Pura)","gp_id":"gp-panthu-pura","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110476","type":"village","name_en":"Taharpur (GP: Panthu Pura)","name_hi":"Taharpur (ग्रा.पं.: Panthu Pura)","gp_id":"gp-panthu-pura","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110477","type":"village","name_en":"Nai Nagla (GP)","name_hi":"Nai Nagla (ग्राम पंचायत)","gp_id":"gp-nai-nagla","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110478","type":"village","name_en":"Kheri Khush Nam (GP)","name_hi":"Kheri Khush Nam (ग्राम पंचायत)","gp_id":"gp-kheri-khush-nam","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110479","type":"village","name_en":"Dathera (GP)","name_hi":"Dathera (ग्राम पंचायत)","gp_id":"gp-dathera","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110480","type":"village","name_en":"Shamali Shamla (GP: Shamli Shamla)","name_hi":"Shamali Shamla (ग्रा.पं.: Shamli Shamla)","gp_id":"gp-shamli-shamla","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110481","type":"village","name_en":"Lawa Daudpur (GP)","name_hi":"Lawa Daudpur (ग्राम पंचायत)","gp_id":"gp-lawa-daudpur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110482","type":"village","name_en":"Basi (GP)","name_hi":"Basi (ग्राम पंचायत)","gp_id":"gp-basi","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110483","type":"village","name_en":"Chundyari (GP: Basi)","name_hi":"Chundyari (ग्रा.पं.: Basi)","gp_id":"gp-basi","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110484","type":"village","name_en":"Issa Mazra (GP: Mundet)","name_hi":"Issa Mazra (ग्रा.पं.: Mundet)","gp_id":"gp-mundet","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110485","type":"village","name_en":"Akarpur Urf Fusgarh (GP)","name_hi":"Akarpur Urf Fusgarh (ग्राम पंचायत)","gp_id":"gp-akarpur-urf-fusgarh","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110486","type":"village","name_en":"Rahatpur (GP: Akarpur Urf Fusgarh)","name_hi":"Rahatpur (ग्रा.पं.: Akarpur Urf Fusgarh)","gp_id":"gp-akarpur-urf-fusgarh","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110487","type":"village","name_en":"Mundet (GP)","name_hi":"Mundet (ग्राम पंचायत)","gp_id":"gp-mundet","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110488","type":"village","name_en":"Sanpla (GP)","name_hi":"Sanpla (ग्राम पंचायत)","gp_id":"gp-sanpla","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110489","type":"village","name_en":"Sujankheri (GP: Mundet)","name_hi":"Sujankheri (ग्रा.पं.: Mundet)","gp_id":"gp-mundet","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110490","type":"village","name_en":"Hath Chhoya (GP)","name_hi":"Hath Chhoya (ग्राम पंचायत)","gp_id":"gp-hath-chhoya","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110491","type":"village","name_en":"Pindaura Jahangeerpur (GP)","name_hi":"Pindaura Jahangeerpur (ग्राम पंचायत)","gp_id":"gp-pindaura-jahangeerpur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110492","type":"village","name_en":"Gagaur (GP)","name_hi":"Gagaur (ग्राम पंचायत)","gp_id":"gp-gagaur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110493","type":"village","name_en":"Bajheri (GP)","name_hi":"Bajheri (ग्राम पंचायत)","gp_id":"gp-bajheri","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110494","type":"village","name_en":"Un Rural (GP: Bajheri)","name_hi":"Un Rural (ग्रा.पं.: Bajheri)","gp_id":"gp-bajheri","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110495","type":"village","name_en":"Khera Bhau (GP)","name_hi":"Khera Bhau (ग्राम पंचायत)","gp_id":"gp-khera-bhau","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110496","type":"village","name_en":"Bhameri Shahpur (GP)","name_hi":"Bhameri Shahpur (ग्राम पंचायत)","gp_id":"gp-bhameri-shahpur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110497","type":"village","name_en":"Behda (GP: Bhameri Shahpur)","name_hi":"Behda (ग्रा.पं.: Bhameri Shahpur)","gp_id":"gp-bhameri-shahpur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110498","type":"village","name_en":"Dhindhali (GP)","name_hi":"Dhindhali (ग्राम पंचायत)","gp_id":"gp-dhindhali","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110499","type":"village","name_en":"Rangana (GP)","name_hi":"Rangana (ग्राम पंचायत)","gp_id":"gp-rangana","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110500","type":"village","name_en":"Bina Mazra (GP)","name_hi":"Bina Mazra (ग्राम पंचायत)","gp_id":"gp-bina-mazra","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110501","type":"village","name_en":"Machrauli (GP)","name_hi":"Machrauli (ग्राम पंचायत)","gp_id":"gp-machrauli","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110502","type":"village","name_en":"Ulahani (GP)","name_hi":"Ulahani (ग्राम पंचायत)","gp_id":"gp-ulahani","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110503","type":"village","name_en":"Subari (GP)","name_hi":"Subari (ग्राम पंचायत)","gp_id":"gp-subari","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110504","type":"village","name_en":"Yahiyapur (GP)","name_hi":"Yahiyapur (ग्राम पंचायत)","gp_id":"gp-yahiyapur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110505","type":"village","name_en":"Kirtu (GP)","name_hi":"Kirtu (ग्राम पंचायत)","gp_id":"gp-kirtu","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110506","type":"village","name_en":"Jalalpur (GP: Kirtu)","name_hi":"Jalalpur (ग्रा.पं.: Kirtu)","gp_id":"gp-kirtu","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110507","type":"village","name_en":"Singara (GP)","name_hi":"Singara (ग्राम पंचायत)","gp_id":"gp-singara","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110508","type":"village","name_en":"Khanpur (GP: Khanpur Jatan)","name_hi":"Khanpur (ग्रा.पं.: Khanpur Jatan)","gp_id":"gp-khanpur-jatan","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"lgd-110509","type":"village","name_en":"Jhinjhana Rural (GP: Khanpur Jatan)","name_hi":"Jhinjhana Rural (ग्रा.पं.: Khanpur Jatan)","gp_id":"gp-khanpur-jatan","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110510","type":"village","name_en":"Rataundh (GP: Bibipur Jalalabad)","name_hi":"Rataundh (ग्रा.पं.: Bibipur Jalalabad)","gp_id":"gp-bibipur-jalalabad","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110511","type":"village","name_en":"Bhari (GP)","name_hi":"Bhari (ग्राम पंचायत)","gp_id":"gp-bhari","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110512","type":"village","name_en":"Mustafabad (GP: Bhari)","name_hi":"Mustafabad (ग्रा.पं.: Bhari)","gp_id":"gp-bhari","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110513","type":"village","name_en":"Salhapur (GP: Bhari)","name_hi":"Salhapur (ग्रा.पं.: Bhari)","gp_id":"gp-bhari","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110514","type":"village","name_en":"Sakauti (GP: Nai Nangla)","name_hi":"Sakauti (ग्रा.पं.: Nai Nangla)","gp_id":"gp-nai-nangla","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110515","type":"village","name_en":"Nai Nagla (GP: Nai Nangla)","name_hi":"Nai Nagla (ग्रा.पं.: Nai Nangla)","gp_id":"gp-nai-nangla","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110516","type":"village","name_en":"Manglora Aht. Kadeem (GP: Ud Pur)","name_hi":"Manglora Aht. Kadeem (ग्रा.पं.: Ud Pur)","gp_id":"gp-ud-pur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110517","type":"village","name_en":"Mangalora Aht.Jadeed (GP: Ud Pur)","name_hi":"Mangalora Aht.Jadeed (ग्रा.पं.: Ud Pur)","gp_id":"gp-ud-pur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110518","type":"village","name_en":"Ud Pur (GP)","name_hi":"Ud Pur (ग्राम पंचायत)","gp_id":"gp-ud-pur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110519","type":"village","name_en":"Kamalpur (GP)","name_hi":"Kamalpur (ग्राम पंचायत)","gp_id":"gp-kamalpur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110520","type":"village","name_en":"Azizpur (GP: Kala Mazra)","name_hi":"Azizpur (ग्रा.पं.: Kala Mazra)","gp_id":"gp-kala-mazra","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110521","type":"village","name_en":"Gujarpur (GP)","name_hi":"Gujarpur (ग्राम पंचायत)","gp_id":"gp-gujarpur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110522","type":"village","name_en":"Miyan Kasba (GP)","name_hi":"Miyan Kasba (ग्राम पंचायत)","gp_id":"gp-miyan-kasba","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110523","type":"village","name_en":"Bhatti Mazra (GP: Ud Pur)","name_hi":"Bhatti Mazra (ग्रा.पं.: Ud Pur)","gp_id":"gp-ud-pur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110524","type":"village","name_en":"Manglaura Aht.Haal (GP: Ud Pur)","name_hi":"Manglaura Aht.Haal (ग्रा.पं.: Ud Pur)","gp_id":"gp-ud-pur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110525","type":"village","name_en":"Shital Garhi (GP: Miyan Kasba)","name_hi":"Shital Garhi (ग्रा.पं.: Miyan Kasba)","gp_id":"gp-miyan-kasba","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110526","type":"village","name_en":"Miyan Kasba Ahatmali (GP: Miyan Kasba)","name_hi":"Miyan Kasba Ahatmali (ग्रा.पं.: Miyan Kasba)","gp_id":"gp-miyan-kasba","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110527","type":"village","name_en":"Kala Mazra (GP)","name_hi":"Kala Mazra (ग्राम पंचायत)","gp_id":"gp-kala-mazra","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110528","type":"village","name_en":"Bidauli (GP)","name_hi":"Bidauli (ग्राम पंचायत)","gp_id":"gp-bidauli","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110529","type":"village","name_en":"Khuwajpura (GP: Bidauli)","name_hi":"Khuwajpura (ग्रा.पं.: Bidauli)","gp_id":"gp-bidauli","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110530","type":"village","name_en":"Bhau Mazra (GP: Bidauli)","name_hi":"Bhau Mazra (ग्रा.पं.: Bidauli)","gp_id":"gp-bidauli","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110531","type":"village","name_en":"Kabeerpur Ahatmali (GP: Chhatela Urf Jainpur)","name_hi":"Kabeerpur Ahatmali (ग्रा.पं.: Chhatela Urf Jainpur)","gp_id":"gp-chhatela-urf-jainpur","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110532","type":"village","name_en":"Kabeerpur Non Ahatmali (GP: Kabeerpur Ahatmali)","name_hi":"Kabeerpur Non Ahatmali (ग्रा.पं.: Kabeerpur Ahatmali)","gp_id":"gp-kabeerpur-ahatmali","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110533","type":"village","name_en":"Chhatela Urf Jainpur (GP)","name_hi":"Chhatela Urf Jainpur (ग्राम पंचायत)","gp_id":"gp-chhatela-urf-jainpur","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251301"]},
+{"id":"lgd-110534","type":"village","name_en":"Kheri Junardar (GP: Singara)","name_hi":"Kheri Junardar (ग्रा.पं.: Singara)","gp_id":"gp-singara","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110535","type":"village","name_en":"Dabheri Bujurg (GP: Tisang)","name_hi":"Dabheri Bujurg (ग्रा.पं.: Tisang)","gp_id":"gp-tisang","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251309"]},
+{"id":"lgd-110536","type":"village","name_en":"Odri (GP)","name_hi":"Odri (ग्राम पंचायत)","gp_id":"gp-odri","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110537","type":"village","name_en":"Fatehpur Non Ahatmali (GP: Odri)","name_hi":"Fatehpur Non Ahatmali (ग्रा.पं.: Odri)","gp_id":"gp-odri","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110538","type":"village","name_en":"Fatehpur Ahatmali (GP: Odri)","name_hi":"Fatehpur Ahatmali (ग्रा.पं.: Odri)","gp_id":"gp-odri","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110539","type":"village","name_en":"Yosufpur Urf Chautra (GP)","name_hi":"Yosufpur Urf Chautra (ग्राम पंचायत)","gp_id":"gp-yosufpur-urf-chautra","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110540","type":"village","name_en":"Tisang (GP)","name_hi":"Tisang (ग्राम पंचायत)","gp_id":"gp-tisang","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251314"]},
+{"id":"lgd-110541","type":"village","name_en":"Bibipur Jalalabad (GP)","name_hi":"Bibipur Jalalabad (ग्राम पंचायत)","gp_id":"gp-bibipur-jalalabad","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110542","type":"village","name_en":"Alauddinpur (GP: Patnipratapur)","name_hi":"Alauddinpur (ग्रा.पं.: Patnipratapur)","gp_id":"gp-patnipratapur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110543","type":"village","name_en":"Patnipratappur (GP: Patnipratapur)","name_hi":"Patnipratappur (ग्रा.पं.: Patnipratapur)","gp_id":"gp-patnipratapur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110544","type":"village","name_en":"Bedkheri (GP)","name_hi":"Bedkheri (ग्राम पंचायत)","gp_id":"gp-bedkheri","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110545","type":"village","name_en":"Tarapur (GP: Bedkheri)","name_hi":"Tarapur (ग्रा.पं.: Bedkheri)","gp_id":"gp-bedkheri","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110546","type":"village","name_en":"Pavti Khurd (GP: Bedkheri)","name_hi":"Pavti Khurd (ग्रा.पं.: Bedkheri)","gp_id":"gp-bedkheri","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110547","type":"village","name_en":"Asharafpur (GP: Dokpura)","name_hi":"Asharafpur (ग्रा.पं.: Dokpura)","gp_id":"gp-dokpura","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110548","type":"village","name_en":"Mansura (GP)","name_hi":"Mansura (ग्राम पंचायत)","gp_id":"gp-mansura","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110549","type":"village","name_en":"Kalri (GP: Mansura)","name_hi":"Kalri (ग्रा.पं.: Mansura)","gp_id":"gp-mansura","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110550","type":"village","name_en":"Balehda (GP: Dokpura)","name_hi":"Balehda (ग्रा.पं.: Dokpura)","gp_id":"gp-dokpura","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110551","type":"village","name_en":"Donkpura (GP: Dokpura)","name_hi":"Donkpura (ग्रा.पं.: Dokpura)","gp_id":"gp-dokpura","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110552","type":"village","name_en":"Simbhalka (GP: Khera Bhau)","name_hi":"Simbhalka (ग्रा.पं.: Khera Bhau)","gp_id":"gp-khera-bhau","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110553","type":"village","name_en":"Ambehta Rindan (GP: Ambehta)","name_hi":"Ambehta Rindan (ग्रा.पं.: Ambehta)","gp_id":"gp-ambehta","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110554","type":"village","name_en":"Sinkanderpur (GP: Sikanderpur)","name_hi":"Sinkanderpur (ग्रा.पं.: Sikanderpur)","gp_id":"gp-sikanderpur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110555","type":"village","name_en":"Jamalpur (GP)","name_hi":"Jamalpur (ग्राम पंचायत)","gp_id":"gp-jamalpur","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110556","type":"village","name_en":"Rajak Nagar (GP)","name_hi":"Rajak Nagar (ग्राम पंचायत)","gp_id":"gp-rajak-nagar","block_id":"unn","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110557","type":"village","name_en":"Hoshang Pur (GP: Dargahpur)","name_hi":"Hoshang Pur (ग्रा.पं.: Dargahpur)","gp_id":"gp-dargahpur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110558","type":"village","name_en":"Pather (GP: Barnabi)","name_hi":"Pather (ग्रा.पं.: Barnabi)","gp_id":"gp-barnabi","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110559","type":"village","name_en":"Mukundpur (GP: Barnabi)","name_hi":"Mukundpur (ग्रा.पं.: Barnabi)","gp_id":"gp-barnabi","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110560","type":"village","name_en":"Barnabi (GP)","name_hi":"Barnabi (ग्राम पंचायत)","gp_id":"gp-barnabi","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110561","type":"village","name_en":"Bibipur Hatiya (GP)","name_hi":"Bibipur Hatiya (ग्राम पंचायत)","gp_id":"gp-bibipur-hatiya","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110562","type":"village","name_en":"Jangheri (GP)","name_hi":"Jangheri (ग्राम पंचायत)","gp_id":"gp-jangheri","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110563","type":"village","name_en":"Akaberpur Sunehti (GP)","name_hi":"Akaberpur Sunehti (ग्राम पंचायत)","gp_id":"gp-akaberpur-sunehti","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110564","type":"village","name_en":"Basera Allvvival (GP: Basera)","name_hi":"Basera Allvvival (ग्रा.पं.: Basera)","gp_id":"gp-basera","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110565","type":"village","name_en":"Basera Non Allvvial (GP: Basera)","name_hi":"Basera Non Allvvial (ग्रा.पं.: Basera)","gp_id":"gp-basera","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110566","type":"village","name_en":"Mandawar (GP)","name_hi":"Mandawar (ग्राम पंचायत)","gp_id":"gp-mandawar","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110567","type":"village","name_en":"Daoheri Khurd (GP)","name_hi":"Daoheri Khurd (ग्राम पंचायत)","gp_id":"gp-daoheri-khurd","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110568","type":"village","name_en":"Issapur Khurgyan (GP)","name_hi":"Issapur Khurgyan (ग्राम पंचायत)","gp_id":"gp-issapur-khurgyan","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110569","type":"village","name_en":"Paotikalan (GP)","name_hi":"Paotikalan (ग्राम पंचायत)","gp_id":"gp-paotikalan","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110570","type":"village","name_en":"Gogawan (GP)","name_hi":"Gogawan (ग्राम पंचायत)","gp_id":"gp-gogawan","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110571","type":"village","name_en":"Paharmazra (GP: Bhura)","name_hi":"Paharmazra (ग्रा.पं.: Bhura)","gp_id":"gp-bhura","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110572","type":"village","name_en":"Bhura (GP)","name_hi":"Bhura (ग्राम पंचायत)","gp_id":"gp-bhura","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110573","type":"village","name_en":"Charhao (GP: Bhura)","name_hi":"Charhao (ग्रा.पं.: Bhura)","gp_id":"gp-bhura","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251314"]},
+{"id":"lgd-110574","type":"village","name_en":"Gandrav (GP)","name_hi":"Gandrav (ग्राम पंचायत)","gp_id":"gp-gandrav","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110575","type":"village","name_en":"Malakpur (GP)","name_hi":"Malakpur (ग्राम पंचायत)","gp_id":"gp-malakpur","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110576","type":"village","name_en":"Mohammadpur Rai (GP)","name_hi":"Mohammadpur Rai (ग्राम पंचायत)","gp_id":"gp-mohammadpur-rai","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110577","type":"village","name_en":"Naglarai Non Ahatmali (GP: Naglarai)","name_hi":"Naglarai Non Ahatmali (ग्रा.पं.: Naglarai)","gp_id":"gp-naglarai","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110578","type":"village","name_en":"Naglarai Ahatmali Kadem (GP: Naglarai)","name_hi":"Naglarai Ahatmali Kadem (ग्रा.पं.: Naglarai)","gp_id":"gp-naglarai","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110579","type":"village","name_en":"Naglarai Ahatmal Hal (GP: Naglarai)","name_hi":"Naglarai Ahatmal Hal (ग्रा.पं.: Naglarai)","gp_id":"gp-naglarai","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110580","type":"village","name_en":"Badhu Pura (GP)","name_hi":"Badhu Pura (ग्राम पंचायत)","gp_id":"gp-badhu-pura","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110581","type":"village","name_en":"Ghazipura (GP: Badhu Pura)","name_hi":"Ghazipura (ग्रा.पं.: Badhu Pura)","gp_id":"gp-badhu-pura","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251301"]},
+{"id":"lgd-110582","type":"village","name_en":"Baraala Kukarheri (GP)","name_hi":"Baraala Kukarheri (ग्राम पंचायत)","gp_id":"gp-baraala-kukarheri","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110583","type":"village","name_en":"Hingokheri (GP)","name_hi":"Hingokheri (ग्राम पंचायत)","gp_id":"gp-hingokheri","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110584","type":"village","name_en":"Shekhupura (GP)","name_hi":"Shekhupura (ग्राम पंचायत)","gp_id":"gp-shekhupura","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110585","type":"village","name_en":"Bamnoli (GP: Shekhupura)","name_hi":"Bamnoli (ग्रा.पं.: Shekhupura)","gp_id":"gp-shekhupura","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110586","type":"village","name_en":"Gadh Shayshtpur (GP: Shekhupura)","name_hi":"Gadh Shayshtpur (ग्रा.पं.: Shekhupura)","gp_id":"gp-shekhupura","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110587","type":"village","name_en":"Kandela (GP)","name_hi":"Kandela (ग्राम पंचायत)","gp_id":"gp-kandela","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110588","type":"village","name_en":"Jaganpur (GP)","name_hi":"Jaganpur (ग्राम पंचायत)","gp_id":"gp-jaganpur","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110589","type":"village","name_en":"Mannamajar (GP: Mannamajra)","name_hi":"Mannamajar (ग्रा.पं.: Mannamajra)","gp_id":"gp-mannamajra","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110590","type":"village","name_en":"Kairanaa Rural (GP)","name_hi":"Kairanaa Rural (ग्राम पंचायत)","gp_id":"gp-kairana-rural","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110591","type":"village","name_en":"Jharkheri (GP)","name_hi":"Jharkheri (ग्राम पंचायत)","gp_id":"gp-jharkheri","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110592","type":"village","name_en":"Jahanpur (GP)","name_hi":"Jahanpur (ग्राम पंचायत)","gp_id":"gp-jahanpur","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110593","type":"village","name_en":"Ghissugarh (GP: Mannamajra)","name_hi":"Ghissugarh (ग्रा.पं.: Mannamajra)","gp_id":"gp-mannamajra","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110594","type":"village","name_en":"Ramra (GP)","name_hi":"Ramra (ग्राम पंचायत)","gp_id":"gp-ramra","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110595","type":"village","name_en":"Haidarpur (GP: Mawi)","name_hi":"Haidarpur (ग्रा.पं.: Mawi)","gp_id":"gp-mawi","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110596","type":"village","name_en":"Panjeth (GP)","name_hi":"Panjeth (ग्राम पंचायत)","gp_id":"gp-panjeth","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110597","type":"village","name_en":"Mawi Non Ahatmal (GP: Mawi)","name_hi":"Mawi Non Ahatmal (ग्रा.पं.: Mawi)","gp_id":"gp-mawi","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110598","type":"village","name_en":"Mawi Timali Hall (GP: Mawi Ahatmal Timali)","name_hi":"Mawi Timali Hall (ग्रा.पं.: Mawi Ahatmal Timali)","gp_id":"gp-mawi-ahatmal-timali","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110599","type":"village","name_en":"Mawi Ahat Mali Qadim (GP: Mawi)","name_hi":"Mawi Ahat Mali Qadim (ग्रा.पं.: Mawi)","gp_id":"gp-mawi","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110600","type":"village","name_en":"Mamaur Ahat Mali Qadim (GP: Mamaur)","name_hi":"Mamaur Ahat Mali Qadim (ग्रा.पं.: Mamaur)","gp_id":"gp-mamaur","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110601","type":"village","name_en":"Mamaur Ahatmali Hall (GP: Mamaur)","name_hi":"Mamaur Ahatmali Hall (ग्रा.पं.: Mamaur)","gp_id":"gp-mamaur","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110602","type":"village","name_en":"Mamur Non Aht. (GP: Mamaur)","name_hi":"Mamur Non Aht. (ग्रा.पं.: Mamaur)","gp_id":"gp-mamaur","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110603","type":"village","name_en":"Buchcha Kheri (GP: Buchha Kheri)","name_hi":"Buchcha Kheri (ग्रा.पं.: Buchha Kheri)","gp_id":"gp-buchha-kheri","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110604","type":"village","name_en":"Titarwara (GP: Titarwada)","name_hi":"Titarwara (ग्रा.पं.: Titarwada)","gp_id":"gp-titarwada","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110605","type":"village","name_en":"Sahpat Non Ahat (GP: Sahpat)","name_hi":"Sahpat Non Ahat (ग्रा.पं.: Sahpat)","gp_id":"gp-sahpat","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110606","type":"village","name_en":"Sahpat Ahat Sabiq (GP: Sahpat)","name_hi":"Sahpat Ahat Sabiq (ग्रा.पं.: Sahpat)","gp_id":"gp-sahpat","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110607","type":"village","name_en":"Sahpat Ahat Hall (GP: Sahpat)","name_hi":"Sahpat Ahat Hall (ग्रा.पं.: Sahpat)","gp_id":"gp-sahpat","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110608","type":"village","name_en":"Erti (GP)","name_hi":"Erti (ग्राम पंचायत)","gp_id":"gp-erti","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat"},
+{"id":"lgd-110609","type":"village","name_en":"Allipur (GP)","name_hi":"Allipur (ग्राम पंचायत)","gp_id":"gp-allipur","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110610","type":"village","name_en":"Benra (GP)","name_hi":"Benra (ग्राम पंचायत)","gp_id":"gp-benra","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110611","type":"village","name_en":"Kishorpur (GP: Unchagaon)","name_hi":"Kishorpur (ग्रा.पं.: Unchagaon)","gp_id":"gp-unchagaon","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110612","type":"village","name_en":"Unchagaon (GP)","name_hi":"Unchagaon (ग्राम पंचायत)","gp_id":"gp-unchagaon","block_id":"kairana","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110613","type":"village","name_en":"Chak Dmba Kheri (GP: Khandarawali)","name_hi":"Chak Dmba Kheri (ग्रा.पं.: Khandarawali)","gp_id":"gp-khandarawali","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110614","type":"village","name_en":"Kheri Salha (GP: Khandarawali)","name_hi":"Kheri Salha (ग्रा.पं.: Khandarawali)","gp_id":"gp-khandarawali","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251310"]},
+{"id":"lgd-110615","type":"village","name_en":"Khandrawali (GP: Khandarawali)","name_hi":"Khandrawali (ग्रा.पं.: Khandarawali)","gp_id":"gp-khandarawali","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110616","type":"village","name_en":"Fatehpur (GP: Gujerpur)","name_hi":"Fatehpur (ग्रा.पं.: Gujerpur)","gp_id":"gp-gujerpur","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110617","type":"village","name_en":"Gujerpur (GP)","name_hi":"Gujerpur (ग्राम पंचायत)","gp_id":"gp-gujerpur","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110618","type":"village","name_en":"Aldi (GP)","name_hi":"Aldi (ग्राम पंचायत)","gp_id":"gp-aldi","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110619","type":"village","name_en":"Malakpur (GP)","name_hi":"Malakpur (ग्राम पंचायत)","gp_id":"gp-malakpur","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110620","type":"village","name_en":"Kandhla (GP)","name_hi":"कांधला अ0हदू0ज0वि0क्षै0 (ग्राम पंचायत)","gp_id":"gp-kandhla-rural","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110621","type":"village","name_en":"Bamnauli (GP: Asadpur)","name_hi":"Bamnauli (ग्रा.पं.: Asadpur)","gp_id":"gp-asadpur","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110622","type":"village","name_en":"Asadpur (GP)","name_hi":"Asadpur (ग्राम पंचायत)","gp_id":"gp-asadpur","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110623","type":"village","name_en":"Ambehta (GP: Asadpur)","name_hi":"Ambehta (ग्रा.पं.: Asadpur)","gp_id":"gp-asadpur","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110624","type":"village","name_en":"Dudhar (GP)","name_hi":"Dudhar (ग्राम पंचायत)","gp_id":"gp-dudhar","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110625","type":"village","name_en":"Dundu Khera Bangar (GP: Dundu Kehra Bangar)","name_hi":"Dundu Khera Bangar (ग्रा.पं.: Dundu Kehra Bangar)","gp_id":"gp-dundu-kehra-bangar","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110626","type":"village","name_en":"Dundu Khera Khadar (GP: Dundu Kehra Bangar)","name_hi":"Dundu Khera Khadar (ग्रा.पं.: Dundu Kehra Bangar)","gp_id":"gp-dundu-kehra-bangar","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110627","type":"village","name_en":"Kasimpur (Khadar) (GP: Dundu Kehra Bangar)","name_hi":"Kasimpur (Khadar) (ग्रा.पं.: Dundu Kehra Bangar)","gp_id":"gp-dundu-kehra-bangar","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251315"]},
+{"id":"lgd-110628","type":"village","name_en":"Kasimpur Bangar (GP: Dundu Kehra Bangar)","name_hi":"Kasimpur Bangar (ग्रा.पं.: Dundu Kehra Bangar)","gp_id":"gp-dundu-kehra-bangar","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110629","type":"village","name_en":"Gangeru Purvi (GP: Gangeru)","name_hi":"गंगेरू पूर्वी (ग्रा.पं.: Gangeru)","gp_id":"gp-gangeru","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110630","type":"village","name_en":"Chadhaw (GP)","name_hi":"Chadhaw (ग्राम पंचायत)","gp_id":"gp-chadhaw","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110631","type":"village","name_en":"Islampur Ghasauli (GP: Islampur Hgasauli)","name_hi":"Islampur Ghasauli (ग्रा.पं.: Islampur Hgasauli)","gp_id":"gp-islampur-hgasauli","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110632","type":"village","name_en":"Khera Kurtan (GP)","name_hi":"Khera Kurtan (ग्राम पंचायत)","gp_id":"gp-khera-kurtan","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110633","type":"village","name_en":"Pohkherpur (GP: Issopur Teela)","name_hi":"Pohkherpur (ग्रा.पं.: Issopur Teela)","gp_id":"gp-issopur-teela","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110634","type":"village","name_en":"Issopur Teela (GP)","name_hi":"Issopur Teela (ग्राम पंचायत)","gp_id":"gp-issopur-teela","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110635","type":"village","name_en":"Basi (GP: Issopur Teela)","name_hi":"Basi (ग्रा.पं.: Issopur Teela)","gp_id":"gp-issopur-teela","block_id":"kandhla","tehsil_id":"kairana","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110636","type":"village","name_en":"Garhi Abdullakhan (GP)","name_hi":"Garhi Abdullakhan (ग्राम पंचायत)","gp_id":"gp-garhi-abdullakhan","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110637","type":"village","name_en":"Paltheri (GP)","name_hi":"Paltheri (ग्राम पंचायत)","gp_id":"gp-paltheri","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110638","type":"village","name_en":"Aurangabad Urf Gandewara (GP)","name_hi":"Aurangabad Urf Gandewara (ग्राम पंचायत)","gp_id":"gp-aurangabad-urf-gandewara","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110639","type":"village","name_en":"Janipur (GP)","name_hi":"Janipur (ग्राम पंचायत)","gp_id":"gp-janipur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110640","type":"village","name_en":"Manakpur (GP)","name_hi":"Manakpur (ग्राम पंचायत)","gp_id":"gp-manakpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110641","type":"village","name_en":"Yunispur (GP: Manakpur)","name_hi":"Yunispur (ग्रा.पं.: Manakpur)","gp_id":"gp-manakpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110642","type":"village","name_en":"Jafarpur (GP)","name_hi":"Jafarpur (ग्राम पंचायत)","gp_id":"gp-jafarpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110643","type":"village","name_en":"Sohjani Umerpur (GP: Sohajani Umerpur)","name_hi":"Sohjani Umerpur (ग्रा.पं.: Sohajani Umerpur)","gp_id":"gp-sohajani-umerpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110644","type":"village","name_en":"Kadarpur (GP: Sohajani Umerpur)","name_hi":"Kadarpur (ग्रा.पं.: Sohajani Umerpur)","gp_id":"gp-sohajani-umerpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110645","type":"village","name_en":"Ambehta Yakubpur (GP)","name_hi":"Ambehta Yakubpur (ग्राम पंचायत)","gp_id":"gp-ambehta-yakubpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110646","type":"village","name_en":"Chandenamal (GP)","name_hi":"चन्दैनामाल (ग्राम पंचायत)","gp_id":"gp-chandenamal","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110647","type":"village","name_en":"Ahamadpur (GP)","name_hi":"Ahamadpur (ग्राम पंचायत)","gp_id":"gp-ahamadpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110648","type":"village","name_en":"Khanpur (GP)","name_hi":"Khanpur (ग्राम पंचायत)","gp_id":"gp-khanpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110649","type":"village","name_en":"Manat Manti (GP: Mant Manti)","name_hi":"मनट मन्टी (ग्रा.पं.: Mant Manti)","gp_id":"gp-mant-manti","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110650","type":"village","name_en":"Bhaneraudda (GP)","name_hi":"Bhaneraudda (ग्राम पंचायत)","gp_id":"gp-bhaneraudda","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110651","type":"village","name_en":"Dabheri (GP)","name_hi":"Dabheri (ग्राम पंचायत)","gp_id":"gp-dabheri","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110652","type":"village","name_en":"Dakhori Jamalpur (GP)","name_hi":"Dakhori Jamalpur (ग्राम पंचायत)","gp_id":"gp-dakhori-jamalpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110653","type":"village","name_en":"Alipur (GP: Umerpur)","name_hi":"Alipur (ग्रा.पं.: Umerpur)","gp_id":"gp-umerpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110654","type":"village","name_en":"Umarpur (GP: Umerpur)","name_hi":"उमरपुर (ग्रा.पं.: Umerpur)","gp_id":"gp-umerpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110655","type":"village","name_en":"Nagal (GP)","name_hi":"Nagal (ग्राम पंचायत)","gp_id":"gp-nagal","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110656","type":"village","name_en":"Jalalabad (Rural) (GP)","name_hi":"Jalalabad (Rural) (ग्राम पंचायत)","gp_id":"gp-jalalabad-rural","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110657","type":"village","name_en":"Ahata Gos Garh (GP)","name_hi":"Ahata Gos Garh (ग्राम पंचायत)","gp_id":"gp-ahata-gos-garh","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110658","type":"village","name_en":"Ismailpur (GP: Nagal)","name_hi":"Ismailpur (ग्रा.पं.: Nagal)","gp_id":"gp-nagal","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110659","type":"village","name_en":"Hasanpur Lahari (GP)","name_hi":"Hasanpur Lahari (ग्राम पंचायत)","gp_id":"gp-hasanpur-lahari","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110660","type":"village","name_en":"Khiavri (GP)","name_hi":"Khiavri (ग्राम पंचायत)","gp_id":"gp-khiavri","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110661","type":"village","name_en":"Thanabhawan Patti Kalru (GP: Thanabhawan (Rural))","name_hi":"थानाभवनपटटीकालरू (ग्रा.पं.: Thanabhawan (Rural))","gp_id":"gp-thanabhawan-rural","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110662","type":"village","name_en":"Mullapur (GP)","name_hi":"Mullapur (ग्राम पंचायत)","gp_id":"gp-mullapur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110663","type":"village","name_en":"Jamalpur (GP: Mullapur)","name_hi":"Jamalpur (ग्रा.पं.: Mullapur)","gp_id":"gp-mullapur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110664","type":"village","name_en":"Bhaisani Islampur (GP)","name_hi":"भैसानी इस्लामपुर (ग्राम पंचायत)","gp_id":"gp-bhaisani-islampur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110665","type":"village","name_en":"Niralsi Urf Kadargarh (GP: Kadargarh)","name_hi":"Niralsi Urf Kadargarh (ग्रा.पं.: Kadargarh)","gp_id":"gp-kadargarh","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110666","type":"village","name_en":"Niralsi Urf Maru Kheri (GP: Niralsi Urf Makh Kheri)","name_hi":"निरालसीउर्फमारूखेडी (ग्रा.पं.: Niralsi Urf Makh Kheri)","gp_id":"gp-niralsi-urf-makh-kheri","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"lgd-110667","type":"village","name_en":"Kutub Garh (GP: Kutab Garh)","name_hi":"Kutub Garh (ग्रा.पं.: Kutab Garh)","gp_id":"gp-kutab-garh","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110668","type":"village","name_en":"Titarsi (GP)","name_hi":"Titarsi (ग्राम पंचायत)","gp_id":"gp-titarsi","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110669","type":"village","name_en":"Pawar Khera (GP: Titarsi)","name_hi":"Pawar Khera (ग्रा.पं.: Titarsi)","gp_id":"gp-titarsi","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110670","type":"village","name_en":"Abdullapur Urf Mor Majra (GP: Abdullapur Urf Morj Majra)","name_hi":"अब्दुल्लापुरउर्फमोरमजरा (ग्रा.पं.: Abdullapur Urf Morj Majra)","gp_id":"gp-abdullapur-urf-morj-majra","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110671","type":"village","name_en":"Gogwan Jalalpur (GP: Gogwanpur Jalalpur)","name_hi":"Gogwan Jalalpur (ग्रा.पं.: Gogwanpur Jalalpur)","gp_id":"gp-gogwanpur-jalalpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"lgd-110672","type":"village","name_en":"Hiranwara (GP)","name_hi":"Hiranwara (ग्राम पंचायत)","gp_id":"gp-hiranwara","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"lgd-110673","type":"village","name_en":"Ladomazri (GP: Raipur)","name_hi":"लाडो मजरी (ग्रा.पं.: Raipur)","gp_id":"gp-raipur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"lgd-110674","type":"village","name_en":"Raipur (GP)","name_hi":"Raipur (ग्राम पंचायत)","gp_id":"gp-raipur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110675","type":"village","name_en":"Nojal Nojali (GP)","name_hi":"नोजल नोजली (ग्राम पंचायत)","gp_id":"gp-nojal-nojali","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110676","type":"village","name_en":"Harar Fatehpur (GP)","name_hi":"Harar Fatehpur (ग्राम पंचायत)","gp_id":"gp-harar-fatehpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110677","type":"village","name_en":"Usmanpur (GP)","name_hi":"Usmanpur (ग्राम पंचायत)","gp_id":"gp-usmanpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110678","type":"village","name_en":"Hind (GP)","name_hi":"Hind (ग्राम पंचायत)","gp_id":"gp-hind","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110679","type":"village","name_en":"Sonta Rasoolpur (GP)","name_hi":"Sonta Rasoolpur (ग्राम पंचायत)","gp_id":"gp-sonta-rasoolpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110680","type":"village","name_en":"Bunta (GP)","name_hi":"Bunta (ग्राम पंचायत)","gp_id":"gp-bunta","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110681","type":"village","name_en":"Gurana (GP)","name_hi":"Gurana (ग्राम पंचायत)","gp_id":"gp-gurana","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110682","type":"village","name_en":"Yarpur (GP)","name_hi":"Yarpur (ग्राम पंचायत)","gp_id":"gp-yarpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110683","type":"village","name_en":"Khera Gadai (GP)","name_hi":"Khera Gadai (ग्राम पंचायत)","gp_id":"gp-khera-gadai","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110684","type":"village","name_en":"Kail Shikarpur (GP: Kela Shikarpur)","name_hi":"कैल शिकारपुर (ग्रा.पं.: Kela Shikarpur)","gp_id":"gp-kela-shikarpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110685","type":"village","name_en":"Thirwa (GP: Kajipura)","name_hi":"Thirwa (ग्रा.पं.: Kajipura)","gp_id":"gp-kajipura","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110686","type":"village","name_en":"Kajipura (GP)","name_hi":"Kajipura (ग्राम पंचायत)","gp_id":"gp-kajipura","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110687","type":"village","name_en":"Jasana Urf Mastgarh (GP)","name_hi":"Jasana Urf Mastgarh (ग्राम पंचायत)","gp_id":"gp-jasana-urf-mastgarh","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110688","type":"village","name_en":"Madalpur (GP)","name_hi":"Madalpur (ग्राम पंचायत)","gp_id":"gp-madalpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110689","type":"village","name_en":"Mahavatpur (GP)","name_hi":"Mahavatpur (ग्राम पंचायत)","gp_id":"gp-mahavatpur","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110690","type":"village","name_en":"Kairi (GP)","name_hi":"Kairi (ग्राम पंचायत)","gp_id":"gp-kairi","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"lgd-110691","type":"village","name_en":"Babri (GP)","name_hi":"Babri (ग्राम पंचायत)","gp_id":"gp-babri","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"lgd-110692","type":"village","name_en":"Bhandaura (GP)","name_hi":"Bhandaura (ग्राम पंचायत)","gp_id":"gp-bhandaura","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110693","type":"village","name_en":"Banti Khera (GP)","name_hi":"Banti Khera (ग्राम पंचायत)","gp_id":"gp-banti-khera","block_id":"thanabhawan","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"lgd-110694","type":"village","name_en":"Jandheri (GP)","name_hi":"Jandheri (ग्राम पंचायत)","gp_id":"gp-jandheri","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"lgd-110695","type":"village","name_en":"Dhanena (GP)","name_hi":"Dhanena (ग्राम पंचायत)","gp_id":"gp-dhanena","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110696","type":"village","name_en":"Niamatullapur (GP: Dhanena)","name_hi":"Niamatullapur (ग्रा.पं.: Dhanena)","gp_id":"gp-dhanena","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110697","type":"village","name_en":"Bhainswal (GP)","name_hi":"भैसंवाल (ग्राम पंचायत)","gp_id":"gp-bhainswal","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110698","type":"village","name_en":"Goharni (GP)","name_hi":"Goharni (ग्राम पंचायत)","gp_id":"gp-goharni","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110699","type":"village","name_en":"Silawar (GP)","name_hi":"Silawar (ग्राम पंचायत)","gp_id":"gp-silawar","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110700","type":"village","name_en":"Karori (GP)","name_hi":"Karori (ग्राम पंचायत)","gp_id":"gp-karori","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110701","type":"village","name_en":"Mahrampur (GP: Karori)","name_hi":"Mahrampur (ग्रा.पं.: Karori)","gp_id":"gp-karori","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110702","type":"village","name_en":"Sikka (GP)","name_hi":"Sikka (ग्राम पंचायत)","gp_id":"gp-sikka","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110703","type":"village","name_en":"Jalalpur (GP)","name_hi":"Jalalpur (ग्राम पंचायत)","gp_id":"gp-jalalpur","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110704","type":"village","name_en":"Shamashpur (GP: Jalalpur)","name_hi":"Shamashpur (ग्रा.पं.: Jalalpur)","gp_id":"gp-jalalpur","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110705","type":"village","name_en":"Fatehpur (GP)","name_hi":"Fatehpur (ग्राम पंचायत)","gp_id":"gp-fatehpur","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110706","type":"village","name_en":"Sehta (GP: Kudana)","name_hi":"सेहटा (ग्रा.पं.: Kudana)","gp_id":"gp-kudana","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110707","type":"village","name_en":"Kheri Bairagi (GP: Fatehpur)","name_hi":"Kheri Bairagi (ग्रा.पं.: Fatehpur)","gp_id":"gp-fatehpur","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110708","type":"village","name_en":"Khanpur Talwa Mazra (GP)","name_hi":"Khanpur Talwa Mazra (ग्राम पंचायत)","gp_id":"gp-khanpur-talwa-mazra","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110709","type":"village","name_en":"Karauda Hathi (GP: Karaunda)","name_hi":"करौदा हाथी (ग्रा.पं.: Karaunda)","gp_id":"gp-karaunda","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"lgd-110710","type":"village","name_en":"Butrada (GP)","name_hi":"Butrada (ग्राम पंचायत)","gp_id":"gp-butrada","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"lgd-110711","type":"village","name_en":"Khanpur (GP)","name_hi":"Khanpur (ग्राम पंचायत)","gp_id":"gp-khanpur","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"lgd-110712","type":"village","name_en":"Jamalpur Nagli (GP: Khanpur Talwa Mazra)","name_hi":"Jamalpur Nagli (ग्रा.पं.: Khanpur Talwa Mazra)","gp_id":"gp-khanpur-talwa-mazra","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110713","type":"village","name_en":"Kasampur (GP)","name_hi":"Kasampur (ग्राम पंचायत)","gp_id":"gp-kasampur","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"lgd-110714","type":"village","name_en":"Sonta (GP)","name_hi":"Sonta (ग्राम पंचायत)","gp_id":"gp-sonta","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251301"]},
+{"id":"lgd-110715","type":"village","name_en":"Bhanera Jat (GP)","name_hi":"Bhanera Jat (ग्राम पंचायत)","gp_id":"gp-bhanera-jat","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251319"]},
+{"id":"lgd-110716","type":"village","name_en":"Kanjer Heri (GP)","name_hi":"Kanjer Heri (ग्राम पंचायत)","gp_id":"gp-kanjer-heri","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"lgd-110717","type":"village","name_en":"Bhaju (GP: Bhanju)","name_hi":"भाजू (ग्रा.पं.: Bhanju)","gp_id":"gp-bhanju","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251319"]},
+{"id":"lgd-110718","type":"village","name_en":"Bhikki Deh (GP: Goharpur)","name_hi":"Bhikki Deh (ग्रा.पं.: Goharpur)","gp_id":"gp-goharpur","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110719","type":"village","name_en":"Goharpur (GP)","name_hi":"Goharpur (ग्राम पंचायत)","gp_id":"gp-goharpur","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"lgd-110720","type":"village","name_en":"Kudana (GP)","name_hi":"Kudana (ग्राम पंचायत)","gp_id":"gp-kudana","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110721","type":"village","name_en":"Kurmali (GP)","name_hi":"Kurmali (ग्राम पंचायत)","gp_id":"gp-kurmali","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"lgd-110722","type":"village","name_en":"Chunasa (GP)","name_hi":"Chunasa (ग्राम पंचायत)","gp_id":"gp-chunasa","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"lgd-110723","type":"village","name_en":"Adampur (GP)","name_hi":"Adampur (ग्राम पंचायत)","gp_id":"gp-adampur","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"lgd-110724","type":"village","name_en":"Kheri Karmu (GP)","name_hi":"Kheri Karmu (ग्राम पंचायत)","gp_id":"gp-kheri-karmu","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110725","type":"village","name_en":"Shamli (GP: Kheri Karmu)","name_hi":"शामली (ग्रा.पं.: Kheri Karmu)","gp_id":"gp-kheri-karmu","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110726","type":"village","name_en":"Tajpur Simbhalka (GP)","name_hi":"Tajpur Simbhalka (ग्राम पंचायत)","gp_id":"gp-tajpur-simbhalka","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110727","type":"village","name_en":"Barla Jat (GP)","name_hi":"Barla Jat (ग्राम पंचायत)","gp_id":"gp-barla-jat","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110728","type":"village","name_en":"Jhal (GP)","name_hi":"झाल (ग्राम पंचायत)","gp_id":"gp-jhal","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110729","type":"village","name_en":"Balwa (GP)","name_hi":"Balwa (ग्राम पंचायत)","gp_id":"gp-balwa","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110730","type":"village","name_en":"Lilaun (GP)","name_hi":"Lilaun (ग्राम पंचायत)","gp_id":"gp-lilaun","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110731","type":"village","name_en":"Kabraut (GP)","name_hi":"Kabraut (ग्राम पंचायत)","gp_id":"gp-kabraut","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110732","type":"village","name_en":"Bahavari (GP)","name_hi":"Bahavari (ग्राम पंचायत)","gp_id":"gp-bahavari","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110733","type":"village","name_en":"Bhikka Mazra (GP: Bhikki Majra)","name_hi":"Bhikka Mazra (ग्रा.पं.: Bhikki Majra)","gp_id":"gp-bhikki-majra","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251319"]},
+{"id":"lgd-110734","type":"village","name_en":"Kheri Patti (GP: Bhikki Majra)","name_hi":"Kheri Patti (ग्रा.पं.: Bhikki Majra)","gp_id":"gp-bhikki-majra","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251319"]},
+{"id":"lgd-110735","type":"village","name_en":"Lak (GP)","name_hi":"Lak (ग्राम पंचायत)","gp_id":"gp-lak","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110736","type":"village","name_en":"Butrari (GP)","name_hi":"Butrari (ग्राम पंचायत)","gp_id":"gp-butrari","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110737","type":"village","name_en":"Bhatu (GP)","name_hi":"Bhatu (ग्राम पंचायत)","gp_id":"gp-bhatu","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110738","type":"village","name_en":"Dulla Kheri (GP)","name_hi":"Dulla Kheri (ग्राम पंचायत)","gp_id":"gp-dulla-kheri","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110739","type":"village","name_en":"Kherki (GP)","name_hi":"Kherki (ग्राम पंचायत)","gp_id":"gp-kherki","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"lgd-110740","type":"village","name_en":"Rajhar (GP)","name_hi":"Rajhar (ग्राम पंचायत)","gp_id":"gp-rajhar","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110741","type":"village","name_en":"Garhi Pukhta Rural (GP: Rajhar)","name_hi":"Garhi Pukhta Rural (ग्रा.पं.: Rajhar)","gp_id":"gp-rajhar","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110742","type":"village","name_en":"Hasanpur (GP)","name_hi":"Hasanpur (ग्राम पंचायत)","gp_id":"gp-hasanpur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110743","type":"village","name_en":"Tana (GP)","name_hi":"Tana (ग्राम पंचायत)","gp_id":"gp-tana","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110744","type":"village","name_en":"Pelkha (GP: Palekha)","name_hi":"पेलखा (ग्रा.पं.: Palekha)","gp_id":"gp-palekha","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110745","type":"village","name_en":"Audari (GP: Palekha)","name_hi":"Audari (ग्रा.पं.: Palekha)","gp_id":"gp-palekha","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110746","type":"village","name_en":"Naunagali (GP)","name_hi":"Naunagali (ग्राम पंचायत)","gp_id":"gp-naunagali","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110747","type":"village","name_en":"Purmafi (GP)","name_hi":"Purmafi (ग्राम पंचायत)","gp_id":"gp-purmaafi","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110748","type":"village","name_en":"Chonda Heri (GP: Naunagali)","name_hi":"Chonda Heri (ग्रा.पं.: Naunagali)","gp_id":"gp-naunagali","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110749","type":"village","name_en":"Dargahpur (GP)","name_hi":"Dargahpur (ग्राम पंचायत)","gp_id":"gp-dargahpur","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110750","type":"village","name_en":"Peer Khera (GP)","name_hi":"Peer Khera (ग्राम पंचायत)","gp_id":"gp-peer-khera","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110751","type":"village","name_en":"Malaindi (GP)","name_hi":"Malaindi (ग्राम पंचायत)","gp_id":"gp-malaindi","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110752","type":"village","name_en":"Taprana (GP)","name_hi":"Taprana (ग्राम पंचायत)","gp_id":"gp-taprana","block_id":"unn","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110753","type":"village","name_en":"Badhevkandu Khera (GP: Badhev Kannu Khera)","name_hi":"Badhevkandu Khera (ग्रा.पं.: Badhev Kannu Khera)","gp_id":"gp-badhev-kannu-khera","block_id":"kairana","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110754","type":"village","name_en":"Mundetkalan (GP)","name_hi":"Mundetkalan (ग्राम पंचायत)","gp_id":"gp-mundetkalan","block_id":"kairana","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110755","type":"village","name_en":"Titauli (GP: Titayli)","name_hi":"टिटौली (ग्रा.पं.: Titayli)","gp_id":"gp-titayli","block_id":"kairana","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110756","type":"village","name_en":"Kaserwakhurd (GP)","name_hi":"Kaserwakhurd (ग्राम पंचायत)","gp_id":"gp-kaserwakhurd","block_id":"kairana","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110757","type":"village","name_en":"Kaserwakalan (GP)","name_hi":"Kaserwakalan (ग्राम पंचायत)","gp_id":"gp-kaserwakalan","block_id":"kairana","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110758","type":"village","name_en":"Braham Khera (GP)","name_hi":"Braham Khera (ग्राम पंचायत)","gp_id":"gp-braham-khera","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110759","type":"village","name_en":"Sher Pur (GP: Panjokhera)","name_hi":"Sher Pur (ग्रा.पं.: Panjokhera)","gp_id":"gp-panjokhera","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"lgd-110760","type":"village","name_en":"Rasoolpur Gujran (GP)","name_hi":"Rasoolpur Gujran (ग्राम पंचायत)","gp_id":"gp-rasoolpur-gujran","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110761","type":"village","name_en":"Lohripur (GP: Loharipur)","name_hi":"लोहरी पुर (ग्रा.पं.: Loharipur)","gp_id":"gp-loharipur","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110762","type":"village","name_en":"Mimla (GP: Bhiimla)","name_hi":"मीमला (ग्रा.पं.: Bhiimla)","gp_id":"gp-bhiimla","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110763","type":"village","name_en":"Panjokhera (GP)","name_hi":"Panjokhera (ग्राम पंचायत)","gp_id":"gp-panjokhera","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110764","type":"village","name_en":"Jasala (GP)","name_hi":"Jasala (ग्राम पंचायत)","gp_id":"gp-jasala","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110765","type":"village","name_en":"Faijalpur (GP: Jasala)","name_hi":"Faijalpur (ग्रा.पं.: Jasala)","gp_id":"gp-jasala","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-110766","type":"village","name_en":"Lisarh North (GP: Lisarh)","name_hi":"लिसाढ़ उत्तरी (ग्रा.पं.: Lisarh)","gp_id":"gp-lisarh","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110767","type":"village","name_en":"Matnawali (GP)","name_hi":"Matnawali (ग्राम पंचायत)","gp_id":"gp-matnawali","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110768","type":"village","name_en":"Kiwana (GP)","name_hi":"Kiwana (ग्राम पंचायत)","gp_id":"gp-kiwana","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110769","type":"village","name_en":"Rampur Kheri (GP)","name_hi":"Rampur Kheri (ग्राम पंचायत)","gp_id":"gp-rampur-kheri","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-110770","type":"village","name_en":"Shahpur (GP: Hurmzpur)","name_hi":"Shahpur (ग्रा.पं.: Hurmzpur)","gp_id":"gp-hurmzpur","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"lgd-111043","type":"village","name_en":"Salfa (GP: Salffa)","name_hi":"Salfa (ग्रा.पं.: Salffa)","gp_id":"gp-salffa","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-111051","type":"village","name_en":"Khuwaspur (GP: Khuwspur Urf Makhmulpur)","name_hi":"Khuwaspur (ग्रा.पं.: Khuwspur Urf Makhmulpur)","gp_id":"gp-khuwspur-urf-makhmulpur","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-111052","type":"village","name_en":"Sunna (GP)","name_hi":"Sunna (ग्राम पंचायत)","gp_id":"gp-sunnaa","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-111053","type":"village","name_en":"Hurmajpur (GP: Hurmzpur)","name_hi":"Hurmajpur (ग्रा.पं.: Hurmzpur)","gp_id":"gp-hurmzpur","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-111054","type":"village","name_en":"Taharpur Bhabisa (GP)","name_hi":"Taharpur Bhabisa (ग्राम पंचायत)","gp_id":"gp-taharpur-bhabisa","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-111055","type":"village","name_en":"Dangrod (GP: Daangrol)","name_hi":"Dangrod (ग्रा.पं.: Daangrol)","gp_id":"gp-daangrol","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"lgd-111056","type":"village","name_en":"Nala (GP)","name_hi":"Nala (ग्राम पंचायत)","gp_id":"gp-naala","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247771"]},
+{"id":"lgd-111057","type":"village","name_en":"Bharsi (GP: Baharsi)","name_hi":"Bharsi (ग्रा.पं.: Baharsi)","gp_id":"gp-baharsi","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247771"]},
+{"id":"lgd-111058","type":"village","name_en":"Kaniyan (GP: Kanyan)","name_hi":"Kaniyan (ग्रा.पं.: Kanyan)","gp_id":"gp-kanyan","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247771"]},
+{"id":"lgd-111059","type":"village","name_en":"Bhaneda (GP: Bahanera)","name_hi":"Bhaneda (ग्रा.पं.: Bahanera)","gp_id":"gp-bahanera","block_id":"kandhla","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247771"]},
+{"id":"po-shamli-kedi","type":"village","name_en":"Kedi (Post / GP Area)","name_hi":"Kedi (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"po-shamli-butrara","type":"village","name_en":"Butrara (Post / GP Area)","name_hi":"Butrara (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"po-shamli-choonsa","type":"village","name_en":"Choonsa (Post / GP Area)","name_hi":"Choonsa (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"po-shamli-bhanera","type":"village","name_en":"Bhanera (Post / GP Area)","name_hi":"Bhanera (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247771"]},
+{"id":"po-shamli-pipal-hera","type":"village","name_en":"Pipal Hera (Post / GP Area)","name_hi":"Pipal Hera (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251305"]},
+{"id":"po-shamli-maharampur","type":"village","name_en":"Maharampur (Post / GP Area)","name_hi":"Maharampur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"po-shamli-malandi","type":"village","name_en":"Malandi (Post / GP Area)","name_hi":"Malandi (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"po-shamli-chausana","type":"village","name_en":"Chausana (Post / GP Area)","name_hi":"Chausana (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"po-shamli-mundet-khadar","type":"village","name_en":"Mundet Khadar (Post / GP Area)","name_hi":"Mundet Khadar (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"po-shamli-nojal","type":"village","name_en":"Nojal (Post / GP Area)","name_hi":"Nojal (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247777"]},
+{"id":"po-shamli-lank","type":"village","name_en":"Lank (Post / GP Area)","name_hi":"Lank (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"po-shamli-garhi-abdulha-khan","type":"village","name_en":"Garhi Abdulha Khan (Post / GP Area)","name_hi":"Garhi Abdulha Khan (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"po-shamli-pindora","type":"village","name_en":"Pindora (Post / GP Area)","name_hi":"Pindora (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247778"]},
+{"id":"po-shamli-bhajju","type":"village","name_en":"Bhajju (Post / GP Area)","name_hi":"Bhajju (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["251319"]},
+{"id":"po-shamli-dakhori","type":"village","name_en":"Dakhori (Post / GP Area)","name_hi":"Dakhori (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"po-shamli-gandewara","type":"village","name_en":"Gandewara (Post / GP Area)","name_hi":"Gandewara (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"po-shamli-hasanpur-luhari","type":"village","name_en":"Hasanpur Luhari (Post / GP Area)","name_hi":"Hasanpur Luhari (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"po-shamli-kheri-buchha","type":"village","name_en":"Kheri Buchha (Post / GP Area)","name_hi":"Kheri Buchha (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"po-shamli-dundu-khera","type":"village","name_en":"Dundu Khera (Post / GP Area)","name_hi":"Dundu Khera (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"po-shamli-shamli-sugar-mills","type":"village","name_en":"Shamli Sugar Mills (Post / GP Area)","name_hi":"Shamli Sugar Mills (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"po-shamli-badheo","type":"village","name_en":"Badheo (Post / GP Area)","name_hi":"Badheo (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"po-shamli-khurgaon-issopur","type":"village","name_en":"Khurgaon Issopur (Post / GP Area)","name_hi":"Khurgaon Issopur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"po-shamli-garhi-daulat","type":"village","name_en":"Garhi Daulat (Post / GP Area)","name_hi":"Garhi Daulat (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"po-shamli-isso-pur-teel","type":"village","name_en":"Isso Pur Teel (Post / GP Area)","name_hi":"Isso Pur Teel (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"po-shamli-lisarh","type":"village","name_en":"Lisarh (Post / GP Area)","name_hi":"Lisarh (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"po-shamli-banat","type":"village","name_en":"Banat (Post / GP Area)","name_hi":"Banat (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"po-shamli-kabarout","type":"village","name_en":"Kabarout (Post / GP Area)","name_hi":"Kabarout (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247776"]},
+{"id":"po-shamli-nojjal","type":"village","name_en":"Nojjal (Post / GP Area)","name_hi":"Nojjal (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247772"]},
+{"id":"po-shamli-pawati-kalan","type":"village","name_en":"Pawati Kalan (Post / GP Area)","name_hi":"Pawati Kalan (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"po-shamli-beenra","type":"village","name_en":"Beenra (Post / GP Area)","name_hi":"Beenra (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247774"]},
+{"id":"po-shamli-gangeru","type":"village","name_en":"Gangeru (Post / GP Area)","name_hi":"Gangeru (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"po-shamli-makhmoolpur","type":"village","name_en":"Makhmoolpur (Post / GP Area)","name_hi":"Makhmoolpur (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"po-shamli-tahirpur-bhabisa","type":"village","name_en":"Tahirpur Bhabisa (Post / GP Area)","name_hi":"Tahirpur Bhabisa (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247775"]},
+{"id":"po-shamli-gogwan","type":"village","name_en":"Gogwan (Post / GP Area)","name_hi":"Gogwan (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"po-shamli-kairtoo","type":"village","name_en":"Kairtoo (Post / GP Area)","name_hi":"Kairtoo (डाक / ग्राम पंचायत क्षेत्र)","gp_id":"gp-shamli","block_id":"shamli","tehsil_id":"shamli","district_id":"shamli","local_body_type":"gram_panchayat","pincodes":["247773"]},
+{"id":"ward-shamli-ulb-shamli-main","type":"ward","name_en":"Nagar Palika Parishad Shamli (All Wards)","name_hi":"नगर पालिका शामली (सभी वार्ड)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_palika_parishad"},
+{"id":"lgd-ulb-248883","type":"ward","name_en":"Unn (Nagar Panchayat)","name_hi":"Unn (नगर पंचायत)","ulb_id":"ulb-shamli-main","tehsil_id":"kairana","district_id":"shamli","local_body_type":"nagar_panchayat","pincodes":["247778"]},
+{"id":"lgd-ulb-248884","type":"ward","name_en":"Jhinjhana (Nagar Panchayat)","name_hi":"Jhinjhana (नगर पंचायत)","ulb_id":"ulb-shamli-main","tehsil_id":"kairana","district_id":"shamli","local_body_type":"nagar_panchayat","pincodes":["247773"]},
+{"id":"lgd-ulb-248885","type":"ward","name_en":"Kairana (Nagar Palika Parishad)","name_hi":"Kairana (नगर पालिका परिषद)","ulb_id":"ulb-shamli-main","tehsil_id":"kairana","district_id":"shamli","local_body_type":"nagar_palika_parishad","pincodes":["247774"]},
+{"id":"lgd-ulb-248886","type":"ward","name_en":"Kandhla (Nagar Palika Parishad)","name_hi":"Kandhla (नगर पालिका परिषद)","ulb_id":"ulb-shamli-main","tehsil_id":"kairana","district_id":"shamli","local_body_type":"nagar_palika_parishad","pincodes":["247775"]},
+{"id":"lgd-ulb-248887","type":"ward","name_en":"Ailum (Nagar Panchayat)","name_hi":"Ailum (नगर पंचायत)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_panchayat","pincodes":["247771"]},
+{"id":"lgd-ulb-248888","type":"ward","name_en":"Shamli (Nagar Palika Parishad)","name_hi":"Shamli (नगर पालिका परिषद)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_palika_parishad","pincodes":["247776"]},
+{"id":"lgd-ulb-248889","type":"ward","name_en":"Banat (Nagar Panchayat)","name_hi":"Banat (नगर पंचायत)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_panchayat","pincodes":["247776"]},
+{"id":"lgd-ulb-248890","type":"ward","name_en":"Garhi Pukhta (Nagar Panchayat)","name_hi":"Garhi Pukhta (नगर पंचायत)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_panchayat","pincodes":["247776"]},
+{"id":"lgd-ulb-248891","type":"ward","name_en":"Thana Bhawan (Nagar Panchayat)","name_hi":"Thana Bhawan (नगर पंचायत)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_panchayat","pincodes":["247777"]},
+{"id":"town-shamli-dhimanpura","type":"ward","name_en":"Dhimanpura (Urban Area / SO)","name_hi":"Dhimanpura (शहरी क्षेत्र)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_palika_parishad","pincodes":["247776"]},
+{"id":"town-shamli-jalalabad-so-muzaffarnagar","type":"ward","name_en":"Jalalabad SO Muzaffarnagar (Urban Area / SO)","name_hi":"Jalalabad SO Muzaffarnagar (शहरी क्षेत्र)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_palika_parishad","pincodes":["247772"]},
+{"id":"town-shamli-shamli","type":"ward","name_en":"Shamli (Urban Area / SO)","name_hi":"Shamli (शहरी क्षेत्र)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_palika_parishad","pincodes":["247776"]},
+{"id":"town-shamli-thanabhawan","type":"ward","name_en":"Thanabhawan (Urban Area / SO)","name_hi":"Thanabhawan (शहरी क्षेत्र)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_palika_parishad","pincodes":["247777"]},
+{"id":"town-shamli-un-so-muzaffarnagar","type":"ward","name_en":"Un SO Muzaffarnagar (Urban Area / SO)","name_hi":"Un SO Muzaffarnagar (शहरी क्षेत्र)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_palika_parishad","pincodes":["247778"]},
+{"id":"town-shamli-babri","type":"ward","name_en":"Babri (Urban Area / SO)","name_hi":"Babri (शहरी क्षेत्र)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_palika_parishad","pincodes":["251305"]},
+{"id":"town-shamli-jhinjhana","type":"ward","name_en":"Jhinjhana (Urban Area / SO)","name_hi":"Jhinjhana (शहरी क्षेत्र)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_palika_parishad","pincodes":["247773"]},
+{"id":"town-shamli-kandhala","type":"ward","name_en":"Kandhala (Urban Area / SO)","name_hi":"Kandhala (शहरी क्षेत्र)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_palika_parishad","pincodes":["247775"]},
+{"id":"town-shamli-shamli-mandi","type":"ward","name_en":"Shamli Mandi (Urban Area / SO)","name_hi":"Shamli Mandi (शहरी क्षेत्र)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_palika_parishad","pincodes":["247776"]},
+{"id":"town-shamli-bara-bazar-shamli","type":"ward","name_en":"Bara Bazar Shamli (Urban Area / SO)","name_hi":"Bara Bazar Shamli (शहरी क्षेत्र)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_palika_parishad","pincodes":["247776"]},
+{"id":"town-shamli-kairana","type":"ward","name_en":"Kairana (Urban Area / SO)","name_hi":"Kairana (शहरी क्षेत्र)","ulb_id":"ulb-shamli-main","tehsil_id":"kairana","district_id":"shamli","local_body_type":"nagar_palika_parishad","pincodes":["247774"]},
+{"id":"town-shamli-ailum","type":"ward","name_en":"Ailum (Urban Area / SO)","name_hi":"Ailum (शहरी क्षेत्र)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_palika_parishad","pincodes":["247771"]},
+{"id":"town-shamli-ganj-bazar-kandhala","type":"ward","name_en":"Ganj Bazar Kandhala (Urban Area / SO)","name_hi":"Ganj Bazar Kandhala (शहरी क्षेत्र)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_palika_parishad","pincodes":["247775"]},
+{"id":"town-shamli-ganna-samiti-shamli","type":"ward","name_en":"Ganna Samiti Shamli (Urban Area / SO)","name_hi":"Ganna Samiti Shamli (शहरी क्षेत्र)","ulb_id":"ulb-shamli-main","tehsil_id":"shamli","district_id":"shamli","local_body_type":"nagar_palika_parishad","pincodes":["247776"]}
 ]

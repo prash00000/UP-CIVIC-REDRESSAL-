@@ -35,15 +35,17 @@ export default function SearchSelect({
   const containerRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
 
+  const prevValueRef = useRef(value);
   useEffect(() => {
     if (value) {
       const selected = options.find((o) => o.id === value);
       if (selected) {
         setQuery(selected.label);
       }
-    } else {
+    } else if (prevValueRef.current) {
       setQuery("");
     }
+    prevValueRef.current = value;
   }, [value, options]);
 
   const filtered = React.useMemo(() => {
@@ -58,13 +60,13 @@ export default function SearchSelect({
       const matchTarget = (opt.searchValue || `${opt.label} ${opt.sublabel || ""}`).toLowerCase();
       if (matchTarget.startsWith(clean)) {
         startsWithMatches.push(opt);
-      } else if (matchTarget.includes(clean)) {
+        if (startsWithMatches.length >= 10) break;
+      } else if (includesMatches.length < 16 && matchTarget.includes(clean)) {
         includesMatches.push(opt);
       }
-      if (startsWithMatches.length + includesMatches.length >= 16) break;
     }
 
-    return [...startsWithMatches, ...includesMatches].slice(0, 8);
+    return [...startsWithMatches, ...includesMatches].slice(0, 10);
   }, [options, query]);
 
   useEffect(() => {
@@ -103,7 +105,7 @@ export default function SearchSelect({
   };
 
   return (
-    <div ref={containerRef} className="relative w-full">
+    <div ref={containerRef} className="relative w-full scroll-mt-20">
       <label className="block text-[13px] font-bold uppercase tracking-[0.06em] text-muted mb-2">
         {label}
       </label>
@@ -156,7 +158,7 @@ export default function SearchSelect({
         <ul
           id={listboxId}
           role="listbox"
-          className="absolute z-40 w-full mt-1 bg-surface border border-borderStrong rounded-[4px] shadow-md max-h-64 overflow-y-auto divide-y divide-border"
+          className="absolute z-[60] w-full mt-1 bg-surface border border-borderStrong rounded-[4px] shadow-lg max-h-60 overflow-y-auto divide-y divide-border"
         >
           {options.length > filtered.length && (
             <li className="px-3.5 py-1.5 text-[12px] text-muted bg-bg tabular-nums">

@@ -98,7 +98,12 @@ async function fetchTextWithFallback(url: string, localFallback?: string): Promi
   }
   const res = await fetch(url, { signal: AbortSignal.timeout(30000) });
   if (!res.ok) throw new Error(`Failed to fetch ${url}: ${res.status}`);
-  return await res.text();
+  const text = await res.text();
+  if (localFallback) {
+    fs.mkdirSync(path.dirname(localFallback), { recursive: true });
+    fs.writeFileSync(localFallback, text, "utf-8");
+  }
+  return text;
 }
 
 async function buildPincodeIndex() {
@@ -112,14 +117,17 @@ async function buildPincodeIndex() {
   const districtsRaw = JSON.parse(fs.readFileSync(districtsPath, "utf-8"));
   const validDistrictIds = new Set<string>(districtsRaw.map((d: any) => d.id));
 
-  const scratchCsv =
-    "C:\\Users\\prash\\.gemini\\antigravity\\brain\\f595a4fe-b599-4a29-afd9-c9496c91a10f\\scratch\\pincode.csv";
+  const indiaPostCacheDir = path.join(process.cwd(), ".cache", "india-post");
+  const localCsvCache = path.join(indiaPostCacheDir, "pincode.csv");
+  const localBilalCache = path.join(indiaPostCacheDir, "india-postal-by-pincode.json");
+
   const csvText = await fetchTextWithFallback(
     "https://raw.githubusercontent.com/dropdevrahul/pincodes-india/master/pincode.csv",
-    scratchCsv
+    localCsvCache
   );
   const bilalText = await fetchTextWithFallback(
-    "https://raw.githubusercontent.com/bilal-webdev/india-postal-pincode-dataset/main/json/india-postal-by-pincode.json"
+    "https://raw.githubusercontent.com/bilal-webdev/india-postal-pincode-dataset/main/json/india-postal-by-pincode.json",
+    localBilalCache
   );
   const bilalData = JSON.parse(bilalText) as Record<
     string,

@@ -72,7 +72,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bulandshahr",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bulandshahr",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील बुलंदशहर",
       "phones": [
         {
           "number": "05732-203001",
@@ -95,7 +95,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Anupshahr",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Anupshahr",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील अनुपशहर",
       "phones": [
         {
           "number": "05734-203390",
@@ -118,7 +118,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Debai",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Debai",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील देबै",
       "phones": [],
       "email": "sdm.debai.bul-up@gov.in",
       "covers": [
@@ -133,7 +133,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Khurja",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Khurja",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील खुर्जा",
       "phones": [
         {
           "number": "05738-203131",
@@ -163,7 +163,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Shikarpur",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Shikarpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील शिकरपुर",
       "phones": [
         {
           "number": "05732-203395",
@@ -189,26 +189,11 @@
       "valid_as_of": "2026-11-25"
     },
     {
-      "id": "up-bulandshahr-sdm-siana",
-      "level": "tehsil",
-      "role": "sdm",
-      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Siana",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Siana",
-      "phones": [],
-      "email": "sdm.siana.bul-up@gov.in",
-      "covers": [
-        "siana"
-      ],
-      "source_url": "https://bulandshahar.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-bulandshahr-sdm-syana",
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Syana",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Syana",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील स्यना",
       "phones": [
         {
           "number": "9454416733",
@@ -231,9 +216,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bulandshahr",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bulandshahr",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बुलंदशहर",
       "phones": [],
-      "email": "bdo.bulandshahr.bul@gmail.com",
       "covers": [
         "bulandshahr"
       ],
@@ -246,7 +230,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Bulandshahr",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bulandshahr",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बुलंदशहर",
       "phones": [],
       "covers": [
         "bulandshahr"
@@ -261,9 +245,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Lakhaoti",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Lakhaoti",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक लखओती",
       "phones": [],
-      "email": "bdo.lakhaoti.bul@gmail.com",
       "covers": [
         "lakhaoti"
       ],
@@ -276,7 +259,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Lakhaoti",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Lakhaoti",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक लखओती",
       "phones": [],
       "covers": [
         "lakhaoti"
@@ -291,9 +274,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sikandrabad",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sikandrabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सिकंदराबाद",
       "phones": [],
-      "email": "bdo.sikandrabad.bul@gmail.com",
       "covers": [
         "sikandrabad"
       ],
@@ -306,7 +288,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Sikandrabad",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sikandrabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सिकंदराबाद",
       "phones": [],
       "covers": [
         "sikandrabad"
@@ -321,9 +303,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Gulaothi",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gulaothi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक गुलओथी",
       "phones": [],
-      "email": "bdo.gulaothi.bul@gmail.com",
       "covers": [
         "gulaothi"
       ],
@@ -336,7 +317,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Gulaothi",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gulaothi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक गुलओथी",
       "phones": [],
       "covers": [
         "gulaothi"
@@ -351,9 +332,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Aguta",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Aguta",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक अगुता",
       "phones": [],
-      "email": "bdo.aguta.bul@gmail.com",
       "covers": [
         "aguta"
       ],
@@ -366,7 +346,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Aguta",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Aguta",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक अगुता",
       "phones": [],
       "covers": [
         "aguta"
@@ -381,9 +361,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bhavan Bahadur Nagar",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhavan Bahadur Nagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक भवन बहदुर नगर",
       "phones": [],
-      "email": "bdo.bhavanbahadurnagar.bul@gmail.com",
       "covers": [
         "bhavan-bahadur-nagar"
       ],
@@ -396,7 +375,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Bhavan Bahadur Nagar",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhavan Bahadur Nagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक भवन बहदुर नगर",
       "phones": [],
       "covers": [
         "bhavan-bahadur-nagar"
@@ -411,9 +390,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Syana",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Syana",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक स्यना",
       "phones": [],
-      "email": "bdo.syana.bul@gmail.com",
       "covers": [
         "syana"
       ],
@@ -426,7 +404,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Syana",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Syana",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक स्यना",
       "phones": [],
       "covers": [
         "syana"
@@ -441,9 +419,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Unchagaon",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Unchagaon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक उंचागाँव",
       "phones": [],
-      "email": "bdo.unchagaon.bul@gmail.com",
       "covers": [
         "unchagaon"
       ],
@@ -456,7 +433,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Unchagaon",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Unchagaon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक उंचागाँव",
       "phones": [],
       "covers": [
         "unchagaon"
@@ -471,9 +448,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Jahangirabad",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jahangirabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक जहंगिरआबाद",
       "phones": [],
-      "email": "bdo.jahangirabad.bul@gmail.com",
       "covers": [
         "jahangirabad"
       ],
@@ -486,7 +462,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Jahangirabad",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jahangirabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक जहंगिरआबाद",
       "phones": [],
       "covers": [
         "jahangirabad"
@@ -501,9 +477,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Anupshahr",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Anupshahr",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक अनुपशहर",
       "phones": [],
-      "email": "bdo.anupshahr.bul@gmail.com",
       "covers": [
         "anupshahr"
       ],
@@ -516,7 +491,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Anupshahr",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Anupshahr",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक अनुपशहर",
       "phones": [],
       "covers": [
         "anupshahr"
@@ -531,9 +506,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Debai",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Debai",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक देबै",
       "phones": [],
-      "email": "bdo.debai.bul@gmail.com",
       "covers": [
         "debai"
       ],
@@ -546,7 +520,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Debai",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Debai",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक देबै",
       "phones": [],
       "covers": [
         "debai"
@@ -561,9 +535,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Danpur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Danpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक दनपुर",
       "phones": [],
-      "email": "bdo.danpur.bul@gmail.com",
       "covers": [
         "danpur"
       ],
@@ -576,7 +549,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Danpur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Danpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक दनपुर",
       "phones": [],
       "covers": [
         "danpur"
@@ -591,9 +564,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Dharampur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dharampur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक धरमपुर",
       "phones": [],
-      "email": "bdo.dharampur.bul@gmail.com",
       "covers": [
         "dharampur"
       ],
@@ -606,7 +578,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Dharampur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dharampur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक धरमपुर",
       "phones": [],
       "covers": [
         "dharampur"
@@ -621,9 +593,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Shikarpur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shikarpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक शिकरपुर",
       "phones": [],
-      "email": "bdo.shikarpur.bul@gmail.com",
       "covers": [
         "shikarpur"
       ],
@@ -636,7 +607,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Shikarpur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shikarpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक शिकरपुर",
       "phones": [],
       "covers": [
         "shikarpur"
@@ -651,9 +622,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Pahasu",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pahasu",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक पहसु",
       "phones": [],
-      "email": "bdo.pahasu.bul@gmail.com",
       "covers": [
         "pahasu"
       ],
@@ -666,7 +636,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Pahasu",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pahasu",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक पहसु",
       "phones": [],
       "covers": [
         "pahasu"
@@ -681,9 +651,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Khurja",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khurja",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक खुर्जा",
       "phones": [],
-      "email": "bdo.khurja.bul@gmail.com",
       "covers": [
         "khurja"
       ],
@@ -696,7 +665,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Khurja",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Khurja",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक खुर्जा",
       "phones": [],
       "covers": [
         "khurja"
@@ -711,9 +680,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Araniya",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Araniya",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक अरनिया",
       "phones": [],
-      "email": "bdo.araniya.bul@gmail.com",
       "covers": [
         "araniya"
       ],
@@ -726,7 +694,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Araniya",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Araniya",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक अरनिया",
       "phones": [],
       "covers": [
         "araniya"
@@ -803,7 +771,7 @@
       "source_url": "https://bulandshahar.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%93%e0%a4%82/page/2/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "स्याना"
+      "address_hi": "स्याना"
     },
     {
       "id": "up-bulandshahr-eo-dibai",
@@ -849,7 +817,8 @@
       "source_url": "https://bulandshahar.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%93%e0%a4%82/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "औरंगाबाद"
+      "address_hi": "औरंगाबाद",
+      "address_en": "Aurangabad"
     },
     {
       "id": "up-bulandshahr-eo-bugarasi",
@@ -872,7 +841,7 @@
       "source_url": "https://bulandshahar.nic.in/public-utility-category/municipality/page/2/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "बुगरासी"
+      "address_hi": "बुगरासी"
     },
     {
       "id": "up-bulandshahr-eo-anupashahar",
@@ -895,7 +864,7 @@
       "source_url": "https://bulandshahar.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%93%e0%a4%82/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "अनूपशहर"
+      "address_hi": "अनूपशहर"
     },
     {
       "id": "up-bulandshahr-eo-khurja",
@@ -918,7 +887,8 @@
       "source_url": "https://bulandshahar.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%93%e0%a4%82/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "खुर्जा"
+      "address_hi": "खुर्जा",
+      "address_en": "Khurja"
     },
     {
       "id": "up-bulandshahr-eo-shikarapur",
@@ -964,7 +934,7 @@
       "source_url": "https://bulandshahar.nic.in/public-utility-category/municipality/page/2/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "ककोड़"
+      "address_hi": "ककोड़"
     },
     {
       "id": "up-bulandshahr-eo-naraura",
@@ -987,7 +957,7 @@
       "source_url": "https://bulandshahar.nic.in/public-utility-category/municipality/page/2/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "नरोरा"
+      "address_hi": "नरोरा"
     },
     {
       "id": "up-bulandshahr-eo-pahasu",
@@ -1010,7 +980,7 @@
       "source_url": "https://bulandshahar.nic.in/public-utility-category/municipality/page/2/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "पहासू"
+      "address_hi": "पहासू"
     },
     {
       "id": "up-bulandshahr-eo-chhatari",
@@ -1033,7 +1003,7 @@
       "source_url": "https://bulandshahar.nic.in/public-utility-category/municipality/page/2/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "छतारी"
+      "address_hi": "छतारी"
     },
     {
       "id": "up-bulandshahr-eo-khanapur",
@@ -1056,14 +1026,14 @@
       "source_url": "https://bulandshahar.nic.in/public-utility-category/municipality/page/2/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "खानपुर"
+      "address_hi": "खानपुर"
     },
     {
       "id": "up-bulandshahr-eo-bi0bi0nagar",
       "level": "ulb",
       "role": "eo",
-      "office_name_en": "Executive Officer, Nagar Panchayat Bi0bi0nagar",
-      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत बी0बी0नगर",
+      "office_name_en": "Executive Officer, Nagar Panchayat B.B. Nagar",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत बी.बी.नगर",
       "phones": [
         {
           "number": "8189077926",
@@ -1099,6 +1069,35 @@
         "ulb-jahogirabad"
       ],
       "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-bulandshahr-sdm-sikandrabad",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sikandrabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील सिकंदराबाद",
+      "phones": [
+        {
+          "number": "9454416729",
+          "type": "office",
+          "source_url": "https://bulandshahar.nic.in/telephone_directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "number": "05735-203205",
+          "type": "landline",
+          "source_url": "https://bulandshahar.nic.in/std-pin-codes/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "sikandrabad"
+      ],
+      "source_url": "https://bulandshahar.nic.in/std-pin-codes/",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     }

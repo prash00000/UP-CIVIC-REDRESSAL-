@@ -86,7 +86,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील सदर",
       "phones": [
         {
           "number": "9454417814",
@@ -109,7 +109,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Phulpur",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Phulpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील फूलपुर",
       "phones": [
         {
           "number": "9454417816",
@@ -132,7 +132,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Soraon",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Soraon",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील सोरओन",
       "phones": [
         {
           "number": "9454417815",
@@ -155,7 +155,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Koraon",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Koraon",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील कोरओन",
       "phones": [
         {
           "number": "9454417821",
@@ -178,7 +178,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Meja",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Meja",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील मेजा",
       "phones": [
         {
           "number": "9454417820",
@@ -201,7 +201,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Karchhana",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Karchhana",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील करछना",
       "phones": [
         {
           "number": "9454417818",
@@ -224,7 +224,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bara",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bara",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील बरा",
       "phones": [
         {
           "number": "9454417819",
@@ -247,7 +247,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Handia",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Handia",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील हंदिअ",
       "phones": [
         {
           "number": "9454417817",
@@ -270,9 +270,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bahria",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bahria",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बहृअ",
       "phones": [],
-      "email": "bdo.bahria.all@gmail.com",
       "covers": [
         "bahria"
       ],
@@ -285,7 +284,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Bahria",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bahria",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बहृअ",
       "phones": [],
       "covers": [
         "bahria"
@@ -296,42 +295,11 @@
       "fallback_office_id": "up-prayagraj-bdo-bahria"
     },
     {
-      "id": "sec-bahria-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Bahria North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Bahria उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-bahria-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-bahria-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Bahria South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Bahria दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-bahria-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-bahria",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-phulpur",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Phulpur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Phulpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक फूलपुर",
       "phones": [
         {
           "number": "9454464540",
@@ -354,7 +322,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Phulpur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Phulpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक फूलपुर",
       "phones": [],
       "covers": [
         "phulpur"
@@ -365,42 +333,11 @@
       "fallback_office_id": "up-prayagraj-bdo-phulpur"
     },
     {
-      "id": "sec-phulpur-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Phulpur North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Phulpur उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-phulpur-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-phulpur-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Phulpur South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Phulpur दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-phulpur-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-phulpur",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-pratappur",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Pratappur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pratappur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक प्रतपपुर",
       "phones": [
         {
           "number": "9454464547",
@@ -423,7 +360,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Pratappur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pratappur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक प्रतपपुर",
       "phones": [],
       "covers": [
         "pratappur"
@@ -434,42 +371,11 @@
       "fallback_office_id": "up-prayagraj-bdo-pratappur"
     },
     {
-      "id": "sec-pratappur-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Pratappur North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Pratappur उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-pratappur-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-pratappur-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Pratappur South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Pratappur दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-pratappur-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-pratappur",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-mauaima",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mauaima",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mauaima",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मऊआइमा",
       "phones": [
         {
           "number": "9454464537",
@@ -492,7 +398,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Mauaima",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mauaima",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मऊआइमा",
       "phones": [],
       "covers": [
         "mauaima"
@@ -503,42 +409,11 @@
       "fallback_office_id": "up-prayagraj-bdo-mauaima"
     },
     {
-      "id": "sec-mauaima-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Mauaima North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Mauaima उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-mauaima-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-mauaima-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Mauaima South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Mauaima दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-mauaima-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-mauaima",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-holagarh",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Holagarh",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Holagarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक होलागढ़",
       "phones": [
         {
           "number": "9454464536",
@@ -561,7 +436,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Holagarh",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Holagarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक होलागढ़",
       "phones": [],
       "covers": [
         "holagarh"
@@ -572,42 +447,11 @@
       "fallback_office_id": "up-prayagraj-bdo-holagarh"
     },
     {
-      "id": "sec-holagarh-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Holagarh North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Holagarh उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-holagarh-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-holagarh-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Holagarh South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Holagarh दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-holagarh-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-holagarh",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-soraon",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Soraon",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Soraon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सोरओन",
       "phones": [
         {
           "number": "9454464538",
@@ -630,7 +474,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Soraon",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Soraon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सोरओन",
       "phones": [],
       "covers": [
         "soraon"
@@ -641,42 +485,11 @@
       "fallback_office_id": "up-prayagraj-bdo-soraon"
     },
     {
-      "id": "sec-soraon-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Soraon North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Soraon उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-soraon-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-soraon-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Soraon South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Soraon दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-soraon-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-soraon",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-kaurihar",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kaurihar",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kaurihar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक कौरिहर",
       "phones": [
         {
           "number": "9454464535",
@@ -699,7 +512,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Kaurihar",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kaurihar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक कौरिहर",
       "phones": [],
       "covers": [
         "kaurihar"
@@ -710,44 +523,12 @@
       "fallback_office_id": "up-prayagraj-bdo-kaurihar"
     },
     {
-      "id": "sec-kaurihar-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Kaurihar North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Kaurihar उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-kaurihar-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-kaurihar-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Kaurihar South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Kaurihar दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-kaurihar-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-kaurihar",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-shringverpur",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Shringverpur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shringverpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक शृंग्वेरपुर",
       "phones": [],
-      "email": "bdo.shringverpur.all@gmail.com",
       "covers": [
         "shringverpur"
       ],
@@ -760,7 +541,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Shringverpur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shringverpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक शृंग्वेरपुर",
       "phones": [],
       "covers": [
         "shringverpur"
@@ -771,42 +552,11 @@
       "fallback_office_id": "up-prayagraj-bdo-shringverpur"
     },
     {
-      "id": "sec-shringverpur-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Shringverpur North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Shringverpur उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-shringverpur-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-shringverpur-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Shringverpur South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Shringverpur दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-shringverpur-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-shringverpur",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-jasra",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Jasra",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jasra",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक जस्रा",
       "phones": [
         {
           "number": "9454464542",
@@ -829,7 +579,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Jasra",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jasra",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक जस्रा",
       "phones": [],
       "covers": [
         "jasra"
@@ -840,42 +590,11 @@
       "fallback_office_id": "up-prayagraj-bdo-jasra"
     },
     {
-      "id": "sec-jasra-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Jasra North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Jasra उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-jasra-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-jasra-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Jasra South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Jasra दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-jasra-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-jasra",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-shankargarh",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Shankargarh",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shankargarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक शंकरगढ़",
       "phones": [
         {
           "number": "9454464543",
@@ -898,7 +617,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Shankargarh",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shankargarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक शंकरगढ़",
       "phones": [],
       "covers": [
         "shankargarh"
@@ -909,44 +628,12 @@
       "fallback_office_id": "up-prayagraj-bdo-shankargarh"
     },
     {
-      "id": "sec-shankargarh-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Shankargarh North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Shankargarh उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-shankargarh-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-shankargarh-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Shankargarh South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Shankargarh दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-shankargarh-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-shankargarh",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-bara",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bara",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bara",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बरा",
       "phones": [],
-      "email": "bdo.bara.all@gmail.com",
       "covers": [
         "bara"
       ],
@@ -959,7 +646,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Bara",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bara",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बरा",
       "phones": [],
       "covers": [
         "bara"
@@ -970,42 +657,11 @@
       "fallback_office_id": "up-prayagraj-bdo-bara"
     },
     {
-      "id": "sec-bara-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Bara North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Bara उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-bara-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-bara-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Bara South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Bara दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-bara-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-bara",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-karchhana",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Karchhana",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Karchhana",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक करछना",
       "phones": [
         {
           "number": "9454464546",
@@ -1028,7 +684,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Karchhana",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Karchhana",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक करछना",
       "phones": [],
       "covers": [
         "karchhana"
@@ -1039,42 +695,11 @@
       "fallback_office_id": "up-prayagraj-bdo-karchhana"
     },
     {
-      "id": "sec-karchhana-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Karchhana North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Karchhana उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-karchhana-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-karchhana-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Karchhana South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Karchhana दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-karchhana-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-karchhana",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-chaka",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Chaka",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chaka",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक चका",
       "phones": [
         {
           "number": "9454464544",
@@ -1097,7 +722,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Chaka",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chaka",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक चका",
       "phones": [],
       "covers": [
         "chaka"
@@ -1108,42 +733,11 @@
       "fallback_office_id": "up-prayagraj-bdo-chaka"
     },
     {
-      "id": "sec-chaka-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Chaka North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Chaka उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-chaka-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-chaka-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Chaka South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Chaka दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-chaka-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-chaka",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-kaundhiyara",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kaundhiyara",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kaundhiyara",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक कौंधियरा",
       "phones": [
         {
           "number": "9454464545",
@@ -1166,7 +760,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Kaundhiyara",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kaundhiyara",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक कौंधियरा",
       "phones": [],
       "covers": [
         "kaundhiyara"
@@ -1177,42 +771,11 @@
       "fallback_office_id": "up-prayagraj-bdo-kaundhiyara"
     },
     {
-      "id": "sec-kaundhiyara-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Kaundhiyara North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Kaundhiyara उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-kaundhiyara-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-kaundhiyara-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Kaundhiyara South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Kaundhiyara दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-kaundhiyara-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-kaundhiyara",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-meja",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Meja",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Meja",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मेजा",
       "phones": [
         {
           "number": "9454464551",
@@ -1235,7 +798,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Meja",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Meja",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मेजा",
       "phones": [],
       "covers": [
         "meja"
@@ -1246,44 +809,12 @@
       "fallback_office_id": "up-prayagraj-bdo-meja"
     },
     {
-      "id": "sec-meja-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Meja North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Meja उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-meja-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-meja-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Meja South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Meja दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-meja-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-meja",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-urwa",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Urwa",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Urwa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक उरवा",
       "phones": [],
-      "email": "bdo.urwa.all@gmail.com",
       "covers": [
         "urwa"
       ],
@@ -1296,7 +827,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Urwa",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Urwa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक उरवा",
       "phones": [],
       "covers": [
         "urwa"
@@ -1307,42 +838,11 @@
       "fallback_office_id": "up-prayagraj-bdo-urwa"
     },
     {
-      "id": "sec-urwa-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Urwa North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Urwa उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-urwa-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-urwa-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Urwa South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Urwa दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-urwa-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-urwa",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-manda",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Manda",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Manda",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मंदा",
       "phones": [
         {
           "number": "9454464554",
@@ -1365,7 +865,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Manda",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Manda",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मंदा",
       "phones": [],
       "covers": [
         "manda"
@@ -1376,42 +876,11 @@
       "fallback_office_id": "up-prayagraj-bdo-manda"
     },
     {
-      "id": "sec-manda-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Manda North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Manda उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-manda-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-manda-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Manda South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Manda दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-manda-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-manda",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-koraon",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Koraon",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Koraon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक कोरओन",
       "phones": [
         {
           "number": "9454464552",
@@ -1434,7 +903,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Koraon",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Koraon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक कोरओन",
       "phones": [],
       "covers": [
         "koraon"
@@ -1445,42 +914,11 @@
       "fallback_office_id": "up-prayagraj-bdo-koraon"
     },
     {
-      "id": "sec-koraon-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Koraon North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Koraon उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-koraon-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-koraon-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Koraon South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Koraon दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-koraon-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-koraon",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-handia",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Handia",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Handia",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक हंदिअ",
       "phones": [
         {
           "number": "9454464550",
@@ -1503,7 +941,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Handia",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Handia",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक हंदिअ",
       "phones": [],
       "covers": [
         "handia"
@@ -1514,42 +952,11 @@
       "fallback_office_id": "up-prayagraj-bdo-handia"
     },
     {
-      "id": "sec-handia-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Handia North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Handia उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-handia-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-handia-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Handia South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Handia दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-handia-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-handia",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-dhanupur",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Dhanupur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dhanupur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक धनुपुर",
       "phones": [
         {
           "number": "9454464548",
@@ -1572,7 +979,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Dhanupur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dhanupur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक धनुपुर",
       "phones": [],
       "covers": [
         "dhanupur"
@@ -1583,42 +990,11 @@
       "fallback_office_id": "up-prayagraj-bdo-dhanupur"
     },
     {
-      "id": "sec-dhanupur-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Dhanupur North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Dhanupur उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-dhanupur-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-dhanupur-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Dhanupur South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Dhanupur दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-dhanupur-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-dhanupur",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-prayagraj-bdo-saidabad",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Saidabad",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Saidabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सैदआबाद",
       "phones": [
         {
           "number": "9454464549",
@@ -1641,7 +1017,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Saidabad",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Saidabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सैदआबाद",
       "phones": [],
       "covers": [
         "saidabad"
@@ -1650,37 +1026,6 @@
       "confidence": "medium",
       "valid_as_of": "2026-11-20",
       "fallback_office_id": "up-prayagraj-bdo-saidabad"
-    },
-    {
-      "id": "sec-saidabad-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Saidabad North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Saidabad उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-saidabad-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-saidabad-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Saidabad South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Saidabad दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-saidabad-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-prayagraj-ado-saidabad",
-      "source_url": "https://prayagraj.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
     },
     {
       "id": "eo-prayagraj-main",
@@ -1710,8 +1055,96 @@
       "source_url": "https://prayagraj.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20",
-      "email": "8189077826osnagarnigam@rediffmail.com",
-      "officer_name_en": "श्री चन्द्र मोहन गर्ग"
+      "email": "osnagarnigam@rediffmail.com",
+      "officer_name_en": "Shri Chandr Mohan Garg",
+      "officer_name_hi": "श्री चन्द्र मोहन गर्ग"
+    },
+    {
+      "id": "up-prayagraj-bdo-sahson",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sahson",
+      "office_name_hi": "खंड विकास अधिकारी, विकास खंड सहसोन",
+      "phones": [],
+      "covers": [
+        "sahson"
+      ],
+      "source_url": "https://prayagraj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-prayagraj-ado-sahson",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sahson",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), विकास खंड सहसोन",
+      "phones": [],
+      "covers": [
+        "sahson"
+      ],
+      "fallback_office_id": "up-prayagraj-bdo-sahson",
+      "source_url": "https://prayagraj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-prayagraj-bdo-bahadurpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bahadurpur",
+      "office_name_hi": "खंड विकास अधिकारी, विकास खंड बहदुरपुर",
+      "phones": [],
+      "covers": [
+        "bahadurpur"
+      ],
+      "source_url": "https://prayagraj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-prayagraj-ado-bahadurpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bahadurpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), विकास खंड बहदुरपुर",
+      "phones": [],
+      "covers": [
+        "bahadurpur"
+      ],
+      "fallback_office_id": "up-prayagraj-bdo-bahadurpur",
+      "source_url": "https://prayagraj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-prayagraj-bdo-bhagwatpur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Bhagwatpur",
+      "office_name_hi": "खंड विकास अधिकारी, विकास खंड भगवतपुर",
+      "phones": [],
+      "covers": [
+        "bhagwatpur"
+      ],
+      "source_url": "https://prayagraj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-prayagraj-ado-bhagwatpur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Bhagwatpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), विकास खंड भगवतपुर",
+      "phones": [],
+      "covers": [
+        "bhagwatpur"
+      ],
+      "fallback_office_id": "up-prayagraj-bdo-bhagwatpur",
+      "source_url": "https://prayagraj.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
     }
   ]
 }

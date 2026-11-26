@@ -1,4 +1,5 @@
 import { phoneRegex } from "../../lib/validate";
+import { normalizeDevanagariDigits } from "./transliterate";
 
 export interface PdfParsedRow {
   url: string;
@@ -159,7 +160,7 @@ const KD_RE = new RegExp(
 );
 
 export function isKrutiDevText(text: string): boolean {
-  return /vf\/kdkjh|ftykf\/kdkjh|\[k\.M|ikfydk|uxj|fodkl/i.test(text);
+  return /vf\/kdkjh|ftykf\/kdkjh|\[k\.M|ikfydk|uxj|fodkl|ch0Mh0vks/i.test(text);
 }
 
 export function krutiDevToUnicode(str: string): string {
@@ -186,27 +187,62 @@ export function krutiDevToUnicode(str: string): string {
   );
   work = work.replace(/Z/g, "र्");
 
+  // Convert KrutiDev ASCII '0' dot abbreviations attached to Devanagari letters (e.g. बी0डी0ओ0 -> बी.डी.ओ.)
+  work = work.replace(/([\u0900-\u097f])0+(?=[\u0900-\u097f]|\s|$|[,.:;)\]-])/g, "$1.");
+
   work = work.replace(/\uE000(\d+)\uE001/g, (_, idx) => preserved[Number(idx)] ?? "");
   return work.replace(/\s+/g, " ").trim();
+}
+
+const UP_4DIGIT_STDS = new Set([
+  "0120", "0121", "0122", "0131", "0132",
+  "0510", "0512", "0522", "0532", "0535",
+  "0542", "0547", "0548", "0551", "0562",
+  "0565", "0571", "0581", "0591", "0595",
+]);
+
+function splitStdNumber(rawDigits: string): string | null {
+  if (!/^0\d{9,10}$/.test(rawDigits)) return null;
+  const p4 = rawDigits.slice(0, 4);
+  if (UP_4DIGIT_STDS.has(p4)) {
+    const rest = rawDigits.slice(4);
+    if (/^\d{6,8}$/.test(rest)) return `${p4}-${rest}`;
+  }
+  const p5 = rawDigits.slice(0, 5);
+  const rest5 = rawDigits.slice(5);
+  if (/^\d{6,7}$/.test(rest5)) return `${p5}-${rest5}`;
+  return null;
 }
 
 export function extractPdfPhones(raw: string, stdHint?: string): string[] {
   const results = new Set<string>();
   // Split letter-to-digit joins (e.g. "Kalpi9956817178") and 16+ digit landline+CUG concatenations
-  const separated = (raw || "")
+  const separated = normalizeDevanagariDigits(raw || "")
     .replace(/&#8211;|&ndash;|&mdash;/g, "-")
-    .replace(/([a-zA-Z])(\d{6,})/g, "$1 $2")
+    .replace(/([a-zA-Z\u0900-\u097f])(\d{6,})/g, "$1 $2")
     .replace(/(\b0\d{2,4}-\d{6,7})(94\d{8}|[6-9]\d{9})(?!\d)/g, "$1 $2")
     .replace(/(\d{6,})(94\d{8}|[6-9]\d{9})(?=\D|$)/g, (all, pre, mob) =>
       pre.length + mob.length >= 16 ? `${pre} ${mob}` : all
     );
 
+  // Exact 10-digit mobiles + grouped mobiles like "6390 084 784" or "94544 65275"
   for (const m of separated.matchAll(/(?:\+?91[\s-]*)?\b0?([6-9]\d{9})\b/g)) {
     results.add(m[1]);
   }
+  for (const m of separated.matchAll(/(?:\+?91[\s-]*)?\b0?([6-9]\d{2,4}[\s-]\d{3,4}(?:[\s-]\d{3,4})?)\b/g)) {
+    const compact = m[1].replace(/[\s-]+/g, "");
+    if (/^[6-9]\d{9}$/.test(compact)) results.add(compact);
+  }
+  // Explicit STD-landline e.g. 0522-2623024 or 0522 2623024
   for (const m of separated.matchAll(/\b(0\d{2,4})[\s-]+(\d{6,8})\b/g)) {
-    const formatted = `${m[1]}-${m[2]}`;
-    if (phoneRegex.test(formatted)) results.add(formatted);
+    const digits = `${m[1]}${m[2]}`;
+    const fixed = splitStdNumber(digits) || `${m[1]}-${m[2]}`;
+    if (phoneRegex.test(fixed)) results.add(fixed);
+  }
+  // Compact 10-11 digit STD starting with 0
+  for (const m of separated.matchAll(/\b(0\d{9,10})\b/g)) {
+    const formatted = splitStdNumber(m[1]);
+    if (formatted && phoneRegex.test(formatted)) results.add(formatted);
   }
   if (stdHint && /^0\d{2,4}$/.test(stdHint)) {
     for (const m of separated.matchAll(/\b(\d{6,8})\b/g)) {
@@ -218,10 +254,12 @@ export function extractPdfPhones(raw: string, stdHint?: string): string[] {
 }
 
 const EXCLUDE_PDF_LINE_RE =
-  /शिक्षा|education|बेसिक|abhiyanta|अभियन्ता|engineer|विद्युत|electricity|नलकूप|tubewell|बाढ़|flood|police|पुलिस|थाना|thana|क्षेत्राधिकारी|inspector|आबकारी|excise|सिंचाई|irrigation|वाणिज्य|tax|समाज कल्याण|कृषि|agriculture|वन|forest|न्यायाधीश|judge|कारागार|jail|fishery|fisheries|मत्स्य|chief executive|जिला विकास अधिकारी|lekhpal|लेखपाल|bima|बीमा|yojana|योजना/i;
+  /शिक्षा|education|बेसिक|abhiyanta|अभियन्ता|engineer|विद्युत|electricity|नलकूप|tubewell|बाढ़|flood|police|पुलिस|थाना|thana|क्षेत्राधिकारी|inspector|आबकारी|excise|सिंचाई|irrigation|वाणिज्य|tax|समाज कल्याण|कृषि|agriculture|वन|forest|न्यायाधीश|judge|कारागार|jail|fishery|fisheries|मत्स्य|chief executive|जिला विकास अधिकारी|lekhpal|लेखपाल|bima|बीमा|yojana|योजना|\bdios\b|\bdio\b|\badeo\b|\bnic\b|डी[0०.]*आई[0०.]*ओ|डी[0०.]*आ[0०.]*ओ|ए[0०.]*डी[0०.]*ई[0०.]*ओ|एन[0०.]*आई[0०.]*सी/i;
 
 const DESIGNATION_PDF_LINE_RE =
-  /\b(?:dm|district magistrate|cdo|chief development officer|dpro|district panchayat raj|sdm|sub[\s-]*divisional magistrate|bdo|block development officer|eo|executive officer|municipal commissioner|nagar ayukt)\b|जिलाधिकारी|मुख्य विकास अधिकारी|जिला पंचायत\s*राज|उप\s*जिलाधिकारी|उपजिलाधिकारी|खण्ड विकास अधिकारी|खंड विकास अधिकारी|अधिशासी अधिकारी|नगर आयुक्त/i;
+  /\b(?:dm|district magistrate|cdo|chief development officer|dpro|district panchayat raj|sdm|sub[\s-]*divisional magistrate|bdo|block development officer|eo|executive officer|municipal commissioner|nagar ayukt)\b|जिलाधिकारी|मुख्य विकास अधिकारी|जिला पंचायत\s*राज|उप\s*जिलाधिकारी|उपजिलाधिकारी|खण्ड विकास अधिकारी|खंड विकास अधिकारी|अधिशासी अधिकारी|नगर आयुक्त|(?:^|[\s,(\-/])(?:बी[0०.]*डी[0०.]*ओ|एस[0०.]*डी[0०.]*एम|ई[0०.]*ओ|सी[0०.]*डी[0०.]*ओ|डी[0०.]*पी[0०.]*आर[0०.]*ओ)(?=$|[\s,.)\-/0०])/i;
+
+const MOJIBAKE_RE = /[^\x00-\x7F\u0900-\u097F\u2013\u2014\u2018-\u201D\u00A0]/;
 
 export function parsePdfDirectoryText(
   rawText: string,
@@ -253,7 +291,7 @@ export function parsePdfDirectoryText(
 
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
-    if (line.length > 150 || EXCLUDE_PDF_LINE_RE.test(line)) continue;
+    if (line.length > 150 || MOJIBAKE_RE.test(line) || EXCLUDE_PDF_LINE_RE.test(line)) continue;
     if (!DESIGNATION_PDF_LINE_RE.test(line)) continue;
 
     let combined = line;

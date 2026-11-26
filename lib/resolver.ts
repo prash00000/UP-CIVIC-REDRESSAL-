@@ -14,6 +14,7 @@ export type ResolvedOfficerItem = {
   isFallback?: boolean;
   additionalChargeNote?: boolean;
   noPhone?: boolean;
+  isRecheckFlagged?: boolean;
 };
 
 export type ResolutionResult = {
@@ -21,6 +22,7 @@ export type ResolutionResult = {
   officers: ResolvedOfficerItem[];
   hasCoverageGap: boolean;
   isCantonmentOrOther: boolean;
+  secretaryNotIndexed?: boolean;
   stateHelpline: {
     number: string;
     url: string;
@@ -35,10 +37,23 @@ export function resolveOfficers(
   placeId: string | null | undefined,
   districtData: DistrictData,
   placesList: Place[],
-  stateData?: StateData
+  stateData?: StateData,
+  recheckOfficeIds?: Set<string>
 ): ResolutionResult {
   const offices = districtData.offices || [];
   const place = placeId ? placesList.find((p) => p.id === placeId) || null : null;
+
+  const makeItem = (
+    office: Office,
+    resolvedRole: OfficeRole,
+    extra: Partial<Omit<ResolvedOfficerItem, "office" | "resolvedRole">> = {}
+  ): ResolvedOfficerItem => ({
+    office,
+    resolvedRole,
+    noPhone: office.phones.length === 0,
+    isRecheckFlagged: recheckOfficeIds ? recheckOfficeIds.has(office.id) : false,
+    ...extra,
+  });
 
   const stateInfo = {
     number: stateData?.cm_helpline?.number || "1076",
@@ -80,23 +95,46 @@ export function resolveOfficers(
   // 1. Cantonment or Authority / Other
   if (isCantonmentOrOther) {
     const list: ResolvedOfficerItem[] = [];
-    // Check if a specific cantonment office is verified
-    const canttOffice = offices.find(
-      (o) =>
-        (place?.ulb_id && o.covers.includes(place.ulb_id)) ||
+    const seenIds = new Set<string>();
+
+    // Exact ULB coverage match first (e.g. Noida, GNIDA, YEIDA, specific Cantonment)
+    let specialOffice: Office | undefined = place?.ulb_id
+      ? offices.find((o) => o.covers.includes(place.ulb_id!))
+      : undefined;
+
+    if (
+      !specialOffice &&
+      (type === "cantonment_board" || place?.local_body_type === "cantonment_board")
+    ) {
+      specialOffice = offices.find((o) =>
         o.office_name_en.toLowerCase().includes("cantonment")
-    );
-    if (canttOffice) {
-      list.push({
-        office: canttOffice,
-        resolvedRole: canttOffice.role,
-        noPhone: canttOffice.phones.length === 0,
-      });
+      );
     }
 
-    if (sdmOffice) list.push({ office: sdmOffice, resolvedRole: "sdm", noPhone: sdmOffice.phones.length === 0 });
-    if (cdoOffice) list.push({ office: cdoOffice, resolvedRole: "cdo", noPhone: cdoOffice.phones.length === 0 });
-    if (dmOffice) list.push({ office: dmOffice, resolvedRole: "dm", noPhone: dmOffice.phones.length === 0 });
+    if (specialOffice) {
+      seenIds.add(specialOffice.id);
+      list.push(makeItem(specialOffice, specialOffice.role));
+      if (specialOffice.phones.length === 0 && specialOffice.fallback_office_id) {
+        const fb = offices.find((o) => o.id === specialOffice!.fallback_office_id);
+        if (fb && fb.phones.length > 0 && !seenIds.has(fb.id)) {
+          seenIds.add(fb.id);
+          list.push(makeItem(fb, fb.role, { isFallback: true }));
+        }
+      }
+    }
+
+    if (sdmOffice && !seenIds.has(sdmOffice.id)) {
+      seenIds.add(sdmOffice.id);
+      list.push(makeItem(sdmOffice, "sdm"));
+    }
+    if (cdoOffice && !seenIds.has(cdoOffice.id)) {
+      seenIds.add(cdoOffice.id);
+      list.push(makeItem(cdoOffice, "cdo"));
+    }
+    if (dmOffice && !seenIds.has(dmOffice.id)) {
+      seenIds.add(dmOffice.id);
+      list.push(makeItem(dmOffice, "dm"));
+    }
 
     return {
       place,
@@ -119,91 +157,91 @@ export function resolveOfficers(
       ? findOffice("tehsildar", place.tehsil_id)
       : undefined;
 
-    // Check Coverage Gap: Block or GP level data is missing
+    // Check Coverage Gap: Block level data is missing
     const hasCoverageGap = !bdoOffice && !adoOffice;
 
     const list: ResolvedOfficerItem[] = [];
+    const seenIds = new Set<string>();
 
     // Secretary resolution
-    let secretaryOffice = gpId ? findOffice("secretary", gpId) : undefined;
+    const secretaryOffice = gpId ? findOffice("secretary", gpId) : undefined;
+    let secretaryNotIndexed = false;
 
-    if (!secretaryOffice || secretaryOffice.post_status === "vacant") {
-      // Secretary is vacant or missing -> fallback to fallback_office_id (ADO Panchayat, else BDO)
-      const fallbackId = secretaryOffice?.fallback_office_id;
+    if (secretaryOffice && secretaryOffice.post_status === "vacant") {
+      // Secretary post explicitly marked vacant -> resolve once to fallback office without duplicating
+      const fallbackId = secretaryOffice.fallback_office_id;
       const fallbackOffice = fallbackId
         ? offices.find((o) => o.id === fallbackId)
         : adoOffice || bdoOffice;
 
       if (fallbackOffice) {
-        list.push({
-          office: fallbackOffice,
-          resolvedRole: "secretary",
-          isVacant: true,
-          isFallback: true,
-          noPhone: fallbackOffice.phones.length === 0,
-        });
+        seenIds.add(fallbackOffice.id);
+        list.push(
+          makeItem(fallbackOffice, "secretary", {
+            isVacant: true,
+            isFallback: true,
+          })
+        );
+      }
+      if (adoOffice && !seenIds.has(adoOffice.id)) {
+        seenIds.add(adoOffice.id);
+        list.push(makeItem(adoOffice, "ado_panchayat"));
+      }
+      if (bdoOffice && !seenIds.has(bdoOffice.id)) {
+        seenIds.add(bdoOffice.id);
+        list.push(makeItem(bdoOffice, "bdo"));
+      }
+    } else if (secretaryOffice) {
+      seenIds.add(secretaryOffice.id);
+      list.push(
+        makeItem(secretaryOffice, "secretary", {
+          additionalChargeNote: secretaryOffice.post_status === "additional_charge",
+        })
+      );
+      if (adoOffice && !seenIds.has(adoOffice.id)) {
+        seenIds.add(adoOffice.id);
+        list.push(makeItem(adoOffice, "ado_panchayat"));
+      }
+      if (bdoOffice && !seenIds.has(bdoOffice.id)) {
+        seenIds.add(bdoOffice.id);
+        list.push(makeItem(bdoOffice, "bdo"));
       }
     } else {
-      list.push({
-        office: secretaryOffice,
-        resolvedRole: "secretary",
-        additionalChargeNote: secretaryOffice.post_status === "additional_charge",
-        noPhone: secretaryOffice.phones.length === 0,
-      });
+      // Statewide real LGD case: GP Secretary directory is not published centrally.
+      // Present verified BDO first instead of fabricating a vacant Secretary banner or double ADO card.
+      secretaryNotIndexed = true;
+      if (bdoOffice && !seenIds.has(bdoOffice.id)) {
+        seenIds.add(bdoOffice.id);
+        list.push(makeItem(bdoOffice, "bdo"));
+      }
+      if (adoOffice && !seenIds.has(adoOffice.id)) {
+        seenIds.add(adoOffice.id);
+        list.push(makeItem(adoOffice, "ado_panchayat"));
+      }
     }
 
-    if (adoOffice) {
-      list.push({
-        office: adoOffice,
-        resolvedRole: "ado_panchayat",
-        noPhone: adoOffice.phones.length === 0,
-      });
+    if (dproOffice && !seenIds.has(dproOffice.id)) {
+      seenIds.add(dproOffice.id);
+      list.push(makeItem(dproOffice, "dpro"));
     }
 
-    if (bdoOffice) {
-      list.push({
-        office: bdoOffice,
-        resolvedRole: "bdo",
-        noPhone: bdoOffice.phones.length === 0,
-      });
+    if (tehsildarOffice && !seenIds.has(tehsildarOffice.id)) {
+      seenIds.add(tehsildarOffice.id);
+      list.push(makeItem(tehsildarOffice, "tehsildar"));
+    }
+    if (sdmOffice && !seenIds.has(sdmOffice.id)) {
+      seenIds.add(sdmOffice.id);
+      list.push(makeItem(sdmOffice, "sdm"));
     }
 
-    if (dproOffice) {
-      list.push({
-        office: dproOffice,
-        resolvedRole: "dpro",
-        noPhone: dproOffice.phones.length === 0,
-      });
+    if (cdoOffice && !seenIds.has(cdoOffice.id)) {
+      seenIds.add(cdoOffice.id);
+      list.push(makeItem(cdoOffice, "cdo"));
     }
 
-    if (tehsildarOffice) {
-      list.push({
-        office: tehsildarOffice,
-        resolvedRole: "tehsildar",
-        noPhone: tehsildarOffice.phones.length === 0,
-      });
-    } else if (sdmOffice) {
-      list.push({
-        office: sdmOffice,
-        resolvedRole: "sdm",
-        noPhone: sdmOffice.phones.length === 0,
-      });
-    }
-
-    if (cdoOffice) {
-      list.push({
-        office: cdoOffice,
-        resolvedRole: "cdo",
-        noPhone: cdoOffice.phones.length === 0,
-      });
-    }
-
-    if (dmOffice) {
-      list.push({
-        office: dmOffice,
-        resolvedRole: "dm",
-        noPhone: dmOffice.phones.length === 0,
-      });
+    if (dmOffice && !seenIds.has(dmOffice.id)) {
+      seenIds.add(dmOffice.id);
+      list.push(makeItem(dmOffice, "dm"));
     }
 
     return {
@@ -211,6 +249,7 @@ export function resolveOfficers(
       officers: list,
       hasCoverageGap,
       isCantonmentOrOther: false,
+      secretaryNotIndexed,
       stateHelpline: stateInfo,
     };
   }
@@ -235,61 +274,35 @@ export function resolveOfficers(
         eoOffice.phones.length === 0 && eoOffice.fallback_office_id
           ? offices.find((o) => o.id === eoOffice.fallback_office_id)
           : undefined;
-      list.push({
-        office: eoOffice,
-        resolvedRole: "eo",
-        additionalChargeNote: eoOffice.post_status === "additional_charge",
-        noPhone: eoOffice.phones.length === 0,
-      });
+      list.push(
+        makeItem(eoOffice, "eo", {
+          additionalChargeNote: eoOffice.post_status === "additional_charge",
+        })
+      );
       if (eoFallback && eoFallback.phones.length > 0) {
         pushedEoFallbackId = eoFallback.id;
-        list.push({
-          office: eoFallback,
-          resolvedRole: eoFallback.role,
-          isFallback: true,
-          noPhone: false,
-        });
+        list.push(makeItem(eoFallback, eoFallback.role, { isFallback: true }));
       }
     }
 
     if (chairmanOffice) {
-      list.push({
-        office: chairmanOffice,
-        resolvedRole: "chairman",
-        noPhone: chairmanOffice.phones.length === 0,
-      });
+      list.push(makeItem(chairmanOffice, "chairman"));
     }
 
     if (wardOffice) {
-      list.push({
-        office: wardOffice,
-        resolvedRole: "ward",
-        noPhone: wardOffice.phones.length === 0,
-      });
+      list.push(makeItem(wardOffice, "ward"));
     }
 
     if (sdmOffice && sdmOffice.id !== pushedEoFallbackId) {
-      list.push({
-        office: sdmOffice,
-        resolvedRole: "sdm",
-        noPhone: sdmOffice.phones.length === 0,
-      });
+      list.push(makeItem(sdmOffice, "sdm"));
     }
 
     if (cdoOffice) {
-      list.push({
-        office: cdoOffice,
-        resolvedRole: "cdo",
-        noPhone: cdoOffice.phones.length === 0,
-      });
+      list.push(makeItem(cdoOffice, "cdo"));
     }
 
     if (dmOffice) {
-      list.push({
-        office: dmOffice,
-        resolvedRole: "dm",
-        noPhone: dmOffice.phones.length === 0,
-      });
+      list.push(makeItem(dmOffice, "dm"));
     }
 
     return {
@@ -311,43 +324,27 @@ export function resolveOfficers(
     const list: ResolvedOfficerItem[] = [];
 
     if (commOffice) {
-      list.push({
-        office: commOffice,
-        resolvedRole: "commissioner",
-        noPhone: commOffice.phones.length === 0,
-      });
+      list.push(makeItem(commOffice, "commissioner"));
     }
 
     if (mayorOffice) {
-      list.push({
-        office: mayorOffice,
-        resolvedRole: "mayor",
-        noPhone: mayorOffice.phones.length === 0,
-      });
+      list.push(makeItem(mayorOffice, "mayor"));
     }
 
     if (wardOffice) {
-      list.push({
-        office: wardOffice,
-        resolvedRole: "ward",
-        noPhone: wardOffice.phones.length === 0,
-      });
+      list.push(makeItem(wardOffice, "ward"));
+    }
+
+    if (sdmOffice) {
+      list.push(makeItem(sdmOffice, "sdm"));
     }
 
     if (cdoOffice) {
-      list.push({
-        office: cdoOffice,
-        resolvedRole: "cdo",
-        noPhone: cdoOffice.phones.length === 0,
-      });
+      list.push(makeItem(cdoOffice, "cdo"));
     }
 
     if (dmOffice) {
-      list.push({
-        office: dmOffice,
-        resolvedRole: "dm",
-        noPhone: dmOffice.phones.length === 0,
-      });
+      list.push(makeItem(dmOffice, "dm"));
     }
 
     return {
@@ -361,9 +358,9 @@ export function resolveOfficers(
 
   // Default fallback for unspecified/unknown
   const defaultList: ResolvedOfficerItem[] = [];
-  if (sdmOffice) defaultList.push({ office: sdmOffice, resolvedRole: "sdm" });
-  if (cdoOffice) defaultList.push({ office: cdoOffice, resolvedRole: "cdo" });
-  if (dmOffice) defaultList.push({ office: dmOffice, resolvedRole: "dm" });
+  if (sdmOffice) defaultList.push(makeItem(sdmOffice, "sdm"));
+  if (cdoOffice) defaultList.push(makeItem(cdoOffice, "cdo"));
+  if (dmOffice) defaultList.push(makeItem(dmOffice, "dm"));
 
   return {
     place,

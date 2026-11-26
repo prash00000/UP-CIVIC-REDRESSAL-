@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect, useMemo, Suspense } from "react";
+import React, { useState, useEffect, useMemo, useRef, useCallback, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { Breadcrumbs, BreadcrumbItem } from "@astryxdesign/core/Breadcrumbs";
@@ -25,6 +25,7 @@ import {
   loadPlacesData,
   loadPincodes,
   loadStateData,
+  loadRecheckOffices,
 } from "@/lib/data";
 import { resolveOfficers } from "@/lib/resolver";
 import { usePincodeLookup } from "@/lib/usePincodeLookup";
@@ -34,6 +35,13 @@ import {
   getPrimaryOfficerForIssue,
   getRelevantPortals,
 } from "@/lib/issue-routing";
+import {
+  formatPlaceBlockAndTehsil,
+  formatPlaceSublabel,
+  getPlaceBlockLabel,
+} from "@/lib/place-display";
+import { saveArea, readSavedArea } from "@/lib/saved-area";
+import { build1076ComplaintSummary } from "@/lib/complaint-summary";
 import SearchSelect, { SearchOption } from "@/components/SearchSelect";
 import CallButton from "@/components/CallButton";
 import VerifiedBadge from "@/components/VerifiedBadge";
@@ -62,24 +70,54 @@ function IssueView({
   const [districts, setDistricts] = useState<DistrictIndexEntry[]>([]);
   const [pincodesMap, setPincodesMap] = useState<PincodeMap>({});
   const [stateData, setStateData] = useState<StateData | null>(null);
+  const [recheckIds, setRecheckIds] = useState<Set<string>>(new Set());
 
   const [selectedDistrict, setSelectedDistrict] = useState<string>(districtParam);
   const [selectedPlace, setSelectedPlace] = useState<string>(placeParam);
   const [pinInput, setPinInput] = useState<string>(pincodeParam);
   const [placeFilter, setPlaceFilter] = useState<PlaceFilterKind>("all");
+  const [selectedBlockFilter, setSelectedBlockFilter] = useState<string>("all");
+  const [pinScope, setPinScope] = useState<"pin" | "all">("pin");
   const [editingArea, setEditingArea] = useState<boolean>(!districtParam || !placeParam);
+  const [copied1076, setCopied1076] = useState(false);
 
   const [districtData, setDistrictData] = useState<DistrictData | null>(null);
   const [places, setPlaces] = useState<Place[]>([]);
   const [loadingArea, setLoadingArea] = useState<boolean>(false);
 
+  const pincodesLoadedRef = useRef(false);
+  const lastAutoAppliedPinRef = useRef<string | null>(null);
+  const pinEditedRef = useRef(false);
+
+  const ensurePincodesLoaded = useCallback(() => {
+    if (pincodesLoadedRef.current) return;
+    pincodesLoadedRef.current = true;
+    loadPincodes().then(setPincodesMap);
+  }, []);
+
   const pinState = usePincodeLookup(pinInput, pincodesMap);
 
   useEffect(() => {
     loadDistrictsIndex().then(setDistricts);
-    loadPincodes().then(setPincodesMap);
     loadStateData().then(setStateData);
-  }, []);
+    loadRecheckOffices().then(setRecheckIds);
+    if (pincodeParam && pincodeParam.replace(/\D/g, "").length >= 3) {
+      ensurePincodesLoaded();
+    }
+    // Prefill saved area silently if no district/place/pincode query params exist
+    if (!districtParam && !placeParam && !pincodeParam) {
+      const saved = readSavedArea();
+      if (saved) {
+        setSelectedDistrict(saved.districtId);
+        setSelectedPlace(saved.placeId);
+        if (saved.pincode) {
+          setPinInput(saved.pincode);
+          ensurePincodesLoaded();
+        }
+        setEditingArea(false);
+      }
+    }
+  }, [districtParam, placeParam, pincodeParam, ensurePincodesLoaded]);
 
   useEffect(() => {
     if (!initialIssue) {
@@ -91,15 +129,22 @@ function IssueView({
   }, [slug, initialIssue]);
 
   useEffect(() => {
-    setSelectedDistrict(districtParam);
-    setSelectedPlace(placeParam);
-    if (pincodeParam) setPinInput(pincodeParam);
-    if (!districtParam || !placeParam) {
-      setEditingArea(true);
+    if (districtParam || placeParam || pincodeParam) {
+      setSelectedDistrict(districtParam);
+      setSelectedPlace(placeParam);
+      if (pincodeParam) {
+        setPinInput(pincodeParam);
+        ensurePincodesLoaded();
+      }
+      if (!districtParam || !placeParam) {
+        setEditingArea(true);
+      }
     }
-  }, [districtParam, placeParam, pincodeParam]);
+  }, [districtParam, placeParam, pincodeParam, ensurePincodesLoaded]);
 
   useEffect(() => {
+    setSelectedBlockFilter("all");
+    setPinScope("pin");
     if (selectedDistrict) {
       setLoadingArea(true);
       Promise.all([
@@ -116,24 +161,45 @@ function IssueView({
     }
   }, [selectedDistrict]);
 
-  const syncUrl = (nextDist: string, nextPlace: string, nextPin = pinInput) => {
-    const params = new URLSearchParams();
-    if (nextDist) params.set("district", nextDist);
-    if (nextPlace) params.set("place", nextPlace);
-    if (nextPin && nextPin.length === 6) params.set("pincode", nextPin);
-    const qs = params.toString();
-    router.replace(qs ? `/issue/${slug}/?${qs}` : `/issue/${slug}/`);
-  };
+  const syncUrl = useCallback(
+    (nextDist: string, nextPlace: string, nextPin: string) => {
+      const params = new URLSearchParams();
+      if (nextDist) params.set("district", nextDist);
+      if (nextPlace) params.set("place", nextPlace);
+      if (nextPin && nextPin.length === 6) params.set("pincode", nextPin);
+      const qs = params.toString();
+      router.replace(qs ? `/issue/${slug}/?${qs}` : `/issue/${slug}/`);
+    },
+    [router, slug]
+  );
 
-  // Auto-select district from single-match 6-digit PIN if no district yet chosen
+  // Auto-select district from single-match 6-digit PIN once per PIN entry (and update when edited)
   useEffect(() => {
-    if (pinInput.length === 6 && pinState.matches.length === 1 && !selectedDistrict) {
-      const matchedDist = pinState.matches[0].district_id;
-      setSelectedDistrict(matchedDist);
-      syncUrl(matchedDist, "", pinInput);
+    if (pinInput.length !== 6) {
+      lastAutoAppliedPinRef.current = null;
+      return;
     }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [pinInput, pinState.matches]);
+    if (pinState.matches.length === 1 && lastAutoAppliedPinRef.current !== pinInput) {
+      lastAutoAppliedPinRef.current = pinInput;
+      const matchedDist = pinState.matches[0].district_id;
+      if (!selectedDistrict || (pinEditedRef.current && selectedDistrict !== matchedDist)) {
+        pinEditedRef.current = false;
+        setSelectedDistrict(matchedDist);
+        setSelectedPlace("");
+        syncUrl(matchedDist, "", pinInput);
+      }
+    } else if (
+      pinEditedRef.current &&
+      pinState.matches.length > 1 &&
+      selectedDistrict &&
+      !pinState.matches.some((m) => m.district_id === selectedDistrict)
+    ) {
+      pinEditedRef.current = false;
+      setSelectedDistrict("");
+      setSelectedPlace("");
+      syncUrl("", "", pinInput);
+    }
+  }, [pinInput, pinState.matches, selectedDistrict, syncUrl]);
 
   const getDistrictName = (id: string) => {
     const found = districts.find((d) => d.id === id);
@@ -151,23 +217,49 @@ function IssueView({
     [districts, lang, t]
   );
 
+  const pinMatchedPlaces = useMemo(() => {
+    if (pinInput.length !== 6 || places.length === 0) return [];
+    return places.filter((p) => p.pincodes?.includes(pinInput));
+  }, [places, pinInput]);
+
+  const basePlaces = useMemo(() => {
+    if (pinMatchedPlaces.length > 0 && pinScope === "pin") {
+      return pinMatchedPlaces;
+    }
+    return places;
+  }, [places, pinMatchedPlaces, pinScope]);
+
+  const uniqueBlocks = useMemo(() => {
+    const map = new Map<string, string>();
+    for (const p of basePlaces) {
+      if (!p.block_id) continue;
+      if (!map.has(p.block_id)) {
+        map.set(p.block_id, getPlaceBlockLabel(p, districtData, lang) || p.block_id);
+      }
+    }
+    return Array.from(map.entries())
+      .map(([id, label]) => ({ id, label }))
+      .sort((a, b) => a.label.localeCompare(b.label));
+  }, [basePlaces, districtData, lang]);
+
   const placeOptions: SearchOption[] = useMemo(() => {
-    const filtered = places.filter((p) => {
+    const filtered = basePlaces.filter((p) => {
+      if (selectedBlockFilter !== "all" && p.block_id !== selectedBlockFilter) {
+        return false;
+      }
       if (placeFilter === "all") return true;
       if (placeFilter === "block") return p.id.startsWith("block-");
       if (placeFilter === "village") return p.type === "village" && !p.id.startsWith("block-");
       return p.type === "ward";
     });
-    return filtered.map((p) => ({
+    const list = filtered.length > 0 ? filtered : places;
+    return list.map((p) => ({
       id: p.id,
       label: getLocalized(p, "name", lang),
-      sublabel:
-        p.type === "village"
-          ? `${p.block_id ? `Block: ${p.block_id}` : ""}${p.pincodes?.[0] ? ` · PIN ${p.pincodes[0]}` : ""}`
-          : `${p.ulb_id || p.tehsil_id}${p.pincodes?.[0] ? ` · PIN ${p.pincodes[0]}` : ""}`,
-      searchValue: `${p.name_en} ${p.name_hi} ${p.block_id || ""} ${p.gp_id || ""} ${p.pincodes?.join(" ") || ""}`,
+      sublabel: formatPlaceSublabel(p, lang),
+      searchValue: `${p.name_en} ${p.name_hi} ${p.block_name_en || ""} ${p.block_name_hi || ""} ${p.tehsil_name_en || ""} ${p.block_id || ""} ${p.gp_id || ""} ${p.pincodes?.join(" ") || ""}`,
     }));
-  }, [places, placeFilter, lang]);
+  }, [basePlaces, places, selectedBlockFilter, placeFilter, lang]);
 
   const currentPlace = useMemo(
     () => (selectedPlace && selectedPlace !== "district-hq" ? places.find((p) => p.id === selectedPlace) || null : null),
@@ -184,9 +276,10 @@ function IssueView({
       selectedPlace === "district-hq" ? null : selectedPlace,
       districtData,
       places,
-      stateData || undefined
+      stateData || undefined,
+      recheckIds
     );
-  }, [selectedDistrict, districtData, selectedPlace, currentPlace, places, stateData]);
+  }, [selectedDistrict, districtData, selectedPlace, currentPlace, places, stateData, recheckIds]);
 
   const issueStepsData = useMemo(() => {
     if (!issue) return null;
@@ -207,6 +300,22 @@ function IssueView({
     return getRelevantPortals(issue.slug, currentPlace?.local_body_type, stateData);
   }, [issue, currentPlace, stateData]);
 
+  // Save resolved district + place cleanly for quick reuse across home & issue pages
+  useEffect(() => {
+    if (!selectedDistrict || !selectedPlace || !districtData) return;
+    const distMeta = districts.find((d) => d.id === selectedDistrict);
+    saveArea({
+      districtId: selectedDistrict,
+      districtNameEn: distMeta?.name_en || selectedDistrict,
+      districtNameHi: distMeta?.name_hi || selectedDistrict,
+      placeId: selectedPlace,
+      placeNameEn: currentPlace?.name_en || (selectedPlace === "district-hq" ? "District HQ" : selectedPlace),
+      placeNameHi: currentPlace?.name_hi || (selectedPlace === "district-hq" ? "जनपद मुख्यालय" : selectedPlace),
+      localBodyType: currentPlace?.local_body_type || "unknown",
+      pincode: pinInput.length === 6 ? pinInput : currentPlace?.pincodes?.[0],
+    });
+  }, [selectedDistrict, selectedPlace, districtData, districts, currentPlace, pinInput]);
+
   if (!issue) {
     return <div className="py-12 text-center text-muted">{t("common.loading")}</div>;
   }
@@ -225,11 +334,30 @@ function IssueView({
   const letterOfficerParam = primaryOfficer
     ? getLocalized(primaryOfficer.office, "office_name", lang)
     : "";
+  const pinSuffix = pinInput.length === 6 ? `&pincode=${encodeURIComponent(pinInput)}` : "";
   const letterQs = `district=${encodeURIComponent(selectedDistrict || "")}&place=${encodeURIComponent(
     selectedPlace === "district-hq" ? "" : selectedPlace || ""
-  )}&issue=${encodeURIComponent(slug)}&officer=${encodeURIComponent(letterOfficerParam)}`;
+  )}&issue=${encodeURIComponent(slug)}&officer=${encodeURIComponent(letterOfficerParam)}${pinSuffix}`;
 
-  const sequenceStep = resolution ? 3 : selectedDistrict ? 2 : 2;
+  const handleCopy1076Summary = async () => {
+    const distMeta = districts.find((d) => d.id === selectedDistrict) || null;
+    const summaryText = build1076ComplaintSummary({
+      lang,
+      district: distMeta,
+      districtData,
+      place: currentPlace,
+      issue,
+      primaryOfficer,
+      pincode: pinInput,
+    });
+    try {
+      await navigator.clipboard.writeText(summaryText);
+      setCopied1076(true);
+      setTimeout(() => setCopied1076(false), 2500);
+    } catch {}
+  };
+
+  const sequenceStep = resolution ? 3 : 2;
 
   return (
     <div className="max-w-form mx-auto space-y-6">
@@ -309,10 +437,9 @@ function IssueView({
                 : t("flow.districtSupervisoryLabel")}{" "}
               · {getDistrictName(selectedDistrict)}
             </span>
-            {currentPlace && (
+            {currentPlace && formatPlaceBlockAndTehsil(currentPlace, districtData, lang) && (
               <span className="text-[13px] text-muted block">
-                {currentPlace.block_id ? `Block: ${currentPlace.block_id} · ` : ""}
-                {currentPlace.tehsil_id ? `Tehsil: ${currentPlace.tehsil_id}` : ""}
+                {formatPlaceBlockAndTehsil(currentPlace, districtData, lang)}
               </span>
             )}
           </div>
@@ -356,7 +483,14 @@ function IssueView({
                     inputMode="numeric"
                     maxLength={6}
                     value={pinInput}
-                    onChange={(e) => setPinInput(e.target.value.replace(/\D/g, "").slice(0, 6))}
+                    onFocus={ensurePincodesLoaded}
+                    onChange={(e) => {
+                      const clean = e.target.value.replace(/\D/g, "").slice(0, 6);
+                      pinEditedRef.current = true;
+                      if (clean.length >= 1) ensurePincodesLoaded();
+                      if (clean.length < 6) lastAutoAppliedPinRef.current = null;
+                      setPinInput(clean);
+                    }}
                     placeholder={t("flow.pincodePlaceholder")}
                     className="flex-1 min-h-btn px-3.5 py-2 bg-bg text-text text-[16px] tabular-nums border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none"
                   />
@@ -406,9 +540,15 @@ function IssueView({
                 options={districtOptions}
                 value={selectedDistrict || null}
                 onSelect={(opt) => {
+                  const matchesPin = pinState.matches.some((m) => m.district_id === opt.id);
+                  const nextPin = pinInput && !matchesPin ? "" : pinInput;
+                  if (pinInput && !matchesPin) {
+                    lastAutoAppliedPinRef.current = null;
+                    setPinInput("");
+                  }
                   setSelectedDistrict(opt.id);
                   setSelectedPlace("");
-                  syncUrl(opt.id, "", pinInput);
+                  syncUrl(opt.id, "", nextPin);
                 }}
               />
             </div>
@@ -416,6 +556,73 @@ function IssueView({
             {/* Village / Block / Town Picker once District is chosen */}
             {selectedDistrict && (
               <div className="pt-3 border-t border-border space-y-3">
+                {pinMatchedPlaces.length > 0 && (
+                  <div className="p-3 rounded-[4px] bg-bg border border-border flex flex-wrap items-center justify-between gap-2">
+                    <span className="text-[13px] font-semibold text-text">
+                      {t("find.pinMatchesSummary", {
+                        pin: pinInput,
+                        count: pinMatchedPlaces.length,
+                      })}
+                    </span>
+                    <div className="flex flex-wrap gap-1.5">
+                      <button
+                        type="button"
+                        onClick={() => setPinScope("pin")}
+                        className={`px-2.5 py-1 text-[12px] font-semibold rounded-[4px] border transition-colors ${
+                          pinScope === "pin"
+                            ? "bg-[#154273] text-white border-[#154273]"
+                            : "bg-surface text-muted border-border hover:border-[#154273]"
+                        }`}
+                      >
+                        {t("find.pinFilteredPlacesToggle", {
+                          pin: pinInput,
+                          count: pinMatchedPlaces.length,
+                        })}
+                      </button>
+                      <button
+                        type="button"
+                        onClick={() => setPinScope("all")}
+                        className={`px-2.5 py-1 text-[12px] font-semibold rounded-[4px] border transition-colors ${
+                          pinScope === "all"
+                            ? "bg-[#154273] text-white border-[#154273]"
+                            : "bg-surface text-muted border-border hover:border-[#154273]"
+                        }`}
+                      >
+                        {t("find.allPlacesToggle", {
+                          district: getDistrictName(selectedDistrict),
+                          count: places.length,
+                        })}
+                      </button>
+                    </div>
+                  </div>
+                )}
+
+                {uniqueBlocks.length > 1 && placeFilter !== "ward" && (
+                  <div>
+                    <label
+                      htmlFor="issue-block-filter"
+                      className="block text-[12px] font-bold uppercase tracking-[0.06em] text-muted mb-1"
+                    >
+                      {t("find.blockFilterLabel")}
+                    </label>
+                    <select
+                      id="issue-block-filter"
+                      value={selectedBlockFilter}
+                      onChange={(e) => setSelectedBlockFilter(e.target.value)}
+                      className="w-full min-h-[42px] px-3 py-2 bg-bg text-text text-[14px] border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none"
+                    >
+                      <option value="all">
+                        {t("find.allBlocksOption", { count: uniqueBlocks.length })}
+                      </option>
+                      {uniqueBlocks.map((b) => (
+                        <option key={b.id} value={b.id}>
+                          {b.label}
+                        </option>
+                      ))}
+                    </select>
+                  </div>
+                )}
+
                 <div className="flex flex-wrap items-center justify-between gap-2">
                   <span className="text-[13px] font-bold uppercase tracking-[0.06em] text-muted">
                     {t("issue.filterAreaType")}
@@ -475,7 +682,7 @@ function IssueView({
                       <Link
                         href={`/find/?issue=${encodeURIComponent(slug)}&district=${encodeURIComponent(
                           selectedDistrict
-                        )}`}
+                        )}${pinSuffix}`}
                         className="text-[13px] font-semibold text-muted hover:text-[#154273] underline underline-offset-4"
                       >
                         {t("issue.openGuidedFinder")} ↗
@@ -490,7 +697,7 @@ function IssueView({
               <div className="pt-2 border-t border-border flex flex-wrap items-center justify-between gap-2 text-[13px]">
                 <span className="text-muted">{t("issue.notSureAreaHint")}</span>
                 <Link
-                  href={`/find/?issue=${encodeURIComponent(slug)}`}
+                  href={`/find/?issue=${encodeURIComponent(slug)}${pinSuffix}`}
                   className="font-semibold text-[#154273] underline underline-offset-4 hover:text-[#0F3156]"
                 >
                   {t("issue.openGuidedFinder")} →
@@ -501,7 +708,7 @@ function IssueView({
         </div>
       )}
 
-      {/* MGNREGA urban notice if urban ULB chosen */}
+      {/* MGNREGA urban/authority notice */}
       {issueStepsData?.isRuralOnlyNotice && (
         <Banner
           status="info"
@@ -510,7 +717,16 @@ function IssueView({
         />
       )}
 
-      {/* STEP 3 ACTION PANEL: Direct Contact + Official Portal + Letter/RTI */}
+      {resolution?.secretaryNotIndexed && (
+        <Banner
+          status="info"
+          container="card"
+          title={t("results.secretaryDirectoryTitle")}
+          description={t("results.secretaryDirectoryNote")}
+        />
+      )}
+
+      {/* STEP 3 ACTION PANEL: Direct Contact + 1076 Summary + Official Portal + Letter/RTI */}
       {resolution && primaryOfficer && (
         <Card padding={5} variant="default" elevation="none">
           <div className="space-y-4">
@@ -562,6 +778,14 @@ function IssueView({
                 >
                   {t("results.rtiBtn")}
                 </Link>
+
+                <button
+                  type="button"
+                  onClick={handleCopy1076Summary}
+                  className="min-h-btn inline-flex items-center justify-center px-4 py-2.5 bg-surface hover:bg-[#EBF1F6] border border-[#154273] text-[#154273] font-semibold rounded-[4px] transition-colors text-[14px]"
+                >
+                  {copied1076 ? t("summary.copied1076") : t("summary.copy1076")}
+                </button>
               </div>
             </div>
 

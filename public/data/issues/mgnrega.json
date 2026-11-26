@@ -21,6 +21,14 @@
     },
     {
       "order": 3,
+      "role": "sdm",
+      "how_en": "Raise non-allotment of work, Form-6 refusal, or delayed wage grievance before the Sub-Divisional Magistrate (SDM) at Tehsil Samadhan Diwas (1st & 3rd Tuesday).",
+      "how_hi": "काम न मिलने, प्रपत्र-6 न लेने या लंबित मजदूरी की शिकायत तहसील समाधान दिवस (प्रथम व तृतीय मंगलवार) में उपजिलाधिकारी (एसडीएम) के समक्ष प्रस्तुत करें।",
+      "time_limit_days": null,
+      "time_limit_source_url": null
+    },
+    {
+      "order": 4,
       "role": "cdo",
       "how_en": "Escalate wage delay beyond 15 days to CDO / District Programme Coordinator.",
       "how_hi": "15 दिन से अधिक मजदूरी लंबित होने पर मुख्य विकास अधिकारी (सीडीओ) को विलंब मुआवजे हेतु पत्र दें।",
@@ -28,7 +36,7 @@
       "time_limit_source_url": null
     },
     {
-      "order": 4,
+      "order": 5,
       "role": "dm",
       "how_en": "Submit complaint to District Magistrate and file RTI Form-A demanding certified Muster Roll entries.",
       "how_hi": "जिलाधिकारी को शिकायत दें और मस्टर रोल व मजदूरी भुगतान आदेश की प्रतियों हेतु आरटीआई लगाएं।",

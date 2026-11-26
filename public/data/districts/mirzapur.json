@@ -70,7 +70,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील सदर",
       "phones": [
         {
           "number": "9454416810",
@@ -94,7 +94,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Chunar",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Chunar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील चुनर",
       "phones": [
         {
           "number": "9454416811",
@@ -118,7 +118,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Lalganj",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Lalganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील लालगंज",
       "phones": [
         {
           "number": "9454416812",
@@ -142,7 +142,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Marihan",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Marihan",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील मरिहन",
       "phones": [],
       "email": "sdm.marihan.mzp-up@gov.in",
       "covers": [
@@ -158,9 +158,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Nagar City",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nagar City",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक नगर शहर",
       "phones": [],
-      "email": "bdo.nagarcity.mzp@gmail.com",
       "covers": [
         "nagar-city"
       ],
@@ -174,7 +173,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Nagar City",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nagar City",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक नगर शहर",
       "phones": [],
       "covers": [
         "nagar-city"
@@ -189,9 +188,16 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kon",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kon",
-      "phones": [],
-      "email": "bdo.kon.mzp@gmail.com",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक कोन",
+      "phones": [
+        {
+          "number": "9454465110",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s396da2f590cd7246bbde0051047b0d6f7/uploads/2024/09/2024092750.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "kon"
       ],
@@ -205,7 +211,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Kon",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक कोन",
       "phones": [],
       "covers": [
         "kon"
@@ -220,9 +226,16 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Majhawan",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Majhawan",
-      "phones": [],
-      "email": "bdo.majhawan.mzp@gmail.com",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मझवन",
+      "phones": [
+        {
+          "number": "9454465112",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s396da2f590cd7246bbde0051047b0d6f7/uploads/2024/09/2024092750.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "majhawan"
       ],
@@ -236,7 +249,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Majhawan",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Majhawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मझवन",
       "phones": [],
       "covers": [
         "majhawan"
@@ -251,9 +264,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Pahari",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pahari",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक पहरी",
       "phones": [],
-      "email": "bdo.pahari.mzp@gmail.com",
       "covers": [
         "pahari"
       ],
@@ -267,7 +279,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Pahari",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pahari",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक पहरी",
       "phones": [],
       "covers": [
         "pahari"
@@ -282,9 +294,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Chunar (Narayanpur)",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chunar (Narayanpur)",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक चुनर (नरयनपुर)",
       "phones": [],
-      "email": "bdo.chunarnarayanpur.mzp@gmail.com",
       "covers": [
         "chunar-narayanpur"
       ],
@@ -297,7 +308,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Chunar (Narayanpur)",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chunar (Narayanpur)",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक चुनर (नरयनपुर)",
       "phones": [],
       "covers": [
         "chunar-narayanpur"
@@ -312,9 +323,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sikhar",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sikhar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सिखर",
       "phones": [],
-      "email": "bdo.sikhar.mzp@gmail.com",
       "covers": [
         "sikhar"
       ],
@@ -327,7 +337,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Sikhar",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sikhar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सिखर",
       "phones": [],
       "covers": [
         "sikhar"
@@ -342,9 +352,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Jamalpur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jamalpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक जमलपुर",
       "phones": [],
-      "email": "bdo.jamalpur.mzp@gmail.com",
       "covers": [
         "jamalpur"
       ],
@@ -358,7 +367,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Jamalpur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jamalpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक जमलपुर",
       "phones": [],
       "covers": [
         "jamalpur"
@@ -373,9 +382,16 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Lalganj",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Lalganj",
-      "phones": [],
-      "email": "bdo.lalganj.mzp@gmail.com",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक लालगंज",
+      "phones": [
+        {
+          "number": "9454465115",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s396da2f590cd7246bbde0051047b0d6f7/uploads/2024/09/2024092750.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "covers": [
         "lalganj"
       ],
@@ -389,7 +405,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Lalganj",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Lalganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक लालगंज",
       "phones": [],
       "covers": [
         "lalganj"
@@ -404,22 +420,22 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Halia",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Halia",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक हलिअ",
       "phones": [],
-      "email": "bdo.halia.mzp@gmail.com",
       "covers": [
         "halia"
       ],
-      "source_url": "https://mirzapur.nic.in/whos-who/",
+      "source_url": "https://mirzapur.nic.in/hi/public-utility-category/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%96%e0%a4%82%e0%a4%a1/page/2/",
       "confidence": "high",
-      "valid_as_of": "2026-11-20"
+      "valid_as_of": "2026-11-25",
+      "address_en": "Block Hallia District Mirzapur"
     },
     {
       "id": "up-mirzapur-ado-halia",
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Halia",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Halia",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक हलिअ",
       "phones": [],
       "covers": [
         "halia"
@@ -434,9 +450,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Marihan",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Marihan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मरिहन",
       "phones": [],
-      "email": "bdo.marihan.mzp@gmail.com",
       "covers": [
         "marihan"
       ],
@@ -449,7 +464,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Marihan",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Marihan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मरिहन",
       "phones": [],
       "covers": [
         "marihan"
@@ -464,9 +479,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Rajgarh",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rajgarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक रजगढ़",
       "phones": [],
-      "email": "bdo.rajgarh.mzp@gmail.com",
       "covers": [
         "rajgarh"
       ],
@@ -480,7 +494,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Rajgarh",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rajgarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक रजगढ़",
       "phones": [],
       "covers": [
         "rajgarh"
@@ -495,9 +509,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Chhanbey",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chhanbey",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक छंबेय",
       "phones": [],
-      "email": "bdo.chhanbey.mzp@gmail.com",
       "covers": [
         "chhanbey"
       ],
@@ -511,7 +524,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Chhanbey",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chhanbey",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक छंबेय",
       "phones": [],
       "covers": [
         "chhanbey"
@@ -557,7 +570,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, EO Nagar Palika Chunar",
-      "office_name_hi": "अधिशासी अधिकारी, EO नगर पालिका चुनार",
+      "office_name_hi": "अधिशासी अधिकारी, एओ नगर पालिका चुनार",
       "phones": [
         {
           "number": "8189078511",
@@ -588,7 +601,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, EO Nagar Palika Aharaura",
-      "office_name_hi": "अधिशासी अधिकारी, EO नगर पालिका अहरौरा",
+      "office_name_hi": "अधिशासी अधिकारी, एओ नगर पालिका अहरौरा",
       "phones": [
         {
           "number": "8189078512",
@@ -605,14 +618,15 @@
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "email": "mirzapurnpp@gmail.com",
-      "address_en": "अहरौरा मीरजापुर ईमेल : mirzapurnpp[at]gmail[dot]com फोन : 05442-252385 वेबसाइट लिंक : http://www.mirzapurnpp.in Pincode : 231001"
+      "address_en": "mirzapurnpp[at]gmail[dot]com : 05442-252385 : http://www.mirzapurnpp.in Pincode : 231001",
+      "address_hi": "अहरौरा मीरजापुर ईमेल : mirzapurnpp[at]gmail[dot]com फोन : 05442-252385 वेबसाइट लिंक : http://www.mirzapurnpp.in Pincode : 231001"
     },
     {
       "id": "up-mirzapur-eo-kachhavan",
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, EO Nagar Panchayat Kachhavan",
-      "office_name_hi": "अधिशासी अधिकारी, EO नगर पंचायत कछवां",
+      "office_name_hi": "अधिशासी अधिकारी, एओ नगर पंचायत कछवां",
       "phones": [
         {
           "number": "8189078513",
@@ -637,6 +651,35 @@
       "valid_as_of": "2026-11-25",
       "email": "mirzapurnpp@gmail.com",
       "address_en": "Kachhwa Mirzapur Email : mirzapurnpp[at]gmail[dot]com Phone : 05442252308 Website Link : http://www.mirzapurnpp.in"
+    },
+    {
+      "id": "up-mirzapur-bdo-patehra",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Patehra",
+      "office_name_hi": "खंड विकास अधिकारी, विकास खंड पतेहरा",
+      "phones": [],
+      "covers": [
+        "patehra"
+      ],
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-mirzapur-ado-patehra",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Patehra",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), विकास खंड पतेहरा",
+      "phones": [],
+      "covers": [
+        "patehra"
+      ],
+      "fallback_office_id": "up-mirzapur-bdo-patehra",
+      "source_url": "https://mirzapur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
     }
   ]
 }

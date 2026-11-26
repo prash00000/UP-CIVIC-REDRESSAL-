@@ -72,7 +72,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील सदर",
       "phones": [
         {
           "number": "9454416505",
@@ -95,7 +95,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bakshi Ka Talab",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bakshi Ka Talab",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील बक्शी का तालाब",
       "phones": [
         {
           "number": "9454416493",
@@ -118,7 +118,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Malihabad",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Malihabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील मलिहाबाद",
       "phones": [
         {
           "number": "9454416492",
@@ -141,7 +141,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mohanlalganj",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mohanlalganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील मोहनलालगंज",
       "phones": [
         {
           "number": "9454416491",
@@ -164,7 +164,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sarojini Nagar",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sarojini Nagar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील सरोजिनी नगर",
       "phones": [
         {
           "number": "9454416511",
@@ -187,7 +187,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bakshi Ka Talab",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bakshi Ka Talab",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बक्शी का तालाब",
       "phones": [
         {
           "number": "9454465466",
@@ -210,7 +210,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Bakshi Ka Talab",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bakshi Ka Talab",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बक्शी का तालाब",
       "phones": [],
       "covers": [
         "bakshi-ka-talab"
@@ -221,42 +221,11 @@
       "fallback_office_id": "up-lucknow-bdo-bakshi-ka-talab"
     },
     {
-      "id": "sec-bakshi-ka-talab-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Bakshi Ka Talab North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Bakshi Ka Talab उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-bakshi-ka-talab-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://lucknow.nic.in/directory/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-bakshi-ka-talab-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Bakshi Ka Talab South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Bakshi Ka Talab दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-bakshi-ka-talab-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-lucknow-ado-bakshi-ka-talab",
-      "source_url": "https://lucknow.nic.in/directory/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-lucknow-bdo-chinhat",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Chinhat",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chinhat",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक चिनहट",
       "phones": [
         {
           "number": "9454465467",
@@ -279,7 +248,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Chinhat",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chinhat",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक चिनहट",
       "phones": [],
       "covers": [
         "chinhat"
@@ -290,42 +259,11 @@
       "fallback_office_id": "up-lucknow-bdo-chinhat"
     },
     {
-      "id": "sec-chinhat-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Chinhat North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Chinhat उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-chinhat-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://lucknow.nic.in/directory/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-chinhat-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Chinhat South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Chinhat दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-chinhat-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-lucknow-ado-chinhat",
-      "source_url": "https://lucknow.nic.in/directory/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-lucknow-bdo-kakori",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kakori",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kakori",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक काकोरी",
       "phones": [
         {
           "number": "9454465468",
@@ -348,7 +286,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Kakori",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kakori",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक काकोरी",
       "phones": [],
       "covers": [
         "kakori"
@@ -359,42 +297,11 @@
       "fallback_office_id": "up-lucknow-bdo-kakori"
     },
     {
-      "id": "sec-kakori-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Kakori North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Kakori उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-kakori-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://lucknow.nic.in/directory/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-kakori-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Kakori South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Kakori दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-kakori-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-lucknow-ado-kakori",
-      "source_url": "https://lucknow.nic.in/directory/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-lucknow-bdo-mal",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mal",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mal",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मल",
       "phones": [
         {
           "number": "9454465464",
@@ -417,7 +324,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Mal",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mal",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मल",
       "phones": [],
       "covers": [
         "mal"
@@ -428,42 +335,11 @@
       "fallback_office_id": "up-lucknow-bdo-mal"
     },
     {
-      "id": "sec-mal-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Mal North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Mal उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-mal-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://lucknow.nic.in/directory/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-mal-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Mal South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Mal दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-mal-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-lucknow-ado-mal",
-      "source_url": "https://lucknow.nic.in/directory/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-lucknow-bdo-malihabad",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Malihabad",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Malihabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मलिहाबाद",
       "phones": [
         {
           "number": "9454465465",
@@ -486,7 +362,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Malihabad",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Malihabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मलिहाबाद",
       "phones": [],
       "covers": [
         "malihabad"
@@ -497,42 +373,11 @@
       "fallback_office_id": "up-lucknow-bdo-malihabad"
     },
     {
-      "id": "sec-malihabad-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Malihabad North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Malihabad उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-malihabad-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://lucknow.nic.in/directory/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-malihabad-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Malihabad South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Malihabad दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-malihabad-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-lucknow-ado-malihabad",
-      "source_url": "https://lucknow.nic.in/directory/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-lucknow-bdo-gosainganj",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Gosainganj",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gosainganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक गोसाईंगंज",
       "phones": [
         {
           "number": "9454465470",
@@ -555,7 +400,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Gosainganj",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gosainganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक गोसाईंगंज",
       "phones": [],
       "covers": [
         "gosainganj"
@@ -566,42 +411,11 @@
       "fallback_office_id": "up-lucknow-bdo-gosainganj"
     },
     {
-      "id": "sec-gosainganj-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Gosainganj North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Gosainganj उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-gosainganj-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://lucknow.nic.in/directory/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-gosainganj-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Gosainganj South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Gosainganj दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-gosainganj-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-lucknow-ado-gosainganj",
-      "source_url": "https://lucknow.nic.in/directory/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-lucknow-bdo-mohanlalganj",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mohanlalganj",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mohanlalganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मोहनलालगंज",
       "phones": [
         {
           "number": "9454465471",
@@ -624,7 +438,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Mohanlalganj",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mohanlalganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मोहनलालगंज",
       "phones": [],
       "covers": [
         "mohanlalganj"
@@ -635,42 +449,11 @@
       "fallback_office_id": "up-lucknow-bdo-mohanlalganj"
     },
     {
-      "id": "sec-mohanlalganj-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Mohanlalganj North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Mohanlalganj उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-mohanlalganj-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://lucknow.nic.in/directory/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-mohanlalganj-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Mohanlalganj South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Mohanlalganj दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-mohanlalganj-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-lucknow-ado-mohanlalganj",
-      "source_url": "https://lucknow.nic.in/directory/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-lucknow-bdo-sarojini-nagar",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sarojini Nagar",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sarojini Nagar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सरोजिनी नगर",
       "phones": [
         {
           "number": "9454465469",
@@ -693,7 +476,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Sarojini Nagar",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sarojini Nagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सरोजिनी नगर",
       "phones": [],
       "covers": [
         "sarojini-nagar"
@@ -702,37 +485,6 @@
       "confidence": "medium",
       "valid_as_of": "2026-11-20",
       "fallback_office_id": "up-lucknow-bdo-sarojini-nagar"
-    },
-    {
-      "id": "sec-sarojini-nagar-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Sarojini Nagar North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Sarojini Nagar उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-sarojini-nagar-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://lucknow.nic.in/directory/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-sarojini-nagar-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Sarojini Nagar South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Sarojini Nagar दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-sarojini-nagar-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-lucknow-ado-sarojini-nagar",
-      "source_url": "https://lucknow.nic.in/directory/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
     },
     {
       "id": "eo-lucknow-main",
@@ -764,7 +516,7 @@
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Shri. Gaurav Kumar, IAS",
       "address_en": "Nagar Nigam H.Q, Lalbagh, Lucknow, Uttar Pradesh",
-      "email": "8189077822nnlko@up.nic.in"
+      "email": "nnlko@up.nic.in"
     }
   ]
 }

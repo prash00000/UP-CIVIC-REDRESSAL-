@@ -25,7 +25,7 @@
       "source_url": "https://etah.nic.in/hi/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88-2/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "कलेक्ट्रेट, एटा"
+      "address_hi": "कलेक्ट्रेट, एटा"
     },
     {
       "id": "up-etah-cdo",
@@ -81,7 +81,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Etah",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Etah",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील एटा",
       "phones": [
         {
           "number": "9454417771",
@@ -113,7 +113,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Aliganj",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Aliganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील अलीगंज",
       "phones": [
         {
           "number": "7905205916",
@@ -130,14 +130,15 @@
       "source_url": "https://etah.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "officer_name_en": "श्री अनवर राशिद फारुकी"
+      "officer_name_en": "Shri Anavar Rashid Pharuki",
+      "officer_name_hi": "श्री अनवर राशिद फारुकी"
     },
     {
       "id": "up-etah-sdm-jalesar",
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Jalesar",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Jalesar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील जलेसर",
       "phones": [
         {
           "number": "8932827431",
@@ -161,7 +162,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sheetalpur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sheetalpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक शीतलपुर",
       "phones": [
         {
           "number": "8630497228",
@@ -171,7 +172,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.sheetalpur.eth@gmail.com",
       "covers": [
         "sheetalpur"
       ],
@@ -185,7 +185,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Sheetalpur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sheetalpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक शीतलपुर",
       "phones": [],
       "covers": [
         "sheetalpur"
@@ -200,7 +200,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sakit",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sakit",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सकित",
       "phones": [
         {
           "number": "9411923620",
@@ -210,7 +210,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.sakit.eth@gmail.com",
       "covers": [
         "sakit"
       ],
@@ -224,7 +223,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Sakit",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sakit",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सकित",
       "phones": [],
       "covers": [
         "sakit"
@@ -239,7 +238,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Nidhauli Kalan",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nidhauli Kalan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक निधौली कलाँ",
       "phones": [
         {
           "number": "8979024717",
@@ -249,7 +248,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.nidhaulikalan.eth@gmail.com",
       "covers": [
         "nidhauli-kalan"
       ],
@@ -263,7 +261,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Nidhauli Kalan",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nidhauli Kalan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक निधौली कलाँ",
       "phones": [],
       "covers": [
         "nidhauli-kalan"
@@ -278,9 +276,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Marehra",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Marehra",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मरेहरा",
       "phones": [],
-      "email": "bdo.marehra.eth@gmail.com",
       "covers": [
         "marehra"
       ],
@@ -293,7 +290,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Marehra",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Marehra",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मरेहरा",
       "phones": [],
       "covers": [
         "marehra"
@@ -308,7 +305,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Awagarh",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Awagarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक अवागढ़",
       "phones": [
         {
           "number": "05745-224424",
@@ -318,22 +315,22 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.awagarh.eth@gmail.com",
       "covers": [
         "awagarh"
       ],
       "source_url": "https://etah.nic.in/hi/%e0%a4%89%e0%a4%aa%e0%a4%96%e0%a4%82%e0%a4%a1-%e0%a4%94%e0%a4%b0-%e0%a4%ac%e0%a5%8d%e0%a4%b2%e0%a5%89%e0%a4%95/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "officer_name_en": "अवागढ़",
-      "address_en": "कार्यालय खंड विकास अधिकारी अवागढ़"
+      "officer_name_en": "Avagarh",
+      "officer_name_hi": "अवागढ़",
+      "address_hi": "कार्यालय खंड विकास अधिकारी अवागढ़"
     },
     {
       "id": "up-etah-ado-awagarh",
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Awagarh",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Awagarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक अवागढ़",
       "phones": [],
       "covers": [
         "awagarh"
@@ -348,7 +345,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Jalesar",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jalesar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक जलेसर",
       "phones": [
         {
           "number": "8218817297",
@@ -358,7 +355,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.jalesar.eth@gmail.com",
       "covers": [
         "jalesar"
       ],
@@ -372,7 +368,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Jalesar",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jalesar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक जलेसर",
       "phones": [],
       "covers": [
         "jalesar"
@@ -387,7 +383,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Aliganj",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Aliganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक अलीगंज",
       "phones": [
         {
           "number": "7017043178",
@@ -397,7 +393,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.aliganj.eth@gmail.com",
       "covers": [
         "aliganj"
       ],
@@ -411,7 +406,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Aliganj",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Aliganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक अलीगंज",
       "phones": [],
       "covers": [
         "aliganj"
@@ -426,7 +421,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Jaithara",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jaithara",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक जैथरा",
       "phones": [
         {
           "number": "9540769691",
@@ -436,7 +431,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.jaithara.eth@gmail.com",
       "covers": [
         "jaithara"
       ],
@@ -450,7 +444,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Jaithara",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jaithara",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक जैथरा",
       "phones": [],
       "covers": [
         "jaithara"
@@ -486,41 +480,11 @@
       "email": "eonppeataet-up@nic.in"
     },
     {
-      "id": "up-etah-eo-a-d-e-o-panchayat",
-      "level": "ulb",
-      "role": "eo",
-      "office_name_en": "Executive Officer, A.D.E.O Panchayat",
-      "office_name_hi": "अधिशासी अधिकारी, A.D.E.O Panchayat",
-      "officer_name_en": "Shri Surendra Kumar",
-      "phones": [
-        {
-          "number": "9411238104",
-          "type": "office",
-          "source_url": "https://etah.nic.in/whos-who/",
-          "checked_on": "2026-11-25",
-          "status": "verified"
-        },
-        {
-          "number": "9454418025",
-          "type": "office",
-          "source_url": "https://etah.nic.in/whos-who/",
-          "checked_on": "2026-11-25",
-          "status": "verified"
-        }
-      ],
-      "covers": [
-        "ulb-a-d-e-o-panchayat"
-      ],
-      "source_url": "https://etah.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-25"
-    },
-    {
       "id": "up-etah-eo-e-o-n-p-awagarh-mirehchi",
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, E.O.N.P Awagarh/Mirehchi",
-      "office_name_hi": "अधिशासी अधिकारी, E.O.N.P Awagarh/Mirehchi",
+      "office_name_hi": "अधिशासी अधिकारी, ई.ओ.न.प अवागढ़/मिरेहची",
       "officer_name_en": "Shri Swadesh Arya",
       "phones": [
         {
@@ -543,7 +507,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, E.O.N.P.P Aliganj/Jaithra/Raja Rampur",
-      "office_name_hi": "अधिशासी अधिकारी, E.O.N.P.P Aliganj/Jaithra/Raja Rampur",
+      "office_name_hi": "अधिशासी अधिकारी, ई.ओ.न.प.प अलीगंज/जैथरा/रजा रामपुर",
       "officer_name_en": "Shri Krishan Partap Saral",
       "phones": [
         {
@@ -566,7 +530,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, E.O.N.P.P Marehra",
-      "office_name_hi": "अधिशासी अधिकारी, E.O.N.P.P Marehra",
+      "office_name_hi": "अधिशासी अधिकारी, ई.ओ.न.प.प मरेहरा",
       "officer_name_en": "Shri Shweta Singh",
       "phones": [
         {
@@ -589,7 +553,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, E.O.N.P.P Jalesar",
-      "office_name_hi": "अधिशासी अधिकारी, E.O.N.P.P Jalesar",
+      "office_name_hi": "अधिशासी अधिकारी, ई.ओ.न.प.प जलेसर",
       "officer_name_en": "Shri Praduman Kumar",
       "phones": [
         {
@@ -608,31 +572,11 @@
       "valid_as_of": "2026-11-25"
     },
     {
-      "id": "up-etah-eo-n-p-p-etah",
-      "level": "ulb",
-      "role": "eo",
-      "office_name_en": "Executive Officer, N.P.P Etah",
-      "office_name_hi": "अधिशासी अधिकारी, N.P.P Etah",
-      "officer_name_en": "Shri Nihal Singh",
-      "phones": [],
-      "post_status": "additional_charge",
-      "fallback_office_id": "eo-etah-main",
-      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
-      "covers": [
-        "ulb-n-p-p-etah"
-      ],
-      "source_url": "https://etah.nic.in/public-utility-category/municipality/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-25",
-      "address_en": "Nagar Palika Parishad,G.T. Road Etah",
-      "email": "eonppeataet-up@nic.in"
-    },
-    {
       "id": "up-etah-eo-n-p-sakit",
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, N.P Sakit",
-      "office_name_hi": "अधिशासी अधिकारी, N.P Sakit",
+      "office_name_hi": "अधिशासी अधिकारी, न.प सकित",
       "officer_name_en": "Shri Piyus Rawat",
       "phones": [],
       "post_status": "additional_charge",

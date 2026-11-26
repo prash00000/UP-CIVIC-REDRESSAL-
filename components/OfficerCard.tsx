@@ -57,9 +57,13 @@ export default function OfficerCard({ item }: OfficerCardProps) {
             )}
           </div>
 
-          {/* Vacancy or Additional Charge Alerts */}
+          {/* Vacancy, Recheck, or Additional Charge Alerts */}
           {isVacant && (
             <Banner status="warning" container="card" title={t("results.vacant")} />
+          )}
+
+          {item.isRecheckFlagged && (
+            <Banner status="warning" container="card" title={t("results.reportedNotWorking")} />
           )}
 
           {additionalChargeNote && (

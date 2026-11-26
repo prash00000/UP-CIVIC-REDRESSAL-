@@ -72,7 +72,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील सदर",
       "phones": [
         {
           "number": "9454416960",
@@ -86,7 +86,7 @@
       "covers": [
         "sadar"
       ],
-      "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/11/17954281964844.pdf",
+      "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/04/17750337722810.pdf",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Sadar Tehsil Headquarter pin-244901"
@@ -96,7 +96,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bilaspur",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bilaspur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील बिलसपुर",
       "phones": [
         {
           "number": "9454416945",
@@ -120,7 +120,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Milak",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Milak",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील मिलक",
       "phones": [
         {
           "number": "9454416944",
@@ -144,7 +144,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Shahabad",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Shahabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील शहआबाद",
       "phones": [
         {
           "number": "9454416946",
@@ -158,7 +158,7 @@
       "covers": [
         "shahabad"
       ],
-      "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/11/17954281964844.pdf",
+      "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/04/17750337722810.pdf",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Tehsil Shahabd"
@@ -168,7 +168,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Suar",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Suar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील सुअर",
       "phones": [],
       "email": "sdm.suar.rmp-up@gov.in",
       "covers": [
@@ -183,13 +183,21 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Chamraua",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chamraua",
-      "phones": [],
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक चमरौअ",
+      "phones": [
+        {
+          "number": "7017870566",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/04/17750337722810.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdocham.ra-up@gov.in",
       "covers": [
         "chamraua"
       ],
-      "source_url": "https://rampur.nic.in/public-utility-category/blocks/",
+      "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/04/17750337722810.pdf",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Chamraua Block"
@@ -199,7 +207,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Chamraua",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chamraua",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक चमरौअ",
       "phones": [],
       "covers": [
         "chamraua"
@@ -214,13 +222,21 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Saidnagar",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Saidnagar",
-      "phones": [],
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सैदनगर",
+      "phones": [
+        {
+          "number": "8810883119",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/04/17750337722810.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdosaid.ra-up@gov.in",
       "covers": [
         "saidnagar"
       ],
-      "source_url": "https://rampur.nic.in/public-utility-category/blocks/",
+      "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/04/17750337722810.pdf",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Saidnagar Block saidnagar"
@@ -230,7 +246,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Saidnagar",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Saidnagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सैदनगर",
       "phones": [],
       "covers": [
         "saidnagar"
@@ -245,13 +261,21 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Shahabad",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shahabad",
-      "phones": [],
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक शहआबाद",
+      "phones": [
+        {
+          "number": "8923486666",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/04/17750337722810.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "bdosbad.ra-up@gov.in",
       "covers": [
         "shahabad"
       ],
-      "source_url": "https://rampur.nic.in/public-utility-category/blocks/",
+      "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/04/17750337722810.pdf",
       "confidence": "high",
       "valid_as_of": "2026-11-25"
     },
@@ -260,7 +284,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Shahabad",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shahabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक शहआबाद",
       "phones": [],
       "covers": [
         "shahabad"
@@ -275,7 +299,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Milak",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Milak",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मिलक",
       "phones": [],
       "email": "bdomilak.ra-up@gov.in",
       "covers": [
@@ -291,7 +315,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Milak",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Milak",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मिलक",
       "phones": [],
       "covers": [
         "milak"
@@ -306,7 +330,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bilaspur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bilaspur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बिलसपुर",
       "phones": [],
       "email": "bdobilas.ra-up@gov.in",
       "covers": [
@@ -322,7 +346,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Bilaspur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bilaspur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बिलसपुर",
       "phones": [],
       "covers": [
         "bilaspur"
@@ -337,7 +361,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Suar",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Suar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सुअर",
       "phones": [],
       "email": "bdosuar.ra-up@gov.in",
       "covers": [
@@ -352,7 +376,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Suar",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Suar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सुअर",
       "phones": [],
       "covers": [
         "suar"
@@ -370,7 +394,7 @@
       "office_name_hi": "अधिशासी अधिकारी, नगर पालिका रामपुर",
       "phones": [
         {
-          "number": "05952-970051",
+          "number": "0595-2970051",
           "type": "landline",
           "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
           "checked_on": "2026-11-25",
@@ -391,19 +415,12 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Bilaspur",
-      "office_name_hi": "अधिशासी अधिकारी, Nagar Palika Parishad Bilaspur",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका परिषद बिलसपुर",
       "phones": [
         {
           "number": "0595-2412057",
           "type": "landline",
           "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
-          "checked_on": "2026-11-25",
-          "status": "verified"
-        },
-        {
-          "number": "05952-412057",
-          "type": "landline",
-          "source_url": "https://rampur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
           "checked_on": "2026-11-25",
           "status": "verified"
         }
@@ -422,19 +439,12 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Milak",
-      "office_name_hi": "अधिशासी अधिकारी, Nagar Palika Parishad Milak",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका परिषद मिलक",
       "phones": [
         {
           "number": "0595-2224090",
           "type": "landline",
           "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
-          "checked_on": "2026-11-25",
-          "status": "verified"
-        },
-        {
-          "number": "05952-224090",
-          "type": "landline",
-          "source_url": "https://rampur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
           "checked_on": "2026-11-25",
           "status": "verified"
         }
@@ -453,7 +463,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Swar",
-      "office_name_hi": "अधिशासी अधिकारी, Nagar Palika Parishad Swar",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका परिषद सवर",
       "phones": [
         {
           "number": "0595-2515455",
@@ -477,7 +487,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Parishad Tanda",
-      "office_name_hi": "अधिशासी अधिकारी, Nagar Palika Parishad Tanda",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका परिषद तंदा",
       "phones": [
         {
           "number": "0595-2535329",
@@ -501,7 +511,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Panchayat Dariyal",
-      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat Dariyal",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत दरियल",
       "phones": [
         {
           "number": "9918189084",
@@ -524,7 +534,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Panchayat Kemri",
-      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat Kemri",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत केमृ",
       "phones": [
         {
           "number": "0595-2450042",
@@ -548,7 +558,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Panchayat Maswasi",
-      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat Maswasi",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत मसवसी",
       "phones": [
         {
           "number": "0595-2555541",
@@ -572,7 +582,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Panchayat Narpatnagar",
-      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat Narpatnagar",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत नरपतनगर",
       "phones": [
         {
           "number": "9451846910",
@@ -595,7 +605,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar panchayat Saifni",
-      "office_name_hi": "अधिशासी अधिकारी, Nagar panchayat Saifni",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत सैफनी",
       "phones": [
         {
           "number": "9889554017",
@@ -603,12 +613,19 @@
           "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
           "checked_on": "2026-11-25",
           "status": "verified"
+        },
+        {
+          "number": "8189078113",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/04/17750337722810.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
         }
       ],
       "covers": [
         "ulb-nagar-panchayat-saifni"
       ],
-      "source_url": "https://rampur.nic.in/public-utility-category/municipality/",
+      "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/11/17954281964844.pdf",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "Nagar panchayat Saifni Phone : 9889554017 Pincode : 202417"
@@ -618,7 +635,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Panchayat Shahbad",
-      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat Shahbad",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत शहबद",
       "phones": [
         {
           "number": "0595-2264040",
@@ -653,7 +670,31 @@
       "source_url": "https://rampur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "Nagar Panchayat Dariyal फोन : 9918189084 Pincode : 244925"
+      "address_en": "Nagar Panchayat Dariyal : 9918189084 Pincode : 244925",
+      "address_hi": "Nagar Panchayat Dariyal फोन : 9918189084 Pincode : 244925"
+    },
+    {
+      "id": "up-rampur-sdm-tanda",
+      "level": "tehsil",
+      "role": "sdm",
+      "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Tanda",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील तंदा",
+      "phones": [
+        {
+          "number": "9454416947",
+          "type": "office",
+          "source_url": "https://cdn.s3waas.gov.in/s3a8f15eda80c50adb0e71943adc8015cf/uploads/2026/04/17750337722810.pdf",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
+      "covers": [
+        "tanda"
+      ],
+      "source_url": "https://rampur.nic.in/officers-e-mail-directory/",
+      "confidence": "high",
+      "valid_as_of": "2026-11-25",
+      "email": "sdmtandara-up@nic.in"
     }
   ]
 }

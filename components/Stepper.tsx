@@ -11,6 +11,7 @@ interface StepperProps {
   onBack?: () => void;
   onStepClick?: (step: number) => void;
   canBack?: boolean;
+  labels?: [string, string, string];
 }
 
 export default function Stepper({
@@ -19,14 +20,15 @@ export default function Stepper({
   onBack,
   onStepClick,
   canBack = true,
+  labels,
 }: StepperProps) {
   const t = useT();
   const pct = Math.min(100, Math.round((currentStep / totalSteps) * 100));
 
   const milestones = [
-    { step: 1, label: t("flow.stepArea") },
-    { step: 2, label: t("flow.stepDistrict") },
-    { step: 3, label: t("flow.stepPlace") },
+    { step: 1, label: labels?.[0] || t("find.wizardStep1") },
+    { step: 2, label: labels?.[1] || t("find.wizardStep2") },
+    { step: 3, label: labels?.[2] || t("find.wizardStep3") },
   ];
 
   return (

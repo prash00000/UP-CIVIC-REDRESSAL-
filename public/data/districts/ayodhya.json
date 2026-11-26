@@ -25,7 +25,7 @@
       "source_url": "https://ayodhya.nic.in/hi/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a5%87-%e0%a4%95%e0%a5%87-%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "कलेक्ट्रेट अयोध्या"
+      "address_hi": "कलेक्ट्रेट अयोध्या"
     },
     {
       "id": "up-ayodhya-cdo",
@@ -39,13 +39,6 @@
           "type": "office",
           "source_url": "https://ayodhya.nic.in",
           "checked_on": "2026-11-20",
-          "status": "verified"
-        },
-        {
-          "number": "0527-8222285",
-          "type": "landline",
-          "source_url": "https://ayodhya.nic.in/whos-who/",
-          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -79,7 +72,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील सदर",
       "phones": [
         {
           "number": "9454416103",
@@ -102,7 +95,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Rudauli",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Rudauli",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील रुदौली",
       "phones": [
         {
           "number": "9454416122",
@@ -125,7 +118,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bikapur",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bikapur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील बिकापुर",
       "phones": [
         {
           "number": "9454416104",
@@ -148,7 +141,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sohawal",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sohawal",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील सोहवल",
       "phones": [
         {
           "number": "9454416106",
@@ -171,7 +164,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Milkipur",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Milkipur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील मिलकीपुर",
       "phones": [
         {
           "number": "9454416105",
@@ -194,7 +187,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Masodha",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Masodha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मसोधा",
       "phones": [
         {
           "number": "9454465335",
@@ -204,7 +197,7 @@
           "status": "verified"
         }
       ],
-      "email": "masodha9454465335bdo.msd@gmail.com",
+      "email": "bdo.msd@gmail.com",
       "covers": [
         "masodha"
       ],
@@ -218,7 +211,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Masodha",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Masodha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मसोधा",
       "phones": [],
       "covers": [
         "masodha"
@@ -233,7 +226,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Pura Bazar",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pura Bazar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक पुरा बाजार",
       "phones": [
         {
           "number": "9454465336",
@@ -243,7 +236,7 @@
           "status": "verified"
         }
       ],
-      "email": "purabazar9454465336bdo.prb@gmail.com",
+      "email": "bdo.prb@gmail.com",
       "covers": [
         "pura-bazar"
       ],
@@ -257,7 +250,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Pura Bazar",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pura Bazar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक पुरा बाजार",
       "phones": [],
       "covers": [
         "pura-bazar"
@@ -272,7 +265,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Maya Bazar",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Maya Bazar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मया बाजार",
       "phones": [
         {
           "number": "9454465337",
@@ -282,7 +275,7 @@
           "status": "verified"
         }
       ],
-      "email": "mayabazar9454465337bdo.myb@gmail.com",
+      "email": "bdo.myb@gmail.com",
       "covers": [
         "maya-bazar"
       ],
@@ -296,7 +289,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Maya Bazar",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Maya Bazar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मया बाजार",
       "phones": [],
       "covers": [
         "maya-bazar"
@@ -311,7 +304,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Amaniganj",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Amaniganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक अमनीगंज",
       "phones": [
         {
           "number": "9454465330",
@@ -321,7 +314,7 @@
           "status": "verified"
         }
       ],
-      "email": "amaniganj9454465330bdo.amj@gmail.com",
+      "email": "bdo.amj@gmail.com",
       "covers": [
         "amaniganj"
       ],
@@ -335,7 +328,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Amaniganj",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Amaniganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक अमनीगंज",
       "phones": [],
       "covers": [
         "amaniganj"
@@ -350,7 +343,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Milkipur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Milkipur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मिलकीपुर",
       "phones": [
         {
           "number": "9454465331",
@@ -360,7 +353,7 @@
           "status": "verified"
         }
       ],
-      "email": "milkipur9454465331bdo.mkp@gmail.com",
+      "email": "bdo.mkp@gmail.com",
       "covers": [
         "milkipur"
       ],
@@ -374,7 +367,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Milkipur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Milkipur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मिलकीपुर",
       "phones": [],
       "covers": [
         "milkipur"
@@ -389,9 +382,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Harringtonganj",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Harringtonganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक हरिंग्तोनगंज",
       "phones": [],
-      "email": "bdo.harringtonganj.fzd@gmail.com",
       "covers": [
         "harringtonganj"
       ],
@@ -404,7 +396,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Harringtonganj",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Harringtonganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक हरिंग्तोनगंज",
       "phones": [],
       "covers": [
         "harringtonganj"
@@ -419,7 +411,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bikapur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bikapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बिकापुर",
       "phones": [
         {
           "number": "9454465338",
@@ -429,7 +421,7 @@
           "status": "verified"
         }
       ],
-      "email": "bikapur9454465338bdo.bkp@gmail.com",
+      "email": "bdo.bkp@gmail.com",
       "covers": [
         "bikapur"
       ],
@@ -443,7 +435,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Bikapur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bikapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बिकापुर",
       "phones": [],
       "covers": [
         "bikapur"
@@ -458,7 +450,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Tarun",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tarun",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक तरुन",
       "phones": [
         {
           "number": "9454465339",
@@ -468,7 +460,7 @@
           "status": "verified"
         }
       ],
-      "email": "tarun9454465339bdo.trn@gmail.com",
+      "email": "bdo.trn@gmail.com",
       "covers": [
         "tarun"
       ],
@@ -482,7 +474,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Tarun",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Tarun",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक तरुन",
       "phones": [],
       "covers": [
         "tarun"
@@ -497,7 +489,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Rudauli",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rudauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक रुदौली",
       "phones": [
         {
           "number": "9454465341",
@@ -507,7 +499,7 @@
           "status": "verified"
         }
       ],
-      "email": "rudauli9454465341bdo.rud@gmail.com",
+      "email": "bdo.rud@gmail.com",
       "covers": [
         "rudauli"
       ],
@@ -521,7 +513,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Rudauli",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rudauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक रुदौली",
       "phones": [],
       "covers": [
         "rudauli"
@@ -536,7 +528,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mawai",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mawai",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मवै",
       "phones": [
         {
           "number": "9454465340",
@@ -546,7 +538,7 @@
           "status": "verified"
         }
       ],
-      "email": "mawai9454465340bdo.mvi@gmail.com",
+      "email": "bdo.mvi@gmail.com",
       "covers": [
         "mawai"
       ],
@@ -560,7 +552,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Mawai",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mawai",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मवै",
       "phones": [],
       "covers": [
         "mawai"
@@ -575,7 +567,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sohawal",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sohawal",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सोहवल",
       "phones": [
         {
           "number": "9454465334",
@@ -585,7 +577,7 @@
           "status": "verified"
         }
       ],
-      "email": "sohawal9454465334bdo.shw@gmail.com",
+      "email": "bdo.shw@gmail.com",
       "covers": [
         "sohawal"
       ],
@@ -599,7 +591,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Sohawal",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sohawal",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सोहवल",
       "phones": [],
       "covers": [
         "sohawal"
@@ -622,7 +614,7 @@
       "source_url": "https://ayodhya.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "सिविल लाइन, फैजाबाद श्रेणी / प्रकार : सार्वजनिक"
+      "address_hi": "सिविल लाइन, फैजाबाद श्रेणी / प्रकार : सार्वजनिक"
     },
     {
       "id": "up-ayodhya-commissioner",
@@ -652,8 +644,9 @@
       "source_url": "https://localbodies.up.nic.in/listnn.htm",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "email": "8189077815nagarnigamayodhya@gmail.com",
-      "officer_name_en": "श्री विशाल सिंह"
+      "email": "nagarnigamayodhya@gmail.com",
+      "officer_name_en": "Shri Vishal Sinh",
+      "officer_name_hi": "श्री विशाल सिंह"
     }
   ]
 }

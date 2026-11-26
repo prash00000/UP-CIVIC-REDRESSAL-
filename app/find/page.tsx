@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect, Suspense, useMemo, useRef } from "react";
+import React, { useState, useEffect, Suspense, useMemo, useRef, useCallback } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { Card } from "@astryxdesign/core/Card";
@@ -16,6 +16,7 @@ import {
   Place,
   PincodeMap,
   StateData,
+  Issue,
   IssueSlug,
 } from "@/lib/types";
 import { resolvePincode } from "@/lib/pincode";
@@ -26,6 +27,8 @@ import {
   loadPlacesData,
   loadPincodes,
   loadStateData,
+  loadRecheckOffices,
+  loadIssue,
 } from "@/lib/data";
 import { resolveOfficers, ResolutionResult } from "@/lib/resolver";
 import {
@@ -33,6 +36,13 @@ import {
   getPrimaryOfficerForIssue,
   getRelevantPortals,
 } from "@/lib/issue-routing";
+import {
+  formatPlaceBlockAndTehsil,
+  formatPlaceSublabel,
+  getPlaceBlockLabel,
+} from "@/lib/place-display";
+import { saveArea, clearSavedArea, readSavedArea, SavedArea } from "@/lib/saved-area";
+import { build1076ComplaintSummary } from "@/lib/complaint-summary";
 import Stepper from "@/components/Stepper";
 import ChoiceButton from "@/components/ChoiceButton";
 import SearchSelect, { SearchOption } from "@/components/SearchSelect";
@@ -54,7 +64,9 @@ function WizardContent() {
 
   const [districts, setDistricts] = useState<DistrictIndexEntry[]>([]);
   const [pincodesMap, setPincodesMap] = useState<PincodeMap>({});
+  const pincodesLoadedRef = useRef(false);
   const [stateInfo, setStateInfo] = useState<StateData | null>(null);
+  const [recheckIds, setRecheckIds] = useState<Set<string>>(new Set());
 
   const [currentDistrictData, setCurrentDistrictData] = useState<DistrictData | null>(null);
   const [currentPlaces, setCurrentPlaces] = useState<Place[]>([]);
@@ -64,25 +76,39 @@ function WizardContent() {
     typeParam
   );
   const [selectedDistrict, setSelectedDistrict] = useState<string | null>(districtParam);
-  const [pinCandidateDistrict, setPinCandidateDistrict] = useState<string | null>(null);
   const [selectedPlace, setSelectedPlace] = useState<string | null>(placeParam);
   const [selectedIssue, setSelectedIssue] = useState<IssueSlug | null>(issueParam);
+  const [activeIssueData, setActiveIssueData] = useState<Issue | null>(null);
   const [pincodeInput, setPincodeInput] = useState(pincodeParam || "");
-  const [unknownChoice, setUnknownChoice] = useState<"village" | "town" | null>(null);
-  const [placeFilter, setPlaceFilter] = useState<"all" | "village" | "block" | "ward">("all");
 
-  // Prevents URL sync or Back/Change click from immediately re-auto-applying PIN over user's intent
-  const userClearedDistrictRef = useRef(false);
+  const [placeFilter, setPlaceFilter] = useState<"all" | "village" | "block" | "ward">("all");
+  const [selectedBlockFilter, setSelectedBlockFilter] = useState<string>("all");
+  const [pinScope, setPinScope] = useState<"pin" | "all">("pin");
+  const [copied1076, setCopied1076] = useState(false);
+  const [savedArea, setSavedArea] = useState<SavedArea | null>(null);
+  const [savedNoticeDismissed, setSavedNoticeDismissed] = useState(false);
+  const [needsDistrictHint, setNeedsDistrictHint] = useState(false);
+
+  const districtSectionRef = useRef<HTMLDivElement>(null);
+  const lastAutoAppliedPinRef = useRef<string | null>(null);
+  const pinEditedRef = useRef(false);
+
+  const ensurePincodesLoaded = useCallback(() => {
+    if (pincodesLoadedRef.current) return;
+    pincodesLoadedRef.current = true;
+    loadPincodes().then(setPincodesMap);
+  }, []);
 
   const pinState = usePincodeLookup(pincodeInput, pincodesMap);
 
   useEffect(() => {
     loadDistrictsIndex().then(setDistricts);
-    loadPincodes().then(setPincodesMap);
     loadStateData().then(setStateInfo);
+    loadRecheckOffices().then(setRecheckIds);
+    setSavedArea(readSavedArea());
   }, []);
 
-  // Sync URL params safely without wiping a valid PIN-detected district unless URL explicitly specifies district
+  // Sync URL params cleanly
   useEffect(() => {
     setSelectedType(typeParam);
     if (districtParam) {
@@ -94,34 +120,65 @@ function WizardContent() {
     setSelectedIssue(issueParam);
   }, [typeParam, districtParam, placeParam, pincodeParam, issueParam]);
 
-  // Keep pincodeInput synced when URL ?pincode= changes
   useEffect(() => {
     if (!pincodeParam) return;
     const clean = pincodeParam.replace(/\D/g, "").slice(0, 6);
-    if (clean.length === 6) setPincodeInput(clean);
-  }, [pincodeParam]);
+    if (clean.length === 6) {
+      setPincodeInput(clean);
+      ensurePincodesLoaded();
+    }
+  }, [pincodeParam, ensurePincodesLoaded]);
 
-  // Apply PIN resolution cleanly for Step 1 auto-detect & Step 2 confirmation
+  // Load selected issue metadata when chosen (for rich 1076 summary)
   useEffect(() => {
-    if (pincodeInput.length !== 6) {
-      setPinCandidateDistrict(null);
+    if (!selectedIssue) {
+      setActiveIssueData(null);
       return;
     }
-    if (pinState.matches.length === 1 && !userClearedDistrictRef.current) {
-      const matchDist = pinState.matches[0].district_id;
-      if (!selectedType) {
-        setSelectedDistrict(matchDist);
-      } else if (!selectedDistrict) {
-        setPinCandidateDistrict(matchDist);
-      }
-    } else {
-      setPinCandidateDistrict(null);
+    loadIssue(selectedIssue).then(setActiveIssueData);
+  }, [selectedIssue]);
+
+  // Auto-detect single-match district per PIN once (and update cleanly if user edited PIN to a different district)
+  useEffect(() => {
+    if (pincodeInput.length !== 6) {
+      lastAutoAppliedPinRef.current = null;
+      return;
     }
-  }, [pincodeInput, pinState.matches, selectedType, selectedDistrict]);
+    if (pinState.matches.length === 1 && lastAutoAppliedPinRef.current !== pincodeInput) {
+      const matched = pinState.matches[0].district_id;
+      lastAutoAppliedPinRef.current = pincodeInput;
+      const shouldUpdate = !districtParam || (pinEditedRef.current && selectedDistrict !== matched);
+      if (shouldUpdate) {
+        pinEditedRef.current = false;
+        setSelectedDistrict(matched);
+        setSelectedPlace(null);
+        setSelectedBlockFilter("all");
+        setPinScope("pin");
+        if (districtParam && districtParam !== matched) {
+          const params = new URLSearchParams();
+          if (selectedType) params.set("type", selectedType);
+          params.set("district", matched);
+          params.set("pincode", pincodeInput);
+          if (selectedIssue) params.set("issue", selectedIssue);
+          router.replace(`/find/?${params.toString()}`);
+        }
+      }
+    } else if (
+      pinEditedRef.current &&
+      pinState.matches.length > 1 &&
+      selectedDistrict &&
+      !pinState.matches.some((m) => m.district_id === selectedDistrict)
+    ) {
+      pinEditedRef.current = false;
+      setSelectedDistrict(null);
+      setSelectedPlace(null);
+    }
+  }, [pincodeInput, pinState.matches, districtParam, selectedDistrict, selectedType, selectedIssue, router]);
 
   useEffect(() => {
     if (selectedDistrict) {
       setLoadingPlaces(true);
+      setNeedsDistrictHint(false);
       Promise.all([
         loadDistrictData(selectedDistrict),
         loadPlacesData(selectedDistrict),
@@ -134,6 +191,12 @@ function WizardContent() {
       setCurrentDistrictData(null);
       setCurrentPlaces([]);
     }
+  }, [selectedDistrict]);
+
+  // Reset block filter cleanly when changing district
+  useEffect(() => {
+    setSelectedBlockFilter("all");
+    setPinScope("pin");
   }, [selectedDistrict]);
 
   const updateUrl = (
@@ -155,33 +218,42 @@ function WizardContent() {
     router.replace(qs ? `/find/?${qs}` : `/find/`);
   };
 
+  // True 3-Step Sequence:
+  // Step 1: Location + Area Type (PIN / District + Village vs Town vs Not sure)
+  // Step 2: Pinpoint Village, Block, or Town
+  // Step 3: Your Officers & Action Plan
   let step = 1;
-  if (selectedType) {
-    if (selectedType === "other") {
-      step = selectedDistrict ? 4 : 2;
-    } else if (selectedDistrict) {
-      step = selectedPlace ? 4 : 3;
-    } else {
-      step = 2;
-    }
+  if (selectedType && selectedDistrict) {
+    step = selectedPlace ? 3 : 2;
   }
 
-  const getDistrictName = (id: string) => {
-    const dEntry = districts.find((d) => d.id === id);
-    return dEntry ? getLocalized(dEntry, "name", lang) : id;
-  };
+  const getDistrictName = useCallback(
+    (id: string) => {
+      const dEntry = districts.find((d) => d.id === id);
+      return dEntry ? getLocalized(dEntry, "name", lang) : id;
+    },
+    [districts, lang]
+  );
 
   const handlePincodeChange = (pin: string) => {
     const cleanPin = pin.replace(/\D/g, "").slice(0, 6);
+    pinEditedRef.current = true;
     setPincodeInput(cleanPin);
-    userClearedDistrictRef.current = false;
+    if (cleanPin.length >= 1) {
+      ensurePincodesLoaded();
+    }
+    if (cleanPin.length < 6) {
+      lastAutoAppliedPinRef.current = null;
+    }
   };
 
   const handleClearPincode = () => {
-    userClearedDistrictRef.current = true;
+    lastAutoAppliedPinRef.current = null;
+    pinEditedRef.current = false;
     setPincodeInput("");
-    setPinCandidateDistrict(null);
     setSelectedDistrict(null);
+    setSelectedPlace(null);
+    setSelectedBlockFilter("all");
     updateUrl(selectedType, null, null, null);
   };
 
@@ -194,50 +266,107 @@ function WizardContent() {
     }));
   }, [districts, lang, t]);
 
-  const placeOptions: SearchOption[] = useMemo(() => {
+  // First narrow places to the chosen area type, then filter by active 6-digit PIN
+  const areaScopedPlaces = useMemo(() => {
     if (!currentPlaces.length) return [];
-    const filteredPlaces = currentPlaces.filter((p) => {
-      if (selectedType === "unknown" && unknownChoice) {
-        if (unknownChoice === "village" && p.type !== "village") return false;
-        if (unknownChoice === "town" && p.type !== "ward") return false;
+    if (selectedType === "gram_panchayat") {
+      return currentPlaces.filter((p) => p.type === "village" || p.local_body_type === "gram_panchayat");
+    }
+    if (selectedType === "nagar_panchayat" || selectedType === "nagar_palika_parishad") {
+      const towns = currentPlaces.filter(
+        (p) =>
+          p.type === "ward" &&
+          p.local_body_type !== "nagar_nigam" &&
+          p.local_body_type !== "authority_area" &&
+          p.local_body_type !== "cantonment_board"
+      );
+      return towns.length > 0
+        ? towns
+        : currentPlaces.filter((p) => p.type === "ward" && p.local_body_type !== "nagar_nigam");
+    }
+    if (selectedType === "nagar_nigam") {
+      const nigams = currentPlaces.filter((p) => p.local_body_type === "nagar_nigam");
+      return nigams.length > 0 ? nigams : currentPlaces.filter((p) => p.type === "ward");
+    }
+    if (selectedType === "other") {
+      const specials = currentPlaces.filter(
+        (p) => p.local_body_type === "authority_area" || p.local_body_type === "cantonment_board"
+      );
+      return specials.length > 0 ? specials : currentPlaces.filter((p) => p.type === "ward");
+    }
+    return currentPlaces;
+  }, [currentPlaces, selectedType]);
+
+  // Places matching active 6-digit PIN inside areaScopedPlaces
+  const pinMatchedPlaces = useMemo(() => {
+    if (pincodeInput.length !== 6 || areaScopedPlaces.length === 0) return [];
+    return areaScopedPlaces.filter((p) => p.pincodes?.includes(pincodeInput));
+  }, [areaScopedPlaces, pincodeInput]);
+
+  // Base pool of places narrowed by Step 1 area type & optional PIN filter
+  const baseScopedPlaces = useMemo(() => {
+    if (!areaScopedPlaces.length) return [];
+    return pinMatchedPlaces.length > 0 && pinScope === "pin" ? pinMatchedPlaces : areaScopedPlaces;
+  }, [areaScopedPlaces, pinMatchedPlaces, pinScope]);
+
+  // Unique blocks for optional Block (Vikas Khand) narrowing
+  const uniqueBlocks = useMemo(() => {
+    const map = new Map<string, string>();
+    for (const p of baseScopedPlaces) {
+      if (!p.block_id) continue;
+      if (!map.has(p.block_id)) {
+        map.set(p.block_id, getPlaceBlockLabel(p, currentDistrictData, lang) || p.block_id);
+      }
+    }
+    return Array.from(map.entries())
+      .map(([id, label]) => ({ id, label }))
+      .sort((a, b) => a.label.localeCompare(b.label));
+  }, [baseScopedPlaces, currentDistrictData, lang]);
+
+  const placeOptions: SearchOption[] = useMemo(() => {
+    if (!baseScopedPlaces.length) return [];
+    const filteredPlaces = baseScopedPlaces.filter((p) => {
+      if (selectedBlockFilter !== "all" && p.block_id !== selectedBlockFilter) {
+        return false;
       }
       if (placeFilter === "block") return p.id.startsWith("block-");
       if (placeFilter === "village") return p.type === "village" && !p.id.startsWith("block-");
       if (placeFilter === "ward") return p.type === "ward";
       return true;
     });
-    return filteredPlaces.map((p) => {
-      const name = getLocalized(p, "name", lang);
-      let sub = "";
-      if (p.type === "village") {
-        sub = `${p.block_id ? `Block: ${p.block_id}` : ""}${p.pincodes?.[0] ? ` · PIN ${p.pincodes[0]}` : ""}`;
-      } else {
-        sub = `${p.ulb_id || p.tehsil_id || "-"}${p.pincodes?.[0] ? ` · PIN ${p.pincodes[0]}` : ""}`;
-      }
-      return {
-        id: p.id,
-        label: name,
-        sublabel: sub,
-        searchValue: `${p.name_en} ${p.name_hi} ${p.gp_id || ""} ${p.block_id || ""} ${p.pincodes?.join(" ") || ""}`,
-      };
-    });
-  }, [currentPlaces, selectedType, unknownChoice, placeFilter, lang]);
+
+    const list =
+      filteredPlaces.length > 0
+        ? filteredPlaces
+        : selectedBlockFilter === "all" && placeFilter === "all"
+        ? areaScopedPlaces
+        : filteredPlaces;
+
+    return list.map((p) => ({
+      id: p.id,
+      label: getLocalized(p, "name", lang),
+      sublabel: formatPlaceSublabel(p, lang),
+      searchValue: `${p.name_en} ${p.name_hi} ${p.block_name_en || ""} ${p.block_name_hi || ""} ${p.tehsil_name_en || ""} ${p.block_id || ""} ${p.gp_id || ""} ${p.pincodes?.join(" ") || ""}`,
+    }));
+  }, [baseScopedPlaces, areaScopedPlaces, selectedBlockFilter, placeFilter, lang]);
 
   const resolution: ResolutionResult | null = useMemo(() => {
-    if (step !== 4 || !selectedDistrict || !currentDistrictData) return null;
+    if (step !== 3 || !selectedDistrict || !currentDistrictData) return null;
     return resolveOfficers(
       selectedType || "unknown",
       selectedDistrict,
       selectedPlace === "district-hq" ? null : selectedPlace,
       currentDistrictData,
       currentPlaces,
-      stateInfo || undefined
+      stateInfo || undefined,
+      recheckIds
     );
-  }, [step, selectedType, selectedDistrict, selectedPlace, currentDistrictData, currentPlaces, stateInfo]);
+  }, [step, selectedType, selectedDistrict, selectedPlace, currentDistrictData, currentPlaces, stateInfo, recheckIds]);
 
   const activeIssueSlug: IssueSlug = selectedIssue || "street-light";
   const primaryIssueOfficer = useMemo(() => {
-    if (!resolution || !selectedIssue) return resolution?.officers[0] || null;
+    if (!resolution) return null;
+    if (!selectedIssue) return resolution.officers[0] || null;
     return getPrimaryOfficerForIssue(selectedIssue, resolution);
   }, [resolution, selectedIssue]);
 
@@ -246,29 +375,50 @@ function WizardContent() {
     return getRelevantPortals(activeIssueSlug, effLocalType, stateInfo);
   }, [activeIssueSlug, resolution, selectedType, stateInfo]);
 
+  // Persist active chosen area cleanly to browser localStorage on Step 3
+  useEffect(() => {
+    if (step !== 3 || !selectedDistrict || !selectedPlace) return;
+    const distMeta = districts.find((d) => d.id === selectedDistrict);
+    const placeObj = resolution?.place;
+    const effType = placeObj?.local_body_type || selectedType || "unknown";
+    const saved = saveArea({
+      districtId: selectedDistrict,
+      districtNameEn: distMeta?.name_en || selectedDistrict,
+      districtNameHi: distMeta?.name_hi || distMeta?.name_en || selectedDistrict,
+      placeId: selectedPlace,
+      placeNameEn: placeObj?.name_en || (selectedPlace === "district-hq" ? "District HQ" : selectedPlace),
+      placeNameHi: placeObj?.name_hi || (selectedPlace === "district-hq" ? "जनपद मुख्यालय" : selectedPlace),
+      localBodyType: effType,
+      pincode: pincodeInput.length === 6 ? pincodeInput : placeObj?.pincodes?.[0],
+    });
+    setSavedArea(saved);
+    setSavedNoticeDismissed(false);
+  }, [step, selectedDistrict, selectedPlace, selectedType, resolution?.place, districts, pincodeInput]);
+
   const handleBack = () => {
-    if (step === 4) {
-      if (selectedType === "other") {
-        userClearedDistrictRef.current = true;
-        setSelectedDistrict(null);
-        updateUrl(selectedType, null, null);
-      } else {
-        setSelectedPlace(null);
-        updateUrl(selectedType, selectedDistrict, null);
-      }
-    } else if (step === 3) {
-      userClearedDistrictRef.current = true;
-      setSelectedDistrict(null);
-      updateUrl(selectedType, null, null);
+    if (step === 3) {
+      setSelectedPlace(null);
+      updateUrl(selectedType, selectedDistrict, null);
     } else if (step === 2) {
       setSelectedType(null);
+      setSelectedPlace(null);
       updateUrl(null, selectedDistrict, null);
     }
   };
 
-  // Pick a district resolved synchronously or from state when Step 1 ballot is chosen
-  const selectBallotAndProceed = (ballot: LocalBodyType | "unknown" | "other") => {
-    setSelectedType(ballot);
+  const handleStepClick = (targetStep: number) => {
+    if (targetStep === 1) {
+      setSelectedType(null);
+      setSelectedPlace(null);
+      updateUrl(null, selectedDistrict, null);
+    } else if (targetStep === 2 && selectedDistrict) {
+      setSelectedPlace(null);
+      updateUrl(selectedType || "unknown", selectedDistrict, null);
+    }
+  };
+
+  const handleSelectAreaType = (areaType: LocalBodyType | "unknown" | "other") => {
+    setSelectedType(areaType);
     let effDistrict = selectedDistrict;
     if (!effDistrict && pinState.matches.length === 1) {
       effDistrict = pinState.matches[0].district_id;
@@ -280,36 +430,59 @@ function WizardContent() {
         setSelectedDistrict(effDistrict);
       }
     }
-    updateUrl(ballot, effDistrict, ballot === "other" ? null : selectedPlace);
+
+    if (areaType === "gram_panchayat") {
+      setPlaceFilter("all");
+    } else if (areaType === "nagar_panchayat" || areaType === "nagar_palika_parishad" || areaType === "nagar_nigam") {
+      setPlaceFilter("all");
+    } else {
+      setPlaceFilter("all");
+    }
+
+    if (!effDistrict) {
+      setNeedsDistrictHint(true);
+      updateUrl(areaType, null, null);
+      districtSectionRef.current?.scrollIntoView({ behavior: "smooth", block: "center" });
+      return;
+    }
+
+    setNeedsDistrictHint(false);
+    updateUrl(areaType, effDistrict, selectedPlace);
   };
 
-  const handleStepClick = (targetStep: number) => {
-    if (targetStep === 1) {
-      setSelectedType(null);
-      setSelectedPlace(null);
-      updateUrl(null, selectedDistrict, null);
-    } else if (targetStep === 2) {
-      userClearedDistrictRef.current = true;
-      setSelectedDistrict(null);
-      setSelectedPlace(null);
-      updateUrl(selectedType, null, null);
-    }
+  const handleCopy1076Summary = async () => {
+    const distMeta = districts.find((d) => d.id === selectedDistrict) || null;
+    const summaryText = build1076ComplaintSummary({
+      lang,
+      district: distMeta,
+      districtData: currentDistrictData,
+      place: resolution?.place || null,
+      issue: activeIssueData,
+      primaryOfficer: primaryIssueOfficer,
+      pincode: pincodeInput,
+    });
+    try {
+      await navigator.clipboard.writeText(summaryText);
+      setCopied1076(true);
+      setTimeout(() => setCopied1076(false), 2500);
+    } catch {}
   };
+
+  const pinQuerySuffix = pincodeInput.length === 6 ? `&pincode=${encodeURIComponent(pincodeInput)}` : "";
+  const effectivePlaceParam = selectedPlace === "district-hq" ? "" : selectedPlace || "";
 
   return (
     <div className="max-w-form mx-auto">
-      {step < 4 && (
-        <Stepper
-          currentStep={step}
-          totalSteps={3}
-          canBack={step > 1}
-          onBack={handleBack}
-          onStepClick={handleStepClick}
-        />
-      )}
+      <Stepper
+        currentStep={step}
+        totalSteps={3}
+        canBack={step > 1}
+        onBack={handleBack}
+        onStepClick={handleStepClick}
+      />
 
-      {/* Selected Issue Context Banner when arriving from an issue page */}
-      {selectedIssue && step < 4 && (
+      {/* Active Issue Context Banner */}
+      {selectedIssue && step < 3 && (
         <div className="mb-4 p-3 rounded-[4px] bg-[#FFF5F0] border border-[#C84B16]/30 flex flex-wrap items-center justify-between gap-2 text-[14px]">
           <span className="font-semibold text-[#C84B16]">
             {t("find.activeIssueLabel")}: {t(`issue.${selectedIssue}`)}
@@ -327,59 +500,19 @@ function WizardContent() {
         </div>
       )}
 
-      {/* Selected District Context Banner (visible on Steps 1 & 3 so PIN auto-detection is always transparent) */}
-      {selectedDistrict && (step === 1 || step === 3) && (
-        <div className="mb-5 p-3.5 rounded-[4px] bg-[#EBF1F6] border border-[#154273]/30 flex flex-wrap items-center justify-between gap-2 text-[14px]">
-          <div className="space-y-0.5">
-            <span className="font-semibold text-[#154273] block">
-              ✓ {t("flow.pincodeSelectedBar", { district: getDistrictName(selectedDistrict) })}
-              {pincodeInput.length === 6 && ` (PIN ${pincodeInput})`}
-            </span>
-            {pinState.localitySummary && (
-              <span className="text-[12px] text-muted block">
-                {t("flow.pincodeAreaHint", { area: pinState.localitySummary })}
-              </span>
-            )}
-          </div>
-          <div className="flex flex-wrap items-center gap-3">
-            {step === 1 && (
-              <button
-                type="button"
-                onClick={() => selectBallotAndProceed("unknown")}
-                className="text-[13px] font-semibold text-[#C84B16] underline hover:text-[#AD3E0F]"
-              >
-                {t("find.jumpToPlaceSearch")} →
-              </button>
-            )}
-            <button
-              type="button"
-              onClick={() => {
-                userClearedDistrictRef.current = true;
-                setSelectedDistrict(null);
-                setSelectedPlace(null);
-                updateUrl(selectedType, null, null);
-              }}
-              className="text-[13px] font-semibold text-[#154273] underline hover:text-[#0F3156]"
-            >
-              {t("flow.changeDistrict")}
-            </button>
-          </div>
-        </div>
-      )}
-
-      {/* STEP 1: Ballot Choice + Optional Issue Quick Select */}
+      {/* STEP 1: Location-First Entry (PIN + District + Plain-Language Area Type) */}
       {step === 1 && (
         <section aria-labelledby="q1-heading" className="space-y-5">
           <div>
             <h1 id="q1-heading" className="font-editorial text-[28px] sm:text-[34px] font-bold text-text leading-tight mb-2">
-              {t("flow.q1")}
+              {t("find.step1Headline")}
             </h1>
             <p className="text-[16px] text-muted leading-relaxed">
-              {t("find.step1FriendlyHint")}
+              {t("find.step1Sub")}
             </p>
           </div>
 
-          {/* Optional Issue Pills so citizen can tag what they want to complain about upfront */}
+          {/* Optional Issue Quick Pills */}
           <div className="space-y-2">
             <p className="text-[12px] font-bold uppercase tracking-[0.06em] text-muted">
               {t("find.optionalIssueTitle")}
@@ -409,317 +542,223 @@ function WizardContent() {
             </div>
           </div>
 
-          <Card padding={4} variant="default" elevation="none">
-            <div className="space-y-3">
-              <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
-                <div>
-                  <span className="font-semibold text-[15px] text-text block">
-                    {t("flow.quickPincode")}
-                  </span>
-                  <span className="text-[13px] text-muted block">
-                    {t("flow.pincodePlaceholder")}
-                  </span>
-                </div>
-                <div className="flex items-center gap-2">
-                  <input
-                    type="text"
-                    inputMode="numeric"
-                    maxLength={6}
-                    value={pincodeInput}
-                    onChange={(e) => handlePincodeChange(e.target.value)}
-                    placeholder="226001"
-                    className="w-36 min-h-[42px] px-3 py-1.5 bg-bg text-text text-[15px] tabular-nums border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none"
-                  />
-                  {pinState.matches.length === 1 && selectedDistrict && (
-                    <Badge
-                      variant="success"
-                      label={getDistrictName(selectedDistrict)}
+          {/* Location Panel: 6-digit PIN + District SearchSelect (kept out of overflow-hidden Card so dropdown never clips) */}
+          <div ref={districtSectionRef} className="p-4 sm:p-5 rounded-[6px] bg-surface border border-border overflow-visible relative z-30">
+              <div className="space-y-4">
+                <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+                  <div>
+                    <label htmlFor="wizard-pincode-input" className="font-semibold text-[15px] text-text block">
+                      {t("flow.quickPincode")}
+                    </label>
+                    <span className="text-[13px] text-muted block">
+                      {t("flow.pincodePlaceholder")}
+                    </span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <input
+                      id="wizard-pincode-input"
+                      type="text"
+                      inputMode="numeric"
+                      maxLength={6}
+                      value={pincodeInput}
+                      onFocus={ensurePincodesLoaded}
+                      onChange={(e) => handlePincodeChange(e.target.value)}
+                      placeholder="226001"
+                      className="w-36 min-h-[42px] px-3 py-1.5 bg-bg text-text text-[15px] tabular-nums border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none"
                     />
-                  )}
-                  {pincodeInput && (
+                    {pinState.matches.length === 1 && selectedDistrict && (
+                      <Badge
+                        variant="success"
+                        label={getDistrictName(selectedDistrict)}
+                      />
+                    )}
+                    {pincodeInput && (
+                      <button
+                        type="button"
+                        onClick={handleClearPincode}
+                        aria-label={t("flow.pincodeClear")}
+                        className="text-[13px] text-muted hover:text-danger px-2 py-1"
+                      >
+                        ✕
+                      </button>
+                    )}
+                  </div>
+                </div>
+
+                {pinState.matches.length > 1 && (
+                  <Banner
+                    status="info"
+                    container="card"
+                    collapsible={false}
+                    title={t("flow.pincodeMulti")}
+                    description={
+                      pinState.localitySummary
+                        ? t("flow.pincodeAreaHint", { area: pinState.localitySummary })
+                        : undefined
+                    }
+                  >
+                    <div className="flex flex-wrap gap-2 pt-1">
+                      {pinState.matches.map((m) => (
+                        <Button
+                          key={m.district_id}
+                          type="button"
+                          size="sm"
+                          variant={selectedDistrict === m.district_id ? "primary" : "secondary"}
+                          label={getDistrictName(m.district_id)}
+                          onClick={() => {
+                            setSelectedDistrict(m.district_id);
+                            setSelectedPlace(null);
+                            updateUrl(selectedType, m.district_id, null, pincodeInput);
+                          }}
+                        />
+                      ))}
+                    </div>
+                  </Banner>
+                )}
+
+                {pinState.kind === "out_of_state" && pinState.outOfStateInfo && (
+                  <Banner
+                    status="warning"
+                    container="card"
+                    title={t("flow.pincodeOutOfState", {
+                      pin: pincodeInput,
+                      district: pinState.outOfStateInfo.district,
+                      state: pinState.outOfStateInfo.state,
+                    })}
+                  />
+                )}
+
+                {pinState.kind === "not_found" && (
+                  <Banner
+                    status={pinState.isCheckingLive ? "info" : "warning"}
+                    container="card"
+                    title={
+                      pinState.isCheckingLive
+                        ? t("flow.pincodeCheckingLive")
+                        : t("flow.pincodeNotFound")
+                    }
+                  />
+                )}
+
+                <SearchSelect
+                  label={t("flow.selectDistrict")}
+                  options={districtOptions}
+                  value={selectedDistrict}
+                  onSelect={(opt) => {
+                    const nextDist = opt.id;
+                    const matchesCurrentPin = pinState.matches.some((m) => m.district_id === nextDist);
+                    const nextPin = pincodeInput && !matchesCurrentPin ? "" : pincodeInput;
+                    if (pincodeInput && !matchesCurrentPin) {
+                      lastAutoAppliedPinRef.current = null;
+                      setPincodeInput("");
+                    }
+                    setSelectedDistrict(nextDist);
+                    setSelectedPlace(null);
+                    setNeedsDistrictHint(false);
+                    updateUrl(selectedType, nextDist, null, nextPin || null);
+                  }}
+                />
+
+                {needsDistrictHint && !selectedDistrict && (
+                  <Banner
+                    status="warning"
+                    container="card"
+                    title={t("find.pickDistrictPrompt")}
+                  />
+                )}
+
+                {selectedDistrict && (
+                  <div className="pt-2 border-t border-border flex flex-wrap items-center justify-between gap-2 text-[14px]">
+                    <span className="font-semibold text-[#154273]">
+                      ✓ {t("flow.pincodeSelectedBar", { district: getDistrictName(selectedDistrict) })}
+                      {pincodeInput.length === 6 && ` (PIN ${pincodeInput})`}
+                    </span>
                     <button
                       type="button"
-                      onClick={handleClearPincode}
-                      aria-label={t("flow.pincodeClear")}
-                      className="text-[13px] text-muted hover:text-danger px-2 py-1"
+                      onClick={() => handleSelectAreaType(selectedType || "unknown")}
+                      className="text-[14px] font-semibold text-[#C84B16] underline hover:text-[#AD3E0F]"
                     >
-                      ✕
+                      {t("find.continueToPlace")} →
                     </button>
-                  )}
-                </div>
-              </div>
-
-              {pinState.matches.length > 1 && (
-                <Banner
-                  status="info"
-                  container="card"
-                  collapsible={false}
-                  title={t("flow.pincodeMulti")}
-                  description={
-                    pinState.localitySummary
-                      ? t("flow.pincodeAreaHint", { area: pinState.localitySummary })
-                      : undefined
-                  }
-                >
-                  <div className="flex flex-wrap gap-2 pt-1">
-                    {pinState.matches.map((m) => (
-                      <Button
-                        key={m.district_id}
-                        type="button"
-                        size="sm"
-                        variant={selectedDistrict === m.district_id ? "primary" : "secondary"}
-                        label={getDistrictName(m.district_id)}
-                        onClick={() => {
-                          setSelectedDistrict(m.district_id);
-                          updateUrl(selectedType, m.district_id, null, pincodeInput);
-                        }}
-                      />
-                    ))}
                   </div>
-                </Banner>
-              )}
+                )}
+              </div>
+          </div>
 
-              {pinState.kind === "out_of_state" && pinState.outOfStateInfo && (
-                <Banner
-                  status="warning"
-                  container="card"
-                  title={t("flow.pincodeOutOfState", {
-                    pin: pincodeInput,
-                    district: pinState.outOfStateInfo.district,
-                    state: pinState.outOfStateInfo.state,
-                  })}
-                />
-              )}
-
-              {pinState.kind === "not_found" && (
-                <Banner
-                  status={pinState.isCheckingLive ? "info" : "warning"}
-                  container="card"
-                  title={
-                    pinState.isCheckingLive
-                      ? t("flow.pincodeCheckingLive")
-                      : t("flow.pincodeNotFound")
-                  }
-                />
-              )}
-            </div>
-          </Card>
-
+          {/* Plain-Language Area Type Options */}
           <div className="space-y-2.5">
+            <p className="text-[12px] font-bold uppercase tracking-[0.06em] text-muted">
+              {t("find.areaTypeOptionalLabel")}
+            </p>
             <ChoiceButton
-              title={t("flow.q1.pradhan")}
-              subtitle={t("flow.q1.pradhanSub")}
+              title={t("find.areaVillageTitle")}
+              subtitle={t("find.areaVillageSub")}
               selected={selectedType === "gram_panchayat"}
-              onClick={() => selectBallotAndProceed("gram_panchayat")}
+              onClick={() => handleSelectAreaType("gram_panchayat")}
             />
             <ChoiceButton
-              title={t("flow.q1.np")}
-              subtitle={t("flow.q1.npSub")}
-              selected={selectedType === "nagar_panchayat"}
-              onClick={() => selectBallotAndProceed("nagar_panchayat")}
+              title={t("find.areaTownTitle")}
+              subtitle={t("find.areaTownSub")}
+              selected={selectedType === "nagar_panchayat" || selectedType === "nagar_palika_parishad"}
+              onClick={() => handleSelectAreaType("nagar_palika_parishad")}
             />
             <ChoiceButton
-              title={t("flow.q1.npp")}
-              subtitle={t("flow.q1.nppSub")}
-              selected={selectedType === "nagar_palika_parishad"}
-              onClick={() => selectBallotAndProceed("nagar_palika_parishad")}
-            />
-            <ChoiceButton
-              title={t("flow.q1.mayor")}
-              subtitle={t("flow.q1.mayorSub")}
+              title={t("find.areaNigamTitle")}
+              subtitle={t("find.areaNigamSub")}
               selected={selectedType === "nagar_nigam"}
-              onClick={() => selectBallotAndProceed("nagar_nigam")}
+              onClick={() => handleSelectAreaType("nagar_nigam")}
             />
             <ChoiceButton
-              title={t("flow.q1.other")}
-              subtitle={t("flow.q1.otherSub")}
+              title={t("find.areaOtherTitle")}
+              subtitle={t("find.areaOtherSub")}
               selected={selectedType === "other"}
-              onClick={() => selectBallotAndProceed("other")}
+              onClick={() => handleSelectAreaType("other")}
             />
             <ChoiceButton
-              title={t("flow.q1.unsure")}
-              subtitle={t("flow.q1.unsureSub")}
+              title={t("find.areaUnsureTitle")}
+              subtitle={t("find.areaUnsureSub")}
               selected={selectedType === "unknown"}
-              onClick={() => selectBallotAndProceed("unknown")}
+              onClick={() => handleSelectAreaType("unknown")}
             />
           </div>
         </section>
       )}
 
-      {/* STEP 2: District & Pincode */}
-      {step === 2 && (
-        <section aria-labelledby="q2-heading" className="space-y-5">
-          <h1 id="q2-heading" className="font-editorial text-[28px] sm:text-[34px] font-bold text-text leading-tight">
-            {t("flow.q2")}
-          </h1>
-
-          <Card padding={4} variant="default" elevation="none">
-            <div className="space-y-3">
-              <div className="flex items-center justify-between">
-                <label htmlFor="pincode-input" className="block text-[13px] font-bold uppercase tracking-[0.06em] text-muted">
-                  {t("flow.pincode")}
-                </label>
-                {pincodeInput && (
-                  <button
-                    type="button"
-                    onClick={handleClearPincode}
-                    className="text-[13px] text-muted hover:text-danger font-medium underline"
-                  >
-                    {t("flow.pincodeClear")}
-                  </button>
-                )}
-              </div>
-
-              <input
-                id="pincode-input"
-                type="text"
-                inputMode="numeric"
-                maxLength={6}
-                value={pincodeInput}
-                onChange={(e) => handlePincodeChange(e.target.value)}
-                placeholder={t("flow.pincodePlaceholder")}
-                className="w-full min-h-btn px-4 py-2.5 bg-bg text-text text-[17px] font-medium tabular-nums border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none"
-              />
-
-              {pinState.matches.length === 1 && (pinCandidateDistrict || selectedDistrict) && (
-                <Banner
-                  status="success"
-                  container="card"
-                  collapsible={false}
-                  title={t(
-                    pinState.kind === "exact" || pinState.kind === "live"
-                      ? "flow.pincodeDetected"
-                      : "flow.pincodePrefixDetected",
-                    { district: getDistrictName((pinCandidateDistrict || selectedDistrict)!) }
-                  )}
-                  description={
-                    pinState.localitySummary
-                      ? t("flow.pincodeAreaHint", { area: pinState.localitySummary })
-                      : undefined
-                  }
-                >
-                  <div className="pt-2">
-                    <Button
-                      type="button"
-                      variant="primary"
-                      size="sm"
-                      label={`${t("flow.continueDistrict", { district: getDistrictName((pinCandidateDistrict || selectedDistrict)!) })} →`}
-                      onClick={() => {
-                        const target = (pinCandidateDistrict || selectedDistrict)!;
-                        userClearedDistrictRef.current = false;
-                        setSelectedDistrict(target);
-                        setPinCandidateDistrict(null);
-                        updateUrl(selectedType, target, null, pincodeInput);
-                      }}
-                    />
-                  </div>
-                </Banner>
-              )}
-
-              {pinState.matches.length > 1 && (
-                <Banner
-                  status="info"
-                  container="card"
-                  collapsible={false}
-                  title={t("flow.pincodeMulti")}
-                  description={
-                    pinState.localitySummary
-                      ? t("flow.pincodeAreaHint", { area: pinState.localitySummary })
-                      : undefined
-                  }
-                >
-                  <div className="flex flex-wrap gap-2 pt-1">
-                    {pinState.matches.map((m) => {
-                      const dName = getDistrictName(m.district_id);
-                      const isChosen = selectedDistrict === m.district_id;
-                      return (
-                        <Button
-                          key={m.district_id}
-                          type="button"
-                          size="sm"
-                          variant={isChosen ? "primary" : "secondary"}
-                          label={dName}
-                          onClick={() => {
-                            setSelectedDistrict(m.district_id);
-                            updateUrl(selectedType, m.district_id, null, pincodeInput);
-                          }}
-                        />
-                      );
-                    })}
-                  </div>
-                </Banner>
-              )}
-
-              {pinState.kind === "out_of_state" && pinState.outOfStateInfo && (
-                <Banner
-                  status="warning"
-                  container="card"
-                  title={t("flow.pincodeOutOfState", {
-                    pin: pincodeInput,
-                    district: pinState.outOfStateInfo.district,
-                    state: pinState.outOfStateInfo.state,
-                  })}
-                />
-              )}
-
-              {pinState.kind === "not_found" && (
-                <Banner
-                  status={pinState.isCheckingLive ? "info" : "warning"}
-                  container="card"
-                  title={
-                    pinState.isCheckingLive
-                      ? t("flow.pincodeCheckingLive")
-                      : t("flow.pincodeNotFound")
-                  }
-                />
+      {/* STEP 2: Pinpoint Village, Block, or Town */}
+      {step === 2 && selectedDistrict && (
+        <section aria-labelledby="q2-place-heading" className="space-y-5">
+          <div className="p-3.5 rounded-[4px] bg-[#EBF1F6] border border-[#154273]/30 flex flex-wrap items-center justify-between gap-2 text-[14px]">
+            <div className="space-y-0.5">
+              <span className="font-semibold text-[#154273] block">
+                ✓ {t("flow.pincodeSelectedBar", { district: getDistrictName(selectedDistrict) })}
+                {pincodeInput.length === 6 && ` (PIN ${pincodeInput})`}
+              </span>
+              {pinState.localitySummary && (
+                <span className="text-[12px] text-muted block">
+                  {t("flow.pincodeAreaHint", { area: pinState.localitySummary })}
+                </span>
               )}
             </div>
-          </Card>
+            <button
+              type="button"
+              onClick={() => {
+                setSelectedDistrict(null);
+                setSelectedPlace(null);
+                updateUrl(selectedType, null, null);
+              }}
+              className="text-[13px] font-semibold text-[#154273] underline hover:text-[#0F3156]"
+            >
+              {t("flow.changeDistrict")}
+            </button>
+          </div>
 
-          <SearchSelect
-            label={t("flow.selectDistrict")}
-            options={districtOptions}
-            value={selectedDistrict}
-            onSelect={(opt) => {
-              userClearedDistrictRef.current = false;
-              setSelectedDistrict(opt.id);
-              updateUrl(selectedType, opt.id, null);
-            }}
-          />
-        </section>
-      )}
-
-      {/* STEP 3: Place (Village / Ward) */}
-      {step === 3 && (
-        <section aria-labelledby="q3-heading" className="space-y-5">
-          <h1 id="q3-heading" className="font-editorial text-[28px] sm:text-[34px] font-bold text-text leading-tight">
-            {selectedType === "unknown" && !unknownChoice
-              ? t("flow.unknownHeading")
-              : selectedType === "gram_panchayat" || unknownChoice === "village"
+          <h1 id="q2-place-heading" className="font-editorial text-[28px] sm:text-[34px] font-bold text-text leading-tight">
+            {selectedType === "gram_panchayat"
               ? t("flow.q3.village")
-              : t("flow.q3.ward")}
+              : selectedType === "nagar_panchayat" || selectedType === "nagar_palika_parishad" || selectedType === "nagar_nigam" || selectedType === "other"
+              ? t("flow.q3.ward")
+              : t("issue.selectPlaceLabel")}
           </h1>
-
-          {selectedType === "unknown" && !unknownChoice && currentPlaces.length > 0 && (
-            <div className="space-y-3 mb-4">
-              <div className="grid grid-cols-2 gap-3">
-                <Button
-                  type="button"
-                  variant="secondary"
-                  size="lg"
-                  label={t("flow.village")}
-                  onClick={() => setUnknownChoice("village")}
-                />
-                <Button
-                  type="button"
-                  variant="secondary"
-                  size="lg"
-                  label={t("flow.town")}
-                  onClick={() => setUnknownChoice("town")}
-                />
-              </div>
-            </div>
-          )}
 
           {loadingPlaces ? (
             <div className="py-8 text-center text-muted font-medium">
@@ -731,7 +770,7 @@ function WizardContent() {
               container="card"
               collapsible={false}
               title={t("flow.noPlacesNotice", {
-                district: selectedDistrict ? getDistrictName(selectedDistrict) : "",
+                district: getDistrictName(selectedDistrict),
               })}
             >
               <div className="pt-2">
@@ -749,19 +788,94 @@ function WizardContent() {
             </Banner>
           ) : (
             <div className="space-y-4">
-              {currentPlaces.length > 20 && (
+              {/* PIN-to-Place Filter Banner when PIN matches individual villages/towns */}
+              {pinMatchedPlaces.length > 0 && (
+                <div className="p-3.5 rounded-[4px] bg-surface border border-border flex flex-wrap items-center justify-between gap-2.5">
+                  <span className="text-[13px] font-semibold text-text">
+                    {t("find.pinMatchesSummary", {
+                      pin: pincodeInput,
+                      count: pinMatchedPlaces.length,
+                    })}
+                  </span>
+                  <div className="flex flex-wrap gap-1.5">
+                    <button
+                      type="button"
+                      onClick={() => setPinScope("pin")}
+                      className={`px-2.5 py-1 text-[12px] font-semibold rounded-[4px] border transition-colors ${
+                        pinScope === "pin"
+                          ? "bg-[#154273] text-white border-[#154273]"
+                          : "bg-bg text-muted border-border hover:border-[#154273]"
+                      }`}
+                    >
+                      {t("find.pinFilteredPlacesToggle", {
+                        pin: pincodeInput,
+                        count: pinMatchedPlaces.length,
+                      })}
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => setPinScope("all")}
+                      className={`px-2.5 py-1 text-[12px] font-semibold rounded-[4px] border transition-colors ${
+                        pinScope === "all"
+                          ? "bg-[#154273] text-white border-[#154273]"
+                          : "bg-bg text-muted border-border hover:border-[#154273]"
+                      }`}
+                    >
+                      {t("find.allPlacesToggle", {
+                        district: getDistrictName(selectedDistrict),
+                        count: areaScopedPlaces.length,
+                      })}
+                    </button>
+                  </div>
+                </div>
+              )}
+
+              {/* Optional Block (Vikas Khand) Narrowing for duplicate village names */}
+              {uniqueBlocks.length > 1 && placeFilter !== "ward" && (
+                <div>
+                  <label
+                    htmlFor="find-block-filter"
+                    className="block text-[12px] font-bold uppercase tracking-[0.06em] text-muted mb-1.5"
+                  >
+                    {t("find.blockFilterLabel")}
+                  </label>
+                  <select
+                    id="find-block-filter"
+                    value={selectedBlockFilter}
+                    onChange={(e) => setSelectedBlockFilter(e.target.value)}
+                    className="w-full min-h-[42px] px-3 py-2 bg-surface text-text text-[15px] border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none"
+                  >
+                    <option value="all">
+                      {t("find.allBlocksOption", { count: uniqueBlocks.length })}
+                    </option>
+                    {uniqueBlocks.map((b) => (
+                      <option key={b.id} value={b.id}>
+                        {b.label}
+                      </option>
+                    ))}
+                  </select>
+                </div>
+              )}
+
+              {/* Place Type Filter Pills */}
+              {(selectedType === "unknown" || selectedType === "gram_panchayat") && (
                 <div className="flex flex-wrap items-center justify-between gap-2">
                   <span className="text-[12px] font-bold uppercase tracking-[0.06em] text-muted">
                     {t("issue.filterAreaType")}
                   </span>
                   <div className="flex flex-wrap gap-1.5">
-                    {(
-                      [
-                        { id: "all", key: "flow.filterAll" },
-                        { id: "village", key: "flow.filterVillage" },
-                        { id: "block", key: "flow.filterBlock" },
-                        { id: "ward", key: "flow.filterTown" },
-                      ] as const
+                    {(selectedType === "gram_panchayat"
+                      ? ([
+                          { id: "all", key: "flow.filterAll" },
+                          { id: "village", key: "flow.filterVillage" },
+                          { id: "block", key: "flow.filterBlock" },
+                        ] as const)
+                      : ([
+                          { id: "all", key: "flow.filterAll" },
+                          { id: "village", key: "flow.filterVillage" },
+                          { id: "block", key: "flow.filterBlock" },
+                          { id: "ward", key: "flow.filterTown" },
+                        ] as const)
                     ).map((f) => (
                       <button
                         key={f.id}
@@ -784,8 +898,10 @@ function WizardContent() {
                 label={
                   placeFilter === "block"
                     ? t("flow.filterBlock")
-                    : selectedType === "gram_panchayat" || unknownChoice === "village"
+                    : selectedType === "gram_panchayat"
                     ? t("flow.q3.village")
+                    : selectedType === "unknown"
+                    ? t("issue.selectPlaceLabel")
                     : t("flow.q3.ward")
                 }
                 options={placeOptions}
@@ -797,13 +913,15 @@ function WizardContent() {
               />
 
               <div className="pt-1 flex flex-wrap items-center justify-between gap-2">
-                <button
-                  type="button"
-                  onClick={() => setPlaceFilter("block")}
-                  className="text-[14px] font-semibold text-[#154273] underline underline-offset-4 hover:text-[#0F3156]"
-                >
-                  {t("flow.pickBlockFallback")}
-                </button>
+                {(selectedType === "gram_panchayat" || selectedType === "unknown") && (
+                  <button
+                    type="button"
+                    onClick={() => setPlaceFilter("block")}
+                    className="text-[14px] font-semibold text-[#154273] underline underline-offset-4 hover:text-[#0F3156]"
+                  >
+                    {t("flow.pickBlockFallback")}
+                  </button>
+                )}
                 <button
                   type="button"
                   onClick={() => {
@@ -820,22 +938,13 @@ function WizardContent() {
         </section>
       )}
 
-      {/* STEP 4: Results "Your officers" */}
-      {step === 4 && resolution && (
+      {/* STEP 3: Results "Your officers" + Action Plan */}
+      {step === 3 && resolution && (
         <section aria-labelledby="results-heading" className="space-y-6">
           <div className="flex items-center justify-between gap-3">
-            <Button
-              type="button"
-              variant="secondary"
-              size="sm"
-              label={t("flow.back")}
-              onClick={handleBack}
-              icon={
-                <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2">
-                  <polyline points="15 18 9 12 15 6" />
-                </svg>
-              }
-            />
+            <h1 id="results-heading" className="font-editorial text-[30px] sm:text-[36px] font-bold text-text leading-tight">
+              {t("results.title")}
+            </h1>
             <Badge
               variant="success"
               label={
@@ -848,26 +957,40 @@ function WizardContent() {
             />
           </div>
 
-          <h1 id="results-heading" className="font-editorial text-[30px] sm:text-[36px] font-bold text-text leading-tight">
-            {t("results.title")}
-          </h1>
-
           {resolution.place ? (
             <div className="p-4 rounded-[6px] bg-surface border border-border border-l-4 border-l-[#154273] flex flex-wrap items-center justify-between gap-2 text-[15px] text-text font-medium">
-              <span>
-                {getLocalized(resolution.place, "name", lang)}
-                {resolution.place.gp_id && ` · GP: ${resolution.place.gp_id}`}
-                {resolution.place.block_id && ` · Block: ${resolution.place.block_id}`}
-                {resolution.place.tehsil_id && ` · Tehsil: ${resolution.place.tehsil_id}`}
-                {selectedDistrict && ` · ${getDistrictName(selectedDistrict)}`}
-              </span>
-              <button
-                type="button"
-                onClick={() => handleStepClick(2)}
-                className="text-[13px] font-semibold text-[#154273] underline underline-offset-4 hover:text-[#0F3156]"
-              >
-                {t("flow.change")}
-              </button>
+              <div>
+                <span className="block font-semibold">
+                  {getLocalized(resolution.place, "name", lang)}
+                  {selectedDistrict && ` · ${getDistrictName(selectedDistrict)}`}
+                </span>
+                {formatPlaceBlockAndTehsil(resolution.place, currentDistrictData, lang) && (
+                  <span className="block text-[13px] text-muted mt-0.5">
+                    {formatPlaceBlockAndTehsil(resolution.place, currentDistrictData, lang)}
+                  </span>
+                )}
+              </div>
+              <div className="flex items-center gap-3">
+                <button
+                  type="button"
+                  onClick={() => handleStepClick(2)}
+                  className="text-[13px] font-semibold text-[#154273] underline underline-offset-4 hover:text-[#0F3156]"
+                >
+                  {t("flow.change")}
+                </button>
+                {savedArea && !savedNoticeDismissed && (
+                  <button
+                    type="button"
+                    onClick={() => {
+                      clearSavedArea();
+                      setSavedNoticeDismissed(true);
+                    }}
+                    className="text-[12px] text-muted hover:text-danger underline underline-offset-4"
+                  >
+                    {t("saved.clear")}
+                  </button>
+                )}
+              </div>
             </div>
           ) : selectedDistrict ? (
             <div className="p-4 rounded-[6px] bg-surface border border-border border-l-4 border-l-[#154273] flex flex-wrap items-center justify-between gap-2 text-[15px] text-text font-medium">
@@ -882,6 +1005,15 @@ function WizardContent() {
             </div>
           ) : null}
 
+          {resolution.secretaryNotIndexed && (
+            <Banner
+              status="info"
+              container="card"
+              title={t("results.secretaryDirectoryTitle")}
+              description={t("results.secretaryDirectoryNote")}
+            />
+          )}
+
           {resolution.hasCoverageGap && <CoverageBanner />}
 
           {resolution.isCantonmentOrOther && (
@@ -893,7 +1025,7 @@ function WizardContent() {
             />
           )}
 
-          {/* Dutch Civic Sequence Box: What problem are you fixing? Highlight 1st officer & exact actions */}
+          {/* Dutch Civic Sequence Box: Problem Picker + 1-Click 1076 Summary + Primary Action */}
           <Card padding={4} variant="default" elevation="none">
             <div className="space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2">
@@ -909,9 +1041,7 @@ function WizardContent() {
                   <Link
                     href={`/issue/${selectedIssue}/?district=${encodeURIComponent(
                       selectedDistrict || ""
-                    )}&place=${encodeURIComponent(
-                      selectedPlace === "district-hq" ? "" : selectedPlace || ""
-                    )}`}
+                    )}&place=${encodeURIComponent(effectivePlaceParam)}${pinQuerySuffix}`}
                     className="text-[13px] font-semibold text-[#154273] underline underline-offset-4 hover:text-[#0F3156]"
                   >
                     {t("find.viewFullLadder")} →
@@ -958,19 +1088,26 @@ function WizardContent() {
                     )}
                   </div>
 
-                  <div className="flex flex-wrap items-center gap-2.5 text-[13px]">
+                  <div className="flex flex-wrap items-center gap-2 text-[13px]">
                     <Link
                       href={`/letter/?district=${encodeURIComponent(
                         selectedDistrict || ""
                       )}&place=${encodeURIComponent(
-                        selectedPlace === "district-hq" ? "" : selectedPlace || ""
+                        effectivePlaceParam
                       )}&issue=${encodeURIComponent(selectedIssue)}&officer=${encodeURIComponent(
                         getLocalized(primaryIssueOfficer.office, "office_name", lang)
-                      )}`}
+                      )}${pinQuerySuffix}`}
                       className="px-3.5 py-1.5 rounded-[4px] bg-[#154273] text-white font-semibold hover:bg-[#0F3156]"
                     >
                       2. {t("issue.writeComplaintBtn")} →
                     </Link>
+                    <button
+                      type="button"
+                      onClick={handleCopy1076Summary}
+                      className="px-3 py-1.5 rounded-[4px] border border-[#154273] bg-surface text-[#154273] font-semibold hover:bg-[#EBF1F6]"
+                    >
+                      {copied1076 ? t("summary.copied1076") : t("summary.copy1076")}
+                    </button>
                     {issuePortals.map((portal) => (
                       <a
                         key={portal.id}
@@ -985,6 +1122,19 @@ function WizardContent() {
                   </div>
                 </div>
               )}
+
+              {!selectedIssue && (
+                <div className="pt-1 flex flex-wrap items-center justify-between gap-2 text-[13px]">
+                  <span className="text-muted">{t("summary.helplineTip")}</span>
+                  <button
+                    type="button"
+                    onClick={handleCopy1076Summary}
+                    className="px-3 py-1.5 rounded-[4px] border border-[#154273] bg-surface text-[#154273] font-semibold hover:bg-[#EBF1F6]"
+                  >
+                    {copied1076 ? t("summary.copied1076") : t("summary.copy1076")}
+                  </button>
+                </div>
+              )}
             </div>
           </Card>
 
@@ -993,7 +1143,7 @@ function WizardContent() {
               <OfficerCard key={`${item.office.id}-${item.resolvedRole}`} item={item} />
             ))}
 
-            {/* State Escalation Panel — Classic Royal Delft Navy */}
+            {/* State Escalation Panel */}
             <article className="p-6 bg-[#154273] text-white rounded-[6px] border-t-4 border-[#C84B16]">
               <p className="text-[11px] font-bold uppercase tracking-[0.1em] text-[#F39C72] mb-1.5">
                 {t("results.stateOfficeTitle")}
@@ -1021,6 +1171,13 @@ function WizardContent() {
                   <span>{t("results.jansunwaiLinkText")}</span>
                   <span aria-hidden="true">↗</span>
                 </a>
+                <button
+                  type="button"
+                  onClick={handleCopy1076Summary}
+                  className="inline-flex items-center gap-1.5 px-4 py-2.5 bg-white/15 hover:bg-white/25 text-white font-medium rounded-[4px] transition-colors text-[14px]"
+                >
+                  {copied1076 ? t("summary.copied1076") : t("summary.copy1076")}
+                </button>
               </div>
 
               <div className="mt-4 pt-4 border-t border-white/20 flex flex-wrap gap-3 text-[13px] text-[#DCE6F2]">
@@ -1055,9 +1212,7 @@ function WizardContent() {
               <Link
                 href={`/issue/${encodeURIComponent(activeIssueSlug)}/?district=${encodeURIComponent(
                   selectedDistrict || ""
-                )}&place=${encodeURIComponent(
-                  selectedPlace === "district-hq" ? "" : selectedPlace || ""
-                )}`}
+                )}&place=${encodeURIComponent(effectivePlaceParam)}${pinQuerySuffix}`}
                 className="p-4 rounded-[4px] border border-[#154273] bg-[#EBF1F6]/60 hover:bg-[#EBF1F6] text-[#154273] font-semibold text-center text-[15px] transition-colors"
               >
                 {t("results.ladderBtn")}
@@ -1066,14 +1221,14 @@ function WizardContent() {
                 href={`/letter/?district=${encodeURIComponent(
                   selectedDistrict || ""
                 )}&place=${encodeURIComponent(
-                  selectedPlace === "district-hq" ? "" : selectedPlace || ""
+                  effectivePlaceParam
                 )}&issue=${encodeURIComponent(activeIssueSlug)}&officer=${encodeURIComponent(
                   primaryIssueOfficer
                     ? getLocalized(primaryIssueOfficer.office, "office_name", lang)
                     : resolution.officers[0]
                     ? getLocalized(resolution.officers[0].office, "office_name", lang)
                     : ""
-                )}`}
+                )}${pinQuerySuffix}`}
                 className="p-4 rounded-[4px] border border-borderStrong hover:border-[#154273] bg-surface text-text font-semibold text-center text-[15px] transition-colors"
               >
                 {t("results.letterBtn")}
@@ -1082,14 +1237,14 @@ function WizardContent() {
                 href={`/rti/?district=${encodeURIComponent(
                   selectedDistrict || ""
                 )}&place=${encodeURIComponent(
-                  selectedPlace === "district-hq" ? "" : selectedPlace || ""
+                  effectivePlaceParam
                 )}&issue=${encodeURIComponent(activeIssueSlug)}&officer=${encodeURIComponent(
                   primaryIssueOfficer
                     ? getLocalized(primaryIssueOfficer.office, "office_name", lang)
                     : resolution.officers[0]
                     ? getLocalized(resolution.officers[0].office, "office_name", lang)
                     : ""
-                )}`}
+                )}${pinQuerySuffix}`}
                 className="p-4 rounded-[4px] border border-borderStrong hover:border-[#154273] bg-surface text-text font-semibold text-center text-[15px] transition-colors"
               >
                 {t("results.rtiBtn")}

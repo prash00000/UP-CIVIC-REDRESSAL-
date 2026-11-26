@@ -70,7 +70,11 @@ export type Place = {
   gp_id?: string;
   ulb_id?: string;
   block_id?: string;
+  block_name_en?: string;
+  block_name_hi?: string;
   tehsil_id: string;
+  tehsil_name_en?: string;
+  tehsil_name_hi?: string;
   district_id: string;
   local_body_type: LocalBodyType;
   pincodes?: string[];

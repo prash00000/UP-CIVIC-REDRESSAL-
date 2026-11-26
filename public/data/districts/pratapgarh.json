@@ -65,7 +65,15 @@
       "role": "dpro",
       "office_name_en": "District Panchayat Raj Officer (DPRO), Pratapgarh",
       "office_name_hi": "जिला पंचायत राज अधिकारी, प्रतापगढ़",
-      "phones": [],
+      "phones": [
+        {
+          "number": "6390084784",
+          "type": "office",
+          "source_url": "https://pratapgarh.nic.in/contact-directory/",
+          "checked_on": "2026-11-25",
+          "status": "verified"
+        }
+      ],
       "email": "dpro-prt@nic.in",
       "covers": [
         "pratapgarh"
@@ -80,7 +88,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील सदर",
       "phones": [
         {
           "number": "9454417891",
@@ -104,7 +112,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kunda",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kunda",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील कुंदा",
       "phones": [
         {
           "number": "9454417892",
@@ -128,7 +136,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Lalganj",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Lalganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील लालगंज",
       "phones": [
         {
           "number": "9454417895",
@@ -152,7 +160,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Patti",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Patti",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील पट्टी",
       "phones": [
         {
           "number": "9454417894",
@@ -176,7 +184,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Raniganj",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Raniganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील रनीगंज",
       "phones": [
         {
           "number": "9454417893",
@@ -200,9 +208,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sadar",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sadar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सदर",
       "phones": [],
-      "email": "bdo.sadar.prt@gmail.com",
       "covers": [
         "sadar"
       ],
@@ -215,7 +222,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Sadar",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sadar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सदर",
       "phones": [],
       "covers": [
         "sadar"
@@ -230,9 +237,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mandhata",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mandhata",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मंधता",
       "phones": [],
-      "email": "bdo.mandhata.prt@gmail.com",
       "covers": [
         "mandhata"
       ],
@@ -245,7 +251,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Mandhata",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mandhata",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मंधता",
       "phones": [],
       "covers": [
         "mandhata"
@@ -260,9 +266,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sandwa Chandrika",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sandwa Chandrika",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक संदवा चंदृका",
       "phones": [],
-      "email": "bdo.sandwachandrika.prt@gmail.com",
       "covers": [
         "sandwa-chandrika"
       ],
@@ -275,7 +280,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Sandwa Chandrika",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sandwa Chandrika",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक संदवा चंदृका",
       "phones": [],
       "covers": [
         "sandwa-chandrika"
@@ -290,9 +295,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Laxmanpur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Laxmanpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक लक्समनपुर",
       "phones": [],
-      "email": "bdo.laxmanpur.prt@gmail.com",
       "covers": [
         "laxmanpur"
       ],
@@ -305,7 +309,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Laxmanpur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Laxmanpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक लक्समनपुर",
       "phones": [],
       "covers": [
         "laxmanpur"
@@ -320,9 +324,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sangramgarh",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sangramgarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक संग्रमगढ़",
       "phones": [],
-      "email": "bdo.sangramgarh.prt@gmail.com",
       "covers": [
         "sangramgarh"
       ],
@@ -335,7 +338,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Sangramgarh",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sangramgarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक संग्रमगढ़",
       "phones": [],
       "covers": [
         "sangramgarh"
@@ -350,9 +353,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Babaganj",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Babaganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बबागंज",
       "phones": [],
-      "email": "bdo.babaganj.prt@gmail.com",
       "covers": [
         "babaganj"
       ],
@@ -365,7 +367,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Babaganj",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Babaganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बबागंज",
       "phones": [],
       "covers": [
         "babaganj"
@@ -380,9 +382,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kunda",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kunda",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक कुंदा",
       "phones": [],
-      "email": "bdo.kunda.prt@gmail.com",
       "covers": [
         "kunda"
       ],
@@ -395,7 +396,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Kunda",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kunda",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक कुंदा",
       "phones": [],
       "covers": [
         "kunda"
@@ -410,9 +411,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bihar",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bihar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बिहर",
       "phones": [],
-      "email": "bdo.bihar.prt@gmail.com",
       "covers": [
         "bihar"
       ],
@@ -425,7 +425,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Bihar",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bihar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बिहर",
       "phones": [],
       "covers": [
         "bihar"
@@ -440,9 +440,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Lalganj",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Lalganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक लालगंज",
       "phones": [],
-      "email": "bdo.lalganj.prt@gmail.com",
       "covers": [
         "lalganj"
       ],
@@ -455,7 +454,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Lalganj",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Lalganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक लालगंज",
       "phones": [],
       "covers": [
         "lalganj"
@@ -470,9 +469,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Rampur Sangramgarh",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rampur Sangramgarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक रामपुर संग्रमगढ़",
       "phones": [],
-      "email": "bdo.rampursangramgarh.prt@gmail.com",
       "covers": [
         "rampur-sangramgarh"
       ],
@@ -485,7 +483,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Rampur Sangramgarh",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rampur Sangramgarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक रामपुर संग्रमगढ़",
       "phones": [],
       "covers": [
         "rampur-sangramgarh"
@@ -500,9 +498,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Patti",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Patti",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक पट्टी",
       "phones": [],
-      "email": "bdo.patti.prt@gmail.com",
       "covers": [
         "patti"
       ],
@@ -515,7 +512,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Patti",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Patti",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक पट्टी",
       "phones": [],
       "covers": [
         "patti"
@@ -530,9 +527,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Aspur Deosara",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Aspur Deosara",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक असपुर देओसरा",
       "phones": [],
-      "email": "bdo.aspurdeosara.prt@gmail.com",
       "covers": [
         "aspur-deosara"
       ],
@@ -545,7 +541,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Aspur Deosara",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Aspur Deosara",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक असपुर देओसरा",
       "phones": [],
       "covers": [
         "aspur-deosara"
@@ -560,9 +556,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Magraura",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Magraura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मग्रौरा",
       "phones": [],
-      "email": "bdo.magraura.prt@gmail.com",
       "covers": [
         "magraura"
       ],
@@ -575,7 +570,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Magraura",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Magraura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मग्रौरा",
       "phones": [],
       "covers": [
         "magraura"
@@ -590,9 +585,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Gaura",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gaura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक गौरा",
       "phones": [],
-      "email": "bdo.gaura.prt@gmail.com",
       "covers": [
         "gaura"
       ],
@@ -605,7 +599,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Gaura",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gaura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक गौरा",
       "phones": [],
       "covers": [
         "gaura"
@@ -620,9 +614,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Shivgarh",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shivgarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक शिवगढ़",
       "phones": [],
-      "email": "bdo.shivgarh.prt@gmail.com",
       "covers": [
         "shivgarh"
       ],
@@ -635,7 +628,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Shivgarh",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shivgarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक शिवगढ़",
       "phones": [],
       "covers": [
         "shivgarh"
@@ -650,9 +643,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Belha",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Belha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बेलहा",
       "phones": [],
-      "email": "bdo.belha.prt@gmail.com",
       "covers": [
         "belha"
       ],
@@ -665,7 +657,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Belha",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Belha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बेलहा",
       "phones": [],
       "covers": [
         "belha"
@@ -680,9 +672,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kalyanpur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kalyanpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक कलयनपुर",
       "phones": [],
-      "email": "bdo.kalyanpur.prt@gmail.com",
       "covers": [
         "kalyanpur"
       ],
@@ -695,7 +686,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Kalyanpur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kalyanpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक कलयनपुर",
       "phones": [],
       "covers": [
         "kalyanpur"
@@ -719,6 +710,93 @@
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "address_en": "NAGAR PALIKA BELHA PRATAPGARH Category/Type : NAGAR PALIKA Pincode : 230001"
+    },
+    {
+      "id": "up-pratapgarh-bdo-sangipur",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Sangipur",
+      "office_name_hi": "खंड विकास अधिकारी, विकास खंड संगीपुर",
+      "phones": [],
+      "covers": [
+        "sangipur"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-pratapgarh-ado-sangipur",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Sangipur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), विकास खंड संगीपुर",
+      "phones": [],
+      "covers": [
+        "sangipur"
+      ],
+      "fallback_office_id": "up-pratapgarh-bdo-sangipur",
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-pratapgarh-bdo-kalakankar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Kalakankar",
+      "office_name_hi": "खंड विकास अधिकारी, विकास खंड कलकंकर",
+      "phones": [],
+      "covers": [
+        "kalakankar"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-pratapgarh-ado-kalakankar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Kalakankar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), विकास खंड कलकंकर",
+      "phones": [],
+      "covers": [
+        "kalakankar"
+      ],
+      "fallback_office_id": "up-pratapgarh-bdo-kalakankar",
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-pratapgarh-bdo-baba-belkharnath-dham",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Baba Belkharnath Dham",
+      "office_name_hi": "खंड विकास अधिकारी, विकास खंड बबा बेलखरनथ धम",
+      "phones": [],
+      "covers": [
+        "baba-belkharnath-dham"
+      ],
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-pratapgarh-ado-baba-belkharnath-dham",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Baba Belkharnath Dham",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), विकास खंड बबा बेलखरनथ धम",
+      "phones": [],
+      "covers": [
+        "baba-belkharnath-dham"
+      ],
+      "fallback_office_id": "up-pratapgarh-bdo-baba-belkharnath-dham",
+      "source_url": "https://pratapgarh.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
     }
   ]
 }

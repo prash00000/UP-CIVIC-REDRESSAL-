@@ -99,6 +99,10 @@ export default function LadderStep({
               <Banner status="warning" container="card" title={t("results.vacant")} />
             )}
 
+            {resolvedOfficer.isRecheckFlagged && (
+              <Banner status="warning" container="card" title={t("results.reportedNotWorking")} />
+            )}
+
             {resolvedOfficer.additionalChargeNote && (
               <Banner
                 status="info"

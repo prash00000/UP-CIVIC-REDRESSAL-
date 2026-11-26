@@ -25,7 +25,7 @@
       "source_url": "https://mathura.nic.in/hi/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a5%87-%e0%a4%95%e0%a5%87-%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82/%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%95%e0%a5%8c%e0%a4%a8-%e0%a4%b9%e0%a5%88/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "जिलाधिकारी कार्यालय मथुरा"
+      "address_hi": "जिलाधिकारी कार्यालय मथुरा"
     },
     {
       "id": "up-mathura-cdo",
@@ -74,14 +74,15 @@
       "source_url": "https://mathura.nic.in/hi/%E0%A4%B8%E0%A4%82%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%95-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "officer_name_en": "डी.पी.आर.ओ"
+      "officer_name_en": "Di.Pi.Ar.O",
+      "officer_name_hi": "डी.पी.आर.ओ"
     },
     {
       "id": "up-mathura-sdm-mathura",
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mathura",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mathura",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील मथुरा",
       "phones": [],
       "email": "sdm.mathura.mat-up@gov.in",
       "covers": [
@@ -96,7 +97,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Chhata",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Chhata",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील छता",
       "phones": [],
       "email": "sdm.chhata.mat-up@gov.in",
       "covers": [
@@ -112,7 +113,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mant",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mant",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील मंत",
       "phones": [],
       "email": "sdm.mant.mat-up@gov.in",
       "covers": [
@@ -128,7 +129,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Goverdhan",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Goverdhan",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील गोवेरधन",
       "phones": [
         {
           "number": "9454417391",
@@ -152,7 +153,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mahavan",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mahavan",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील महवन",
       "phones": [
         {
           "number": "9454417387",
@@ -176,7 +177,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mathura",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mathura",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मथुरा",
       "phones": [
         {
           "number": "7375054643",
@@ -193,7 +194,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.mathura.mat@gmail.com",
       "covers": [
         "mathura"
       ],
@@ -207,7 +207,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Mathura",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mathura",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मथुरा",
       "phones": [],
       "covers": [
         "mathura"
@@ -222,7 +222,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Goverdhan",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Goverdhan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक गोवेरधन",
       "phones": [
         {
           "number": "7983318977",
@@ -246,7 +246,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.goverdhan.mat@gmail.com",
       "covers": [
         "goverdhan"
       ],
@@ -260,7 +259,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Goverdhan",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Goverdhan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक गोवेरधन",
       "phones": [],
       "covers": [
         "goverdhan"
@@ -275,7 +274,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Chhata",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chhata",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक छता",
       "phones": [
         {
           "number": "7042483755",
@@ -299,7 +298,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.chhata.mat@gmail.com",
       "covers": [
         "chhata"
       ],
@@ -313,7 +311,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Chhata",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chhata",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक छता",
       "phones": [],
       "covers": [
         "chhata"
@@ -328,7 +326,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Chaumuha",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chaumuha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक चौमुहा",
       "phones": [
         {
           "number": "0565-2970297",
@@ -345,7 +343,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.chaumuha.mat@gmail.com",
       "covers": [
         "chaumuha"
       ],
@@ -359,7 +356,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Chaumuha",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chaumuha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक चौमुहा",
       "phones": [],
       "covers": [
         "chaumuha"
@@ -374,7 +371,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Nandgaon",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nandgaon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक नंदगाँव",
       "phones": [
         {
           "number": "9454464521",
@@ -384,7 +381,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.nandgaon.mat@gmail.com",
       "covers": [
         "nandgaon"
       ],
@@ -398,7 +394,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Nandgaon",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nandgaon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक नंदगाँव",
       "phones": [],
       "covers": [
         "nandgaon"
@@ -413,7 +409,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mant",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mant",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मंत",
       "phones": [
         {
           "number": "8384896712",
@@ -437,7 +433,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.mant.mat@gmail.com",
       "covers": [
         "mant"
       ],
@@ -451,7 +446,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Mant",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mant",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मंत",
       "phones": [],
       "covers": [
         "mant"
@@ -466,9 +461,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Naujheel",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Naujheel",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक नौझील",
       "phones": [],
-      "email": "bdo.naujheel.mat@gmail.com",
       "covers": [
         "naujheel"
       ],
@@ -481,7 +475,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Naujheel",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Naujheel",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक नौझील",
       "phones": [],
       "covers": [
         "naujheel"
@@ -496,7 +490,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Raya",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Raya",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक रया",
       "phones": [
         {
           "number": "7668818223",
@@ -520,7 +514,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.raya.mat@gmail.com",
       "covers": [
         "raya"
       ],
@@ -534,7 +527,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Raya",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Raya",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक रया",
       "phones": [],
       "covers": [
         "raya"
@@ -549,7 +542,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Farah",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Farah",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक फरह",
       "phones": [
         {
           "number": "7531004422",
@@ -573,7 +566,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.farah.mat@gmail.com",
       "covers": [
         "farah"
       ],
@@ -587,7 +579,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Farah",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Farah",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक फरह",
       "phones": [],
       "covers": [
         "farah"
@@ -602,7 +594,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Baldeo",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Baldeo",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बलदेओ",
       "phones": [
         {
           "number": "05661-297280",
@@ -619,7 +611,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.baldeo.mat@gmail.com",
       "covers": [
         "baldeo"
       ],
@@ -633,7 +624,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Baldeo",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Baldeo",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बलदेओ",
       "phones": [],
       "covers": [
         "baldeo"
@@ -696,16 +687,17 @@
       "source_url": "https://mathura.nic.in/about-district/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "email": "8189077823nagarayuktmathura@gmail.com",
-      "officer_name_en": "श्री अनुनया झा",
-      "address_en": "Bhuteshwar jalkal compound, krishna Nagar, Mathura"
+      "email": "nagarayuktmathura@gmail.com",
+      "officer_name_en": "Shri Anunaya Jha",
+      "address_en": "Bhuteshwar jalkal compound, krishna Nagar, Mathura",
+      "officer_name_hi": "श्री अनुनया झा"
     },
     {
       "id": "up-mathura-eo-kosi-kalan",
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Palika Kosi Kalan",
-      "office_name_hi": "अधिशासी अधिकारी, Nagar Palika Kosi Kalan",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका कोसी कलाँ",
       "phones": [
         {
           "number": "8189077943",
@@ -882,7 +874,7 @@
       "source_url": "https://mathura.nic.in/public-utility-category/municipality/page/2/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "महावन"
+      "address_hi": "महावन"
     },
     {
       "id": "up-mathura-eo-nand-ganv",
@@ -905,7 +897,7 @@
       "source_url": "https://mathura.nic.in/public-utility-category/municipality/page/2/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "नन्द गाँव"
+      "address_hi": "नन्द गाँव"
     },
     {
       "id": "up-mathura-eo-radha-kund",
@@ -928,7 +920,7 @@
       "source_url": "https://mathura.nic.in/public-utility-category/municipality/page/2/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "राधा कुंड"
+      "address_hi": "राधा कुंड"
     },
     {
       "id": "up-mathura-eo-raya",

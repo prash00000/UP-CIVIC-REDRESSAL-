@@ -18,16 +18,9 @@
           "status": "verified"
         },
         {
-          "number": "0569-2234133",
-          "type": "landline",
-          "source_url": "https://farrukhabad.nic.in/whos-who/",
-          "checked_on": "2026-11-25",
-          "status": "verified"
-        },
-        {
           "number": "05692-234133",
           "type": "landline",
-          "source_url": "https://farrukhabad.nic.in/about-district/whos-who/",
+          "source_url": "https://farrukhabad.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
         },
@@ -108,7 +101,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Farrukhabad",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Farrukhabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील फर्रुखाबाद",
       "phones": [
         {
           "number": "9454416454",
@@ -131,15 +124,14 @@
       ],
       "source_url": "https://farrukhabad.nic.in/directory/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25",
-      "officer_name_en": "उपजिलाधिकारी सदर / फर्रुखाबाद"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-farrukhabad-sdm-kaimganj",
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kaimganj",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kaimganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील कैमगंज",
       "phones": [
         {
           "number": "05690-232029",
@@ -170,7 +162,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Amritpur",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Amritpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील अमृतपुर",
       "phones": [
         {
           "number": "9454419007",
@@ -209,7 +201,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Barhpur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Barhpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बरहपुर",
       "phones": [
         {
           "number": "9454464988",
@@ -219,21 +211,21 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.barhpur.frd@gmail.com",
       "covers": [
         "barhpur"
       ],
       "source_url": "https://farrukhabad.nic.in/hi/%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "officer_name_en": "खण्ड विकास अधिकारी, बढ़पुर"
+      "officer_name_en": "Khand Vikas Adhikari, Barhapur",
+      "officer_name_hi": "खण्ड विकास अधिकारी, बढ़पुर"
     },
     {
       "id": "up-farrukhabad-ado-barhpur",
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Barhpur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Barhpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बरहपुर",
       "phones": [],
       "covers": [
         "barhpur"
@@ -248,7 +240,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kamalganj",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kamalganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक कमलगंज",
       "phones": [
         {
           "number": "9454464990",
@@ -258,7 +250,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.kamalganj.frd@gmail.com",
       "covers": [
         "kamalganj"
       ],
@@ -272,7 +263,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Kamalganj",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kamalganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक कमलगंज",
       "phones": [],
       "covers": [
         "kamalganj"
@@ -287,7 +278,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mohammadabad",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mohammadabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मोहम्मदाबाद",
       "phones": [
         {
           "number": "05692-297525",
@@ -297,7 +288,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.mohammadabad.frd@gmail.com",
       "covers": [
         "mohammadabad"
       ],
@@ -311,7 +301,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Mohammadabad",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mohammadabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मोहम्मदाबाद",
       "phones": [],
       "covers": [
         "mohammadabad"
@@ -326,7 +316,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kaimganj",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kaimganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक कैमगंज",
       "phones": [
         {
           "number": "9454464984",
@@ -336,7 +326,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.kaimganj.frd@gmail.com",
       "covers": [
         "kaimganj"
       ],
@@ -350,7 +339,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Kaimganj",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kaimganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक कैमगंज",
       "phones": [],
       "covers": [
         "kaimganj"
@@ -365,7 +354,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Nawabganj",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Nawabganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक नवाबगंज",
       "phones": [
         {
           "number": "9454464985",
@@ -375,7 +364,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.nawabganj.frd@gmail.com",
       "covers": [
         "nawabganj"
       ],
@@ -389,7 +377,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Nawabganj",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Nawabganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक नवाबगंज",
       "phones": [],
       "covers": [
         "nawabganj"
@@ -404,7 +392,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Shamsabad",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shamsabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक शंसआबाद",
       "phones": [
         {
           "number": "9454464986",
@@ -414,7 +402,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.shamsabad.frd@gmail.com",
       "covers": [
         "shamsabad"
       ],
@@ -428,7 +415,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Shamsabad",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shamsabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक शंसआबाद",
       "phones": [],
       "covers": [
         "shamsabad"
@@ -443,7 +430,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Rajepur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rajepur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक रजेपुर",
       "phones": [
         {
           "number": "9454464987",
@@ -453,7 +440,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.rajepur.frd@gmail.com",
       "covers": [
         "rajepur"
       ],
@@ -467,7 +453,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Rajepur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rajepur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक रजेपुर",
       "phones": [],
       "covers": [
         "rajepur"
@@ -499,25 +485,6 @@
       "confidence": "high",
       "valid_as_of": "2026-11-25",
       "officer_name_en": "Executive Officer, Nagar Palika Praishad , Farrukhabad",
-      "address_en": "Pincode : 209601"
-    },
-    {
-      "id": "up-farrukhabad-eo-praishad-farrukhabad",
-      "level": "ulb",
-      "role": "eo",
-      "office_name_en": "Executive Officer, Nagar Palika Praishad , Farrukhabad",
-      "office_name_hi": "अधिशासी अधिकारी, Nagar Palika Praishad , Farrukhabad",
-      "officer_name_en": "Executive Officer, Nagar Palika Praishad , Farrukhabad",
-      "phones": [],
-      "post_status": "additional_charge",
-      "fallback_office_id": "eo-farrukhabad-main",
-      "notes": "Joint additional charge; primary CUG/landline is listed on the linked fallback office.",
-      "covers": [
-        "ulb-praishad-farrukhabad"
-      ],
-      "source_url": "https://farrukhabad.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%82%e0%a4%9a%e0%a4%be%e0%a4%af%e0%a4%a4/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-25",
       "address_en": "Pincode : 209601"
     }
   ]

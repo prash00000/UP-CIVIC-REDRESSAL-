@@ -3,7 +3,8 @@ import fs from "fs";
 import path from "path";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://civic-grievance-up.netlify.app";
+  const baseUrl =
+    process.env.NEXT_PUBLIC_SITE_URL || "https://up-civic-redressal.vercel.app";
 
   const staticRoutes: MetadataRoute.Sitemap = [
     { url: `${baseUrl}/`, lastModified: new Date() },

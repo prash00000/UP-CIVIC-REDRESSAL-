@@ -73,7 +73,11 @@ export const placeSchema = z.object({
   gp_id: z.string().optional(),
   ulb_id: z.string().optional(),
   block_id: z.string().optional(),
+  block_name_en: z.string().optional(),
+  block_name_hi: z.string().optional(),
   tehsil_id: z.string().min(1),
+  tehsil_name_en: z.string().optional(),
+  tehsil_name_hi: z.string().optional(),
   district_id: z.string().min(1),
   local_body_type: z.enum([
     "gram_panchayat",

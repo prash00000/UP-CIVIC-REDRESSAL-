@@ -10,17 +10,10 @@
       "office_name_hi": "कार्यालय जिलाधिकारी, हापुड़",
       "phones": [
         {
-          "number": "01222-304833",
+          "number": "0122-2304833",
           "type": "office",
           "source_url": "https://hapur.nic.in",
           "checked_on": "2026-11-20",
-          "status": "verified"
-        },
-        {
-          "number": "0122-2304833",
-          "type": "landline",
-          "source_url": "https://hapur.nic.in/whos-who/",
-          "checked_on": "2026-11-25",
           "status": "verified"
         }
       ],
@@ -77,7 +70,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Hapur",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Hapur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील हापुड़",
       "phones": [],
       "email": "sdm.hapur.hpr-up@gov.in",
       "covers": [
@@ -92,7 +85,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Garhmukteshwar",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Garhmukteshwar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील गरहमुक्तेशवर",
       "phones": [],
       "email": "sdm.garhmukteshwar.hpr-up@gov.in",
       "covers": [
@@ -107,7 +100,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Dhaulana",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Dhaulana",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील धौलना",
       "phones": [],
       "email": "sdm.dhaulana.hpr-up@gov.in",
       "covers": [
@@ -122,7 +115,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Hapur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक हापुड़",
       "phones": [
         {
           "number": "7275554549",
@@ -139,21 +132,21 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.hapur.hpr@gmail.com",
       "covers": [
         "hapur"
       ],
       "source_url": "https://hapur.nic.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "officer_name_en": "खण्ड विकास अधिकारी, हापुड़"
+      "officer_name_en": "Khand Vikas Adhikari, Hapur",
+      "officer_name_hi": "खण्ड विकास अधिकारी, हापुड़"
     },
     {
       "id": "up-hapur-ado-hapur",
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Hapur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Hapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक हापुड़",
       "phones": [],
       "covers": [
         "hapur"
@@ -168,7 +161,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Simbhawali",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Simbhawali",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सिंभवली",
       "phones": [
         {
           "number": "8765629597",
@@ -178,21 +171,21 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.simbhawali.hpr@gmail.com",
       "covers": [
         "simbhawali"
       ],
       "source_url": "https://hapur.nic.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "officer_name_en": "खण्ड विकास अधिकारी, सिम्भावली"
+      "officer_name_en": "Khand Vikas Adhikari, Simbhavali",
+      "officer_name_hi": "खण्ड विकास अधिकारी, सिम्भावली"
     },
     {
       "id": "up-hapur-ado-simbhawali",
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Simbhawali",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Simbhawali",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सिंभवली",
       "phones": [],
       "covers": [
         "simbhawali"
@@ -207,7 +200,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Garhmukteshwar",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Garhmukteshwar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक गरहमुक्तेशवर",
       "phones": [
         {
           "number": "9569625536",
@@ -217,21 +210,21 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.garhmukteshwar.hpr@gmail.com",
       "covers": [
         "garhmukteshwar"
       ],
       "source_url": "https://hapur.nic.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "officer_name_en": "खण्ड विकास अधिकारी, गढ़मुक्तेश्वर"
+      "officer_name_en": "Khand Vikas Adhikari, Garhamukteshvar",
+      "officer_name_hi": "खण्ड विकास अधिकारी, गढ़मुक्तेश्वर"
     },
     {
       "id": "up-hapur-ado-garhmukteshwar",
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Garhmukteshwar",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Garhmukteshwar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक गरहमुक्तेशवर",
       "phones": [],
       "covers": [
         "garhmukteshwar"
@@ -246,7 +239,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Dhaulana",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dhaulana",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक धौलना",
       "phones": [
         {
           "number": "0122-2376977",
@@ -256,21 +249,21 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.dhaulana.hpr@gmail.com",
       "covers": [
         "dhaulana"
       ],
       "source_url": "https://hapur.nic.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "officer_name_en": "खण्ड विकास अधिकारी, धौलाना"
+      "officer_name_en": "Khand Vikas Adhikari, Dhaulana",
+      "officer_name_hi": "खण्ड विकास अधिकारी, धौलाना"
     },
     {
       "id": "up-hapur-ado-dhaulana",
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Dhaulana",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dhaulana",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक धौलना",
       "phones": [],
       "covers": [
         "dhaulana"
@@ -309,7 +302,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar palika Parishad Garhmukteshwar",
-      "office_name_hi": "अधिशासी अधिकारी, Nagar palika Parishad Garhmukteshwar",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका परिषद गरहमुक्तेशवर",
       "phones": [
         {
           "number": "9411688738",
@@ -333,7 +326,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar palika Parishad Pilkhuwa",
-      "office_name_hi": "अधिशासी अधिकारी, Nagar palika Parishad Pilkhuwa",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पालिका परिषद पिलखुवा",
       "phones": [
         {
           "number": "9454573500",
@@ -357,7 +350,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Panchayat Babugarh",
-      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat Babugarh",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत बबुगढ़",
       "phones": [
         {
           "number": "8826550942",
@@ -374,7 +367,8 @@
       "source_url": "https://hapur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "बाबूगढ़ ईमेल : eonpbabuhp-up[at]nic[dot]in फोन : 8826550942 Pincode : 245101"
+      "address_en": "eonpbabuhp-up[at]nic[dot]in : 8826550942 Pincode : 245101",
+      "address_hi": "बाबूगढ़ ईमेल : eonpbabuhp-up[at]nic[dot]in फोन : 8826550942 Pincode : 245101"
     },
     {
       "id": "up-hapur-eo-gadhamukteshvar",
@@ -393,7 +387,8 @@
       "source_url": "https://hapur.nic.in/hi/public-utility-category/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "address_en": "गढमुक्तेश्वर ईमेल : eonppgarmuhp-up[at]nic[dot]in फोन : 9411688738 Pincode : 245101"
+      "address_en": "eonppgarmuhp-up[at]nic[dot]in : 9411688738 Pincode : 245101",
+      "address_hi": "गढमुक्तेश्वर ईमेल : eonppgarmuhp-up[at]nic[dot]in फोन : 9411688738 Pincode : 245101"
     }
   ]
 }

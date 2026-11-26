@@ -62,7 +62,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील सदर",
       "phones": [
         {
           "number": "9454419027",
@@ -87,7 +87,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Etmadpur",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Etmadpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील एतमदपुर",
       "phones": [
         {
           "number": "9454417667",
@@ -112,7 +112,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Fatehabad",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Fatehabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील फतेहआबाद",
       "phones": [
         {
           "number": "9454417668",
@@ -137,7 +137,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kheragarh",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kheragarh",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील खेड़ागढ़",
       "phones": [
         {
           "number": "9454417669",
@@ -162,7 +162,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bah",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bah",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील बह",
       "phones": [
         {
           "number": "9454417666",
@@ -187,7 +187,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kiraoli",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kiraoli",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील किरओली",
       "phones": [],
       "email": "sdm.kiraoli.agr-up@gov.in",
       "covers": [
@@ -202,9 +202,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Achhnera",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Achhnera",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक अछनेरा",
       "phones": [],
-      "email": "bdo.achhnera.agr@gmail.com",
       "covers": [
         "achhnera"
       ],
@@ -217,7 +216,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Achhnera",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Achhnera",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक अछनेरा",
       "phones": [],
       "covers": [
         "achhnera"
@@ -228,44 +227,12 @@
       "fallback_office_id": "up-agra-bdo-achhnera"
     },
     {
-      "id": "sec-achhnera-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Achhnera North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Achhnera उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-achhnera-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-achhnera-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Achhnera South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Achhnera दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-achhnera-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-agra-ado-achhnera",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-agra-bdo-akola",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Akola",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Akola",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक अकोला",
       "phones": [],
-      "email": "bdo.akola.agr@gmail.com",
       "covers": [
         "akola"
       ],
@@ -278,7 +245,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Akola",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Akola",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक अकोला",
       "phones": [],
       "covers": [
         "akola"
@@ -289,44 +256,12 @@
       "fallback_office_id": "up-agra-bdo-akola"
     },
     {
-      "id": "sec-akola-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Akola North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Akola उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-akola-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-akola-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Akola South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Akola दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-akola-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-agra-ado-akola",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-agra-bdo-bah",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bah",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bah",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बह",
       "phones": [],
-      "email": "bdo.bah.agr@gmail.com",
       "covers": [
         "bah"
       ],
@@ -339,7 +274,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Bah",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bah",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बह",
       "phones": [],
       "covers": [
         "bah"
@@ -350,44 +285,12 @@
       "fallback_office_id": "up-agra-bdo-bah"
     },
     {
-      "id": "sec-bah-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Bah North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Bah उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-bah-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-bah-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Bah South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Bah दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-bah-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-agra-ado-bah",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-agra-bdo-barauli-ahir",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Barauli Ahir",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Barauli Ahir",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बरौली अहिर",
       "phones": [],
-      "email": "bdo.barauliahir.agr@gmail.com",
       "covers": [
         "barauli-ahir"
       ],
@@ -400,7 +303,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Barauli Ahir",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Barauli Ahir",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बरौली अहिर",
       "phones": [],
       "covers": [
         "barauli-ahir"
@@ -411,44 +314,12 @@
       "fallback_office_id": "up-agra-bdo-barauli-ahir"
     },
     {
-      "id": "sec-barauli-ahir-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Barauli Ahir North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Barauli Ahir उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-barauli-ahir-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-barauli-ahir-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Barauli Ahir South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Barauli Ahir दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-barauli-ahir-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-agra-ado-barauli-ahir",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-agra-bdo-bichpuri",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bichpuri",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bichpuri",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बिचपुरी",
       "phones": [],
-      "email": "bdo.bichpuri.agr@gmail.com",
       "covers": [
         "bichpuri"
       ],
@@ -461,7 +332,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Bichpuri",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bichpuri",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बिचपुरी",
       "phones": [],
       "covers": [
         "bichpuri"
@@ -472,44 +343,12 @@
       "fallback_office_id": "up-agra-bdo-bichpuri"
     },
     {
-      "id": "sec-bichpuri-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Bichpuri North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Bichpuri उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-bichpuri-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-bichpuri-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Bichpuri South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Bichpuri दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-bichpuri-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-agra-ado-bichpuri",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-agra-bdo-etmadpur",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Etmadpur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Etmadpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक एतमदपुर",
       "phones": [],
-      "email": "bdo.etmadpur.agr@gmail.com",
       "covers": [
         "etmadpur"
       ],
@@ -522,7 +361,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Etmadpur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Etmadpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक एतमदपुर",
       "phones": [],
       "covers": [
         "etmadpur"
@@ -533,44 +372,12 @@
       "fallback_office_id": "up-agra-bdo-etmadpur"
     },
     {
-      "id": "sec-etmadpur-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Etmadpur North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Etmadpur उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-etmadpur-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-etmadpur-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Etmadpur South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Etmadpur दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-etmadpur-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-agra-ado-etmadpur",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-agra-bdo-fatehabad",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Fatehabad",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Fatehabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक फतेहआबाद",
       "phones": [],
-      "email": "bdo.fatehabad.agr@gmail.com",
       "covers": [
         "fatehabad"
       ],
@@ -583,7 +390,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Fatehabad",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Fatehabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक फतेहआबाद",
       "phones": [],
       "covers": [
         "fatehabad"
@@ -594,44 +401,12 @@
       "fallback_office_id": "up-agra-bdo-fatehabad"
     },
     {
-      "id": "sec-fatehabad-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Fatehabad North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Fatehabad उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-fatehabad-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-fatehabad-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Fatehabad South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Fatehabad दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-fatehabad-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-agra-ado-fatehabad",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-agra-bdo-fatehpur-sikri",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Fatehpur Sikri",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Fatehpur Sikri",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक फतेहपुर सिकृ",
       "phones": [],
-      "email": "bdo.fatehpursikri.agr@gmail.com",
       "covers": [
         "fatehpur-sikri"
       ],
@@ -644,7 +419,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Fatehpur Sikri",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Fatehpur Sikri",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक फतेहपुर सिकृ",
       "phones": [],
       "covers": [
         "fatehpur-sikri"
@@ -655,44 +430,12 @@
       "fallback_office_id": "up-agra-bdo-fatehpur-sikri"
     },
     {
-      "id": "sec-fatehpur-sikri-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Fatehpur Sikri North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Fatehpur Sikri उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-fatehpur-sikri-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-fatehpur-sikri-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Fatehpur Sikri South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Fatehpur Sikri दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-fatehpur-sikri-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-agra-ado-fatehpur-sikri",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-agra-bdo-jagner",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Jagner",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jagner",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक जगनेर",
       "phones": [],
-      "email": "bdo.jagner.agr@gmail.com",
       "covers": [
         "jagner"
       ],
@@ -705,7 +448,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Jagner",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jagner",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक जगनेर",
       "phones": [],
       "covers": [
         "jagner"
@@ -716,44 +459,12 @@
       "fallback_office_id": "up-agra-bdo-jagner"
     },
     {
-      "id": "sec-jagner-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Jagner North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Jagner उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-jagner-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-jagner-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Jagner South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Jagner दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-jagner-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-agra-ado-jagner",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-agra-bdo-khandauli",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Khandauli",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khandauli",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक खंदौली",
       "phones": [],
-      "email": "bdo.khandauli.agr@gmail.com",
       "covers": [
         "khandauli"
       ],
@@ -766,7 +477,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Khandauli",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Khandauli",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक खंदौली",
       "phones": [],
       "covers": [
         "khandauli"
@@ -777,44 +488,12 @@
       "fallback_office_id": "up-agra-bdo-khandauli"
     },
     {
-      "id": "sec-khandauli-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Khandauli North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Khandauli उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-khandauli-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-khandauli-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Khandauli South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Khandauli दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-khandauli-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-agra-ado-khandauli",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-agra-bdo-kheragarh",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kheragarh",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kheragarh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक खेड़ागढ़",
       "phones": [],
-      "email": "bdo.kheragarh.agr@gmail.com",
       "covers": [
         "kheragarh"
       ],
@@ -827,7 +506,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Kheragarh",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kheragarh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक खेड़ागढ़",
       "phones": [],
       "covers": [
         "kheragarh"
@@ -838,44 +517,12 @@
       "fallback_office_id": "up-agra-bdo-kheragarh"
     },
     {
-      "id": "sec-kheragarh-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Kheragarh North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Kheragarh उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-kheragarh-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-kheragarh-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Kheragarh South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Kheragarh दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-kheragarh-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-agra-ado-kheragarh",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-agra-bdo-pinahat",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Pinahat",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pinahat",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक पिनहत",
       "phones": [],
-      "email": "bdo.pinahat.agr@gmail.com",
       "covers": [
         "pinahat"
       ],
@@ -888,7 +535,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Pinahat",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pinahat",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक पिनहत",
       "phones": [],
       "covers": [
         "pinahat"
@@ -899,44 +546,12 @@
       "fallback_office_id": "up-agra-bdo-pinahat"
     },
     {
-      "id": "sec-pinahat-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Pinahat North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Pinahat उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-pinahat-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-pinahat-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Pinahat South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Pinahat दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-pinahat-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-agra-ado-pinahat",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-agra-bdo-saiyan",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Saiyan",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Saiyan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सैयन",
       "phones": [],
-      "email": "bdo.saiyan.agr@gmail.com",
       "covers": [
         "saiyan"
       ],
@@ -949,7 +564,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Saiyan",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Saiyan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सैयन",
       "phones": [],
       "covers": [
         "saiyan"
@@ -960,44 +575,12 @@
       "fallback_office_id": "up-agra-bdo-saiyan"
     },
     {
-      "id": "sec-saiyan-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Saiyan North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Saiyan उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-saiyan-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-saiyan-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Saiyan South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Saiyan दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-saiyan-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-agra-ado-saiyan",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-agra-bdo-samsabad",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Samsabad",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Samsabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक संसआबाद",
       "phones": [],
-      "email": "bdo.samsabad.agr@gmail.com",
       "covers": [
         "samsabad"
       ],
@@ -1010,7 +593,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Samsabad",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Samsabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक संसआबाद",
       "phones": [],
       "covers": [
         "samsabad"
@@ -1021,44 +604,12 @@
       "fallback_office_id": "up-agra-bdo-samsabad"
     },
     {
-      "id": "sec-samsabad-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Samsabad North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Samsabad उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-samsabad-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-samsabad-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Samsabad South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Samsabad दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-samsabad-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-agra-ado-samsabad",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-agra-bdo-jaitpur-kalan",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Jaitpur Kalan",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jaitpur Kalan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक जैतपुर कलाँ",
       "phones": [],
-      "email": "bdo.jaitpurkalan.agr@gmail.com",
       "covers": [
         "jaitpur-kalan"
       ],
@@ -1071,7 +622,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Jaitpur Kalan",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jaitpur Kalan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक जैतपुर कलाँ",
       "phones": [],
       "covers": [
         "jaitpur-kalan"
@@ -1080,37 +631,6 @@
       "confidence": "medium",
       "valid_as_of": "2026-11-20",
       "fallback_office_id": "up-agra-bdo-jaitpur-kalan"
-    },
-    {
-      "id": "sec-jaitpur-kalan-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Jaitpur Kalan North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Jaitpur Kalan उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-jaitpur-kalan-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-jaitpur-kalan-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Jaitpur Kalan South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Jaitpur Kalan दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-jaitpur-kalan-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-agra-ado-jaitpur-kalan",
-      "source_url": "https://agra.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
     },
     {
       "id": "eo-agra-main",
@@ -1140,8 +660,9 @@
       "source_url": "https://agra.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20",
-      "email": "8189077813amcagra@yahoo.com",
-      "officer_name_en": "श्री अंकित खण्डेलवाल"
+      "email": "amcagra@yahoo.com",
+      "officer_name_en": "Shri Ankit Khandelaval",
+      "officer_name_hi": "श्री अंकित खण्डेलवाल"
     }
   ]
 }

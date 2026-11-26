@@ -4,9 +4,9 @@ This log records architectural choices and resolutions to unspecified or edge-ca
 
 ---
 
-## 1. Core Framework & Export
-- **Decision:** Next.js 14 App Router with `output: "export"`.
-- **Reason:** Guarantees static HTML/JS generation for Netlify hosting. Zero server cold-start, 100% CDN cached.
+## 1. Core Framework, Hosting & Export
+- **Decision:** Next.js 15 App Router targeting **Vercel** as the sole production host (`next build` -> `.next` with App Router API routes `app/api/feedback`, `app/api/pincode`, `app/api/report` and `vercel.json`). Legacy Netlify config/functions (`netlify.toml`, `netlify/functions/*`) are removed.
+- **Reason:** Next.js `output: "export"` cannot serve dynamic App Router API routes like `GET /api/pincode`. Standard App Router build supports live India Post PIN resolution (`/api/pincode`), rate-limited anonymous phone feedback/error reporting (`/api/feedback`, `/api/report`), and dynamic/ISR caching cleanly.
 
 ## 2. Internationalization (i18n) Strategy
 - **Decision:** Custom zero-dependency React context (`lib/i18n.ts`) reading strictly from `locales/en.json` and `locales/hi.json`.
@@ -27,8 +27,8 @@ This log records architectural choices and resolutions to unspecified or edge-ca
 - **Decision:** Case-insensitive string search prioritizing `startsWith`, then falling back to `includes`.
 - **Reason:** Complies strictly with Section 3 ("No library. Plain filter on lowercase startsWith then includes"). Operates in sub-millisecond time even on low-end Android mobile devices.
 
-## 6. Feedback & Error Reporting Privacy (Netlify Functions)
-- **Decision:** IP addresses are salted with `DAILY_SALT` and hashed using SHA-256 before insertion. The raw IP is NEVER stored or logged.
+## 6. Feedback & Error Reporting Privacy (Vercel App Router `/api/*`)
+- **Decision:** IP addresses are salted with `DAILY_SALT` and hashed using SHA-256 before insertion in `app/api/feedback/route.ts` and `app/api/report/route.ts`. The raw IP is NEVER stored or logged.
 - **Rate Limiting:** Enforced via `ip_hash` window query in Supabase / in-memory fallback.
 
 ## 7. RTI Fees & Time Limits

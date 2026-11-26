@@ -50,23 +50,26 @@ export default function SearchSelect({
 
   const filtered = React.useMemo(() => {
     if (!query.trim()) {
-      return options.slice(0, 8);
+      return options.slice(0, 20);
     }
     const clean = query.trim().toLowerCase();
-    const startsWithMatches: SearchOption[] = [];
+    const labelStarts: SearchOption[] = [];
+    const targetStarts: SearchOption[] = [];
     const includesMatches: SearchOption[] = [];
 
     for (const opt of options) {
+      const labelLower = opt.label.toLowerCase();
       const matchTarget = (opt.searchValue || `${opt.label} ${opt.sublabel || ""}`).toLowerCase();
-      if (matchTarget.startsWith(clean)) {
-        startsWithMatches.push(opt);
-        if (startsWithMatches.length >= 10) break;
-      } else if (includesMatches.length < 16 && matchTarget.includes(clean)) {
+      if (labelLower.startsWith(clean)) {
+        labelStarts.push(opt);
+      } else if (matchTarget.startsWith(clean)) {
+        targetStarts.push(opt);
+      } else if (includesMatches.length < 40 && matchTarget.includes(clean)) {
         includesMatches.push(opt);
       }
     }
 
-    return [...startsWithMatches, ...includesMatches].slice(0, 10);
+    return [...labelStarts, ...targetStarts, ...includesMatches].slice(0, 40);
   }, [options, query]);
 
   useEffect(() => {
@@ -105,7 +108,7 @@ export default function SearchSelect({
   };
 
   return (
-    <div ref={containerRef} className="relative w-full scroll-mt-20">
+    <div ref={containerRef} className={`relative w-full scroll-mt-24 ${isOpen ? "z-[70]" : "z-10"}`}>
       <label className="block text-[13px] font-bold uppercase tracking-[0.06em] text-muted mb-2">
         {label}
       </label>
@@ -127,7 +130,7 @@ export default function SearchSelect({
           }}
           onFocus={() => setIsOpen(true)}
           onKeyDown={handleKeyDown}
-          className="w-full min-h-btn px-4 py-2.5 pr-16 bg-surface text-text text-[16px] border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none transition-colors"
+          className="w-full min-h-btn px-4 py-2.5 pr-16 bg-surface text-text text-[16px] border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/30 transition-colors"
         />
         <div className="absolute right-3 top-1/2 -translate-y-1/2 flex items-center gap-1.5">
           {query && (
@@ -158,7 +161,7 @@ export default function SearchSelect({
         <ul
           id={listboxId}
           role="listbox"
-          className="absolute z-[60] w-full mt-1 bg-surface border border-borderStrong rounded-[4px] shadow-lg max-h-60 overflow-y-auto divide-y divide-border"
+          className="absolute z-[75] w-full mt-1 bg-surface border border-borderStrong rounded-[4px] shadow-lg max-h-60 overflow-y-auto divide-y divide-border"
         >
           {options.length > filtered.length && (
             <li className="px-3.5 py-1.5 text-[12px] text-muted bg-bg tabular-nums">

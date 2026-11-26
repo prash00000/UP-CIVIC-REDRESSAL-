@@ -77,7 +77,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sadar",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील सदर",
       "phones": [
         {
           "number": "9454417108",
@@ -100,7 +100,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Shahganj",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Shahganj",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील शाहगंज",
       "phones": [
         {
           "number": "9454417112",
@@ -123,7 +123,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Machhlishahr",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Machhlishahr",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील मछलीशहर",
       "phones": [
         {
           "number": "9454417110",
@@ -146,7 +146,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Badlapur",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Badlapur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील बदलापुर",
       "phones": [
         {
           "number": "9454417111",
@@ -171,7 +171,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Mariahu",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Mariahu",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील मड़ियाहूँ",
       "phones": [],
       "email": "sdm.mariahu.jnp-up@gov.in",
       "covers": [
@@ -186,7 +186,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Kerakat",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Kerakat",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील केराकत",
       "phones": [
         {
           "number": "9454417113",
@@ -209,9 +209,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Karanjit",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Karanjit",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक करंजीत",
       "phones": [],
-      "email": "bdo.karanjit.jnp@gmail.com",
       "covers": [
         "karanjit"
       ],
@@ -224,7 +223,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Karanjit",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Karanjit",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक करंजीत",
       "phones": [],
       "covers": [
         "karanjit"
@@ -235,42 +234,11 @@
       "fallback_office_id": "up-jaunpur-bdo-karanjit"
     },
     {
-      "id": "sec-karanjit-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Karanjit North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Karanjit उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-karanjit-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-karanjit-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Karanjit South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Karanjit दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-karanjit-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-karanjit",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-dharmapur",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Dharmapur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dharmapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक धरमापुर",
       "phones": [
         {
           "number": "9454465275",
@@ -280,7 +248,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.dharmapur.jnp@gmail.com",
       "covers": [
         "dharmapur"
       ],
@@ -293,7 +260,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Dharmapur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dharmapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक धरमापुर",
       "phones": [],
       "covers": [
         "dharmapur"
@@ -304,42 +271,11 @@
       "fallback_office_id": "up-jaunpur-bdo-dharmapur"
     },
     {
-      "id": "sec-dharmapur-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Dharmapur North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Dharmapur उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-dharmapur-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-dharmapur-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Dharmapur South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Dharmapur दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-dharmapur-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-dharmapur",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-sikrara",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sikrara",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sikrara",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सिक्ररा",
       "phones": [
         {
           "number": "9454465273",
@@ -349,7 +285,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.sikrara.jnp@gmail.com",
       "covers": [
         "sikrara"
       ],
@@ -362,7 +297,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Sikrara",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sikrara",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सिक्ररा",
       "phones": [],
       "covers": [
         "sikrara"
@@ -373,42 +308,11 @@
       "fallback_office_id": "up-jaunpur-bdo-sikrara"
     },
     {
-      "id": "sec-sikrara-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Sikrara North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Sikrara उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-sikrara-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-sikrara-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Sikrara South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Sikrara दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-sikrara-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-sikrara",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-baksha",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Baksha",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Baksha",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बक्षा",
       "phones": [
         {
           "number": "9454465267",
@@ -418,7 +322,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.baksha.jnp@gmail.com",
       "covers": [
         "baksha"
       ],
@@ -431,7 +334,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Baksha",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Baksha",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बक्षा",
       "phones": [],
       "covers": [
         "baksha"
@@ -442,42 +345,11 @@
       "fallback_office_id": "up-jaunpur-bdo-baksha"
     },
     {
-      "id": "sec-baksha-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Baksha North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Baksha उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-baksha-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-baksha-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Baksha South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Baksha दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-baksha-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-baksha",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-sirkoni",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sirkoni",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sirkoni",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सिरकोनी",
       "phones": [
         {
           "number": "9454465276",
@@ -487,7 +359,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.sirkoni.jnp@gmail.com",
       "covers": [
         "sirkoni"
       ],
@@ -500,7 +371,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Sirkoni",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sirkoni",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सिरकोनी",
       "phones": [],
       "covers": [
         "sirkoni"
@@ -511,42 +382,11 @@
       "fallback_office_id": "up-jaunpur-bdo-sirkoni"
     },
     {
-      "id": "sec-sirkoni-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Sirkoni North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Sirkoni उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-sirkoni-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-sirkoni-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Sirkoni South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Sirkoni दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-sirkoni-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-sirkoni",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-jalalpur",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Jalalpur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Jalalpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक जललपुर",
       "phones": [
         {
           "number": "9454465280",
@@ -556,7 +396,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.jalalpur.jnp@gmail.com",
       "covers": [
         "jalalpur"
       ],
@@ -569,7 +408,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Jalalpur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Jalalpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक जललपुर",
       "phones": [],
       "covers": [
         "jalalpur"
@@ -580,42 +419,11 @@
       "fallback_office_id": "up-jaunpur-bdo-jalalpur"
     },
     {
-      "id": "sec-jalalpur-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Jalalpur North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Jalalpur उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-jalalpur-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-jalalpur-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Jalalpur South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Jalalpur दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-jalalpur-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-jalalpur",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-muftiganj",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Muftiganj",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Muftiganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मुफतीगंज",
       "phones": [
         {
           "number": "9454465279",
@@ -625,7 +433,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.muftiganj.jnp@gmail.com",
       "covers": [
         "muftiganj"
       ],
@@ -638,7 +445,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Muftiganj",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Muftiganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मुफतीगंज",
       "phones": [],
       "covers": [
         "muftiganj"
@@ -649,42 +456,11 @@
       "fallback_office_id": "up-jaunpur-bdo-muftiganj"
     },
     {
-      "id": "sec-muftiganj-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Muftiganj North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Muftiganj उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-muftiganj-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-muftiganj-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Muftiganj South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Muftiganj दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-muftiganj-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-muftiganj",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-kerakat",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kerakat",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kerakat",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक केराकत",
       "phones": [
         {
           "number": "9454465281",
@@ -694,7 +470,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.kerakat.jnp@gmail.com",
       "covers": [
         "kerakat"
       ],
@@ -707,7 +482,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Kerakat",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kerakat",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक केराकत",
       "phones": [],
       "covers": [
         "kerakat"
@@ -718,42 +493,11 @@
       "fallback_office_id": "up-jaunpur-bdo-kerakat"
     },
     {
-      "id": "sec-kerakat-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Kerakat North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Kerakat उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-kerakat-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-kerakat-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Kerakat South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Kerakat दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-kerakat-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-kerakat",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-dobhi",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Dobhi",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Dobhi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक दोभी",
       "phones": [
         {
           "number": "9454465282",
@@ -763,7 +507,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.dobhi.jnp@gmail.com",
       "covers": [
         "dobhi"
       ],
@@ -776,7 +519,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Dobhi",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Dobhi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक दोभी",
       "phones": [],
       "covers": [
         "dobhi"
@@ -787,44 +530,12 @@
       "fallback_office_id": "up-jaunpur-bdo-dobhi"
     },
     {
-      "id": "sec-dobhi-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Dobhi North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Dobhi उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-dobhi-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-dobhi-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Dobhi South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Dobhi दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-dobhi-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-dobhi",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-mariahu",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mariahu",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mariahu",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मड़ियाहूँ",
       "phones": [],
-      "email": "bdo.mariahu.jnp@gmail.com",
       "covers": [
         "mariahu"
       ],
@@ -837,7 +548,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Mariahu",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mariahu",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मड़ियाहूँ",
       "phones": [],
       "covers": [
         "mariahu"
@@ -848,42 +559,11 @@
       "fallback_office_id": "up-jaunpur-bdo-mariahu"
     },
     {
-      "id": "sec-mariahu-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Mariahu North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Mariahu उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-mariahu-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-mariahu-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Mariahu South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Mariahu दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-mariahu-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-mariahu",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-barsathi",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Barsathi",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Barsathi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बरसथी",
       "phones": [
         {
           "number": "9454465272",
@@ -893,7 +573,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.barsathi.jnp@gmail.com",
       "covers": [
         "barsathi"
       ],
@@ -906,7 +585,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Barsathi",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Barsathi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बरसथी",
       "phones": [],
       "covers": [
         "barsathi"
@@ -917,42 +596,11 @@
       "fallback_office_id": "up-jaunpur-bdo-barsathi"
     },
     {
-      "id": "sec-barsathi-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Barsathi North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Barsathi उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-barsathi-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-barsathi-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Barsathi South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Barsathi दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-barsathi-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-barsathi",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-rampur",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Rampur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Rampur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक रामपुर",
       "phones": [
         {
           "number": "9454465278",
@@ -962,7 +610,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.rampur.jnp@gmail.com",
       "covers": [
         "rampur"
       ],
@@ -975,7 +622,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Rampur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Rampur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक रामपुर",
       "phones": [],
       "covers": [
         "rampur"
@@ -986,42 +633,11 @@
       "fallback_office_id": "up-jaunpur-bdo-rampur"
     },
     {
-      "id": "sec-rampur-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Rampur North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Rampur उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-rampur-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-rampur-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Rampur South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Rampur दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-rampur-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-rampur",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-machhlishahr",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Machhlishahr",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Machhlishahr",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मछलीशहर",
       "phones": [
         {
           "number": "9454465270",
@@ -1031,7 +647,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.machhlishahr.jnp@gmail.com",
       "covers": [
         "machhlishahr"
       ],
@@ -1044,7 +659,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Machhlishahr",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Machhlishahr",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मछलीशहर",
       "phones": [],
       "covers": [
         "machhlishahr"
@@ -1055,44 +670,12 @@
       "fallback_office_id": "up-jaunpur-bdo-machhlishahr"
     },
     {
-      "id": "sec-machhlishahr-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Machhlishahr North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Machhlishahr उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-machhlishahr-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-machhlishahr-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Machhlishahr South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Machhlishahr दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-machhlishahr-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-machhlishahr",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-mogara-badshahpur",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mogara Badshahpur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mogara Badshahpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मोगरा बदशहपुर",
       "phones": [],
-      "email": "bdo.mogarabadshahpur.jnp@gmail.com",
       "covers": [
         "mogara-badshahpur"
       ],
@@ -1105,7 +688,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Mogara Badshahpur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mogara Badshahpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मोगरा बदशहपुर",
       "phones": [],
       "covers": [
         "mogara-badshahpur"
@@ -1116,42 +699,11 @@
       "fallback_office_id": "up-jaunpur-bdo-mogara-badshahpur"
     },
     {
-      "id": "sec-mogara-badshahpur-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Mogara Badshahpur North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Mogara Badshahpur उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-mogara-badshahpur-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-mogara-badshahpur-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Mogara Badshahpur South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Mogara Badshahpur दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-mogara-badshahpur-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-mogara-badshahpur",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-sujanganj",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sujanganj",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sujanganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सुजनगंज",
       "phones": [
         {
           "number": "9454465268",
@@ -1161,7 +713,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.sujanganj.jnp@gmail.com",
       "covers": [
         "sujanganj"
       ],
@@ -1174,7 +725,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Sujanganj",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sujanganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सुजनगंज",
       "phones": [],
       "covers": [
         "sujanganj"
@@ -1185,42 +736,11 @@
       "fallback_office_id": "up-jaunpur-bdo-sujanganj"
     },
     {
-      "id": "sec-sujanganj-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Sujanganj North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Sujanganj उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-sujanganj-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-sujanganj-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Sujanganj South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Sujanganj दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-sujanganj-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-sujanganj",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-maharajganj",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Maharajganj",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Maharajganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक महाराजगंज",
       "phones": [
         {
           "number": "9454465266",
@@ -1230,7 +750,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.maharajganj.jnp@gmail.com",
       "covers": [
         "maharajganj"
       ],
@@ -1243,7 +762,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Maharajganj",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Maharajganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक महाराजगंज",
       "phones": [],
       "covers": [
         "maharajganj"
@@ -1254,42 +773,11 @@
       "fallback_office_id": "up-jaunpur-bdo-maharajganj"
     },
     {
-      "id": "sec-maharajganj-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Maharajganj North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Maharajganj उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-maharajganj-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-maharajganj-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Maharajganj South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Maharajganj दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-maharajganj-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-maharajganj",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-badlapur",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Badlapur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Badlapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बदलापुर",
       "phones": [
         {
           "number": "9454465265",
@@ -1299,7 +787,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.badlapur.jnp@gmail.com",
       "covers": [
         "badlapur"
       ],
@@ -1312,7 +799,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Badlapur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Badlapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बदलापुर",
       "phones": [],
       "covers": [
         "badlapur"
@@ -1323,46 +810,14 @@
       "fallback_office_id": "up-jaunpur-bdo-badlapur"
     },
     {
-      "id": "sec-badlapur-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Badlapur North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Badlapur उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-badlapur-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-badlapur-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Badlapur South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Badlapur दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-badlapur-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-badlapur",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-baksha-18",
       "level": "block",
       "role": "bdo",
-      "office_name_en": "Block Development Officer, Block Baksha",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Baksha",
+      "office_name_en": "Block Development Officer, Block Suitha Kala",
+      "office_name_hi": "खंड विकास अधिकारी, विकास खंड सुइथा कलाँ",
       "phones": [],
-      "email": "bdo.baksha.jnp@gmail.com",
       "covers": [
-        "baksha-18"
+        "suitha-kala"
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "high",
@@ -1372,11 +827,11 @@
       "id": "up-jaunpur-ado-baksha-18",
       "level": "block",
       "role": "ado_panchayat",
-      "office_name_en": "Assistant Development Officer (Panchayat), Block Baksha",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Baksha",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Suitha Kala",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), विकास खंड सुइथा कलाँ",
       "phones": [],
       "covers": [
-        "baksha-18"
+        "suitha-kala"
       ],
       "source_url": "https://jaunpur.nic.in/whos-who/",
       "confidence": "medium",
@@ -1384,42 +839,11 @@
       "fallback_office_id": "up-jaunpur-bdo-baksha-18"
     },
     {
-      "id": "sec-baksha-18-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Baksha North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Baksha उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-baksha-18-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-baksha-18-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Baksha South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Baksha दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-baksha-18-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-baksha-18",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-shahganj",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Shahganj",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shahganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक शाहगंज",
       "phones": [
         {
           "number": "9454465263",
@@ -1429,7 +853,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.shahganj.jnp@gmail.com",
       "covers": [
         "shahganj"
       ],
@@ -1442,7 +865,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Shahganj",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shahganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक शाहगंज",
       "phones": [],
       "covers": [
         "shahganj"
@@ -1453,44 +876,12 @@
       "fallback_office_id": "up-jaunpur-bdo-shahganj"
     },
     {
-      "id": "sec-shahganj-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Shahganj North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Shahganj उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-shahganj-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-shahganj-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Shahganj South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Shahganj दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-shahganj-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-shahganj",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-sondhi",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sondhi",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sondhi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सोंधी",
       "phones": [],
-      "email": "bdo.sondhi.jnp@gmail.com",
       "covers": [
         "sondhi"
       ],
@@ -1503,7 +894,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Sondhi",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sondhi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सोंधी",
       "phones": [],
       "covers": [
         "sondhi"
@@ -1514,42 +905,11 @@
       "fallback_office_id": "up-jaunpur-bdo-sondhi"
     },
     {
-      "id": "sec-sondhi-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Sondhi North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Sondhi उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-sondhi-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-sondhi-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Sondhi South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Sondhi दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-sondhi-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-sondhi",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-jaunpur-bdo-khutahan",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Khutahan",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Khutahan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक खुतहन",
       "phones": [
         {
           "number": "9454465264",
@@ -1559,7 +919,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.khutahan.jnp@gmail.com",
       "covers": [
         "khutahan"
       ],
@@ -1572,7 +931,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Khutahan",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Khutahan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक खुतहन",
       "phones": [],
       "covers": [
         "khutahan"
@@ -1581,37 +940,6 @@
       "confidence": "medium",
       "valid_as_of": "2026-11-20",
       "fallback_office_id": "up-jaunpur-bdo-khutahan"
-    },
-    {
-      "id": "sec-khutahan-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Khutahan North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Khutahan उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-khutahan-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-khutahan-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Khutahan South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Khutahan दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-khutahan-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-jaunpur-ado-khutahan",
-      "source_url": "https://jaunpur.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
     },
     {
       "id": "eo-jaunpur-main",
@@ -1634,7 +962,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Nagar Panchayat Kerakat",
-      "office_name_hi": "अधिशासी अधिकारी, Nagar Panchayat Kerakat",
+      "office_name_hi": "अधिशासी अधिकारी, नगर पंचायत केराकत",
       "phones": [
         {
           "number": "05450-242002",
@@ -1652,6 +980,35 @@
       "valid_as_of": "2026-11-25",
       "address_en": "Mohalla- Golaward, Kerakat Phone : 05450-242002",
       "officer_name_en": "Abahadpur"
+    },
+    {
+      "id": "up-jaunpur-bdo-ram-nagar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Ram Nagar",
+      "office_name_hi": "खंड विकास अधिकारी, विकास खंड रम नगर",
+      "phones": [],
+      "covers": [
+        "ram-nagar"
+      ],
+      "source_url": "https://jaunpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-jaunpur-ado-ram-nagar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Ram Nagar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), विकास खंड रम नगर",
+      "phones": [],
+      "covers": [
+        "ram-nagar"
+      ],
+      "fallback_office_id": "up-jaunpur-bdo-ram-nagar",
+      "source_url": "https://jaunpur.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
     }
   ]
 }

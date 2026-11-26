@@ -18,13 +18,6 @@
           "status": "verified"
         },
         {
-          "number": "0541-4250203",
-          "type": "landline",
-          "source_url": "https://bhadohi.nic.in/whos-who/",
-          "checked_on": "2026-11-25",
-          "status": "verified"
-        },
-        {
           "number": "05414-250203",
           "type": "landline",
           "source_url": "https://bhadohi.nic.in/whos-who/",
@@ -49,7 +42,7 @@
       "office_name_hi": "मुख्य विकास अधिकारी (सीडीओ), भदोही",
       "phones": [
         {
-          "number": "0541-4298122",
+          "number": "05414-298122",
           "type": "landline",
           "source_url": "https://bhadohi.nic.in/whos-who/",
           "checked_on": "2026-11-25",
@@ -59,13 +52,6 @@
           "number": "9454465122",
           "type": "office",
           "source_url": "https://bhadohi.nic.in/about-district/whos-who/",
-          "checked_on": "2026-11-25",
-          "status": "verified"
-        },
-        {
-          "number": "05414-298122",
-          "type": "landline",
-          "source_url": "https://bhadohi.nic.in/whos-who/",
           "checked_on": "2026-11-25",
           "status": "verified"
         }
@@ -100,7 +86,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Gyanpur",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Gyanpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील ज्ञनपुर",
       "phones": [
         {
           "number": "9454416830",
@@ -123,7 +109,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bhadohi",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bhadohi",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील भदोही",
       "phones": [
         {
           "number": "9454416831",
@@ -139,15 +125,14 @@
       ],
       "source_url": "https://bhadohi.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25",
-      "officer_name_en": "उप जिलाधिकारी भदोही"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bhadohi-sdm-aurai",
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Aurai",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Aurai",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील औरै",
       "phones": [
         {
           "number": "9454416832",
@@ -163,17 +148,15 @@
       ],
       "source_url": "https://bhadohi.nic.in/about-district/whos-who/",
       "confidence": "high",
-      "valid_as_of": "2026-11-25",
-      "officer_name_en": "उप जिलाधिकारी औराई"
+      "valid_as_of": "2026-11-25"
     },
     {
       "id": "up-bhadohi-bdo-gyanpur",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Gyanpur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Gyanpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक ज्ञनपुर",
       "phones": [],
-      "email": "bdo.gyanpur.bhd@gmail.com",
       "covers": [
         "gyanpur"
       ],
@@ -186,7 +169,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Gyanpur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Gyanpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक ज्ञनपुर",
       "phones": [],
       "covers": [
         "gyanpur"
@@ -201,9 +184,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Deeh",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Deeh",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक डीह",
       "phones": [],
-      "email": "bdo.deeh.bhd@gmail.com",
       "covers": [
         "deeh"
       ],
@@ -216,7 +198,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Deeh",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Deeh",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक डीह",
       "phones": [],
       "covers": [
         "deeh"
@@ -231,9 +213,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Abholi",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Abholi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक अभोली",
       "phones": [],
-      "email": "bdo.abholi.bhd@gmail.com",
       "covers": [
         "abholi"
       ],
@@ -246,7 +227,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Abholi",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Abholi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक अभोली",
       "phones": [],
       "covers": [
         "abholi"
@@ -261,9 +242,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bhadohi",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bhadohi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक भदोही",
       "phones": [],
-      "email": "bdo.bhadohi.bhd@gmail.com",
       "covers": [
         "bhadohi"
       ],
@@ -276,7 +256,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Bhadohi",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bhadohi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक भदोही",
       "phones": [],
       "covers": [
         "bhadohi"
@@ -291,9 +271,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Suriyawan",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Suriyawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सुरियवन",
       "phones": [],
-      "email": "bdo.suriyawan.bhd@gmail.com",
       "covers": [
         "suriyawan"
       ],
@@ -306,7 +285,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Suriyawan",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Suriyawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सुरियवन",
       "phones": [],
       "covers": [
         "suriyawan"
@@ -321,9 +300,8 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Aurai",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Aurai",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक औरै",
       "phones": [],
-      "email": "bdo.aurai.bhd@gmail.com",
       "covers": [
         "aurai"
       ],
@@ -336,7 +314,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Aurai",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Aurai",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक औरै",
       "phones": [],
       "covers": [
         "aurai"

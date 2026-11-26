@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect, useMemo } from "react";
+import React, { useState, useEffect, useCallback, useRef } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { Card } from "@astryxdesign/core/Card";
@@ -13,6 +13,7 @@ import { useT, useLang, getLocalized } from "@/lib/i18n";
 import { loadDistrictsIndex, loadPincodes } from "@/lib/data";
 import { DistrictIndexEntry, PincodeMap } from "@/lib/types";
 import { usePincodeLookup } from "@/lib/usePincodeLookup";
+import { readSavedArea, clearSavedArea, SavedArea } from "@/lib/saved-area";
 
 const ISSUES: { slug: string; titleKey: string; icon: React.ReactNode }[] = [
   {
@@ -93,10 +94,18 @@ export default function HomePage() {
   const [homePin, setHomePin] = useState("");
   const [districts, setDistricts] = useState<DistrictIndexEntry[]>([]);
   const [pincodesMap, setPincodesMap] = useState<PincodeMap>({});
+  const pincodesLoadedRef = useRef(false);
+  const [savedArea, setSavedArea] = useState<SavedArea | null>(null);
+
+  const ensurePincodesLoaded = useCallback(() => {
+    if (pincodesLoadedRef.current) return;
+    pincodesLoadedRef.current = true;
+    loadPincodes().then(setPincodesMap);
+  }, []);
 
   useEffect(() => {
     loadDistrictsIndex().then(setDistricts);
-    loadPincodes().then(setPincodesMap);
+    setSavedArea(readSavedArea());
   }, []);
 
   const pinState = usePincodeLookup(homePin, pincodesMap);
@@ -156,6 +165,47 @@ export default function HomePage() {
           <p className="text-[13px] font-medium text-muted pt-2 border-t border-border tabular-nums">
             {t("home.statsStrip")}
           </p>
+
+          {savedArea && (
+            <div className="p-3.5 rounded-[6px] bg-[#EBF1F6] border border-[#154273]/30 flex flex-wrap items-center justify-between gap-2 text-[14px]">
+              <div>
+                <span className="text-[11px] font-bold uppercase tracking-[0.06em] text-[#154273] block">
+                  {t("saved.useSavedPrefix")}
+                </span>
+                <Link
+                  href={`/find/?type=${encodeURIComponent(savedArea.localBodyType)}&district=${encodeURIComponent(
+                    savedArea.districtId
+                  )}&place=${encodeURIComponent(savedArea.placeId)}${
+                    savedArea.pincode ? `&pincode=${encodeURIComponent(savedArea.pincode)}` : ""
+                  }`}
+                  className="font-semibold text-text hover:text-[#154273] underline underline-offset-4"
+                >
+                  {lang === "hi" ? savedArea.placeNameHi : savedArea.placeNameEn} ·{" "}
+                  {lang === "hi" ? savedArea.districtNameHi : savedArea.districtNameEn}
+                </Link>
+              </div>
+              <div className="flex items-center gap-3 text-[13px]">
+                <Link
+                  href={`/find/?district=${encodeURIComponent(savedArea.districtId)}&type=${encodeURIComponent(
+                    savedArea.localBodyType
+                  )}${savedArea.pincode ? `&pincode=${encodeURIComponent(savedArea.pincode)}` : ""}`}
+                  className="font-semibold text-[#154273] underline underline-offset-4 hover:text-[#0F3156]"
+                >
+                  {t("flow.change")}
+                </Link>
+                <button
+                  type="button"
+                  onClick={() => {
+                    clearSavedArea();
+                    setSavedArea(null);
+                  }}
+                  className="text-muted hover:text-danger underline underline-offset-4"
+                >
+                  {t("saved.clear")}
+                </button>
+              </div>
+            </div>
+          )}
         </div>
 
         {/* Framed Quick PIN Lookup Panel */}
@@ -179,7 +229,11 @@ export default function HomePage() {
                   inputMode="numeric"
                   maxLength={6}
                   value={homePin}
-                  onChange={(e) => setHomePin(e.target.value.replace(/\D/g, "").slice(0, 6))}
+                  onFocus={ensurePincodesLoaded}
+                  onChange={(e) => {
+                    ensurePincodesLoaded();
+                    setHomePin(e.target.value.replace(/\D/g, "").slice(0, 6));
+                  }}
                   placeholder={t("flow.pincodePlaceholder")}
                   aria-label="Pincode search"
                   className="flex-1 min-h-btn px-3.5 py-2 text-[16px] font-medium tabular-nums border border-borderStrong rounded-[4px] bg-bg focus:border-[#154273] focus-visible:outline-none"
@@ -355,12 +409,20 @@ export default function HomePage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {ISSUES.map((issue) => {
             const cleanPin = homePin.replace(/\D/g, "");
-            const issueHref =
-              cleanPin.length === 6 && pinState.matches.length === 1
-                ? `/issue/${issue.slug}/?district=${encodeURIComponent(
-                    pinState.matches[0].district_id
-                  )}&pincode=${cleanPin}`
-                : `/issue/${issue.slug}/`;
+            let issueHref = `/issue/${issue.slug}/`;
+            if (cleanPin.length === 6 && pinState.matches.length === 1) {
+              issueHref = `/issue/${issue.slug}/?district=${encodeURIComponent(
+                pinState.matches[0].district_id
+              )}&pincode=${cleanPin}`;
+            } else if (cleanPin.length === 6) {
+              issueHref = `/issue/${issue.slug}/?pincode=${cleanPin}`;
+            } else if (savedArea) {
+              issueHref = `/issue/${issue.slug}/?district=${encodeURIComponent(
+                savedArea.districtId
+              )}&place=${encodeURIComponent(
+                savedArea.placeId === "district-hq" ? "" : savedArea.placeId
+              )}${savedArea.pincode ? `&pincode=${encodeURIComponent(savedArea.pincode)}` : ""}`;
+            }
             return (
               <Link
                 key={issue.slug}

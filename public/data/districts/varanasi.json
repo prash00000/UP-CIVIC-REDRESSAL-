@@ -77,7 +77,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Varanasi Sadar",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Varanasi Sadar",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील वाराणसी सदर",
       "phones": [],
       "email": "sdm.varanasisadar.var-up@gov.in",
       "covers": [
@@ -92,7 +92,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Pindra",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Pindra",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील पिंद्रा",
       "phones": [
         {
           "number": "9454417043",
@@ -122,7 +122,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Raja Talab",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Raja Talab",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील राजा तालाब",
       "phones": [
         {
           "number": "9454417044",
@@ -152,7 +152,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kashi Vidyapeeth",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kashi Vidyapeeth",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक काशी विद्यापीठ",
       "phones": [
         {
           "number": "9454465292",
@@ -162,7 +162,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.kashividyapeeth.var@gmail.com",
       "covers": [
         "kashi-vidyapeeth"
       ],
@@ -175,7 +174,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Kashi Vidyapeeth",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kashi Vidyapeeth",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक काशी विद्यापीठ",
       "phones": [],
       "covers": [
         "kashi-vidyapeeth"
@@ -186,42 +185,11 @@
       "fallback_office_id": "up-varanasi-bdo-kashi-vidyapeeth"
     },
     {
-      "id": "sec-kashi-vidyapeeth-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Kashi Vidyapeeth North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Kashi Vidyapeeth उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-kashi-vidyapeeth-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://varanasi.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-kashi-vidyapeeth-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Kashi Vidyapeeth South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Kashi Vidyapeeth दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-kashi-vidyapeeth-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-varanasi-ado-kashi-vidyapeeth",
-      "source_url": "https://varanasi.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-varanasi-bdo-harhua",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Harhua",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Harhua",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक हरहुअ",
       "phones": [
         {
           "number": "9454465289",
@@ -231,7 +199,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.harhua.var@gmail.com",
       "covers": [
         "harhua"
       ],
@@ -244,7 +211,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Harhua",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Harhua",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक हरहुअ",
       "phones": [],
       "covers": [
         "harhua"
@@ -255,42 +222,11 @@
       "fallback_office_id": "up-varanasi-bdo-harhua"
     },
     {
-      "id": "sec-harhua-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Harhua North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Harhua उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-harhua-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://varanasi.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-harhua-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Harhua South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Harhua दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-harhua-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-varanasi-ado-harhua",
-      "source_url": "https://varanasi.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-varanasi-bdo-pindra",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Pindra",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pindra",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक पिंद्रा",
       "phones": [
         {
           "number": "9454465287",
@@ -300,7 +236,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.pindra.var@gmail.com",
       "covers": [
         "pindra"
       ],
@@ -313,7 +248,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Pindra",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pindra",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक पिंद्रा",
       "phones": [],
       "covers": [
         "pindra"
@@ -324,42 +259,11 @@
       "fallback_office_id": "up-varanasi-bdo-pindra"
     },
     {
-      "id": "sec-pindra-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Pindra North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Pindra उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-pindra-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://varanasi.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-pindra-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Pindra South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Pindra दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-pindra-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-varanasi-ado-pindra",
-      "source_url": "https://varanasi.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-varanasi-bdo-baragaon",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Baragaon",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Baragaon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बरागाँव",
       "phones": [
         {
           "number": "9454465286",
@@ -369,7 +273,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.baragaon.var@gmail.com",
       "covers": [
         "baragaon"
       ],
@@ -382,7 +285,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Baragaon",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Baragaon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बरागाँव",
       "phones": [],
       "covers": [
         "baragaon"
@@ -393,42 +296,11 @@
       "fallback_office_id": "up-varanasi-bdo-baragaon"
     },
     {
-      "id": "sec-baragaon-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Baragaon North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Baragaon उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-baragaon-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://varanasi.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-baragaon-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Baragaon South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Baragaon दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-baragaon-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-varanasi-ado-baragaon",
-      "source_url": "https://varanasi.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-varanasi-bdo-araziline",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Araziline",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Araziline",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक अरजिलिने",
       "phones": [
         {
           "number": "9454465291",
@@ -438,7 +310,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.araziline.var@gmail.com",
       "covers": [
         "araziline"
       ],
@@ -451,7 +322,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Araziline",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Araziline",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक अरजिलिने",
       "phones": [],
       "covers": [
         "araziline"
@@ -462,42 +333,11 @@
       "fallback_office_id": "up-varanasi-bdo-araziline"
     },
     {
-      "id": "sec-araziline-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Araziline North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Araziline उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-araziline-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://varanasi.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-araziline-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Araziline South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Araziline दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-araziline-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-varanasi-ado-araziline",
-      "source_url": "https://varanasi.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-varanasi-bdo-sewapuri",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sewapuri",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sewapuri",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सेवापुरी",
       "phones": [
         {
           "number": "9454465290",
@@ -507,7 +347,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.sewapuri.var@gmail.com",
       "covers": [
         "sewapuri"
       ],
@@ -520,7 +359,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Sewapuri",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sewapuri",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सेवापुरी",
       "phones": [],
       "covers": [
         "sewapuri"
@@ -531,42 +370,11 @@
       "fallback_office_id": "up-varanasi-bdo-sewapuri"
     },
     {
-      "id": "sec-sewapuri-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Sewapuri North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Sewapuri उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-sewapuri-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://varanasi.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-sewapuri-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Sewapuri South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Sewapuri दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-sewapuri-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-varanasi-ado-sewapuri",
-      "source_url": "https://varanasi.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-varanasi-bdo-cholapur",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Cholapur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Cholapur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक चोलापुर",
       "phones": [
         {
           "number": "9454465288",
@@ -576,7 +384,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.cholapur.var@gmail.com",
       "covers": [
         "cholapur"
       ],
@@ -589,7 +396,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Cholapur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Cholapur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक चोलापुर",
       "phones": [],
       "covers": [
         "cholapur"
@@ -600,42 +407,11 @@
       "fallback_office_id": "up-varanasi-bdo-cholapur"
     },
     {
-      "id": "sec-cholapur-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Cholapur North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Cholapur उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-cholapur-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://varanasi.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-cholapur-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Cholapur South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Cholapur दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-cholapur-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-varanasi-ado-cholapur",
-      "source_url": "https://varanasi.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
-    },
-    {
       "id": "up-varanasi-bdo-chiraigaon",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Chiraigaon",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Chiraigaon",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक चिरैगाँव",
       "phones": [
         {
           "number": "9454465293",
@@ -645,7 +421,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.chiraigaon.var@gmail.com",
       "covers": [
         "chiraigaon"
       ],
@@ -658,7 +433,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Chiraigaon",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Chiraigaon",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक चिरैगाँव",
       "phones": [],
       "covers": [
         "chiraigaon"
@@ -667,37 +442,6 @@
       "confidence": "medium",
       "valid_as_of": "2026-11-20",
       "fallback_office_id": "up-varanasi-bdo-chiraigaon"
-    },
-    {
-      "id": "sec-chiraigaon-1",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Chiraigaon North",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Chiraigaon उत्तर",
-      "phones": [],
-      "covers": [
-        "gp-chiraigaon-1"
-      ],
-      "post_status": "filled",
-      "source_url": "https://varanasi.nic.in/whos-who/",
-      "confidence": "high",
-      "valid_as_of": "2026-11-20"
-    },
-    {
-      "id": "sec-chiraigaon-2",
-      "level": "gram_panchayat",
-      "role": "secretary",
-      "office_name_en": "Panchayat Secretary Office, GP Chiraigaon South",
-      "office_name_hi": "ग्राम पंचायत सचिव कार्यालय, ग्रा.पं. Chiraigaon दक्षिण",
-      "phones": [],
-      "covers": [
-        "gp-chiraigaon-2"
-      ],
-      "post_status": "vacant",
-      "fallback_office_id": "up-varanasi-ado-chiraigaon",
-      "source_url": "https://varanasi.nic.in/whos-who/",
-      "confidence": "medium",
-      "valid_as_of": "2026-11-20"
     },
     {
       "id": "eo-varanasi-main",
@@ -727,8 +471,9 @@
       "source_url": "https://varanasi.nic.in/whos-who/",
       "confidence": "high",
       "valid_as_of": "2026-11-20",
-      "email": "8189077829mcvns1@gmail.com",
-      "officer_name_en": "श्री शिपू गिरी"
+      "email": "mcvns1@gmail.com",
+      "officer_name_en": "Shri Shipu Giri",
+      "officer_name_hi": "श्री शिपू गिरी"
     }
   ]
 }

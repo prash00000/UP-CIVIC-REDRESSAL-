@@ -79,7 +79,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Hardoi",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Hardoi",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील हरदोई",
       "phones": [
         {
           "number": "05852-241001",
@@ -102,7 +102,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Shahabad",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Shahabad",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील शहआबाद",
       "phones": [
         {
           "number": "9452071781",
@@ -140,7 +140,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Bilgram",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Bilgram",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील बिलग्रम",
       "phones": [
         {
           "number": "8533069905",
@@ -178,7 +178,7 @@
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sandila",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sandila",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील संदिला",
       "phones": [
         {
           "number": "7905768924",
@@ -209,14 +209,15 @@
       "source_url": "https://hardoi.nic.in/tehsil/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "officer_name_en": "संडीला"
+      "officer_name_en": "Sandila",
+      "officer_name_hi": "संडीला"
     },
     {
       "id": "up-hardoi-sdm-sawayajpur",
       "level": "tehsil",
       "role": "sdm",
       "office_name_en": "Sub-Divisional Magistrate (SDM), Tehsil Sawayajpur",
-      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील Sawayajpur",
+      "office_name_hi": "उपजिलाधिकारी (एसडीएम), तहसील सवयजपुर",
       "phones": [
         {
           "number": "9454416603",
@@ -240,14 +241,15 @@
       "source_url": "https://hardoi.nic.in/tehsil/",
       "confidence": "high",
       "valid_as_of": "2026-11-25",
-      "officer_name_en": "सवायजपुर"
+      "officer_name_en": "Savayajapur",
+      "officer_name_hi": "सवायजपुर"
     },
     {
       "id": "up-hardoi-bdo-sursa",
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sursa",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sursa",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक सुरसा",
       "phones": [
         {
           "number": "9454465372",
@@ -257,7 +259,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.sursa.har@gmail.com",
       "covers": [
         "sursa"
       ],
@@ -270,7 +271,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Sursa",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sursa",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक सुरसा",
       "phones": [],
       "covers": [
         "sursa"
@@ -285,7 +286,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bawan",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बवन",
       "phones": [
         {
           "number": "9454465366",
@@ -295,7 +296,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.bawan.har@gmail.com",
       "covers": [
         "bawan"
       ],
@@ -308,7 +308,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Bawan",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बवन",
       "phones": [],
       "covers": [
         "bawan"
@@ -323,7 +323,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Ahirori",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Ahirori",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक अहिरोरी",
       "phones": [
         {
           "number": "9454465373",
@@ -333,7 +333,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.ahirori.har@gmail.com",
       "covers": [
         "ahirori"
       ],
@@ -346,7 +345,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Ahirori",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Ahirori",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक अहिरोरी",
       "phones": [],
       "covers": [
         "ahirori"
@@ -361,7 +360,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Tandiyawan",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Tandiyawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक तंदियवन",
       "phones": [
         {
           "number": "9454465371",
@@ -371,7 +370,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.tandiyawan.har@gmail.com",
       "covers": [
         "tandiyawan"
       ],
@@ -384,7 +382,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Tandiyawan",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Tandiyawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक तंदियवन",
       "phones": [],
       "covers": [
         "tandiyawan"
@@ -399,7 +397,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Harpalpur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Harpalpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक हरपलपुर",
       "phones": [
         {
           "number": "9454465367",
@@ -409,7 +407,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.harpalpur.har@gmail.com",
       "covers": [
         "harpalpur"
       ],
@@ -422,7 +419,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Harpalpur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Harpalpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक हरपलपुर",
       "phones": [],
       "covers": [
         "harpalpur"
@@ -437,7 +434,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sandi",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sandi",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक संदी",
       "phones": [
         {
           "number": "9454465368",
@@ -447,7 +444,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.sandi.har@gmail.com",
       "covers": [
         "sandi"
       ],
@@ -460,7 +456,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Sandi",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sandi",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक संदी",
       "phones": [],
       "covers": [
         "sandi"
@@ -475,7 +471,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bilgram",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bilgram",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बिलग्रम",
       "phones": [
         {
           "number": "9454465369",
@@ -485,7 +481,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.bilgram.har@gmail.com",
       "covers": [
         "bilgram"
       ],
@@ -498,7 +493,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Bilgram",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bilgram",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बिलग्रम",
       "phones": [],
       "covers": [
         "bilgram"
@@ -513,7 +508,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Madhavganj",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Madhavganj",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मधवगंज",
       "phones": [
         {
           "number": "9454465374",
@@ -523,7 +518,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.madhavganj.har@gmail.com",
       "covers": [
         "madhavganj"
       ],
@@ -536,7 +530,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Madhavganj",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Madhavganj",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मधवगंज",
       "phones": [],
       "covers": [
         "madhavganj"
@@ -551,7 +545,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Mallawan",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Mallawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक मलवन",
       "phones": [
         {
           "number": "9454465375",
@@ -561,7 +555,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.mallawan.har@gmail.com",
       "covers": [
         "mallawan"
       ],
@@ -574,7 +567,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Mallawan",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Mallawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक मलवन",
       "phones": [],
       "covers": [
         "mallawan"
@@ -589,7 +582,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kachhauna",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kachhauna",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक कछौना",
       "phones": [
         {
           "number": "9454465377",
@@ -599,7 +592,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.kachhauna.har@gmail.com",
       "covers": [
         "kachhauna"
       ],
@@ -612,7 +604,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Kachhauna",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kachhauna",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक कछौना",
       "phones": [],
       "covers": [
         "kachhauna"
@@ -627,7 +619,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Sandila",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Sandila",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक संदिला",
       "phones": [
         {
           "number": "9454465379",
@@ -637,7 +629,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.sandila.har@gmail.com",
       "covers": [
         "sandila"
       ],
@@ -650,7 +641,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Sandila",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Sandila",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक संदिला",
       "phones": [],
       "covers": [
         "sandila"
@@ -665,7 +656,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Behandar",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Behandar",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक बेहंदर",
       "phones": [
         {
           "number": "9454465378",
@@ -675,7 +666,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.behandar.har@gmail.com",
       "covers": [
         "behandar"
       ],
@@ -688,7 +678,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Behandar",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Behandar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक बेहंदर",
       "phones": [],
       "covers": [
         "behandar"
@@ -703,7 +693,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bharawan",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bharawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक भरवन",
       "phones": [
         {
           "number": "9454465380",
@@ -713,7 +703,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.bharawan.har@gmail.com",
       "covers": [
         "bharawan"
       ],
@@ -726,7 +715,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Bharawan",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bharawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक भरवन",
       "phones": [],
       "covers": [
         "bharawan"
@@ -741,7 +730,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Kothawan",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Kothawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक कोथवन",
       "phones": [
         {
           "number": "9454465376",
@@ -751,7 +740,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.kothawan.har@gmail.com",
       "covers": [
         "kothawan"
       ],
@@ -764,7 +752,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Kothawan",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Kothawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक कोथवन",
       "phones": [],
       "covers": [
         "kothawan"
@@ -779,7 +767,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Pihani",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Pihani",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक पिहनी",
       "phones": [
         {
           "number": "9454465364",
@@ -789,7 +777,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.pihani.har@gmail.com",
       "covers": [
         "pihani"
       ],
@@ -802,7 +789,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Pihani",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Pihani",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक पिहनी",
       "phones": [],
       "covers": [
         "pihani"
@@ -817,7 +804,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Shahabad",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Shahabad",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक शहआबाद",
       "phones": [
         {
           "number": "9454465362",
@@ -827,7 +814,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.shahabad.har@gmail.com",
       "covers": [
         "shahabad"
       ],
@@ -840,7 +826,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Shahabad",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Shahabad",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक शहआबाद",
       "phones": [],
       "covers": [
         "shahabad"
@@ -855,7 +841,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Bharkhani",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Bharkhani",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक भरखनी",
       "phones": [
         {
           "number": "9454465365",
@@ -865,7 +851,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.bharkhani.har@gmail.com",
       "covers": [
         "bharkhani"
       ],
@@ -878,7 +863,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Bharkhani",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Bharkhani",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक भरखनी",
       "phones": [],
       "covers": [
         "bharkhani"
@@ -893,7 +878,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Hariyawan",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Hariyawan",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक हरियवन",
       "phones": [
         {
           "number": "9454465370",
@@ -903,7 +888,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.hariyawan.har@gmail.com",
       "covers": [
         "hariyawan"
       ],
@@ -916,7 +900,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Hariyawan",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Hariyawan",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक हरियवन",
       "phones": [],
       "covers": [
         "hariyawan"
@@ -931,7 +915,7 @@
       "level": "block",
       "role": "bdo",
       "office_name_en": "Block Development Officer, Block Toderpur",
-      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक Toderpur",
+      "office_name_hi": "खंड विकास अधिकारी, ब्लॉक तोदेरपुर",
       "phones": [
         {
           "number": "9454465363",
@@ -941,7 +925,6 @@
           "status": "verified"
         }
       ],
-      "email": "bdo.toderpur.har@gmail.com",
       "covers": [
         "toderpur"
       ],
@@ -954,7 +937,7 @@
       "level": "block",
       "role": "ado_panchayat",
       "office_name_en": "Assistant Development Officer (Panchayat), Block Toderpur",
-      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक Toderpur",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), ब्लॉक तोदेरपुर",
       "phones": [],
       "covers": [
         "toderpur"
@@ -991,7 +974,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Bilgram",
-      "office_name_hi": "अधिशासी अधिकारी, Bilgram",
+      "office_name_hi": "अधिशासी अधिकारी, बिलग्रम",
       "phones": [
         {
           "number": "8189078278",
@@ -1013,7 +996,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Mallawan",
-      "office_name_hi": "अधिशासी अधिकारी, Mallawan",
+      "office_name_hi": "अधिशासी अधिकारी, मलवन",
       "phones": [
         {
           "number": "8189078279",
@@ -1035,7 +1018,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Sandi",
-      "office_name_hi": "अधिशासी अधिकारी, Sandi",
+      "office_name_hi": "अधिशासी अधिकारी, संदी",
       "phones": [
         {
           "number": "8189078276",
@@ -1057,7 +1040,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Shahabad",
-      "office_name_hi": "अधिशासी अधिकारी, Shahabad",
+      "office_name_hi": "अधिशासी अधिकारी, शहआबाद",
       "phones": [
         {
           "number": "8189078274",
@@ -1079,7 +1062,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Pihani",
-      "office_name_hi": "अधिशासी अधिकारी, Pihani",
+      "office_name_hi": "अधिशासी अधिकारी, पिहनी",
       "phones": [
         {
           "number": "8189078277",
@@ -1101,7 +1084,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Sandila",
-      "office_name_hi": "अधिशासी अधिकारी, Sandila",
+      "office_name_hi": "अधिशासी अधिकारी, संदिला",
       "phones": [
         {
           "number": "8189078275",
@@ -1123,7 +1106,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Pali",
-      "office_name_hi": "अधिशासी अधिकारी, Pali",
+      "office_name_hi": "अधिशासी अधिकारी, पली",
       "phones": [
         {
           "number": "8189078281",
@@ -1145,7 +1128,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Madhoganj",
-      "office_name_hi": "अधिशासी अधिकारी, Madhoganj",
+      "office_name_hi": "अधिशासी अधिकारी, मधोगंज",
       "phones": [
         {
           "number": "8189078285",
@@ -1167,7 +1150,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Kursath",
-      "office_name_hi": "अधिशासी अधिकारी, Kursath",
+      "office_name_hi": "अधिशासी अधिकारी, कुरसथ",
       "phones": [
         {
           "number": "8189078284",
@@ -1189,7 +1172,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Kachauna Patsaini",
-      "office_name_hi": "अधिशासी अधिकारी, Kachauna Patsaini",
+      "office_name_hi": "अधिशासी अधिकारी, कचौना पतसैनी",
       "phones": [
         {
           "number": "8189078283",
@@ -1211,7 +1194,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Gopamau",
-      "office_name_hi": "अधिशासी अधिकारी, Gopamau",
+      "office_name_hi": "अधिशासी अधिकारी, गोपमौ",
       "phones": [
         {
           "number": "8189078280",
@@ -1233,7 +1216,7 @@
       "level": "ulb",
       "role": "eo",
       "office_name_en": "Executive Officer, Beniganj",
-      "office_name_hi": "अधिशासी अधिकारी, Beniganj",
+      "office_name_hi": "अधिशासी अधिकारी, बेनीगंज",
       "phones": [
         {
           "number": "8189078282",
@@ -1248,6 +1231,35 @@
       ],
       "source_url": "https://hardoi.nic.in/hi/%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be/",
       "confidence": "high",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-hardoi-bdo-behendar",
+      "level": "block",
+      "role": "bdo",
+      "office_name_en": "Block Development Officer, Block Behendar",
+      "office_name_hi": "खंड विकास अधिकारी, विकास खंड बेहेंदर",
+      "phones": [],
+      "covers": [
+        "behendar"
+      ],
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
+      "valid_as_of": "2026-11-25"
+    },
+    {
+      "id": "up-hardoi-ado-behendar",
+      "level": "block",
+      "role": "ado_panchayat",
+      "office_name_en": "Assistant Development Officer (Panchayat), Block Behendar",
+      "office_name_hi": "सहायक विकास अधिकारी (पंचायत), विकास खंड बेहेंदर",
+      "phones": [],
+      "covers": [
+        "behendar"
+      ],
+      "fallback_office_id": "up-hardoi-bdo-behendar",
+      "source_url": "https://hardoi.nic.in",
+      "confidence": "medium",
       "valid_as_of": "2026-11-25"
     }
   ]

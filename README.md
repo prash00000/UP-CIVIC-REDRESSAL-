@@ -1,96 +1,161 @@
-# UP Civic Grievance Portal (`उत्तर प्रदेश जनहित समाधान`)
+<div align="center">
 
-**Live Portal:** [up-civic-redressal.vercel.app](https://up-civic-redressal.vercel.app/)
+# UP Civic Grievance Portal · उत्तर प्रदेश जनहित समाधान
 
-An independent, bilingual (English / हिन्दी), mobile-first public redressal guide for residents of **Uttar Pradesh**. It helps citizens go directly from a **6-digit PIN code**, **village**, **development block**, or **town/city** to the exact responsible local officer, verified official phone numbers, a step-by-step statutory escalation ladder (including **SDM / Tehsil Samadhan Diwas**), and ready-to-submit formal complaints or **RTI Form-A** applications.
+**Know who to complain to · शिकायत किससे करें, यहाँ जानें**
 
-> **Disclaimer:** This is an unofficial civic utility built in the public interest. It is not affiliated with, endorsed by, or operated by the Government of Uttar Pradesh. Always confirm time-sensitive notices on official `.gov.in` / `.nic.in` portals.
+An independent, bilingual (`English` / `हिन्दी`), mobile-first public grievance & escalation guide for residents of **Uttar Pradesh**—mapping **6-digit PIN codes**, **119,000+ LGD villages & urban bodies**, and **75 district directories** directly to verified officer phone numbers, **SDM / Tehsil Samadhan Diwas** escalation ladders, formal petitions, and **RTI Form-A** drafts.
 
----
+[![Live on Vercel](https://img.shields.io/badge/Live_Portal-up--civic--redressal.vercel.app-154273?style=for-the-badge&logo=vercel&logoColor=white)](https://up-civic-redressal.vercel.app/)
+[![Next.js 15](https://img.shields.io/badge/Next.js-15.5-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Coverage](https://img.shields.io/badge/Uttar_Pradesh-75_Districts-C84B16?style=for-the-badge)](https://up-civic-redressal.vercel.app/directory/)
 
-## Why This Exists
+[Overview](#overview) • [How Routing Works](#how-routing-works) • [Escalation Matrix](#jurisdiction--escalation-matrix) • [Dataset & Guardrails](#dataset-coverage--integrity-guardrails) • [Routes & API](#routes--api-reference) • [Local Setup](#local-development--verification)
 
-Finding who actually handles a broken handpump, clogged drain, unlit street pole, damaged road, garbage pile, or delayed MGNREGA wage across Uttar Pradesh's districts often turns into dead ends—residents know who they voted for locally, not which administrative desk owns the budget and statutory timeline, nor whom to escalate to when nothing moves.
-
-This portal bridges that gap with:
-- **Location-first officer resolution** instead of guesswork across Gram Panchayats, Vikas Khands, Nagar Panchayats, Nagar Palika Parishads, Nagar Nigams, Cantonment Boards, and Development Authorities (NOIDA, GNIDA, YEIDA).
-- **Verified official numbers only** compiled strictly from official `.gov.in` and `.nic.in` directories—never synthetic emails or placeholder phone numbers.
-- **Complete browser-side privacy** for complaint letters and RTI drafts—no login, no account, and zero personal complaint text uploaded to a server.
+</div>
 
 ---
 
-## Verified Coverage Across Uttar Pradesh
+> **Public Information Disclaimer:** This platform is an independent civic utility maintained in the public interest. It is **not** affiliated with, endorsed by, or operated by the Government of Uttar Pradesh. Officer contacts and portal links are compiled strictly from official `.gov.in` and `.nic.in` sources; please confirm critical details on official government websites.
 
-| Administrative Layer | Coverage in Dataset |
+---
+
+## Overview
+
+When a handpump stops working, a drain overflows, a street light stays dark, or MGNREGA wages stall, citizens in Uttar Pradesh typically know whom they voted for—not which administrative office controls the sanctioning budget, what statutory escalation applies, or whom to appeal to if local action stalls.
+
+**UP Civic Grievance Portal** turns raw location signals into clear, actionable steps in under a minute:
+
+| Citizen Need | How the Portal Helps |
 | --- | --- |
-| **Districts** | **75 / 75** UP districts |
-| **Indexed Places** | **119,211** entries (`107,486` LGD Gram Panchayat/village records across `114,724` village entries, `860` blocks, and `3,627` towns/wards) |
-| **PIN Codes** | **1,658** mapped UP PIN codes + 3-digit postal prefix fallback + live India Post API resolution (`/api/pincode`) |
-| **Direct Official Phones** | `75/75` District Magistrates (DM), `74/75` CDOs, `290/351` SDMs across all `75` districts, `460/860` BDOs, `211/283` Urban Executive Officers (EO), `17/17` Nagar Nigam Commissioners, `24/75` DPROs |
-
-Where an upstream district directory does not publish an individual contact (for example, individual Gram Panchayat Secretaries or unindexed block/DPRO lines), the UI states that gap transparently and routes citizens immediately to the verified supervising officer (**BDO**, **SDM**, **EO/Commissioner**, **CDO**, **DM**) and state helplines.
+| **Find the exact first officer** | Enter a **6-digit UP PIN code** or select District → Block/Village/Town to resolve Rural (**GP / BDO / SDM / CDO / DM**), Town (**EO / SDM / DM**), Nagar Nigam (**Municipal Commissioner / SDM / DM**), or Authority (**NOIDA / GNIDA / YEIDA / Cantonment**) officers. |
+| **Act on 6 common civic issues** | Guided flows (`/issue/[slug]/`) for **Street Light**, **Drain & Waterlogging**, **Damaged Road**, **Handpump & Drinking Water**, **MGNREGA**, and **Garbage**—complete with live primary contacts and matched UP portals (`1076`, `1533`, `1800-121-2164`). |
+| **Escalate when nothing happens** | Every rural, urban, and authority ladder surfaces clear step-up channels including **Sub-Divisional Magistrate (SDM) / Tehsil Samadhan Diwas (1st & 3rd Tuesday)** and District Magistrate (`DM`). |
+| **File online, call 1076, or submit offline** | Generate a bilingual **30-second 1076 / Jansunwai summary**, print-ready **UP Janhit Guarantee Act 2011** complaint letter (with office copy counterfoil & optional CC to SDM/CDO/DM), or **RTI Act 2005 Form-A**—100% inside your browser. |
 
 ---
 
-## Core Features
+## How Routing Works
 
-- **3-Step Location-First Wizard (`/find/`):** Enter a 6-digit UP PIN code (or choose a district), pick an optional issue and area type (`Village`, `Town`, `Nagar Nigam`, `Cantonment / Development Authority`, or `Not sure`), filter by Vikas Khand or PIN, and view ordered officers, verification dates, and a 1-click **30-second CM Helpline 1076 / Jansunwai summary**.
-- **6 Guided Civic Issue Workflows (`/issue/[slug]/`):** End-to-end resolution for:
-  1. `street-light` — Street light broken or missing
-  2. `drain` — Drain overflow or waterlogging
-  3. `road` — Road damaged or incomplete construction
-  4. `handpump-water` — Broken handpump or unsafe drinking water
-  5. `mgnrega` — MGNREGA work demand (Form-6) or wage delay *(includes urban rural-only safeguard)*
-  6. `garbage` — Garbage dump or irregular waste collection
-  Each workflow adapts dynamically between **Rural (GP / BDO / DPRO / SDM / CDO / DM)**, **Town (EO / SDM / DM)**, **Nagar Nigam (Municipal Commissioner / SDM / DM)**, and **Special Authorities**, linking directly to relevant portals (**CM Helpline 1076**, **Jansunwai IGRS**, **e-NagarSewa 1533**, **Jal Samadhan 1800-121-2164**, **Panchayati Raj UP**, **MGNREGA**).
-- **Zero-Storage Complaint Letter Maker (`/letter/`):** Generates formal petitions citing the **UP Janhit Guarantee Act, 2011** with a tear-off acknowledgment counterfoil via pure CSS `@media print` (preserving Hindi Devanagari ligatures cleanly), optional **CC checkboxes** (SDM, CDO, DM), and copy-as-text output.
-- **RTI Form-A Generator (`/rti/`):** Prefills issue-specific inspection/record requests (Measurement Book, muster rolls, ATRs, expenditure vouchers) citing the **Right to Information Act, 2005** and linking to `rtionline.up.gov.in`.
-- **75-District Governance Directory (`/directory/`, `/directory/[district]/`):** Browsable district, tehsil (SDM), block (BDO), and urban local body directories with role filter pills, phone verification freshness badges, wrong-number reporting (`/report/`), and helpfulness voting.
-
----
-
-## Tech Stack & Architecture
-
-- **Framework & Runtime:** Next.js 15 (App Router), React 19, TypeScript, deployed on **Vercel** (`vercel.json` + App Router API handlers `/api/pincode`, `/api/feedback`, `/api/report`)
-- **UI & Design System:** `@astryxdesign/core` (`@stylexjs/stylex`) paired with Tailwind CSS and custom archival/civic tokens (`themes/nl-classic/`)
-- **Self-Hosted Typography:** Bundled `@fontsource/inter`, `@fontsource/source-serif-4`, `@fontsource/noto-sans-devanagari`, and `@fontsource/noto-serif-devanagari` (no runtime CDN font dependency)
-- **Validation & Testing:** Zod schema & dataset quality validation (`scripts/validate-data.ts`), Vitest unit/route tests (`tests/*.test.ts`), and Playwright desktop + mobile Chromium E2E flows (`tests/e2e/flows.spec.ts`)
-- **Privacy Architecture:** Feedback and wrong-number reports hash caller IPs with `DAILY_SALT` via SHA-256 (`app/api/feedback/route.ts`, `app/api/report/route.ts`) with per-IP rate limiting and optional Supabase persistence (`SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`). See [DECISIONS.md](./DECISIONS.md) for full architectural notes.
+```mermaid
+flowchart LR
+    A["6-Digit PIN or District"] -->|"Local Index + /api/pincode"| B["District + Scoped Places"]
+    B --> C{"Local Body Type"}
+    C -->|"Rural · Gram Panchayat"| D["Primary: GP Secretary or BDO · DPRO"]
+    C -->|"Town · Nagar Palika / Panchayat"| E["Primary: Executive Officer EO"]
+    C -->|"City · Nagar Nigam"| F["Primary: Municipal Commissioner"]
+    C -->|"Cantonment / Authority"| G["Primary: Authority or Cantt Officer"]
+    D --> H["Tehsil Escalation: SDM · Samadhan Diwas"]
+    E --> H
+    F --> H
+    G --> H
+    H --> I["District & State: CDO · DM · CM Helpline 1076"]
+    I --> J["Citizen Actions: Call · 1076 Summary · Letter Counterfoil · RTI Form-A"]
+```
 
 ---
 
-## Project Structure
+## Jurisdiction & Escalation Matrix
+
+All 6 issue flows dynamically adapt their escalation steps (`lib/issue-routing.ts`, `lib/resolver.ts`, `public/data/issues/*.json`) based on the citizen's selected locality:
+
+| Area Classification | Issue Category | Step 01 (First Contact) | Escalation Path | Matched Official Portals |
+| --- | --- | --- | --- | --- |
+| **Rural Gram Panchayat** | Street Light | GP Secretary / BDO | `BDO → SDM → DM` | Panchayati Raj UP, Jansunwai, `1076` |
+| **Rural Gram Panchayat** | Drain / Garbage / Handpump | GP Secretary / BDO | `(ADO / DPRO) → SDM → DM` | Jal Samadhan (`1800-121-2164`), Panchayati Raj UP |
+| **Rural Gram Panchayat** | Road Construction | GP Secretary / BDO | `BDO → SDM → CDO → DM` | Panchayati Raj UP, `rtionline.up.gov.in` |
+| **Rural Gram Panchayat** | MGNREGA Work / Wages | GP Secretary / BDO (Form-6) | `BDO → SDM → CDO → DM` | `nrega.nic.in`, Jansunwai, `1076` |
+| **Nagar Panchayat / Palika** | Civic Issues *(non-MGNREGA)* | Executive Officer (`EO`) | `EO → SDM → DM` | e-NagarSewa (`1533`), Jansunwai, `1076` |
+| **Nagar Nigam (17 Cities)** | Civic Issues *(non-MGNREGA)* | Municipal Commissioner | `Commissioner → SDM → DM` | e-NagarSewa (`1533`), Jansunwai, `1076` |
+| **NOIDA / GNIDA / YEIDA / Cantt** | Civic Issues *(non-MGNREGA)* | Authority / Cantt Office | `Officer → SDM → DM` | e-NagarSewa (`1533`), Jansunwai, `1076` |
+
+> **Honest Urban MGNREGA Safeguard:** Selecting MGNREGA inside an urban ward, Nagar Nigam, or Industrial Development Authority surfaces an explicit notice routing rural work requests back to a Gram Panchayat / Block instead of showing misleading municipal numbers.
+
+---
+
+## Dataset Coverage & Integrity Guardrails
+
+The repository pairs **119,211 indexed places** (`107,486` LGD village records across `114,724` village entries, `860` block entries, `3,627` towns/wards) and **1,658 UP PIN codes** across all **75 districts** with automated quality enforcement in [`scripts/validate-data.ts`](scripts/validate-data.ts):
+
+- **Published Official Contacts Only:** Directly indexed verified phones cover **75/75 DMs**, **74/75 CDOs**, **290/351 SDMs** (`0` districts missing SDM coverage), **460/860 BDOs**, **211/283 EOs**, **17/17 Nagar Nigam Commissioners**, and **24/75 DPROs**.
+- **Zero Synthetic Placeholders:** Validation fails on synthetic placeholder emails, glued phone+email prefixes, non-civic district officials (`DIOS`/`DIO`), KrutiDev `0`-dot artifacts, mixed English/Devanagari scripts, or unverified 4-digit metro STD splits (`0120-`, `0522-`, `0542-`, `0551-`, etc.).
+- **No Fabricated SLAs:** `time_limit_days` is rendered only when backed by an explicit statutory `time_limit_source_url`; otherwise the UI transparently states *"Official time limit: not confirmed"*.
+- **Graceful Rural Secretary Disclosure:** Because Uttar Pradesh district portals do not publish individual Gram Panchayat Secretary CUG directories centrally (`secretaryNotIndexed`), rural lookups highlight the verified **Block Development Officer (BDO)** first alongside a transparent Gram Panchayat filing note instead of emitting fake "vacant post" alerts.
+- **Privacy-Preserving Feedback:** [`app/api/feedback/route.ts`](app/api/feedback/route.ts) and [`app/api/report/route.ts`](app/api/report/route.ts) hash caller IPs using `SHA-256(ip + DAILY_SALT)` with sliding per-hour rate limits (`10/hr` feedback, `5/hr` error reports) and never accept or store citizen complaint letters.
+
+---
+
+## Routes & API Reference
+
+| Route / Endpoint | Purpose |
+| --- | --- |
+| `/` | Editorial entry page with Quick 6-digit PIN lookup, Saved Area resume bar, and 6-issue launchers |
+| `/find/` | 3-step location-first wizard (`PIN/District + Area Type → Village/Block/Town → Officers & 1076 Summary`) |
+| `/issue/[slug]/` | Issue-specific action panel, live officer matching, statutory ladder, and document checklist |
+| `/letter/` | UP Janhit Guarantee Act 2011 petition generator, CC checkboxes (SDM/CDO/DM), copy text & `@media print` counterfoil |
+| `/rti/` | RTI Act 2005 Form-A draft generator with issue-specific record templates & `rtionline.up.gov.in` link |
+| `/directory/` & `/directory/[district]/` | Searchable 75-district officer directories with HQ/SDM/Block/ULB filter pills & freshness badges |
+| `/about/` & `/report/` | Data methodology disclaimer, official portal directory, and wrong-number reporting form |
+| `GET /api/pincode?pin=226301` | Local India Post UP index lookup with prefix matching and live Postal PIN API fallback |
+| `POST /api/feedback` | Rate-limited (`10/hr`) *"Did this number work?"* tally endpoint (`204 No Content`) |
+| `POST /api/report` | Rate-limited (`5/hr`) wrong/outdated office number report endpoint (`204 No Content`) |
+
+---
+
+## Tech Stack & Project Structure
+
+- **Core:** Next.js `15.5` (App Router on **Vercel** via [`vercel.json`](vercel.json)), React `19`, TypeScript `5.7`
+- **Design System & Typography:** [`@astryxdesign/core`](https://www.npmjs.com/package/@astryxdesign/core) (`@stylexjs/stylex`), Tailwind CSS, custom `nl-classic` theme tokens ([`themes/nl-classic/`](themes/nl-classic)), self-hosted `Source Serif 4`, `Inter`, `Noto Serif Devanagari`, and `Noto Sans Devanagari`
+- **Testing & Data Pipelines:** Zod schemas ([`lib/validate.ts`](lib/validate.ts)), Vitest unit/route tests ([`tests/`](tests)), Playwright Chromium + Mobile Chrome E2E tests ([`tests/e2e/flows.spec.ts`](tests/e2e/flows.spec.ts)), PDF/KrutiDev parser & transliteration pipeline ([`scripts/`](scripts))
 
 ```text
-app/                  Next.js App Router pages (/, /find, /issue/[slug], /letter, /rti, /directory, /report, /about) & /api/* routes
-components/           UI primitives (SearchSelect, OfficerCard, LadderStep, Stepper, PrintSheet, Header, Footer)
-lib/                  Officer resolver, urban/rural/authority issue routing, PIN lookup, saved area, i18n & Zod schemas
-locales/              100% key-parity English (en.json) and Hindi (hi.json) translation dictionaries
-public/data/          75 district officer JSONs, 75 LGD/ULB place files, state portals, issue ladders & UP PIN index
-scripts/              Data harvesting, PDF KrutiDev/phone parser, transliteration helpers & strict dataset validator
-tests/                Vitest unit/integration tests and Playwright end-to-end suites (Desktop & Mobile Chrome)
-themes/               Compiled Astryx design theme tokens (nl-classic)
+up-civic-grievance/
+├── app/                  Next.js App Router pages & serverless /api/* route handlers
+├── components/           Shared UI modules (SearchSelect, OfficerCard, LadderStep, Stepper, PrintSheet)
+├── lib/                  Jurisdiction resolver, issue routing, PIN resolution, i18n, saved area & Zod schemas
+├── locales/              English (en.json) and Hindi (hi.json) translations with 100% key-parity tests
+├── public/data/          75 district officer JSONs, 75 LGD/ULB place datasets, state portals, issues & PIN index
+├── scripts/              Directory harvesters, PDF KrutiDev/phone parser, transliteration & strict validator
+├── tests/                Vitest unit/API suites and Playwright Desktop & Mobile E2E tests
+├── themes/               Compiled Astryx design theme (nl-classic)
+└── DECISIONS.md          Architectural decisions & data verification policies
 ```
 
 ---
 
 ## Local Development & Verification
 
+### Prerequisites
+- **Node.js `>= 22.13.0`** and **npm**
+
+### Quick Start
+
 ```bash
-# Install dependencies
+git clone https://github.com/prash00000/UP-CIVIC-REDRESSAL.git
+cd UP-CIVIC-REDRESSAL
 npm install
-
-# Run local development server (http://localhost:3000)
 npm run dev
-
-# Validate all 75 district, place, PIN, state, and issue JSON datasets
-npm run validate-data
-
-# Run TypeScript check and Vitest unit/API tests
-npx tsc --noEmit
-npm test
-
-# Build production Next.js bundle and run Playwright E2E suite (Chromium + Mobile Chrome)
-npm run build
-npm run test:e2e
 ```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+### Verification Suite
+
+```bash
+npx tsc --noEmit         # Static TypeScript type checking
+npm run validate-data    # Strict Zod + script/phone/LGD integrity check across all 75 districts
+npm test                 # Vitest unit, routing, transliteration, i18n parity & /api/* tests
+npm run build            # Production Next.js build (96 static/SSG routes + serverless API routes)
+npm run test:e2e         # Playwright E2E tests across Desktop Chrome & Mobile Chrome
+```
+
+### Optional Environment Variables
+
+| Variable | Purpose | Default / Behavior |
+| --- | --- | --- |
+| `NEXT_PUBLIC_SITE_URL` | Canonical origin for `sitemap.xml` | `https://up-civic-redressal.vercel.app` |
+| `DAILY_SALT` | Daily salt for SHA-256 IP rate-limit hashing | Current UTC date (`YYYY-MM-DD`) |
+| `SUPABASE_URL` | Supabase project URL for feedback/error reports | Optional; uses in-memory `204` handling when unset |
+| `SUPABASE_SERVICE_ROLE_KEY` | Supabase service key for inserting `number_feedback` / `error_reports` | Optional |
+| `ONLY_DISTRICT` / `CLEAN_ONLY` / `UPDATE_INDEX` | Targeted flags when running `scripts/harvest-directory.ts` | Unset (full run when omitted) |

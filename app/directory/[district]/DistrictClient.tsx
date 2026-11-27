@@ -143,13 +143,13 @@ export default function DistrictClient({
           <BreadcrumbItem isCurrent>{districtName}</BreadcrumbItem>
         </Breadcrumbs>
 
-        <div className="flex flex-wrap items-baseline justify-between gap-4">
+        <div className="flex flex-wrap items-center justify-between gap-4">
           <div>
-            <h1 className="font-editorial text-[30px] sm:text-[38px] font-bold text-text">
+            <h1 className="page-title text-text">
               {districtName}
             </h1>
             {divisionName && (
-              <p className="text-[16px] text-muted mt-0.5">
+              <p className="text-[15px] text-muted mt-1">
                 {t("directory.division", { division: divisionName })}
               </p>
             )}
@@ -159,13 +159,13 @@ export default function DistrictClient({
         </div>
 
         {data?.verified_on && (
-          <p className="text-[14px] text-muted tabular-nums">
+          <p className="text-[13.5px] text-muted tabular-nums">
             {t("results.verifiedOn", { date: formatDate(data.verified_on, lang) })}
           </p>
         )}
 
         {!loading && data && (
-          <p className="text-[13px] font-medium text-[#154273] bg-[#EBF1F6] border border-[#154273]/25 rounded-[4px] px-3 py-2 tabular-nums">
+          <p className="text-[13.5px] font-medium text-[#154273] bg-[#EBF1F6] border border-[#C6D4E2] rounded-[8px] px-3.5 py-2.5 tabular-nums">
             {t("directory.verifiedSummary", phoneMetrics)}
           </p>
         )}
@@ -173,17 +173,20 @@ export default function DistrictClient({
 
       {/* In-district Search & Role Filter Strip */}
       {!loading && data && data.offices.length > 0 && (
-        <div className="space-y-3 p-4 rounded-[6px] bg-surface border border-border">
+        <search className="space-y-3 p-4 rounded-[12px] bg-surface border border-border shadow-[0_1px_3px_rgba(22,27,34,0.04)]">
           <input
             type="search"
+            autoCorrect="off"
+            autoCapitalize="none"
+            spellCheck={false}
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             placeholder={t("directory.filterSearchPlaceholder")}
             aria-label={t("directory.filterSearchPlaceholder")}
-            className="w-full min-h-btn px-4 py-2 bg-bg text-text text-[15px] border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none"
+            className="w-full min-h-[46px] px-4 py-2 bg-[#FAF9F6] focus:bg-surface text-text text-[15px] border border-[#A8A295] rounded-[8px] focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
           />
 
-          <div className="flex flex-wrap gap-1.5">
+          <div className="flex flex-wrap gap-2">
             {(
               [
                 { id: "all", key: "directory.pillAll" },
@@ -196,24 +199,25 @@ export default function DistrictClient({
               <button
                 key={pill.id}
                 type="button"
+                aria-pressed={roleFilter === pill.id}
                 onClick={() => setRoleFilter(pill.id)}
-                className={`px-3 py-1.5 text-[13px] font-semibold rounded-[4px] border transition-colors ${
+                className={`px-3.5 py-1.5 text-[13px] font-semibold rounded-[8px] border transition-colors ${
                   roleFilter === pill.id
-                    ? "bg-[#154273] text-white border-[#154273]"
-                    : "bg-bg text-text border-border hover:border-[#154273]"
+                    ? "bg-[#154273] text-white border-[#154273] shadow-sm"
+                    : "bg-[#FAF9F6] text-text border-border hover:border-[#154273] hover:bg-surface"
                 }`}
               >
                 {t(pill.key)}
               </button>
             ))}
           </div>
-        </div>
+        </search>
       )}
 
       {loading ? (
         <div className="py-12 text-center text-muted">{t("common.loading")}</div>
       ) : filteredOffices.length === 0 ? (
-        <div className="py-10 text-center text-muted bg-surface border border-border rounded-[6px]">
+        <div className="py-10 text-center text-muted bg-surface border border-border rounded-[12px]">
           {t("directory.noMatchingOffices")}
         </div>
       ) : (
@@ -225,13 +229,13 @@ export default function DistrictClient({
 
             return (
               <section key={lvl} aria-labelledby={`lvl-${lvl}`}>
-                <div className="flex items-baseline gap-3 border-b border-border pb-2 mb-4">
-                  <span className="font-editorial text-[16px] font-bold text-[#154273] tabular-nums">
+                <div className="flex items-center gap-3 border-b border-border pb-2.5 mb-4">
+                  <span className="px-2 py-0.5 rounded-[6px] bg-[#EBF1F6] text-[#154273] text-[13px] font-bold tabular-nums">
                     {String(sectionCounter).padStart(2, "0")}
                   </span>
                   <h2
                     id={`lvl-${lvl}`}
-                    className="text-[16px] font-bold text-text uppercase tracking-[0.06em]"
+                    className="text-[14px] font-bold text-text uppercase tracking-[0.06em]"
                   >
                     {t(`directory.level.${lvl}`)}
                   </h2>

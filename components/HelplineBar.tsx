@@ -9,21 +9,21 @@ export default function HelplineBar() {
   return (
     <aside
       aria-label="Helpline"
-      className="sticky top-0 z-50 bg-[#0F2C4C] text-white border-t-[3px] border-[#C84B16] border-b border-[#1D446E] py-2 px-4 no-print"
+      className="sticky top-0 z-50 bg-[#0F2C4C] text-white border-t-[3px] border-[#C84B16] border-b border-[#1D446E] py-2 px-4 no-print shadow-[0_2px_8px_rgba(15,44,76,0.18)]"
     >
       <div className="max-w-[1120px] mx-auto flex items-center justify-between gap-3 text-[13px] sm:text-[14px]">
         <div className="flex items-center gap-2 min-w-0">
           <span
             aria-hidden="true"
-            className="inline-block w-2 h-2 rounded-full bg-[#E66A36] flex-shrink-0"
+            className="inline-block w-2 h-2 rounded-full bg-[#F39C72] flex-shrink-0"
           />
-          <span className="font-medium tracking-wide text-[#EEF3F8] leading-snug tabular-nums">
+          <span className="font-medium tracking-[0.01em] text-[#EEF3F8] leading-snug tabular-nums text-[12.5px] sm:text-[14px]">
             {t("helpline.bar")}
           </span>
         </div>
         <a
           href="tel:1076"
-          className="inline-flex items-center justify-center gap-1.5 bg-[#C84B16] hover:bg-[#AD3E0F] text-white font-semibold px-3 py-1 rounded-[4px] text-[13px] transition-colors tabular-nums whitespace-nowrap flex-shrink-0 focus-visible:outline-white"
+          className="inline-flex items-center justify-center gap-1.5 bg-[#C84B16] hover:bg-[#AD3E0F] active:scale-[0.98] text-white font-semibold px-3.5 py-1.5 rounded-[8px] text-[13px] transition-all tabular-nums whitespace-nowrap flex-shrink-0 focus-visible:outline-white shadow-sm"
         >
           <svg
             aria-hidden="true"

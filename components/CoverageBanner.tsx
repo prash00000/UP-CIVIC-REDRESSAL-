@@ -8,12 +8,11 @@ export default function CoverageBanner() {
   const t = useT();
 
   return (
-    <div role="alert" className="mb-6">
+    <div role="alert" className="mb-4">
       <Banner
         status="warning"
         container="card"
         title={t("results.coverageGap")}
-        description={t("home.sub")}
       />
     </div>
   );

@@ -35,15 +35,16 @@ const config: Config = {
           "sans-serif",
         ],
         serif: [
-          '"Source Serif 4"',
-          '"Noto Serif Devanagari"',
-          "Georgia",
-          "serif",
+          "Inter",
+          '"Noto Sans Devanagari"',
+          "system-ui",
+          "-apple-system",
+          "sans-serif",
         ],
       },
       borderRadius: {
-        card: "6px",
-        btn: "4px",
+        card: "12px",
+        btn: "8px",
       },
       maxWidth: {
         content: "1120px",

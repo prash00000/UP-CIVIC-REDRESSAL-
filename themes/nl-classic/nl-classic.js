@@ -72,32 +72,32 @@ export const nlClassicTheme = {
     "--text-display-3-weight": "var(--font-weight-normal)",
     "--text-display-3-leading": "1.2121",
     "--radius-none": "0px",
-    "--radius-inner": "2px",
-    "--radius-element": "4px",
-    "--radius-container": "6px",
-    "--radius-page": "14px",
+    "--radius-inner": "3px",
+    "--radius-element": "6px",
+    "--radius-container": "9px",
+    "--radius-page": "21px",
     "--radius-full": "9999px",
-    "--duration-fast-min": "90ms",
-    "--duration-fast": "120ms",
-    "--duration-fast-max": "160ms",
+    "--duration-fast-min": "105ms",
+    "--duration-fast": "140ms",
+    "--duration-fast-max": "185ms",
     "--duration-medium-min": "180ms",
     "--duration-medium": "240ms",
     "--duration-medium-max": "320ms",
-    "--duration-slow-min": "375ms",
-    "--duration-slow": "500ms",
-    "--duration-slow-max": "665ms",
-    "--_astryx-pre-tempo-duration-fast-min": "90ms",
-    "--_astryx-pre-tempo-duration-fast": "120ms",
-    "--_astryx-pre-tempo-duration-fast-max": "160ms",
+    "--duration-slow-min": "360ms",
+    "--duration-slow": "480ms",
+    "--duration-slow-max": "640ms",
+    "--_astryx-pre-tempo-duration-fast-min": "105ms",
+    "--_astryx-pre-tempo-duration-fast": "140ms",
+    "--_astryx-pre-tempo-duration-fast-max": "185ms",
     "--_astryx-pre-tempo-duration-medium-min": "180ms",
     "--_astryx-pre-tempo-duration-medium": "240ms",
     "--_astryx-pre-tempo-duration-medium-max": "320ms",
-    "--_astryx-pre-tempo-duration-slow-min": "375ms",
-    "--_astryx-pre-tempo-duration-slow": "500ms",
-    "--_astryx-pre-tempo-duration-slow-max": "665ms",
+    "--_astryx-pre-tempo-duration-slow-min": "360ms",
+    "--_astryx-pre-tempo-duration-slow": "480ms",
+    "--_astryx-pre-tempo-duration-slow-max": "640ms",
     "--_astryx-motion-tempo": "1",
     "--font-family-body": "Inter, \"Noto Sans Devanagari\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
-    "--font-family-heading": "\"Source Serif 4\", \"Noto Serif Devanagari\", Georgia, \"Times New Roman\", serif",
+    "--font-family-heading": "Inter, \"Noto Sans Devanagari\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
     "--font-family-code": "ui-monospace, \"SF Mono\", Monaco, Consolas, monospace",
     "--color-background-body": "light-dark(#f7f6f2, #151007)",
     "--color-background-surface": "light-dark(#ffffff, #211b0e)",
@@ -172,9 +172,9 @@ export const nlClassicTheme = {
     "--color-skeleton": "light-dark(#d8d4ca, #4f4630)",
     "--color-shadow": "light-dark(#161b2214, #0000004d)",
     "--color-tint-hover": "light-dark(#154273, #f6f0e2)",
-    "--shadow-low": "0 1px 2px rgba(22, 27, 34, 0.05)",
-    "--shadow-med": "0 2px 6px rgba(22, 27, 34, 0.08)",
-    "--shadow-high": "0 6px 16px rgba(22, 27, 34, 0.12)",
+    "--shadow-low": "0 1px 3px rgba(22, 27, 34, 0.05), 0 1px 2px rgba(22, 27, 34, 0.03)",
+    "--shadow-med": "0 4px 12px rgba(22, 27, 34, 0.08), 0 1px 3px rgba(22, 27, 34, 0.04)",
+    "--shadow-high": "0 10px 28px rgba(22, 27, 34, 0.12)",
     "--shadow-inset-hover": "inset 0 0 0 1.5px #15427355",
     "--shadow-inset-selected": "inset 0 0 0 2px #154273",
     "--shadow-inset-success": "inset 0 0 0 2px #245937",
@@ -279,7 +279,7 @@ export const nlClassicTheme = {
     },
     "button": {
       "base": {
-        "borderRadius": "var(--radius-element)",
+        "borderRadius": "8px",
         "fontWeight": "600",
         "letterSpacing": "0.01em"
       },
@@ -293,12 +293,12 @@ export const nlClassicTheme = {
     },
     "card": {
       "base": {
-        "borderRadius": "var(--radius-container)"
+        "borderRadius": "12px"
       }
     },
     "badge": {
       "base": {
-        "borderRadius": "var(--radius-inner)"
+        "borderRadius": "6px"
       },
       "variant:success": {
         "backgroundColor": "var(--color-background-green)",
@@ -364,8 +364,8 @@ export const nlClassicTheme = {
         "fallbacks": "\"Noto Sans Devanagari\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
       },
       "heading": {
-        "family": "Source Serif 4",
-        "fallbacks": "\"Noto Serif Devanagari\", Georgia, \"Times New Roman\", serif",
+        "family": "Inter",
+        "fallbacks": "\"Noto Sans Devanagari\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
         "weights": {
           "1": "bold",
           "2": "semibold",
@@ -379,13 +379,13 @@ export const nlClassicTheme = {
       }
     },
     "radius": {
-      "base": 4,
+      "base": 6,
       "multiplier": 0.5
     },
     "motion": {
-      "fast": 120,
+      "fast": 140,
       "medium": 240,
-      "slow": 500,
+      "slow": 480,
       "ratio": 0.75
     }
   },

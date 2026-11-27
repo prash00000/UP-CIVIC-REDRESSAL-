@@ -282,27 +282,28 @@ function LetterContent() {
     <div className="max-w-[840px] mx-auto space-y-8">
       {/* Page Title */}
       <div className="no-print space-y-2 border-b border-border pb-5">
-        <h1 className="font-editorial text-[30px] sm:text-[36px] font-bold text-text">
+        <h1 className="page-title text-text">
           {t("letter.title")}
         </h1>
-        <p className="text-[16px] text-muted leading-relaxed">
+        <p className="text-[16px] text-muted leading-relaxed max-w-[65ch]">
           {t("letter.subtitle")}
         </p>
       </div>
 
       {/* FORM INPUTS */}
       <section aria-label="Letter Form" className="no-print space-y-5">
-        {/* Built-in Quick PIN + Area Picker */}
-        <div className="p-4 rounded-[6px] bg-surface border border-border space-y-3 overflow-visible">
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 items-end">
+        {/* Built-in Quick PIN + Area Picker (top-aligned baselines) */}
+        <div className="p-4 sm:p-5 rounded-[12px] bg-surface border border-border shadow-[0_1px_3px_rgba(22,27,34,0.04)] space-y-3 overflow-visible">
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 items-start">
             <div>
-              <label htmlFor="letter-pin-input" className="block text-[13px] font-bold uppercase tracking-[0.06em] text-muted mb-2">
+              <label htmlFor="letter-pin-input" className="block text-[12px] font-bold uppercase tracking-[0.06em] text-muted mb-1.5">
                 {t("letter.pinQuickLookup")}
               </label>
               <input
                 id="letter-pin-input"
                 type="text"
                 inputMode="numeric"
+                autoComplete="postal-code"
                 maxLength={6}
                 value={pinInput}
                 onFocus={ensurePincodesLoaded}
@@ -313,7 +314,7 @@ function LetterContent() {
                   setPinInput(clean);
                 }}
                 placeholder="226001"
-                className="w-full min-h-btn px-3.5 py-2.5 bg-bg text-text text-[16px] tabular-nums border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none"
+                className="w-full min-h-[46px] px-3.5 py-2.5 bg-[#FAF9F6] focus:bg-surface text-text text-[16px] tabular-nums border border-[#A8A295] rounded-[8px] focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
               />
             </div>
 
@@ -371,80 +372,83 @@ function LetterContent() {
           )}
         </div>
 
-        <Card padding={5} variant="default" elevation="none">
+        <Card padding={5} variant="default" elevation="low">
           <div className="space-y-4">
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div>
-                <label className="block text-label font-semibold text-text mb-1">
+                <label className="block text-[13px] font-semibold text-text mb-1.5">
                   {t("letter.applicantName")} *
                 </label>
                 <input
                   type="text"
+                  autoComplete="name"
                   value={applicantName}
                   onChange={(e) => setApplicantName(e.target.value)}
                   placeholder="e.g. Ram Prasad"
-                  className="w-full min-h-btn px-4 py-2 border border-borderStrong rounded-btn bg-bg focus:border-[#154273] focus-visible:outline-none"
+                  className="w-full min-h-[46px] px-3.5 py-2 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
                 />
               </div>
               <div>
-                <label className="block text-label font-semibold text-text mb-1">
+                <label className="block text-[13px] font-semibold text-text mb-1.5">
                   {t("letter.mobile")} *
                 </label>
                 <input
                   type="tel"
+                  inputMode="tel"
+                  autoComplete="tel"
                   value={mobile}
                   onChange={(e) => setMobile(e.target.value)}
                   placeholder="e.g. 9876543210"
-                  className="w-full min-h-btn px-4 py-2 border border-borderStrong rounded-btn bg-bg focus:border-[#154273] focus-visible:outline-none"
+                  className="w-full min-h-[46px] px-3.5 py-2 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface tabular-nums focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
                 />
               </div>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
               <div>
-                <label className="block text-label font-semibold text-text mb-1">
+                <label className="block text-[13px] font-semibold text-text mb-1.5">
                   {t("letter.villageOrWard")} *
                 </label>
                 <input
                   type="text"
                   value={villageOrWard}
                   onChange={(e) => setVillageOrWard(e.target.value)}
-                  className="w-full min-h-btn px-4 py-2 border border-borderStrong rounded-btn bg-bg focus:border-[#154273] focus-visible:outline-none"
+                  className="w-full min-h-[46px] px-3.5 py-2 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
                 />
               </div>
               <div>
-                <label className="block text-label font-semibold text-text mb-1">
+                <label className="block text-[13px] font-semibold text-text mb-1.5">
                   {t("letter.blockOrTehsil")} *
                 </label>
                 <input
                   type="text"
                   value={blockOrTehsil}
                   onChange={(e) => setBlockOrTehsil(e.target.value)}
-                  className="w-full min-h-btn px-4 py-2 border border-borderStrong rounded-btn bg-bg focus:border-[#154273] focus-visible:outline-none"
+                  className="w-full min-h-[46px] px-3.5 py-2 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
                 />
               </div>
               <div>
-                <label className="block text-label font-semibold text-text mb-1">
+                <label className="block text-[13px] font-semibold text-text mb-1.5">
                   {t("letter.district")} *
                 </label>
                 <input
                   type="text"
                   value={district}
                   onChange={(e) => setDistrict(e.target.value)}
-                  className="w-full min-h-btn px-4 py-2 border border-borderStrong rounded-btn bg-bg focus:border-[#154273] focus-visible:outline-none"
+                  className="w-full min-h-[46px] px-3.5 py-2 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
                 />
               </div>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div>
-                <label className="block text-label font-semibold text-text mb-1">
+                <label className="block text-[13px] font-semibold text-text mb-1.5">
                   {t("letter.issue")}
                 </label>
                 <select
                   value={issue}
                   onChange={(e) => setIssue(e.target.value as IssueSlug)}
-                  className="w-full min-h-btn px-4 py-2 border border-borderStrong rounded-btn bg-bg focus:border-[#154273] focus-visible:outline-none"
+                  className="civic-select w-full min-h-[46px] px-3.5 py-2 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
                 >
                   {ISSUES_LIST.map((it) => (
                     <option key={it.slug} value={it.slug}>
@@ -454,7 +458,7 @@ function LetterContent() {
                 </select>
               </div>
               <div>
-                <label className="block text-label font-semibold text-text mb-1">
+                <label className="block text-[13px] font-semibold text-text mb-1.5">
                   {t("letter.addressedTo")}
                 </label>
                 {districtData?.offices ? (
@@ -464,7 +468,7 @@ function LetterContent() {
                       setManualOfficerEdit(true);
                       setAddressedTo(e.target.value);
                     }}
-                    className="w-full min-h-btn px-4 py-2 border border-borderStrong rounded-btn bg-bg focus:border-[#154273] focus-visible:outline-none"
+                    className="civic-select w-full min-h-[46px] px-3.5 py-2 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
                   >
                     {addressedTo &&
                       !districtData.offices.some(
@@ -488,7 +492,7 @@ function LetterContent() {
                       setAddressedTo(e.target.value);
                     }}
                     placeholder="e.g. Block Development Officer"
-                    className="w-full min-h-btn px-4 py-2 border border-borderStrong rounded-btn bg-bg focus:border-[#154273] focus-visible:outline-none"
+                    className="w-full min-h-[46px] px-3.5 py-2 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
                   />
                 )}
               </div>
@@ -496,30 +500,30 @@ function LetterContent() {
 
             {/* Optional Escalation CC Checkboxes */}
             {ccCandidates.length > 0 && (
-              <div>
-                <span className="block text-label font-semibold text-text mb-1.5">
+              <div className="pt-1">
+                <span className="block text-[13px] font-semibold text-text mb-2">
                   {t("letter.ccLabel")}
                 </span>
-                <div className="flex flex-wrap gap-2">
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
                   {ccCandidates.map((off) => {
                     const checked = selectedCcIds.includes(off.id);
                     const offName = getLocalized(off, "office_name", lang);
                     return (
                       <label
                         key={off.id}
-                        className={`inline-flex items-center gap-2 px-3 py-1.5 rounded-[4px] border text-[13px] font-medium cursor-pointer transition-colors ${
+                        className={`flex items-center gap-2.5 px-3.5 py-2.5 rounded-[8px] border text-[13.5px] font-medium cursor-pointer transition-colors ${
                           checked
                             ? "bg-[#EBF1F6] border-[#154273] text-[#154273]"
-                            : "bg-bg border-border text-text hover:border-[#154273]"
+                            : "bg-[#FAF9F6] border-border text-text hover:border-[#154273]"
                         }`}
                       >
                         <input
                           type="checkbox"
                           checked={checked}
                           onChange={() => toggleCc(off.id)}
-                          className="accent-[#154273]"
+                          className="accent-[#154273] w-4 h-4 flex-shrink-0"
                         />
-                        <span>{offName}</span>
+                        <span className="leading-snug">{offName}</span>
                       </label>
                     );
                   })}
@@ -528,7 +532,7 @@ function LetterContent() {
             )}
 
             <div>
-              <label className="block text-label font-semibold text-text mb-1">
+              <label className="block text-[13px] font-semibold text-text mb-1.5">
                 {t("letter.locationDetails")}
               </label>
               <input
@@ -536,24 +540,24 @@ function LetterContent() {
                 value={locationDetails}
                 onChange={(e) => setLocationDetails(e.target.value)}
                 placeholder="e.g. Near Primary School, Pole No. 4"
-                className="w-full min-h-btn px-4 py-2 border border-borderStrong rounded-btn bg-bg focus:border-[#154273] focus-visible:outline-none"
+                className="w-full min-h-[46px] px-3.5 py-2 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
               />
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div>
-                <label className="block text-label font-semibold text-text mb-1">
+                <label className="block text-[13px] font-semibold text-text mb-1.5">
                   {t("letter.dateFirstNoticed")}
                 </label>
                 <input
                   type="date"
                   value={dateFirstNoticed}
                   onChange={(e) => setDateFirstNoticed(e.target.value)}
-                  className="w-full min-h-btn px-4 py-2 border border-borderStrong rounded-btn bg-bg focus:border-[#154273] focus-visible:outline-none"
+                  className="w-full min-h-[46px] px-3.5 py-2 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
                 />
               </div>
               <div>
-                <label className="block text-label font-semibold text-text mb-1">
+                <label className="block text-[13px] font-semibold text-text mb-1.5">
                   {t("letter.earlierComplaint")}
                 </label>
                 <input
@@ -561,7 +565,7 @@ function LetterContent() {
                   value={earlierComplaint}
                   onChange={(e) => setEarlierComplaint(e.target.value)}
                   placeholder="e.g. IGRS #1076-2026-X"
-                  className="w-full min-h-btn px-4 py-2 border border-borderStrong rounded-btn bg-bg focus:border-[#154273] focus-visible:outline-none"
+                  className="w-full min-h-[46px] px-3.5 py-2 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
                 />
               </div>
             </div>

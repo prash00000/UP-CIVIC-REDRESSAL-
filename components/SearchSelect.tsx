@@ -28,6 +28,7 @@ export default function SearchSelect({
   autoFocus = false,
 }: SearchSelectProps) {
   const t = useT();
+  const inputId = useId();
   const listboxId = useId();
   const [query, setQuery] = useState("");
   const [isOpen, setIsOpen] = useState(false);
@@ -109,11 +110,15 @@ export default function SearchSelect({
 
   return (
     <div ref={containerRef} className={`relative w-full scroll-mt-24 ${isOpen ? "z-[70]" : "z-10"}`}>
-      <label className="block text-[13px] font-bold uppercase tracking-[0.06em] text-muted mb-2">
+      <label
+        htmlFor={inputId}
+        className="block text-[12px] font-bold uppercase tracking-[0.06em] text-muted mb-1.5"
+      >
         {label}
       </label>
       <div className="relative">
         <input
+          id={inputId}
           ref={inputRef}
           type="text"
           role="combobox"
@@ -121,6 +126,10 @@ export default function SearchSelect({
           aria-controls={listboxId}
           aria-autocomplete="list"
           autoFocus={autoFocus}
+          autoCorrect="off"
+          autoCapitalize="none"
+          spellCheck={false}
+          enterKeyHint="search"
           placeholder={placeholder || t("flow.searchPlaceholder")}
           value={query}
           onChange={(e) => {
@@ -130,9 +139,9 @@ export default function SearchSelect({
           }}
           onFocus={() => setIsOpen(true)}
           onKeyDown={handleKeyDown}
-          className="w-full min-h-btn px-4 py-2.5 pr-16 bg-surface text-text text-[16px] border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/30 transition-colors"
+          className="w-full min-h-[46px] px-3.5 py-2.5 pr-16 bg-surface text-text text-[16px] border border-[#A8A295] rounded-[8px] shadow-[0_1px_2px_rgba(22,27,34,0.03)] focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
         />
-        <div className="absolute right-3 top-1/2 -translate-y-1/2 flex items-center gap-1.5">
+        <div className="absolute right-2.5 top-1/2 -translate-y-1/2 flex items-center gap-1">
           {query && (
             <button
               type="button"
@@ -143,12 +152,12 @@ export default function SearchSelect({
                 setHighlightedIndex(0);
                 inputRef.current?.focus();
               }}
-              className="text-muted hover:text-text px-1.5 py-0.5 text-[14px]"
+              className="w-6 h-6 rounded-full inline-flex items-center justify-center text-muted hover:text-text hover:bg-mutedSurface text-[12px] transition-colors"
             >
               ✕
             </button>
           )}
-          <div className="text-muted pointer-events-none">
+          <div className="text-muted pointer-events-none px-1">
             <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
               <circle cx="11" cy="11" r="8" />
               <line x1="21" y1="21" x2="16.65" y2="16.65" />
@@ -161,15 +170,15 @@ export default function SearchSelect({
         <ul
           id={listboxId}
           role="listbox"
-          className="absolute z-[75] w-full mt-1 bg-surface border border-borderStrong rounded-[4px] shadow-lg max-h-60 overflow-y-auto divide-y divide-border"
+          className="absolute z-[75] w-full mt-1.5 bg-surface border border-[#A8A295] rounded-[10px] shadow-[0_12px_28px_rgba(22,27,34,0.14)] max-h-64 overflow-y-auto divide-y divide-border"
         >
           {options.length > filtered.length && (
-            <li className="px-3.5 py-1.5 text-[12px] text-muted bg-bg tabular-nums">
+            <li className="px-3.5 py-1.5 text-[12px] font-medium text-muted bg-[#F6F5F0] tabular-nums">
               {t("flow.showingTop", { shown: filtered.length, total: options.length })}
             </li>
           )}
           {filtered.length === 0 ? (
-            <li className="p-3.5 text-[15px] text-muted text-center">
+            <li className="p-4 text-[15px] text-muted text-center">
               {t("flow.noMatch")}
             </li>
           ) : (
@@ -188,13 +197,20 @@ export default function SearchSelect({
                     setIsOpen(false);
                   }}
                   onMouseEnter={() => setHighlightedIndex(idx)}
-                  className={`px-4 py-2.5 cursor-pointer text-left transition-colors ${
-                    isHighlighted ? "bg-[#EBF1F6] text-[#154273] font-medium" : "text-text"
-                  } ${isSelected ? "border-l-4 border-[#154273] pl-3 bg-[#EBF1F6]/60" : ""}`}
+                  className={`px-3.5 py-2.5 cursor-pointer text-left transition-colors flex items-center justify-between gap-2 ${
+                    isHighlighted ? "bg-[#EBF1F6] text-[#154273]" : "text-text"
+                  } ${isSelected ? "border-l-[3px] border-[#154273] bg-[#EBF1F6]/65" : ""}`}
                 >
-                  <div className="text-[16px] font-medium leading-snug">{item.label}</div>
-                  {item.sublabel && (
-                    <div className="text-[13px] text-muted leading-tight mt-0.5">{item.sublabel}</div>
+                  <div className="min-w-0">
+                    <div className="text-[15px] font-semibold leading-snug truncate">{item.label}</div>
+                    {item.sublabel && (
+                      <div className="text-[13px] text-muted leading-tight mt-0.5 truncate">{item.sublabel}</div>
+                    )}
+                  </div>
+                  {isSelected && (
+                    <span className="text-[#154273] font-bold text-[13px] flex-shrink-0" aria-hidden="true">
+                      ✓
+                    </span>
                   )}
                 </li>
               );

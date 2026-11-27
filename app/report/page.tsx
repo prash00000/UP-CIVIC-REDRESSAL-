@@ -78,8 +78,8 @@ function ReportContent() {
 
   return (
     <div className="max-w-form mx-auto space-y-6">
-      <div className="border-b border-border pb-4 space-y-1">
-        <h1 className="font-editorial text-[30px] sm:text-[36px] font-bold text-text">
+      <div className="border-b border-border pb-4 space-y-1.5">
+        <h1 className="page-title text-text">
           {t("report.title")}
         </h1>
         <p className="text-[16px] text-muted leading-relaxed">
@@ -87,14 +87,14 @@ function ReportContent() {
         </p>
       </div>
 
-      <Card padding={5} variant="default" elevation="none">
+      <Card padding={5} variant="default" elevation="low">
         <form onSubmit={handleSubmit} className="space-y-4">
           {errorMsg && (
             <Banner status="error" container="card" title={errorMsg} />
           )}
 
           <div>
-            <label className="block text-[13px] font-bold uppercase tracking-[0.06em] text-muted mb-1.5">
+            <label className="block text-[12px] font-bold uppercase tracking-[0.06em] text-muted mb-1.5">
               {t("report.officeLabel")}
             </label>
             <input
@@ -102,18 +102,18 @@ function ReportContent() {
               value={officeId}
               onChange={(e) => setOfficeId(e.target.value)}
               placeholder="e.g. Office ID or designation"
-              className="w-full min-h-btn px-4 py-2 border border-borderStrong rounded-[4px] bg-bg focus:border-[#154273] focus-visible:outline-none"
+              className="w-full min-h-[46px] px-3.5 py-2 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
             />
           </div>
 
           <div>
-            <label className="block text-[13px] font-bold uppercase tracking-[0.06em] text-muted mb-1.5">
+            <label className="block text-[12px] font-bold uppercase tracking-[0.06em] text-muted mb-1.5">
               {t("report.reasonLabel")} *
             </label>
             <select
               value={reason}
               onChange={(e) => setReason(e.target.value as any)}
-              className="w-full min-h-btn px-4 py-2 border border-borderStrong rounded-[4px] bg-bg focus:border-[#154273] focus-visible:outline-none"
+              className="civic-select w-full min-h-[46px] px-3.5 py-2 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
             >
               <option value="not_working">{t("report.reasonNotWorking")}</option>
               <option value="wrong_person">{t("report.reasonWrongPerson")}</option>
@@ -123,7 +123,7 @@ function ReportContent() {
           </div>
 
           <div>
-            <label className="block text-[13px] font-bold uppercase tracking-[0.06em] text-muted mb-1.5">
+            <label className="block text-[12px] font-bold uppercase tracking-[0.06em] text-muted mb-1.5">
               {t("report.detailsLabel")}
             </label>
             <textarea
@@ -132,7 +132,7 @@ function ReportContent() {
               value={details}
               onChange={(e) => setDetails(e.target.value)}
               placeholder="Describe what happened when you tried calling..."
-              className="w-full p-4 border border-borderStrong rounded-[4px] bg-bg focus:border-[#154273] focus-visible:outline-none text-[15px]"
+              className="w-full p-4 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 text-[15px] transition-colors"
             />
           </div>
 
@@ -142,14 +142,14 @@ function ReportContent() {
                 type="checkbox"
                 checked={showContactField}
                 onChange={(e) => setShowContactField(e.target.checked)}
-                className="w-4 h-4 rounded text-[#154273] focus:ring-[#154273]"
+                className="w-4 h-4 accent-[#154273] rounded"
               />
               <span>Add optional contact for follow-up (optional)</span>
             </label>
 
             {showContactField && (
               <div className="mt-3">
-                <label className="block text-[13px] font-bold uppercase tracking-[0.06em] text-muted mb-1.5">
+                <label className="block text-[12px] font-bold uppercase tracking-[0.06em] text-muted mb-1.5">
                   {t("report.contactLabel")}
                 </label>
                 <input
@@ -158,7 +158,7 @@ function ReportContent() {
                   value={contact}
                   onChange={(e) => setContact(e.target.value)}
                   placeholder="Email or phone number"
-                  className="w-full min-h-btn px-4 py-2 border border-borderStrong rounded-[4px] bg-bg focus:border-[#154273] focus-visible:outline-none"
+                  className="w-full min-h-[46px] px-3.5 py-2 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
                 />
               </div>
             )}

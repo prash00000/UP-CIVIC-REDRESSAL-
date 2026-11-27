@@ -5,16 +5,12 @@ const {blue, green, neutral, orange, red, yellow} = palette;
 const withAlpha = (color: string, alpha: string): string => `${color}${alpha}`;
 
 /**
- * Modern Classic Netherlands Civic Theme (`nl-classic`)
+ * Refined Netherlands Civic Theme (`nl-classic`)
  *
- * Inspired by Dutch public-sector design systems (Rijksoverheid / NL Design System)
- * and contemporary Dutch editorial modernism:
- * - Warm archival parchment ground (#F7F6F2)
- * - Porcelain white document cards with 1px warm stone borders (#D8D4CA)
- * - Rijksoverheid Delft Civic Navy (#154273) primary accent
- * - Restrained Dutch Terracotta (#C84B16) signal markers
- * - Editorial Source Serif 4 + Noto Serif Devanagari headings paired with
- *   Inter + Noto Sans Devanagari body and tabular numerals
+ * Crisp geometric sans typography (`Inter` + `Noto Sans Devanagari`) across all
+ * headings and UI copy for clean scanability in both Latin and Devanagari scripts,
+ * smooth `8px` / `12px` surface geometry, Delft Civic Navy (#154273), and Dutch
+ * Terracotta (#C84B16) signal hierarchy.
  */
 export const nlClassicTheme = defineTheme({
   name: 'nl-classic',
@@ -27,8 +23,9 @@ export const nlClassicTheme = defineTheme({
         '"Noto Sans Devanagari", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif',
     },
     heading: {
-      family: 'Source Serif 4',
-      fallbacks: '"Noto Serif Devanagari", Georgia, "Times New Roman", serif',
+      family: 'Inter',
+      fallbacks:
+        '"Noto Sans Devanagari", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif',
       weights: {1: 'bold', 2: 'semibold', 3: 'semibold', 4: 'semibold'},
     },
     code: {
@@ -37,8 +34,8 @@ export const nlClassicTheme = defineTheme({
     },
   },
 
-  radius: {base: 4, multiplier: 0.5},
-  motion: {fast: 120, medium: 240, slow: 500, ratio: 0.75},
+  radius: {base: 6, multiplier: 0.5},
+  motion: {fast: 140, medium: 240, slow: 480, ratio: 0.75},
 
   tokens: {
     '--color-background-body': [neutral.light[95], neutral.dark[5]],
@@ -146,9 +143,9 @@ export const nlClassicTheme = defineTheme({
     ],
     '--color-tint-hover': [blue.light[30], neutral.dark[95]],
 
-    '--shadow-low': '0 1px 2px rgba(22, 27, 34, 0.05)',
-    '--shadow-med': '0 2px 6px rgba(22, 27, 34, 0.08)',
-    '--shadow-high': '0 6px 16px rgba(22, 27, 34, 0.12)',
+    '--shadow-low': '0 1px 3px rgba(22, 27, 34, 0.05), 0 1px 2px rgba(22, 27, 34, 0.03)',
+    '--shadow-med': '0 4px 12px rgba(22, 27, 34, 0.08), 0 1px 3px rgba(22, 27, 34, 0.04)',
+    '--shadow-high': '0 10px 28px rgba(22, 27, 34, 0.12)',
     '--shadow-inset-hover': `inset 0 0 0 1.5px ${withAlpha(blue.light[30], '55')}`,
     '--shadow-inset-selected': `inset 0 0 0 2px ${blue.light[30]}`,
     '--shadow-inset-success': `inset 0 0 0 2px ${green.light[35]}`,
@@ -159,7 +156,7 @@ export const nlClassicTheme = defineTheme({
   components: {
     button: {
       base: {
-        borderRadius: 'var(--radius-element)',
+        borderRadius: '8px',
         fontWeight: '600',
         letterSpacing: '0.01em',
       },
@@ -173,12 +170,12 @@ export const nlClassicTheme = defineTheme({
     },
     card: {
       base: {
-        borderRadius: 'var(--radius-container)',
+        borderRadius: '12px',
       },
     },
     badge: {
       base: {
-        borderRadius: 'var(--radius-inner)',
+        borderRadius: '6px',
       },
       'variant:success': {
         backgroundColor: 'var(--color-background-green)',

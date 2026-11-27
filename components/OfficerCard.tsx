@@ -3,6 +3,7 @@
 import React from "react";
 import Link from "next/link";
 import { Card } from "@astryxdesign/core/Card";
+import { Badge } from "@astryxdesign/core/Badge";
 import { Heading } from "@astryxdesign/core/Heading";
 import { Text } from "@astryxdesign/core/Text";
 import { Banner } from "@astryxdesign/core/Banner";
@@ -29,29 +30,45 @@ export default function OfficerCard({ item }: OfficerCardProps) {
 
   const phone = office.phones && office.phones.length > 0 ? office.phones[0] : null;
   const extraPhones = office.phones && office.phones.length > 1 ? office.phones.slice(1) : [];
+  const hasCallablePhone = Boolean(phone && phone.status !== "failed");
 
   return (
-    <article className="mb-4">
-      <Card padding={4} variant="default" elevation="none">
+    <article className="mb-4 relative rounded-[12px] overflow-hidden">
+      {hasCallablePhone && (
+        <div
+          aria-hidden="true"
+          className="pointer-events-none absolute left-0 top-0 bottom-0 w-1 bg-[#154273] z-10"
+        />
+      )}
+      <Card
+        padding={4}
+        variant={hasCallablePhone ? "default" : "muted"}
+        elevation={hasCallablePhone ? "low" : "none"}
+      >
         <div className="space-y-3">
-          {/* Top Eyebrow Metadata & Verification Badge */}
-          <div className="flex flex-wrap items-center justify-between gap-2.5">
-            <span className="text-[12px] font-bold uppercase tracking-[0.08em] text-[#154273]">
-              {roleTitle}
-            </span>
-            {phone && <VerifiedBadge phone={phone} />}
+          {/* Top Role Badge & Verification Status */}
+          <div className="flex flex-wrap items-center justify-between gap-2">
+            <Badge
+              variant={hasCallablePhone ? "info" : "neutral"}
+              label={roleTitle}
+            />
+            {phone ? (
+              <VerifiedBadge phone={phone} />
+            ) : (
+              <Badge variant="neutral" label={t("results.numberNotAvailable")} />
+            )}
           </div>
 
-          {/* Office & Officer Name */}
+          {/* Office & Officer Name (explicit block display so officer name & address never collide) */}
           <div className="space-y-1">
             <Heading level={3}>{officeName}</Heading>
             {officerName && (
-              <Text as="p" type="body" weight="medium">
+              <Text as="p" display="block" type="body" weight="medium">
                 {officerName}
               </Text>
             )}
             {address && (
-              <Text as="p" type="supporting" color="secondary">
+              <Text as="p" display="block" type="supporting" color="secondary">
                 {address}
               </Text>
             )}
@@ -80,7 +97,7 @@ export default function OfficerCard({ item }: OfficerCardProps) {
 
           <Divider />
 
-          {/* Secondary Contact Metadata: Extra Phones, Email, Official Portal */}
+          {/* Secondary Contact Metadata */}
           {(extraPhones.length > 0 || office.email || office.source_url) && (
             <div className="flex flex-wrap items-center gap-x-4 gap-y-1.5 text-[13px] text-muted">
               {extraPhones.map((ep) => (
@@ -114,21 +131,21 @@ export default function OfficerCard({ item }: OfficerCardProps) {
           )}
 
           {/* Action / Call Row */}
-          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pt-1">
-            {phone && phone.status !== "failed" ? (
-              <div className="flex flex-col sm:flex-row sm:items-center gap-3">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pt-0.5">
+            {hasCallablePhone && phone ? (
+              <div className="flex flex-wrap items-center gap-3">
                 <CallButton number={phone.number} />
                 <FeedbackButtons officeId={office.id} />
               </div>
             ) : (
-              <Text type="body" color="secondary">
+              <Text as="p" display="block" type="supporting" color="secondary">
                 {t("results.numberNotAvailable")}
               </Text>
             )}
 
             <Link
               href={`/report/?office=${encodeURIComponent(office.id)}`}
-              className="text-[14px] font-medium text-muted hover:text-danger transition-colors underline-offset-4 hover:underline"
+              className="text-[13px] font-medium text-muted hover:text-danger transition-colors underline-offset-4 hover:underline self-start sm:self-center"
             >
               {t("results.reportError")}
             </Link>

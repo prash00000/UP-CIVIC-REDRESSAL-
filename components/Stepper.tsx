@@ -3,6 +3,7 @@
 import React from "react";
 import { Button } from "@astryxdesign/core/Button";
 import { Badge } from "@astryxdesign/core/Badge";
+import { Stepper as AstryxStepper, Step } from "@astryxdesign/core/Stepper";
 import { useT } from "@/lib/i18n";
 
 interface StepperProps {
@@ -23,16 +24,18 @@ export default function Stepper({
   labels,
 }: StepperProps) {
   const t = useT();
-  const pct = Math.min(100, Math.round((currentStep / totalSteps) * 100));
 
   const milestones = [
-    { step: 1, label: labels?.[0] || t("find.wizardStep1") },
-    { step: 2, label: labels?.[1] || t("find.wizardStep2") },
-    { step: 3, label: labels?.[2] || t("find.wizardStep3") },
+    labels?.[0] || t("find.wizardStep1"),
+    labels?.[1] || t("find.wizardStep2"),
+    labels?.[2] || t("find.wizardStep3"),
   ];
 
   return (
-    <nav aria-label="Wizard progress" className="mb-7 space-y-3 no-print">
+    <nav
+      aria-label="Wizard progress"
+      className="mb-7 space-y-4 p-4 rounded-[12px] bg-surface border border-border shadow-[0_1px_3px_rgba(22,27,34,0.04)] no-print"
+    >
       <div className="flex items-center justify-between gap-3">
         {canBack && onBack ? (
           <Button
@@ -48,7 +51,9 @@ export default function Stepper({
             }
           />
         ) : (
-          <div />
+          <span className="text-[12px] font-semibold uppercase tracking-[0.06em] text-muted">
+            {t("nav.find")}
+          </span>
         )}
 
         <div className="tabular-nums">
@@ -59,44 +64,31 @@ export default function Stepper({
         </div>
       </div>
 
-      {/* Interactive Milestone Steps */}
-      <ol className="grid grid-cols-3 gap-2 text-[12px] sm:text-[13px]">
-        {milestones.map((m) => {
-          const isCompleted = m.step < currentStep;
-          const isCurrent = m.step === currentStep;
-          const clickable = isCompleted && !!onStepClick;
-
-          return (
-            <li key={m.step}>
-              <button
-                type="button"
-                disabled={!clickable}
-                onClick={() => clickable && onStepClick?.(m.step)}
-                className={`w-full text-left pb-2 border-b-2 transition-colors flex items-center gap-1.5 ${
-                  isCurrent
-                    ? "border-[#154273] text-[#154273] font-bold"
-                    : isCompleted
-                    ? "border-[#245937] text-[#245937] font-semibold hover:opacity-80 cursor-pointer"
-                    : "border-border text-muted font-medium cursor-default"
-                }`}
-              >
-                <span className="tabular-nums">
-                  {isCompleted ? "✓" : `${m.step}.`}
-                </span>
-                <span className="truncate">{m.label}</span>
-              </button>
-            </li>
-          );
-        })}
-      </ol>
-
-      {/* Crisp architectural hairline progress rule */}
-      <div className="w-full h-[2px] bg-border overflow-hidden">
-        <div
-          className="h-full bg-[#154273] transition-all duration-200"
-          style={{ width: `${pct}%` }}
-        />
-      </div>
+      <AstryxStepper
+        activeStep={Math.max(0, currentStep - 1)}
+        indicatorPosition="on-track"
+        density="compact"
+        label={t("nav.find")}
+        horizontalOptions={{ minimumStepWidth: 96, collapsedVariant: "withLabel" }}
+        onStepClick={
+          onStepClick
+            ? (idx) => {
+                if (idx < currentStep - 1) {
+                  onStepClick(idx + 1);
+                }
+              }
+            : undefined
+        }
+      >
+        {milestones.map((label, idx) => (
+          <Step
+            key={idx}
+            step={idx}
+            label={label}
+            isDisabled={idx > currentStep - 1}
+          />
+        ))}
+      </AstryxStepper>
     </nav>
   );
 }

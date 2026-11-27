@@ -260,26 +260,27 @@ function RtiContent() {
     <div className="max-w-[840px] mx-auto space-y-8">
       {/* Page Title */}
       <div className="no-print space-y-2 border-b border-border pb-5">
-        <h1 className="font-editorial text-[30px] sm:text-[36px] font-bold text-text">
+        <h1 className="page-title text-text">
           {t("rti.title")}
         </h1>
-        <p className="text-[16px] text-muted leading-relaxed">
+        <p className="text-[16px] text-muted leading-relaxed max-w-[65ch]">
           {t("rti.subtitle")}
         </p>
       </div>
 
       {/* FORM INPUTS */}
       <section aria-label="RTI Form" className="no-print space-y-5">
-        <div className="p-4 rounded-[6px] bg-surface border border-border space-y-3 overflow-visible">
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 items-end">
+        <div className="p-4 sm:p-5 rounded-[12px] bg-surface border border-border shadow-[0_1px_3px_rgba(22,27,34,0.04)] space-y-3 overflow-visible">
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 items-start">
             <div>
-              <label htmlFor="rti-pin-input" className="block text-[13px] font-bold uppercase tracking-[0.06em] text-muted mb-2">
+              <label htmlFor="rti-pin-input" className="block text-[12px] font-bold uppercase tracking-[0.06em] text-muted mb-1.5">
                 {t("letter.pinQuickLookup")}
               </label>
               <input
                 id="rti-pin-input"
                 type="text"
                 inputMode="numeric"
+                autoComplete="postal-code"
                 maxLength={6}
                 value={pinInput}
                 onFocus={ensurePincodesLoaded}
@@ -290,7 +291,7 @@ function RtiContent() {
                   setPinInput(clean);
                 }}
                 placeholder="226001"
-                className="w-full min-h-btn px-3.5 py-2.5 bg-bg text-text text-[16px] tabular-nums border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none"
+                className="w-full min-h-[46px] px-3.5 py-2.5 bg-[#FAF9F6] focus:bg-surface text-text text-[16px] tabular-nums border border-[#A8A295] rounded-[8px] focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
               />
             </div>
 
@@ -348,23 +349,24 @@ function RtiContent() {
           )}
         </div>
 
-        <Card padding={5} variant="default" elevation="none">
+        <Card padding={5} variant="default" elevation="low">
           <div className="space-y-4">
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div>
-                <label className="block text-label font-semibold text-text mb-1">
+                <label className="block text-[13px] font-semibold text-text mb-1.5">
                   {t("rti.applicantName")} *
                 </label>
                 <input
                   type="text"
+                  autoComplete="name"
                   value={applicantName}
                   onChange={(e) => setApplicantName(e.target.value)}
                   placeholder="e.g. Ram Prasad"
-                  className="w-full min-h-btn px-4 py-2 border border-borderStrong rounded-btn bg-bg focus:border-[#154273] focus-visible:outline-none"
+                  className="w-full min-h-[46px] px-3.5 py-2 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
                 />
               </div>
               <div>
-                <label className="block text-label font-semibold text-text mb-1">
+                <label className="block text-[13px] font-semibold text-text mb-1.5">
                   {t("rti.publicAuthority")} *
                 </label>
                 <input
@@ -375,32 +377,33 @@ function RtiContent() {
                     setPublicAuthority(e.target.value);
                   }}
                   placeholder="e.g. PIO, Office of BDO"
-                  className="w-full min-h-btn px-4 py-2 border border-borderStrong rounded-btn bg-bg focus:border-[#154273] focus-visible:outline-none"
+                  className="w-full min-h-[46px] px-3.5 py-2 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
                 />
               </div>
             </div>
 
             <div>
-              <label className="block text-label font-semibold text-text mb-1">
+              <label className="block text-[13px] font-semibold text-text mb-1.5">
                 {t("rti.applicantAddress")} *
               </label>
               <input
                 type="text"
+                autoComplete="street-address"
                 value={address}
                 onChange={(e) => setAddress(e.target.value)}
                 placeholder="Complete postal address for correspondence"
-                className="w-full min-h-btn px-4 py-2 border border-borderStrong rounded-btn bg-bg focus:border-[#154273] focus-visible:outline-none"
+                className="w-full min-h-[46px] px-3.5 py-2 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
               />
             </div>
 
             <div>
-              <label className="block text-label font-semibold text-text mb-1">
+              <label className="block text-[13px] font-semibold text-text mb-1.5">
                 {t("rti.subject")}
               </label>
               <select
                 value={subjectKey}
                 onChange={(e) => setSubjectKey(e.target.value)}
-                className="w-full min-h-btn px-4 py-2 border border-borderStrong rounded-btn bg-bg focus:border-[#154273] focus-visible:outline-none"
+                className="civic-select w-full min-h-[46px] px-3.5 py-2 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
               >
                 <option value="rti.subject1">{t("rti.subject1")}</option>
                 <option value="rti.subject2">{t("rti.subject2")}</option>
@@ -409,7 +412,7 @@ function RtiContent() {
             </div>
 
             <div>
-              <label className="block text-label font-semibold text-text mb-1">
+              <label className="block text-[13px] font-semibold text-text mb-1.5">
                 {t("rti.details")}
               </label>
               <textarea
@@ -420,7 +423,7 @@ function RtiContent() {
                   setDetails(e.target.value);
                 }}
                 placeholder="Specific questions, Measurement Book (MB) pages, sanctioned estimates, or dates..."
-                className="w-full p-4 border border-borderStrong rounded-btn bg-bg focus:border-[#154273] focus-visible:outline-none text-[15px]"
+                className="w-full p-4 border border-[#A8A295] rounded-[8px] bg-[#FAF9F6] focus:bg-surface focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 text-[15px] transition-colors"
               />
             </div>
 

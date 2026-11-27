@@ -32,25 +32,32 @@ export default function DirectoryPage() {
 
   return (
     <div className="space-y-8">
-      <div className="space-y-1.5 border-b border-border pb-5">
-        <h1 className="font-editorial text-[30px] sm:text-[38px] font-bold text-text">
+      <div className="space-y-2 border-b border-border pb-5">
+        <h1 className="page-title text-text">
           {t("directory.title")}
         </h1>
-        <p className="text-[16px] text-muted leading-relaxed">
+        <p className="text-[16px] text-muted leading-relaxed max-w-[65ch]">
           {t("directory.subtitle")}
         </p>
       </div>
 
       {/* Search Input */}
-      <div className="max-w-form">
+      <search className="max-w-form">
+        <label htmlFor="directory-district-search" className="sr-only">
+          {t("directory.searchPlaceholder")}
+        </label>
         <input
-          type="text"
+          id="directory-district-search"
+          type="search"
+          autoCorrect="off"
+          autoCapitalize="none"
+          spellCheck={false}
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder={t("directory.searchPlaceholder")}
-          className="w-full min-h-btn px-4 py-2.5 text-[16px] border border-borderStrong rounded-[4px] bg-surface focus:border-[#154273] focus-visible:outline-none"
+          className="w-full min-h-[48px] px-4 py-2.5 text-[16px] border border-[#A8A295] rounded-[8px] bg-surface shadow-[0_1px_2px_rgba(22,27,34,0.03)] focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
         />
-      </div>
+      </search>
 
       {/* District Cards Grid */}
       {loading ? (
@@ -65,20 +72,20 @@ export default function DirectoryPage() {
               <Link
                 key={d.id}
                 href={`/directory/${d.id}/`}
-                className="p-5 rounded-[6px] border border-border bg-surface hover:border-[#154273] transition-colors flex flex-col justify-between group"
+                className="p-5 rounded-[12px] border border-border bg-surface civic-card-interactive flex flex-col justify-between group"
               >
                 <div>
-                  <h3 className="font-editorial font-bold text-[20px] text-text group-hover:text-[#154273] transition-colors mb-1">
+                  <h3 className="font-semibold text-[19px] text-text group-hover:text-[#154273] transition-colors mb-1">
                     {districtName}
                   </h3>
-                  <p className="text-[14px] text-muted mb-4">
+                  <p className="text-[13.5px] text-muted mb-4">
                     {t("directory.division", { division: divisionName })}
                   </p>
                 </div>
 
                 <div className="pt-3 border-t border-border flex items-center justify-between gap-2">
                   <CoverageBadge coverage={d.coverage} />
-                  <span className="text-[14px] font-semibold text-[#154273] inline-flex items-center gap-1">
+                  <span className="text-[13.5px] font-semibold text-[#154273] inline-flex items-center gap-1 whitespace-nowrap">
                     <span>{t("directory.viewOffices")}</span>
                     <span aria-hidden="true" className="group-hover:translate-x-0.5 transition-transform">→</span>
                   </span>

@@ -361,45 +361,47 @@ function IssueView({
 
   return (
     <div className="max-w-form mx-auto space-y-6">
-      <div className="space-y-3">
-        <Breadcrumbs variant="supporting">
-          <BreadcrumbItem href="/">{t("nav.home")}</BreadcrumbItem>
-          <BreadcrumbItem isCurrent>{title}</BreadcrumbItem>
-        </Breadcrumbs>
+      <div className="space-y-4">
+        <div className="flex flex-wrap items-center justify-between gap-2">
+          <Breadcrumbs variant="supporting">
+            <BreadcrumbItem href="/">{t("nav.home")}</BreadcrumbItem>
+            <BreadcrumbItem isCurrent>{title}</BreadcrumbItem>
+          </Breadcrumbs>
 
-        {/* Step Sequence Indicator */}
-        <div className="flex flex-wrap items-center gap-2 text-[13px] font-semibold">
-          <span className="px-2.5 py-1 rounded-[4px] bg-[#EBF1F6] text-[#154273]">
-            1. {t("issue.seqStep1")}
-          </span>
-          <span aria-hidden="true" className="text-muted">→</span>
-          <span
-            className={`px-2.5 py-1 rounded-[4px] ${
-              selectedDistrict && selectedPlace
-                ? "bg-[#EBF1F6] text-[#154273]"
-                : "bg-[#154273] text-white"
-            }`}
-          >
-            2. {t("issue.seqStep2")}
-          </span>
-          <span aria-hidden="true" className="text-muted">→</span>
-          <span
-            className={`px-2.5 py-1 rounded-[4px] ${
-              sequenceStep === 3
-                ? "bg-[#C84B16] text-white"
-                : "bg-mutedSurface text-muted"
-            }`}
-          >
-            3. {t("issue.seqStep3")}
-          </span>
+          {/* Compact Step Sequence Indicator */}
+          <div className="flex flex-wrap items-center gap-1.5 text-[12px] font-semibold">
+            <span className="px-2.5 py-1 rounded-full bg-[#EBF1F6] text-[#154273]">
+              1. {t("issue.seqStep1")}
+            </span>
+            <span aria-hidden="true" className="text-muted">→</span>
+            <span
+              className={`px-2.5 py-1 rounded-full ${
+                selectedDistrict && selectedPlace
+                  ? "bg-[#EBF1F6] text-[#154273]"
+                  : "bg-[#154273] text-white"
+              }`}
+            >
+              2. {t("issue.seqStep2")}
+            </span>
+            <span aria-hidden="true" className="text-muted">→</span>
+            <span
+              className={`px-2.5 py-1 rounded-full ${
+                sequenceStep === 3
+                  ? "bg-[#C84B16] text-white"
+                  : "bg-mutedSurface text-muted"
+              }`}
+            >
+              3. {t("issue.seqStep3")}
+            </span>
+          </div>
         </div>
 
-        <h1 className="font-editorial text-[30px] sm:text-[38px] font-bold text-text leading-tight">
+        <h1 className="page-title text-text">
           {title}
         </h1>
 
         {/* Quick 6-Issue Switcher preserving selected area */}
-        <div className="flex flex-wrap gap-1.5 pt-1" aria-label={t("issue.switchTopic")}>
+        <div className="flex flex-wrap gap-2" aria-label={t("issue.switchTopic")}>
           {ISSUE_LIST.map((item) => {
             const active = item.slug === slug;
             const qs = new URLSearchParams();
@@ -413,9 +415,10 @@ function IssueView({
               <Link
                 key={item.slug}
                 href={href}
-                className={`px-3 py-1.5 rounded-[4px] text-[13px] font-medium border transition-colors ${
+                aria-current={active ? "page" : undefined}
+                className={`px-3 py-1.5 rounded-[8px] text-[13px] font-medium border transition-colors ${
                   active
-                    ? "bg-[#154273] text-white border-[#154273]"
+                    ? "bg-[#154273] text-white border-[#154273] shadow-sm"
                     : "bg-surface text-text border-border hover:border-[#154273]"
                 }`}
               >
@@ -428,7 +431,7 @@ function IssueView({
 
       {/* Selected Area Summary Bar */}
       {selectedDistrict && selectedPlace && !editingArea && (
-        <div className="p-4 rounded-[6px] bg-[#EBF1F6] border border-[#154273]/30 flex flex-wrap items-center justify-between gap-3 text-[15px]">
+        <div className="p-4 rounded-[12px] bg-[#EBF1F6] border border-[#C6D4E2] flex flex-wrap items-center justify-between gap-3 text-[15px]">
           <div className="space-y-0.5">
             <span className="font-semibold text-[#154273] block">
               ✓{" "}
@@ -455,24 +458,24 @@ function IssueView({
 
       {/* STEP 2 PANEL: Inline PIN + District + Village/Block/Town Selector */}
       {editingArea && (
-        <div className="p-5 sm:p-6 rounded-[6px] border border-border bg-surface overflow-visible">
+        <div className="p-5 sm:p-6 rounded-[12px] border border-border bg-surface shadow-[0_1px_3px_rgba(22,27,34,0.04)] overflow-visible">
           <div className="space-y-4">
-            <div className="border-l-[3px] border-[#C84B16] pl-3.5">
+            <div className="border-l-[3px] border-[#C84B16] pl-3.5 space-y-1">
               <p className="text-[11px] font-bold uppercase tracking-[0.08em] text-[#C84B16]">
                 {t("issue.seqStep2")}
               </p>
               <Heading level={2}>{t("issue.areaHeading")}</Heading>
-              <Text as="p" type="supporting" color="secondary">
+              <Text as="p" display="block" type="supporting" color="secondary">
                 {t("issue.areaSub")}
               </Text>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 items-start">
               {/* Quick 6-digit PIN */}
-              <div className="space-y-2">
+              <div className="space-y-1.5">
                 <label
                   htmlFor="issue-pin-input"
-                  className="block text-[13px] font-bold uppercase tracking-[0.06em] text-muted"
+                  className="block text-[12px] font-bold uppercase tracking-[0.06em] text-muted"
                 >
                   {t("flow.quickPincode")}
                 </label>
@@ -481,6 +484,8 @@ function IssueView({
                     id="issue-pin-input"
                     type="text"
                     inputMode="numeric"
+                    autoComplete="postal-code"
+                    enterKeyHint="next"
                     maxLength={6}
                     value={pinInput}
                     onFocus={ensurePincodesLoaded}
@@ -492,7 +497,7 @@ function IssueView({
                       setPinInput(clean);
                     }}
                     placeholder={t("flow.pincodePlaceholder")}
-                    className="flex-1 min-h-btn px-3.5 py-2 bg-bg text-text text-[16px] tabular-nums border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none"
+                    className="flex-1 min-h-[46px] px-3.5 py-2 bg-[#FAF9F6] focus:bg-surface text-text text-[16px] tabular-nums border border-[#A8A295] rounded-[8px] focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
                   />
                   {pinInput && (
                     <button
@@ -555,9 +560,9 @@ function IssueView({
 
             {/* Village / Block / Town Picker once District is chosen */}
             {selectedDistrict && (
-              <div className="pt-3 border-t border-border space-y-3">
+              <div className="pt-4 border-t border-border space-y-3.5">
                 {pinMatchedPlaces.length > 0 && (
-                  <div className="p-3 rounded-[4px] bg-bg border border-border flex flex-wrap items-center justify-between gap-2">
+                  <div className="p-3 rounded-[8px] bg-[#FAF9F6] border border-border flex flex-wrap items-center justify-between gap-2">
                     <span className="text-[13px] font-semibold text-text">
                       {t("find.pinMatchesSummary", {
                         pin: pinInput,
@@ -568,7 +573,7 @@ function IssueView({
                       <button
                         type="button"
                         onClick={() => setPinScope("pin")}
-                        className={`px-2.5 py-1 text-[12px] font-semibold rounded-[4px] border transition-colors ${
+                        className={`px-3 py-1 text-[12px] font-semibold rounded-[8px] border transition-colors ${
                           pinScope === "pin"
                             ? "bg-[#154273] text-white border-[#154273]"
                             : "bg-surface text-muted border-border hover:border-[#154273]"
@@ -582,7 +587,7 @@ function IssueView({
                       <button
                         type="button"
                         onClick={() => setPinScope("all")}
-                        className={`px-2.5 py-1 text-[12px] font-semibold rounded-[4px] border transition-colors ${
+                        className={`px-3 py-1 text-[12px] font-semibold rounded-[8px] border transition-colors ${
                           pinScope === "all"
                             ? "bg-[#154273] text-white border-[#154273]"
                             : "bg-surface text-muted border-border hover:border-[#154273]"
@@ -601,7 +606,7 @@ function IssueView({
                   <div>
                     <label
                       htmlFor="issue-block-filter"
-                      className="block text-[12px] font-bold uppercase tracking-[0.06em] text-muted mb-1"
+                      className="block text-[12px] font-bold uppercase tracking-[0.06em] text-muted mb-1.5"
                     >
                       {t("find.blockFilterLabel")}
                     </label>
@@ -609,7 +614,7 @@ function IssueView({
                       id="issue-block-filter"
                       value={selectedBlockFilter}
                       onChange={(e) => setSelectedBlockFilter(e.target.value)}
-                      className="w-full min-h-[42px] px-3 py-2 bg-bg text-text text-[14px] border border-borderStrong rounded-[4px] focus:border-[#154273] focus-visible:outline-none"
+                      className="civic-select w-full min-h-[46px] px-3.5 py-2 bg-[#FAF9F6] focus:bg-surface text-text text-[14px] border border-[#A8A295] rounded-[8px] focus:border-[#154273] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#154273]/25 transition-colors"
                     >
                       <option value="all">
                         {t("find.allBlocksOption", { count: uniqueBlocks.length })}
@@ -624,7 +629,7 @@ function IssueView({
                 )}
 
                 <div className="flex flex-wrap items-center justify-between gap-2">
-                  <span className="text-[13px] font-bold uppercase tracking-[0.06em] text-muted">
+                  <span className="text-[12px] font-bold uppercase tracking-[0.06em] text-muted">
                     {t("issue.filterAreaType")}
                   </span>
                   <div className="flex flex-wrap gap-1.5">
@@ -640,10 +645,10 @@ function IssueView({
                         key={f.id}
                         type="button"
                         onClick={() => setPlaceFilter(f.id)}
-                        className={`px-2.5 py-1 text-[12px] font-semibold rounded-[4px] border transition-colors ${
+                        className={`px-3 py-1 text-[12px] font-semibold rounded-[8px] border transition-colors ${
                           placeFilter === f.id
                             ? "bg-[#154273] text-white border-[#154273]"
-                            : "bg-bg text-muted border-border hover:border-[#154273]"
+                            : "bg-[#FAF9F6] text-muted border-border hover:border-[#154273]"
                         }`}
                       >
                         {t(f.key)}
@@ -728,7 +733,7 @@ function IssueView({
 
       {/* STEP 3 ACTION PANEL: Direct Contact + 1076 Summary + Official Portal + Letter/RTI */}
       {resolution && primaryOfficer && (
-        <Card padding={5} variant="default" elevation="none">
+        <Card padding={5} variant="default" elevation="low">
           <div className="space-y-4">
             <div className="flex flex-wrap items-center justify-between gap-2">
               <div className="space-y-0.5">
@@ -743,14 +748,14 @@ function IssueView({
               />
             </div>
 
-            <div className="p-4 rounded-[6px] bg-[#EBF1F6]/70 border border-[#154273]/25 space-y-3">
+            <div className="p-4 rounded-[10px] bg-[#F2F6FA] border border-[#C6D4E2] space-y-3.5">
               <div className="flex flex-wrap items-start justify-between gap-2">
                 <div>
                   <h3 className="font-bold text-[18px] text-text leading-snug">
                     {getLocalized(primaryOfficer.office, "office_name", lang)}
                   </h3>
                   {getLocalized(primaryOfficer.office, "officer_name", lang) && (
-                    <p className="text-[14px] text-muted">
+                    <p className="text-[14px] text-muted mt-0.5">
                       {getLocalized(primaryOfficer.office, "officer_name", lang)}
                     </p>
                   )}
@@ -758,7 +763,7 @@ function IssueView({
                 {primaryPhone && <VerifiedBadge phone={primaryPhone} />}
               </div>
 
-              <div className="flex flex-wrap items-center gap-3">
+              <div className="flex flex-wrap items-center gap-2.5 pt-1 border-t border-[#D9E3EC]">
                 {primaryPhone ? (
                   <CallButton number={primaryPhone.number} />
                 ) : primaryFallbackPhone ? (
@@ -767,14 +772,14 @@ function IssueView({
 
                 <Link
                   href={`/letter/?${letterQs}`}
-                  className="min-h-btn inline-flex items-center justify-center px-5 py-2.5 bg-[#154273] hover:bg-[#0F3156] text-white font-semibold rounded-[4px] transition-colors text-[15px]"
+                  className="min-h-[44px] inline-flex items-center justify-center px-5 py-2 bg-[#154273] hover:bg-[#0F3156] text-white font-semibold rounded-[8px] transition-colors text-[14.5px]"
                 >
                   {t("issue.writeComplaintBtn")} →
                 </Link>
 
                 <Link
                   href={`/rti/?${letterQs}`}
-                  className="min-h-btn inline-flex items-center justify-center px-4 py-2.5 bg-surface hover:bg-bg border border-borderStrong text-text font-semibold rounded-[4px] transition-colors text-[15px]"
+                  className="min-h-[44px] inline-flex items-center justify-center px-4 py-2 bg-surface hover:bg-[#FAF9F6] border border-[#A8A295] text-text font-semibold rounded-[8px] transition-colors text-[14.5px]"
                 >
                   {t("results.rtiBtn")}
                 </Link>
@@ -782,7 +787,7 @@ function IssueView({
                 <button
                   type="button"
                   onClick={handleCopy1076Summary}
-                  className="min-h-btn inline-flex items-center justify-center px-4 py-2.5 bg-surface hover:bg-[#EBF1F6] border border-[#154273] text-[#154273] font-semibold rounded-[4px] transition-colors text-[14px]"
+                  className="min-h-[44px] inline-flex items-center justify-center px-4 py-2 bg-surface hover:bg-[#EBF1F6] border border-[#154273] text-[#154273] font-semibold rounded-[8px] transition-colors text-[13.5px]"
                 >
                   {copied1076 ? t("summary.copied1076") : t("summary.copy1076")}
                 </button>
@@ -790,14 +795,14 @@ function IssueView({
             </div>
 
             {/* Online Portals & Helplines matched to this issue & area */}
-            <div className="p-4 rounded-[6px] bg-[#154273] text-white space-y-3">
-              <p className="text-[12px] font-bold uppercase tracking-[0.08em] text-[#F39C72]">
+            <div className="p-4 rounded-[10px] bg-[#0F2C4C] text-white space-y-3">
+              <p className="text-[11px] font-bold uppercase tracking-[0.08em] text-[#F39C72]">
                 {t("issue.onlineHelplineLabel")}
               </p>
               <div className="flex flex-wrap items-center gap-2.5">
                 <a
                   href={`tel:${stateData?.cm_helpline?.number || "1076"}`}
-                  className="inline-flex items-center gap-2 px-4 py-2 bg-[#C84B16] hover:bg-[#AD3E0F] text-white font-semibold rounded-[4px] text-[14px] tabular-nums"
+                  className="inline-flex items-center gap-2 px-4 py-2 bg-[#C84B16] hover:bg-[#AD3E0F] text-white font-semibold rounded-[8px] text-[14px] tabular-nums transition-colors"
                 >
                   {t("helpline.call")}
                 </a>
@@ -805,7 +810,7 @@ function IssueView({
                   href={stateData?.jansunwai?.url || "https://jansunwai.up.nic.in"}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1.5 px-4 py-2 border border-white/30 hover:bg-white/10 text-white font-medium rounded-[4px] text-[14px]"
+                  className="inline-flex items-center gap-1.5 px-3.5 py-2 border border-white/30 hover:bg-white/10 text-white font-medium rounded-[8px] text-[14px] transition-colors"
                 >
                   <span>{t("results.jansunwaiLinkText")}</span>
                   <span aria-hidden="true">↗</span>
@@ -815,7 +820,7 @@ function IssueView({
                     {portal.helpline && (
                       <a
                         href={`tel:${portal.helpline.replace(/[^\d+]/g, "")}`}
-                        className="inline-flex items-center gap-1.5 px-3.5 py-2 bg-white/15 hover:bg-white/25 text-white font-semibold rounded-[4px] text-[14px] tabular-nums"
+                        className="inline-flex items-center gap-1.5 px-3.5 py-2 bg-white/15 hover:bg-white/25 text-white font-semibold rounded-[8px] text-[14px] tabular-nums transition-colors"
                       >
                         {t("results.call")} {portal.helpline}
                       </a>
@@ -824,7 +829,7 @@ function IssueView({
                       href={portal.url}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="inline-flex items-center gap-1.5 px-3.5 py-2 border border-white/30 hover:bg-white/10 text-white font-medium rounded-[4px] text-[14px]"
+                      className="inline-flex items-center gap-1.5 px-3.5 py-2 border border-white/30 hover:bg-white/10 text-white font-medium rounded-[8px] text-[14px] transition-colors"
                     >
                       <span>{lang === "hi" ? portal.name_hi : portal.name_en}</span>
                       <span aria-hidden="true">↗</span>
@@ -838,10 +843,10 @@ function IssueView({
       )}
 
       {/* Escalation Ladder Section (with exact local Call buttons once area is picked) */}
-      <Card padding={5} variant="default" elevation="none">
+      <Card padding={5} variant="default" elevation="low">
         <section aria-labelledby="ladder-heading">
           <div className="flex flex-wrap items-center justify-between gap-2 mb-6">
-            <h2 id="ladder-heading" className="font-editorial text-[22px] sm:text-[26px] font-bold text-text">
+            <h2 id="ladder-heading" className="text-[22px] sm:text-[25px] font-bold text-text tracking-[-0.02em]">
               {t("ladder.title")}
             </h2>
             {issueStepsData?.isUrbanFlow && (
@@ -872,7 +877,7 @@ function IssueView({
             <Heading level={3}>
               {t("letter.title")} / {t("rti.title")}
             </Heading>
-            <Text as="p" type="supporting" color="secondary">
+            <Text as="p" display="block" type="supporting" color="secondary">
               {t("home.sub")}
             </Text>
           </div>
@@ -880,13 +885,13 @@ function IssueView({
           <div className="flex flex-wrap items-center gap-3 w-full sm:w-auto">
             <Link
               href={`/letter/?${letterQs}`}
-              className="flex-1 sm:flex-none text-center min-h-btn inline-flex items-center justify-center px-5 py-2.5 bg-[#154273] hover:bg-[#0F3156] text-white font-semibold rounded-[4px] transition-colors text-[15px]"
+              className="flex-1 sm:flex-none text-center min-h-[46px] inline-flex items-center justify-center px-5 py-2.5 bg-[#154273] hover:bg-[#0F3156] text-white font-semibold rounded-[8px] transition-colors text-[15px]"
             >
               {t("letter.title")}
             </Link>
             <Link
               href={`/rti/?${letterQs}`}
-              className="flex-1 sm:flex-none text-center min-h-btn inline-flex items-center justify-center px-5 py-2.5 bg-surface hover:bg-bg border border-borderStrong text-text font-semibold rounded-[4px] transition-colors text-[15px]"
+              className="flex-1 sm:flex-none text-center min-h-[46px] inline-flex items-center justify-center px-5 py-2.5 bg-surface hover:bg-[#FAF9F6] border border-[#A8A295] text-text font-semibold rounded-[8px] transition-colors text-[15px]"
             >
               {t("rti.title")}
             </Link>

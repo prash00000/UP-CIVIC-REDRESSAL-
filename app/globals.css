@@ -2,15 +2,10 @@
 @import "@fontsource/inter/500.css";
 @import "@fontsource/inter/600.css";
 @import "@fontsource/inter/700.css";
-@import "@fontsource/source-serif-4/400.css";
-@import "@fontsource/source-serif-4/600.css";
-@import "@fontsource/source-serif-4/700.css";
 @import "@fontsource/noto-sans-devanagari/400.css";
+@import "@fontsource/noto-sans-devanagari/500.css";
 @import "@fontsource/noto-sans-devanagari/600.css";
 @import "@fontsource/noto-sans-devanagari/700.css";
-@import "@fontsource/noto-serif-devanagari/400.css";
-@import "@fontsource/noto-serif-devanagari/600.css";
-@import "@fontsource/noto-serif-devanagari/700.css";
 
 @import "@astryxdesign/core/reset.css";
 @import "@astryxdesign/core/astryx.css";
@@ -23,9 +18,9 @@
 @tailwind utilities;
 
 :root {
-  --color-bg: #F7F6F2;
+  --color-bg: #F6F5F0;
   --color-surface: #FFFFFF;
-  --color-border: #D8D4CA;
+  --color-border: #DDD9CF;
   --color-text: #161B22;
   --color-muted: #4A515B;
   --color-primary: #154273;
@@ -40,14 +35,17 @@ html {
   font-family: "Inter", "Noto Sans Devanagari", system-ui, -apple-system, sans-serif;
   color: var(--color-text);
   background-color: var(--color-bg);
-  line-height: 1.5;
+  line-height: 1.55;
+  scroll-padding-top: 4.5rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
 
 html.lang-hi,
 html[lang="hi"] {
   font-family: "Noto Sans Devanagari", "Inter", system-ui, sans-serif;
-  line-height: 1.6;
+  line-height: 1.65;
 }
 
 body {
@@ -56,22 +54,83 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background-color: var(--color-background-body, #F7F6F2);
+  background-color: var(--color-background-body, #F6F5F0);
   color: var(--color-text-primary, #161B22);
 }
 
+/* Deliberate text wrapping rules without global wildcard overhead */
+h1,
+h2,
+h3 {
+  text-wrap: balance;
+}
+
+p {
+  text-wrap: pretty;
+}
+
+/* Crisp unified modern display font (replaced heavy serif walls while keeping semantic class hook) */
 .font-editorial {
-  font-family: "Source Serif 4", "Noto Serif Devanagari", Georgia, serif;
+  font-family: "Inter", "Noto Sans Devanagari", system-ui, -apple-system, sans-serif;
+  letter-spacing: -0.02em;
+}
+
+.page-title {
+  font-family: "Inter", "Noto Sans Devanagari", system-ui, -apple-system, sans-serif;
+  font-size: clamp(1.75rem, 1.35rem + 1.8vw, 2.65rem);
+  line-height: 1.15;
+  letter-spacing: -0.025em;
+  font-weight: 700;
+  text-wrap: balance;
 }
 
 .tabular-nums {
   font-variant-numeric: tabular-nums;
 }
 
-/* Accessible Delft Navy focus ring */
-*:focus-visible {
+/* Accessible high-contrast focus ring (only keyboard focus) */
+:where(a, button, input, select, textarea, summary, [tabindex]):focus-visible {
   outline: 2px solid #154273;
   outline-offset: 2px;
+}
+
+/* Clean interactive surface feedback honoring reduced-motion preference */
+.civic-card-interactive {
+  transition: border-color 150ms ease-out, box-shadow 150ms ease-out, background-color 150ms ease-out;
+  box-shadow: var(--shadow-low, 0 1px 3px rgba(22, 27, 34, 0.05));
+}
+
+.civic-card-interactive:hover {
+  border-color: #154273;
+  box-shadow: var(--shadow-med, 0 4px 12px rgba(22, 27, 34, 0.08));
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .civic-card-interactive {
+    transition:
+      border-color 160ms ease-out,
+      box-shadow 160ms ease-out,
+      background-color 160ms ease-out,
+      transform 160ms ease-out;
+  }
+
+  .civic-card-interactive:hover {
+    transform: translateY(-1px);
+  }
+
+  .civic-card-interactive:active {
+    transform: translateY(0) scale(0.992);
+  }
+}
+
+/* Custom accessible native select chevron */
+.civic-select {
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%234A515B' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.85rem center;
+  background-size: 1rem 1rem;
+  padding-right: 2.5rem;
 }
 
 /* Print CSS */

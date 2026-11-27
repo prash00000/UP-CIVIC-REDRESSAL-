@@ -212,7 +212,7 @@ test.describe("UP Civic Grievance E2E Flows", () => {
     await expect(page.locator("h4", { hasText: "Acknowledgment copy" })).toBeVisible();
 
     // 2. Check rural drain ladder includes SDM (Tehsil Samadhan Diwas) + /rti/ road prefill
-    await page.goto("/issue/drain/?district=jaunpur&place=block-badlapur");
+    await page.goto("/issue/drain/?district=jaunpur&place=block-jaunpur-badlapur");
     await expect(page.locator("section[aria-labelledby='ladder-heading']")).toContainText(
       "Sub-Divisional Magistrate (SDM)"
     );
